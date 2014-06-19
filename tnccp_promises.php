@@ -4,18 +4,18 @@ $path = __DIR__;
 
 $data = json_decode(file_get_contents('tnccp.json'), true);
 
-$promises = array();
+$platform = array();
 
-foreach ($data AS $p) {
+foreach ($data AS $dataKey => $p) {
     switch ($p['name']) {
         case '李退之':
-            $items = explode('(', $p['promises']);
+            $items = explode('(', $p['platform']);
             break;
         case '曾王雅雲':
             $items = array();
             break;
         default:
-            $items = explode('。', $p['promises']);
+            $items = explode('。', $p['platform']);
     }
     foreach ($items AS $k => $v) {
         $v = trim($v);
@@ -165,7 +165,7 @@ foreach ($data AS $p) {
                 case '邱莉莉':
                     $items[$k] = substr($v, strpos($v, '、') + 3);
                     if ($k === 4)
-                        $items[$k] = substr($items[$k], strpos($items[$k], '、') + 3);
+                        $items[$k] = substr($items[$k], strpos($items [$k], '、') + 3);
                     break;
                 case '洪玉鳳':
                     switch ($k) {
@@ -208,7 +208,7 @@ foreach ($data AS $p) {
                             break;
                         case 10:
                             $items[$k] = substr($v, strpos($v, '、') + 3);
-                            $items[$k] .= '，' . $items[11];
+                            $items [$k] .= '，' . $items[11];
                             break;
                         default:
                             $items[$k] = substr($v, strpos($v, '、') + 3);
@@ -282,20 +282,12 @@ foreach ($data AS $p) {
             }
         }
     }
-    
-    if(!empty($items)) {
-        $p['promises'] = '';
-        foreach($items AS $item) {
-            $p['promises'] .= "# {$item}\n";
-        }
+
+    if (!empty($items)) {
+        $data[$dataKey]['platform'] = $items;
     }
-    
-    if(!isset($promises[$p['title']])) {
-        $promises[$p['title']] = array();
-    }
-    $promises[$p['title']][] = "::: {$p['name']} ::: \n\n{$p['promises']}";
-    
 }
-foreach($promises AS $title => $items) {
-    file_put_contents($title, $title . " 政見整理\n\n\n" . implode("\n", $items));
-}
+
+file_put_contents('tnccp.json', json_encode($data));
+
+print_r($data);
