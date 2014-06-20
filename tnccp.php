@@ -55,7 +55,9 @@ foreach ($matches[0] AS $lMatch) {
                 'email' => '',
                 'address' => '',
             ),
-            'url' => $pUrl,
+            'links' => array(
+                'council' => $pUrl
+            ),
             'gender' => '',
             'image' => '',
             'experience' => '',
@@ -65,12 +67,13 @@ foreach ($matches[0] AS $lMatch) {
             'constituency' => '臺南市' . $pTitle[0],
             'education' => '',
             'group' => '',
+            'ad' => '1',
         );
         $imagePos = strpos($pContent, '/warehouse/');
-        if(false !== $imagePos) {
+        if (false !== $imagePos) {
             $imagePosEnd = strpos($pContent, '"', $imagePos);
             $imagePaths = explode('/', substr($pContent, $imagePos, $imagePosEnd - $imagePos));
-            foreach($imagePaths AS $imagePathKey => $imagePath) {
+            foreach ($imagePaths AS $imagePathKey => $imagePath) {
                 $imagePaths[$imagePathKey] = urlencode($imagePath);
             }
             $pProfile['image'] = 'http://www.tncc.gov.tw' . implode('/', $imagePaths);
@@ -107,11 +110,11 @@ foreach ($matches[0] AS $lMatch) {
         $tokenKey = false;
         foreach ($pLines AS $pLine) {
             if (false !== $tokenKey) {
-                if($tokenKey !== 'platform') {
+                if ($tokenKey !== 'platform') {
                     $pProfile[$tokenKey] = explode("\t", $pLine);
-                    foreach($pProfile[$tokenKey] AS $uKey => $uVal) {
+                    foreach ($pProfile[$tokenKey] AS $uKey => $uVal) {
                         $uVal = trim($uVal);
-                        if(!empty($uVal)) {
+                        if (!empty($uVal)) {
                             $pProfile[$tokenKey][$uKey] = $uVal;
                         } else {
                             unset($pProfile[$tokenKey][$uKey]);
@@ -121,8 +124,6 @@ foreach ($matches[0] AS $lMatch) {
                     $pProfile[$tokenKey] = $pLine;
                 }
                 $tokenKey = false;
-                
-                
             } else {
                 switch ($pLine) {
                     case '學　歷':
