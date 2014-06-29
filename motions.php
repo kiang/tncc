@@ -12,13 +12,29 @@ if (!file_exists($itemFolder)) {
     mkdir($itemFolder, 0777, true);
 }
 
-for ($i = 1; $i <= 142; $i++) {
+$finalPage = 142;
+$finalPageUpdated = false;
+
+for ($i = 1; $i <= $finalPage; $i++) {
     $url = 'http://www.tncc.gov.tw/motions/default1.asp?status=^&menu1=A00000&topage=' . $i;
     $cacheFile = $listFolder . '/' . md5($url);
     if (!file_exists($cacheFile)) {
         file_put_contents($cacheFile, file_get_contents($url));
     }
     $listContent = file_get_contents($cacheFile);
+    if(false === $finalPageUpdated) {
+        $pageParts = explode('topage=', $listContent);
+        foreach($pageParts AS $pagePart) {
+            $pagePart = substr($pagePart, 0, 50);
+            if(false !== strpos($pagePart, 'menu1')) {
+                $getPage = intval(substr($pagePart, 0, strpos($pagePart, '&')));
+                if($getPage > $finalPage) {
+                    $finalPage = $getPage;
+                }
+            }
+        }
+        $finalPageUpdated = true;
+    }
     $listContent = substr($listContent, strpos($listContent, 'id="printa"') + 12);
     $listContent = substr($listContent, 0, strpos($listContent, '</table>'));
     $listLines = explode('</tr>', $listContent);
