@@ -69,6 +69,9 @@ for ($i = 1; $i <= $totalPages; $i++) {
     }
 }
 
+$tnccp = json_decode(file_get_contents($path . '/tnccp/tnccp.json'), true);
+$counters = array();
+
 foreach ($fileList AS $r) {
     foreach ($r[2] AS $fileUri) {
         $cachedFile = $cacheFolder . '/' . md5($fileUri);
@@ -88,17 +91,50 @@ foreach ($fileList AS $r) {
                 print_r($r);
             }
         }
-        continue;
-        $txtContent = file_get_contents($txtFile);
-        $pos = strpos($txtContent, '議員出缺席表');
-        while (false !== $pos) {
-            $posEnd = strpos($txtContent, "\n", $pos);
-            $line = substr($txtContent, $pos, $posEnd - $pos);
-            echo "{$line}\n";
+        $eKey = substr($r[1], 0, strrpos($r[1], '會') + 3);
 
-            $pos = strpos($txtContent, '議員出缺席表', $pos + 1);
+        $txtContent = file_get_contents($txtFile);
+        foreach ($tnccp AS $p) {
+            if (false !== strpos($p['name'], '谷暮')) {
+                $nameKey = mb_substr($p['name'], 0, 2, 'utf-8');
+            } else {
+                $nameKey = $p['name'];
+            }
+
+            if (!isset($counters[$p['name']])) {
+                $counters[$p['name']] = array(
+                    '第1次定期會暨第1-4次臨時會' => array(1 => 0, 2 => 0, 3 => 0),
+                    '第1屆第2次定期會暨第5-6次臨時會' => array(1 => 0, 2 => 0, 3 => 0),
+                    '第3次定期會暨第7次臨時會' => array(1 => 0, 2 => 0, 3 => 0),
+                    '第1屆第8次臨時會' => array(1 => 0, 2 => 0, 3 => 0),
+                    '第1屆第4次定期大會' => array(1 => 0, 2 => 0, 3 => 0),
+                    '第1屆第5次定期大會' => array(1 => 0, 2 => 0, 3 => 0),
+                    '第1屆第6次定期大會' => array(1 => 0, 2 => 0, 3 => 0),
+                );
+            }
+
+            $pos = strpos($txtContent, $nameKey);
+            while (false !== $pos) {
+                $posEnd = strpos($txtContent, "\n", $pos);
+                $line = substr($txtContent, $pos, $posEnd - $pos);
+                $wCounter = array(
+                    1 => substr_count($line, '○'),
+                    2 => substr_count($line, '△'),
+                    3 => substr_count($line, '×'),
+                );
+                if ($wCounter[1] + $wCounter[2] + $wCounter[3] > 0) {
+                    //echo "{$line}\n" . implode(',', $wCounter) . "\n";
+                    $counters[$p['name']][$eKey][1] += $wCounter[1];
+                    $counters[$p['name']][$eKey][2] += $wCounter[2];
+                    $counters[$p['name']][$eKey][3] += $wCounter[3];
+                    //echo implode(',', $counters[$p['name']]) . "\n";
+                }
+
+                $pos = strpos($txtContent, $nameKey, $pos + 1);
+            }
         }
     }
 }
 
-//file_put_contents($resultFolder . '/list_journals.json', json_encode($fileList));
+file_put_contents($resultFolder . '/list_journals.json', json_encode($fileList));
+file_put_contents($resultFolder . '/journals_attendances.json', json_encode($counters));
