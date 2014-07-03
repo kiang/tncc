@@ -72,22 +72,33 @@ for ($i = 1; $i <= $totalPages; $i++) {
 foreach ($fileList AS $r) {
     foreach ($r[2] AS $fileUri) {
         $cachedFile = $cacheFolder . '/' . md5($fileUri);
+        $txtFile = $resultFolder . '/' . date('Ymd', strtotime($r[0])) . '_' . $r[1] . '.txt';
         if (!file_exists($cachedFile)) {
             $fileUri = str_replace(array(' '), array('%20'), $fileUri);
             file_put_contents($cachedFile, file_get_contents('http://www.tncc.gov.tw/' . $fileUri));
         }
         if (filesize($cachedFile) == 0) {
             unlink($cachedFile);
-        } elseif (!file_exists($resultFolder . '/' . str_replace('/', '', $r[0]) . '_' . $r[1] . '.txt')) {
+        } elseif (!file_exists($txtFile)) {
             exec("java -cp /usr/share/java/commons-logging.jar:/usr/share/java/fontbox.jar:/usr/share/java/pdfbox.jar org.apache.pdfbox.PDFBox ExtractText {$cachedFile} tmp.txt");
             if (file_exists('tmp.txt')) {
-                copy('tmp.txt', $resultFolder . '/' . str_replace('/', '', $r[0]) . '_' . $r[1] . '.txt');
+                copy('tmp.txt', $txtFile);
                 unlink('tmp.txt');
             } else {
                 print_r($r);
             }
         }
+        continue;
+        $txtContent = file_get_contents($txtFile);
+        $pos = strpos($txtContent, '議員出缺席表');
+        while (false !== $pos) {
+            $posEnd = strpos($txtContent, "\n", $pos);
+            $line = substr($txtContent, $pos, $posEnd - $pos);
+            echo "{$line}\n";
+
+            $pos = strpos($txtContent, '議員出缺席表', $pos + 1);
+        }
     }
 }
 
-file_put_contents($resultFolder . '/list_journals.json', json_encode($fileList));
+//file_put_contents($resultFolder . '/list_journals.json', json_encode($fileList));
