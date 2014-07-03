@@ -2,7 +2,7 @@
 
 $path = __DIR__;
 
-$data = json_decode(file_get_contents('tnccp.json'), true);
+$data = json_decode(file_get_contents(__DIR__ . '/tnccp.json'), true);
 
 $platform = array();
 
@@ -289,4 +289,4 @@ foreach ($data AS $dataKey => $p) {
     }
 }
 
-file_put_contents('tnccp.json', json_encode($data));
+file_put_contents(__DIR__ . '/tnccp.json', json_encode($data));

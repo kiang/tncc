@@ -1,0 +1,23 @@
+<?php
+
+$fh = fopen('address-20140701.csv', 'r');
+fgetcsv($fh, 2048);
+fgetcsv($fh, 2048);
+$address = array();
+while ($line = fgetcsv($fh, 2048)) {
+    $address[$line[2]] = $line;
+}
+fclose($fh);
+
+$data = json_decode(file_get_contents('tnccp.json'), true);
+
+foreach ($data AS $k => $p) {
+    if (isset($address[$p['name']])) {
+        $data[$k]['contacts']['address_postcode'] = $address[$p['name']][4];
+        $data[$k]['contacts']['address'] = $address[$p['name']][5];
+        $data[$k]['contacts']['phone'] = $address[$p['name']][6];
+        $data[$k]['contacts']['fax'] = $address[$p['name']][7];
+    }
+}
+
+file_put_contents(__DIR__ . '/tnccp.json', json_encode($data));

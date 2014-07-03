@@ -1,7 +1,8 @@
 <?php
 
-$path = __DIR__;
+$path = dirname(__DIR__);
 $cacheFolder = $path . '/cache';
+
 if (!file_exists($cacheFolder)) {
     mkdir($cacheFolder, 0777, true);
 }
@@ -146,4 +147,4 @@ foreach ($lMatches[0] AS $k => $lMatch) {
     }
 }
 
-file_put_contents('tnccp.json', json_encode($data));
+file_put_contents($path . '/tnccp/tnccp.json', json_encode($data));
