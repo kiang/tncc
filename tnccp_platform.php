@@ -268,6 +268,7 @@ foreach ($data AS $dataKey => $p) {
                     $items[$k] = substr($v, strpos($v, ') ') + 2);
                     break;
                 case '許至椿':
+                case '谷暮．哈就':
                     $items[$k] = substr($v, strpos($v, ')') + 1);
                     break;
                 case '侯澄財':
@@ -289,5 +290,3 @@ foreach ($data AS $dataKey => $p) {
 }
 
 file_put_contents('tnccp.json', json_encode($data));
-
-print_r($data);
