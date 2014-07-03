@@ -15,15 +15,19 @@ if (!file_exists($listFile)) {
 
 $listText = mb_convert_encoding(file_get_contents($listFile), 'utf8', 'big5');
 
-$matches = array();
+$lMatches = array();
 
-preg_match_all('/<h1 class="style1">[^\'"]*<\\/h1>/i', $listText, $matches);
+preg_match_all('/<h1 class="style1">[^\'"]*<\\/h1>/i', $listText, $lMatches);
 
-foreach ($matches[0] AS $lMatch) {
+foreach ($lMatches[0] AS $k => $lMatch) {
     $tPosBegin = strpos($listText, $lMatch);
-    $tPosEnd = strpos($listText, '<h1', $tPosBegin + 10);
+    if($k === 17) {
+        $tPosEnd = strpos($listText, '</table>', $tPosBegin + 10);
+    } else {
+        $tPosEnd = strpos($listText, '<h1', $tPosBegin + 10);
+    }
     preg_match_all('/CName=[^\'"]*/i', substr($listText, $tPosBegin, $tPosEnd - $tPosBegin), $matches);
-
+    
     foreach ($matches[0] AS $match) {
         $pUrl = 'http://www.tncc.gov.tw/tnccp/ccp_01a.asp?CName=' . urlencode(substr(mb_convert_encoding($match, 'big5', 'utf8'), 6));
         $pFile = $cacheFolder . '/p_' . md5($pUrl);
@@ -143,5 +147,3 @@ foreach ($matches[0] AS $lMatch) {
 }
 
 file_put_contents('tnccp.json', json_encode($data));
-
-print_r($data);
