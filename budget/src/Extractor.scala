@@ -15,15 +15,17 @@ object Extractor extends App {
   new java.io.File("pdf").listFiles.filter(_.getName.endsWith(".pdf")).foreach((f) => {
     println(s"processing: ${f}")
     val doc = PDDocument.load(f)
-    val printer = new PrintTextLocations(new File(s"${f}.csv"))
     val pages: List[PDPage] = doc.getDocumentCatalog().getAllPages().asScala.toList.asInstanceOf[List[PDPage]]
+    var pNum = 0
     pages.foreach((p) => {
+      pNum+=1
       val contents = p.getContents
+      val printer = new PrintTextLocations(new File(s"${f}_${pNum}.csv"))
       if (contents != null) {
         printer.processStream(p, p.findResources, p.getContents.getStream)
       }
+      printer.close
     })
-    printer.close
     doc.close
   })
 }
