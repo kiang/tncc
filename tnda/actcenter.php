@@ -49,7 +49,8 @@ for ($i = 1; $i <= $totalPages; $i++) {
         }
         $cols[1] = trim(strip_tags($cols[1]));
         $cols[2] = explode('}">', $cols[2]);
-        $cols[2][0] = 'http://tnda.tainan.gov.tw/acthouse/actpage.asp?mainid=' . substr($cols[2][0], strpos($cols[2][0], '={') + 2);
+        $actcenterId = substr($cols[2][0], strpos($cols[2][0], '={') + 2);
+        $cols[2][0] = 'http://tnda.tainan.gov.tw/acthouse/actpage.asp?mainid=' . $actcenterId;
         $cols[2][1] = trim(strip_tags($cols[2][1]));
         $cols[3] = trim(strip_tags($cols[3]));
         $cols[4] = trim(strip_tags($cols[4]));
@@ -60,6 +61,36 @@ for ($i = 1; $i <= $totalPages; $i++) {
         } else {
             $cols[5] = array();
         }
+
+        $cachedFile = $cacheFolder . '/' . $actcenterId;
+        if (!file_exists($cachedFile)) {
+            file_put_contents($cachedFile, file_get_contents($cols[2][0]));
+        }
+        $actcenter = file_get_contents($cachedFile);
+        $actcenter = substr($actcenter, strpos($actcenter, 'summary="場地借用"'));
+        $atpos = strpos($actcenter, '>');
+        $actcenter = substr($actcenter, $atpos + 1, strpos($actcenter, '</table>') - $atpos - 1);
+        $actLines = explode('</tr>', $actcenter);
+        $places = array();
+        foreach ($actLines AS $actLine) {
+            if (false !== strpos($actLine, '<td>')) {
+                $actCols = explode('</td>', $actLine);
+                $placeIdPos = strpos($actCols[5], '={') + 2;
+                $actCols[5] = substr($actCols[5], $placeIdPos, strpos($actCols[5], '}') - $placeIdPos);
+                foreach ($actCols AS $k => $v) {
+                    $actCols[$k] = trim(strip_tags($v));
+                }
+                $places[] = array(
+                    'name' => $actCols[0],
+                    'url' => 'http://tnda.tainan.gov.tw/acthouse/online.asp?mainid=' . $actCols[5],
+                    'air_conditioner' => ($actCols[1] === '有') ? 'yes' : 'no',
+                    'ktv' => ($actCols[2] === '有') ? 'yes' : 'no',
+                    'projector' => ($actCols[3] === '有') ? 'yes' : 'no',
+                    'capacity' => intval($actCols[4]),
+                );
+            }
+        }
+
         $data[] = array(
             'name' => $cols[2][1],
             'url' => $cols[2][0],
@@ -69,6 +100,7 @@ for ($i = 1; $i <= $totalPages; $i++) {
             'contact' => $cols[4],
             'latitude' => $cols[5][0],
             'longitude' => $cols[5][1],
+            'places' => $places,
         );
     }
 }
