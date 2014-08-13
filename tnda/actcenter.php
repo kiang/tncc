@@ -66,8 +66,8 @@ for ($i = 1; $i <= $totalPages; $i++) {
         if (!file_exists($cachedFile)) {
             file_put_contents($cachedFile, file_get_contents($cols[2][0]));
         }
-        $actcenter = file_get_contents($cachedFile);
-        $actcenter = substr($actcenter, strpos($actcenter, 'summary="場地借用"'));
+        $actcenterOrig = file_get_contents($cachedFile);
+        $actcenter = substr($actcenterOrig, strpos($actcenterOrig, 'summary="場地借用"'));
         $atpos = strpos($actcenter, '>');
         $actcenter = substr($actcenter, $atpos + 1, strpos($actcenter, '</table>') - $atpos - 1);
         $actLines = explode('</tr>', $actcenter);
@@ -91,18 +91,44 @@ for ($i = 1; $i <= $totalPages; $i++) {
             }
         }
 
+        $managerPos = strpos($actcenterOrig, '<strong>管理人員：</strong>') + strlen('<strong>管理人員：</strong>');
+        $sizePos = strpos($actcenterOrig, '<strong>總   面    積  ：</strong>') + strlen('<strong>總   面    積  ：</strong>');
+        $builtPos = strpos($actcenterOrig, '<strong>竣工日期：</strong>') + strlen('<strong>竣工日期：</strong>');
+
         $data[] = array(
             'name' => $cols[2][1],
             'url' => $cols[2][0],
             'image' => $cols[0],
             'area' => $cols[1],
             'address' => $cols[3],
+            'manager' => substr($actcenterOrig, $managerPos, strpos($actcenterOrig, '<', $managerPos) - $managerPos),
             'contact' => $cols[4],
             'latitude' => $cols[5][0],
             'longitude' => $cols[5][1],
+            'size' => substr($actcenterOrig, $sizePos, strpos($actcenterOrig, '<', $sizePos) - $sizePos),
+            'built' => substr($actcenterOrig, $builtPos, strpos($actcenterOrig, '<', $builtPos) - $builtPos),
             'places' => $places,
         );
     }
 }
+
+//$fh = fopen(__DIR__ . '/actcenter.csv', 'w');
+//foreach ($data AS $actcenter) {
+//    if ($actcenter['area'] === '北區') {
+//        foreach ($actcenter['places'] AS $place) {
+//            fputcsv($fh, array(
+//                $actcenter['name'] . $place['name'],
+//                $place['air_conditioner'],
+//                $place['ktv'],
+//                $place['projector'],
+//                $place['capacity'],
+//                $place['url'],
+//                $actcenter['manager'],
+//                '[' . $actcenter['contact'] . ']',
+//                $actcenter['address'],
+//            ));
+//        }
+//    }
+//}
 
 file_put_contents(__DIR__ . '/actcenter.json', json_encode($data));
