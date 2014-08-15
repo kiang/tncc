@@ -13,10 +13,9 @@ $data = json_decode(file_get_contents('tnccp.json'), true);
 
 foreach ($data AS $k => $p) {
     if (isset($address[$p['name']])) {
-        $data[$k]['contacts']['address_postcode'] = $address[$p['name']][4];
-        $data[$k]['contacts']['address'] = $address[$p['name']][5];
-        $data[$k]['contacts']['phone'] = $address[$p['name']][6];
-        $data[$k]['contacts']['fax'] = $address[$p['name']][7];
+        $data[$k]['each_terms'][0]['contact_details'][3]['value'] = $address[$p['name']][4] . $address[$p['name']][5];
+        $data[$k]['each_terms'][0]['contact_details'][1]['value'] = $address[$p['name']][6];
+        $data[$k]['each_terms'][0]['contact_details'][2]['value'] = $address[$p['name']][7];
     }
 }
 

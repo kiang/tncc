@@ -22,13 +22,13 @@ preg_match_all('/<h1 class="style1">[^\'"]*<\\/h1>/i', $listText, $lMatches);
 
 foreach ($lMatches[0] AS $k => $lMatch) {
     $tPosBegin = strpos($listText, $lMatch);
-    if($k === 17) {
+    if ($k === 17) {
         $tPosEnd = strpos($listText, '</table>', $tPosBegin + 10);
     } else {
         $tPosEnd = strpos($listText, '<h1', $tPosBegin + 10);
     }
     preg_match_all('/CName=[^\'"]*/i', substr($listText, $tPosBegin, $tPosEnd - $tPosBegin), $matches);
-    
+
     foreach ($matches[0] AS $match) {
         $pUrl = 'http://www.tncc.gov.tw/tnccp/ccp_01a.asp?CName=' . urlencode(substr(mb_convert_encoding($match, 'big5', 'utf8'), 6));
         $pFile = $cacheFolder . '/p_' . md5($pUrl);
@@ -50,29 +50,64 @@ foreach ($lMatches[0] AS $k => $lMatch) {
         }
         $pTitle = preg_split('/[\\(\\)]/i', strip_tags($lMatch));
         $pProfile = array(
-            'remark' => array(),
+            'url' => '',
+            'uid' => '',
             'name' => '',
-            'district' => $pTitle[1],
-            'contacts' => array(
-                'website' => '',
-                'phone' => '',
-                'fax' => '',
-                'email' => '',
-                'address' => '',
-            ),
-            'links' => array(
-                'council' => $pUrl
-            ),
-            'gender' => '',
-            'image' => '',
-            'experience' => '',
-            'platform' => '',
             'birth' => '',
-            'party' => '',
-            'constituency' => '臺南市' . $pTitle[0],
-            'education' => '',
-            'group' => '',
-            'ad' => '1',
+            'former_names' => '',
+            'each_terms' => array(
+                0 => array(
+                    'contact_details' => array(
+                        0 => array(
+                            'label' => '電子信箱',
+                            'type' => 'email',
+                            'value' => '',
+                        ),
+                        1 => array(
+                            'label' => '電話',
+                            'type' => 'voice',
+                            'value' => '',
+                        ),
+                        2 => array(
+                            'label' => '傳真',
+                            'type' => 'fax',
+                            'value' => '',
+                        ),
+                        3 => array(
+                            'label' => '通訊處',
+                            'type' => 'address',
+                            'value' => '',
+                        ),
+                    ),
+                    'term_end' => array(
+                        'date' => '2014-12-25',
+                    ),
+                    'links' => array(
+                        0 => array(
+                            'note' => '議會個人官網',
+                            'url' => $pUrl,
+                        ),
+                    ),
+                    'social_media' => array(),
+                    'url' => '',
+                    'councilor' => '',
+                    'election_year' => '2010',
+                    'name' => '',
+                    'gender' => '',
+                    'party' => '',
+                    'title' => '',
+                    'constituency' => '臺南市' . $pTitle[0],
+                    'county' => '',
+                    'district' => $pTitle[1],
+                    'in_office' => true,
+                    'term_start' => '2010-12-25',
+                    'education' => '',
+                    'experience' => '',
+                    'remark' => '',
+                    'image' => '',
+                    'platform' => '',
+                ),
+            ),
         );
         $imagePos = strpos($pContent, '/warehouse/');
         if (false !== $imagePos) {
@@ -81,10 +116,10 @@ foreach ($lMatches[0] AS $k => $lMatch) {
             foreach ($imagePaths AS $imagePathKey => $imagePath) {
                 $imagePaths[$imagePathKey] = urlencode($imagePath);
             }
-            $pProfile['image'] = 'http://www.tncc.gov.tw' . implode('/', $imagePaths);
+            $pProfile['each_terms'][0]['image'] = 'http://www.tncc.gov.tw' . implode('/', $imagePaths);
         }
         if (isset($pLines[14]) && false !== strpos($pLines[14], '姓名：')) {
-            $pProfile['name'] = substr($pLines[14], 9);
+            $pProfile['name'] = $pProfile['each_terms'][0]['name'] = substr($pLines[14], 9);
         } else {
             continue;
         }
@@ -92,41 +127,41 @@ foreach ($lMatches[0] AS $k => $lMatch) {
             $pProfile['birth'] = substr($pLines[17], 9);
         }
         if (isset($pLines[18]) && false !== strpos($pLines[18], '性別：')) {
-            $pProfile['gender'] = substr($pLines[18], 9);
+            $pProfile['each_terms'][0]['gender'] = substr($pLines[18], 9);
         }
         if (isset($pLines[21]) && false !== strpos($pLines[21], '黨籍：')) {
-            $pProfile['party'] = substr($pLines[21], 9);
-        }
-        if (isset($pLines[22]) && false !== strpos($pLines[22], '參加黨團：')) {
-            $pProfile['group'] = substr($pLines[22], 15);
+            $pProfile['each_terms'][0]['party'] = substr($pLines[21], 9);
         }
         if (isset($pLines[23]) && false !== strpos($pLines[23], '電話：')) {
-            $pProfile['contacts']['phone'] = substr($pLines[23], 9);
+            $pProfile['each_terms'][0]['contact_details'][1]['value'] = substr($pLines[23], 9);
         }
         if (isset($pLines[26]) && false !== strpos($pLines[26], '通&nbsp;訊&nbsp;處：')) {
-            $pProfile['contacts']['address'] = substr($pLines[26], 24);
+            $pProfile['each_terms'][0]['contact_details'][3]['value'] = substr($pLines[26], 24);
         }
         if (isset($pLines[29]) && false !== strpos($pLines[29], '電子信箱：')) {
-            $pProfile['contacts']['email'] = substr($pLines[29], 15);
+            $pProfile['each_terms'][0]['contact_details'][0]['value'] = substr($pLines[29], 15);
         }
         if (isset($pLines[33]) && ((false !== strpos($pLines[33], 'FaceBook：')) || (false !== strpos($pLines[33], '部落格：')))) {
-            $pProfile['contacts']['website'] = explode('：', $pLines[33])[1];
+            $pProfile['each_terms'][0]['links'][] = array(
+                'note' => '個人網站',
+                'url' => explode('：', $pLines[33])[1],
+            );
         }
         $tokenKey = false;
         foreach ($pLines AS $pLine) {
             if (false !== $tokenKey) {
                 if ($tokenKey !== 'platform') {
-                    $pProfile[$tokenKey] = explode("\t", $pLine);
-                    foreach ($pProfile[$tokenKey] AS $uKey => $uVal) {
+                    $pProfile['each_terms'][0][$tokenKey] = explode("\t", $pLine);
+                    foreach ($pProfile['each_terms'][0][$tokenKey] AS $uKey => $uVal) {
                         $uVal = trim($uVal);
                         if (!empty($uVal)) {
-                            $pProfile[$tokenKey][$uKey] = $uVal;
+                            $pProfile['each_terms'][0][$tokenKey][$uKey] = $uVal;
                         } else {
-                            unset($pProfile[$tokenKey][$uKey]);
+                            unset($pProfile['each_terms'][0][$tokenKey][$uKey]);
                         }
                     }
                 } else {
-                    $pProfile[$tokenKey] = $pLine;
+                    $pProfile['each_terms'][0][$tokenKey] = $pLine;
                 }
                 $tokenKey = false;
             } else {

@@ -9,13 +9,13 @@ $platform = array();
 foreach ($data AS $dataKey => $p) {
     switch ($p['name']) {
         case '李退之':
-            $items = explode('(', $p['platform']);
+            $items = explode('(', $p['each_terms'][0]['platform']);
             break;
         case '曾王雅雲':
             $items = array();
             break;
         default:
-            $items = explode('。', $p['platform']);
+            $items = explode('。', $p['each_terms'][0]['platform']);
     }
     foreach ($items AS $k => $v) {
         $v = trim($v);
@@ -285,7 +285,7 @@ foreach ($data AS $dataKey => $p) {
     }
 
     if (!empty($items)) {
-        $data[$dataKey]['platform'] = $items;
+        $data[$dataKey]['each_terms'][0]['platform'] = $items;
     }
 }
 
