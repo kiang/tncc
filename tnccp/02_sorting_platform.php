@@ -285,7 +285,7 @@ foreach ($data AS $dataKey => $p) {
     }
 
     if (!empty($items)) {
-        $data[$dataKey]['each_terms'][0]['platform'] = $items;
+        $data[$dataKey]['each_terms'][0]['platform'] = array_values($items);
     }
 }
 

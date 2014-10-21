@@ -102,10 +102,10 @@ foreach ($lMatches[0] AS $k => $lMatch) {
                     'in_office' => true,
                     'term_start' => '2010-12-25',
                     'education' => '',
-                    'experience' => '',
+                    'experience' => array(),
                     'remark' => '',
                     'image' => '',
-                    'platform' => '',
+                    'platform' => array(),
                 ),
             ),
         );
@@ -160,6 +160,7 @@ foreach ($lMatches[0] AS $k => $lMatch) {
                             unset($pProfile['each_terms'][0][$tokenKey][$uKey]);
                         }
                     }
+                    $pProfile['each_terms'][0][$tokenKey] = array_values($pProfile['each_terms'][0][$tokenKey]);
                 } else {
                     $pProfile['each_terms'][0][$tokenKey] = $pLine;
                 }
