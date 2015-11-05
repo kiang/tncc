@@ -132,7 +132,7 @@ for ($i = 1; $i <= $finalPage; $i++) {
                         $result[$lineVals[0]] = $lineVals[1];
                 }
             }
-            file_put_contents($itemResultFile, json_encode($result));
+            file_put_contents($itemResultFile, json_encode($result, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
         }
     }
 }
