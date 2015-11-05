@@ -4,7 +4,7 @@ $path = __DIR__;
 $cacheFolder = $path . '/cache';
 $listFolder = $cacheFolder . '/motions_list';
 $itemFolder = $cacheFolder . '/motions_item';
-$publicFolder = $path . '/motions';
+$publicFolder = $path . '/motions/A10000';
 if (!file_exists($listFolder)) {
     mkdir($listFolder, 0777, true);
 }
@@ -12,11 +12,11 @@ if (!file_exists($itemFolder)) {
     mkdir($itemFolder, 0777, true);
 }
 
-$finalPage = 142;
+$finalPage = 18;
 $finalPageUpdated = false;
 
 for ($i = 1; $i <= $finalPage; $i++) {
-    $url = 'http://www.tncc.gov.tw/motions/default1.asp?status=^&menu1=A00000&topage=' . $i;
+    $url = 'http://www.tncc.gov.tw/motions/default1.asp?status=^&menu1=A10000&topage=' . $i;
     $cacheFile = $listFolder . '/' . md5($url);
     if (!file_exists($cacheFile)) {
         file_put_contents($cacheFile, file_get_contents($url));
