@@ -69,4 +69,4 @@ for ($i = 1; $i <= $totalPages; $i++) {
     }
 }
 
-file_put_contents($resultFolder . '/list.json', json_encode($fileList));
+file_put_contents($resultFolder . '/list.json', json_encode($fileList, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));

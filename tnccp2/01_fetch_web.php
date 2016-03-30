@@ -14,7 +14,7 @@ if (!file_exists($listFile)) {
     file_put_contents($listFile, file_get_contents('http://www.tncc.gov.tw/tnccp2/default.asp'));
 }
 
-$listText = mb_convert_encoding(file_get_contents($listFile), 'utf8', 'big5');
+$listText = file_get_contents($listFile);
 
 $lMatches = array();
 
@@ -30,12 +30,12 @@ foreach ($lMatches[0] AS $k => $lMatch) {
     preg_match_all('/CName=[^\'"]*/i', substr($listText, $tPosBegin, $tPosEnd - $tPosBegin), $matches);
 
     foreach ($matches[0] AS $match) {
-        $pUrl = 'http://www.tncc.gov.tw/tnccp2/ccp_01a.asp?CName=' . urlencode(substr(mb_convert_encoding($match, 'big5', 'utf8'), 6));
+        $pUrl = 'http://www.tncc.gov.tw/tnccp2/ccp_01a.asp?CName=' . urlencode(substr($match, 6));
         $pFile = $cacheFolder . '/p_' . md5($pUrl);
         if (!file_exists($pFile)) {
             file_put_contents($pFile, file_get_contents($pUrl));
         }
-        $pContent = mb_convert_encoding(file_get_contents($pFile), 'utf8', 'big5');
+        $pContent = file_get_contents($pFile);
         $pContent = substr($pContent, strpos($pContent, '<div id="main">'));
         $pContent = substr($pContent, 0, strpos($pContent, '<div id="copyright">'));
         $pContent = str_replace('<br>', "\t", $pContent);
@@ -182,6 +182,5 @@ foreach ($lMatches[0] AS $k => $lMatch) {
         $data[] = $pProfile;
     }
 }
-print_r($data);
 
-file_put_contents($path . '/tnccp/tnccp2.json', json_encode($data));
+file_put_contents($path . '/tnccp2/tnccp2.json', json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));

@@ -69,7 +69,7 @@ for ($i = 1; $i <= $totalPages; $i++) {
     }
 }
 
-$tnccp = json_decode(file_get_contents($path . '/tnccp/tnccp.json'), true);
+$tnccp = json_decode(file_get_contents($path . '/tnccp2/tnccp2.json'), true);
 $counters = array();
 
 foreach ($fileList AS $r) {
@@ -101,16 +101,11 @@ foreach ($fileList AS $r) {
                 $nameKey = $p['name'];
             }
 
-            if (!isset($counters[$p['name']])) {
-                $counters[$p['name']] = array(
-                    '第1次定期會暨第1-4次臨時會' => array(1 => 0, 2 => 0, 3 => 0),
-                    '第1屆第2次定期會暨第5-6次臨時會' => array(1 => 0, 2 => 0, 3 => 0),
-                    '第3次定期會暨第7次臨時會' => array(1 => 0, 2 => 0, 3 => 0),
-                    '第1屆第8次臨時會' => array(1 => 0, 2 => 0, 3 => 0),
-                    '第1屆第4次定期大會' => array(1 => 0, 2 => 0, 3 => 0),
-                    '第1屆第5次定期大會' => array(1 => 0, 2 => 0, 3 => 0),
-                    '第1屆第6次定期大會' => array(1 => 0, 2 => 0, 3 => 0),
-                );
+            if(!isset($counters[$p['name']])) {
+              $counters[$p['name']] = array();
+            }
+            if(!isset($counters[$p['name']][$eKey])) {
+              $counters[$p['name']][$eKey] = array(1 => 0, 2 => 0, 3 => 0);
             }
 
             $pos = strpos($txtContent, $nameKey);
@@ -136,5 +131,5 @@ foreach ($fileList AS $r) {
     }
 }
 
-file_put_contents($resultFolder . '/list_journals.json', json_encode($fileList));
-file_put_contents($resultFolder . '/journals_attendances.json', json_encode($counters));
+file_put_contents($resultFolder . '/list_journals2.json', json_encode($fileList, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+file_put_contents($resultFolder . '/journals_attendances2.json', json_encode($counters, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
