@@ -12,7 +12,7 @@ if (!file_exists($itemFolder)) {
     mkdir($itemFolder, 0777, true);
 }
 
-$finalPage = 18;
+$finalPage = 57;
 $finalPageUpdated = false;
 
 for ($i = 1; $i <= $finalPage; $i++) {
