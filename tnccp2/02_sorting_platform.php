@@ -7,10 +7,7 @@ $data = json_decode(file_get_contents(__DIR__ . '/tnccp2.json'), true);
 $platform = array();
 
 foreach ($data AS $dataKey => $p) {
-    switch ($p['name']) {
-        default:
-            $items = explode('。', $p['each_terms'][0]['platform']);
-    }
+    $items = explode('。', $p['each_terms'][0]['platform']);
     foreach ($items AS $k => $v) {
         $v = str_replace("\t", '', trim($v));
         if (empty($v)) {
@@ -115,6 +112,7 @@ foreach ($data AS $dataKey => $p) {
                 default:
                     $items[$k] = $v;
             }
+            $items[$k] = mb_convert_encoding($items[$k], 'utf-8', 'utf-8');
         }
     }
     if (!empty($items)) {
@@ -122,4 +120,4 @@ foreach ($data AS $dataKey => $p) {
     }
 }
 
-file_put_contents(__DIR__ . '/tnccp2.json', json_encode($data));
+file_put_contents(__DIR__ . '/tnccp2.json', json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
