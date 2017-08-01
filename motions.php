@@ -12,7 +12,7 @@ if (!file_exists($itemFolder)) {
     mkdir($itemFolder, 0777, true);
 }
 
-$finalPage = 57;
+$finalPage = 66;
 $finalPageUpdated = false;
 
 for ($i = 1; $i <= $finalPage; $i++) {
@@ -113,7 +113,7 @@ for ($i = 1; $i <= $finalPage; $i++) {
         } else {
             $itemResultFile = "{$targetPath}/{$dateVals[2]}-{$cols[0]}.json";
         }
-        
+
         if (!file_exists($itemResultFile)) {
             $result = array();
             foreach ($lines AS $lineKey => $lineVals) {
