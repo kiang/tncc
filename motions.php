@@ -12,10 +12,11 @@ if (!file_exists($itemFolder)) {
     mkdir($itemFolder, 0777, true);
 }
 
-$finalPage = 66;
+$finalPage = 126;
 $finalPageUpdated = false;
 
 for ($i = 1; $i <= $finalPage; $i++) {
+  error_log("processing page {$i}");
     $url = 'http://www.tncc.gov.tw/motions/default1.asp?status=^&menu1=A10000&topage=' . $i;
     $cacheFile = $listFolder . '/' . md5($url);
     if (!file_exists($cacheFile)) {
@@ -121,8 +122,12 @@ for ($i = 1; $i <= $finalPage; $i++) {
                     case 0:
                     case 1:
                         // 4 cols
-                        $result[$lineVals[0]] = $lineVals[1];
-                        $result[$lineVals[2]] = $lineVals[3];
+                        if(isset($lineVals[1])) {
+                          $result[$lineVals[0]] = $lineVals[1];
+                        }
+                        if(isset($lineVals[3])) {
+                          $result[$lineVals[2]] = $lineVals[3];
+                        }
                         break;
                     case 17:
                         //skip
