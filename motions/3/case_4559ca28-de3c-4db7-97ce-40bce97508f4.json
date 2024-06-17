@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "27",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "Ingay Tali穎艾達利、陳怡珍",
+    "OrgTitle2": "洪玉鳳、陳秋宏、李偉智、陳秋萍、蔡淑惠、吳禹寰、林易瑩、陳碧玉",
+    "CaseCause": "建請臺南市政府研議改善北門路\/小東路路口之機車待轉區設計，確保用路安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、按本市北區北門路與小東路路口之機車待轉區設置，停等空間與原車道平行，除易造成直行機車突發煞停危險外，如續行則可能過份貼近待轉區，甚至直接穿越待轉區（如附件一、二），對待轉區內之機車與直行車輛有肇生事故風險。\"},{\"tag\":\"p\",\"content\":\"二、經查，十字路口之機車待轉區本應有偏離原車道的設計，惟因本路口為T字路口，倘維持現狀或僅變更道路標線，似無法明顯改善前述風險問題。\"},{\"tag\":\"p\",\"content\":\"三、實則本段道路西側即為台南公園之人行空間，該空間尚稱寬裕。查本市多處路段亦常見前述避讓道路規劃，例：本市南區國民路與大成路口同為T字路口，此路口將原人行道部分空間設置為機車待轉區，即完成待轉區偏離原車道之設計（如附件三）。\"},{\"tag\":\"p\",\"content\":\"四、建請市府循前揭案例，研議規劃撥讓部分空間予安全待轉停等之用。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2021\/11\/23",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/12\/09",
+    "SendNumber": "南議保安字第 1100012430號",
+    "DoDesc": "本案經臺南市政府111年1月6日府交交管字第1110078860號函復如下：\r\n經本府交通局於110年11月19日邀集貴會提案議員、本府工務局、第五分局、北區區公所及當地里長現勘研商，決議由本府工務局評估人行道植栽退縮事宜，俟退縮後由本府交通局配合調整機慢車待轉區等標線，以增加待轉區空間及避免待轉機車與直行機車產生衝突。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cf6fc78a-8044-46f3-9ef3-8af2569fc467",
+            "FileName": "北門路小東路口機車待轉區設計.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4559ca28-de3c-4db7-97ce-40bce97508f4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經臺南市政府111年1月6日府交交管字第1110078860號函復如下：\r\n經本府交通局於110年11月19日邀集貴會提案議員、本府工務局、第五分局、北區區公所及當地里長現勘研商，決議由本府工務局評估人行道植栽退縮事宜，俟退縮後由本府交通局配合調整機慢車待轉區等標線，以增加待轉區空間及避免待轉機車與直行機車產生衝突。",
+    "ErrorMessage": ""
+}

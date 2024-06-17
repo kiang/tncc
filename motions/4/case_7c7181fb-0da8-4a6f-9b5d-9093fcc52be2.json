@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第3次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "58",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "余柷青",
+    "OrgTitle2": "陳秋宏、沈家鳳、王宣貿、蔡育輝、郭鴻儀、施余興望 Tjakumay Tagaw",
+    "CaseCause": "臺南市安定區中沙里中崙89號前道路夜間照明設施不足。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"此段市道178是安定區民眾通往安南區重要道路之一，夜間昏暗且路燈不足，建請市府儘速改善。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/08\/15",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/08\/17",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/08\/28",
+    "SendNumber": "南議工務字第 1120008031號",
+    "DoDesc": "",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=62605982-65ff-4eb5-a36f-727e79066b04",
+            "FileName": "府工園二字第1121140000號-附件2.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f21ec633-3883-487e-9d17-462d19bd7257",
+            "FileName": "府工園二字第1121140000號-附件1.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7c7181fb-0da8-4a6f-9b5d-9093fcc52be2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/09\/15",
+    "ExecuteReNumber": "府工園二字第 1121140000號",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "5",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "施余興望 Tjakumay Tagaw",
+    "OrgTitle2": "林志展、林依婷、李鎮國、李啓維、李宗翰、蔡筱薇、余柷青",
+    "CaseCause": "建請市府訂定「台南市政府補助原住民返鄉參加歲時祭儀交通費實施要點」，並編列年度預算支應所需經費。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為鼓勵都市族人回鄉參加歲時祭儀，學習原生部落傳統文化，在都市持續傳承，部分縣市特別設有交通費補助。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"目前新北市、台北市、桃園市有訂定補助原住民族返鄉參加歲時祭儀交通費實施要點，因此建請台南市政府能夠參照其他縣市訂定相關補助辦法。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/06\/26",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/10",
+    "SendNumber": "南議民教字第 1120005868號",
+    "DoDesc": "收文字號：112年7月14日1120006510號\r\n市府回覆執行情形詳如附件。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4b68fbeb-d991-41c2-9177-a4ca5f3b94fb",
+            "FileName": "4-1定民教議提5-回覆附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f34ced24-0051-407c-8881-a8d963271d2c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/07\/14",
+    "ExecuteReNumber": "府原綜字第 1120918663號",
+    "ExecuteReMemo": "收文字號：112年7月14日1120006510號\r\n市府回覆執行情形詳如附件。",
+    "ErrorMessage": ""
+}

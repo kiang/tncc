@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "59",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林燕祝",
+    "OrgTitle2": "蔡淑惠、洪玉鳳、蔡育輝、李鎮國、王家貞",
+    "CaseCause": "建請市府將永康區國光七街（永大路二段至永華路間）之柏油路面重新翻修，以保障民眾往來通行之安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、本路段查位於永康區國光七街(永大路二段至永華路間）之柏油路面重新翻修，近16年未重鋪導致路面有龜裂破損的情事，造成行經該處之用路人往來通行之安全疑慮。\"},{\"tag\":\"p\",\"content\":\"二、為保障用路人行之安全，故建請市府將永康區國光七街（永大路二段至永華路間）之柏油路面重新翻修。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/11\/26",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/12\/08",
+    "SendNumber": "南議工務字第 1090011726號",
+    "DoDesc": "本案經市府109年12月15日府工養二字第1091511073號函復：\r\n本案本府工務局已於109年10月23日與109年10月26日會同議員服務處及相關單位現勘完成，經現場勘查永康區國光七街路面磨光老化出現縱向裂縫，議員及里長建議公所規劃辦理AC刨鋪概估合計約共3,480㎡，概估所需經費約140萬元，將請公所評估實際現況需求再行提案，考量本府經費短絀，將先行錄案視年度經費編籌情形研議。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0c65b9f6-7fc5-4376-b97e-201bde022128",
+            "FileName": "議提59-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=54f3b20a-6b1a-4d11-b9fc-e4973828c7af&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府109年12月15日府工養二字第1091511073號函復：\r\n本案本府工務局已於109年10月23日與109年10月26日會同議員服務處及相關單位現勘完成，經現場勘查永康區國光七街路面磨光老化出現縱向裂縫，議員及里長建議公所規劃辦理AC刨鋪概估合計約共3,480㎡，概估所需經費約140萬元，將請公所評估實際現況需求再行提案，考量本府經費短絀，將先行錄案視年度經費編籌情形研議。",
+    "ErrorMessage": ""
+}

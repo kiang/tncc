@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第3屆 第1次 臨時會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2019\/01\/10",
+    "ComeNumber": "府工管一字第1080075909號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市建築爭議事件處理及評審自治條例」第七條、第十二條草案一案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本案業經本府107年9月19日第354次市政會議審議通過。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"檢附「臺南市建築爭議事件處理及評審自治條例」第七條、第十二條草案（含總說明及逐條說明）乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "2019\/01\/24",
+    "CheckDesc": "一、修正內容如下表。\r\n二、Ingay Tali穎艾達利議員聲明保留大會發言權。\r\n三、修正通過。",
+    "DoneDate": "2019\/01\/25",
+    "DoneDesc": "(1)本案保留。\r\n(2)請工務局備妥各縣市作業程序及臺南市建築爭議事件評審委員會委員名單，於下次會提送本會審議。",
+    "SendDate": "2019\/02\/12",
+    "SendNumber": "南議法規字第 1080000408號",
+    "DoDesc": "本府已於108年7月4日府法規字第1080777424A號府令修正頒布。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5dc30289-b9b3-4f1a-8271-f57f7ae8d7cf",
+            "FileName": "3-1臨市提1-臺南市建築爭議事件處理及評審自治條例第七條及第十二條條文修正草案(總說明、對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=47594f41-9daf-45de-b870-77b75773a847&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=61567039-b53e-41f6-9839-42341121f224",
+            "FileName": "3-1臨法規市提1附表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "(1)本案保留。\r\n(2)請工務局備妥各縣市作業程序及臺南市建築爭議事件評審委員會委員名單，於下次會提送本會審議。",
+    "FirstDate": "2019\/01\/21",
+    "FirstDesc": "交付法規委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本府已於108年7月4日府法規字第1080777424A號府令修正頒布。",
+    "ErrorMessage": ""
+}

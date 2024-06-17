@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "159",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳秋宏",
+    "OrgTitle2": "沈震東、周嘉韋、李宗翰、朱正軒、黃麗招",
+    "CaseCause": "麻豆區大埕里振興街路面改善。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"路面老舊損毀龜裂嚴重，急需改善，以改善用路安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/05\/23",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/05\/29",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2024\/06\/06",
+    "SendNumber": "南議工務字第 1130004144號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3d4d6f23-cbf8-41f3-99f2-d74928adad01",
+            "FileName": "4-3定工務議提159附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0705fb65-e288-494e-904c-627e207f4d99&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

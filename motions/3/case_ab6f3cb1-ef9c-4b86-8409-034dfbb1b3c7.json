@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第15次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "11",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/12\/07",
+    "ComeNumber": "府環水字第1111585199號",
+    "OrgTitle": "臺南市政府環境保護局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院環境保護署估列補助本市辦理「112年臺南市全國水環境水質改善業務支援計畫(環保局)」新臺幣180萬元(中央補助款計124萬2,000元，市配合款計55萬8,000元)墊付事宜，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院環境保署(以下簡稱環保署)111年8月16日環署水字第1111111100號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款:「經上級政府核定之補助款，所使用之支出。」及第6款:「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。」等相關規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明:本案環保署估列補助總經費新臺幣180萬元(中央補助款計124萬2,000元，市配合款計55萬8,000元)惟因中央核定計畫日期較晚，未及納入本局112年度預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年11月22日第570次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度追加減預算時辦理轉正，敬請審議。\"}]",
+    "CheckDate": "2022\/12\/15",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/12\/22",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/12\/28",
+    "SendNumber": "南議環衛字第 1110021029號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=13cf32ff-2a5e-45af-b89c-f553e8667a9d",
+            "FileName": "臺南市全國水環境水質改善業務支援計畫.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ab6f3cb1-ef9c-4b86-8409-034dfbb1b3c7&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/12\/08",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/12\/14",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

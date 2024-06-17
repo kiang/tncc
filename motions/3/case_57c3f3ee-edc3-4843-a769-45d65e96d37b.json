@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "41",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "沈家鳳、Ingay Tali穎艾達利、蔡旺詮",
+    "CaseCause": "建請市府儘速完成新市區豐華里大道公部落65之7號、63之7號及61號之6旁清淤改善工程，所需經費9萬5,000元整，以利民眾使用。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"依據臺南市新市區公所所農建字第1090802822號函辦理。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2021\/03\/17",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2021\/03\/19",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/03\/23",
+    "SendNumber": "南議工務字第 1100002022號",
+    "DoDesc": "本案經市府110年4月9日府水養字第1100438061號函復：\r\n一、本案業已於110 年3 月24 日派工進行清淤改善作業，並於110年3月28日完成清淤作業，以維護汛期來臨時排水效能。 \r\n二、為維護排水路效能及機動調派清淤工作之執行，本局亦每年設算清淤補助經費予各轄區公所，以提供轄區排水路清淤之機動調派。 \r\n三、再次感謝貴席關心本市建設和不吝指正，本府對轄區排水清淤作業情形十分重視，也希冀能透過市府各單位的合作，改善當地的積淹水情形，增進民眾的生活品質。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7625ef6a-724a-4da4-8b2d-c5c36aebfb8c",
+            "FileName": "議提41回覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=57c3f3ee-edc3-4843-a769-45d65e96d37b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/03\/03",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年4月9日府水養字第1100438061號函復：\r\n一、本案業已於110 年3 月24 日派工進行清淤改善作業，並於110年3月28日完成清淤作業，以維護汛期來臨時排水效能。 \r\n二、為維護排水路效能及機動調派清淤工作之執行，本局亦每年設算清淤補助經費予各轄區公所，以提供轄區排水路清淤之機動調派。 \r\n三、再次感謝貴席關心本市建設和不吝指正，本府對轄區排水清淤作業情形十分重視，也希冀能透過市府各單位的合作，改善當地的積淹水情形，增進民眾的生活品質。",
+    "ErrorMessage": ""
+}

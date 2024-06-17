@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "16",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2022\/05\/05",
+    "ComeNumber": "府財產字第1110576208號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理標售本府經管坐落本市柳營區果毅後段3947地號等3筆非公用市有土地，謹依土地法第25條規定之處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"坐落本市柳營區果毅後段3947地號等3筆市有土地，擬依「臺南市市有財產管理自治條例」第50條第1項第1款、第2款及第4款規定辦理標售。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府111年5月3日第540次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/07\/08",
+    "SendNumber": "南議財經字第 1110006697號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e0d590ce-e876-4fed-9775-737fd3c318ba",
+            "FileName": "第3屆第7次定期提案表--(提案16-標售).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b91d93f2-117b-44b5-8317-05360aa36a39",
+            "FileName": "提案16標售-地籍圖.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=570300cf-7651-49fe-838b-c3f27483b798",
+            "FileName": "提案16擬處分清冊.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b70741d3-16e1-4b2e-b250-14e39fedcc4b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/05\/31",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/08",
+    "FirstDesc": "交付財經委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "6",
+    "KidTitle": "查照\/備查案-法規查照案",
+    "ComeDate": "2020\/02\/04",
+    "ComeNumber": "府文人字第1090158617號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市政府文化局編制表」，請查照。",
+    "Content": "[]",
+    "Method": "[]",
+    "CheckDate": "2020\/07\/01",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2020\/07\/07",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2020\/07\/15",
+    "SendNumber": "南議法規字第 1090005910號",
+    "DoDesc": "109年1月22日府法規字第1090125697A號令發布施行。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=907468a4-3828-4504-991f-dd179e2f3408",
+            "FileName": "修正「臺南市政府文化局編制表」.PDF",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4d6b552c-2ebf-4c0e-84ed-ebd103c1cfc5&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "109年1月22日府法規字第1090125697A號令發布施行。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "9",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/05\/15",
+    "ComeNumber": "府觀銷活字第1120612895號",
+    "OrgTitle": "臺南市政府觀光旅遊局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會漁業署核定本市辦理「2023臺南七股海鮮節系列活動」總經費計268萬200元(中央補助款100萬元，市配合款168萬200元)，其中中央補助款100萬元部分，因未及納入本市112年度總預算，為爭取時效，謹請貴會同意先行辦理墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院農業委員會漁業署112年4月18日漁二字第1121255126號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費268萬200元整(中央補助款100萬元、市配合款168萬200元)。中央補助款100萬元部分，因未及納入本市112年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本市112年5月2日第592次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：依行政院農委會漁業署112年4月18日漁二字第1121255126號函說明三，需至指定網站登錄截至上月底止計劃預算累積執行數、季報及結束報告，以作為撥款之參考依據，為確依期程執行，故於本會期提出墊付款案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/06\/28",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/07\/07",
+    "SendNumber": "南議建設字第 1120005540號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8cd0ee77-25b5-4111-93ad-6bc3df4ac770",
+            "FileName": "市提9附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fde1e444-5d24-47a4-8dd5-d72abe8806d9&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/05\/29",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/06\/07",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

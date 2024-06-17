@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2020\/05\/22",
+    "ComeNumber": "府財產字第1090562714號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理讓售本府經管坐落本市新營區嘉芳段406地號等32筆非公用市有土地，擬依土地法第25條規定完成處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、市有土地鄰地所有權人檢附畸零（裡）地合併使用證明書申請承購坐落本市新營區嘉芳段406地號等16筆市有土地，擬依「臺南市市有財產管理自治條例」第51條規定辦理讓售。\"},{\"tag\":\"p\",\"content\":\"二、市有土地承租人申請承購坐落本市下營區營平段259-1地號等16筆市有出租土地，擬依「臺南市市有財產管理自治條例」第50條第1項第2款規定辦理讓售。\"},{\"tag\":\"p\",\"content\":\"三、本案業經本府109年5月19日第439次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "2020\/07\/03",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2020\/07\/07",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/07\/14",
+    "SendNumber": "南議財經字第 1090005330號",
+    "DoDesc": "議會同意本府出售處分清冊編號1~15等16筆土地部分涉及公有畸零地合併使用證明書有效期間，俟工務局簽復意見後，再予函送內政部；清冊編號16~25等15筆土地（編號25之原2筆土地合併成1筆），本府於109年7月22日府財產字第1090833291號函送內政部，行政院於109年7月30日院授內地字第1090042350號函核准本府處分在案，賡續辦理出售案件審議作業。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=04307c24-e977-44e0-aec5-a7cb435cdb57",
+            "FileName": "擬處分清冊.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=863f197b-853d-4baf-9f27-73f5591d12a1&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "議會同意本府出售處分清冊編號1~15等16筆土地部分涉及公有畸零地合併使用證明書有效期間，俟工務局簽復意見後，再予函送內政部；清冊編號16~25等15筆土地（編號25之原2筆土地合併成1筆），本府於109年7月22日府財產字第1090833291號函送內政部，行政院於109年7月30日院授內地字第1090042350號函核准本府處分在案，賡續辦理出售案件審議作業。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "55",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "楊麗玉",
+    "OrgTitle2": "曾王雅雲、陳特清、王錦德、盧崑福",
+    "CaseCause": "請市府儘速拓寬麻豆區大山里南49線道路東側尚未拓寬之路段，以維人車安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"麻豆區大山里南49線道路大部分已拓寬為12米，惟其東側早期因故尚留約100米未拓寬，請儘速全線拓寬，以維人車安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2012\/12\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/12\/18",
+    "SendNumber": "南議工務字第 1010011395號",
+    "DoDesc": "本案經市府102.1.2府工公養二字第1011074883號函復：\r\n本案已於12.6完成現勘（如會勘記錄），倘無用地取得問題本府將視財務情況研議辦理。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a8631d35-8b7a-4033-8695-1092bc39cd3a",
+            "FileName": "會議記錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=af190b39-478a-4113-aa12-94da229d516d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府102.1.2府工公養二字第1011074883號函復：\r\n本案已於12.6完成現勘（如會勘記錄），倘無用地取得問題本府將視財務情況研議辦理。",
+    "ErrorMessage": ""
+}

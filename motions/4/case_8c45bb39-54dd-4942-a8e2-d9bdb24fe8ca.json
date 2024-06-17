@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "82",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "黄肇輝",
+    "OrgTitle2": "周嘉韋、沈家鳳、李宗翰、蔡麗青",
+    "CaseCause": "建請市政府檢視並改善各區公園、活動中心之遊戲器具運動設備，其許多器材縫隙擔心夾傷幼兒或瘦弱長者。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"臺南市各區有許多運動休閒設備，但經民眾反映有些運動器材或握把處都有一些不小的縫隙，擔心會有幼兒或瘦弱長者不小心夾到頭或手腳，擔心造成受傷，應該儘速做全面的檢查與預防措施，降低民眾受傷情況發生。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/08\/15",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/08\/17",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/08\/28",
+    "SendNumber": "南議工務字第 1120007986號",
+    "DoDesc": "本府就「建請市政府檢視並改善各區公園、活動中心之遊戲器具運動設備，其許多器材縫隙擔心夾傷幼兒或瘦弱長者」案，敬答覆如下：\r\n有關反映各區公園之遊戲設備安檢部分，因兒童遊戲設施皆已通過遊具安全檢驗合格規定，且於周邊設置設施僅供3至12歲學齡兒童使用需知告示牌，本府工務局及各區鄰里公園轄管之區公所將加強宣導兒童遊具及體健設施使用者應符年齡範圍方得使用，並增加檢視園區兒童遊戲及體健設施頻率，避免發生相關意外，藉以建構安全運動遊戲場域。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9aaf5bcf-7d5d-464b-9995-e08fef5115de",
+            "FileName": "附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8c45bb39-54dd-4942-a8e2-d9bdb24fe8ca&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/09\/25",
+    "ExecuteReNumber": "府工園一字第 1121186352號",
+    "ExecuteReMemo": "本府就「建請市政府檢視並改善各區公園、活動中心之遊戲器具運動設備，其許多器材縫隙擔心夾傷幼兒或瘦弱長者」案，敬答覆如下：\r\n有關反映各區公園之遊戲設備安檢部分，因兒童遊戲設施皆已通過遊具安全檢驗合格規定，且於周邊設置設施僅供3至12歲學齡兒童使用需知告示牌，本府工務局及各區鄰里公園轄管之區公所將加強宣導兒童遊具及體健設施使用者應符年齡範圍方得使用，並增加檢視園區兒童遊戲及體健設施頻率，避免發生相關意外，藉以建構安全運動遊戲場域。",
+    "ErrorMessage": ""
+}

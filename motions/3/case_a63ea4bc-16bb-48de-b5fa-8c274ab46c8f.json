@@ -1,0 +1,55 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2021\/06\/29",
+    "ComeNumber": "府交綜字第1100772163號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南市共享機動車輛管理自治條例（草案）」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為規範共享機動車輛經營業者在本市之營運事項，促進低碳運具發展，並維持本市市容、停車秩序、消費者權益及公共安全，特制定本自治條例。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府110年6月21日第496次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市共享機動車輛管理自治條例（草案）」（含總說明、逐條說明及條文內容）1份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "2021\/08\/11",
+    "CheckDesc": "本案第四條、第六條、第七條修正通過，其餘照案通過。（修正情形詳見審查結果對照表)",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "第3屆第5次定期會第37次會議(110年8月19日)大會決議(三讀通過)如下：照審查意見修正通過。",
+    "SendDate": "2021\/08\/25",
+    "SendNumber": "南議法規字第 1100006869號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d87da762-486f-431b-b1f6-e23d09731d1e",
+            "FileName": "臺南市共享機動車輛管理自治條例草案(含總說明、逐條說明、條文內容).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a63ea4bc-16bb-48de-b5fa-8c274ab46c8f&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f0af35b5-149f-47d9-b274-2927385e28d2",
+            "FileName": "3-5定市提1審查結果對照表A4.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=00a82ae9-e271-4b02-9c21-8927cabad5ab",
+            "FileName": "3-5定法規市提1大會決議案-「臺南市共享機動車輛管理自治條例（草案）」.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "2021\/07\/27",
+    "ReDesc": "第3屆第5次定期會第37次會議(110年8月19日)大會決議(三讀通過)如下：照審查意見修正通過。",
+    "FirstDate": "2021\/08\/03",
+    "FirstDesc": "交付法規委員會審查。",
+    "SecondDate": "2021\/08\/19",
+    "SecondDesc": "照審查意見修正通過。",
+    "ThirdDate": "2021\/08\/19",
+    "ThirdDesc": "照二讀會決議通過。",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,68 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2022\/08\/04",
+    "ComeNumber": "府主預字第1110947406號",
+    "OrgTitle": "臺南市政府主計處",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本府111年第2季辦理政策及業務宣導之執行情形表，提請貴會備查，請查照。",
+    "Content": "",
+    "Method": "",
+    "CheckDate": "2022\/10\/03",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2022\/10\/05",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2022\/10\/12",
+    "SendNumber": "南議財經字第 1110011711號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0492caae-1e32-4178-b0b4-4ea289499dc9",
+            "FileName": "1.民政教育委員會.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c857c4d2-8f7f-4606-881a-baa6e90253e9",
+            "FileName": "3.環保衛生委員會.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6ee8d6e1-9c15-4d69-a841-576d9b4cbffb",
+            "FileName": "2.財經委員會.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5857e8a1-f3ae-458e-9d8d-f6acdf034040",
+            "FileName": "5.保安委員會.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6968ba0f-e7d1-42d7-89c0-7d6aecb4cf86",
+            "FileName": "4.建設委員會.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e0833ba8-dc6c-409d-87fe-a80279f2c235",
+            "FileName": "6.工務委員會.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=45755841-76ad-4e65-840d-832d9ed82f0b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2022\/08\/30",
+    "FirstDesc": "交付各相關委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

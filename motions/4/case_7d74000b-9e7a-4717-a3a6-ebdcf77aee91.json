@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "44",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳秋宏、蔡蘇秋金、沈家鳳、謝舒凡",
+    "OrgTitle2": "林志展、邱昭勝",
+    "CaseCause": "建請臺南市政府行政中心遷移至麻豆區首府大學。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"麻豆區位於大台南市中心腹地，鄰近善化、南科園區，地理位置優越。而台灣首府大學佔地16.5公頃，位置鄰近國道1號、國道3號、台84交流道、台1線、縣道176號及南61，交通便利。學校停辦後，將增加許多閒置教室，臺南市政府行政中心遷移至此可帶動整個大溪北區的繁榮，亦可將空間資源的使用發揮到最大效益。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/06\/19",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/10",
+    "SendNumber": "南議建設字第 1120006080號",
+    "DoDesc": "本府就「建請臺南市政府行政中心遷移至麻豆區首府大學」案，敬答覆如下：\r\n1、\t台灣首府大學將於112年7月31日退場，對於現有校地如何活化利用，方可將空間資源的使用發揮到最大效益，本府財稅局尚在盤點各行政機關使用需求。初步包含內政部警政署、本府消防局、社會局、體育局、文化局及教育局等單位提出相關空間需求，同時針對本案也組成跨局處工作小組，期能有效活化利用校地，以服務大溪北地區、促進地方發展為最大考量。\r\n2、\t承蒙貴會暨議席對於市政之關切及熱忱，本府至為感謝，尚請不吝賜教。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9db7f622-cf61-42d0-8544-e4e8490a646c",
+            "FileName": "附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d8b9480c-f89c-4cdd-b222-49334f2b9edd",
+            "FileName": "議提第44號案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7d74000b-9e7a-4717-a3a6-ebdcf77aee91&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/07\/13",
+    "ExecuteReNumber": "府都區字第 1120909517號",
+    "ExecuteReMemo": "本府就「建請臺南市政府行政中心遷移至麻豆區首府大學」案，敬答覆如下：\r\n1、\t台灣首府大學將於112年7月31日退場，對於現有校地如何活化利用，方可將空間資源的使用發揮到最大效益，本府財稅局尚在盤點各行政機關使用需求。初步包含內政部警政署、本府消防局、社會局、體育局、文化局及教育局等單位提出相關空間需求，同時針對本案也組成跨局處工作小組，期能有效活化利用校地，以服務大溪北地區、促進地方發展為最大考量。\r\n2、\t承蒙貴會暨議席對於市政之關切及熱忱，本府至為感謝，尚請不吝賜教。",
+    "ErrorMessage": ""
+}

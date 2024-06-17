@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 臨時會",
+    "PTypTitle": "建設",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/01\/31",
+    "ComeNumber": "府觀技字第1120160867號",
+    "OrgTitle": "臺南市政府觀光旅遊局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部觀光局核定本市112年度「體驗觀光-地方旅遊環境營造計畫」總經費2,650萬元(中央補助款1,431萬元，市配合款1,219萬元)為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據交通部觀光局112年1月19日觀技字第1124000083號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案補助含「112年度倒風內海濱海旅遊廊帶串聯計畫-第五期工程(1,500萬元)」、「長短樹下的微風–後壁區聚落漫遊環境營造計畫(1,000萬元)」及「楠西區龜丹觀光遊憩設施優化工程(150萬元)」，核定總經費為2,650萬元(中央補助款1,431萬元，市配合款1,219萬元)，因未及納入本市112年度總預算案，為爭取時效，謹請貴會同意先行墊付，俟113年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本市112年1月31日第579次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/02\/13",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/02\/17",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/02\/21",
+    "SendNumber": "南議建設字第 1120000918號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4647be57-4143-4ae0-8e02-e5f4a744dcb3",
+            "FileName": "市提5附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ed67ede6-de0a-4e37-a1cd-f3c43295a014&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/02\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

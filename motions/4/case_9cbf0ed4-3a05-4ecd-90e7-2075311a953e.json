@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "12",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/01\/18",
+    "ComeNumber": "府社秘字第1120119755號",
+    "OrgTitle": "臺南市政府社會局",
+    "OrgTitle2": "",
+    "CaseCause": "衛生福利部核定「強化社會安全網第二期計畫–112年度精神障礙者協作模式服務據點計畫」新臺幣476萬8,000元(中央補助475萬3,000元整、地方配合1萬5,000元整)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據衛生福利部111年12月23日衛授家字第1110561714號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款所使用之支出。」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費計新臺幣909萬3,000元整(中央補助888萬3,000元整、地方配合21萬元整)，其中432萬5,000元整已納編112年預算，476萬8,000元(中央補助475萬3,000元整、地方配合1萬5,000元整)，因未及納入本府112年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年1月17日第578次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/02\/10",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/02\/17",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/02\/20",
+    "SendNumber": "南議環衛字第 1120000901號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bb8b7a72-9796-4ac5-8057-88511c513ce4",
+            "FileName": "4-1臨-環保衛生12號案-附件-社會局-112年度精神障礙者協作模式服務據點計畫(身福科).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9cbf0ed4-3a05-4ecd-90e7-2075311a953e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/02\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

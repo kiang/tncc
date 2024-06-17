@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "51",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "方一峰、王家貞、蔡淑惠",
+    "CaseCause": "依據民眾陳情本市永康區中山南路與中華路路口紅綠燈問題，並建議紅燈倒數計時器可優先來設置，創造安全的道路環境。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"詳如案由。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府清查檢討辦理。\"}]",
+    "CheckDate": "2021\/11\/23",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/12\/09",
+    "SendNumber": "南議保安字第 1100012466號",
+    "DoDesc": "本案經臺南市政府110年12月30日府交交管字第1101582949號函復如下：\r\n一、經查本府交通局業於110年12月3日邀集貴會李議員鎮國、省道主管機關(交通部公路總局第五區養護工程處新化工務段)及相關單位現場會勘，結論：考量該路口為多時相管制，共識由本府交通局增設紅燈倒數設施，以利用路人辨識燈號及停等秒數，維護交通安全及順暢。\r\n二、次查本案改善工程本府交通局將納入明(111)年省道代養公路交通號誌維護費施作，預計111年6月底前完成。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=369a8c70-ae91-4dde-9409-1b2f629c56d5",
+            "FileName": "民眾陳情書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b896239b-a24f-4613-a104-8fb7680c7dad&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經臺南市政府110年12月30日府交交管字第1101582949號函復如下：\r\n一、經查本府交通局業於110年12月3日邀集貴會李議員鎮國、省道主管機關(交通部公路總局第五區養護工程處新化工務段)及相關單位現場會勘，結論：考量該路口為多時相管制，共識由本府交通局增設紅燈倒數設施，以利用路人辨識燈號及停等秒數，維護交通安全及順暢。\r\n二、次查本案改善工程本府交通局將納入明(111)年省道代養公路交通號誌維護費施作，預計111年6月底前完成。\r\n",
+    "ErrorMessage": ""
+}

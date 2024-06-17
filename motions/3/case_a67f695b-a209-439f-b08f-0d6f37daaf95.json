@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "11",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/09\/27",
+    "ComeNumber": "府水養字第1111248998號",
+    "OrgTitle": "臺南市政府水利局",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部水利署第六河川局核定「流域綜合治理計畫第一期治理工程」─「溪尾排水滯(蓄)洪池第1期工程及安定排水滯(蓄)洪池工程併辦土石標售」給付工程款民事訴訟調解所需支付249萬元(全額中央補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關給付作業事宜，俟112年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據經濟部水利署第六河川局111年9月2日水六工字第11153080640號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款，所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"「溪尾排水滯(蓄)洪池第1期工程及安定排水滯(蓄)洪池工程併辦土石標售」為流域綜合治理計畫104年治理工程核定案件，係經濟部水利署全額補助辦理，施工廠商(承營營造有限公司)於110年12月17日請求給付工程款，經委任基業法律事務所辦理答辯及出庭相關作業，依高等法院依民事訴訟法第417條第1項規定，以職權提出解決事件之方案為給付施工廠商249萬元，經濟部水利署第六河川局111年9月2日函文通知補助本案所需支付新台幣249萬元，因未及納入本府112年度總預算案，為爭取時效，謹請貴會同意先行墊付，俟112年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年9月27日第562次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2022\/10\/05",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2022\/10\/14",
+    "SendNumber": "南議工務字第 1110012342號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=15744aa8-96f1-4cd5-ae8e-9f31ac0c55f6",
+            "FileName": "第六河川局水六工字第11153080640號函.PDF",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a67f695b-a209-439f-b08f-0d6f37daaf95&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

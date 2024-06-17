@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "25",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/05\/07",
+    "ComeNumber": "府農務字1100590573號",
+    "OrgTitle": "臺南市政府農業局所屬動物防疫保護處",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會農糧署核定本市「110年農作物生產田間調查計畫」經費160萬9,000元整(中央補助款146萬8,000元整、市配合款14萬1,000元整)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟111年度預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據行政院農業委員會農糧署110年1月29日農糧企字第1101060153號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"本案總經費467萬1,000元整(中央補助款401萬6,000元整、市配合款65萬5,000元整)，本局110年度預算已編列306萬2,000元整，為辦理農糧署補助強化農業資訊調查制度計畫，惟110年計畫名稱變更為農作物生產田間調查計畫，且計畫經費160萬9,000元整(中央補助款146萬8,000元整、市配合款14萬1,000元整)，因未及納入110年度總預算，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年4月28日第488次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度預算時再予轉正。\"}]",
+    "CheckDate": "2021\/08\/09",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/08\/26",
+    "SendNumber": "南議建設字第 1100006966號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1eec29cc-f3d3-4853-a916-e9e924125fa2",
+            "FileName": "核定函及計畫書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c648421e-765c-4de1-884d-e9e6df81e427&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

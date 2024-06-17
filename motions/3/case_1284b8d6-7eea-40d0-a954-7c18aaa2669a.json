@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第1次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "79",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "蔡育輝、方一峰、蔡淑惠",
+    "CaseCause": "請市府將南區大同路二段640巷及南區大同路二段670巷，與國民路50巷之路面柏油重新鋪設，以維行車安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、以上柏油路面已損壞不堪使用，建請重新鋪設。\"},{\"tag\":\"p\",\"content\":\"二、依居民反映辦理。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2019\/05\/22",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2019\/05\/29",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/06\/06",
+    "SendNumber": "南議工務字第 1080005310號",
+    "DoDesc": "本案經市府108年6月13日府工務一字第1080681149號函轉南區公所辦理如下：\r\n(詳如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=800b13ea-f926-463f-8b74-6a5774d76690",
+            "FileName": "3-1定議員提案工務第79號.PDF",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1284b8d6-7eea-40d0-a954-7c18aaa2669a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/03\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府108年6月13日府工務一字第1080681149號函轉南區公所辦理如下：\r\n(詳如夾檔)",
+    "ErrorMessage": ""
+}

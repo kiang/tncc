@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/09\/07",
+    "ComeNumber": "府工養一字第1121147260號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部營建署「提升道路品質計畫（內政部）2.0」增加核定「臺南市安定區南安國小周邊通學步道改善工程」補助經費新臺幣464萬4,000元（中央補助款380萬8,080元，市配合款83萬5,920元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部營建署112年8月30日營署道字第1120062687號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案原獲內政部營建署「提升道路品質計畫（內政部）2.0」核定補助995萬6,000元在案。因於規劃設計階段依據營建署及審查委員意見，退縮出更多校地空間，作為公共空間使用，營建署同意增加補助464萬4,000元（中央補助款82%為380萬8,080元，市配合款18%為83萬5,920元），因未及納入本府112年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年9月6日第610次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由:本案依中央期程規定，需於112年工程發包，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年追加減預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/10\/19",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/10\/27",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/11\/03",
+    "SendNumber": "南議工務字第 1120009971號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=27824efa-e0a3-4310-8130-e8e39e5981aa",
+            "FileName": "工務市提3-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=bad537c9-352b-45f9-8614-3e40e1c73a03&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/09\/15",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/09\/22",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

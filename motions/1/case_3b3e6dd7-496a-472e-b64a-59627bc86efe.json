@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "26",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2012\/05\/15",
+    "ComeNumber": "府農動字第1010408066號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "制定「臺南市犬貓管理及福利促進自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為提供完善之犬、貓管理制度，加強民眾正確動物保護觀念，讓市民共同以增進動物福祉為目標，達成尊重生命，促進犬、貓福利，維護公共利益及公共安全，增進人與動物之和諧關係為目的，特制定臺南市犬貓管理及福利促進自治條例。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府101年5月9日第65次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市犬貓管理及福利促進自治條例草案」（含總說明及逐條說明）260份。。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、第四條：…飼主應將被害人送醫治療，杜絕狂犬病之傳染及蔓延。修正為…飼主應將被害人送醫治療及負擔醫療費用，杜絕狂犬病之傳染及蔓延。\r\n二、修正通過。",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "照審查意見修正通過。",
+    "SendDate": "2012\/06\/22",
+    "SendNumber": "南議法規字第 1010010740號",
+    "DoDesc": "「臺南市犬貓管理及福利促進自治條例」進度，函文行政院核備中（府農動字第1010567700號府函），另子法檢舉獎金制度目前初步規劃（臺南市民眾檢舉違反動物保護法案件獎勵辦法）草擬中。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7619288e-0833-4f85-85b5-31948f68cd82",
+            "FileName": "臺南市犬貓管理及福利促進自治條例草案(總說明、逐條說明、草案條文).doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3b3e6dd7-496a-472e-b64a-59627bc86efe&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見修正通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "「臺南市犬貓管理及福利促進自治條例」進度，函文行政院核備中（府農動字第1010567700號府函），另子法檢舉獎金制度目前初步規劃（臺南市民眾檢舉違反動物保護法案件獎勵辦法）草擬中。",
+    "ErrorMessage": ""
+}

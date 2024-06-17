@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "120",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "張世賢",
+    "OrgTitle2": "李中岑、方一峰、杜素吟、蔡秋蘭、吳禹寰、林阳乙、李文俊、李鎮國、蔡育輝、周奕齊、曾培雅",
+    "CaseCause": "建請市府於明年梅雨前修建白河區詔豐里區道90線與南89線道路側溝(約120公尺)及周邊排水，避免遇雨成災。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、南89線與90線交叉路口，靠近阿匹婆商店老街一帶，地下管線(含農田水利給水溝)交錯複雜，遇雨必淹。\"},{\"tag\":\"p\",\"content\":\"二、本次前瞻路修計畫僅施作南89線兩側，並未涵蓋東側老街之側溝，絕對無法改善此處淹水事實。\"},{\"tag\":\"p\",\"content\":\"三、該側溝吸納整片老街東邊住家雨水、民生用水，側溝排水斷面應相對加大，而且應與原排水箱涵分置。\"},{\"tag\":\"p\",\"content\":\"四、附位置圖及概算表。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/11\/26",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/12\/09",
+    "SendNumber": "南議工務字第 1090011456號",
+    "DoDesc": "本案經市府110年1月6日府工養二字第1091603387號函復：\r\n有關白河區公所提報「109年度豪雨白河區詔豐里南90暨南89路口排水災後復建工程」改善側溝工程，經重新檢討所需經費160萬7,000元1案，業經本府工務局109年12月18日南市工養二字第1091534745號函核列160萬元，並委由白河區公所辦理，以維護道路行車安全。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fe536f4c-6906-491d-9861-167f26d2da68",
+            "FileName": "議提120-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ece623fe-f555-4b03-bf2e-4b4eeb4e684d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年1月6日府工養二字第1091603387號函復：\r\n有關白河區公所提報「109年度豪雨白河區詔豐里南90暨南89路口排水災後復建工程」改善側溝工程，經重新檢討所需經費160萬7,000元1案，業經本府工務局109年12月18日南市工養二字第1091534745號函核列160萬元，並委由白河區公所辦理，以維護道路行車安全。",
+    "ErrorMessage": ""
+}

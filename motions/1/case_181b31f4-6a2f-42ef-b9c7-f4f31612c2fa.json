@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第7次 定期會",
+    "PTypTitle": "民政",
+    "CaseNumber": "9",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "2014\/07\/11",
+    "ComeNumber": "府民宗字第1030612505號",
+    "OrgTitle": "張世賢",
+    "OrgTitle2": "黃麗招、李文俊、趙昆原",
+    "CaseCause": "建請市政府修訂「依地籍清理條例第35條規定申報能證明土地登記名義人與現使用之寺廟或宗教性質法人確係同一主體者。」之作業流程。(如附件)",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、地籍清理條例第35條規定：以神祇、未依法登記之寺廟或宗教團體名義登記之土地，現為依法登記之募建寺廟或宗教性質之法人使用，且能證明登記名義人與現使用之寺廟或宗教性質之法人確係同一主體者，由該已依法登記之寺廟或宗教性質之法人於申報期間內，檢附證明文件，向土地所在地之直轄市或縣（市）主管機關申報發給證明書；並於領得證明書後30日內，向該管登記機關（地政單位）申請更名登記。\"},{\"tag\":\"p\",\"content\":\"二、關於寺廟申請人常因土地登記發生時間離現在太久遠，申請人很難提出證明，但是明顯屬於寺廟的土地無法依地籍清理條例完成土地登記辦理。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2014\/06\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2014\/06\/27",
+    "SendNumber": "南議民政字第 1030004050號",
+    "DoDesc": "依據臺南市政府中華民國府民宗字第1030612505號函復：作業流程係依據地籍清理條列第35條、第36條規定辦理，非本府權責，須經立法院修法程序變更。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c6912cb7-d5f6-47f0-a54d-b71c2cf1b17b",
+            "FileName": "民政9.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=181b31f4-6a2f-42ef-b9c7-f4f31612c2fa&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2014\/04\/07",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "依據臺南市政府中華民國府民宗字第1030612505號函復：作業流程係依據地籍清理條列第35條、第36條規定辦理，非本府權責，須經立法院修法程序變更。\r\n",
+    "ErrorMessage": ""
+}

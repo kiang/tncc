@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第1屆 第9次 臨時會",
+    "PTypTitle": "會務",
+    "CaseNumber": "5",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "賴議長美惠",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市議會錄影、錄音管理規則」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依103年度第2次政黨黨團協商第2次會議決議再經研商後辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"檢附「臺南市議會錄影、錄音管理規則」修正草案總說明、修正草案條文對照表、修正後條文草案。\",\"children\":[]}]},{\"tag\":\"p\",\"content\":\"----------------------------------\"},{\"tag\":\"p\",\"content\":\"臺南市議會錄影、錄音管理規則修正總說明\"},{\"tag\":\"p\",\"content\":\"臺南市議會(以下簡稱本會)錄影、錄音管理規則，為配合地方議會開會過程應全部攤在陽光下，接受全民檢驗案，以及目前議員轉錄範圍並無侷限於市政總質詢，轉錄費用並無另予收費，另為符時宜，並針對部分規定酌作文字修正，除第二條、第四條、第七條、第九條、第十條未予修正外，爰檢討修正第一條、第三條、第五條、第六條、第八絛條文，其修正要點如次：\"},{\"tag\":\"p\",\"content\":\"一、為符法規名稱，酌作文字修正（修正條文第一條）\"},{\"tag\":\"p\",\"content\":\"二、地方議會開會過程應全部攤在陽光下，接受全民檢驗，規範本會開會過程所製作之錄影帶、DVD或錄音檔處理方式（修正條文第三條）\"},{\"tag\":\"p\",\"content\":\"三、檢討本會議員轉錄範圍及收費內容（修正條文第五條）\"},{\"tag\":\"p\",\"content\":\"四、規範本會有關會議進行之錄影、錄音，會外人員之處理方式（修正條文第六條）\"},{\"tag\":\"p\",\"content\":\"五、配合實務運作，明確規範轉錄種類（修正條文第八條）\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會同意後報行政院備查，並函知市政府\"}]",
+    "CheckDate": "",
+    "CheckDesc": "提送大會審議",
+    "DoneDate": "2014\/08\/13",
+    "DoneDesc": "一、大會開、閉幕；一、二、三讀會；市政總質詢；業務報告及質詢，都能透過有線電視公司託播、直播。網路平台可隨選隨看。\r\n二、修正通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8303d3c5-d5a7-43f8-a1b3-5cb300e1c68e",
+            "FileName": "錄影、錄音管理規則.doc",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9f38b527-4114-4abd-a6de-c55b7c503d81",
+            "FileName": "錄影、錄音管理規則修正草案條文對照表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e930402a-a32e-44f5-b14c-8529bcd9af2c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "一、大會開、閉幕；一、二、三讀會；市政總質詢；業務報告及質詢，都能透過有線電視公司託播、直播。網路平台可隨選隨看。\r\n二、修正通過。",
+    "FirstDate": "2014\/08\/04",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

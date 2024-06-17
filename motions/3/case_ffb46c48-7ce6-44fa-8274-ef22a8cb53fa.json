@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "22",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2022\/05\/24",
+    "ComeNumber": "府民自字第1110678155號",
+    "OrgTitle": "臺南市政府各區公所",
+    "OrgTitle2": "",
+    "CaseCause": "為善化區公所辦理「善化區光華段406地號土地共有物分割」乙案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據土地法第25條規定:「直轄市或縣（市）政府對於其所管公有土地，非經該管區內民意機關同意，並經行政院核准，不得處分或設定負擔或為超過十年期間之租賃。」暨內政部104年2月26日內授中辦地字第10413601739號函釋，公私共有土地協議辦理共有物分割，涉及權利之移轉變動，屬處分行為，故應經貴會同意。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"旨揭光華段406地號土地，現為本市與私人共同所有，本市持有1\/3，管理者善化區公所，私有共有人持有2\/3，依私有共有人所請以東土地地籍界線之平行線為界辦理共有物分割。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府111年5月24日第543次市政會議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"謹請貴會審議，同意後辦理上開土地分割事宜。\"}]",
+    "CheckDate": "2022\/06\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/07\/07",
+    "SendNumber": "南議民教字第 1110007227號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f178b8c1-de30-4e2f-ba51-f9c2430d5c3d",
+            "FileName": "民教22(善化區公所)-附件(善化土地分割函文及相關地籍資料).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ffb46c48-7ce6-44fa-8274-ef22a8cb53fa&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/05\/31",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/06\/08",
+    "FirstDesc": "交付財經委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

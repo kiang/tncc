@@ -1,0 +1,58 @@
+{
+    "GradeTime": "第4屆 第5次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2024\/02\/06",
+    "ComeNumber": "府農港字第1130206690號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "為促進將軍漁港市有土地有效利用，增加收益，辦理將軍區山子脚段3535-114地號等20筆市有土地公開標租案及核發土地使用權同意書，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"查土地法第25條規定「直轄市或縣(市)政府對於其所管公有土地非經該管區內民意機關同意，並經行政院核准，不得處分或設定負擔或超過十年期間之租賃」。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"因應將軍漁港腹地廣大、有開發潛能，擬依據土地用途類別，引進民間興辦相關設施，活化港區土地、帶動經濟發展，爰辦理土地公開標租。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"依行政院農業委員會100年6月17日農授漁字第1000119499號函同意備查「變更台南市將軍漁港漁港計畫」之各類土地使用項目辦理標租，租期20年，租金按本市市有房地租金計算基準計收(土地面積*公告地價*年租金率)，年租金率以5%(底價為5%)計算，全數土地標租後年租金至少可達新台幣355萬6,603元(土地總面積165,423.4平方公尺*每平方公尺430元*5%＝3,556,603.1元，四捨五入計算)。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"為促進市有土地利用、增加市庫收益，辦理上開土地標租案。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"本案業經本府112年12月19日第625次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審議，如蒙同意再報請行政院核准，完成處分程序，辦理標租及核發土地使用權同意書。\"}]",
+    "CheckDate": "2024\/03\/14",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/03\/15",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2024\/03\/21",
+    "SendNumber": "南議財經字第 1130001602號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=035d3f1b-b12a-4d60-bb8b-e02adf24c17e",
+            "FileName": "財經市提3號案-附件A.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f615cf25-7fc7-4204-ad5e-48e89307e815",
+            "FileName": "財經市提3號案-附件C.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3f5a2681-b101-43f8-8c69-f5786bae84bb",
+            "FileName": "財經市提3號案-附件B.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ea11ff84-fdaf-43e2-9217-b0dc40cd28d1",
+            "FileName": "財經市提3號案-附件D.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=21579dc4-bfdd-4bc9-a8a3-eba54274517b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/02\/23",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2024\/03\/06",
+    "FirstDesc": "交付財經委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

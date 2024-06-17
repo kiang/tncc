@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 臨時會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/01\/17",
+    "ComeNumber": "府原綜字第1120103801號",
+    "OrgTitle": "臺南市政府原住民族事務委員會",
+    "OrgTitle2": "",
+    "CaseCause": "原住民族委員會核定本府辦理「112年度公益彩券回饋金補助計畫─原饗‧Tainan-都會原住民美食推廣計畫」經費45萬元整乙案（中央補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據原住民族委員會111年9月29日原民社字第11100501562號函及111年11月28日原民社字第1110061570號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」規定、第45點第2款等規定辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費新臺幣161萬7,164元，由中央補助45萬元，協會自籌116萬7,164元，補助經費未及納入本112年度預算，為爭取時效，謹請貴會同意先行辦理墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年1月3日第576次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，並於112年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/02\/09",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/02\/17",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/02\/20",
+    "SendNumber": "南議民教字第 1120000929號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7bc7e42f-4894-4085-89e3-65287e995cdd",
+            "FileName": "民教5(原民會)-附件(核定函及計畫書等資料).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=efddabd3-55b1-4d3a-8a34-07f7566e46c1&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/02\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

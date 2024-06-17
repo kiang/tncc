@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第1屆 第8次 臨時會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2013\/07\/19",
+    "ComeNumber": "府民自字第1020618913號",
+    "OrgTitle": "臺南市政府消防局",
+    "OrgTitle2": "",
+    "CaseCause": "制定「臺南市火災預防自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本市101年火災發生次數較100年增加15件，且傷亡人數及財物損失也呈現增加，顯示在縣市合併後，隨著經濟高度成長，市區建築物朝高層化、多元化發展之趨勢，致火災預防工作亦日趨艱鉅，故建築物之消防安全管理，已成維護市民生命財產安全之首重課題；因此依本市近年火災發生資料分析，從場所「硬體設施」及「人員能力」2面向予以加強提升，故制定本自治條例進行管理，期能降低火災之發生及人命財產之影響。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府102年06月05日第114次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市火災預防自治條例草案」（含總說明及逐條說明）乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、第三條第一款及第四條之各類場所分類有關法條及附件請於大會前，提供議員參考。\r\n二、第八條：依設置標準及建築技術規則應設置瓦斯漏氣火警自動警報設備之新建場所，其管理權人應設置瓦斯遮斷設備。修正為：依設置標準第21條及建築技術規則建築設計施工編第243條應設置瓦斯漏氣火警自動警報設備之新建場所，其管理權人應設置瓦斯遮斷設備。\r\n三、修正通過。\r\n",
+    "DoneDate": "2013\/08\/09",
+    "DoneDesc": "照審查意見修正通過。",
+    "SendDate": "2013\/08\/29",
+    "SendNumber": "南議法規字第  1020010880 號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cb4b7748-d4f5-4903-8f9b-89abfa98baae",
+            "FileName": "火災預防自治條例-總說明.doc",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f5d833e4-c640-41b5-953a-fb44f0a7f01e",
+            "FileName": "火災預防自治條例-逐條說明.doc",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fbf5e604-99b3-448b-9158-ee8ec16ed9a3",
+            "FileName": "火災預防自治條例-草案條文.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e0014e1c-beed-43c1-ad47-50637cb58f20&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見修正通過。",
+    "FirstDate": "2013\/07\/31",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

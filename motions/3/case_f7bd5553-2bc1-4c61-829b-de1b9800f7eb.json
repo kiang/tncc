@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2020\/05\/22",
+    "ComeNumber": "府財產字第1090562714號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理標售本府經管坐落本市歸仁區歸仁北段1044-58地號等4筆非公用市有土地，擬依土地法第25條規定完成處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、坐落本市歸仁區歸仁北段1044-58地號等4筆市有土地，擬依「臺南市市有財產管理自治條例」第49條、第50條第1項第1款及第4款規定辦理標售。\"},{\"tag\":\"p\",\"content\":\"二、本案業經本府109年5月19日第439次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "2020\/07\/03",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2020\/07\/07",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/07\/14",
+    "SendNumber": "南議財經字第 1090005332號",
+    "DoDesc": "議會同意本府出售處分清冊編號1~2等4筆土地，本府於109年7月22日府財產字第1090833320號函送內政部，行政院於109年7月31日院授內地字第1090042351號函核准本府處分在案，賡續辦理出售案件審議作業。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4e6d629e-d585-4eb1-9513-8c762c8fa2c3",
+            "FileName": "擬處分清冊.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f7bd5553-2bc1-4c61-829b-de1b9800f7eb&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "議會同意本府出售處分清冊編號1~2等4筆土地，本府於109年7月22日府財產字第1090833320號函送內政部，行政院於109年7月31日院授內地字第1090042351號函核准本府處分在案，賡續辦理出售案件審議作業。",
+    "ErrorMessage": ""
+}

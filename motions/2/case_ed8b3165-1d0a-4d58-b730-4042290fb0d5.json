@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2016\/04\/12",
+    "ComeNumber": "府農港字第1050374543號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南市淺海牡蠣養殖管理自治條例」第十一條、第十四條、第十五條修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為加強本市淺海牡蠣養殖管理，擬具修正自治條例，增加蚵棚遺失或停養時之處理規定，並提高未標示放養蚵棚及未回收蚵棚之處分罰則。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府105年3月16日第243次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市淺海牡蠣養殖管理自治條例第十一條、第十四條、第十五條修正草案」（含總說明、條文對照表及條文內容）乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2016\/06\/30",
+    "SendNumber": "南議法規字第 1050004523號",
+    "DoDesc": "本案已於105年9月1日府法規字第1050895080A號令修正公布施行。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=79e17ac6-666c-46e0-9470-291b2a18d317",
+            "FileName": "2-3定法規市提3(臺南市淺海牡蠣養殖管理自治條例第十一條、第十四條、第十五條修正草案總說明、對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ed8b3165-1d0a-4d58-b730-4042290fb0d5&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2016\/04\/11",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案已於105年9月1日府法規字第1050895080A號令修正公布施行。",
+    "ErrorMessage": ""
+}

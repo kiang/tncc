@@ -1,0 +1,58 @@
+{
+    "GradeTime": "第2屆 第6次 臨時會",
+    "PTypTitle": "會務",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李議長全教",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市議會錄影、錄音管理規則」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本會錄影、錄音管理規則於103年08月20日修正發佈，並於同年08月22日函送行政院備查。因涉是否抵觸「政府資訊公開法」之適法性疑義，行政院於103年10月23日來函暫不備查，並請本會依據行政院秘書長103年12月15日院臺綜字第1030070497A號函釋意見及內政部103年11月25日內授中民字第1031101862號函說明再行修正後送院備查。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"檢附「臺南市議會錄影、錄音管理規則」修正草案總說明、條文對照表及修正後條文草案。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會同意後報行政院備查。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "第2屆第6次臨時會\r\n照案通過。 \r\n------------------------------------------\r\n第2屆第3次定期大會\r\n以李退之議員建議之條文送大會討論(如附件一)\r\n\r\n------------------------------------------\r\n第2屆第4次定期大會\r\n一、就蔡育輝議員與李退之議員協調折衷建議之修正版本修正通過。\r\n二、第七條：本會開會時除職司錄影、錄音人員外，議員或新聞媒體得在議事廳或委員會會議時錄影、錄音或轉播。但如影響議事進行，主席得制止之。修正為本會開會時除職司錄影、錄音人員外，新聞媒體得在議事廳或委員會會議時錄影、錄音。但如影響議事進行，主席得制止之。",
+    "DoneDate": "2017\/12\/23",
+    "DoneDesc": "第2屆第6次臨時會\r\n退回法規委員會召集全體議員重新討論。\r\n------------------------------------------\r\n第2屆第3次定期大會\r\n備註：本次會因清點人數不足散會，未進行審議。\r\n------------------------------------------\r\n第2屆第7次臨時會\r\n依審查意見將李退之議員建議之條文及蔡育輝議員所提之書面修正動議條文（如附件二），全案重付法規委員會再行審查。\r\n備註：係經第2次會（105年8月23日）決議。\r\n------------------------------------------\r\n第2屆第4次定期大會\r\n照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1138669a-5330-49e2-bb56-f7b6727a6ab1",
+            "FileName": "2-6臨會務1-臺南市議會錄影、錄音管理規則修正草案(總說明、對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6daf0415-95b2-44b4-a4ef-9adf731e4832",
+            "FileName": "2-6臨會務1-臺南市議會錄影音管理規則修正對照表(附件一-李退之議員版本).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c93a7461-34ac-4bf6-81ea-391449c6a6b6",
+            "FileName": "2-7臨-蔡育輝修正動議提案單(附件2-修正2-6臨會務1).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4807f8d1-5a68-424e-8ba7-46d2f7ec1e2c",
+            "FileName": "2-7臨蔡育輝議員修正動議-(附件2-修正2-6臨會務1)錄影音管理規則李退之議員建議之條文及蔡育輝議員所提之書面修正動議條文（附件二）.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=98b031ef-eec2-4dee-958d-88aa9601f5df&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "第2屆第6次臨時會\r\n退回法規委員會召集全體議員重新討論。\r\n------------------------------------------\r\n第2屆第3次定期大會\r\n備註：本次會因清點人數不足散會，未進行審議。\r\n------------------------------------------\r\n第2屆第7次臨時會\r\n依審查意見將李退之議員建議之條文及蔡育輝議員所提之書面修正動議條文（如附件二），全案重付法規委員會再行審查。\r\n備註：係經第2次會（105年8月23日）決議。\r\n------------------------------------------\r\n第2屆第4次定期大會\r\n照審查意見通過。",
+    "FirstDate": "2016\/03\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "14",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2016\/05\/26",
+    "ComeNumber": "府工使二字第1050538611號函",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部核定本市「0206震災補助危險建築物拆除計畫」第1次經費新台幣1億1,052萬3,000元整乙案(全部中央補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟105年度追加減預算或106年度預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據內政部105年5月11日台內營字第10508006467號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「直轄市及縣(市)單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」。\"},{\"tag\":\"p\",\"content\":\"三、本府「0206震災補助危險建築物拆除計畫」第1次獲內政部核定補助拆除45棟危險建築物合計經費新台幣1億1,052萬3,000元(全部中央補助)。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府105年5月25日第251次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟105年度追加減預算或106年度預算時再予轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "同意墊付。",
+    "DoneDate": "2016\/08\/23",
+    "DoneDesc": "照審查意見通過。\r\n備註：係經第2屆第7次臨時會第2次會（105年8月23日）決議通過。",
+    "SendDate": "2016\/08\/31",
+    "SendNumber": "南議工務字第 1050004389號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a8d65fac-97ae-4840-95bd-2fa762448d22",
+            "FileName": "市提14-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4a6918a2-8f5c-4c94-a722-eb38fa37b4bd&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。\r\n備註：係經第2屆第7次臨時會第2次會（105年8月23日）決議通過。",
+    "FirstDate": "2016\/04\/11",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

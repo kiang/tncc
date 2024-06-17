@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第4次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2016\/10\/07",
+    "ComeNumber": "府工管一字第1051048945號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南市建築管理自治條例」第二十一條、第二十三條等條文修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"考量當前整體建築環境不佳且建築人力亦不充足，以延長建築施工期限之方式，紓解實務上遭遇之困境。（修正條文第二十一條）\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為縮短建築工程五大管線審核時程，於申報開工應檢附文件刪除電信部分。（修正條文第二十三條）\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府105年10月5日第266次市政會議審議通過。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"檢附「臺南市建築管理自治條例」部分條文修正草案（含草案總說明、草案對照表、草案條文）各1份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2016\/12\/23",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2017\/01\/03",
+    "SendNumber": "南議法規字第 1050008994號",
+    "DoDesc": "106年1月16日南市工管一字第1060065385號送內政部核定。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=dd79ac79-28d8-42cd-b410-2549f9ad3d9f",
+            "FileName": "臺南市建築管理自治條例第二十一條、第二十三條修正草案(總說明、條文對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1c23635e-c569-4438-9c74-ae0069dcf5bd&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2016\/10\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "106年1月16日南市工管一字第1060065385號送內政部核定。",
+    "ErrorMessage": ""
+}

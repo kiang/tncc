@@ -1,0 +1,54 @@
+{
+    "GradeTime": "第3屆 第12次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市政府經濟發展局",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南市市場處業務」專案報告",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"針對臺南市公有市場因停電造成的攤商損失，責成臺南市政府經發局於半年內就『臺南市公有零售市場攤鋪位使用費收費辦法』提出補償辦法，以因應爾後三不五時斷電之可能對攤商朋友的傷害。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請市府檢討市場管理處的組織及編制，建議調升市場處處長、副處長等各級主管之職等，以符合實際承擔較為繁重的工作職掌。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"請針對議員爭取優先改善的項目，儘速排入施政項目或納編預算，主動向議會回報處理進度。\",\"children\":[]}]}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2022\/03\/25",
+    "DoneDesc": "一、照會議結論通過。\r\n二、下會期安排「西門市場未來規劃」專案報告，請經發局以符合地方需求及顧全攤商權益為原則，處理大菜市未來規劃與糾紛情形。",
+    "SendDate": "2022\/04\/26",
+    "SendNumber": "南議財經字第 1110003777號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5fc84fed-bddc-4b27-a0bf-34a8e2c7d629",
+            "FileName": "1110314臺南市市場處業務專案報告簡報.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d295059a-ad5e-4fac-93b5-e1c7c827e685",
+            "FileName": "1110314臺南市市場處業務專案報告會議紀錄逐字稿.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b98ef27c-a87b-4031-acb2-e94d6dcc2730&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1dcc6f41-8e99-46cf-8b24-0a6a072d7f19",
+            "FileName": "3-12臨財經專報1專案報告結論.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "",
+    "ReDesc": "一、照會議結論通過。\r\n二、下會期安排「西門市場未來規劃」專案報告，請經發局以符合地方需求及顧全攤商權益為原則，處理大菜市未來規劃與糾紛情形。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

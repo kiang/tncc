@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "41",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "尤榮智",
+    "OrgTitle2": "方一峰、蔡育輝、林燕祝",
+    "CaseCause": "請辦理麻豆區埤頭里小埤段701排水改善工程，因年久失修淤積嚴重，急需辦理改善，以杜絕淹水。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"麻豆區埤頭里小埤段701排水改善工程，因年久失修，土溝雜草叢生，造成妨礙排水，急需辦理改善，以杜絕淹水。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"矩形側溝工程：L=120公尺、W=4公尺。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府水利局優先納入改善。\"}]",
+    "CheckDate": "2024\/05\/23",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/05\/29",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2024\/06\/05",
+    "SendNumber": "南議工務字第 1130003930號",
+    "DoDesc": "本府就「請辦理麻豆區埤頭里小埤段701排水改善工程，因年久失修淤積嚴重，急需辦理改善，以杜絕淹水。」案，敬答覆如下：\r\n一、 旨揭地號排水為普庵寺前社區排水，現況為砌石護岸且多處破損雜草叢生。\r\n二、係5月28日豪雨沖刷造成護岸掏空坍塌，影響毗鄰農地及社區排水，本府已提案爭取災害準備金改善，預計施作矩形溝95公尺，經費約420萬。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=735e0fc7-0f69-40bc-8089-75473397895a",
+            "FileName": "4-3定工務議提41號市府回函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=43dad243-d1fa-459f-b2d9-eac41c9558a0&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2024\/06\/14",
+    "ExecuteReNumber": "府水工字第 1130833143號",
+    "ExecuteReMemo": "本府就「請辦理麻豆區埤頭里小埤段701排水改善工程，因年久失修淤積嚴重，急需辦理改善，以杜絕淹水。」案，敬答覆如下：\r\n一、 旨揭地號排水為普庵寺前社區排水，現況為砌石護岸且多處破損雜草叢生。\r\n二、係5月28日豪雨沖刷造成護岸掏空坍塌，影響毗鄰農地及社區排水，本府已提案爭取災害準備金改善，預計施作矩形溝95公尺，經費約420萬。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2020\/09\/15",
+    "ComeNumber": "府教體處設字第1091120223號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "教育部體育署核定本市「臺南市歸仁區游泳池整修工程」經費新臺幣620萬元整(中央補助款434萬元、市配合款186萬元)乙案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據教育部體育署109年9月9日臺教體署設(一)字第1090030667A號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明:本案經費共計620萬元整(中央補助款434萬元、市配合款186萬元)，因未及納入本府110年度總預算，為爭取時效，謹請貴會同意先行墊付，俟111年度總預算時辦理轉正。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府109年9月15日第456次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2020\/09\/24",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2020\/09\/25",
+    "SendNumber": "南議教育字第 1090008773號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2584a3dc-ef86-4bf2-ad30-50e0b2ac2e9c",
+            "FileName": "3-4市提3-計畫書.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8955def8-7a3f-4de6-9de4-9ab6d75a20d4",
+            "FileName": "3-4市提3-核定文.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0ada3400-1439-4b7d-8c9c-ddff412aed48&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "2020\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

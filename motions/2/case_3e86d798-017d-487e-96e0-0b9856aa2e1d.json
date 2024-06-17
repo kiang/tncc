@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第2次 臨時會",
+    "PTypTitle": "會務",
+    "CaseNumber": "2",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林燕祝",
+    "OrgTitle2": "蔡淑惠、王家貞、謝龍介、洪玉鳳、林美燕、蔡育輝、許至椿、曾順良、曾培雅、李坤煌、蔡玉枝、盧崑福",
+    "CaseCause": "修正「臺南市議會程序委員會設置辦法」第二條草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"程序委員會攸關議程及法案排定，而其朝野攻防、議事是否順暢每決於此，為朝野議事減少紛爭豫於事前，程序委員會由政黨(團)推派分配，非但公平合理，亦有助議事和諧。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本提案係參考高雄市議會程序委員會設置辦法第二條程序委員會之組成係依黨團推派分配方式訂定之。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"一、修正內容如附表。\"},{\"tag\":\"p\",\"content\":\"二、提請大會同意後報請行政院備查，並函知市政府。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2015\/02\/12",
+    "DoneDesc": "照案通過。",
+    "SendDate": "2015\/02\/12",
+    "SendNumber": "南議議事字第 1040000880號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f48cdb1b-b616-42de-817b-b9089ce16b71",
+            "FileName": "2-2臨會務2(條文草案總說明、對照表、條文草案).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3e86d798-017d-487e-96e0-0b9856aa2e1d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照案通過。",
+    "FirstDate": "2015\/01\/27",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

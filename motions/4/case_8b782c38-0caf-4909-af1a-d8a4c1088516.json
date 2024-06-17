@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "18",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2024\/05\/02",
+    "ComeNumber": "府文秘字第1130630709 號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本市「財團法人台南市文化基金會112年度決算書」乙案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"財團法人台南市文化基金會，為政府捐助之財團法人。依「決算法」及「臺南市財團法人依法決算須送臺南市議會之決算編製注意事項」，將該會112年度決算書送請議會審議。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"112年度決算書業經財團法人台南市文化基金會於113年4月10日召開第13屆第6次董監事會議審核通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府113年4月30日第644次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=718874a1-6d60-4779-88f9-786fdbd72fac",
+            "FileName": "市提18附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8b782c38-0caf-4909-af1a-d8a4c1088516&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "",
+    "FirstDate": "2024\/05\/29",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

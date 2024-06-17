@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "8",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/03\/27",
+    "ComeNumber": "府農務字第1130471025號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "農業部農糧署核定本府113年「水果產業結構調整計畫-113年推動外銷果品產銷供應鏈計畫、113年輔導優質水果集團產區計畫及113年推動安全果品溯源管理計畫」案，經費514萬3,000元整(中央補助款)因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據農業部農糧署113年2月29日農糧果字第1131130022號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"所需總經費共計新臺幣1,047萬9,000元（中央補助款514萬3,000元、農民團體配合款533萬6,000元），其中中央補助款514萬3,000元整因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要工作項目為補助官田區農會等17個農民團體輔導農友提升品質，辦理講習會、國際驗證及集貨運銷設備之改善等費用。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府113年3月26日第639次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案為藉由辦理講習會、國際驗證及集貨運銷設備之改善等，輔導農友提升果品品質，並依113年2月29日農糧果字第1131130022號函要求於113年12月31日前結案，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算辦理轉正。\"}]",
+    "CheckDate": "2024\/05\/13",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2024\/05\/29",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e26abd51-e138-42ae-ac7f-fa78c4ac18be",
+            "FileName": "附件-財經第8號案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=723869e7-1caf-4446-b85c-0a77ae02ee77&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2024\/04\/19",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

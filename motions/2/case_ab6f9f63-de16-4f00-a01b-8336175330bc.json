@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第3次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2016\/05\/26",
+    "ComeNumber": "府財產字第1050496506號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理出售本府經管坐落本市官田區隆田段1175地號等6筆非公用市有土地，擬依土地法第25條規定完成處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、坐落本市官田區隆田段1175地號等6筆市有土地，擬依「臺南市市有財產管理自治條例」第50條第1項第1款規定辦理標售。\"},{\"tag\":\"p\",\"content\":\"二、本案業經本府105年5月25日第251次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2016\/08\/23",
+    "DoneDesc": "照審查意見通過。\r\n備註：係經第2屆第7次臨時會第2次會（105年8月23日）決議通過。",
+    "SendDate": "2016\/08\/31",
+    "SendNumber": "南議財經字第 1050006103號",
+    "DoDesc": "本案業已依土地法25條規定送請行政院核准處分在案，並辦理出售作業程序完竣。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b3e05baa-3648-4e35-aa07-f60b6d8f1ac5",
+            "FileName": "第2屆第3次定期會擬處分清冊（提案3）.xlsx",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ab6f9f63-de16-4f00-a01b-8336175330bc&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。\r\n備註：係經第2屆第7次臨時會第2次會（105年8月23日）決議通過。",
+    "FirstDate": "2016\/04\/11",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案業已依土地法25條規定送請行政院核准處分在案，並辦理出售作業程序完竣。",
+    "ErrorMessage": ""
+}

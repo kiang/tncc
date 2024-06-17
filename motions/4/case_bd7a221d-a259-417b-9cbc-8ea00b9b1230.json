@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "9",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "施余興望 Tjakumay Tagaw",
+    "OrgTitle2": "林志展、林依婷、李鎮國、李啓維、李宗翰、蔡筱薇、余柷青",
+    "CaseCause": "建請市府訂定「台南市政府補助經濟弱勢原住民族建購及修繕住宅要點」，並編列年度預算支應所需經費。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為協助經濟弱勢原住民族改善居住環境，維護居住安全與健康，提高生活品質。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"目前新北市、台北市、桃園市有訂定補助經濟弱勢原住民族建購及修繕住宅要點，且補助內容優於中央原民會，因此建請台南市政府能夠參照其他縣市訂定相關補助辦法。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/06\/26",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/10",
+    "SendNumber": "南議民教字第 1120005874號",
+    "DoDesc": "收文字號：112年7月13日1120006377號\r\n市府回覆執行情形詳附件。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c2655ce7-c327-4a30-be2c-ebf874aae202",
+            "FileName": "4-1定民教議提9回覆附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=bd7a221d-a259-417b-9cbc-8ea00b9b1230&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/07\/13",
+    "ExecuteReNumber": "府原綜字字第 1120903420號",
+    "ExecuteReMemo": "收文字號：112年7月13日1120006377號\r\n市府回覆執行情形詳附件。",
+    "ErrorMessage": ""
+}

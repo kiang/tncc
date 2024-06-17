@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2021\/10\/13",
+    "ComeNumber": "府財產字第1101191584號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理本府經管本市東區育樂段1183-1地號非公用市有土地併同財政部國有財產署經管同段1182-1、1202-1地號國有土地設定地上權，謹依土地法第25條規定之處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、坐落本市東區育樂段1183-1地號非公用市有土地，擬依「臺南市市有財產管理自治條例」第45條第2項規定，併同財政部國有財產署經管同段1182-1、1202-1地號國有土地設定地上權。\"},{\"tag\":\"p\",\"content\":\"二、本案業經本府110年10月5日第511次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理設定地上權。\"}]",
+    "CheckDate": "2021\/11\/26",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/12\/06",
+    "SendNumber": "南議財經字第 1100012026號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6720e994-d425-4beb-bebe-321e88ebed96",
+            "FileName": "地籍圖.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3d7816c5-b142-4eac-91f6-cdcdfe0c94d2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

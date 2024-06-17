@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "47",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "張世賢",
+    "OrgTitle2": "李鎮國、王家貞、許至椿、蔡淑惠、尤榮智、李中岑、曾培雅",
+    "CaseCause": "白河區河東里8鄰內洲農路路面改善工程，避免鄉親行車造成危險，建請改善乙案。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"該路段為里民農作必經道路，路面坑洞、砂及龜裂導致難行，易造成里民交通事故。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"經里民多次向里長及本服務處反映，白河區公所與本服務處於8月18日已會勘完畢，會勘結果亟需改善。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"建請市府盡速改善執行。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/10\/03",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/10\/05",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/10\/13",
+    "SendNumber": "南議財經字第 1110012140號",
+    "DoDesc": "本府就「白河區河東里8鄰內洲農路路面改善工程，避免鄉親行車造成危險，建請改善。」決議案，敬答覆如下：\r\n一、工程名稱：白河區河東里8鄰內洲農路路面改善工程。\r\n二、本案已於111年8月24日辦理現場勘查完竣，本府將參酌公所提報經費之合理性、並考量農路改善的需求性、急迫性，遵照「臺南市政府農業局辦理農路修繕審查作業要點」，依極危險、危險、不便、普通4個等級序辦理農路案件之核定，以妥善運用有限經費及資源。\r\n三、承蒙貴會對於農路業務之關切，本府至為感謝，尚請不吝賜教。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f361d903-3723-4537-8441-94bdefa3e592",
+            "FileName": "3-8定(財經議提47號)附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2e231286-4fd7-4e32-af32-0bf1fc3bde65&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/10\/18",
+    "ExecuteReNumber": "府農工字第 1111347213號",
+    "ExecuteReMemo": "本府就「白河區河東里8鄰內洲農路路面改善工程，避免鄉親行車造成危險，建請改善。」決議案，敬答覆如下：\r\n一、工程名稱：白河區河東里8鄰內洲農路路面改善工程。\r\n二、本案已於111年8月24日辦理現場勘查完竣，本府將參酌公所提報經費之合理性、並考量農路改善的需求性、急迫性，遵照「臺南市政府農業局辦理農路修繕審查作業要點」，依極危險、危險、不便、普通4個等級序辦理農路案件之核定，以妥善運用有限經費及資源。\r\n三、承蒙貴會對於農路業務之關切，本府至為感謝，尚請不吝賜教。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "12",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2023\/10\/04",
+    "ComeNumber": "府財產字第1121276083號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理標售本府經管坐落本市歸仁區歸仁北段1044-57地號非公用市有土地，謹依土地法第25條規定之處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"坐落本市歸仁區歸仁北段1044-57地號市有土地，擬依「臺南市市有財產管理自治條例」第49條規定辦理標售。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府112年10月3日第614次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "2023\/11\/27",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/12\/05",
+    "SendNumber": "南議財經字第 1120011704號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c7bda24e-14be-4904-b6a6-78baf389fff8",
+            "FileName": "提案12標售-地籍圖.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8b88116b-e830-453b-a12c-c12b8325b545",
+            "FileName": "財經12-處分清冊.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1c909828-4b56-448b-ae02-14898c35c71c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/10\/19",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2023\/10\/27",
+    "FirstDesc": "交付財經委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

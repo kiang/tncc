@@ -1,0 +1,54 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2024\/05\/14",
+    "ComeNumber": "府財稅字第1130653437號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市房屋稅徵收率自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為配合房屋稅條例於113年1月3日修正公布，調整住家用房屋之法定稅率範圍，並將非自住住家用房屋戶數改採全國歸戶計算，爰擬具本修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經113年5月14日第646次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市房屋稅徵收率自治條例」修正草案(含總說明、條文對照表及草案條文)1份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2024\/05\/29",
+    "DoneDesc": "一、同意市府撤回。\r\n二、請市府於下會期前召開公聽會或說明會，並排定專案報告後，再行審議。",
+    "SendDate": "2024\/06\/04",
+    "SendNumber": "南議法規字第 1130003953號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a79bad12-79ad-48bc-a18b-0e381e85f23a",
+            "FileName": "3-4定--市提2--臺南市房屋稅徵收率自治條例修正草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d82f1dec-cfa2-4bc7-8fd5-a383f1f1e07f",
+            "FileName": "4-3定附件---市提2各直轄市房屋稅徵收率自治條例立法例.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=57f16aae-e4df-42fb-b784-b2216e5ce15c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a4209a7f-694e-45fb-89a6-88bb5f2f393f",
+            "FileName": "撤案+公聽會---(012-大會)4屆2定0529第12次會紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "一、同意市府撤回。\r\n二、請市府於下會期前召開公聽會或說明會，並排定專案報告後，再行審議。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

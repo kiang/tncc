@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第5次 臨時會",
+    "PTypTitle": "教育",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2020\/08\/13",
+    "ComeNumber": "府文秘字第1090974455號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "文化部文化資產局核定本市辦理「歷史建築原臺南陸軍偕行社修復工程」經費新臺幣240萬元整乙案(中央補助款120萬元整；市配合款120萬元整)，為爭取時效，謹請貴會同意先行墊付新臺幣240萬元，俾憑辦理後續相關作業事宜，俟110年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據文化部文化資產局109年5月18日文資蹟字第10930056152號函。\"},{\"tag\":\"p\",\"content\":\"二、依據「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分攤且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"本案總經費新臺幣8,500萬元整(中央補助款4,250萬元，市配合款4,250萬元)，採一次發包，分年編列預算辦理(109年度240萬元，110年度2,000萬元、111年度2,800萬元、112年度3,460萬元)，其中109年度240萬元（中央補助款120萬元，市配合款120萬元），因未及納入本府109年度總預算，為爭取執行時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府109年6月23日第444次市政會議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟110年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2020\/09\/02",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2020\/09\/09",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2020\/09\/16",
+    "SendNumber": "南議教育字第 1090008125號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d09865aa-ca90-4350-8770-790989972e84",
+            "FileName": "市提3金額核定.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=22f2081b-f550-4933-8c2f-8a37618e0751",
+            "FileName": "市提3計劃書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0deb8352-1703-45df-9949-08e020128921&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2020\/08\/31",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

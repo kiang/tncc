@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "6",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/03\/29",
+    "ComeNumber": "府農漁字1110429127號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會漁業署核定本府辦理「111年度循環水養殖設施補助計畫」案，中央補助款經費新臺幣865萬5,000元(配合預算調整至千元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院農業委員會漁業署111年3月16日漁四字第1111346536號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"總經費新臺幣1,892萬5,034元(中央補助款865萬4,528元及養殖戶自籌款1,027萬0,506元)，其中中央補助款865萬5,000元(配合預算調整至千元)因未及納入本府111年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要內容為辦理補助養殖業者之魚塭設置循環水養殖設施。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府111年3月29日535次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度預算時再予轉正。\"}]",
+    "CheckDate": "2022\/05\/09",
+    "CheckDesc": "聯席審查意見：\r\n一、同意墊付。\r\n二、請將補助資訊寄送至養殖戶知悉。",
+    "DoneDate": "2022\/06\/08",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2022\/06\/14",
+    "SendNumber": "南議財經字第 1110005542號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=38350c9c-dc70-4b87-8beb-52fcdcfb2daf",
+            "FileName": "6-3.111年度循環水養殖設施補助計畫-計畫書.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6f23ddc2-5297-44a3-bce9-d49bec0a5463",
+            "FileName": "6-2.111年度循環水養殖設施補助計畫_核定函.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=154cb67e-71d9-4ba5-bb18-2895d4c1f9d2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/04\/06",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

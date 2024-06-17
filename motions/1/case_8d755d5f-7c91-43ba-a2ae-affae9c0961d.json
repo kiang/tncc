@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第4次 臨時會",
+    "PTypTitle": "會務",
+    "CaseNumber": "8",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "賴議長美惠",
+    "OrgTitle2": "",
+    "CaseCause": "訂定「臺南市議會旁聽規則(草案)」，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、為有效管制旁聽人進出議場，以維護議場秩序，特訂定本規則，俾便實施。\"},{\"tag\":\"p\",\"content\":\"二、檢附「臺南市議會旁聽規則(草案)」。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會同意後，發布施行。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2011\/04\/01",
+    "DoneDesc": "一、第三條第六款「未經主席核可不得錄音或錄影」刪除。\r\n二、修正通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=edd2fe88-46c0-4f0c-9767-9ee081339dcd",
+            "FileName": "1-4臨會務8-臺南市議會旁聽規則.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8d755d5f-7c91-43ba-a2ae-affae9c0961d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "一、第三條第六款「未經主席核可不得錄音或錄影」刪除。\r\n二、修正通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

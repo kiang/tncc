@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "16",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "邱莉莉、Ingay Tali 穎艾達利",
+    "CaseCause": "建議永康區東橋一路與東橋八街，其單側無照明設施，建請加裝照明設備。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"永康區東橋一路與東橋八街，其單側無照明設施，且東橋一路道路較長，對於用路人夜間辨識較差，建請市府、區公所協助照明設施建立。(如圖)\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/05\/23",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/05\/29",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2024\/06\/05",
+    "SendNumber": "南議工務字第 1130003877號",
+    "DoDesc": "本府就「永康區東橋一路與東橋八街，其單側無照明設施，建請加裝照明設備」案，敬答覆如下：\r\n本府工務局前於113年5月28日會同李鎮國議員服務處及永康區公所辦理該路段現勘，該路段係單邊設置路燈照明，近期本府工務局將辦理汰換高瓦特LED路燈，屆時夜間照明將會改善。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=79d20a48-c8df-488b-814a-34ac86e12fa6",
+            "FileName": "工務議提16附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8a49a85c-f5b6-4951-8769-b0e1a068ce53&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2024\/06\/14",
+    "ExecuteReNumber": "府工園二字第 1130816937號",
+    "ExecuteReMemo": "本府就「永康區東橋一路與東橋八街，其單側無照明設施，建請加裝照明設備」案，敬答覆如下：\r\n本府工務局前於113年5月28日會同李鎮國議員服務處及永康區公所辦理該路段現勘，該路段係單邊設置路燈照明，近期本府工務局將辦理汰換高瓦特LED路燈，屆時夜間照明將會改善。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 臨時會",
+    "PTypTitle": "教育",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2021\/01\/13",
+    "ComeNumber": "府文秘字第1100095365號",
+    "OrgTitle": "臺南市政府文化局所屬臺南市立圖書館",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理本市山上區大新段第5地號內58389.9平方公尺之市有土地，出租予台灣自來水股份有限公司，為其申請核發土地使用同意書，茲依土地法第25條規定完成處分程序，提請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、查土地法第25條規定：「直轄市或縣（市）政府對於其所管公有土地，非經該管區內民意機關同意，並經行政院核准，不得處分或設定負擔或為超過十年期間之租賃」。\"},{\"tag\":\"p\",\"content\":\"二、依台灣自來水股份有限公司第六區管理處109年4月14日台水六總字第1090004646號函，為辦理山上淨水場更新改善工程增租臺南市政府文化局轄山上區大新段第5地號內土地面積58389.9平方公尺，並請核發土地使用同意書，以利該工程需動土興建淨廢水處理設施(詳附件)。爰依土地法第25條規定，送貴會同意，並經行政院核准，核發土地使用同意書事宜。\"},{\"tag\":\"p\",\"content\":\"三、本案業經本府110年1月12日第473次市政會議審查通過，送請貴會審議。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審議，如蒙同意再報請行政院核准。\"}]",
+    "CheckDate": "2021\/01\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2021\/01\/26",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/01\/29",
+    "SendNumber": "南議教育字第 1100000779號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=76d52bba-287c-450d-80d6-9e2cd97bc8cf",
+            "FileName": "3-7-市提5附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6ca7116c-e60e-4b90-9843-8d9003799431&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/01\/05",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

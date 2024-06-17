@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "10",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2012\/02\/01",
+    "ComeNumber": "府民自字第1010060862號",
+    "OrgTitle": "臺南市政府法制處",
+    "OrgTitle2": "",
+    "CaseCause": "擬具「臺南市財團法人設立許可及監督自治條例（草案）」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南縣、市合併改制為直轄市後，涉及原縣、市相關法規之整併與原財團法人存續及管理上之重新檢討。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為因應縣市合併後臺南市（以下簡稱本市）財團法人之管理需要，並解決原有臺南縣與臺南市財團法人規範法規體系位階混亂等情形，爰統一制定本自治條例，以妥善規範本市財團法人之設立許可條件及監督輔導等管理事宜，期能完善本市財團法人之設立監督等管理機制並促進本市財團法人之健全發展。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府101年1月19日第52次市政會議審議通過。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"檢附「臺南市財團法人設立許可及監督自治條例（草案）」（含總說明及逐條說明）乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"經貴會議決通過後，依法制作業程序辦理公布事宜。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、修正第五條（修正內容詳附表二）。\r\n二、修正通過。",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "照審查意見修正通過。",
+    "SendDate": "2012\/06\/22",
+    "SendNumber": "南議法規字第 1010010740號",
+    "DoDesc": "本自治條例業經本府於101年7月6日以府法規字第1010536096A號令公布，並於同日以府法規字第1010536096D號函請法務部轉行政院備查。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=78e7c9ad-7e72-4bc7-b0a5-6cfbb88b24b0",
+            "FileName": "臺南市財團法人設立許可及監督自治條例草案(總說明、逐條說明、草案條文).doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=dc2f54bb-ba3a-4d23-81ec-d89955c57e43&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見修正通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本自治條例業經本府於101年7月6日以府法規字第1010536096A號令公布，並於同日以府法規字第1010536096D號函請法務部轉行政院備查。",
+    "ErrorMessage": ""
+}

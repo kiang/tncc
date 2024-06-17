@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第2次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "尤榮智",
+    "OrgTitle2": "盧崑福、林燕祝、杜素吟",
+    "CaseCause": "請重視六甲區復興街(仁愛街~忠孝街)及民生街(建國街~復興街)交通瓶頸段之徵收開闢，給民眾安全的通行道路。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、復興街東側路段為六甲都市計畫8米道路，臨近忠孝街(12M)、復興街(10M)、仁愛街(10M)皆已開闢完成，僅餘長115M尚未開闢，目前道路狹窄彎曲，常造成交通事故。\"},{\"tag\":\"p\",\"content\":\"二、民生街北側路段為六甲都市計畫8米道路，臨近建國街(12M)、復興街(10M)、永安街(10M)皆已開闢完成，僅餘長84M尚未開闢，目前道路狹窄，常造成交通通行瓶頸。\"},{\"tag\":\"p\",\"content\":\"三、建請市府儘速徵收開闢上述計畫道路,以利地方人車安全通行。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2019\/02\/27",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/03\/08",
+    "SendNumber": "南議工務字第 1080001872號",
+    "DoDesc": "本案經市府108年3月18日府工新二字第1080321359號函復：\r\n(詳如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=dccd44d3-ce76-42b9-b3e0-61dba78f5986",
+            "FileName": "3-2臨(議提1)書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=26b907ff-ca83-4fa5-8923-862198d54755&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/02\/14",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府108年3月18日府工新二字第1080321359號函復：\r\n(詳如夾檔)",
+    "ErrorMessage": ""
+}

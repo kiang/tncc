@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 臨時會",
+    "PTypTitle": "建設",
+    "CaseNumber": "5",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "尤榮智、蔡育輝、王家貞、蔡宗豪、林冠維、余柷青",
+    "CaseCause": "請臺南市政府就社會住宅制度規劃，至本會進行專案報告。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"市府興辦首批社宅將在今年底陸續完工，明年啟動招租，雖已舉辦社會住宅制度規畫說明會，公開草案內容，仍必須聽取各方聲音後作為後續推動參考。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"目前市府規劃之措施包含租金補貼、包租代管、興建社宅等政策實施，是否能有效實現「居住正義」，仍必須受議會監督並充分溝通，故有必要至本會進行專案報告。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/03\/14",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/03\/15",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2024\/03\/18",
+    "SendNumber": "南議建設字第 1130001397號",
+    "DoDesc": "本府就「請臺南市政府就社會住宅制度規劃，至本會進行專案報告」案，敬答覆如下：\r\n1、因應外界關心本市社會住宅制度規劃，本府於113年3月5日舉辦「社會住宅制度規劃說明會」並邀請全體議員、社福團體、專家學者、社會住宅所在及週邊地區里長、國土管理署、國家住宅及都市更新中心等機關參與。針對說明會各方相關反饋意見，後續將協同相關單位共同研議評估，以兼顧住宅法、市政政策指導及民意需求。\r\n2、本府將配合進行專案報告，貴席等關心市政熱忱，本府併予致謝。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=42d7bf56-f90f-4c58-8680-3504f621cb1d",
+            "FileName": "附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=54e45787-716b-41f6-a907-6158b25129dd&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2024\/03\/20",
+    "ExecuteReNumber": "府都住字第 1130424990號",
+    "ExecuteReMemo": "本府就「請臺南市政府就社會住宅制度規劃，至本會進行專案報告」案，敬答覆如下：\r\n1、因應外界關心本市社會住宅制度規劃，本府於113年3月5日舉辦「社會住宅制度規劃說明會」並邀請全體議員、社福團體、專家學者、社會住宅所在及週邊地區里長、國土管理署、國家住宅及都市更新中心等機關參與。針對說明會各方相關反饋意見，後續將協同相關單位共同研議評估，以兼顧住宅法、市政政策指導及民意需求。\r\n2、本府將配合進行專案報告，貴席等關心市政熱忱，本府併予致謝。",
+    "ErrorMessage": ""
+}

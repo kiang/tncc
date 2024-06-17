@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "46",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "杜素吟",
+    "OrgTitle2": "林阳乙、陳秋萍、莊玉珠、陳文賢",
+    "CaseCause": "建請市府工務局全面重新鋪設仁德區新田里勝利路道路路面，以利通行安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"該道路路面損壞嚴重，舉目所見處處皆是坑洞，加上年久失修，路面凹凸不平，影響通行甚鉅，危及路人通行安全，亟需儘速改善。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2017\/06\/23",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2017\/07\/06",
+    "SendNumber": "南議工務字第 1060004550號",
+    "DoDesc": "本案經市府106年7月17日府工養二字第1060718790號函復：（詳夾檔）",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3cbcc06e-ffd8-4764-bd4c-93782ea837b4",
+            "FileName": "2-5-議提工務第46號案函復公文  .pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a4409f5a-fec5-41d4-9855-e37a0834e6aa&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2017\/04\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府106年7月17日府工養二字第1060718790號函復：（詳夾檔）",
+    "ErrorMessage": ""
+}

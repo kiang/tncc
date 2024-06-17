@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "6",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2012\/02\/01",
+    "ComeNumber": "府民自字第1010060862號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "為有效管理臺南市公有停車場，提昇停車場整體經營服務水準，改善違規停車情形，特制定「臺南市公有停車場收費及管理自治條例」，敬請　審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據「地方制度法」第十八條第十款關於直轄市之交通規劃、營運及管理之自治事項，制定本市公有停車場收費及管理之相關規定，俾以有效管理公有停車空間，改善停車秩序，滿足都市發展需求。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"原臺南市制定有「臺南市公有停車場管理自治條例」、原臺南縣制定有「臺南縣公有停車場管理自治條例」，因應縣市合併升格為直轄市，為統一大臺南法規依據，重新制定「臺南市公有停車場收費及管理自治條例」，以利執行停車管理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府100年11月30日第45次市政會議審議通過在案，送請　貴會審議。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"依「地方制度法」第二十六條規定，俟　貴會審議通過後發布。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、修正第十條第一項（修正內容詳附表二）。\r\n二、修正通過。",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "照審查意見修正通過。",
+    "SendDate": "2012\/06\/22",
+    "SendNumber": "南議法規字第 1010010740號",
+    "DoDesc": "業於101年7月16日以府法規字第1010552378A號令公布實施。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=803a4182-c3a9-4beb-9a34-b6f7c34b091d",
+            "FileName": "臺南市公有停車場收費及管理自治條例(總說明、逐條說明、草案條文).doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9693aae2-4539-417a-ac86-d97336d0d3b5&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見修正通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "業於101年7月16日以府法規字第1010552378A號令公布實施。",
+    "ErrorMessage": ""
+}

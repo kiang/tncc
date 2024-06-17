@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第6次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2013\/09\/12",
+    "ComeNumber": "府民自字第1020782780號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理出售本府經管坐落本市新化區新興段395地號等8筆非公用市有土地，擬依土地法第25條規定完成處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、坐落本市新化區新興段395地號等8筆市有土地，擬依「臺南市市有財產管理自治條例」第50條第1項第1款及第4款規定辦理標售。\"},{\"tag\":\"p\",\"content\":\"二、本案業經本府102年7月10日第118次及102年9月4日第126次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2013\/12\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2013\/12\/12",
+    "SendNumber": "南議財經字第 1020011163號",
+    "DoDesc": "本案8筆土地業經行政院於103年1月14日院授內中地字第1036030256號函核准完成處分程序。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ebaa701f-e16b-421b-97d7-4c1c990ef02d",
+            "FileName": "第一屆第6次定期大會擬處分清冊(提案3).xls",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=eaf4d2d7-7c57-4381-9e99-e9c8336c0dc6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2013\/10\/01",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案8筆土地業經行政院於103年1月14日院授內中地字第1036030256號函核准完成處分程序。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,58 @@
+{
+    "GradeTime": "第3屆 第12次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/02\/21",
+    "ComeNumber": "府農秘字1110274366號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會漁業署核定本府「111年北門南興養殖區三中排改善工程案等4件(不含設計)」案，經費6,065萬8,000元(中央補助款3,032萬9,000元、市配合款3,032萬9,000元)，其中市配合款3,032萬9,000元因未及納入111年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院農業委員會漁業署110年12月8日漁一字第1101317630號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"所需總經費新台幣6,065萬8,000元(中央補助款3,032萬9,000元、市配合款3,032萬9,000元)(配合預算編列調整至千元)，其中市配合款3,032萬9,000元因未及納入本府111年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要工作項目為辦理四項養殖生產區排水溝及道路改善工程之監造及工程施作。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府111年1月4日第524次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度預算時再予轉正。\"}]",
+    "CheckDate": "2022\/03\/10",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/03\/25",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/03\/31",
+    "SendNumber": "南議財經字第 1110001819號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=948a541c-78b8-44f0-bd50-6239dc26ce7d",
+            "FileName": "3-2農業局_111年北門南興養殖區三中排改善工程案等4件(不含設計)_議案說明.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=94a296a4-949a-44b4-86d5-dd45fe48303b",
+            "FileName": "3-4農業局_111年北門南興養殖區三中排改善工程案等4件(不含設計)_中央核定函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e41a0c49-d3b1-4b35-b537-fdd81159b9d2",
+            "FileName": "3-3農業局_111年北門南興養殖區三中排改善工程案等4件(不含設計)_中央同意函.PDF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5a590bd3-971d-484d-b87b-2bb3182cbe4a",
+            "FileName": "3-5農業局_111年北門南興養殖區三中排改善工程案等4件(不含設計)_核定計畫書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=72dfe603-3e1f-421d-90ae-43764ebac30c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/03\/09",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

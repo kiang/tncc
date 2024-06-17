@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 臨時會",
+    "PTypTitle": "建設",
+    "CaseNumber": "7",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/07\/21",
+    "ComeNumber": "府都區字第1120947921號",
+    "OrgTitle": "臺南市政府都市發展局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部核定補助本市「本府後續邀請內政部國土計畫審議會委員列（出）席作業費用」經費新臺幣19萬2,000元整（全額中央補助款），為爭取時效，謹請貴會同意先行墊付，俟113年度總預算時辦理轉正，俾憑辦理後續相關作業事宜，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部112年7月5日內授營綜字第1120809288號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費19萬2,000元，因未及納入本府112年度總預算，為爭取時效，謹請貴會同意先行墊付，俟113年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年7月18日第603次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本案係內政部補助經費案，該為使內政部國土計畫審議會委員先行了解各直轄市、縣（市）國土功能分區圖繪製狀況，以利加速內政部後續審議進度，爰補助地方政府邀請該部國審會參與各該市（縣）國土計畫審議會，所衍生之相關費用；另因該部請本府於文到次日起4個月內請領補助款全額。因未及納入本(112)年度總預算，為爭取時效故提本次墊付案。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/08\/11",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/08\/17",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/08\/23",
+    "SendNumber": "南議建設字第 1120007803號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=54c1716f-04ee-4102-b2ac-cee7bef8d032",
+            "FileName": "附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=59ccb157-d794-4d1e-b40a-ed84b8b21c85&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/08\/01",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/08\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

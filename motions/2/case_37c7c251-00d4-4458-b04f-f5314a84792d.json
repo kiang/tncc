@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "65",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "王家貞、曾培雅",
+    "CaseCause": "請工務局擇期會勘國民路50巷路面，並依會勘結果辦理。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"本市南區國民路50巷路面已長期損毀未翻修，請工務局擇期辦理會勘。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府現勘後研議辦理。",
+    "DoneDate": "2017\/06\/23",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2017\/07\/06",
+    "SendNumber": "南議工務字第 1060004563號",
+    "DoDesc": "本案經市府106年7月13日府工務一字第1060724586號函復：（詳夾檔）",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a2c7b363-aa01-4ca0-aa22-d74db763055f",
+            "FileName": "2-5-議提工務第65號案函復公文  .pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=37c7c251-00d4-4458-b04f-f5314a84792d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2017\/04\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府106年7月13日府工務一字第1060724586號函復：（詳夾檔）",
+    "ErrorMessage": ""
+}

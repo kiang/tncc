@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "63",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳碧玉",
+    "OrgTitle2": "蔡旺詮、郭鴻儀、Ingay Tali穎艾達利",
+    "CaseCause": "建請市府工務局儘速在新市區東大社段473地號旁裝設路燈，以利民眾通行。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"據民眾反映，新市區大社里東大社段473地號旁道路轉彎處，常因天色昏暗又無路燈，很多騎士不小心駛入農田之中。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請市府工務局，儘速在上該地點裝設路燈，以保障人車通行安全。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/06\/01",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/06\/08",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/06\/23",
+    "SendNumber": "南議工務字第 1110005970號",
+    "DoDesc": "本府就「新市區東大社段473地號旁裝設路燈，以利民眾通行」案，敬答覆如下:\r\n本府工務局前於111年6月2日已辦理完成現場路燈增設(如附件)，現刻正請台灣電力公司辦理外線佈設作業，以利該盞路燈正常放亮。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bf50e52f-0771-49b0-a71c-67c88a006e88",
+            "FileName": "3-7定 (工務議提63)答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f86725b5-9942-41f4-82e1-c13864b19351&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/07\/05",
+    "ExecuteReNumber": "府工園二字第 1110828838號",
+    "ExecuteReMemo": "本府就「新市區東大社段473地號旁裝設路燈，以利民眾通行」案，敬答覆如下:\r\n本府工務局前於111年6月2日已辦理完成現場路燈增設(如附件)，現刻正請台灣電力公司辦理外線佈設作業，以利該盞路燈正常放亮。",
+    "ErrorMessage": ""
+}

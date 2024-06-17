@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第4次 臨時會",
+    "PTypTitle": "會務",
+    "CaseNumber": "10",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "賴議長美惠",
+    "OrgTitle2": "",
+    "CaseCause": "訂定「臺南市議會政黨黨團辦公室設置辦法(草案)」，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、為有效推動政黨黨團會務聯繫作業順遂，特訂本辦法，俾便實施。\"},{\"tag\":\"p\",\"content\":\"二、檢附「臺南市議會政黨黨團辦公室設置辦法(草案)」。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會同意後報行政院備查。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2011\/04\/01",
+    "DoneDesc": "一、第五條第一項修正為：黨團辦公室設備市內電話分機、電腦、傳真機、列表機、影印機及辦公桌椅等基本設備，由本會提供。其餘辦公設備或用品等費用由各該黨團自理。\r\n二、增列第二項：黨團人數15人以上置服務人員2人，不足15人置服務人員1人，以協助黨團業務。\r\n三、修正通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=90eff46d-0473-48e0-9a87-1ccc448918df",
+            "FileName": "1-4臨會務10-臺南市議會政黨黨團辦公室設置辦法.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=88412a53-1e71-43c5-81ee-b041cf667774&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "一、第五條第一項修正為：黨團辦公室設備市內電話分機、電腦、傳真機、列表機、影印機及辦公桌椅等基本設備，由本會提供。其餘辦公設備或用品等費用由各該黨團自理。\r\n二、增列第二項：黨團人數15人以上置服務人員2人，不足15人置服務人員1人，以協助黨團業務。\r\n三、修正通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,55 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2023\/05\/19",
+    "ComeNumber": "府工管一字第1120663211號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "擬具「臺南市營建工程賸餘土石方處理及資源堆置處理場設置管理自治條例」修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本案業經本府112年5月16日第594次市政會議審議通過。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"檢附「臺南市營建工程賸餘土石方處理及資源堆置處理場設置管理自治條例」修正草案總說明、草案對照表、草案條文。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "2023\/06\/19",
+    "CheckDesc": "一、本案修正條文總數未達法規全部條文二分之一，故案由修正為：擬具「臺南市營建工程賸餘土石方處理及資源堆置處理場設置管理自治條例」部分條文修正草案，敬請審議。其附件(總說明、條文對照表、草案)之標題亦一倂修正。\r\n二、第2、3條之1、6、17、18、23、27、35、36條修正通過，其餘照案通過。（修正情形詳見審查結果對照表)\r\n三、第25條附帶意見：有關展延部分，請臺南市政府於第4屆第2次定期會前提出展延的程序、方式、次數及相關措施送議會審議。\r\n四、審查結果提送大會進行第二讀會。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/06",
+    "SendNumber": "南議法規字第 1120005519號",
+    "DoDesc": "本案經臺南市政府112年10月3日以府工管一字第1121244611號函復本會第4屆第1次定期會第25次會(112年7月4日)大會決議在案(如附件)。\r\n主旨：檢送本府修正「臺南市營建工程賸餘土石方處理及資源堆置處理場設置管理自治條例」部分條文修正草案第25條展延之程序、方式、次數及相關措施說明，惠請貴會審議，請查照。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=03d6da36-9c41-47ba-b92e-3953dae5c778",
+            "FileName": "4-1定法規市提2-「臺南市營建工程賸餘土石方處理及資源堆置處理場設置管理自治條例」修正草案(總說明、逐條說明、總條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=feb856e4-5b4c-4a55-9930-43ec46320603",
+            "FileName": "(執行情形回覆公文)112.10.3府工管一字第1121244611號(全).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=11ae9fb0-10bc-4413-b3bd-0767fca9e37e&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a2e86dcb-913a-4d71-b351-5f10d5df2be9",
+            "FileName": "4-1定法規市提2--審查結果對照表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [],
+    "ReDate": "2023\/05\/29",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2023\/06\/07",
+    "FirstDesc": "大會通過交付法規委員會審查。",
+    "SecondDate": "2023\/07\/04",
+    "SecondDesc": "照委員會審查意見通過。",
+    "ThirdDate": "2023\/07\/04",
+    "ThirdDesc": "照第二讀會決議通過。",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經臺南市政府112年10月3日以府工管一字第1121244611號函復本會第4屆第1次定期會第25次會(112年7月4日)大會決議在案(如附件)。\r\n主旨：檢送本府修正「臺南市營建工程賸餘土石方處理及資源堆置處理場設置管理自治條例」部分條文修正草案第25條展延之程序、方式、次數及相關措施說明，惠請貴會審議，請查照。",
+    "ErrorMessage": ""
+}

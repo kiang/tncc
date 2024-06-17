@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "27",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2012\/05\/14",
+    "ComeNumber": "府教體字第1010401743號",
+    "OrgTitle": "臺南市政府教育局",
+    "OrgTitle2": "",
+    "CaseCause": "制定「臺南市學校午餐自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"未維護學生身心健全之發展，確保學校提供衛生、安全及營養均衡之午餐，並建構半理學澳午餐之管理制度，特制定「臺南市學校午餐自治條例（草案）」。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府101年4月25日第63次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市學校午餐自治條例」（含總說明及逐條說明）乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/06\/22",
+    "SendNumber": "南議法規字第 1010010740號",
+    "DoDesc": "有關「臺南市學校午餐自治條例」業經本府於101年7月16日以府法規字第1010578500A號令公布，並函報教育部送行政院於101年8月16日院臺教字第1010051054號函同意備查在案。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=20c2fe74-ef0b-48bc-90d7-800bcc879530",
+            "FileName": "1-3定市提27-臺南市學校午餐自治條例草案(總說明、逐條說明、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b6012ca3-32fc-4f99-b440-53f0d3b81314&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "有關「臺南市學校午餐自治條例」業經本府於101年7月16日以府法規字第1010578500A號令公布，並函報教育部送行政院於101年8月16日院臺教字第1010051054號函同意備查在案。",
+    "ErrorMessage": ""
+}

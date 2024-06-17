@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "民政",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/04\/01",
+    "ComeNumber": "府民自字第1100399976號",
+    "OrgTitle": "臺南市政府民政局",
+    "OrgTitle2": "",
+    "CaseCause": "有關內政部110年度補助辦理「公共服務據點整備及公有危險建築補強重建有關地方政府辦公廳舍、村（里）集會所（活動中心）耐震補強及整建計畫」，經費新臺幣3,566萬5,000元(中央補助1,515萬1,000元，市府配合款2,051萬4,000元)辦理墊付，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據內政部110年3月18日台內民字第1100221561號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、內政部核定里活動中心新(重)建、耐震補強、耐震評估及廣播案計有40案，總經費3億3,510萬4,000元（中央補助6,615萬1,000元，市府配合款2億6,895萬3,000元）。考量新(重)建里活動中心期程較長，採分年編列預算辦理，110年度3,566萬5,000元，111年度1億1,863萬6,000元(中央補助4,845萬元，市府配合款7,018萬6,000元)，112年度8,380萬3,000元(中央補助255萬元，市府配合款8,125萬3,000元)。\"},{\"tag\":\"p\",\"content\":\"三、上開總經費分3年採分年編列預算辦理，110年度因未及納入預算，為應時效，擬請准予提送市議會審議辦理墊付，俟111年度總預算再予轉正。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年3月30日第484次市政會議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2021\/04\/16",
+    "DoneDesc": "除「中西區淺草里活動中心拆除重建工程案」請市府提出說明，於本次會第3次程序委員會再行提案，餘同意墊付。",
+    "SendDate": "2021\/04\/21",
+    "SendNumber": "南議民政字第 1100002857號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8809dbfb-a1ae-446d-b1ec-ca69743f9b8a",
+            "FileName": "核定函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=60f89e6d-03ca-43eb-88e5-4ff7b2622e21",
+            "FileName": "申請計畫書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=df56fd71-8356-48e6-b369-aae3c0470457&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "除「中西區淺草里活動中心拆除重建工程案」請市府提出說明，於本次會第3次程序委員會再行提案，餘同意墊付。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

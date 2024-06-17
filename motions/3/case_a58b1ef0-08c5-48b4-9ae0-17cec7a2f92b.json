@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "151",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳秋宏",
+    "OrgTitle2": "呂維胤、林志展、Kumu Hacyo谷暮．哈就",
+    "CaseCause": "請改善六甲區菁埔段1848-1地號重劃農路，該路段龜裂破損嚴重，產生坑洞不平整情形，亟待改善。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"如圖示。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2021\/08\/11",
+    "CheckDesc": "函送市府研議。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/08\/25",
+    "SendNumber": "南議工務字第 1100006589號",
+    "DoDesc": "本案經市府110年9月8日府地農字第1101041815號函復：\r\n一、本案六甲區菁埔段1848-1地號重劃農路改善，六甲區公所未提報工程計劃提案單，將與陳議員秋宏排定日期辦理現勘並釐清改善需求。\r\n二、承蒙貴會對於本案之關切，本府至為感謝，尚請不吝賜教。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b0b516c5-1b2c-4778-8c44-efd4e1ad33db",
+            "FileName": "議提151-附圖 .jpg",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a58b1ef0-08c5-48b4-9ae0-17cec7a2f92b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年9月8日府地農字第1101041815號函復：\r\n一、本案六甲區菁埔段1848-1地號重劃農路改善，六甲區公所未提報工程計劃提案單，將與陳議員秋宏排定日期辦理現勘並釐清改善需求。\r\n二、承蒙貴會對於本案之關切，本府至為感謝，尚請不吝賜教。",
+    "ErrorMessage": ""
+}

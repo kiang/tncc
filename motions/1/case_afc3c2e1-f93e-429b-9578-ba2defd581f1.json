@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "23",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2012\/03\/15",
+    "ComeNumber": "府民自字第1010222288號",
+    "OrgTitle": "臺南市政府地政局",
+    "OrgTitle2": "",
+    "CaseCause": "制定「臺南市興辦公共工程土地改良物補償自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本市興辦公共工程，因涉市民權利義務之事項，依據土地徵收條例及地方制度法規定制定。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府101年3月15日第59次市政會議通過在案。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請惠予審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、併案討論。\r\n二、以地政局版本做為主體討論。\r\n三、地政局版本有關拆遷補償及計算方式請再做具體文字內容修正。\r\n四、李退之議員版本第29條請再修正文字內容後納入自治條例(草案)。\r\n五、修正後之自治條例(草案)，詳如附件二，並修正通過。",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "一、本案併李退之議員提案-法規3號案。\r\n二、法規委員會審議修正版第六條第二項刪除重覆字句。\r\n三、法規委員會審議修正版第十二條第二項修正為：拆除私有土地內未辦水權登記、水權登記已逾期限或未領有免水權登記證明之地下水井，得…給予救濟金。(修正內容詳大會決議-附表)\r\n三、餘照審查意見修正通過。",
+    "SendDate": "2012\/06\/22",
+    "SendNumber": "南議法規字第 1010010740號",
+    "DoDesc": "本案業經本府於101年7月11日以府法規字第1010563256A號令公布。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f291f31d-433c-4420-b38d-9d4bf286170b",
+            "FileName": "臺南市興辦公共工程土地改良物補償自治條例草案逐條說明.doc",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2eb35783-7d58-4f85-99c7-34f896feca75",
+            "FileName": "臺南市興辦公共工程土地改良物補償自治條例草案條文.doc",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=09d9cb4e-204d-46fe-a505-0d169c8dfd5b",
+            "FileName": "大會決議-附表 法規委員會修正版本.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=afc3c2e1-f93e-429b-9578-ba2defd581f1&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "一、本案併李退之議員提案-法規3號案。\r\n二、法規委員會審議修正版第六條第二項刪除重覆字句。\r\n三、法規委員會審議修正版第十二條第二項修正為：拆除私有土地內未辦水權登記、水權登記已逾期限或未領有免水權登記證明之地下水井，得…給予救濟金。(修正內容詳大會決議-附表)\r\n三、餘照審查意見修正通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案業經本府於101年7月11日以府法規字第1010563256A號令公布。",
+    "ErrorMessage": ""
+}

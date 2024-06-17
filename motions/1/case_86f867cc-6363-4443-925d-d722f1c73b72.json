@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2012\/03\/14",
+    "ComeNumber": "府民自字第1010169249號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "為民眾申請承購市有畸零地及承租土地，擬辦理出售本府經管坐落本市關廟區民生段497地號等24筆非公用土地，茲依土地法第25條規定完成處分程序，提請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、市有土地鄰地所有權人檢附畸零地合併使用證明書申請承購。坐落本市關廟區民生段497地號等11筆市有土地，擬依臺南市市有財產管理自治條例第51條規定辦理讓售。\"},{\"tag\":\"p\",\"content\":\"二、市有土地承租人申請承購。坐落本市鹽水區月港段224地號等13筆市有出租土地，擬依臺南市市有財產管理自治條例第50條第1項第2款規定辦理讓售。\"},{\"tag\":\"p\",\"content\":\"三、本案業經本府101年3月7日第58次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過，另針對市有土地承租人申請承購，必須符合本市市有財產管理自治條例第38條規定辦理，在82年7月21日前被占建之基地或被占用之房地，不妨礙區域計畫或都市計畫者，經審酌土地利用價值後，得追繳占用期間使用補償金後，予以出租。其占用期間使用補償金，按歷年租金標準追溯至最近五年為止。",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/06\/13",
+    "SendNumber": "南議財經字第 1010010578號",
+    "DoDesc": "1.畸零地讓售11筆土地，奉行政院101年7月20日院授內中字第1016036829號函核准。\r\n2.承租讓售13筆土地，奉行政院101年8月3日院授內中字第1016037443號函核准。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b192b599-8996-4e68-997d-335ddfad69c5",
+            "FileName": "第一屆第3次定期大會擬處分清冊（提案2）.xls",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=86f867cc-6363-4443-925d-d722f1c73b72&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "1.畸零地讓售11筆土地，奉行政院101年7月20日院授內中字第1016036829號函核准。\r\n2.承租讓售13筆土地，奉行政院101年8月3日院授內中字第1016037443號函核准。",
+    "ErrorMessage": ""
+}

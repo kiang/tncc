@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第3屆 第1次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "3",
+    "KidTitle": "議員提案-市法規案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝",
+    "OrgTitle2": "張世賢、方一峰、蔡秋蘭、吳通龍、尤榮智、周奕齊、李文俊、林燕祝、林阳乙、李鎮國、洪玉鳳、盧崑福、蔡淑惠、周麗津、曾培雅、王家貞、杜素吟、吳禹寰",
+    "CaseCause": "修正「臺南市農產運銷股份有限公司組織自治條例」第九條及第十三條條文草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"按臺南市農產運銷股份有限公司為隸屬臺南市政府之事業機構，其總經理聘任選之優劣、經營管理理念構思及執行，攸關臺南市農產運銷股份有限公司經營績效。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"臺南市議會為行使地方制度法賦予之職權，對於該公司所聘任之總經理人選是否符合資格及具備專業能力，容有瞭解之必要，以避免不適任總經理變成臺南市政府酬庸之對象，爰修正「臺南市農產運銷股份有限公司組織自治條例」第九條增訂第三項條文。另配合修正第十三條增訂第二項條文明定施行日期。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市農產運銷股份有限公司組織自治條例」第九條及第十三條條文草案總說明、修正條文草案對照表、修正後條文。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"經大會決議通過後，送市府公布施行。\"}]",
+    "CheckDate": "2019\/05\/02",
+    "CheckDesc": "本案未予通過。",
+    "DoneDate": "2019\/05\/29",
+    "DoneDesc": "不予通過。",
+    "SendDate": "2019\/06\/10",
+    "SendNumber": "南議法規字第 1080005550號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e6b2b1d8-4e3d-402a-af3e-30cd42d20c3b",
+            "FileName": "總說明-修正臺南農產運銷股份有限公司.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c003db32-391a-4911-971a-184b87a9bacb",
+            "FileName": "對照表-臺南農產運銷股份有限公司.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cedee464-db0b-4dc9-afc8-6600356b2184",
+            "FileName": "草案條文-臺南農產運銷股份有限公司.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7c96ad60-ef92-41de-a92c-1bd06467b8f7&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "不予通過。",
+    "FirstDate": "2019\/03\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

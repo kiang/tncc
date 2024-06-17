@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "21",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2020\/04\/30",
+    "ComeNumber": "府教體處設字第1090527643號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "教育部體育署核定本市辦理「109年度充實體育器材設備(資本門)」案經費新臺幣912萬8,000元(中央補助款785萬元整，市配合款127萬8,000元)乙案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟110年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據教育部體育署109年4月14日臺教體署學(二)字第1090013065L號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」，及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"本案經費共計新臺幣912萬8,000元(中央補助款785萬元整，市配合款127萬8,000元)，因未及納入109年度總預算，為利本案執行及配合中央列管時程，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府109年4月28日第436次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟110年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2020\/07\/01",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2020\/07\/07",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2020\/07\/14",
+    "SendNumber": "南議教育字第 1090005818號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8e46cc31-448a-444b-a10e-af33e591028e",
+            "FileName": "教育市提21-21.核定文-109年度充實體育器材設備(資本門).PDF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=804e9f6d-bb9c-413b-9349-91120f376b5d",
+            "FileName": "教育市提21-核定表-109年度充實體育器材設備(資本門).ods",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0f11c42c-4539-436f-8fdb-dd99e31c6f14&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/04\/28",
+    "ComeNumber": "府工管一字第1110564371號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部營建署核定本市「111年度加強綠建築推動計畫」經費新台幣105萬6,000元(中央補助款75萬元、市配合款30萬6,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部營建署111年3月14日營署建管字第1111032965號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費105萬6,000元，因未及納入本府111年度總預算，為爭取時效，謹請貴會同意先行墊付，俟112年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年4月19日第538次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/06\/30",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/07\/12",
+    "SendNumber": "南議工務字第 1110007532號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6cabc72b-73ae-414e-94ba-15a7d740ea77",
+            "FileName": "工務5附件-中央核定函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6a6193c9-35af-43bc-907c-52e1d8952c7c",
+            "FileName": "工務5補充說明.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=74901fb5-ffd0-4a22-a287-5683d011eff9&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/05\/31",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/06\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第9次 臨時會",
+    "PTypTitle": "民政",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/08\/17",
+    "ComeNumber": "府原綜字第 1100989797 號",
+    "OrgTitle": "臺南市政府原住民族事務委員會",
+    "OrgTitle2": "",
+    "CaseCause": "原住民族委員會原住民族文化發展中心核定補助「110年度原住民族文化館改善計畫（第2階段）」經費新臺幣37萬5,000元整（中央補助款）（資本門），為爭取時效，謹請貴會同意先行墊付110年度部分經費新臺幣22萬5,000元整（中央補助款），俾憑辦理後續相關作業事宜，俟111年度編列總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據原住民族委員會原住民族文化發展中心110年7月26日原民發文字第1100004792號函；兼110年6月22日原民發文字第1100004202號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款、第45點第2款規定，經上級政府核定之補助款，所使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案經原住民族委員會原住民族文化發展中心核定補助資本門37萬5,000元整，其中本府已納編中央補助款15萬元整，餘22萬5,000元整（中央補助款）未及納入本（110）年度預算，請貴會同意先行辦理墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年8月16日第504次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度編列總預算時再予轉正。\"}]",
+    "CheckDate": "2021\/09\/03",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/09\/10",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/09\/15",
+    "SendNumber": "南議民政字第 1100008168號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=53699848-fb5e-44c0-b026-3da889572fd7",
+            "FileName": "民政4(原民會)-附件(核定函及計畫書).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=158b038c-a941-4196-9073-18afabaa3637&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/09\/01",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

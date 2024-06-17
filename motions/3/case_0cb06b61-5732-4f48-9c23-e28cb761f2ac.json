@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "197",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡筱薇、呂維胤",
+    "OrgTitle2": "沈家鳳、陳秋宏、李宗翰",
+    "CaseCause": "請市府研擬東區東門路三段266巷（後段接續文化三街）道路拓寬。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"因東區東門路三段266巷鄰近住戶眾多、交通繁忙，但此巷道路因為道路狹小，容易導致交通危險，本席建請相關單位，儘速規劃拓寬。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2021\/11\/25",
+    "CheckDesc": "函送市府研議。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/12\/08",
+    "SendNumber": "南議工務字第 1100012191號",
+    "DoDesc": "本案經市府110年12月20日府工新一字第1101500599號函復：\r\n旨案所陳位址，經查係本市東區EM-14-10m都市計畫道路中段範圍，有關該路段徵收開闢事宜，本府將先行予以錄案，視財源籌措情形研議辦理。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d1dfabc8-8837-422f-961a-647bac151d1c",
+            "FileName": "工務議提197-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0cb06b61-5732-4f48-9c23-e28cb761f2ac&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年12月20日府工新一字第1101500599號函復：\r\n旨案所陳位址，經查係本市東區EM-14-10m都市計畫道路中段範圍，有關該路段徵收開闢事宜，本府將先行予以錄案，視財源籌措情形研議辦理。\r\n",
+    "ErrorMessage": ""
+}

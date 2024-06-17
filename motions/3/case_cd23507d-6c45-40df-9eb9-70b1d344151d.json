@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第12次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/02\/22",
+    "ComeNumber": "府工養二字第1110271449號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部公路總局核定本市前瞻計畫「提升道路品質計畫(公路系統)(106~114年)」政策輔導型及行人路口安全改善案件110年第2波補助計畫經費新臺幣1億9,306萬5,000元(中央補助款1億5,831萬4,000元、地方配合款3,475萬1,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，於112年度預算時辦理轉正，敬請　審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據交通部公路總局111年1月20日路規計字第1110007707號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"交通部公路總局核定本市前瞻計畫「提升道路品質計畫(公路系統)(106~114年)」政策輔導型及行人路口安全改善案件110年第2波補助計畫經費新臺幣1億9,306萬5,000元(中央補助款1億5,831萬4,000元、地方配合款3,475萬1,000元)，因未及納入本府111年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年2月22日第530次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，於112年度預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/03\/21",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/03\/25",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/04\/07",
+    "SendNumber": "南議工務字第 1110002826號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6268874f-3e98-4a6b-a70d-80dc8669a220",
+            "FileName": "附件-工務3-1.PDF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cf7e0170-62be-4f8e-a393-c079e220bd39",
+            "FileName": "附件-工務3-2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=cd23507d-6c45-40df-9eb9-70b1d344151d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/03\/09",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

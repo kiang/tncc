@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案",
+    "ComeDate": "2020\/02\/17",
+    "ComeNumber": "府教社字第1090221735號",
+    "OrgTitle": "臺南市政府教育局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本府「108年度社區大學評鑑結果」1份(如附件)，請備查。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"依據貴會108年6月10日南議法規字第1080005495號函辦理。\"}]",
+    "Method": "[]",
+    "CheckDate": "2020\/07\/01",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2020\/07\/07",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2020\/07\/16",
+    "SendNumber": "南議教育字第 1090005905號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=339abd90-d777-48a5-81e0-28b0f87fdc90",
+            "FileName": "108年度社區大學評鑑結果(公文).TIF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f84136fb-8a4c-4484-b1c0-1c6d2106932b",
+            "FileName": "108年度社區大學評鑑結果(附件).TIF",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ca40242d-66a9-4f53-9a4c-d94d6e21a0cd&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

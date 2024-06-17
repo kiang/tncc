@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "民政",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2021\/10\/18",
+    "ComeNumber": "府民自字第1101243132",
+    "OrgTitle": "臺南市政府民政局",
+    "OrgTitle2": "",
+    "CaseCause": "函轉臺南市七股區公所檢送「109年度輸變電促協金（施工中）--七股~南濱161kV架空輸電線路#1~#3新建工程（開工及完工）協助金」結算明細表轉請貴會同意備查，請查照。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據臺南市七股區公所110年10月12日所民字第1100671427號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、檢附來函及附件各1份供參。\"}]",
+    "Method": "[]",
+    "CheckDate": "2021\/11\/24",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2021\/12\/07",
+    "SendNumber": "南議民政字第 1100011117號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9c840e71-62a6-41cc-84ea-725a2b9bec57",
+            "FileName": "七股區公所函文及附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=bb760adf-43d2-4210-9919-01d37c141478&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2021\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第2次 臨時會",
+    "PTypTitle": "會務",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林燕祝",
+    "OrgTitle2": "蔡淑惠、王家貞、謝龍介、洪玉鳳、林美燕、蔡育輝、許至椿、曾順良、曾培雅、李坤煌、蔡玉枝、盧崑福、李中岑",
+    "CaseCause": "修正「臺南市議會紀律委員會設置辦法」第二條草案，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"紀律委員會客觀上係屬於準仲裁單位，本會議員同仁若遇仲裁事件，多因政黨競爭而衍生，若委員產生方式能由政黨(團)推派分配，遇有審議懲戒案件時，較能公允持平，使人信服。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"一、修正內容如附表。\"},{\"tag\":\"p\",\"content\":\"二、提請大會同意後報請行政院備查，並函知市政府。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2015\/02\/12",
+    "DoneDesc": "照案通過。",
+    "SendDate": "2015\/02\/12",
+    "SendNumber": "南議議事字第 1040000879號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d4f48664-7d4e-4ded-b2b6-c1e5de252159",
+            "FileName": "2-2臨會務1(條文草案總說明、對照表、條文草案).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f75abfa7-2f60-487b-b116-dfb31219b886&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照案通過。",
+    "FirstDate": "2015\/01\/27",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

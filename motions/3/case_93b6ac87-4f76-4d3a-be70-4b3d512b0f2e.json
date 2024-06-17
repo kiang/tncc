@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第9次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "8",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "陳怡珍、張世賢、洪玉鳳、蔡淑惠、周麗津",
+    "CaseCause": "建請市府改善永康區大安街97巷道路路面，以確保人車通行安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"此道路柏油嚴重龜裂，路緣顆粒滿地，路面嚴重破損，騎行機車易滑倒，嚴重影響行車人之安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府編列預算辦理。\"}]",
+    "CheckDate": "2021\/09\/08",
+    "CheckDesc": "函送市府研議。",
+    "DoneDate": "2021\/09\/10",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/09\/17",
+    "SendNumber": "南議工務字第 1100008235號",
+    "DoDesc": "本案經市府110年9月29日府工養二字第1101153143號函復：\r\n本案本府工務局已於110年9月6日現勘完成，經現場勘查大安街97巷路面磨光老化出現粒料脫離，議員及里長建議公所規劃辦理AC刨鋪合計共732㎡，概估所需經費約30萬元，爰請區公所先行將道路破損嚴重部份切割修補，以維護用路人安全，並另請公所查明該段是否有污水或管挖工程施工期程避免重複挖掘，其巷弄係為4米不等道路，請永康區公所依本府工務局109年9月3日南市工養二字第1091042817號函優先以開口契約辦理改善。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5ba41281-1faf-4cec-b669-e084aa803327",
+            "FileName": "議提8附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=93b6ac87-4f76-4d3a-be70-4b3d512b0f2e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/01",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年9月29日府工養二字第1101153143號函復：\r\n本案本府工務局已於110年9月6日現勘完成，經現場勘查大安街97巷路面磨光老化出現粒料脫離，議員及里長建議公所規劃辦理AC刨鋪合計共732㎡，概估所需經費約30萬元，爰請區公所先行將道路破損嚴重部份切割修補，以維護用路人安全，並另請公所查明該段是否有污水或管挖工程施工期程避免重複挖掘，其巷弄係為4米不等道路，請永康區公所依本府工務局109年9月3日南市工養二字第1091042817號函優先以開口契約辦理改善。",
+    "ErrorMessage": ""
+}

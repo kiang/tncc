@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "會務",
+    "CaseNumber": "2",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "邱議長莉莉",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南市議會議事規則」第71條修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市議會議事規則係本會依臺南市議會組織自治條例第24條第2項規定所擬訂，前以本會100年8月19日南議法研字第1000011148號令訂定。自發布施行後，曾於101年2月13日及103年8月20日歷經二次修正。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"鑒於完善議場規範，友善親子議會，開放零歲至六歲幼童進場照護，且經本會第4屆第2次臨時會第2次會（112年3月30日）大會決議，爰擬具本規則第71條修正草案。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市議會議事規則」第71條修正草案總說明、修正草案對照表、修正草案條文。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"經大會審議通過後發布施行並報行政院備查。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2023\/06\/07",
+    "DoneDesc": "一、會務1、2、3、6號案，均予撤銷。\r\n二、鑒於本會缺乏育兒親子空間，請各政黨黨團可推派代表討論，於一週內研議建置友善環境。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0bc4eb3a-4109-412a-9522-61d000064e81",
+            "FileName": "4~1定會務2(不含提案單).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3efed7f2-160d-4a1e-a777-7f97d27193c1&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/04\/19",
+    "ReDesc": "一、會務1、2、3、6號案，均予撤銷。\r\n二、鑒於本會缺乏育兒親子空間，請各政黨黨團可推派代表討論，於一週內研議建置友善環境。",
+    "FirstDate": "2023\/04\/27",
+    "FirstDesc": "第4屆第1次定期會第1次會(112年4月27日)大會決議：大會通過會務 1、2 號案併案交付法規委員會審查。\r\n說明：\r\n一、會務 1、2 號案同為修正本會議事規則第七十一條條文，爰併案處理。\r\n二、會務 1 提案人蔡育輝議員說明本案連署人實際上均為提案人，因限於法規規定，必須有 12 人以上之連署，爰將部分議員列為連署人。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

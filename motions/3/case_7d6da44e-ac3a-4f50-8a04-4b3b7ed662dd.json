@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 臨時會",
+    "PTypTitle": "民政",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/02\/20",
+    "ComeNumber": "府社秘字第1100242565號",
+    "OrgTitle": "臺南市政府社會局、教育局",
+    "OrgTitle2": "",
+    "CaseCause": "衛生福利部社會及家庭核定本市「110年度身心障礙者嚴重情緒行為正向支持整合模式試辦計畫」經費295萬元乙案（中央全額補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據衛生福利部社會及家庭署109年12月16日社家障字第1090013527E號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」規定。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：本案總經費295萬元(中央全額補助)，因未及納入本府110年度總預算，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年1月19日第474次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/03\/11",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/03\/19",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/03\/25",
+    "SendNumber": "南議民政字第 1100002084號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7ed65b97-6e61-408d-9385-26fbf32e1e2d",
+            "FileName": "民政3(社會局)-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7d6da44e-ac3a-4f50-8a04-4b3b7ed662dd&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/03\/03",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

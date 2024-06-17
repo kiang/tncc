@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第1次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "48",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "杜素吟",
+    "OrgTitle2": "謝財旺、林阳乙、趙昆原",
+    "CaseCause": "建請市府將位於山上區玉峯里南184道路下邊坡擋土牆進行改善工程，以保障市民通行往來之安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、經查山上區玉峯里南184道路下邊坡擋土牆因地勢關係造成水流沖刷導致邊坡流失，進而有路基掏空之可能，恐影響市民通行往來之安全。\"},{\"tag\":\"p\",\"content\":\"二、建請市府將上開下邊坡擋土牆進行改善工程，避免邊坡繼續流失，使市民得以安全通行，保障市民之生命安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2019\/04\/25",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2019\/04\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/05\/07",
+    "SendNumber": "南議工務字第 1080003857號",
+    "DoDesc": "本案經市府108年5月17日府工養二字第1080567022號函復：\r\n(詳如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=937c9e62-2f44-4fb0-9c2e-78d5274a202f",
+            "FileName": "3-1定-議提48附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0dc6aec1-c359-4969-9248-011bee5e5aa1&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/03\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府108年5月17日府工養二字第1080567022號函復：\r\n(詳如夾檔)",
+    "ErrorMessage": ""
+}

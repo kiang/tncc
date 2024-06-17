@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第7次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "7",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2018\/03\/19",
+    "ComeNumber": "府財稅字第1070316643號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "廢止「臺南市民間興辦社會住宅減徵地價稅自治條例」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"住宅法於106年1月11日修正公布，本府業依修正後住宅法制定「臺南市社會住宅興辦及公益出租人出租房屋優惠地價稅及房屋稅自治條例草案」，本自治條例依臺南市法規標準自治條例第24條第4款規定應予廢止。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府107年3月14日第329次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附廢止「臺南市民間興辦社會住宅減徵地價稅自治條例」總說明乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴的審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2018\/05\/25",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2018\/06\/04",
+    "SendNumber": "南議法規字第 1070004065號",
+    "DoDesc": "本府107年6月11日府法規字第1070647619A號令廢止。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fe4525ad-bd1a-4d0a-a5f7-b488f5dd05d4",
+            "FileName": "2-7定市提7-臺南市民間興辦社會住宅減徵地價稅自治條例廢止(總說明、條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e643ba26-2dad-4c13-b105-74b2a71f8b20&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2018\/03\/07",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本府107年6月11日府法規字第1070647619A號令廢止。",
+    "ErrorMessage": ""
+}

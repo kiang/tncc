@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第15次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "8",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/12\/06",
+    "ComeNumber": "府環廢字第1111586949號",
+    "OrgTitle": "臺南市政府環境保護局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院環境保護署補助辦理「112年度資源循環工作計畫」，經費新臺幣2,298萬4,000元整(全額中央補助)為爭取時效，請同意惠予先行辦理墊付，俾憑辦理後續相關作業事宜，俟112年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院環境保護署111年8月10日環署會字第1111097566號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點第44點第4款:「經上級政府核定之補助款所使用之支出」規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案估列補助經費為新臺幣2,298萬4,000元(中央全額補助)，惟因核定計畫日期未及納入本局112年度預算，且符合上開要點規定，擬辦理先行墊付並俟112年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年11月22日第570次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算追加減預算時辦理轉正，敬請審議。\"}]",
+    "CheckDate": "2022\/12\/15",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/12\/22",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/12\/28",
+    "SendNumber": "南議環衛字第 1110021025號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=080c0aa4-723e-4ed8-ba9e-b7071ba2edd5",
+            "FileName": "8號提案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=bd61967c-785e-4885-b5f0-8796a643a6ce&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/12\/08",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/12\/14",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

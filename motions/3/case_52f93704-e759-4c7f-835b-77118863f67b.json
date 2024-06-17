@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第2次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "17",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林燕祝",
+    "OrgTitle2": "洪玉鳳、尤榮智、李文俊",
+    "CaseCause": "建請市府依專業判斷將永康區永安路與仁愛街交叉路口間之路面高差降低至合理高度，以利永安路拓寬工程之施作。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、據民眾反應位於永康區永安路與仁愛街交叉路口間之路面原設有高差，以供作台糖火車行駛之用，然台糖火車已久未行駛，且近期永安路亦有拓寬工程欲施作，若該路面高差之高度未予以降低，恐影響永安路拓寬工程之進度。\"},{\"tag\":\"p\",\"content\":\"二、建請市府以專業判斷將上開交叉路口之路面高差降低至合理高度，以利永安路拓寬工程之施作。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2019\/02\/27",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/03\/08",
+    "SendNumber": "南議工務字第 1080001846號",
+    "DoDesc": "本案經市府108年3月18日府工新一字第1080319931號函復：\r\n(詳如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=dccfb79c-62b5-4fab-8511-0d83d0cef163",
+            "FileName": "3-2臨-17.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=52f93704-e759-4c7f-835b-77118863f67b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/02\/14",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府108年3月18日府工新一字第1080319931號函復：\r\n(詳如夾檔)",
+    "ErrorMessage": ""
+}

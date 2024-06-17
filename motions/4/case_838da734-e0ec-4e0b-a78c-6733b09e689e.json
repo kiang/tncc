@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "25",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/05\/17",
+    "ComeNumber": "府農森字第1120652898號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會林務局核定本市「112年臺南市瀕危物種及重要棲地生態服務給付推動計畫」經費472萬2,000元(中央補助款)，因未及納入本府112年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院農業委員會林務局112年5月5日林保字第1121612328號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款所使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案係行政院農業委員會林務局補助本市辦理瀕危物種及重要棲地生態服務給付推動計畫；中央核定總經費1,105萬2,000元(補助款472萬2,000元應納入預算，獎勵金633萬元得以代收代辦方式執行)，補助款472萬2,000元，因未及納入本府112年度總預算，為爭取時效，謹請貴會同意先行墊付，俟113年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年5月16日第594次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：瀕危物種及重要棲地生態服務給付推動計畫，因慮及作業期程緊湊，計畫應於112年12月22日前完成，需急於辦理相關採購招標事宜，俾利本案依進度完成。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算辦理轉正。\"}]",
+    "CheckDate": "2023\/06\/28",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/07\/07",
+    "SendNumber": "南議財經字第 1120006001號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4bf390be-2abe-4185-9ffe-08ca0cc09302",
+            "FileName": "25號案附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=838da734-e0ec-4e0b-a78c-6733b09e689e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/05\/29",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/06\/07",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

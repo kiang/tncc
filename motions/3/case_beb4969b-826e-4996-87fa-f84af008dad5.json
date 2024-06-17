@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "47",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "Ingay Tali穎艾達利、郭鴻儀、周奕齊、許又仁、李啓維、蔡旺詮",
+    "CaseCause": "建請市府規劃永康區高速一街二段至省道1號，以利民眾使用。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"該路段北端終止於永康區中正路，常因車流過大導致路口壅塞，用路人險象環生，為有效紓解該地交通，建請延伸至省道1號。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/08\/26",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/08\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/09\/06",
+    "SendNumber": "南議工務字第 1110010191號",
+    "DoDesc": "有關永康區高速一街北延至台１線，過去本府工務局曾請顧問公司做過評估，因現況受限於縱貫鐵路及工業區等原因，評估結果路線並不符效益，建議俟後續永康車站地下化及永康車站前重劃工程完成後再予重新評估（目前必須高架跨越鐵路，鐵路地下化後又可能必須拆除）。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1873b3de-6cfd-42e0-b28f-fc045efa1a06",
+            "FileName": "3-8定工務議提47附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=beb4969b-826e-4996-87fa-f84af008dad5&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/09\/20",
+    "ExecuteReNumber": "府工新二字第 1111174927號",
+    "ExecuteReMemo": "有關永康區高速一街北延至台１線，過去本府工務局曾請顧問公司做過評估，因現況受限於縱貫鐵路及工業區等原因，評估結果路線並不符效益，建議俟後續永康車站地下化及永康車站前重劃工程完成後再予重新評估（目前必須高架跨越鐵路，鐵路地下化後又可能必須拆除）。",
+    "ErrorMessage": ""
+}

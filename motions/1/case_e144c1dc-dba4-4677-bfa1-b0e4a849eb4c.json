@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2012\/02\/01",
+    "ComeNumber": "府民自字第1010060862號",
+    "OrgTitle": "臺南市政府消防局",
+    "OrgTitle2": "",
+    "CaseCause": "擬制定「臺南市特定場所容留人數管制自治條例」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"鑑於一百年三月六日臺中市哈克飲料店（ALAPUB）發生之火災件，亦因災害發生時容留人數過多而造成重大之傷亡。故為避免災害發生時，人員逃生造成推撞擠壓肇致傷亡之情事，參照內政部一百年六月十六日台內營字第一○○○八○四八九三號函頒「特定場所容留人數管制指導原則」，制定本自治條例以維護特定場所之安全。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本自治條例業經本府100年12月28日第49次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請惠予審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/06\/22",
+    "SendNumber": "南議法規字第 1010010740號",
+    "DoDesc": "1.依據行政院101年8月20日院臺內字第1010052041號函，本案因行政院有關機關認有應予釐清之處，須較長時間審查，是故延長核定期限。\r\n2.已函轉本府各相關權責單位知悉。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ec0a9bf3-1207-49d1-9a0a-2a4a503039cb",
+            "FileName": "臺南市特定場所容留人數管制自治條例（草案）逐條說明.doc",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5fcfefde-b8ff-4a83-abc2-34445fb0b4ba",
+            "FileName": "臺南市特定場所容留人數管制自治條例（草案條文）.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e144c1dc-dba4-4677-bfa1-b0e4a849eb4c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "1.依據行政院101年8月20日院臺內字第1010052041號函，本案因行政院有關機關認有應予釐清之處，須較長時間審查，是故延長核定期限。\r\n2.已函轉本府各相關權責單位知悉。\r\n",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "19",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/05\/15",
+    "ComeNumber": "府農銷字第1120636388號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會農糧署同意本府辦理「112年度臺南市鳳梨及芒果產業輔導計畫」案，經費新臺幣300萬（中央補助款300萬元）因未及納入112年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院農業委員會農糧署南區分署112年4月13日農糧南銷字第1121157718號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"本計畫業經行政院農業委員會農糧署核定總經費312萬元(中央補助300萬元及市配合款12萬元)辦理本市112年鳳梨及芒果行銷展售活動及推展產業相關業等費用，其中本市農業局配合款12萬元已納入112年度預算「農業管理與輔導業務-農業業務-農產行銷及輔導-業務費」項下。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"所需經費新臺幣300萬元(中央補助款300萬元)，因未及納入本府112年度總預算案，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府112年5月2日第592次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本市為鳳梨為全台第二大產區，產量占15%，且時值盛產期；本市芒果則約占全國產量50%，且芒果產期集中，為配合產季執行相關外縣市展售及宣傳活動，故亟需先行墊付俾利本年度活動執行。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/06\/28",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/07\/07",
+    "SendNumber": "南議財經字第 1120005990號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=92ae9fe4-1dc7-4ae8-9f15-ad68ee4332d4",
+            "FileName": "19號案附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=dc1cc59a-5a21-49d5-98bc-20229236a38b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/05\/29",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/06\/07",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

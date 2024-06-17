@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "62",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "吳通龍",
+    "OrgTitle2": "陳秋萍、李偉智、陳皇宇、陳怡珍、陳碧玉、曾之婕、周麗津",
+    "CaseCause": "建請市府辦理擴建麻豆區興農里位於新生南路173線道路排水系統，重新整合排水系統俾利排水順暢。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"興農里長反映111年8月2日豪雨造成新生南路173線周邊住戶因水溝排洩不及，造成住家水淹及膝災害，嚴重影響附近交通及居家品質。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請市府於新生南路與仁愛路交叉處往南兩邊至新生南路轉彎處，擴大修建整合周邊排水系統設施，避免再次造成災害。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/03\/29",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/03\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/04\/10",
+    "SendNumber": "南議工務字第 1120002114號",
+    "DoDesc": "",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=08576eb6-d491-47b8-88cf-ba261232c3a6",
+            "FileName": "府水工字第1120507247號-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5062c0a9-1d4c-4107-9e0e-a9629eaa40cb&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/05\/01",
+    "ExecuteReNumber": "府水工字字第 1120507247號",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

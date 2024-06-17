@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "17",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/05\/08",
+    "ComeNumber": "府農漁字第1130663692號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "農業部漁業署核定本府辦理「臺南市安平魚市場拆除重建工程前期規劃」案，經費300萬元(中央補助款150萬元及市配合150萬元)，因未及納入113年度預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，併於114年度總預算轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據農業部漁業署113年4月23日漁四字第1131451193號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"所需總經費新台幣300萬元整(中央補助款150萬元及市配合款150萬元)，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"主要工作項目為本市安平魚市場拆除重建工程之前期規劃案，該市場重建後，得以確保魚市場交易安全及漁民收益。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府113年5月7日第645次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由:本案為辦理本市安平魚市場拆除重建工程之前期規劃，並依漁業署113年4月23日漁四字第1131451193號函要求於113年度如期執行，並完成驗收結案作業，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，併於114年度總預算轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c62015f0-7437-4c04-bfb3-4f3b55231b08",
+            "FileName": "財經17-附件1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=360c1a42-4324-402d-940e-787a3be32273",
+            "FileName": "財經17-附件2.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a92530af-4231-4410-8b74-324859d35fa7",
+            "FileName": "財經17-附件3.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=afa7602d-090c-4fbc-8e7e-1e857ebe7c8e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "",
+    "FirstDate": "2024\/05\/29",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

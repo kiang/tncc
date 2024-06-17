@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "18",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/05\/15",
+    "ComeNumber": "府農畜字第1120632597號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會核定本府「112年度示範性強化養豬場精準管理計畫」案，經費6,601萬2,000元整（中央補助款），因未及納入112年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院農業委員會112年3月28日農牧字第1120042473號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"本案所需經費合計新臺幣1億3,090萬2,000元，包含：中央補助款計6,601萬2,000元、其他(農戶)配合款計6,489萬元。其中經費6,601萬2,000元(中央補助款)因未及納入本府112年度總預算，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要工作項目為補助本市養豬場設置或更新豬舍、自動化省工設備、高效能廢水處理(含除臭)系統及資源多元再利用等相關工作。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府112年5月2日第592次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案係因應全球氣候變遷，透過改善養豬場之設施(備)，以強化生產效能管理及減少碳排放，使產業邁向永續經營。因本計畫核定於112年3月28日，養豬場相關建置設施(備)之採購或工程需於112年11月30日前完成並報驗，時程緊迫且中央核定補助計畫日期較晚，為爭取時效，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/06\/28",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/07\/07",
+    "SendNumber": "南議財經字第 1120005989號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=286abe75-c563-4594-9fa9-5ea7ab8fc0ef",
+            "FileName": "18號案附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2ce1aad7-ee56-4715-8da3-678a33b18244&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/05\/29",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/06\/07",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

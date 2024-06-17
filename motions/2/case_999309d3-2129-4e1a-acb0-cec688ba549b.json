@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "46",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "趙昆原",
+    "OrgTitle2": "楊中成",
+    "CaseCause": "請儘速改善柳營區外環道至新營區長榮路與復興路交叉口柏油路面，以利人車行駛安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"上述路段柏油路面已破損，平常人車流量頻繁，遇雨積水嚴重，有礙人車通行之安全，敬請儘速修復以確保安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2016\/12\/23",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2016\/12\/29",
+    "SendNumber": "南議工務字第 1050009085號",
+    "DoDesc": "本案經市府106年2月2日府工養二字第1060095564號函復：（詳夾檔）",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=54d08150-d22a-44e0-8ff2-3585deb433e3",
+            "FileName": "46號案書面答復.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=999309d3-2129-4e1a-acb0-cec688ba549b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2016\/10\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府106年2月2日府工養二字第1060095564號函復：（詳夾檔）",
+    "ErrorMessage": ""
+}

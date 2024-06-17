@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/02\/16",
+    "ComeNumber": "府社秘字第1130214122號",
+    "OrgTitle": "臺南市政府社會局",
+    "OrgTitle2": "",
+    "CaseCause": "衛生福利部核定本市「臺南市政府113年度強化推動性騷擾防治方案」經費新臺幣300萬元整乙案（中央全額補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據衛生福利部113年1月11日衛部護字第1121461297號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款，所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費新臺幣300萬元（中央全額補助），因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年2月6日第632次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：為因應性騷擾防治法部分條文將於113年3月8日正式施行，倘墊付案未能及時通過，將影響本市性騷擾防治業務推展。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2024\/03\/08",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2024\/03\/15",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2024\/03\/20",
+    "SendNumber": "南議環衛字第 1130001586號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=685e44c8-225f-427a-b1e4-788fe54bf498",
+            "FileName": "4-5臨-環保衛生2號案-附件-社會局-113年度性騷擾防治(家防中心).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=79e0e7a5-3516-4b43-bb62-55a0f541f0a9&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/02\/23",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

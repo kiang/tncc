@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/07\/18",
+    "ComeNumber": "府工新一字第1120820814號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部水利署第六河川局核定本府「112年度中央管流域整體改善與調適計畫」項下計畫「曾文溪排水(5K+558)橋梁改建工程」經費新臺幣9,000萬元(中央補助款7,020萬元，市配合款1,980萬元)，為爭取時效，謹請貴會同意先行墊付需求經費500萬元(中央補助款390萬元，市配合款110萬元)，俾憑辦理後續相關作業事宜，俟113年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據經濟部水利署第六河川局112年6月17日水六工字第11201046260號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款所需使用之支出」與第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"為辦理「曾文溪排水(5K+558)橋梁改建工程」案，提報經濟部水利署第六河川局「112年度中央管流域整體改善與調適計畫」項下計畫爭取經費補助，經核定總經費新臺幣9,000萬元(中央補助款7,020萬元，市配合款1,980萬元)。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案總經費9,000萬元，採一次發包，分年編列方式辦理，分3年編列：(一)112年度預算編列500萬元(中央補助款390萬元，市配合款110萬元)。(二)113年度預算編列4,000萬元(中央補助款3,120萬元，市配合款880萬元)。(三)114年度預算編列4,500萬元(中央補助款3,510萬元，市配合款990萬元)。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"上開經費因未及納入本府112年度總預算，為爭取時效，謹請貴會同意先行墊付需求經費500萬元，俟113年度總預算時再予轉正。\",\"children\":[]},{\"order\":\"六、\",\"content\":\"本案業經本府112年7月4日第601次市政會議審議通過。\",\"children\":[]},{\"order\":\"七、\",\"content\":\"提送墊付案緊急性理由：本案辦理期間自計畫核定日起至112年12月31日止，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時再予轉正。\"}]",
+    "CheckDate": "2023\/08\/10",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/08\/17",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/08\/25",
+    "SendNumber": "南議工務字第 1120008034號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=09e377de-2c1f-4841-9b36-41dcb6b129d5",
+            "FileName": "工務市提1-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=458598b2-0e8b-403d-afb8-851f420d768c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/08\/01",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/08\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

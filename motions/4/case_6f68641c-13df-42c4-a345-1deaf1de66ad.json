@@ -1,0 +1,68 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "2",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2023\/04\/06",
+    "ComeNumber": "府主預字第1120440592號",
+    "OrgTitle": "臺南市政府主計處",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本府111年第4季辦理政策及業務宣導之執行情形表，提請貴會備查，請查照。",
+    "Content": "",
+    "Method": "",
+    "CheckDate": "2023\/06\/20",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2023\/07\/06",
+    "SendNumber": "南議財經字第 1120005583號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2bdeaa00-f08d-4b53-8db9-83fe79f22d29",
+            "FileName": "111年度辦理政策及業務宣導第4季季報-民政教育委員會.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=842bfda3-fd24-4ac3-815f-b486ba115b43",
+            "FileName": "111年度辦理政策及業務宣導第4季季報-財經委員會.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3e435969-715e-4c88-8eeb-72fd9f22c6af",
+            "FileName": "111年度辦理政策及業務宣導第4季季報-環保衛生委員會.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=86f0f4db-bc26-4e5b-aa47-6460454b6408",
+            "FileName": "111年度辦理政策及業務宣導第4季季報-保安委員會.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9dc2f6ca-2d34-4fd1-88fa-7ea71d84dafc",
+            "FileName": "111年度辦理政策及業務宣導第4季季報-建設委員會.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c3332904-7fee-41c5-bdb5-585bc1f32cc9",
+            "FileName": "111年度辦理政策及業務宣導第4季季報-工務委員會.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6f68641c-13df-42c4-a345-1deaf1de66ad&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2023\/06\/07",
+    "FirstDesc": "交付各相關委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

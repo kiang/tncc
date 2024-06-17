@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "9",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/05\/09",
+    "ComeNumber": "府水雨字第1130651224號",
+    "OrgTitle": "臺南市政府水利局",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部水利署核定113年度「中央管流域整體改善與調適計畫–臺南市安南區同德公園逕流分擔措施建置」總經費2,170萬元(中央全額補助)。為爭取時效，謹請貴會同意113年度先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據經濟部水利署第六河川分署113年3月20日水六規字第11303008490號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"經濟部水利署核定113年度「中央管流域整體改善與調適計畫–臺南市安南區同德公園逕流分擔措施建置」總經費2,170萬元(中央全額補助)，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年4月23日第643次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本案為配合經濟部水利署「曾文溪排水逕流分擔計畫」期程，亟需先行墊付辦理工程發包，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ae834661-d12b-4aa5-972a-ceb41cfb25fb",
+            "FileName": "工務市提9-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fc9ade75-5241-429b-9946-cd1b148e68d8&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e9a583ca-cb5e-4c8e-84c7-1f281691d048",
+            "FileName": "工務市提9-補充資料.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "",
+    "FirstDate": "2024\/05\/29",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

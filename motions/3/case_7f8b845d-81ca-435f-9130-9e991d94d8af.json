@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "26",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/05\/24",
+    "ComeNumber": "府農務字1110683290號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會農田水利署核定本府「蓮潭圳抽水機設備」案，經費160萬元(中央補助款137萬6,000元及市配合款22萬4,000元)因未及納入111年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院農業委員會農田水利署111年5月17日農水建字第1116007077號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"所需經費新臺幣160萬元(中央補助款137萬6,000元、市配合款22萬4,000元)因未及納入本府111年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要工作項目為辦理蓮潭圳抽水機設備設置一組。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府111年5月24日第543次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/06\/30",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/07\/08",
+    "SendNumber": "南議財經字第 1110006734號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2675ebf1-6811-4539-b915-233a594610c8",
+            "FileName": "2. 蓮潭圳抽水機設備核定函-有關貴府函為辦理擴大灌溉服務案件-「蓮潭圳抽水機設備」案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=17d9fde1-729e-46ed-88f0-575b416efc9a",
+            "FileName": "3.農業局「蓮潭圳抽水機設備」計畫新臺幣160萬元墊付案-議案說明.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7f8b845d-81ca-435f-9130-9e991d94d8af&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/05\/31",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/06\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

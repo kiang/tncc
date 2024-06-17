@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "民政",
+    "CaseNumber": "19",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/07\/08",
+    "ComeNumber": "府民自字第1100832211號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "內政部營建署核定本市「城鎮風貌及創生環境營造計畫」政策引導型第二階段經費新臺幣500萬元(中央補助款400萬元，地方配合款100萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據內政部110年5月26日台內營字第1100808184號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4、6款之規定，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"本次墊付經費係核定本市下營區公所辦理「臺南市下營區大吉里生活廊道建置工程」案，新臺幣500萬元(中央補助款400萬元，地方配合款100萬元)，因未及納入本府110年度總預算，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年6月28日第496次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/08\/09",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/08\/25",
+    "SendNumber": "南議民政字第 1100005663號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8c6889e9-7c3a-43e9-8a2e-f9e04c14f2f9",
+            "FileName": "核定函.PDF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c5d3987d-9a6b-4c36-9eb0-518cf7668e7e",
+            "FileName": "核定函附件.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1f46bfa3-60ce-43ff-8137-c181b12fbc70",
+            "FileName": "使用計畫.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c51b9a5c-9355-4a40-a75e-3a3e27b575c5&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "168",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "周嘉韋、林依婷",
+    "OrgTitle2": "蔡筱薇、李宗翰、蔡蘇秋金",
+    "CaseCause": "臺南市中西區金華路大勇街口(全聯前)門口之導盲磚，建議重新鋪設。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"有鑑於中西區金華路大勇街口(全聯前)門口之導盲磚，因後來設置電箱，導致有中斷之情況(如附件)，建議重新鋪設，以維視障朋友之行走權益。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/06\/02",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/06\/07",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/06\/15",
+    "SendNumber": "南議工務字第 1120004364號",
+    "DoDesc": "本府就「臺南市中西區金華路大勇街口(全聯前)門口之導盲磚，建議重新鋪設。」案，敬答覆如下：\r\n本案經本府工務局112年6月13日邀集相關單位現場勘查，本市中西區金華路與大勇街口全聯福利中心前側溝，遭擅自設置止滑設施易與導盲磚混肴問題，本府工務局已通知全聯福利中心辦理改善。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=02a5179e-0f13-4fe3-83db-7e52a0a488ef",
+            "FileName": "4-1定工務議提168附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8e9cf9e1-72fe-428b-9bb8-901da1e3fa10&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/06\/27",
+    "ExecuteReNumber": "府工養一字第 1120798739號",
+    "ExecuteReMemo": "本府就「臺南市中西區金華路大勇街口(全聯前)門口之導盲磚，建議重新鋪設。」案，敬答覆如下：\r\n本案經本府工務局112年6月13日邀集相關單位現場勘查，本市中西區金華路與大勇街口全聯福利中心前側溝，遭擅自設置止滑設施易與導盲磚混肴問題，本府工務局已通知全聯福利中心辦理改善。",
+    "ErrorMessage": ""
+}

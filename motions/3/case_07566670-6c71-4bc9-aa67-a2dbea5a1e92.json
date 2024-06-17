@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "10",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/04\/13",
+    "ComeNumber": "府觀技字第1110438125號",
+    "OrgTitle": "臺南市政府觀光旅遊局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部觀光局核定本市「重點景區遊憩廊帶計畫-黃金海岸。海洋新樂園」經費共計新臺幣2億元整（中央補助款1億2,163萬7千元、市配合款7,836萬3千元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請　審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據交通部觀光局111年3月29日觀技字第1110002173號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案補助含硬體計畫共4項，「海灘林下步道漫遊營造計畫」、「門戶意象型塑提升計畫」、「無邊際沙灘全齡化親水公園營造計畫」、「二仁溪海洋意象設施營造計畫」，合計新臺幣1.55億元整。軟體計畫共6項，「重點景區遊憩廊帶工作執行成果推廣計畫」、「拓展住宿市場及產業升級計畫」、「爭取全球百大綠色旅遊目的認證計畫及配套輔導計畫」、「IKO奧運夢翔水岸沙灣活化計畫」、「智慧觀光系統聚落遊程支持建置計畫」、「專案建設管理總顧問案」，合計新臺幣0.45億元整，總經費共計新臺幣2億元整（中央補助款1億2,163萬7千元、市配合款7,836萬3千元），因未及納入本府111年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年4月12日第537次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/05\/09",
+    "CheckDesc": "聯席審查意見：\r\n一、同意墊付。\r\n二、本案執行時，請觀光旅遊局與水利署第六河川局加強協調合作推動。",
+    "DoneDate": "2022\/06\/08",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2022\/06\/13",
+    "SendNumber": "南議建設字第 1110005283號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=80e919d0-6e6d-43bf-aa76-9eb3405b5d19",
+            "FileName": "市提10.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e54bb2d1-1ee8-4f4e-8a12-c84d9ce218bd",
+            "FileName": "市提10附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=07566670-6c71-4bc9-aa67-a2dbea5a1e92&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

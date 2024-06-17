@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/07\/28",
+    "ComeNumber": "府文秘字第1110983062號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "文化部核定本市「臺南400年─文化資產場域再現計畫(112-114)」為爭取時效，謹請貴會同意先行墊付111年度1,522萬9,000元(中央補助807萬1,000元、市配合款715萬8,000元)，俾憑辦理後續相關作業事宜，俟112年度總預算及112年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據文化部111年6月21日文授資局蹟字第11130065801號函暨111年7月15日文授資局蹟字第1113007980號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費2億3,259萬6,000元，採一次發包，分4年編列預算辦理，111年度1,522萬9,000元、112年度4,040萬元、113年度7,893萬7,000元、114年度9,803萬元，其中111年度1,522萬9,000元，因未及納入本府111年度總預算(375萬7,000元已納入112年度總預算)，為爭取時效，謹請貴會同意先行墊付1,522萬9,000元，俟112年度總預算予以轉正375萬7,000元，112年度追加減預算辦理轉正1,147萬2,000元。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年7月26日第552次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算及112年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/09\/27",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/10\/05",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/10\/14",
+    "SendNumber": "南議建設字第 1110011895號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c49c5156-8e19-46c6-bdec-95833fcd6921",
+            "FileName": "市提3附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0aade89e-fdfc-4192-9136-975e51441d8e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/08\/23",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/08\/30",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

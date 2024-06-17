@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "161",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳秋宏",
+    "OrgTitle2": "林志展、沈震東、周嘉韋、李宗翰、黃麗招、朱正軒",
+    "CaseCause": "請改善麻豆區市道173線新生南路222號-1前淹水。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"除已增設人行道集水管孔，以利水流入側溝外，工務局已提報前瞻計畫爭取道路側溝與人行道改善。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/05\/23",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/05\/29",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2024\/06\/06",
+    "SendNumber": "南議工務字第 1130004146號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6d06a9fa-39c9-4169-83e0-8d54cffce1dd",
+            "FileName": "4-3定工務議提161附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d829a62e-aa23-4b25-a77b-4e7d69a9d072&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

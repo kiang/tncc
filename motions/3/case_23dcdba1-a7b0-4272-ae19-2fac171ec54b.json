@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "20",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2020\/04\/15",
+    "ComeNumber": "府教體處競字第1090471341號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "教育部體育署核定本市辦理「109年學生游泳課程及體驗活動」之活動經費計2,146萬9,000元整（中央補助款1,565萬8,000元、市配合款581萬1,000元）乙案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟110年度預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據教育部體育署109年3月27日臺教體署學（二）字第1090010921號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"(一)本案由體育署核定本市辦理「109年學生游泳課程及體驗活動」之活動經費核定計2,146萬9,000元整（中央補助款1,565萬8,000元、市配合款581萬1,000元），依體育署規定，補助案由地方政府申請辦理者，應辦理納入預算，爰依規定辦理墊付。\"},{\"tag\":\"p\",\"content\":\"(二)惟因本案核定時經費額度未及列入109年度預算編列，為利本案執行及配合中央列管時程，擬請准予先行辦理墊付，俟110年度總預算時辦理轉正。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府109年4月14日第434次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟110年度預算時再予轉正。\"}]",
+    "CheckDate": "2020\/05\/06",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2020\/06\/09",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2020\/06\/16",
+    "SendNumber": "南議教育字第 1090003881號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=20a959be-8e39-44d7-9be5-de6866d8a508",
+            "FileName": "20偏遠地區-僅台南.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c7780e68-4654-441f-b7e5-bf61522e3504",
+            "FileName": "20經費核定表-一般地區.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=178e9109-4c27-4a93-93ff-c7a8e3aa5bf5",
+            "FileName": "20體育署核定文-游泳教學.PDF",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=23dcdba1-a7b0-4272-ae19-2fac171ec54b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

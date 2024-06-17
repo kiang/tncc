@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "91",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳怡珍",
+    "OrgTitle2": "陳皇宇、陳秋萍、周麗津",
+    "CaseCause": "有關臺南市安南區吉安公園旁籃球場年久失修，導致地板磨損，易發生跌倒事故乙案，本席建請臺南市政府應儘速進行吉安公園籃球場改善工程，以維護市民權益。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市安南區吉安公園旁籃球場因久未保養，加上場地運動使用量大，民眾常因地面老舊而滑倒受傷，產生危險。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為促進公共設施場地安全，本席建請貴府應儘速整修吉安公園籃球場，以增進休閒環境、促進社區發展。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/03\/29",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/03\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/04\/10",
+    "SendNumber": "南議工務字第 1120002152號",
+    "DoDesc": "",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=65365875-de42-45ac-9c31-8149ecbe2b9a",
+            "FileName": "府工園一字第1120519960號-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ac85df12-8d3c-4bf3-9d24-3252c30f1033&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/05\/05",
+    "ExecuteReNumber": "府工園一字第 1120519960號",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

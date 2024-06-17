@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "10",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李宗霖",
+    "OrgTitle2": "邱莉莉、黄肇輝、陳秋宏、沈家鳳、蔡筱薇、鄭佳欣、吳通龍",
+    "CaseCause": "建請市府將市區內所有博物館、古蹟等做橫向串聯，同時藉由「台南400」發行市民版博物館卡，以及觀光版博物館卡。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"以文化古都升格的直轄市，乘著台南400的翅膀，博物館營運應做橫向串聯。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"市府應積極串聯台南境內幾大館：台灣歷史博物館、台灣文學館、市美術館、南科考古館等作為示範。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"博物館卡可分市民卡和觀光卡(一日、數日、年卡等)，讓市民生活走入文化館場。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2023\/06\/19",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/07",
+    "SendNumber": "南議建設字第 1120005687號",
+    "DoDesc": "",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c853bc64-ea19-4322-a068-2272cc89160b",
+            "FileName": "議提10回覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ebb507dd-a213-4446-987b-dc75173a1a36&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/07\/31",
+    "ExecuteReNumber": "府文博字第 1120930844號",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

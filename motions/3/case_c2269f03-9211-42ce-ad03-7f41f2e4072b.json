@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2021\/09\/27",
+    "ComeNumber": "府主預字第1101127123號",
+    "OrgTitle": "臺南市政府主計處",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本府110年第2季辦理政策及業務宣導之執行情形表，提請貴會備查，請查照。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"依據預算法第62條之1規定辦理。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2021\/11\/26",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2021\/12\/06",
+    "SendNumber": "南議財經字第 1100012320號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fa72d4a3-80b0-44fc-9d05-a58c12cdb7e2",
+            "FileName": "市府來文.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9e79c26c-54a4-4f86-b8cf-299c201f757b",
+            "FileName": "來文附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c2269f03-9211-42ce-ad03-7f41f2e4072b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

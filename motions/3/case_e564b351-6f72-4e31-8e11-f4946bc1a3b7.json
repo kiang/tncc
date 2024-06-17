@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "22",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2020\/05\/13",
+    "ComeNumber": "府文秘字第1090582544號",
+    "OrgTitle": "臺南市政府文化局所屬臺南市立圖書館",
+    "OrgTitle2": "",
+    "CaseCause": "文化部核定本市109年度「河樂融融─文化藝術與生活日常的城市對話文化論壇」經費新臺幣193萬2,000元整乙案(中央補助170萬；市配合款23萬2,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟110年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據文化部109年4月23日文綜字第10930114921號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"本案總經費新臺幣193萬2,000元整（中央補助款170萬元，市配合款23萬2,000元），因未及納入本府109年度總預算，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府109年5月5日第437次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟110年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2020\/07\/01",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2020\/07\/07",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2020\/07\/14",
+    "SendNumber": "南議教育字第 1090005824號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a401f943-b6a0-4fda-9815-0035efb4c134",
+            "FileName": "教育市提第22號案佩珊-河樂融融文化論壇_提送中央之公文及計畫書等相關文件(列印版).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a6b99a00-1246-467f-b15c-2d7edb191737",
+            "FileName": "教育市提第22號案.佩珊--文化部補助辦理文化論壇計畫書0323-河樂融融－文化藝術與生活日.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4aa6b992-6023-4d9b-961a-0c6b0ec36a59",
+            "FileName": "教育市提22附件-文化部同意補助河樂融融文化論壇170萬(佩珊).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e564b351-6f72-4e31-8e11-f4946bc1a3b7&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

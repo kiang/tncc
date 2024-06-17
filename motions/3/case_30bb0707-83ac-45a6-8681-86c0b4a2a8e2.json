@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 臨時會",
+    "PTypTitle": "建設",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/01\/20",
+    "ComeNumber": "府農銷字第1100145816號",
+    "OrgTitle": "臺南市政府農業局所屬動物防疫保護處",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會核定本市「臺灣蘭花生物科技園區升級計畫」經費新台幣150萬元整乙案（中央補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟111年度總預算時再予轉正，敬請　審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依行政院農業委員會109年12月10日農科字第1090249582號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"本案經費中央補助150萬元，因未及納入110年度總預算，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年1月18日第474次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時再予轉正。\"}]",
+    "CheckDate": "2021\/01\/19",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/01\/26",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2021\/02\/02",
+    "SendNumber": "南議建設字第 1100000940號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2d3b5fd5-bb83-4641-b709-b1789b0cfff6",
+            "FileName": "市提附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=30bb0707-83ac-45a6-8681-86c0b4a2a8e2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "2021\/01\/05",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "163",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳秋宏",
+    "OrgTitle2": "沈震東、周嘉韋、李宗翰、朱正軒、黃麗招",
+    "CaseCause": "麻豆區安正里社子3-7號至牌樓道路改善。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"路面老舊，柏油粒料分離，路面凹凸不平，建請改善，以利民眾用路安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/05\/23",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/05\/29",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2024\/06\/06",
+    "SendNumber": "南議工務字第 1130004148號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e2ad126f-317e-4ea3-8cc7-14cdc154e825",
+            "FileName": "4-3定工務議提163附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d46e3f74-6041-405e-b303-9ef509f22cdf&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

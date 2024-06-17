@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "會務",
+    "CaseNumber": "3",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "邱議長莉莉",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南市議會旁聽規則」第3條修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市議會旁聽規則係本會依臺南市議會議事規則第73條規定所擬訂，前以本會100年8月19日南議法研字第1000011144號令訂定。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"鑒於完善議場規範，友善親子議會，開放零歲至六歲幼童進場照護，且經本會第4屆第2次臨時會第2次會（112年3月30日）大會決議，爰擬具本規則第3條修正草案。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市議會旁聽規則」第3條修正草案總說明、修正草案對照表、修正草案條文。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"經大會審議通過後發布施行並報行政院備查。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2023\/06\/07",
+    "DoneDesc": "一、會務1、2、3、6號案，均予撤銷。\r\n二、鑒於本會缺乏育兒親子空間，請各政黨黨團可推派代表討論，於一週內研議建置友善環境。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=afbefe04-793a-4905-945b-9a6f4f2f5b9e",
+            "FileName": "4~1定會務3(不含提案單).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f7883609-39af-4d3f-a4ac-5af30db9fba2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/05\/29",
+    "ReDesc": "一、會務1、2、3、6號案，均予撤銷。\r\n二、鑒於本會缺乏育兒親子空間，請各政黨黨團可推派代表討論，於一週內研議建置友善環境。",
+    "FirstDate": "2023\/04\/27",
+    "FirstDesc": "第4屆第1次定期會第1次會(112年4月27日)大會決議：大會通過交付法規委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "15",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/05\/01",
+    "ComeNumber": "府農務字第1130618732號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "農業部動植物防疫檢疫署核定本府「113年友善環境植物保護資材推廣計畫」案，經費365萬元(全額補助款)因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據農業部動植物防疫檢疫署113年3月26日防檢三字第1131875644號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"所需總經費共計新臺幣365萬元(全額補助款)，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要工作項目為補助本市農民施用生物農藥、免登記植物保護資材防治病蟲害及鄉鎮區輔導單位執行計畫相關行政作業費。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府113年4月23日第643次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案為藉由補助措施鼓勵農民使用無農藥殘留顧慮的安全資材，增加生物農藥與免登記植物保護資材有效應用於田間栽培，改變農民用藥行為習慣，並依113年3月26日防檢三字第1131875644號函要求於113年12月31日前結案，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f214830a-1b0a-4d62-9303-2c1956c2d485",
+            "FileName": "財經15-附件1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=970e01f5-830d-4372-8bf4-c761f9a2f1b9",
+            "FileName": "財經15-附件2.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f7b21166-262a-4a7a-9853-9aa49739fe1f",
+            "FileName": "財經15-附件3.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b0689ca7-b057-49e4-8b7b-267be91e7f66&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "",
+    "FirstDate": "2024\/05\/29",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

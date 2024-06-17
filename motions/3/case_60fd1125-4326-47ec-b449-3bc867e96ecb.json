@@ -1,0 +1,54 @@
+{
+    "GradeTime": "第3屆 第12次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2022\/02\/22",
+    "ComeNumber": "府交綜字第1110274230號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "臺南市政府推動「臺南鐵路立體化延伸至永康地區可行性研究」，為爭取儘速提至行政院審議，謹請貴會同意本案規劃成果，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依交通部鐵道局110年12月23日鐵道規字第1103104260號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案原為「臺南鐵路立體化延伸至善化地區可行性研究」，於107年10月經交通部委員會審議決議略以「永康地下化修正後通過，新市善化段退回本府再議」，爰本府依該決議優先推動「鐵路立體化延伸至永康地區計畫可行性研究」，並於110年10月14日提報交通部轉行政院續審。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"交通部鐵道局110年12月23日函請本府依中央相關單位審查意見修正報告書後再次提報續審。其中行政院交通環境資源處及交通部會計處之意見略以「...應配合計畫範圍修正及「鐵路平交道與環境改善建設及周邊土地開發計畫審查作業要點」規定重新取得議會同意函。」。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"依交通部107年頒布「鐵路平交道與環境改善建設及周邊土地開發計畫審查作業要點」，地方議會須出具同意本計畫之相關文件，爰請貴會同意本案規劃成果。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"原「臺南鐵路立體化延伸至善化地區可行性研究」業經貴會105年11月7日南議保安字第1050007517號函同意。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"「臺南鐵路立體化延伸至永康地區可行性研究」維持永康地下化，與「臺南鐵路立體化延伸至善化地區可行性研究」之差別僅有範圍及相關經費效益調整。\",\"children\":[]},{\"order\":\"(三)\",\"content\":\"計畫南端銜接「台南市區鐵路地下化計畫」，往北於烏竹橋平交道北側約20公尺處出土銜接鹽水溪鐵路高架橋南端，全長6.72公里，全線鐵路地下化，並新增地下康橋站。\",\"children\":[]},{\"order\":\"(四)\",\"content\":\"檢送計畫歷程及計畫概述乙份，另檢附「臺南鐵路立體化延伸至永康地區可行性研究」精簡版報告供參。\",\"children\":[]}]},{\"order\":\"六、\",\"content\":\"本案業經本府111年2月22日第530次市政會議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意本案規劃成果，以利加速計畫推動時程。\"}]",
+    "CheckDate": "2022\/03\/22",
+    "CheckDesc": "本案送大會討論。",
+    "DoneDate": "2022\/03\/25",
+    "DoneDesc": "本會同意。另請市府財稅局、交通局在下次定期會召開前(4月13日)提供未來財源籌措狀況予本會。",
+    "SendDate": "2022\/04\/06",
+    "SendNumber": "南議保安字第 1110002614號",
+    "DoDesc": "臺南市政府「臺南鐵路立體化延伸至永康地區可行性研究-財務補充報告」詳見夾檔。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=95e0e962-6164-4adc-aa48-fbc10f60c73b",
+            "FileName": "永康計畫_精簡版111.02版V2.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4aa98983-07b6-451a-8aa5-1a91db185982",
+            "FileName": "1110104永康案概述v1.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6e9a8bd6-83ff-42e5-b1df-164dfafcaaa2",
+            "FileName": "臺南市政府「臺南鐵路立體化延伸至永康地區可行性研究-財務補充報告」.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=60fd1125-4326-47ec-b449-3bc867e96ecb&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "本會同意。另請市府財稅局、交通局在下次定期會召開前(4月13日)提供未來財源籌措狀況予本會。",
+    "FirstDate": "2022\/03\/09",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/04\/13",
+    "ExecuteReNumber": "府交綜字第 1110451261號",
+    "ExecuteReMemo": "臺南市政府「臺南鐵路立體化延伸至永康地區可行性研究-財務補充報告」詳見夾檔。",
+    "ErrorMessage": ""
+}

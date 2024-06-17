@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "20",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "洪玉鳳",
+    "OrgTitle2": "蔡育輝、林阳乙、林燕祝、吳通龍、盧崑福、尤榮智",
+    "CaseCause": "建請市府儘速於海安路三段（臨安路二段、民德路、育德二路51巷、海安路三段338巷、立賢路一段、海安路三段500巷及520巷、文成一路、文成二路、文成三路、文成五街、育德二路809巷）裝設紅綠燈行車倒數計時器、行人倒數計時器，以維護民眾通行安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"建請市府儘速在上開地點之路口裝設紅綠燈行車倒數計時器、行人倒數計時器，以維護民眾通行之安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/11\/25",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/12\/09",
+    "SendNumber": "南議保安字第 1090011739號",
+    "DoDesc": "本案經市府109年12月17日府交工字第1091521898號函復:\r\n查本府交通局已於本府工務局辦理之「海安路道路優質化工程」時，預為將海安路三段工程範圍內(文成一路至育德二路809巷)號誌化路口規劃裝設行車倒數計數器及行人倒數計時器等設施，其餘路口尚未設置部分，本府交通局將納入年度預算辦理增設事宜。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=03ce4e9c-dc13-4ec0-9948-03b98498e8b3",
+            "FileName": "議提20號附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a52f218f-fdb3-41de-96ff-3a2273918720&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府109年12月17日府交工字第1091521898號函復:\r\n查本府交通局已於本府工務局辦理之「海安路道路優質化工程」時，預為將海安路三段工程範圍內(文成一路至育德二路809巷)號誌化路口規劃裝設行車倒數計數器及行人倒數計時器等設施，其餘路口尚未設置部分，本府交通局將納入年度預算辦理增設事宜。",
+    "ErrorMessage": ""
+}

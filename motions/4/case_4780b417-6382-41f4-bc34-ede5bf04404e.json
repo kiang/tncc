@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "47",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "曾之婕",
+    "OrgTitle2": "陳怡珍、林冠維、李中岑、盧崑福、鄭佳欣、蔡宗豪、周麗津",
+    "CaseCause": "建請於林森路二段、東門路至東寧路段，雙側整修既有人行道，並整修路面。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"接獲民眾反映，林森路二段、東門路至東寧路段，周遭國宅及社區人口以年長者居多，附近又有學校，學生人數眾多，時常發生行人與車爭道，險象環生。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"此路段人行道路損壞，有危害老人及學生通行安全之虞。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"請儘速會勘辦理。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如說明。\"}]",
+    "CheckDate": "2024\/05\/23",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/05\/29",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2024\/06\/05",
+    "SendNumber": "南議工務字第 1130003939號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f3446c75-c4c9-457a-aa97-6c1d62589ed3",
+            "FileName": "4-3定工務議提47附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4780b417-6382-41f4-bc34-ede5bf04404e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

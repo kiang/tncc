@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "299",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "蔡宗豪、杜素吟、吳禹寰",
+    "CaseCause": "建請市府儘速完成善化區南123線六分寮段2257地號旁側溝增設工程，以利民眾使用。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據人民陳情案件辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"此路段常因汛期積水，導致民眾生活不便及有安全疑慮，為保障人民生活安全，請市府儘速完成此工程。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/06\/30",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/10",
+    "SendNumber": "南議工務字第 1120006049號",
+    "DoDesc": "本府就「建請市府儘速完成善化區南123線六分寮段2257地號旁側溝增設工程，以利民眾使用」案，敬答覆如下：\r\n本案本府工務局已於112年3月29日及112年6月30日會同貴會李偉智議員服務處、農田水利署嘉南管理處、陳情人、善化區公所現場會勘完成，現況雖無側溝且陳情人土地與道路有高低落差，惟區公規劃之側溝增設位置係位於私人土地上且尚未取得同意書，區公所和陳情人表示將再努力取得該地主之同意，另道路旁私人土地旁為農田水利署之溝渠預定地，建議善化區公所亦可朝提案建議農田水利署辦理溝渠延伸之方式，以解決陳情人排水問題。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=81e97c36-c2d7-402a-8f03-cfbabb1072a7",
+            "FileName": "府工養二字第1120941374號涵-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=89f5c943-ac34-4321-a2d7-777d03c58b8a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/07\/24",
+    "ExecuteReNumber": "府工養二字第 1120941374號",
+    "ExecuteReMemo": "本府就「建請市府儘速完成善化區南123線六分寮段2257地號旁側溝增設工程，以利民眾使用」案，敬答覆如下：\r\n本案本府工務局已於112年3月29日及112年6月30日會同貴會李偉智議員服務處、農田水利署嘉南管理處、陳情人、善化區公所現場會勘完成，現況雖無側溝且陳情人土地與道路有高低落差，惟區公規劃之側溝增設位置係位於私人土地上且尚未取得同意書，區公所和陳情人表示將再努力取得該地主之同意，另道路旁私人土地旁為農田水利署之溝渠預定地，建議善化區公所亦可朝提案建議農田水利署辦理溝渠延伸之方式，以解決陳情人排水問題。",
+    "ErrorMessage": ""
+}

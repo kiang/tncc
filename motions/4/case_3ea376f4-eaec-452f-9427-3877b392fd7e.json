@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/09\/01",
+    "ComeNumber": "府農港字第1121129639號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會漁業署核定本市112年度「新式蚵棚設施試驗補助及成果分析計畫」經費新台幣1,469萬元整(中央補助款1,308萬元；市配合款161萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院農業委員會漁業署112年7月20日漁四字第1121347649號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"本案補助漁民購買新式蚵棚共300棚，112年度補助78棚，並辦理新式蚵棚研發、試驗、回收再利用及成果分析工作，推動免回收、可抗浪、抗颱之新式蚵棚示範模組，配合實名制管理辦理回收再利用工作，以確實控管浮筏式牡蠣養殖廢棄物，消弭環保團體及民眾之負面印象，維持本市海岸及海洋環境整潔。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本案總經費新台幣6,165萬元整(中央補助5,488萬5,000元；市配合款676萬5,000元)，以分年編列預算辦理，112年度1,469萬元整，113年度2,348萬1,000元整，114年度2,347萬9,000元整，其中112年度經費1,469萬元整(中央補助1,308萬元；市配合款161萬元)未及納入本府112年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府112年8月15日第607次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本案為補助漁民購買新式蚵棚，漁業署於112年7月20日發函核定補助經費，須於112年12月31日前完成78棚蚵棚補助工作，因本案時程緊迫且中央核定補助計畫日期較晚，未及納入本府112年度總預算，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/10\/19",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/10\/27",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/11\/01",
+    "SendNumber": "南議財經字第 1120009863號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1d4b2781-5f07-4b0b-b468-6aa1ed3039a0",
+            "FileName": "財經3號墊付案附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3ea376f4-eaec-452f-9427-3877b392fd7e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/09\/15",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/09\/22",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

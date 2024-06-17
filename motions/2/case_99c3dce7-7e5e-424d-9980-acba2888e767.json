@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "3",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林宜瑾",
+    "OrgTitle2": "李文正、呂維胤、陸美祈、王錦德、林志展、蔡玉枝、邱莉莉",
+    "CaseCause": "建請財稅局將本市學校行政的未休假加班費與府內公務人員一致，以激勵第一線校園行政人員。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、本市校園行政大逃亡情況嚴重，茲因未休假加班費被砍為剩三天，與外縣市的十六天存在五倍以上的巨大差距。\"},{\"tag\":\"p\",\"content\":\"二、臺南市政府公務人員未休假加班費為七天，採最低標準檢視，也該全市公務員一致，而非一市兩制。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"同案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2018\/05\/25",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2018\/06\/01",
+    "SendNumber": "南議財經字第 1070003975號",
+    "DoDesc": "臺南市政府107年6月21日府財務字第1070656040號函覆：\r\n本府就「將本市學校行政的未休假加班費與府內公務人員一致，以激勵第一線校園行政人員。」決議案，敬答覆如下：\r\n本案非本府財政稅務局權責，已於107年6月20日南市財務字第1071100085號函請業務主管機關教育局研議辦理。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=20b973cb-441d-4e8e-826d-c9b7290f10a8",
+            "FileName": "函教育局.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=99c3dce7-7e5e-424d-9980-acba2888e767&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2018\/03\/07",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "臺南市政府107年6月21日府財務字第1070656040號函覆：\r\n本府就「將本市學校行政的未休假加班費與府內公務人員一致，以激勵第一線校園行政人員。」決議案，敬答覆如下：\r\n本案非本府財政稅務局權責，已於107年6月20日南市財務字第1071100085號函請業務主管機關教育局研議辦理。",
+    "ErrorMessage": ""
+}

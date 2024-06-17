@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡蘇秋金、蔡筱薇",
+    "OrgTitle2": "劉米山、李宗翰、鄭佳欣、李偉智、沈震東、林志展、郭鴻儀、林志聰、李鎮國、林美燕",
+    "CaseCause": "建請臺南市政府臨時人員工作規則第22條第4項之規定，修正為：臨時人員補休應於事實發生日起一年內補休完畢。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"現行臺南市政府的臨時人員工作規則第22條第4項規定：補休應於事實發生日起至當年度之十二月三十一日前補休完畢。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"勞動基準法第32-1條規定，補休期限由勞雇雙方協商。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"公務人員補休相關規定：\",\"children\":[{\"order\":\"(一)\",\"content\":\"行政院107年4月11日院授人培字第1070037508號函：為利差勤管理及增加運用補休之彈性，各機關員工各項補休期限，統一規定於1年內補休完畢。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"立法院會111年5月30日三讀修正通過公務人員保障法部分條文，明定公務人員補休假應於機關規定的補休假期限內補休完畢，補休假期限至多為2年。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"實務狀況及案例：\",\"children\":[{\"order\":\"(一)\",\"content\":\"基層公務部門無編列足額預算發給假日出勤之臨時人員加班費，多數改以補休方式取代。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"機關於12月份辦理之節慶活動，如聖誕節或跨年晚會等近年底活動之加班時數，因該年度即將結束已無運用彈性，讓臨時人員能選擇在年度內補休完畢，往往被迫只能放棄，顯違衡平性及比例原則，已嚴重損及臨時人員勞工補休假之權益。\",\"children\":[]}]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及附表。\"}]",
+    "CheckDate": "2022\/09\/29",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/10\/05",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/10\/11",
+    "SendNumber": "南議民教字第 1110011526號",
+    "DoDesc": "本府就「建請臺南市政府臨時人員工作規則第22條第4項之規定，修正為:臨時人員補休應於事實發生日起一年內補休完畢」案，敬答覆如下：本府業於111年11月14日通函各機關（單位），有關臨時人員加班補休，請各單位尊重個人意願，並視業務性質，訂定一定期限內完成補休，俾合理保障臨時人員勞動權益（如附件）。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3b097aa3-a8a6-41b7-b693-fd039c6d322b",
+            "FileName": "定3-8民教議提1-秘書處修正臨時人員補休規定附表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a6ddd434-19e5-47b0-997f-88b5e9e59b47",
+            "FileName": "定3-8民政教育議提1-秘書處覆函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5cd85025-c2c6-404d-867c-7677944a7199&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/11\/16",
+    "ExecuteReNumber": "府秘總字第 1111465522號",
+    "ExecuteReMemo": "本府就「建請臺南市政府臨時人員工作規則第22條第4項之規定，修正為:臨時人員補休應於事實發生日起一年內補休完畢」案，敬答覆如下：本府業於111年11月14日通函各機關（單位），有關臨時人員加班補休，請各單位尊重個人意願，並視業務性質，訂定一定期限內完成補休，俾合理保障臨時人員勞動權益（如附件）。",
+    "ErrorMessage": ""
+}

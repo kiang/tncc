@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "53",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林燕祝",
+    "OrgTitle2": "王家貞、洪玉鳳、曾培雅、蔡育輝",
+    "CaseCause": "建請市府將永康區自復國一路影三華廈至復興路止之側溝予以加寬及加深，以防堵淹水情形發生。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、查永康區自復國一路影三華廈至復興路止之側溝短且淺，又現行因氣候變遷，常有強降雨發生，致該處側溝恐因宣洩不及，而衍生位於側溝兩側住家有淹水之情形。\"},{\"tag\":\"p\",\"content\":\"二、為求有效宣洩大量雨水，故建請市府將永康區自復國一路影三華廈至復興路止之側溝予以加寬及加深，以防堵淹水情形發生，避免市民飽受淹水之苦。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2016\/12\/23",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2016\/12\/29",
+    "SendNumber": "南議工務字第 1050009092號",
+    "DoDesc": "本案經市府106年1月11日府工養一字第1051352701號函復：(如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c46fd70a-64e5-401c-ae2b-05bc8781dca9",
+            "FileName": "53號案書面答復.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2a3c2bb5-a3e2-4a5d-aa33-a67d6e4e8805&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2016\/10\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府106年1月11日府工養一字第1051352701號函復：(如夾檔)",
+    "ErrorMessage": ""
+}

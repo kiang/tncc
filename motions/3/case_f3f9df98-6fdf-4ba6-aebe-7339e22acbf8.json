@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第2次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2019\/10\/28",
+    "ComeNumber": "府農銷字第1081256107號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南市農產運銷股份有限公司組織自治條例」部分條文修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為協助本市農民拓展國內外銷，增加農民收益且農產運銷公司新化場新場預計於109年12月完工，佔地8公頃，總經費約為8.2億。為使該公司成為全臺熱帶蔬果集散地、南嘉高屏蔬菜主要拍賣及批發市場，成為臺南蔬果產銷調節點並增加農民收益，需增加聘任專業人員協助管理及督導該公司業務，擬增加該公司董事人數為九人。爰將第三條臺南市農產運銷股份有限公司董事人數，修正為九人至十五人、第七條監察人數，修正為三人至五人。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府108年5月15日市政會議通過，送請貴會審議。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市農產運銷股份有限公司組織自治條例部分條文修正草案」（含總說明、條文對照表及條文內容）乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議\"}]",
+    "CheckDate": "2019\/12\/06",
+    "CheckDesc": "一、修正通過。\r\n二、提案單說明一後段，…擬增加該公司董事人數為九人…，本句刪除。\r\n三、第三條新增第二項，前項董事應至少有三分之二為專業人士。\r\n",
+    "DoneDate": "2019\/12\/10",
+    "DoneDesc": "照審查意見修正通過。",
+    "SendDate": "2019\/12\/24",
+    "SendNumber": "南議法規字第 1080009825號",
+    "DoDesc": "一、本府109年2月3日府農銷字第1090165181號函，向行政院檢送修正「臺南市農產運銷股份有限公司組織自治條例」第3條、第7條相關資料，請其鑒核。\r\n二、行政院於109年3月12日同意備查。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f7102ed7-ab0c-43cf-aa97-d9189f263da7",
+            "FileName": "臺南市農產運銷股份有限公司組織自治條例 第三條、第七條修正草案(總說明、對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f3f9df98-6fdf-4ba6-aebe-7339e22acbf8&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見修正通過。",
+    "FirstDate": "2019\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "一、本府109年2月3日府農銷字第1090165181號函，向行政院檢送修正「臺南市農產運銷股份有限公司組織自治條例」第3條、第7條相關資料，請其鑒核。\r\n二、行政院於109年3月12日同意備查。\r\n",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "78",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡麗青",
+    "OrgTitle2": "王宣貿、黄肇輝、余柷青、陳皇宇",
+    "CaseCause": "建請設立國立台灣歷史博物館生態友善園區，以维生態保護。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"國立台灣歷史博物館與臺南亞太國際棒球村之間的綠地，目前發現棉鴨、青斑蝶、螢火蟲..等稀有動植物。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請將該生態園區編入台灣歷史博物館管理，並輔導保護生態，並打造生態園區與台史博館結合，成為本市新亮點。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/03\/29",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/03\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/04\/10",
+    "SendNumber": "南議工務字第 1120002136號",
+    "DoDesc": "",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3bea57a6-0bff-4d33-840b-dbea614d7cf5",
+            "FileName": "府工園一字第1120517767號-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ce50fd5b-bdc4-4ee3-822c-fc2105cd48d3&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/05\/05",
+    "ExecuteReNumber": "府工園一字第 1120517767號",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

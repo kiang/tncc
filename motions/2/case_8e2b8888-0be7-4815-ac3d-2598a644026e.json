@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第4次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2016\/11\/18",
+    "ComeNumber": "府財產字第1051142823號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理台南市商業會承租本府經管中西區郡王段918-2地號內市有土地，為增設電梯乙座需要，向本府申請核發土地使用權同意書案，擬依土地法第25條規定完成處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、台南市商業會為因應友善環境，規劃增設電梯乙座以達無障礙通路，擬申請雜項執照，須提供土地使用權同意書，本案擬依「臺南市市有財產管理自治條例」第43條規定，依設施申請使用面積11.38平方公尺辦理核發土地使用權同意書。\"},{\"tag\":\"p\",\"content\":\"二、本案業經本府105年11月9日第271次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於2年內辦理核發土地使用權同意書。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2016\/12\/23",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2016\/12\/27",
+    "SendNumber": "南議財經字第 1050009041號",
+    "DoDesc": "本案業已依土地法25條規定送請行政院核准處分在案，賡續辦理核發土地使用權同意書審議作業。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2f97ccc9-ed63-43ea-a2d7-e8a901396b4b",
+            "FileName": "第2屆第4次定期會擬處分清冊（提案3）.xlsx",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8e2b8888-0be7-4815-ac3d-2598a644026e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2016\/10\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案業已依土地法25條規定送請行政院核准處分在案，賡續辦理核發土地使用權同意書審議作業。",
+    "ErrorMessage": ""
+}

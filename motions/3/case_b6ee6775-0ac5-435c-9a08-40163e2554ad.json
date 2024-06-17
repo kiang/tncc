@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "18",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳碧玉",
+    "OrgTitle2": "劉米山、李啓維、蔡旺詮、周麗津",
+    "CaseCause": "建請市府農業局儘速在新化區中興路8號至南175線，進行柏油路面改善工程，以利人車通行。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"據民眾反映，上該路面年久失修，龜裂破損，嚴重影響用路人安全。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請市府農業局，儘速進行柏油路面改善工程，保障人車通行安全。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/06\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/07\/08",
+    "SendNumber": "南議財經字第 1110006571號",
+    "DoDesc": "本府就「建請市府農業局儘速在新化區中興路 8 號至南 175 線，進行柏油路面改善工程，以利人車通行。」決議案，敬答覆如下：\r\n一、本案業於 111 年 6 月 20 日邀請陳碧玉議員服務處及相關單位會勘、經勘查屬本府工務局權責，業請新化區公所提報工程計劃提案單送工務局辦理。\r\n二、承蒙 貴會關心市政之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ea7a0a72-3084-40a1-99af-b12209432e82",
+            "FileName": "18.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b6ee6775-0ac5-435c-9a08-40163e2554ad&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/07\/21",
+    "ExecuteReNumber": "府農工字第 1110899883號",
+    "ExecuteReMemo": "本府就「建請市府農業局儘速在新化區中興路 8 號至南 175 線，進行柏油路面改善工程，以利人車通行。」決議案，敬答覆如下：\r\n一、本案業於 111 年 6 月 20 日邀請陳碧玉議員服務處及相關單位會勘、經勘查屬本府工務局權責，業請新化區公所提報工程計劃提案單送工務局辦理。\r\n二、承蒙 貴會關心市政之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "ErrorMessage": ""
+}

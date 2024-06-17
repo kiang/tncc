@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "25",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李中岑、方一峰、蔡育輝、蔡淑惠",
+    "OrgTitle2": "陳昆和、林美燕、Ingay Tali穎艾達利、李鎮國、周麗津、尤榮智",
+    "CaseCause": "建請臺南市政府辦理「鹽水區三和里三和段567等地號產業道路改善工程」，以確保用路人交通安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本席依據鹽水區三和里長王坤泉暨里民陳情意見辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"三和里三和段567等地號產業道路年久失修，路面破損極為嚴重，影響農機進出及用路人安全，經公所等單位會勘，咸認亟待改善。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/06\/21",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/07\/08",
+    "SendNumber": "南議財經字第 1110006578號",
+    "DoDesc": "本府就「鹽水區三和里三和段567等地號產業道路改善工程，以確保用路人交通安全」案，敬答覆如下：\r\n一、本案工程名稱鹽水區三和里三和段567等地號產業道路改善工程。\r\n二、本案工程已辦理現場勘查，本府將參酌公所提報經費之合理性、並考量農路改善的需求性、急迫性，遵照「臺南市政府農業局辦理農路修繕審查作業要點」，依極危險、危險、不便、普通4個等級序辦理農路案件之核定，以妥善運用有限經費及資源。\r\n三、承蒙貴席對於農政業務之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f967b28e-2a8f-41e4-9118-0df8236abd19",
+            "FileName": "25.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=443d3d44-b5bd-4729-8b1d-f6f8b8484632&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/07\/15",
+    "ExecuteReNumber": "府農工字第 1110899874號",
+    "ExecuteReMemo": "本府就「鹽水區三和里三和段567等地號產業道路改善工程，以確保用路人交通安全」案，敬答覆如下：\r\n一、本案工程名稱鹽水區三和里三和段567等地號產業道路改善工程。\r\n二、本案工程已辦理現場勘查，本府將參酌公所提報經費之合理性、並考量農路改善的需求性、急迫性，遵照「臺南市政府農業局辦理農路修繕審查作業要點」，依極危險、危險、不便、普通4個等級序辦理農路案件之核定，以妥善運用有限經費及資源。\r\n三、承蒙貴席對於農政業務之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "ErrorMessage": ""
+}

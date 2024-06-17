@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "35",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "吳禹寰、陳秋萍、Ingay Tali穎艾達利、林燕祝、蔡旺詮",
+    "CaseCause": "𦰡拔國小前因應路口複雜、金融機構、學童出入、治安重點區域，建請裝設治安交通監視器，以維護社區安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"𦰡拔社區（𦰡拔國小前）全家便利商店前路口，有台20號道-南橫公路、2個不對稱式路口、𦰡拔與羊林社區的出入要道、新化區農會信用部、𦰡菝國小學生通行必要路口，此路口為交通極度複雜路口。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本路口白天為上學、放學，交通負荷量極大路口，對面旁側為金融機構-新化區農會信用部，有交通與治安監視需求。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本路口夜間為社區主要出入口之一，除了全家便利商店為24小時營業外，考量到𦰡拔派出所勤務由新化派出所支援，本出入口夜間為重要治安路口，極需要治安監視器守護𦰡拔、羊林社區里民安全。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"建請臺南市警察局-犯罪預防科儘速辦理相關評估裝設事宜。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/05\/13",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/06\/08",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/06\/15",
+    "SendNumber": "南議保安字第 1110005750號",
+    "DoDesc": "有關本市𦰡拔國小前路口增設治安監視錄影系統案，經本府警察局與轄區新化分局於本（111）年5月23日進行現地會勘結果，查該路口設有三色交通號誌，人車出入頻繁，為維護民眾及師生出入之安全，確實有增設治安監視錄影系統之必要，本府警察局業於本（111）年規劃增設監視器鏡頭2支，以有效維護當地市民治安及交通安全。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cd25731d-ac19-4106-8ac4-406d417edf43",
+            "FileName": "保安議提35附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1fdd0869-eb8c-4071-985e-b9bf395d4359&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/06\/29",
+    "ExecuteReNumber": "府警刑預字第 1110849866號",
+    "ExecuteReMemo": "有關本市𦰡拔國小前路口增設治安監視錄影系統案，經本府警察局與轄區新化分局於本（111）年5月23日進行現地會勘結果，查該路口設有三色交通號誌，人車出入頻繁，為維護民眾及師生出入之安全，確實有增設治安監視錄影系統之必要，本府警察局業於本（111）年規劃增設監視器鏡頭2支，以有效維護當地市民治安及交通安全。",
+    "ErrorMessage": ""
+}

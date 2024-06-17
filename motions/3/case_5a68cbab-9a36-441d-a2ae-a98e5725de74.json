@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 臨時會",
+    "PTypTitle": "臨時動議",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-其他",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳秋萍",
+    "OrgTitle2": "蔡旺詮、呂維胤、陳怡珍、李偉智",
+    "CaseCause": "建請市府增設本市總圖書館公車路線及站體，以因應市民大眾需求。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、位於本市永康砲校原址的台南市總圖書館自2017年7月動工，預計將在本年12月正式啟用。\"},{\"tag\":\"p\",\"content\":\"二、台南市立圖書館具有國際會議、文創產業等複合功能外，周邊近2公頃綠地亦將設置兒童親子主體景觀公園，人潮可期；復以附近大樓櫛比鱗次，對於大眾運輸工具的需求及解決當地交通壅塞的課題，請市府及早提出因應對策。\"}]",
+    "Method": "[]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2020\/09\/09",
+    "DoneDesc": "照案通過。",
+    "SendDate": "2020\/09\/15",
+    "SendNumber": "南議議事字第 1090008459號函號",
+    "DoDesc": "臺南市政府109年9月26日府交公運字第1091165702號函復。\r\n本府就「建請本府增設本市總圖書館公車路線及站體，以因應市民大眾需求。」案，敬答覆如下：\r\n本府交通局將針對需求地點清查週邊現有公車路線，並就人車調度、班表、站位調整等方面評估延繞駛至總圖書館路線之可行性。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=74660b9b-8fca-4ca4-91b5-8ae310b6343f",
+            "FileName": "第3屆第5次臨時會臨時動議1號案市府回覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5a68cbab-9a36-441d-a2ae-a98e5725de74&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照案通過。",
+    "FirstDate": "2020\/08\/25",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "臺南市政府109年9月26日府交公運字第1091165702號函復。\r\n本府就「建請本府增設本市總圖書館公車路線及站體，以因應市民大眾需求。」案，敬答覆如下：\r\n本府交通局將針對需求地點清查週邊現有公車路線，並就人車調度、班表、站位調整等方面評估延繞駛至總圖書館路線之可行性。",
+    "ErrorMessage": ""
+}

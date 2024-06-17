@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "7",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2020\/03\/03",
+    "ComeNumber": "府水行字第1090296784號",
+    "OrgTitle": "臺南市政府水利局",
+    "OrgTitle2": "",
+    "CaseCause": "台灣自來水股份有限公司第六區管理處核定本市「109年度台灣自來水股份有限公司補助南化區公所辦理地方建設細目計畫」經費新台幣1,500萬元(全部中央補助)，因未及納入本府109年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟110年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據台灣自來水股份有限公司第六區管理處109年1月17日台水六操字第1090000758號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合各機關單位預算執行要點第44點第4款辦理，經上級政府核定之補助款，所使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案為「109年度台灣自來水股份有限公司補助南化區公所辦理地方建設細目計畫」核定補助經費為1,500萬元整，因未及納入本府109年度總預算，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府109年3月3日第428次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟110年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2020\/05\/07",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2020\/06\/09",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2020\/06\/15",
+    "SendNumber": "南議工務字第 1090003525號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ec2b6441-f8fc-4f91-8675-377e0662802d",
+            "FileName": "市提7附件.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=51eaa81e-c9ca-4e62-9b64-cf71950a689b",
+            "FileName": "市提7附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=12beedfb-d75c-4b5a-b11b-35459a2510fc&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 臨時會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "24",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王宣貿",
+    "OrgTitle2": "謝舒凡、朱正軒、施余興望 Tjakumay Tagaw、Ingay Tali 穎艾達利、沈家鳳、陳皇宇、李宗霖",
+    "CaseCause": "建請市府將鹽水殯儀館守靈室之遮雨棚改善。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"目前鹽水殯儀館守靈室只有部分有設置遮雨棚，在民眾使用上，造成不便及使用上的落差，建請將未設置遮雨棚之守靈室全面設置。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"民眾反映現階段設置之遮雨棚，若大雨時會側邊漏雨，建請評估設置相關設施(如透明捲簾等)，避免漏雨導致家屬及喪葬事宜物品損害。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/08\/14",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/08\/17",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/08\/25",
+    "SendNumber": "南議民教字第 1120007832號",
+    "DoDesc": "收文字號：112年8月30日1120008171號\r\n本府就「建請市府將鹽水殯儀館守靈室之遮雨棚改善。」案，敬答覆如下：\r\n一、有關鹽水壽園殯葬專區守靈室1號至7號室現已設置有遮雨棚，餘8號至13號室部分預計於113年完成設置，以改善現有不便之處。\r\n二、 有關民眾反映現有遮雨棚遇大雨時偶有漏雨情事，本市殯葬管理所將再行評估設置活動式透明捲簾等類此裝置，以利家屬治喪流程順遂。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bee1f736-d2a3-469e-910d-ab5202012878",
+            "FileName": "民教議提304-附件(鹽水殯儀館遮雨棚改善).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=04cf0d3b-51e1-45ea-8a5c-a793a23a1132&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/08\/30",
+    "ExecuteReNumber": "府民生字第 1120008171號",
+    "ExecuteReMemo": "收文字號：112年8月30日1120008171號\r\n本府就「建請市府將鹽水殯儀館守靈室之遮雨棚改善。」案，敬答覆如下：\r\n一、有關鹽水壽園殯葬專區守靈室1號至7號室現已設置有遮雨棚，餘8號至13號室部分預計於113年完成設置，以改善現有不便之處。\r\n二、 有關民眾反映現有遮雨棚遇大雨時偶有漏雨情事，本市殯葬管理所將再行評估設置活動式透明捲簾等類此裝置，以利家屬治喪流程順遂。",
+    "ErrorMessage": ""
+}

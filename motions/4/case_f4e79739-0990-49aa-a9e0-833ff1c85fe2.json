@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "35",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "邱莉莉、林志展、周奕齊、施余興望 Tjakumay Tagaw、陳秋宏、沈家鳳、吳通龍",
+    "CaseCause": "增設大永康區公立游泳池。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"目前大永康區只有1處公立游泳池《永康休閒育樂中心》位處於永康北邊，實為不足。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"永康為台南市人口密度最高之區域，也僅一處公立泳池，永康游泳選手子弟苦無練習場所，常常跨區又所費不貲，希望市府能在永康區增設公立泳池，敦請市府撥款新建。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府編列預算辦理。\"}]",
+    "CheckDate": "2023\/06\/26",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/07",
+    "SendNumber": "南議民教字第 1120005766號",
+    "DoDesc": "本府就「增設大永康區公立游泳池 」案，敬答覆如下：\r\n一、查永康區目前僅1處公立游泳池(永康休閒育樂中心)，是否增設大永康區公立游泳池，本局尚在研議中。\r\n二、因應教育部體育署政策方向，新建游泳池等運動設施工程，皆朝向不補助縣市政府為原則，爰於運動場館規劃時，優先考量地方需求及中央政策推行方向之運動設施，本局將評估增設大永康區公立游泳池可能性。\r\n三、承蒙貴會暨議席對於市政之關切及熱忱，本府至為感謝，尚請不吝賜教。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=da6d1ba0-8217-4bea-ba3c-e89524d5cc0b",
+            "FileName": "議提附件-增設大永康區公立游泳池.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f4e79739-0990-49aa-a9e0-833ff1c85fe2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/07\/19",
+    "ExecuteReNumber": "府體設字第 1120910115號",
+    "ExecuteReMemo": "本府就「增設大永康區公立游泳池 」案，敬答覆如下：\r\n一、查永康區目前僅1處公立游泳池(永康休閒育樂中心)，是否增設大永康區公立游泳池，本局尚在研議中。\r\n二、因應教育部體育署政策方向，新建游泳池等運動設施工程，皆朝向不補助縣市政府為原則，爰於運動場館規劃時，優先考量地方需求及中央政策推行方向之運動設施，本局將評估增設大永康區公立游泳池可能性。\r\n三、承蒙貴會暨議席對於市政之關切及熱忱，本府至為感謝，尚請不吝賜教。",
+    "ErrorMessage": ""
+}

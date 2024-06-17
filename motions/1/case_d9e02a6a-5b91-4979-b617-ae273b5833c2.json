@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第1次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2011\/04\/19",
+    "ComeNumber": "府民自字第1000264536號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理出售本府經管坐落本市中西區臨安段384-6地號等5筆非公用市有土地，擬依土地法第25條規定，提請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、坐落本市中西區臨安段384-6地號等5筆市有土地，100年總公告現值為3,246,300元（如臺南市政府管有非公用市有土地擬處分清冊），鄰地所有權人檢附畸零地合併使用證明書申請合併，擬依臺南市市有財產管理自治條例第55條第1項第5款及公有土地經營及處理原則第7點但書第1款規定辦理讓售。\"},{\"tag\":\"p\",\"content\":\"二、本案業經本府100年1月19日第4次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "除永康區大灣段4784-0013地號外，其餘照案通過。",
+    "DoneDate": "2011\/07\/11",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2011\/07\/21",
+    "SendNumber": "南議財經字第 1000010923號",
+    "DoDesc": "1.永康區大灣段4784-13地號，已辦竣現況分割，擬提送本屆第二次定期大會。\r\n2.其餘已送內政部審核中(100年8月17日府財產字第1000602686號)。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6746ba02-cb02-465c-92a9-e3cc3cb45b0c",
+            "FileName": "第一屆第1次定期大會擬處分清冊(提案5).xls",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d9e02a6a-5b91-4979-b617-ae273b5833c2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "1.永康區大灣段4784-13地號，已辦竣現況分割，擬提送本屆第二次定期大會。\r\n2.其餘已送內政部審核中(100年8月17日府財產字第1000602686號)。\r\n",
+    "ErrorMessage": ""
+}

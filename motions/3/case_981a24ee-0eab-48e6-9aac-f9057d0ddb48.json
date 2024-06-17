@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "3",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "杜素吟",
+    "OrgTitle2": "黃麗招、方一峰、蔡秋蘭",
+    "CaseCause": "建請市府儘速辦理「臺南市關廟區深坑里深坑子段577地號旁農路擋土牆改善工程」，以保障人民通行往來之安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"經查關廟區深坑里深坑子段577地號旁農路，經常年使用，路面年久失修導致路面損壞，嚴重影響公眾通行往來之安全。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"前揭路段並無下邊坡擋土牆致路基崩陷，因每逢雨季沖刷土壤，致土壤淤積，不僅造成民眾往來通行之不便，亦有通行危險之虞，影響安全甚鉅，建請市府針對前揭道路儘速編列預算進行改善工程並增設擋土牆等，以保障人民通行往來之安全。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/06\/21",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/07\/08",
+    "SendNumber": "南議財經字第 1110006432號",
+    "DoDesc": "本府就「建請市府儘速辦理臺南市關廟區深坑里深坑子段577地號旁農路擋土牆改善工程，以保障人民通行往來之安全。」決議案，敬答覆如下：\r\n一、本案業於111年7月11日南市農工字第1110894644號函補助關廟區公所580,000元辦理改善。\r\n二、承蒙 貴會關心市政之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b198ff21-65f2-4142-9be6-c2af5d4a53f1",
+            "FileName": "3.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=981a24ee-0eab-48e6-9aac-f9057d0ddb48&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/07\/21",
+    "ExecuteReNumber": "府農工字第 1110899168號",
+    "ExecuteReMemo": "本府就「建請市府儘速辦理臺南市關廟區深坑里深坑子段577地號旁農路擋土牆改善工程，以保障人民通行往來之安全。」決議案，敬答覆如下：\r\n一、本案業於111年7月11日南市農工字第1110894644號函補助關廟區公所580,000元辦理改善。\r\n二、承蒙 貴會關心市政之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "ErrorMessage": ""
+}

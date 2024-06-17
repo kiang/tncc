@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "9",
+    "KidTitle": "查照\/備查案-法規查照案",
+    "ComeDate": "2021\/07\/07",
+    "ComeNumber": "府教體處全字第1100813675號",
+    "OrgTitle": "臺南市政府教育局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市公立游泳池使用管理辧法」部分條文。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"依據地方制度法第27條第3項規定辦理。\"}]",
+    "Method": "[]",
+    "CheckDate": "2021\/08\/10",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2021\/08\/24",
+    "SendNumber": "南議法規字第 1100006758號",
+    "DoDesc": "本案已於109年5月29日修正施行。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=193d46b5-5c4f-49cf-b7f3-306f7a6ae492",
+            "FileName": "修正「臺南市公立游泳池使用管理辧法」部分條文.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c5827ec8-1798-4716-8439-6f7b2e83d316&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2021\/08\/03",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案已於109年5月29日修正施行。",
+    "ErrorMessage": ""
+}

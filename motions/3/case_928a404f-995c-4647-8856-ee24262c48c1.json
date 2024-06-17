@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第2次 臨時會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2019\/02\/15",
+    "ComeNumber": "院臺財字第1070028488號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "行政院函告本會於第2屆第7次定期大會(107年5月25日)修正通過之「臺南市房屋稅徵收率自治條例」(第2屆第5次定期會法規議提1)應屬無效。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"1.本案係第2屆第7次定期大會（107年5月25日）修正通過，並107年6月4日南議法規字第1070004068號函請臺南市政府研辦。\"},{\"tag\":\"p\",\"content\":\"2.臺南市政府於107年6月14日府財稅字第1070682260號及6月28日府財稅字第1070734645號函請行政院，聲請無效。\"},{\"tag\":\"p\",\"content\":\"3.行政院108年2月15日院臺財字第1070028488號函告無效。\"}]",
+    "Method": "[]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2019\/02\/20",
+    "DoneDesc": "經向大會報告在案，同意備查。\r\n-----------------------\r\n備註:本案為第2屆第5次定期會法規議提第1號案。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "經向大會報告在案，相關資料存查。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2b3aebe0-5cc7-4868-aa0e-389cb83cf11d",
+            "FileName": "行政院函告臺南市房屋稅徵收自治條例無效公文(1070028488號).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=928a404f-995c-4647-8856-ee24262c48c1&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "經向大會報告在案，同意備查。\r\n-----------------------\r\n備註:本案為第2屆第5次定期會法規議提第1號案。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "經向大會報告在案，相關資料存查。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第9次 臨時會",
+    "PTypTitle": "教育",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/08\/17",
+    "ComeNumber": "府教體處設字第1100986769號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "教育部體育署核定補助本市新化國民中學辦理「運動操場整建工程」案，追加經費新臺幣133萬元整(中央補助款計93萬1,000元，市配合款39萬9,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟111年度總預算辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據教育部體育署110年8月6日臺教體署學(二)字第1100027960號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"本案經費共計新臺幣933萬元(中央補助款計653萬1,000元，市配合款279萬9,000元)，前已於本年度預算匡列800萬元，不足之133萬元(中央補助款93萬1,000元，市配合款39萬9,000)，因未及納入本府110年度總預算，為利本案執行及配合中央列管時程，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年8月16日第504次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，於111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/09\/03",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/09\/10",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/09\/15",
+    "SendNumber": "南議教育字第 1100008050號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e0eb6a42-307b-46ed-8a24-5fa4ad0f2474",
+            "FileName": "3-9臨-教育市提2號案附件-計畫書.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e83a0bdb-0ae9-4cfe-9f54-6575dc70c231",
+            "FileName": "3-9臨-教育市提2號案附件-核准函.PDF",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=583508b2-867c-4233-9e7a-4e32e25479bf&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/09\/01",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

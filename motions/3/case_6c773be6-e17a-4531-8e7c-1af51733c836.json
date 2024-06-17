@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "14",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/05\/10",
+    "ComeNumber": "府民自字第1110601636號",
+    "OrgTitle": "臺南市政府各區公所",
+    "OrgTitle2": "",
+    "CaseCause": "有關國防部陸軍司令部補助東山區公所「111年度彈藥庫睦鄰專案改善暨公益支出」補正計畫，經費新臺幣104萬6,000元乙案（全額中央補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據陸軍第四地區支援指揮部111年3月30日陸四支彈字第1110036259號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案尚符各機關單位預算執行要點第44點第1項第4款規定：「經上級政府核定之補助款，所使用之支出。」\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費1,104萬6,000元（全額中央補助），其中計有104萬6,000元，未及編入111年度預算，為爭取時效，謹請貴會同意先行墊付，俟112年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年5月9日第541次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/06\/30",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/07\/07",
+    "SendNumber": "南議民教字第 1110007162號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=410f865c-7f09-47c1-9857-e090855ccde4",
+            "FileName": "民教14(東山區公所)-附件(核定函及.計畫).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6c773be6-e17a-4531-8e7c-1af51733c836&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/05\/31",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/06\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

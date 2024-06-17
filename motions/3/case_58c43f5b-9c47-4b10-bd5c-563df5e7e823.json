@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第3屆 第1次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "2",
+    "KidTitle": "議員提案-市法規案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝",
+    "OrgTitle2": "張世賢、方一峰、蔡秋蘭、吳通龍、尤榮智、周奕齊、李文俊、林燕祝、林阳乙、李鎮國、洪玉鳳、蔡淑惠、周麗津、曾培雅、曾信凱、王家貞、杜素吟、吳禹寰",
+    "CaseCause": "修正「臺南市房屋稅徵收率自治條例」部分條文草案，調降「非住家用」人民團體等非營業用房屋稅徵收率，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"參照財政部表示：在房屋稅第五條未修正前，對於自住及非自住之住家用房屋稅率各地方政府均按法定最低稅率（即1.2％）課徵。(如附件一)\",\"children\":[]},{\"order\":\"二、\",\"content\":\"103年6月4日修正房屋稅第五條，規定非自住之住家用房屋(供人民團體等非營業使用者)稅率，以最低不得少於其房屋現值百分之一點五，亦即非自住之住家用房屋(供人民團體等非營業使用者)稅率，採法定最低規定按房屋現值百分之一點五課徵，基於過去課徵慣例與人民團體經費籌措困難，本修正建議應屬合理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"目前臺南市人口已邁入老齡化，家庭少子化。各人民團體會費已難以推展業務。且因整體經濟未顯著成長，年金改革後捐贈變少，對外籌募經費困難，為期人民團體永續經營促進臺灣社會正能量動能成長，特修正「非住家用」人民團體等非營業用房屋稅率應按其現值百分之二，調降為百分之一點五，課徵之。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"宜蘭縣「非住家用」人民團體等非營業用房屋，亦是按其現值百分之一點五課徵。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"草案(含總說明及條文草案表)如後附。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"經大會決議後，送巿府公布施行。\"}]",
+    "CheckDate": "2019\/05\/02",
+    "CheckDesc": "一、本案送大會議決。\r\n二、Ingay Tali穎艾達利議員、沈震東議員聲明保留大會發言權。",
+    "DoneDate": "2019\/05\/29",
+    "DoneDesc": "一、本案撤銷。\r\n二、請市政府納入蔡育輝議員、Ingay Tali穎艾達利議員、沈震東議員等議員之意見，下次再行提送本會。",
+    "SendDate": "2019\/06\/10",
+    "SendNumber": "南議法規字第 1080005550號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6b44a8cd-297b-465a-b4bd-ac3d3140e8fe",
+            "FileName": "總說明-修正「臺南市房屋稅徵收率自治條例」.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8c703817-5fde-411d-a423-2fc11531ce13",
+            "FileName": "房屋稅徵收率自治條例修正對照表.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=afc83fb0-6a50-44a0-bdda-02a3f879f468",
+            "FileName": "條文草案-修正「臺南市房屋稅徵收率自治條例」.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=58c43f5b-9c47-4b10-bd5c-563df5e7e823&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "一、本案撤銷。\r\n二、請市政府納入蔡育輝議員、Ingay Tali穎艾達利議員、沈震東議員等議員之意見，下次再行提送本會。",
+    "FirstDate": "2019\/03\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

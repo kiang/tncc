@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "12",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "林冠維、陳怡珍、周奕齊、曾之婕、周麗津",
+    "CaseCause": "建請市府協助新化區護國里中山路3巷53-5號共5戶申請自來水使用。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據人民陳情案件辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"此5戶因無自來水管線可供使用，須至外地取水使用，造成民眾生活極為不變，建請市府經發局協助處理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"依據附件無自來水供水延管工程約需新台幣500萬元。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2023\/06\/20",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/07",
+    "SendNumber": "南議財經字第 1120005663號",
+    "DoDesc": "本府就「建請市府協助新化區護國里中山路3 巷53-5 號共5 戶申請自來水使用。」案，敬答覆如下：\r\n一、 有關旨揭事項，辦理情形如下：\r\n(一) 本案預估埋設輸水管線長度780 公尺，總工程經費約新臺幣500萬元，符合接水資格之戶數5 戶，每戶成本100 萬元，提報水利署112 年度延管工程經費補助評比，不符水利署管考要點納辦規定(每戶成本不得逾60 萬元)，未獲核定。\r\n(二) 本府經發局112 年5 月5 日函請新化區公所協助居民取得接水證明文件，增加接水戶數，以降低每戶工程成本，俾利再次提報水利署爭取補助案能順利核定。\r\n二、 本府經濟發展局將持續追蹤本案接水文件之取得進度，以提報水利署評比作業，期能儘速解決民眾無自來水可用問題。\r\n三、 承蒙貴會議席對新化區護國里中山路3 巷53-5 號等5 戶自來水使用問題之關切，本府至為感謝，尚請不吝賜教。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=223480cd-9a52-454e-8023-df15627cbff9",
+            "FileName": "附件-新化區中山路申請自來水.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8386e77d-d9db-4d1d-b41e-0cdfc9d21891",
+            "FileName": "12.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7970e3e3-4d64-4110-8702-a4f067ae78cd&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/07\/17",
+    "ExecuteReNumber": "府經能字第 1120896195號",
+    "ExecuteReMemo": "本府就「建請市府協助新化區護國里中山路3 巷53-5 號共5 戶申請自來水使用。」案，敬答覆如下：\r\n一、 有關旨揭事項，辦理情形如下：\r\n(一) 本案預估埋設輸水管線長度780 公尺，總工程經費約新臺幣500萬元，符合接水資格之戶數5 戶，每戶成本100 萬元，提報水利署112 年度延管工程經費補助評比，不符水利署管考要點納辦規定(每戶成本不得逾60 萬元)，未獲核定。\r\n(二) 本府經發局112 年5 月5 日函請新化區公所協助居民取得接水證明文件，增加接水戶數，以降低每戶工程成本，俾利再次提報水利署爭取補助案能順利核定。\r\n二、 本府經濟發展局將持續追蹤本案接水文件之取得進度，以提報水利署評比作業，期能儘速解決民眾無自來水可用問題。\r\n三、 承蒙貴會議席對新化區護國里中山路3 巷53-5 號等5 戶自來水使用問題之關切，本府至為感謝，尚請不吝賜教。",
+    "ErrorMessage": ""
+}

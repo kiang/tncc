@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "13",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2012\/02\/02",
+    "ComeNumber": "府工使二字第 1010102880號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "擬制定「臺南市廣告物管理自治條例」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為因應臺南縣、市於99年12月25日合併升格直轄市及配合機關整併，重新訂定「臺南市廣告物管理自治條例」，俾供業務單位管理維護之依據，並廢止99年12月25日公告繼續適用「臺南市廣告物管理自治條例」。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本自治條例業經本府101年2月1日第53次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請惠予審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/06\/22",
+    "SendNumber": "南議法規字第 1010010740號",
+    "DoDesc": "本案已於101年7月3日函送內政部備查，目前內政部尚未函復(內政部表示尚在函請各相關機關表達意見並彙整中)。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a0863ac6-a2f4-4321-8b30-d2398999e856",
+            "FileName": "臺南市廣告物管理自治條例草案(逐條說明).doc",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e2d2aa8d-ba80-4649-98bb-605ee1189d51",
+            "FileName": "臺南市廣告物管理自治條例(草案條文).doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8e9131c4-4acd-4af8-a71e-98cb6560f627&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案已於101年7月3日函送內政部備查，目前內政部尚未函復(內政部表示尚在函請各相關機關表達意見並彙整中)。",
+    "ErrorMessage": ""
+}

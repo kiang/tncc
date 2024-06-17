@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 臨時會",
+    "PTypTitle": "教育",
+    "CaseNumber": "8",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2020\/08\/18",
+    "ComeNumber": "府教永字第1090992740號",
+    "OrgTitle": "臺南市政府教育局",
+    "OrgTitle2": "",
+    "CaseCause": "教育部核定本市「109年度偏遠地區學校及非山非市學校(非原住民學校)設施設備計畫」經費新臺幣7,583萬4,000元整(中央補助款)一案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟110年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據教育部國民及學前教育署109年7月8日臺教國署國字第1090075394號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"(一)本計畫109年度總經費8,947萬4,633元，其中中央補助款8,141萬1,737元，市配款806萬2,896元。\"},{\"tag\":\"p\",\"content\":\"(二)中央補助款(資本門)7,583萬4,000元，因未及納入本府109年度總預算，為爭取時效，請同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府109年8月18日第452次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟110年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2020\/09\/02",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2020\/09\/09",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2020\/09\/16",
+    "SendNumber": "南議教育字第 1090008140號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5a158619-aa3d-42ed-9af2-26c5fe859835",
+            "FileName": "市提8核定文.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=eaab35cc-6419-4695-b72f-e5878e9537ef&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2020\/08\/31",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

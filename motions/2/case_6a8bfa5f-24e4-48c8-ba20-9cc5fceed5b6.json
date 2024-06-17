@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第2屆 第2次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2015\/09\/24",
+    "ComeNumber": "府消預字第1040970699號",
+    "OrgTitle": "臺南市政府消防局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市火災預防自治條例」第十條、第十二條及第九條附表草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市火災預防自治條例(以下簡稱本條例)係於103年6月13日發布施行，本條例第十條及第十二條訂定之立法目的，係為規範防火管理人應定期接受複訓。茲內政部於104年6月29日已發布修正「消防法施行細則」第十四條條文規定，修訂內容包括放寬防火管理人複訓年限及訓練時數，爰配合上開修正條文；並將本條例第九條附表中，有關甲類場所檢修申報期限，修訂為每半年實施一次。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經104年8月26日第222次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附臺南市火災預防自治條例第十條、第十二條及第九條附表修正草案總說明、條文對照表、條文及第九條附表修正草案對照表乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2015\/11\/05",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2015\/11\/17",
+    "SendNumber": "南議法規字第 1040007772號",
+    "DoDesc": "一、104年12月30日南市消預字第1040032022號函請市府法制處公布。\r\n二、本府法制處已於105年1月12日以府法規字第1040024887A號令修正公布。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1377eaf4-cca9-45fd-bd1e-ca51cf956287",
+            "FileName": "2-2定法規市提5(臺南市火災預防自治條例第十條、第十二條總說明條文草案總說明、對照表、條文草案).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=88f51fa1-45ca-4879-8e0c-cb55041adba8",
+            "FileName": "2-2定法規市提5(臺南市火災預防自治條例修正第九條附表修正草案對照表).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=052c62c6-f028-43f6-9e97-4781386dda33",
+            "FileName": "2-2定法規市提5(附表．各類場所辦理消防安全設備檢修申報期限表[1]).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6a8bfa5f-24e4-48c8-ba20-9cc5fceed5b6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2015\/08\/28",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "一、104年12月30日南市消預字第1040032022號函請市府法制處公布。\r\n二、本府法制處已於105年1月12日以府法規字第1040024887A號令修正公布。\r\n",
+    "ErrorMessage": ""
+}

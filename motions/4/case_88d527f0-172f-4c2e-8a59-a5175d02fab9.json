@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "13",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "林冠維、陳怡珍、周奕齊、曾之婕、周麗津",
+    "CaseCause": "建請市府協助善化區溪美里溪尾72-8、72-9、72-10、72-12、72-21共5戶申請自來水使用。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"\"},{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據人民陳情案件辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"此5戶因無自來水管線可供使用，須至外地取水使用，造成民眾生活極為不變，建請市府經發局協助處理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"依據附件無自來水供水延管工程約需新台幣260萬元。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/06\/20",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/07",
+    "SendNumber": "南議財經字第 1120005662號",
+    "DoDesc": "本府就「建請市府協助善化區溪美里溪尾72-8、72-9、72-10、72-12、72-21共5 戶申請自來水使用。」案，敬答覆如下：\r\n一、 有關建議事項，辦理情形如下：\r\n(一) 本案預估埋設輸水管線長度300 公尺，總工程經費約新臺幣192萬元，符合接水資格之戶數5 戶，每戶成本38 萬4,000 元，業經水利署112 年度延管工程評比核定施作，目前規劃設計中，預定112 年底前完工。\r\n(二) 本府經濟發展局將持續追蹤本案工程進度，期儘速解決民眾無自來水可用問題。\r\n二、 承蒙貴會議席對善化區溪美里溪尾72-8 號等5 戶自來水使用問題之關切，本府至為感謝，尚請不吝賜教。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=51534862-1e97-428f-8f47-348aebca246a",
+            "FileName": "附件-善化區溪美里溪尾申請自來水.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e04fe313-596f-412e-8d21-cc04575b5d53",
+            "FileName": "13.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=88d527f0-172f-4c2e-8a59-a5175d02fab9&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/07\/13",
+    "ExecuteReNumber": "府經能字第 1120896188號",
+    "ExecuteReMemo": "本府就「建請市府協助善化區溪美里溪尾72-8、72-9、72-10、72-12、72-21共5 戶申請自來水使用。」案，敬答覆如下：\r\n一、 有關建議事項，辦理情形如下：\r\n(一) 本案預估埋設輸水管線長度300 公尺，總工程經費約新臺幣192萬元，符合接水資格之戶數5 戶，每戶成本38 萬4,000 元，業經水利署112 年度延管工程評比核定施作，目前規劃設計中，預定112 年底前完工。\r\n(二) 本府經濟發展局將持續追蹤本案工程進度，期儘速解決民眾無自來水可用問題。\r\n二、 承蒙貴會議席對善化區溪美里溪尾72-8 號等5 戶自來水使用問題之關切，本府至為感謝，尚請不吝賜教。",
+    "ErrorMessage": ""
+}

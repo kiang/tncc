@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "7",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/03\/04",
+    "ComeNumber": "府工建工字第1100285284號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部水利署第六河川局核定補助辦理「關廟區砲校10米聯外道路延伸暨新仁橋改建工程」一案，為爭取時效，謹請貴會同意辦理先行墊付補助款5,600萬元(全部中央補助款)，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據經濟部水利署第六河川局110年2月25日水六工字第10901099200號函。\"},{\"tag\":\"p\",\"content\":\"二、本案「各機關單位預算執行要點」第44點第4款規定：「經上級政府核定之補助款，所使用之支出」。\"},{\"tag\":\"p\",\"content\":\"三、「關廟區砲校10米聯外道路延伸暨新仁橋改建工程」橋梁工程改建部分總經費新台幣7,205萬2仟元，依「經濟部水利署補助橋梁、涵洞改建工程執行作業注意事項」規定向經濟部水利署第六河川局提報，其最高補助比率為78%(中央補助款5,600萬元)，餘22%為市款(1,605萬2仟元)。經經濟部水利署第六河川局110年2月25日水六工字第10901099200號函同意補助5,600萬元，另市配合款1,605萬2仟元已編列於110年度預算，中央補助款部分因未及納入本府110年度總預算，為爭取時效，謹請貴會同意先行辦理墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經110年3月3日第480次市政會議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/03\/11",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/03\/19",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/03\/23",
+    "SendNumber": "南議工務字第 1100001884號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fa1ae705-a7f9-44de-ac70-183777eac7f9",
+            "FileName": "市提7附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=90568229-0121-4554-96f0-33f44923f03d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/03\/03",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第8次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2018\/08\/16",
+    "ComeNumber": "府農動字第1070926666號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市犬貓管理及福利促進自治條例」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市犬貓管理及福利促進自治條例自一百零一年十二月十二日施行，迄今已邁入第六年，由於市民動物保護意識提升，現行規定已無法符合實際需求，有進行全面檢討之必要。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為提供臺南市更加完善之犬、貓管理制度，加強民眾正確動物保護觀念，讓市民共同以增進動物福祉為目標，達成尊重生命，促進犬、貓福利，維護公共利益及公共安全，增進人與動物之和諧關係目的，爰擬具「臺南市犬貓管理及福利促進自治條例」部分條文修正草案。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府107年7月25日第346次市政會議審議通過。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"檢附修正「臺南市犬貓管理及福利促進自治條例」相關資料（總說明、逐條說明及草案部分條文）乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2018\/11\/27",
+    "DoneDesc": "照審查意見通過。\r\n備註：係經第2屆第12次臨時會第1次會（107年11月27日）決議通過。",
+    "SendDate": "2018\/12\/11",
+    "SendNumber": "南議法規字第 1070008183號",
+    "DoDesc": "108年1月7日字第1071451379號函報行政院農業委員會轉行政院備查中。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b272e62f-e1f8-4e40-a669-ba30e57f2b50",
+            "FileName": "2-8定市提1-臺南市犬貓管理及福利促進自治條例部分條文修正草案(總說明、對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e84b1d5d-5514-4177-9c48-87f6b12f5559&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。\r\n備註：係經第2屆第12次臨時會第1次會（107年11月27日）決議通過。",
+    "FirstDate": "2018\/07\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "108年1月7日字第1071451379號函報行政院農業委員會轉行政院備查中。",
+    "ErrorMessage": ""
+}

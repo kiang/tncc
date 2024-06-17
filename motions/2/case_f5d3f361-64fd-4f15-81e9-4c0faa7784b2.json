@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2018\/04\/13",
+    "ComeNumber": "府財產字第1070262452號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理出售本府經管坐落本市新營區嘉芳段186-1地號等16筆非公用市有土地，擬依土地法第25條規定完成處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、市有土地鄰地所有權人檢附畸零（裡）地合併使用證明書申請承購坐落本市新營區嘉芳段186-1地號等11筆市有土地，擬依臺南市市有財產管理自治條例第51條規定辦理讓售。\"},{\"tag\":\"p\",\"content\":\"二、市有土地承租人申請承購坐落本市佳里區佳里段1630-61地號等5筆市有出租土地，擬依臺南市市有財產管理自治條例第50條第1項第2款規定辦理讓售。\"},{\"tag\":\"p\",\"content\":\"三、本案業經本府107年4月12日第332次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、擬處分清冊編號16南區新都段27地號案保留，請依本委員會107年5月17日會勘結論：「建議採公開標售，原承租人有優先承購權」，並重新提案。\r\n二、餘照案通過。\r\n",
+    "DoneDate": "2018\/05\/25",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2018\/06\/01",
+    "SendNumber": "南議財經字第 1070003964號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b79ce33b-1775-474a-ba3d-16a8d957fd6c",
+            "FileName": "市提2-非公用土地讓售清冊.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f5d3f361-64fd-4f15-81e9-4c0faa7784b2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2018\/03\/07",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第12次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "7",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "曾培雅",
+    "OrgTitle2": "許至椿、蔡淑惠、蔡育輝",
+    "CaseCause": "建請市府正視婦女福利，增加女性公廁。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"台南市公共場所女男公廁比，女公廁數量都比男公廁還要少。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/03\/17",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/03\/25",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/04\/06",
+    "SendNumber": "南議環衛字第 1110002524號",
+    "DoDesc": "本府就貴會第3屆第12次定期（臨時）會決議案（環保衛生議提7號）「建請市府正視婦女福利，增加女性公廁。」案，敬答覆如下：\r\n一、依據建築技術規則建築設備編第37條規定，供公眾使用之建築物男女廁間比例分為1:2至2:7，本市男女廁間比例，已\r\n        於106年由1：1.3增加至1：1.6，預計115年男女廁所比例提升至1：2。\r\n二、有關本府各局處轄管公廁男女廁間比例似有未符法規之情況，為正視婦女福利，增加女性公廁，本府環境保護局已協  \r\n        助清查本府各局處轄管公廁男女廁間數量，並於4月8日將清查結果函送本府工務局卓處，若本府各局處有意改建公廁   \r\n        ，提升女廁間比例，本府環境保護局將協助爭取環保署補助。\r\n三、貴席關心市政熱枕，本府併予致謝。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7bb356e0-46dc-4137-964a-264b80dc470b",
+            "FileName": "3屆12次臨時會議提7號回覆公文.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6cf4ad9f-8349-4432-a414-0d9d9f70c08d",
+            "FileName": "3屆12次臨時會議提7號回覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7f6a2c73-f644-473a-bdd5-2a2a2ff223d0&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/03\/09",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/04\/12",
+    "ExecuteReNumber": "府環清字第 1110461165號",
+    "ExecuteReMemo": "本府就貴會第3屆第12次定期（臨時）會決議案（環保衛生議提7號）「建請市府正視婦女福利，增加女性公廁。」案，敬答覆如下：\r\n一、依據建築技術規則建築設備編第37條規定，供公眾使用之建築物男女廁間比例分為1:2至2:7，本市男女廁間比例，已\r\n        於106年由1：1.3增加至1：1.6，預計115年男女廁所比例提升至1：2。\r\n二、有關本府各局處轄管公廁男女廁間比例似有未符法規之情況，為正視婦女福利，增加女性公廁，本府環境保護局已協  \r\n        助清查本府各局處轄管公廁男女廁間數量，並於4月8日將清查結果函送本府工務局卓處，若本府各局處有意改建公廁   \r\n        ，提升女廁間比例，本府環境保護局將協助爭取環保署補助。\r\n三、貴席關心市政熱枕，本府併予致謝。\r\n",
+    "ErrorMessage": ""
+}

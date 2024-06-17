@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "20",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "周奕齊、李中岑、盧崑福、曾培雅、郭鴻儀",
+    "CaseCause": "86快速道路（東西向快速道路台南關廟線上從仁德大潭系統通歸仁系統中山路一段），該路段彎度大約45度，照明設備不足，容易影響到行車安全，建請市府與管養權責研商增加照明。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、經查86快速道路（東西向快速道路台南關廟線上從仁德大潭系統通歸仁系統中山路一段），該路段彎度大約45度，照明設備不足，容易影響到行車安全，建請市府與管養權責研商增加照明。\"},{\"tag\":\"p\",\"content\":\"二、建請市府針對該路段進行照明改善工程，保障公眾通行往來安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/09\/07",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2020\/09\/09",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/09\/14",
+    "SendNumber": "南議工務字第 1090008136號",
+    "DoDesc": "本案經市府109年10月5日府工園二字第1091145774號函復：\r\n本府工務局經現地釐清，該路段係屬交通部公路總局第五區養護工程處新化工務段權管，並於9月24日函知該工務段，研議評估辦理照明改善(如附件)。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b6349dfb-52de-4784-a9aa-2af732ee650d",
+            "FileName": "3-5臨(議提20號)-書面答覆附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2ba6b953-d3ec-4308-b58a-d6a385a85075&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/08\/25",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府109年10月5日府工園二字第1091145774號函復：\r\n本府工務局經現地釐清，該路段係屬交通部公路總局第五區養護工程處新化工務段權管，並於9月24日函知該工務段，研議評估辦理照明改善(如附件)。",
+    "ErrorMessage": ""
+}

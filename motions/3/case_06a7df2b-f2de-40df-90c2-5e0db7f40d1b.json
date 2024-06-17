@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "5",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林易瑩",
+    "OrgTitle2": "Ingay Tali穎艾達利、黃麗招、周奕齊、周麗津、陳怡珍、郭鴻儀、鄭佳欣、許又仁、李中岑",
+    "CaseCause": "臺南道路、路平工程施工圖像化，應併同交通維持計畫內容等相關資訊公開上網。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"目前台南市有關道路、路平工程等資訊，僅呈現工程名稱以及施工位置。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"參考台北市工務局道路即時施工資訊，除有工程名稱與施工位置，尚有交通維持計畫，包括施工日期、復舊期限、施工時間以及施工廠商、廠商人員聯絡方式。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"民眾常常在上班上學時間才發現通勤道路受阻，也時常因為不能確定施工時間與期限，導致安排替代路線困難，甚至面對施工的安全問題也求助無門。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"請工務局參考他縣市，修正公告頁面與圖資，以利市府公開資訊能夠真正為民所用。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/06\/01",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/06\/08",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/06\/22",
+    "SendNumber": "南議工務字第 1110005897號",
+    "DoDesc": "本府工務局目前在雲嘉南道路挖掘便民系統中（https:\/\/diggis.tainan.gov.tw\/tnroad\/easyMap\/map\/#\/）提供今日施工案件之施工單位、申請單位電話、施工廠商、案件編號、許可證號、施工日期、施工地點、施工原因、施工照片等等相關資訊（如附件示意圖），供使用民眾參考，後續亦將持續參考其他直轄市相關系統之作法評估調整。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=426a4f30-5b5b-4070-ad82-6285dd6695ee",
+            "FileName": "20999_0968871A00_ATTCH2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=06a7df2b-f2de-40df-90c2-5e0db7f40d1b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/08\/01",
+    "ExecuteReNumber": "府工企劃字第 1110968871號",
+    "ExecuteReMemo": "本府工務局目前在雲嘉南道路挖掘便民系統中（https:\/\/diggis.tainan.gov.tw\/tnroad\/easyMap\/map\/#\/）提供今日施工案件之施工單位、申請單位電話、施工廠商、案件編號、許可證號、施工日期、施工地點、施工原因、施工照片等等相關資訊（如附件示意圖），供使用民眾參考，後續亦將持續參考其他直轄市相關系統之作法評估調整。",
+    "ErrorMessage": ""
+}

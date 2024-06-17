@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第15次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "Ingay Tali穎艾達利、周奕齊",
+    "OrgTitle2": "林易瑩、周麗津、蔡育輝、鄭佳欣、陳秋萍、蔡淑惠、李中岑、蔡秋蘭、郭鴻儀、陳怡珍、方一峰",
+    "CaseCause": "建請臺南市政府將山區道路護欄改用滾輪式護欄，提供用路人更安全之保護，減少傷損程度。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"按道路於轉彎處、或遇有路面與接臨地有高低差時，常設置有護欄作為路緣標示與防止用路者超出\/衝滑出道路。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"傳統護欄採用金屬片式或水泥片式設計。金屬片式護欄遇撞擊時易生斷裂，無法有效阻擋車輛翻落路外，斷裂片反致生二次傷害(參附圖一)；水泥式護欄遇意外時，反因材質堅硬造成事故者壓夾等二次傷害(參附圖二)。且二者在雨霧或夜間等能見較低之天候下，如其上貼附反光片剝落或劣化時，反而致生更大用路風險。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"查滾輪式護欄(RollerBarrier)採用旋轉滾輪結構設計，以橡膠或高密度EVA聚合材質製成滾輪組，除以其材質特性達到減震效果外，且能在道路事故發生時以其滾輪結構吸收減少衝擊力，降低事故傷害；亦能以其滾輪旋轉設計，引導偏移車道之車輛回到路面，避免翻越護欄，減少傷損甚至保護事故人車安全。且滾輪組亦得依材質特性添加明度彩度較高色料、貼附反光條，提高護欄整體反光能見度(參附圖三)\",\"children\":[]},{\"order\":\"四、\",\"content\":\"建請臺南市府於轄屬山區、轉彎、道路與臨地高低差較大等高風險肇事路段，改採滾輪式護欄設計；如非屬臺南市轄管之高肇事率路段，亦建請道路管理單位改採滾輪式護欄，以維護市民與用路人安全、減少傷損。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2022\/12\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/12\/22",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/12\/28",
+    "SendNumber": "南議工務字第 1110020977號",
+    "DoDesc": "本府就「建請臺南市政府將山區道路護欄改用滾輪式護欄，提供用路人更安全之保護，減少傷損程度。」案，敬答覆如下：\r\n滾輪式護欄為國外專利產品，產品取得不易且價格較傳統式護欄高許多，國內目前僅公路總局於北宜公路2處試辦，考量成本效益，將視公路總局試辦成效再行研議。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cf55be41-fc0e-42e1-8d36-f0ba7355e6bc",
+            "FileName": "3-15臨工務議提1附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=02326d2b-024a-4574-a14e-f228a8a080ad&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/01\/07",
+    "ExecuteReNumber": "府工養二字第 1120066860號",
+    "ExecuteReMemo": "本府就「建請臺南市政府將山區道路護欄改用滾輪式護欄，提供用路人更安全之保護，減少傷損程度。」案，敬答覆如下：\r\n滾輪式護欄為國外專利產品，產品取得不易且價格較傳統式護欄高許多，國內目前僅公路總局於北宜公路2處試辦，考量成本效益，將視公路總局試辦成效再行研議。",
+    "ErrorMessage": ""
+}

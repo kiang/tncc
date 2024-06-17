@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/09\/08",
+    "ComeNumber": "府交公運字第1101092969號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部核定補助本市辦理110年度「通用計程車申請補助營運計畫」經費新臺幣849萬元整乙案(全額中央補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算辦理轉正，敬請　審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據交通部110年8月16日交路字第1100021395號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款之規定：「經上級政府核定之補助款，所使用之支出。」。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"(一)本案交通部同意補助本市通用計程車申請補助營運計畫經費849萬元(全額中央補助)。\"},{\"tag\":\"p\",\"content\":\"(二)因本案未及納入本局所屬公共運輸處111年度總預算，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年9月6日第507次市政會議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/10\/13",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/10\/27",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/10\/29",
+    "SendNumber": "南議保安字第 1100010256號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b9954c20-e658-4e5c-857e-a8541dfd2887",
+            "FileName": "保安1-核定函.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9832e9c4-12e4-4c4c-9132-329a26f42f4e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

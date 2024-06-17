@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "11",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/05\/02",
+    "ComeNumber": "府客綜字第1110579031號",
+    "OrgTitle": "臺南市政府客家事務委員會",
+    "OrgTitle2": "",
+    "CaseCause": "客家委員會補助本市「111年度臺南市政府公事客語無障礙環境實施計畫」，經費新臺幣6萬元整(中央補助款5萬元、市配合款1萬元)乙案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據客家委員會111年1月14日客會語字第1100011212號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出，與配合上級或同級政府需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"為落實客語使用普及化與擴大提供民眾客語臨櫃服務，前於110年11月25日提送「111年度臺南市政府公事客語無障礙環境實施計畫」至客委會申請經費，經客委會核定補助本府新臺幣30萬元(中央補助款)，市配合款6萬元整，共計36萬元整；其中6萬元(中央補助款5萬元、市配合款1萬元)因未及納入111年度總預算，考量本案之執行期程，為利該計畫之執行，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年4月19日第538次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算再行轉正。\"}]",
+    "CheckDate": "2022\/06\/30",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/07\/07",
+    "SendNumber": "南議民教字第 1110007150號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=56592827-7ce0-4ab5-9254-076e42cae078",
+            "FileName": "民教11(客家)-附件(核定函及計畫書).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f7c0d6eb-3ae2-4942-a7fb-02c302b03303&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/05\/31",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/06\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

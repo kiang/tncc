@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "7",
+    "KidTitle": "有關機關提案-決算審核報告",
+    "ComeDate": "2022\/07\/15",
+    "ComeNumber": "審南市一字第1110053703號",
+    "OrgTitle": "臺南市政府其他",
+    "OrgTitle2": "",
+    "CaseCause": "110年度臺南市總決算暨附屬單位決算及綜計表審核報告，敬請　審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據地方制度法第42條規定辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"中華民國110年度臺南市總決算暨附屬單位決算及綜計表，臺南市政府於民國111年4月29日以府主決字第1110506025號函送本處，本處業於法定期限內依法完成審核，並編製審核報告竣事。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/08\/02",
+    "CheckDesc": "聯席審查意見：照案通過。",
+    "DoneDate": "2022\/08\/30",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2022\/09\/01",
+    "SendNumber": "南議財經字第 1110009832號",
+    "DoDesc": "業於中華民國111年9月6日以臺南市政府府主決字第1111148665號公告依法公告。\r\n\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d8925869-b0e5-4c44-9b17-535548177d3b",
+            "FileName": "市府來文附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4567a6ff-7909-45ab-a582-f1d84a122105&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/07\/20",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2022\/07\/28",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/09\/07",
+    "ExecuteReNumber": "府主決字第 1111170971B號",
+    "ExecuteReMemo": "業於中華民國111年9月6日以臺南市政府府主決字第1111148665號公告依法公告。\r\n\r\n",
+    "ErrorMessage": ""
+}

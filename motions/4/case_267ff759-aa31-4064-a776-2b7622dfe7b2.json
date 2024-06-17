@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/03\/31",
+    "ComeNumber": "府地農字第1120431449號",
+    "OrgTitle": "臺南市政府地政局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部土地重劃工程處核定本市「臺南市學甲區大灣農村社區土地重劃工程設計作業」計畫，核定總經費新臺幣544萬2,000元（中央補助款435萬4,000元，市配合款108萬8,000元），因未及納入112年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部土地重劃工程處112年2月3日地工農字第1121855013號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款之規定，經上級政府核定之補助款，所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案核定總經費新臺幣544萬2,000元（中央補助款435萬4,000元，市配合款108萬8,000元）。因未及納入本府112年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年3月14日第585次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本案農村社區土地重劃之開發許可取得核定通過後，為賡續辦理「工程設計委外發包」，以加速本案重劃作業期程，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/05\/22",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/06\/07",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/06\/13",
+    "SendNumber": "南議財經字第 1120004216號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2c9f7d83-046e-4158-9a56-19f68709c994",
+            "FileName": "財經市提1號案附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=267ff759-aa31-4064-a776-2b7622dfe7b2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/04\/19",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/04\/27",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

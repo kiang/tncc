@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "15",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/07\/24",
+    "ComeNumber": "府農務字第1120960783號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會農糧署南區分署核定本府112年「臺南市花卉產業生產設施與設備計畫」案，經費2,148萬3,000元(全額中央補助款)因未及納入本府112年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院農業委員會農糧署南區分署112年6月8日農糧南生字第1121159343號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"所需總經費共計新臺幣4,293萬3,000元整（全額中央補助款2,148萬3,000元整、農友配合款2,145萬元整），其中中央補助款2,148萬3,000元整，因未及納入本府112年度總預算，為爭取時效，謹請貴會同意先行墊付，俟113年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要內容為補助後壁區農會等10個農會輔導農友朝設施化栽培，設置內循環風扇、降溫風扇等生產設施與設備，調節設施內環境，提升設施花卉栽培管理技術，提升外銷合格率，確保農產品之產量及品質。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府112年7月11日第602次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案為藉由補助農友生產設施與設備，降低天候及病蟲害影響，確保農產品產量及品質，並依行政院農業委員會農糧署南區分署112年6月8日農糧南生字第1121159343號函要求於112年12月31日前結案，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算辦理轉正。\"}]",
+    "CheckDate": "2023\/08\/10",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/08\/17",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/08\/24",
+    "SendNumber": "南議財經字第 1120007834號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1c7e30eb-1cde-4767-afd4-a3fad1f41754",
+            "FileName": "附件-財經市提15號案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=897311f0-60d5-4461-b913-0ce113aa2ca1&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/08\/01",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/08\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

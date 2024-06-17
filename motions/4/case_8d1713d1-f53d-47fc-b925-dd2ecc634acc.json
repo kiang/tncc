@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/03\/26",
+    "ComeNumber": "府農銷字第1130426353號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "農業部農糧署同意本府辦理「2024臺南國際芒果節活動」案補助經費新臺幣400萬元(中央補助款)，因未及納入113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據農業部農糧署113年3月15日農糧果字第1131121177號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款與第45點，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"計畫總經費新臺幣490萬元(中央補助款400萬元，市府配合款90萬元)。查市府配合款編列於113年度總預算。中央補助款400萬元因未及納入本府113年度總預算案，為爭取時效，謹請貴會同意先行墊付，俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要工作項目為辦理本市113年芒果行銷活動及推展芒果產業等相關業務。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府113年3月26日第639次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：因本市為重要芒果產區，約占全國產量50%，且芒果產期集中，需配合6-7月芒果盛產季執行計畫，並應計畫要求於113年底前結案，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2024\/05\/13",
+    "CheckDesc": "聯席審查意見：\r\n一、同意墊付。\r\n二、蔡育輝議員保留大會發言權。",
+    "DoneDate": "2024\/05\/29",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c5d86152-025c-4289-bb3d-6b3faaa388fd",
+            "FileName": "附件-財經第5號案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8d1713d1-f53d-47fc-b925-dd2ecc634acc&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2024\/04\/19",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

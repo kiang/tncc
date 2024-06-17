@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第2次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "28",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林燕祝",
+    "OrgTitle2": "李文俊、洪玉鳳",
+    "CaseCause": "建請市府於永康區西勢路與大同街交叉路口增設路燈，以保障民眾與車輛往來之安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、經查位於永康區西勢路與大同街路口因照明設備不足導致昏暗，因而經常發生交通事故，嚴重影響民眾與車輛往來之安全。\"},{\"tag\":\"p\",\"content\":\"二、建請市府儘速於上開路口增設路燈，以保障民眾與車輛往來之安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2019\/11\/05",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2019\/12\/10",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/12\/18",
+    "SendNumber": "南議工務字第 1080010129號",
+    "DoDesc": "本案經市府108年12月30日府工園二字第1081487441號函復：\r\n本府工務局業已於108年11月8日會同市議員林燕祝服務處張主任現勘，現勘結論為該交叉路口既設路燈照明足夠，且經永康區公所夜間巡查(如附會勘紀錄及夜間巡查照片)，該路段既設路燈照明均正常且無故障問題，本案暫不辦理照明改善。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b7e6f2a1-1b38-4055-9508-4871affdc311",
+            "FileName": "3-2定(議提28)會勘紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=438b018c-a3dc-43c8-9e79-5a5708090ffb&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府108年12月30日府工園二字第1081487441號函復：\r\n本府工務局業已於108年11月8日會同市議員林燕祝服務處張主任現勘，現勘結論為該交叉路口既設路燈照明足夠，且經永康區公所夜間巡查(如附會勘紀錄及夜間巡查照片)，該路段既設路燈照明均正常且無故障問題，本案暫不辦理照明改善。",
+    "ErrorMessage": ""
+}

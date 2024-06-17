@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "24",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "曾培雅、林燕祝",
+    "OrgTitle2": "林美燕、鄭佳欣、吳禹寰",
+    "CaseCause": "建請市府增加收容所，讓流浪的毛小孩可以有個安身之處。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"目前台南的流浪狗有上千隻，而市府的收容所只能收養760隻流浪狗。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請市府增加收容所讓這些毛小孩們有一個安全的容身之處，讓這些陪伴人類的狗狗們也能好好的過每一天。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/06\/21",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/07\/08",
+    "SendNumber": "南議財經字第 1110006577號",
+    "DoDesc": "本府就「建請市府增加收容所，讓流浪的毛小孩可以有個安身之處」案，敬答覆如下：\r\n1、\t本府農業局動物防疫保護處於明(112)年度編列新臺幣2500萬元之預算做為建置收容設施收容遊蕩犬隻之用，並刻正研擬「本市增設遊蕩犬管制收容設施計畫案」據以推動。\r\n2、\t承蒙貴席對於農政業務之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cdf14af4-7cf0-480b-81d7-b1260e329244",
+            "FileName": "24.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1607273f-2bc1-484f-8020-7d2f7aa2dc48&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/07\/19",
+    "ExecuteReNumber": "府農動字第 1110899858號",
+    "ExecuteReMemo": "本府就「建請市府增加收容所，讓流浪的毛小孩可以有個安身之處」案，敬答覆如下：\r\n1、\t本府農業局動物防疫保護處於明(112)年度編列新臺幣2500萬元之預算做為建置收容設施收容遊蕩犬隻之用，並刻正研擬「本市增設遊蕩犬管制收容設施計畫案」據以推動。\r\n2、\t承蒙貴席對於農政業務之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "ErrorMessage": ""
+}

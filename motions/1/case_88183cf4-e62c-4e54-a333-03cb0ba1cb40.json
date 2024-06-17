@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第4次 臨時會",
+    "PTypTitle": "會務",
+    "CaseNumber": "2",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "賴議長美惠",
+    "OrgTitle2": "",
+    "CaseCause": "訂定「臺南市議會議事規則(草案)」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為確保議事運作順暢，本規則依本會組織自治條例第二十四條第二項訂定，俾便實施。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"檢附「臺南市議會議事規則(草案)」。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會同意後報行政院備查，並函送市政府。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2011\/04\/01",
+    "DoneDesc": "一、第五十七條修正為：表決方式應以表決器行之，如遇黨團甲級動員時由大會決定以任何方式表決之。\r\n二、修正通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b35d7fb6-d12c-4f20-a395-d7cd7dc22273",
+            "FileName": "1-4臨會務2-臺南市議會議事規則.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=88183cf4-e62c-4e54-a333-03cb0ba1cb40&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "一、第五十七條修正為：表決方式應以表決器行之，如遇黨團甲級動員時由大會決定以任何方式表決之。\r\n二、修正通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

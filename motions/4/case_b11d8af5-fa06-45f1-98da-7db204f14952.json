@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/03\/03",
+    "ComeNumber": "府農漁字第1120307672號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會漁業署核定本府辦理「112年午仔魚加工及凍儲獎勵作業計畫(臺南市)」案，總經費108萬元(中央全額補助)，因未及納入112年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院農業委員會漁業署112年2月3日漁四字第1121249420號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案漁業署核定補助總經費為新台幣108萬元(中央全額補助)，因未及納入本府112年度總預算，本案符合上開執行要點規定，擬先行辦理墊付，俟113年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年3月1日第583次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案為辦理依據漁業署頒布「午仔魚加工及凍儲獎勵作業規範」受理加工業者申請本轄內之午仔魚加工及凍儲獎勵作業，並派員抽檢以確認魚貨來源及加工凍儲情形，適時回報行政院農業委員會漁業署執行進度，以利即時掌握產業單位執行情形及獎勵金核撥執行進度。時程緊迫計畫期程僅至112年6月30日，且中央核定補助計畫日期較晚，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/03\/23",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/03\/30",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/04\/06",
+    "SendNumber": "南議財經字第 1120001858號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c6f2e37f-e7b0-4b73-a72b-03ae2ac89e9a",
+            "FileName": "財經市提4號案附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b11d8af5-fa06-45f1-98da-7db204f14952&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/03\/13",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/03\/21",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

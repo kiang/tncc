@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第9次 臨時會",
+    "PTypTitle": "會務",
+    "CaseNumber": "6",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "賴議長美惠",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市議會程序委員會設置辦法」第二條條文草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依本會法規委員會103年7月31日會議決議辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"檢附「臺南市議會程序委員會設置辦法」第二條修正草案總說明、修正草案條文對照表、修正後條文草案。\",\"children\":[]}]},{\"tag\":\"p\",\"content\":\"--------------------------------\"},{\"tag\":\"p\",\"content\":\"臺南市議會程序委員會設置辦法第二條修正總說明\"},{\"tag\":\"p\",\"content\":\"依臺南市議會法規委員會103年7月31日會議決議，擔任本會各種委員會設置辦法第二條第一項第一款至第七款委員會之召集人，不得同時擔任紀律委員會及程序委員會委員。由於已涉及程序委員會委員組成變更，爰修正臺南市議會程序委員會設置辦法第二條條文。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會同意後報行政院備查，並函知市政府\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2014\/08\/13",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3c43ad98-d629-4891-819d-bdb9d8f03848",
+            "FileName": "臺南市議會程序委員會設置辦法第二條修正條文.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=24751cd8-3074-466b-9649-0d47f6b5646b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2014\/08\/04",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

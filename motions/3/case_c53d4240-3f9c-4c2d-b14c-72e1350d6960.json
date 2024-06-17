@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2020\/09\/08",
+    "ComeNumber": "府文藝字第1091091986號",
+    "OrgTitle": "臺南市政府文化局所屬臺南市立圖書館",
+    "OrgTitle2": "",
+    "CaseCause": "108年臺南市美術館績效評鑑分析報告，送本會備查。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/11\/26",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "同意備查。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5123d731-9413-4b86-a102-78b462aec3b3",
+            "FileName": "108年美術館績效評鑑報告.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c53d4240-3f9c-4c2d-b14c-72e1350d6960&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2020\/09\/24",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

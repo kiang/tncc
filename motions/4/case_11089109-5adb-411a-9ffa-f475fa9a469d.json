@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "107",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "周嘉韋",
+    "OrgTitle2": "林志展、李宗翰、蔡筱薇、林依婷",
+    "CaseCause": "建請市府針對赤崁樓之公車站牌定期維護，並移除紙本公告。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"目前赤崁樓外已更換為液晶螢幕站牌，十分便利，可即時反映目前公車之狀況，還可以宣傳臺南之旅遊消息，但此公車站牌依舊沒有逃出被張貼紙本公告的窘境，就連為方便民眾之充電孔也被遮掩，實屬本末倒置。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請市府改進液晶螢幕之公車站牌公告方式，減少於公車站牌張貼紙本公告之行為，令新款公車站牌能發揮最大效益。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"附件一為赤崁樓外公車站牌之現況。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/06\/30",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/12",
+    "SendNumber": "南議保安字第 1120006234號",
+    "DoDesc": "本府就「建請市府針對赤崁樓之公車站牌定期維護，並移除紙本公告。」案，敬答覆如下： \r\n考量本市公車時刻異動及因施工改道需提前公告，本府交通局公共運輸處將針對新型智慧站牌研議升級為數位化公告，或改以跑馬燈等形式顯示等，以達無紙化之功能，並提升候車設施服務品質。 ",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f433e32f-592e-4b5e-a740-e8034b132559",
+            "FileName": "周嘉韋議員提案-赤崁樓公車站牌.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=11089109-5adb-411a-9ffa-f475fa9a469d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/08\/03",
+    "ExecuteReNumber": "府交公運字第 1120920855號",
+    "ExecuteReMemo": "本府就「建請市府針對赤崁樓之公車站牌定期維護，並移除紙本公告。」案，敬答覆如下： \r\n考量本市公車時刻異動及因施工改道需提前公告，本府交通局公共運輸處將針對新型智慧站牌研議升級為數位化公告，或改以跑馬燈等形式顯示等，以達無紙化之功能，並提升候車設施服務品質。 ",
+    "ErrorMessage": ""
+}

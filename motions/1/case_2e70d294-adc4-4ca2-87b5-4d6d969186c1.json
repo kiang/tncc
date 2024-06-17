@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "84",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "曾培雅",
+    "OrgTitle2": "林美燕、唐碧娥、蔡育輝",
+    "CaseCause": "大智里文東街30號路面水溝請翻修，長期積水，造成住戶危險不便。",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"一、如案由。\"},{\"tag\":\"p\",\"content\":\"二、請市府儘快辦理。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2012\/12\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/12\/19",
+    "SendNumber": "南議工務字第 1010011431號",
+    "DoDesc": "本案經市府中華民國102年1月3日府工公養一字第1011098009號函復：\r\n案揭道路係屬8公尺以下市區道路，為本市東區區公所權責，將副請該區區公所卓處，若有造成不便祈請諒查。\r\n=================================================\r\n本案經市府102.1.15南東經字第1020041924號函復：\r\n檢送102.1.15關於大智里文東街道路水溝相關事宜會勘記錄",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=17165e31-d010-4e6f-a6fe-78b76fa60dcc",
+            "FileName": "大智里會勘紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2e70d294-adc4-4ca2-87b5-4d6d969186c1&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府中華民國102年1月3日府工公養一字第1011098009號函復：\r\n案揭道路係屬8公尺以下市區道路，為本市東區區公所權責，將副請該區區公所卓處，若有造成不便祈請諒查。\r\n=================================================\r\n本案經市府102.1.15南東經字第1020041924號函復：\r\n檢送102.1.15關於大智里文東街道路水溝相關事宜會勘記錄",
+    "ErrorMessage": ""
+}

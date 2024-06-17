@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "89",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王宣貿",
+    "OrgTitle2": "朱正軒、蔡麗青、余柷青",
+    "CaseCause": "請臺南市政府工務局儘速編列經費修復東山區南103線，以保障市民通行安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"東山區南103線道為東山區東山、北馬、枋子林等聚落之重要道路，該道路破損嚴重、路面顛簸，導致市民用路危險，請工務局儘速編列經費修復，以保障市民用路安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如提案及說明。\"}]",
+    "CheckDate": "2023\/03\/29",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/03\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/04\/10",
+    "SendNumber": "南議工務字第 1120002150號",
+    "DoDesc": "本府就「請臺南市政府工務局儘速編列經費修復東山區南103線，以保障市民通行安全。」案，敬答覆如下：\r\n有關「東山區東中里南103線0k+000～0k+200（白六149右2）道路改善工程」，本府工務局已於111年11月17日南市工養二字第1111482510號函核列新台幣81萬元，委由東山區公所代辨，並於112年4月17日陳報完工。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=294b6c92-bfb8-47cc-bb1b-904cb89f4c1f",
+            "FileName": "4-2臨工務議提89附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f01a14d9-5c6b-4210-9a0b-74eb1db992e9&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/04\/26",
+    "ExecuteReNumber": "府工養二字第 1120506362號",
+    "ExecuteReMemo": "本府就「請臺南市政府工務局儘速編列經費修復東山區南103線，以保障市民通行安全。」案，敬答覆如下：\r\n有關「東山區東中里南103線0k+000～0k+200（白六149右2）道路改善工程」，本府工務局已於111年11月17日南市工養二字第1111482510號函核列新台幣81萬元，委由東山區公所代辨，並於112年4月17日陳報完工。",
+    "ErrorMessage": ""
+}

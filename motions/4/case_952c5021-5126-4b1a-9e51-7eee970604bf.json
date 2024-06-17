@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第4次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/11\/28",
+    "ComeNumber": "府警交字第1121577099號",
+    "OrgTitle": "臺南市政府警察局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部核定補助本府「112年協助地方政府建置交通科技執法設備經費需求計畫書」計畫經費新臺幣(以下同)2,990萬9,000元(全部補助款)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加(減)預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部112年10月25日內授警字第1120873194號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款之規定「經上級政府核定之補助款所使用之支出。」等相關規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費2,990萬9,000元，因未及納入本府警察局113年度總預算，擬請准予辦理先行墊付，俟113年度追加(減)預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年11月21日第621次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案係中央112年中央統籌分配稅款，須於112年度內檢附納入預算證明書及臺灣銀行交通科技執法共約下單內容等資料，方能陳報內政部及財政部國庫署據以核撥經費，且本案中央無法進行預算保留，故須於112年度內完成墊付案審議。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度追加(減)預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/12\/14",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/12\/21",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=56c1025f-6075-4995-bdeb-40b2791acb30",
+            "FileName": "市提1核定函.PDF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d243f632-c9e0-438b-838f-0ed8a7f7fed1",
+            "FileName": "市提1補充說明資料.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=952c5021-5126-4b1a-9e51-7eee970604bf&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/12\/04",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/12\/12",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

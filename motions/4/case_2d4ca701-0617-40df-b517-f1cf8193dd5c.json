@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/09\/01",
+    "ComeNumber": "府農動字第1121136779號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會動植物防疫檢疫局核定本府112年度「建構動物防疫及畜產品安全衛生預警體系計畫(追加)」案，經費228萬5,000元整(全部中央補助款)，因未及納入112年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院農業委員會動植物防疫檢疫局112年7月25日防檢一字第1121471918號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款，所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"所需經費新臺幣228萬5,000元整(全部中央補助款)，因未及納入本府112年度總預算，為爭取時效，謹請貴會同意先行墊付，俟113年度總預算時再予轉正。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要工作項目為草食動物人畜共通傳染病監測與檢驗工作。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府112年8月15日第607次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案攸關本市強化草食動物人畜共通傳染病監測與檢驗工作，以確保公共衛生及畜產品安全，本計畫工作需於112年12月31日前完成，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算辦理轉正。\"}]",
+    "CheckDate": "2023\/10\/19",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/10\/27",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/11\/01",
+    "SendNumber": "南議財經字第 1120009862號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5899ce15-3ddb-441c-97df-d3e1804d6d26",
+            "FileName": "財經2號墊付案附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2d4ca701-0617-40df-b517-f1cf8193dd5c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/09\/15",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/09\/22",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

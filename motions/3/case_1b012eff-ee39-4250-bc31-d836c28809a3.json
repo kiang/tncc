@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "7",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/03\/29",
+    "ComeNumber": "府農港字第1110430472號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會漁業署核定本府「臺南市浮筏式牡蠣養殖產業生產環境改善計畫」案，經費新臺幣86萬元(中央補助款77萬4,000元、市配合款8萬6,000元)，因未及納入111年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院農業委員會漁業署111年3月15日漁四字第1111346582號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"所需經費新臺幣86萬元(中央補助77萬4,000元，市配合款8萬6,000元)，因未及納入本府111年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本案預計於本市安平竹溪臨海側增設天車式吊蚵機3座，計畫主要工作項目為辦理吊蚵機增設工程規劃設計作業。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府111年3月29日第535次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/05\/09",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/06\/08",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/06\/14",
+    "SendNumber": "南議財經字第 5543號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d5ac3f27-6900-4d6d-b116-1f73ee48cd8c",
+            "FileName": "7-3.臺南市浮筏式牡蠣養殖產業生產環境改善計畫_計畫書.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3d7cd807-9569-4d26-97f6-8e3eb033c3ce",
+            "FileName": "7-2.臺南市浮筏式牡蠣養殖產業生產環境改善計畫_核定函-.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1b012eff-ee39-4250-bc31-d836c28809a3&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/04\/06",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

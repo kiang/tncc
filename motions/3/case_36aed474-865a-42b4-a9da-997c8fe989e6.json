@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2020\/03\/03",
+    "ComeNumber": "府地籍字第1090288296號",
+    "OrgTitle": "臺南市政府地政局",
+    "OrgTitle2": "",
+    "CaseCause": "本府經管山上區牛稠埔段188-10及198-1地號市有耕地，申請核發設置溫室共5座土地使用權同意書，並延長租賃期間至20年，茲依土地法第25條規定完成處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、查土地法第25條規定「直轄市或縣（市）政府對於其所管公有土地，非經該管區內民意機關同意，並經行政院核准，不得處分或設定負擔或為超過十年期間之租賃」。\"},{\"tag\":\"p\",\"content\":\"二、旨揭土地與承租人訂定租期6年之臺南市市有耕地及養殖用地租賃契約。\"},{\"tag\":\"p\",\"content\":\"三、承租人為發展蘭花產業，規劃於所承租之市有耕地興建蘭花溫室共5座，需提供土地使用權同意書，本案擬依據「臺南市市有耕地及養殖用地出租辦法」第七條及第十八條規定，辦理核發土地使用權同意書並延長租賃期間至20年。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府109年2月25日第427次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後辦理核發土地使用權同意書並延長租賃期間至20年。\"}]",
+    "CheckDate": "2020\/05\/28",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2020\/06\/09",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/06\/16",
+    "SendNumber": "南議工務字第 1090003763號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8ed2c8da-bb67-4138-bbb2-f76c2f9d8713",
+            "FileName": "市提4-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=36aed474-865a-42b4-a9da-997c8fe989e6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

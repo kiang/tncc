@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第5次 臨時會",
+    "PTypTitle": "民政",
+    "CaseNumber": "7",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "張世賢",
+    "OrgTitle2": "洪玉鳳、王家貞",
+    "CaseCause": "建請市府籌捐經費儘快修復後壁區福安里烏樹林部落進出主要道路，將年久失修之側溝打通，因經常造成堵塞積水，造成來往車輛安全虞慮，改善住民生活品質之提升。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據後壁區福安里長，多次反應，區公所無力解決。\"},{\"tag\":\"p\",\"content\":\"二、經現勘該路段狹窄，排水設施老舊，經常堵塞積水，造成往來人車安全虞慮，確應盡速改善。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/09\/04",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2020\/09\/09",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/09\/14",
+    "SendNumber": "南議民政字第 1090008358號",
+    "DoDesc": "收文字號：109年9月30日1090008921號\r\n依據臺南市政府109年9月30日府民自字第1091195078號函復：\r\n本府就「建請市府籌捐經費儘快修復後壁區福安里烏樹林部落進出主要道路，將年久失修之側溝打通，因經常造成堵塞積水，造成來往車輛安全虞慮，改善住民生活品質之提升」案，敬答覆如下：\r\n本案市府民政局、地政局、農業局、後壁區公所及相關單位業於 109 年 9 月 26 日併同會勘完畢，該道路側溝部份破損且造成路面凹陷，考量道路尚堪用且非汛期，另相關局處 109 年度預算短絀，本案將納入於 110 年度經費研議辦理。\r\n------\r\n一、109 年 9 月 30 日府民自字第 1091195078 號函復。\r\n二、民政局業於 109 年 9 月 26 日會勘完畢，案內申請經費 150 萬元改善道路側溝及路面，民政局 110 年 3 月8日以南市民自字第1100304895號函核定新台幣150萬元，並委由區公所代辦。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=75e11cf7-e6a3-4134-bd8c-5ad497407766",
+            "FileName": "臺南市政府 函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1763e793-ab7f-4359-8b99-60fc4b85ef12",
+            "FileName": "臺南市政府 附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0fbe2c21-e4ef-4edf-8424-cd927285af35&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/08\/25",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "收文字號：109年9月30日1090008921號\r\n依據臺南市政府109年9月30日府民自字第1091195078號函復：\r\n本府就「建請市府籌捐經費儘快修復後壁區福安里烏樹林部落進出主要道路，將年久失修之側溝打通，因經常造成堵塞積水，造成來往車輛安全虞慮，改善住民生活品質之提升」案，敬答覆如下：\r\n本案市府民政局、地政局、農業局、後壁區公所及相關單位業於 109 年 9 月 26 日併同會勘完畢，該道路側溝部份破損且造成路面凹陷，考量道路尚堪用且非汛期，另相關局處 109 年度預算短絀，本案將納入於 110 年度經費研議辦理。\r\n------\r\n一、109 年 9 月 30 日府民自字第 1091195078 號函復。\r\n二、民政局業於 109 年 9 月 26 日會勘完畢，案內申請經費 150 萬元改善道路側溝及路面，民政局 110 年 3 月8日以南市民自字第1100304895號函核定新台幣150萬元，並委由區公所代辦。",
+    "ErrorMessage": ""
+}

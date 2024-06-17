@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "75",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "Ingay Tali穎艾達利",
+    "OrgTitle2": "許至椿、林易瑩、陳秋萍、李文俊、李中岑、陳怡珍、周麗津、吳禹寰、郭鴻儀、周奕齊",
+    "CaseCause": "建請臺南市議會研議修正議案資料檢索方式，俾便議員與民眾查詢所需。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"按臺南市議會為供本會與會外查詢議案所需，於臺南市議會官方網頁(https:\/\/www.tncc.gov.tw\/)設有「議案檢索系統(https:\/\/www.tncc.gov.tw\/motion1.asp)」俾供使用。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"惟查，於前揭檢索系統如以特定關鍵字(如議員姓名)、以「提案人」、「連署人」進行查詢時，系統會篩顯出於「提案人」欄位並不包含關鍵字之情形(如附件一、二、三)。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"經再檢視發現前述篩出資料，雖於指定蒐尋欄無關鍵字，但於內容全文確有該關鍵字資料無誤。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"建請市議會權責機關研議，究以「全文檢索」或以「指定欄位關鍵字檢索」邏輯為妥，檢視現行議案資料模式(Schema)並妥善分類並完善檢索系統，以符合使用者需求，同時平衡是否有無法檢索之資料可能(如前述三之資料，是否不以全文檢索邏輯即無法被檢索顯示)。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2022\/09\/29",
+    "CheckDesc": "請議會研辦。",
+    "DoneDate": "2022\/10\/05",
+    "DoneDesc": "照案通過。",
+    "SendDate": "2022\/10\/12",
+    "SendNumber": "南議民教字第 1110011690號",
+    "DoDesc": "針對本案議員提案說明陳述，擬規劃於議事e化資訊管理系統之查詢作業新增全文檢索功能，並與本會官網議事資訊同步串接整合，以符議員及民眾查詢議案需求。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=af3e3233-ca68-4e85-918f-7403883e5626",
+            "FileName": "定3-8民教議提75-議會資料檢索系統附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a9b75f40-6075-48e8-b4ec-90ec1d8b719f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照案通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/10\/28",
+    "ExecuteReNumber": "南議資文字第 1110013120號",
+    "ExecuteReMemo": "針對本案議員提案說明陳述，擬規劃於議事e化資訊管理系統之查詢作業新增全文檢索功能，並與本會官網議事資訊同步串接整合，以符議員及民眾查詢議案需求。",
+    "ErrorMessage": ""
+}

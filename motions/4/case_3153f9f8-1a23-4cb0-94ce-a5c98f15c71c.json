@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "27",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2023\/05\/23",
+    "ComeNumber": "府財產字第1120645793號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理讓售本府經管坐落本市安平區妙壽段176地號等22筆非公用市有土地，謹依土地法第25條規定之處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"市有土地鄰地所有權人檢附畸零（裡）地合併使用證明書申請承購坐落本市安平區妙壽段176地號等18筆市有土地，擬依「臺南市市有財產管理自治條例」第51條規定辦理讓售。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"市有土地承租人申請承購坐落本市東區大同段360地號等3筆市有出租土地，擬依「臺南市市有財產管理自治條例」第50條第1項第2款規定辦理讓售。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本市東區育樂段1183-1地號市有土地，擬依「臺南市市有財產管理自治條例」第49條第1項第2款規定辦理讓售予財政部國有財產署。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年5月23日第595次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "2023\/06\/20",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/06",
+    "SendNumber": "南議財經字第 1120005555號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=de7f6e29-21e9-4106-883f-ff662df40474",
+            "FileName": "2清冊(提案27).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0e650a27-c1c8-4a86-9bc3-e68d0de9eacb",
+            "FileName": "3提案27讓售-地籍圖.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3153f9f8-1a23-4cb0-94ce-a5c98f15c71c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/05\/29",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2023\/06\/07",
+    "FirstDesc": "交付財經委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

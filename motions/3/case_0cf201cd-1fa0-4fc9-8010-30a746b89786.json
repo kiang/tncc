@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第10次 臨時會",
+    "PTypTitle": "會務",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝",
+    "OrgTitle2": "郭信良、趙昆原、尤榮智、呂維胤、郭鴻儀、林阳乙、洪玉鳳、林燕祝、黃麗招、周麗津、林易瑩、沈震東、吳通龍、李偉智、陳昆和、陳碧玉、Ingay Tali穎艾達利、盧崑福、李中岑、杜素吟、李鎮國、張世賢、王家貞、陳秋萍、陳怡珍、吳禹寰、蔡淑惠、方一峰、蔡秋蘭、蔡旺詮",
+    "CaseCause": "「臺南市議會各種委員會設置辦法」第4條修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市議會各種委員會設置辦法係臺南市議會(以下簡稱本會)依臺南市議會組織自治條例第19條規定所擬訂，前以本會100年8月19日南議法研字第1000011140號令訂定。自發布施行後，曾於101年2月13日、101年10月8日、102年5月22日、103年8月20日及110年11月3日歷經五次修正。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"鑒於議員提案市法規件數日益增加，多須進行公聽會程序，並參照第3條所定各種委員會所置召集人之人數，且經本會第3屆第6次定期會第38次會（110年11月30日）大會決議，爰擬具本辦法第4條修正草案。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市議會各種委員會設置辦法」第4條修正草案總說明、修正草案條文對照表、修正草案條文。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"經大會審議通過後發布施行。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "無",
+    "DoneDate": "2021\/12\/13",
+    "DoneDesc": "一、照案通過。\r\n二、並請儘速發布，俾使法規委員會能於12月22日前再推選1名召集人，以期在本會期完備程序。",
+    "SendDate": "2021\/12\/14",
+    "SendNumber": "南議法規字第 1100012941號",
+    "DoDesc": "1.本會110.12.15以南議法研字第1100012997號發布公告，並於110.12.16以南議法研字第1100013058號函報行政院備查。\r\n2.行政院110.12.28院臺綜字第1100041198號函覆本會:業已備查。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b55d22d0-5e86-4f93-a298-bddbc574a79d",
+            "FileName": "臺南市議會各種委員會設置辦法第4條修正草案(含總說明、對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0cf201cd-1fa0-4fc9-8010-30a746b89786&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2021\/12\/06",
+    "ReDesc": "一、照案通過。\r\n二、並請儘速發布，俾使法規委員會能於12月22日前再推選1名召集人，以期在本會期完備程序。",
+    "FirstDate": "2021\/12\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "1.本會110.12.15以南議法研字第1100012997號發布公告，並於110.12.16以南議法研字第1100013058號函報行政院備查。\r\n2.行政院110.12.28院臺綜字第1100041198號函覆本會:業已備查。",
+    "ErrorMessage": ""
+}

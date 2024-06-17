@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第4次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "6",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2016\/11\/18",
+    "ComeNumber": "府財字第1051176279號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "為「臺南市市有財產管理自治條例」第三條、第五條、第六條、第二十一條、第三十一條、第四十八條、第五十八條、第六十八條、第七十二條修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"原臺南市政府稅務局與臺南市政府財政處於本(105)年7月1日合併為臺南市政府財政稅務局，爰將原自治條例述及財政處之處改為合併後之財政稅務局外，另配合其他法令修正予以酌修，俾利合併後市有財產管理之遵循依據，修正說明如下：\",\"children\":[{\"order\":\"(一)\",\"content\":\"名稱修正：第五條、第六條、第二十一條、第四十八條、第五十八條、第六十八條、第七十二條。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"配合民法修正：民法原有「地役權」於99年2月3日修正為「不動產役權」，配合修正第三條。\",\"children\":[]},{\"order\":\"(三)\",\"content\":\"配合國有財產法修正：國有財產法原有「撤銷」撥用於101年1月4日修正為「廢止」撥用，配合修正第三十一條。\",\"children\":[]}]},{\"order\":\"二、\",\"content\":\"本案業經本府105年11月9日第271次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市市有財產管理自治條例部分條文修正草案」(含總說明及對照表)乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2016\/12\/23",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2017\/01\/03",
+    "SendNumber": "南議法規字第 1050009000號",
+    "DoDesc": "依據地方制度法第26條第4項規定於106年1月23日以府財產字第1060090962號函報請內政部轉行政院備查。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=16840e3f-3f87-40fd-bebb-36fc604b63fc",
+            "FileName": "臺南市有財產管理自治條例 (總說明、對照表、條文草案).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b52bf0b2-5092-492d-817a-e7098f7fe0ba&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2016\/10\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "依據地方制度法第26條第4項規定於106年1月23日以府財產字第1060090962號函報請內政部轉行政院備查。",
+    "ErrorMessage": ""
+}

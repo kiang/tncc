@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第3次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "6",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2019\/07\/19",
+    "ComeNumber": "府交公運字第1080852168號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部公路總局核定補助本市辦理「108年度公路公共運輸多元推升計畫『市區汽車客運業營運及服務評鑑』（計畫編號：108TNE01）」計畫經費新臺幣188萬元（中央補助120萬元；市配合款68萬元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟108年度追加減預算或於109年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據交通部公路總局108年4月25日路運計字第1080044584號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第四十四點第四款之規定：「經上級政府核定之補助款，所使用之支出。」及第四十四點第六款之規定：「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。」等相關規定。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"（一）本案申請交通部公路總局「108年度公路公共運輸多元推升計畫」辦理本市「市區汽車客運業營運及服務評鑑」，所需經費總計188萬元整，業經交通部公路總局核定補助120萬元，另本局須配合自籌68萬元。\"},{\"tag\":\"p\",\"content\":\"（二）因本案未及納入本局所屬公共運輸處108年度預算，擬請准予辦理先行墊付，俟108年度追加減預算或109年度總預算時再予轉正。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府108年5月15日第388次市政會議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟108年度追加減預算或於109年度總預算時再予轉正。\"}]",
+    "CheckDate": "2019\/08\/20",
+    "CheckDesc": "同意墊付。",
+    "DoneDate": "2019\/08\/23",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/09\/03",
+    "SendNumber": "南議保安字第 1080007670號",
+    "DoDesc": "一、案係交通部公路總局公路公共運輸多元推升計畫補助案件。\r\n二、交通部公路總局已於109年1月3日完成補助款撥款。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=707d78d0-4dfa-409c-9092-b349c7fa1a1e",
+            "FileName": "保安市提6號-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1773e509-e59d-4154-ae00-0af8c565ff27&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/08\/14",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "一、案係交通部公路總局公路公共運輸多元推升計畫補助案件。\r\n二、交通部公路總局已於109年1月3日完成補助款撥款。\r\n",
+    "ErrorMessage": ""
+}

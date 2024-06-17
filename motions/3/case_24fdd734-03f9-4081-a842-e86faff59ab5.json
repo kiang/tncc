@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "75",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡秋蘭",
+    "OrgTitle2": "蔡淑惠、杜素吟、林阳乙、蔡育輝、Ingay Tali穎艾達利、李中岑、洪玉鳳",
+    "CaseCause": "佳里區子龍里蔥子寮中排中游段護岸改善工程，所需經費新台幣2,820萬元。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"依據蔡秋蘭議員服務處及本區子龍里辦公室先生反映。大部分護岸嚴重損壞，造成排水困難，護岸本眾人使用需改善水利設施，俾利排水。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/11\/26",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/12\/08",
+    "SendNumber": "南議工務字第 1091506478號",
+    "DoDesc": "本案經市府109年12月15日府水工字第1091506478號函復：\r\n一、佳里區蔥子寮排水隸屬於將軍溪麻豆排水系統，規劃報告由經濟部於民國98年核定。\r\n二、所建議改善蔥子寮排水段，經評估檢討現況皆為既有老舊護岸，長度450公尺，概估所需經費為2,820萬元，後續本府將視年度預算概況針對急迫段籌措經費研議辦理。\r\n三、承蒙貴席關切佳里區轄內之排水系統改善，本府至為感謝，尚祈持續支持本市水利建設。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e67a7f3f-2498-45f4-859b-968ea1154026",
+            "FileName": "1091215府水工字第1091506478號-附圖.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=24fdd734-03f9-4081-a842-e86faff59ab5&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府109年12月15日府水工字第1091506478號函復：\r\n一、佳里區蔥子寮排水隸屬於將軍溪麻豆排水系統，規劃報告由經濟部於民國98年核定。\r\n二、所建議改善蔥子寮排水段，經評估檢討現況皆為既有老舊護岸，長度450公尺，概估所需經費為2,820萬元，後續本府將視年度預算概況針對急迫段籌措經費研議辦理。\r\n三、承蒙貴席關切佳里區轄內之排水系統改善，本府至為感謝，尚祈持續支持本市水利建設。",
+    "ErrorMessage": ""
+}

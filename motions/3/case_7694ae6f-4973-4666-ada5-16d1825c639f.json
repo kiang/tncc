@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "1",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "",
+    "OrgTitle2": "",
+    "CaseCause": "「本市先進運輸系統整體路網規劃」",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"（無結論）\"}]",
+    "CheckDate": "2021\/04\/19",
+    "CheckDesc": "（無結論）",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3d351beb-5950-4837-9662-0f50ff8cb21f",
+            "FileName": "專案報告-本市先進運輸系統整體路網規劃.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7694ae6f-4973-4666-ada5-16d1825c639f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

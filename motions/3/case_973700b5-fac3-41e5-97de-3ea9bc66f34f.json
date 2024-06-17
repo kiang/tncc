@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "2",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "",
+    "OrgTitle2": "",
+    "CaseCause": "「疫情期間針對本市職業賭場防制作為」",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"今日專案報告出席的議會同仁都給了很多寶貴的建議，請市府各局處回去後善加研議，做為日後改進的依據，另鄭佳欣議員也提出書面質詢，請市政府以書面函覆。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "照會議結論通過。",
+    "SendDate": "2021\/08\/26",
+    "SendNumber": "南議保安字第 1100007058號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bf813a37-7096-4f5a-86e2-c28f5926203e",
+            "FileName": "疫情期間針對本市職業賭場防制作為.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a7ae4a99-f23a-4b01-904b-0c944de87c25",
+            "FileName": "警察局專案報告資料.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c19224b9-498e-407e-ba76-29271c76bceb",
+            "FileName": "「疫情期間針對本市職業賭場防制作為」會議結論.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=973700b5-fac3-41e5-97de-3ea9bc66f34f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照會議結論通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

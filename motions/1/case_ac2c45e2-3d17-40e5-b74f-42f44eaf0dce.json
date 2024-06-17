@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第4次 定期會",
+    "PTypTitle": "會務",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "賴議長美惠",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市議會各種委員會設置辦法」第六條、第七條第一項及第二項、第八條、第九條、第十一條第二項、第十四條條文草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依臺南市議會議事法規檢討會議修正。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"檢附「臺南市議會各種委員會設置辦法」修正草案總說明、條文修正草案對照表、修正後條文草案。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會同意後報行政院備查，並函知市政府。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2012\/09\/27",
+    "DoneDesc": "照案通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9814e78f-529a-49c3-ad7c-6109e0cb884a",
+            "FileName": "1-4定會務1-臺南市議會各種委員會設置辦法修正草案(總說明、對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ac2c45e2-3d17-40e5-b74f-42f44eaf0dce&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照案通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

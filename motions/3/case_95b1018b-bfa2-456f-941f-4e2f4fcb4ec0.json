@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "11",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡筱薇",
+    "OrgTitle2": "陳秋宏、沈家鳳、劉米山、呂維胤",
+    "CaseCause": "建請消防局更新防搶救資訊管理系統建置之狹巷搶救圖資。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"防搶救資訊管理系統建置之狹巷搶救圖資與現況未盡相符，更有位於狹巷地區的護理之家及老人福利機構，未納入狹巷清冊管理，本席建請消防局重新建置搶救計劃及甲種搶救圖資，並修改GIS圖資，同時通報各轄區單位進行現場勘查。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/08\/25",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/08\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/09\/02",
+    "SendNumber": "南議保安字第 1110010007號",
+    "DoDesc": "本府就「建請消防局更新消防搶救資訊管理系統建置之狹巷搶救圖資」案，敬答覆如下：\r\n一、本府消防局已加強清查位處狹小巷道之護理之家及老人福利機 構等避難弱勢場所，並實際至現場進行踏勘以了解場所之危險因 子，經查是類避難弱勢場所共有25家(如附件清冊)，皆已納入輔助搶救資訊管理系統。\r\n二、本府消防局針對位處狹小巷道之護理之家及老人福利機構等避 難弱勢場所重新檢視並更新火災搶救計畫、甲種搶救圖資、乙種 搶救圖資及修正 GIS 圖資，並依本府消防局「111年強化火災搶救效能實施計畫」列為優先辦理火災搶救演練場所，以強化消防人員搶救應變能力及確保民眾生命財產安全。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=50e16e3c-6e7e-4eab-84a2-dc7306e712cc",
+            "FileName": "11.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=95b1018b-bfa2-456f-941f-4e2f4fcb4ec0&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/09\/08",
+    "ExecuteReNumber": "府消救字第 1111154990號",
+    "ExecuteReMemo": "本府就「建請消防局更新消防搶救資訊管理系統建置之狹巷搶救圖資」案，敬答覆如下：\r\n一、本府消防局已加強清查位處狹小巷道之護理之家及老人福利機 構等避難弱勢場所，並實際至現場進行踏勘以了解場所之危險因 子，經查是類避難弱勢場所共有25家(如附件清冊)，皆已納入輔助搶救資訊管理系統。\r\n二、本府消防局針對位處狹小巷道之護理之家及老人福利機構等避 難弱勢場所重新檢視並更新火災搶救計畫、甲種搶救圖資、乙種 搶救圖資及修正 GIS 圖資，並依本府消防局「111年強化火災搶救效能實施計畫」列為優先辦理火災搶救演練場所，以強化消防人員搶救應變能力及確保民眾生命財產安全。",
+    "ErrorMessage": ""
+}

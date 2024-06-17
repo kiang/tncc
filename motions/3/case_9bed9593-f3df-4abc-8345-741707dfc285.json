@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "104",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "張世賢",
+    "OrgTitle2": "杜素吟、洪玉鳳、王家貞",
+    "CaseCause": "後壁區貫穿南北之南85線道路，全線年久失修路況不佳、坑洞多，行車極不安全，建請儘速納入路平專案，確保市民生命財產安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"附道路起迄示意圖。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/11\/26",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/12\/09",
+    "SendNumber": "南議工務字第 1090011373號",
+    "DoDesc": "案經市府109年12月30日府工養二字第1091516819號函復：\r\n本府工務局已於109年11月5日與議員服務處及區公所辦理現勘，現場路面老舊龜裂，多處破損及修補，請後壁區公所提報改善路段至本府工務局錄案，視年度預算或納入路平專案辦理改善。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f96ca89e-97f1-4d7c-9977-2e7fed6dbf38",
+            "FileName": "議提104-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9bed9593-f3df-4abc-8345-741707dfc285&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "案經市府109年12月30日府工養二字第1091516819號函復：\r\n本府工務局已於109年11月5日與議員服務處及區公所辦理現勘，現場路面老舊龜裂，多處破損及修補，請後壁區公所提報改善路段至本府工務局錄案，視年度預算或納入路平專案辦理改善。",
+    "ErrorMessage": ""
+}

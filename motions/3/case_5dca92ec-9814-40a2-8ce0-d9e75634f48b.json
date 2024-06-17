@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "54",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳怡珍、蔡旺詮",
+    "OrgTitle2": "周麗津、林志聰、許又仁、林易瑩、洪玉鳳",
+    "CaseCause": "關於臺南鐵路地下化工程，施工期間封閉道路，其人行地下道環境不佳，建請臺南市政府有效改善及定期巡查，提升行人使用意願。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"臺南市區鐵路地下化計畫之東側施作（東移）工法，配合工程封閉相關道路，行人改走地下道，但人行地下道年久失修，如照明設備不佳、空氣不流通等，衍生出諸多不便，易滋使用者不安全。建請臺南市政府全面檢視改善人行地下道使用安全及照明不足的問題，營造優質公共環境。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2021\/10\/22",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2021\/10\/27",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/11\/02",
+    "SendNumber": "南議工務字第 1100010110號",
+    "DoDesc": "本案經市府110年11月22日府工養一字第1101339279號函復：\r\n有關本市鐵路地下化工程，目前仍供人行使用之地下道計有大同人行地下道、開元人行地下道、東門人行地下道及火車站人行地下道4處，除火車站人行地下道設有通風設備外，其於3處人行地下道因自身硬體條件等相關問題只能採自然通風。另照明部分，本府工務局已安排定期巡查，如遇照明不亮時將儘速安排修繕，並已規劃於111年全數汰換為防水防塵之LED 燈具以提升地下道照明度，其餘友善行人之日常維護，將持續辦理，以提升行人使用意願。 ",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b642dd65-da4f-499e-ac2f-8066772b6bb6",
+            "FileName": "議提54回覆附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5dca92ec-9814-40a2-8ce0-d9e75634f48b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年11月22日府工養一字第1101339279號函復：\r\n有關本市鐵路地下化工程，目前仍供人行使用之地下道計有大同人行地下道、開元人行地下道、東門人行地下道及火車站人行地下道4處，除火車站人行地下道設有通風設備外，其於3處人行地下道因自身硬體條件等相關問題只能採自然通風。另照明部分，本府工務局已安排定期巡查，如遇照明不亮時將儘速安排修繕，並已規劃於111年全數汰換為防水防塵之LED 燈具以提升地下道照明度，其餘友善行人之日常維護，將持續辦理，以提升行人使用意願。 ",
+    "ErrorMessage": ""
+}

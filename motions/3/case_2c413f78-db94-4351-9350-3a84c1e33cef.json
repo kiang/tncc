@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "96",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "Ingay Tali穎艾達利、陳怡珍",
+    "OrgTitle2": "林易瑩、蔡育輝、李鎮國、沈震東、郭鴻儀",
+    "CaseCause": "北安橋南向右側護欄與橋面破損，建請儘速修整並評估是否影響橋樑安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、北安橋南向右側橋面端破損、鋼筋裸露破損處（詳參附圖）。\"},{\"tag\":\"p\",\"content\":\"二、前開橋樑路段為安南區與北區重要聯絡道，恐有危安之虞，建請公務單位儘速整修並確查是否影響公共交通安全為禱。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/05\/28",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2020\/06\/09",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/06\/17",
+    "SendNumber": "南議工務字第 1090003894號",
+    "DoDesc": "本案經市府109年7月14日府工養一字第1090834011號函復：\r\n一、本府工務局業已派工修復該處破損，另經全面檢視，北安橋上另有3處類似損壞處，本府工務局亦一併修復完成。\r\n二、經查該處破損係屬橋面護欄基座與人行道樓梯護欄間伸縮縫長期振動碰撞所造成，經評估非屬橋梁主體結構，對橋梁及行車安全尚無影響。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5285d27a-bbcf-4a82-99d5-ed762bf199ce",
+            "FileName": "議提96-附件.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0fb91469-fbe6-43ca-ace1-b4426fd7f932",
+            "FileName": "3-3定(議提96號)書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2c413f78-db94-4351-9350-3a84c1e33cef&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府109年7月14日府工養一字第1090834011號函復：\r\n一、本府工務局業已派工修復該處破損，另經全面檢視，北安橋上另有3處類似損壞處，本府工務局亦一併修復完成。\r\n二、經查該處破損係屬橋面護欄基座與人行道樓梯護欄間伸縮縫長期振動碰撞所造成，經評估非屬橋梁主體結構，對橋梁及行車安全尚無影響。",
+    "ErrorMessage": ""
+}

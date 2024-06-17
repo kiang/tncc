@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "8",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/08\/17",
+    "ComeNumber": "府水污養字第1111082412號",
+    "OrgTitle": "臺南市政府水利局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院環境保護署核定補助本市辦理「112年度全國水環境水質改善業務支援計畫(水利局)」1案，核定經費新臺幣160萬元（中央補助款124萬8,000元、地方配合款35萬2,000元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據行政院環境保護署111年8月16日環署水字第1111111100號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\"},{\"tag\":\"p\",\"content\":\"三、本案款項係為辦理112年度全國水環境水質改善業務支援計畫(水利局)，總經費新臺幣160萬元（中央補助款124萬8,000元、地方配合款35萬2,000元），因未及納入本府112年度總預算，請貴會同意辦理先行墊付，俟112年度追加減預算時辦理轉正。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府111年8月17日第555次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/09\/28",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/10\/05",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/10\/14",
+    "SendNumber": "南議工務字第 1110012335號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=45bf560d-7f8d-405f-ba28-2895ff213e40",
+            "FileName": "1110817工務委員會編號8簡易說明(112年度臺南市全國水環境水質改善業務支援計畫).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8dd9a7f4-863f-4b1f-b90d-c40fb0c91649",
+            "FileName": "1110816-112年度人力案估列函.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f903df56-039d-4f15-a70b-948dedc3e37f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/08\/23",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/08\/30",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

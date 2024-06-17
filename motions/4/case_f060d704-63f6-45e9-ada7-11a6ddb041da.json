@@ -1,0 +1,58 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/09\/06",
+    "ComeNumber": "府交智安字第1146992號 ",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部核定本市辦理112年度-113年度智慧運輸系統發展建設計畫經費4,000萬元（中央補助3,000萬元、市配合款1,000萬元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據交通部112年8月18日交科字第1125009923號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款之規定：「經上級政府核定之補助款，所使用之支出。」及第44點第6款之規定：「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"旨揭智慧運輸系統發展建設計畫，分2案執行：\",\"children\":[{\"order\":\"(一)\",\"content\":\"「112年智慧號誌整合應用暨永康區中正南、北路路廊壅塞改善計畫」：總經費2,100萬元（中央補助1,600萬元、市配合款500萬元）。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"「112年應用AI影像辨識暨市道182(東門-中山)路廊壅塞改善計畫」經費1,900萬元（中央補助1,400萬元、市配合款500萬元）。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府112年8月29日第609次市政會議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提案審議緊急性理由：本案中央補助經費因核定日期較晚，未及納入本府交通局112年度預算，而交通部核定公文說明二、(二)項規定須於112年12月底前完成發包，以作為核定113年度暫匡補助之依據。為爭取辦理時效、於112年底前完成發包及簽約，爰擬請准予辦理先行墊付，俟113年度總預算時再予轉正。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/10\/19",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/10\/27",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cbe525eb-342e-464e-966d-bed0da6cabb3",
+            "FileName": "2_112年度-113年度智慧運輸系統發展建設計畫執行內容補充說明.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=14513c25-a43b-4ab6-b603-e635bedda7db",
+            "FileName": "3_112-113交通部核定公文.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b13ed730-53ce-470f-a3f0-e3531e950c80",
+            "FileName": "4_112年臺南市永康區運輸走廊壅塞改善計畫.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f8e46c7b-b367-43ed-bb73-6497efebcfcd",
+            "FileName": "5_112年應用AI影像辨識暨市道182(東門-中山)壅塞改善計畫.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f060d704-63f6-45e9-ada7-11a6ddb041da&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/09\/15",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/09\/22",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/11\/01",
+    "ExecuteReNumber": "南議保安字第 1120009855號",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

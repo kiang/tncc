@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第9次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "12",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "許又仁",
+    "OrgTitle2": "林阳乙、蔡秋蘭、李鎮國",
+    "CaseCause": "歸仁區中正北路經由八甲里、七甲里及媽廟里，其民生用電線路因受到路樹生長影響，穿梭於樹冠叢中產生用電安全的疑慮，建請相關局處協助改善。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、經瞭解歸仁區中正北路行道樹的種植，乃於台電民生用電線路架設之後。\"},{\"tag\":\"p\",\"content\":\"二、行道樹多年生長後，這些線路皆已隱藏於樹冠叢中，風吹雨打電線線路會和樹枝產生摩擦。\"},{\"tag\":\"p\",\"content\":\"三、里長反應曾發生過電線塑膠皮被磨破停電及電線斷裂掉落地面，產生觸電受傷的情事。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請工務局延請修樹專家，勘察規劃修樹事宜。\"}]",
+    "CheckDate": "2021\/09\/08",
+    "CheckDesc": "函送市府研議。",
+    "DoneDate": "2021\/09\/10",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/09\/16",
+    "SendNumber": "南議工務字第 1100007902號",
+    "DoDesc": "本案經市府110年10月7日府工務三字第1101191565號函復：\r\n一、有關台電線路高壓電線因路樹生長影響部分，今年以由本局開口契約廠商於8月份完成部分修剪(詳照片)，惟部分靠近八甲里桃花心木過高，為避免高壓電觸電影響，已於110年9月27日函文通知台電公司派員協助修剪，本府工務局將定期維護並由相關證照人員修剪。\r\n二、貴會議席關心市政熱忱，本府併予致謝。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=03e7f694-744c-4c7a-bafb-d55ba0c1be6a",
+            "FileName": "議提2附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=66eabff3-03c6-435e-9c3e-7741e4909a65&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/01",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年10月7日府工務三字第1101191565號函復：\r\n一、有關台電線路高壓電線因路樹生長影響部分，今年以由本局開口契約廠商於8月份完成部分修剪(詳照片)，惟部分靠近八甲里桃花心木過高，為避免高壓電觸電影響，已於110年9月27日函文通知台電公司派員協助修剪，本府工務局將定期維護並由相關證照人員修剪。\r\n二、貴會議席關心市政熱忱，本府併予致謝。\r\n",
+    "ErrorMessage": ""
+}

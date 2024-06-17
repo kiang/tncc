@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "47",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "陳怡珍、周奕齊、李宗霖、林冠維、黃麗招、沈家鳳、蔡育輝、郭鴻儀、鄭佳欣",
+    "CaseCause": "建請市府儘速完成新化區民權街169號前道路改善。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據人民陳情案件辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"此路段路幅狹小，因前方為溝渠用地，車輛行經險象環生，建請市府徵收用地規劃成道路供民眾使用。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"附件為街景圖，請參閱。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/10\/23",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/10\/27",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/11\/03",
+    "SendNumber": "南議工務字第 1120010070號",
+    "DoDesc": "本府就「建請市府儘速完成新化區民權街169號前道路改善。」案，敬答覆如下：\r\n旨案建議開闢路段長約32公尺、寬度約10公尺，用地費約950萬（公有土地約10%可無償撥用，私有地部分無取得土地同意書，須辦理徵收作業）、工程費約350萬，概估總經費約1,300萬元，本府工務局將優先評估納入預算研議辦理。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=19143559-3385-4737-9cfc-a7f474e61c88",
+            "FileName": "4-2定工務議提47附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=95458788-ad37-49c0-b7b4-beace6d889b3&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/11\/17",
+    "ExecuteReNumber": "府工新二字第 1121459692號",
+    "ExecuteReMemo": "本府就「建請市府儘速完成新化區民權街169號前道路改善。」案，敬答覆如下：\r\n旨案建議開闢路段長約32公尺、寬度約10公尺，用地費約950萬（公有土地約10%可無償撥用，私有地部分無取得土地同意書，須辦理徵收作業）、工程費約350萬，概估總經費約1,300萬元，本府工務局將優先評估納入預算研議辦理。",
+    "ErrorMessage": ""
+}

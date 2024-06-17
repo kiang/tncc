@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2020\/09\/11",
+    "ComeNumber": "府文秘字第1091107766號",
+    "OrgTitle": "臺南市政府文化局所屬臺南市立圖書館",
+    "OrgTitle2": "",
+    "CaseCause": "交通部觀光局核定本府「109年國慶焰火活動行銷計畫」經費新臺幣500萬元整乙案（中央補助款），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據交通部觀光局109年8月28日觀旅字第1095001498號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"有關國慶焰火晚會活動總經費為1,250萬元整（中央補助款500萬元，市府自籌款750萬元），本案109年核定經費新臺幣500萬元整，因未及納入本府110年度總預算，為爭取時效，謹請貴會同意先行墊付。本府自籌經費750萬將由109年度第二預備金及相關局處業務費支出。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府109年9月10日第455次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2020\/09\/24",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2020\/09\/25",
+    "SendNumber": "南議教育字第 1090008758號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=28cf34d4-e3fb-4cf8-bd06-6b01c91e7a0a",
+            "FileName": "市提1計畫書.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=680b2935-344e-49e1-9e41-f9eb8875d56c",
+            "FileName": "市提1-核定函.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=442c2c31-04b0-47ad-b8da-9fedac20b0d7&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "2020\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "6",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/04\/12",
+    "ComeNumber": "府農畜字第1120458388號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會核定本府辦理「112年度畜牧廢棄物管理及資源化推動計畫-禽畜糞」經費287萬8,000元(中央補助款287萬1,000元，市配合款7,000元)乙案，因未及納入本府112年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院農業委員會112年2月22日農牧字第1120042253號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同及政府施政需要而核定必須分擔且需及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案行政院農業委員會核定補助總經費360萬9,000元(中央補助款357萬9,000元，市配合款3萬元)，其中287萬8,000元因未及納入本府112年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年3月28日第587次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案係為改善畜牧場及禽畜糞堆肥場禽畜糞處理及提升污染防治效能之計畫。為加速本市雞糞處理及清運，以維護環境品質及提升禽畜糞去化效益，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/05\/22",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/06\/07",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/06\/13",
+    "SendNumber": "南議財經字第 1120004221號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d9acbf3b-7311-4076-8b8a-9b332aa6bf55",
+            "FileName": "財經市提6號案附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=30ca9529-2e16-4d9c-9ce8-c090890ecff4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/04\/19",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/04\/27",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "8",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/04\/29",
+    "ComeNumber": "府水污養字第1100522209號",
+    "OrgTitle": "臺南市政府水利局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院環境保護署核定本市110年「三爺溪上游排水截流暨虎尾寮水資源回收中心功能改善及擴建工程計畫」經費新台幣1億5,672萬元(中央補助款1億970萬4,000元、市配合款4,701萬6,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，並於俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據行政院環境保護署110年3月31日環署水字第1101040442號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款，所使用之支出；第6款，配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"（一）本案總核定經費7億8,360萬元（中央補助5億4,852萬元、市配合款2億3,508萬元），執行期間自110年起至112年止，因未及納入110年度總預算，為爭取時效，謹請貴會同意墊付110年編列1億5,672萬元（中央補助款1億970萬4,000元、市配合款4,701萬6,000元），俟111年度總預算時辦理轉正。\"},{\"tag\":\"p\",\"content\":\"（二）上開總經費7億8,360萬元，分3年採分年編列預算辦理，110年編列1億5,672萬元、111年編列3億1,344萬元、112年編列3億1,344萬元。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年4月20日第487次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/08\/09",
+    "CheckDesc": "",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2021\/08\/23",
+    "SendNumber": "南議工務字第 1100006422號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ac226fa2-86f0-458b-b0a3-36c1a4f87f81",
+            "FileName": "市提8附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7213ce8a-f643-4061-83a7-59b5496ef35d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

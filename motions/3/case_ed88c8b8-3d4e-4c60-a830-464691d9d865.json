@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/10\/12",
+    "ComeNumber": "府交公運字第1101194220號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部公路總局核定110年度公路公共運輸服務升級計畫「市區汽車客運業營運虧損補貼（移撥路線：棕4、棕5、棕6）」新臺幣(以下同)經費929萬6,000元整乙案(全額中央補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請　審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據交通部公路總局110年9月24日路運計字第1100110149號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款之規定：「經上級政府核定之補助款，所使用之支出。」及第6款之規定：「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。」。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"(一)本案交通部公路總局同意補助市區汽車客運業營運虧損補貼(移撥路線)經費929萬5,633元(全額中央補助，配合預算編列進位為929萬6,000元)。\"},{\"tag\":\"p\",\"content\":\"(二)因本案未及納入本局所屬公共運輸處111年度總預算，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年10月5日第511次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/12\/14",
+    "CheckDesc": "第3屆第10次臨時會110年12月14日聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/12\/22",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/12\/27",
+    "SendNumber": "南議保安字第 1100013632號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b9993086-471f-4133-b275-e67c1a6ed6f6",
+            "FileName": "市提3核定函.PDF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=adf25b29-a8d3-4be1-b136-00cd38bf4671",
+            "FileName": "市提3補充說明.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=03daff6a-6906-451d-ab0d-89f4df29b353",
+            "FileName": "市提3附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ed88c8b8-3d4e-4c60-a830-464691d9d865&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

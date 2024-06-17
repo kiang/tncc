@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第15次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/12\/06",
+    "ComeNumber": "府水養字第1111585561號",
+    "OrgTitle": "臺南市政府水利局",
+    "OrgTitle2": "",
+    "CaseCause": "國家科學及技術委員會南部科學園區管理局核定「南科臺南園區外永久滯洪池興建作業計畫」項下「南科特定區E1滯洪池串聯公滯一、二滯洪池擴建工程」案補助經費增加新台幣2,217萬(全額中央補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，並於112年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據國家科學及技術委員會南部科學園區管理局111年9月26日南營字第1110028077號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款，所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"「南科特定區E1滯洪池串聯公滯一、二滯洪池擴建工程」為「南科臺南園區外永久滯洪池興建作業計畫」項下工程，係國家科學及技術委員會南部科學園區管理局(原名為科技部南部科學園區管理局)全額補助案辦理，核定經額為新台幣2億7,500萬元。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"承上，因工程執行期間現場實際需求，配合辦理變更設計，致工程經費增加，且因物價升漲，工程自109年3月決標以來，營造工程物價總指數屢屢升高，依工程採購契約規定配合辦理物價調整，全案計畫經行政院同意補助經費增加新台幣2,217萬元(由原核定11億6,905萬元修正為11億9,122萬元)，因未及納入本府112年度總預算，為爭取時效，僅請貴會同意先行墊付，以利後續辦理本案工程款給付作業。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"本案業經本府111年10月4日第563次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/12\/20",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/12\/22",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/12\/28",
+    "SendNumber": "南議工務字第 1110021091號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6d05b685-286b-4a6f-ba93-49f37df44f1c",
+            "FileName": "23465_1585561A00_ATTCH2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fe9ea052-ceb0-4545-a747-db5dbf9c53be&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/12\/08",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/12\/14",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第7次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "9",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "張世賢",
+    "OrgTitle2": "李坤煌、許至椿",
+    "CaseCause": "建請市府儘速籌款進行「後壁區仕安部落內排水改善工程」，以維護居民百姓生命財產安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、該段排水路年久失修，砌石溝早已崩塌且排水斷面不足，遇大雨即造成淹水，居民苦不堪言。\"},{\"tag\":\"p\",\"content\":\"二、檢附後壁區公所107年3月5日所建字第1070140036號函。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府協調水利會施作。",
+    "DoneDate": "2018\/05\/25",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2018\/06\/04",
+    "SendNumber": "南議工務字第 1070003754號",
+    "DoDesc": "本案經市府107年6月12日府水行字第1070633122號函復：\r\n(詳如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8003eafa-c542-4b73-b87f-57b5a2f5c107",
+            "FileName": "2-7工務議提9書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f3cfefbe-3462-4355-8e79-5b1e87bd18b2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2018\/03\/07",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府107年6月12日府水行字第1070633122號函復：\r\n(詳如夾檔)",
+    "ErrorMessage": ""
+}

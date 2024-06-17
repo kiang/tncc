@@ -1,0 +1,54 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "1",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "「本市鐵路地下化、立體化暨捷運先進運輸系統優先路網財源籌措狀況」專案報告",
+    "Content": "[{\"tag\":\"p\",\"content\":\"\"}]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"請市政府考量本市財政狀況，積極向中央爭取經費挹注，降低本市經費分攤比例。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請市政府將本市鐵路地下化、立體化、捷運先進運輸系統優先路網工程經費內有關非自償經費、自償經費及土地費用估算之詳細明確資料提供予本會全體議員。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"請市政府審慎考量成立自償性基金之必要性。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"請市政府對本市鐵路地下化、立體化、捷運先進運輸系統優先路網財源籌措狀況補充提出具體償債計畫予本會全體議員。\",\"children\":[]}]}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2022\/06\/08",
+    "DoneDesc": "照委員會結論通過。",
+    "SendDate": "2022\/06\/15",
+    "SendNumber": "南議保安字第 1110005762號",
+    "DoDesc": "詳如附件。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7f4cef2f-cd3c-46e1-bae4-56ead383f157",
+            "FileName": "1110415綜整財務報告Final.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0a98e283-6fe2-448a-b956-a54230720952",
+            "FileName": "先進運輸優先路網之建設經費及償債計畫.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3e531551-6562-43e7-9fb1-8620bb80684d",
+            "FileName": "鐵路立體化延伸至永康之建設經費及償債計畫.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ed334784-baf1-4f89-b879-618c3f3722fb&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照委員會結論通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/07\/21",
+    "ExecuteReNumber": "府交綜字第 1110934332號",
+    "ExecuteReMemo": "詳如附件。",
+    "ErrorMessage": ""
+}

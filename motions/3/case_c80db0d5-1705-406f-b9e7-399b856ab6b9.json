@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "9",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/04\/01",
+    "ComeNumber": "府環空字第1100176048號",
+    "OrgTitle": "臺南市政府環境保護局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部民用航空局於110年2月24日通知核定本市補助航空回饋金總額為新臺幣33萬2,725元(全額中央補助)，經分配計算結果本市回饋金金額為32萬7,253元，較原編列金額高，因經費補助核定超過金額部份未及納入本局110年度預算，擬辦理先行墊付2萬8,000元整，俟111年度總預算時辦理轉正。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據交通部民用航空局臺南航空站110年2月24日南航字第1105000252號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"(一)本局依據交通部民用航空局臺南航空站109年5月11日南航字第1095000613號函已先行辦理編列110年度臺南航空站回饋金預算30萬(預估值)元整。\"},{\"tag\":\"p\",\"content\":\"(二)惟交通部民用航空局於110年2月24日通知核定本市補助航空回饋金總額為新臺幣33萬2,725元(全額中央補助)，經分配計算結果本市回饋金金額為32萬7,253元，較原編列金額高，因經費補助核定超過金額部份未及納入本局110年度預算，擬辦理先行墊付2萬8,000元整，俟111年度總預算時辦理轉正。\"},{\"tag\":\"p\",\"content\":\"(三)經費用於臺南航空站航空噪音防制區內住戶回饋相關作業使用。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年3月30日第484次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/04\/22",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/08\/03",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/08\/09",
+    "SendNumber": "南議建設字第 1100005698號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5b2ab8dc-ae98-40be-b4fe-b63fff5db93b",
+            "FileName": "附件 .PDF",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c80db0d5-1705-406f-b9e7-399b856ab6b9&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

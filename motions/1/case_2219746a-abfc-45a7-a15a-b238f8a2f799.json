@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第8次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2013\/07\/19",
+    "ComeNumber": "府民自字第 1020619033 號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理出售本府經管坐落本市鹽水區北門段484-6地號等22筆非公用市有土地，擬依土地法第25條規定完成處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、坐落本市鹽水區北門段484-6地號等22筆市有土地，擬依「臺\"},{\"tag\":\"p\",\"content\":\"南市市有財產管理自治條例」第50條第1項第1款及第4款規定辦理標售。\"},{\"tag\":\"p\",\"content\":\"二、本案業經本府102年4月3日第106次及102年7月10日第118次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "除安南區安西段2157、2158地號及佳里區北文段411、413、414、415地號土地暫緩出售外，其餘照案通過。",
+    "DoneDate": "2013\/08\/09",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2013\/08\/20",
+    "SendNumber": "南議財經字第 1020010791號",
+    "DoDesc": "依土地法第25條規定送內政部完成處分程序中。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=35c58c4f-8a2e-440d-9d6d-6cb999dd2512",
+            "FileName": "第一屆第8次臨時大會擬處分清冊(提案3).xls",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2219746a-abfc-45a7-a15a-b238f8a2f799&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2013\/07\/31",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "依土地法第25條規定送內政部完成處分程序中。",
+    "ErrorMessage": ""
+}

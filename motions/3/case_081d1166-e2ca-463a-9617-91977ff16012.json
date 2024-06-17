@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第10次 臨時會",
+    "PTypTitle": "建設",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/11\/29",
+    "ComeNumber": "府農秘字第1101454525號",
+    "OrgTitle": "臺南市政府農業局所屬動物防疫保護處",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會漁業署核定本府辦理「111年臺南市養殖漁業生產區公共建設維護管理推動計畫」案經費250萬元整(中央補助款125萬元、市配合款125萬元)，因未及納入111年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據行政院農業委員會漁業署110年11月3日漁四字第1101269318號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"（一）所需總經費250萬元(中央補助125萬元，市配合款125萬元)，因未及納入本府111年度總預算，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"（二）主要工作項目為養殖區公共設施維護修繕及巡查管理相關工作。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年11月23日第518次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度預算時再予轉正。\"}]",
+    "CheckDate": "2021\/12\/15",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/12\/22",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/12\/24",
+    "SendNumber": "南議建設字第 1100013575號",
+    "DoDesc": "",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e0c20aa8-5883-46ee-8a6d-07b49112fb3f",
+            "FileName": "中央核准函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a62faf64-778f-4a6e-8783-ee6640bd15f5",
+            "FileName": "計畫書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=081d1166-e2ca-463a-9617-91977ff16012&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/12\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

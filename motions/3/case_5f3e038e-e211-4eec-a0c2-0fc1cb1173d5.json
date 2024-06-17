@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "民政",
+    "CaseNumber": "12",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/05\/12",
+    "ComeNumber": "府民自字第1100608861號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "台電公司促進電力發展營運協助金審議委員會核定本市「110年度輸變電促協金(施工中)—161kV新營~太鐵線#21~#25(開工及完工)」及「110年度輸變電促協金(施工中)—161kV新營~太鐵分歧義竹線#1~#8及新營~太鐵線」等2件相關改善協助金，計經費新臺幣165萬元整(中央全額補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟111年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據台電公司輸變電工程處南區施工處110年3月31日南區字第1108034041號函及1108034050號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款之規定，經上級政府核定之補助款，所使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"(一)「110年度輸變電促協金(施工中)—161kV新營~太鐵線#21~#25(開工及完工)」(計畫編號A656-10002)核定補助經費60萬元。\"},{\"tag\":\"p\",\"content\":\"(二)「110年度輸變電促協金(施工中)—161kV新營~太鐵分歧義竹線#1~#8及新營~太鐵線(計畫編號A65610003)核定補助經費105萬元。\"},{\"tag\":\"p\",\"content\":\"(三)上述2案共計新台幣165萬元整(中央全額補助)，因未及納入本府110年度總預算，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年5月11日第490次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時再予轉正。\"}]",
+    "CheckDate": "2021\/08\/09",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/08\/25",
+    "SendNumber": "南議民政字第 1100005659號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8cb3562d-1e50-4655-8351-6fcc32375024",
+            "FileName": "核定函.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5f3e038e-e211-4eec-a0c2-0fc1cb1173d5&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

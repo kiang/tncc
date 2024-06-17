@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "2",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市議會保安委員會",
+    "OrgTitle2": "",
+    "CaseCause": "檢送110年第2季辦理政策及業務宣導之執行情形表，提請備查。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"依據預算法第62條之1規定辦理。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2021\/11\/25",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2021\/12\/06",
+    "SendNumber": "南議財經字第 1100012323號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=59473747-6d4d-429e-b8a0-2a5740dcaae3",
+            "FileName": "執行情形表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f532a5c9-5c56-4c1f-bc1f-c9a721b35a93&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

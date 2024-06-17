@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第2次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "99",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李啓維",
+    "OrgTitle2": "李偉智、周麗津、蔡旺詮、郭鴻儀",
+    "CaseCause": "建議華平路向北延伸連接北外環東西向快速道路。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、已經在設計規劃施工的北外環東西向快速道路，如果全線完成將可大大紓解安平雍塞交通。\"},{\"tag\":\"p\",\"content\":\"二、中華西路已不堪負荷龐大車流量，使安平交通雪上加霜。\"},{\"tag\":\"p\",\"content\":\"三、華平路已逐漸成為中華西路的替代道路，如果能儘速檢討規劃，預做準備連接北外環，將可有效解決安平交通問題。\"},]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2019\/11\/05",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2019\/12\/10",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/12\/18",
+    "SendNumber": "南議工務字第 1080011713號",
+    "DoDesc": "本案經市府109年2月6日府工新一字第1090127205號函復：\r\n有關建議華平路向北延伸銜接北外環東西向快速道路部分，現規劃方案係由華平路往西沿和緯路五段計畫道路(3-23-30M)並於和緯路匝道上下北外環東西向快速道路系統，如下圖。另以華平路北延連接之可行性，本府後續將納入研議辦理。 ",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=79b5a8e7-aca1-4763-ba37-8c8a90879053",
+            "FileName": "工務第99號案附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f6c94ce5-10da-415e-8362-157104a0d936&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府109年2月6日府工新一字第1090127205號函復：\r\n有關建議華平路向北延伸銜接北外環東西向快速道路部分，現規劃方案係由華平路往西沿和緯路五段計畫道路(3-23-30M)並於和緯路匝道上下北外環東西向快速道路系統，如下圖。另以華平路北延連接之可行性，本府後續將納入研議辦理。 ",
+    "ErrorMessage": ""
+}

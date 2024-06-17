@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "17",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林阳乙",
+    "OrgTitle2": "蔡秋蘭、曾順良、杜素吟、盧崑福、郭秀珠",
+    "CaseCause": "建請市府辦理永康區大灣里大安街368巷等道路改善工程。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、永康區大灣里大安街368巷等道路柏油路面年久失修損壞嚴重，請儘速辦理改善，以利交通。\"},{\"tag\":\"p\",\"content\":\"二、請市府依年度開口合約予以刨鋪路面，以利交通。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2016\/12\/23",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2016\/12\/29",
+    "SendNumber": "南議工務字第 1050009062號",
+    "DoDesc": "本案經市府106年1月17日府工養一字第1051350044號函復：（如夾檔）",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=54abb464-cfcf-43f3-8f6e-3adabad6591e",
+            "FileName": "17號案書面答復.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a4c4c48d-ce03-494e-a6d6-95f9bcfeea6c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2016\/10\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府106年1月17日府工養一字第1051350044號函復：（如夾檔）",
+    "ErrorMessage": ""
+}

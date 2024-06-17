@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "25",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "施余興望 Tjakumay Tagaw、黃麗招、陳秋宏、李文俊、楊中成、周嘉韋、沈家鳳、張世賢、郭鴻儀",
+    "CaseCause": "建議儘速裝設康橋大道通往正南三街及正南一街路口交通號誌，以利交通順暢及交通安全，降低交通事故。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"關於永康區康橋大道及正南三路平交道即將通車，且由康橋大道至正南三街為上下班最便捷的道路，車流量非常大，唯獨在前方正南三路轉正南一街與康橋大道雙向來車到三叉路口轉彎處目前沒有劃設交通號誌，恐通車後衍生相關交通事故問題。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/11\/27",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/12\/06",
+    "SendNumber": "南議保安字第 1120011572號",
+    "DoDesc": "本府就「建議儘速裝設康橋大道通往正南三街及正南一街路口交通號誌，以利交通順暢及交通安全」案，敬答覆如下：\r\n經查本案康橋大道通往正南三街及正南一街路口已由本府交通局配合道路拓寬工程規劃設置三色號誌管制，並配合交通部臺灣鐵路管理局辦理永康區康橋大道鐵路平交道啟用期程(112 年12 月23 日)前完成號誌啟用。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=db096bae-db69-434b-a57b-627dfbb1df91",
+            "FileName": "裝設康橋大道通往正南三街正南一街路口號誌-李鎮國.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=93f691b4-da51-4ea6-b701-c95a2bd17953&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/12\/13",
+    "ExecuteReNumber": "府交交管字第 1121636267號",
+    "ExecuteReMemo": "本府就「建議儘速裝設康橋大道通往正南三街及正南一街路口交通號誌，以利交通順暢及交通安全」案，敬答覆如下：\r\n經查本案康橋大道通往正南三街及正南一街路口已由本府交通局配合道路拓寬工程規劃設置三色號誌管制，並配合交通部臺灣鐵路管理局辦理永康區康橋大道鐵路平交道啟用期程(112 年12 月23 日)前完成號誌啟用。",
+    "ErrorMessage": ""
+}

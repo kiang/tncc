@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "35",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "方一峰、蔡淑惠、尤榮智",
+    "OrgTitle2": "王家貞、李文俊、林燕祝、李中岑、許至椿",
+    "CaseCause": "請改善官田區官田里中脇重劃區東二路農路改善工程，因年久失修，路面凹凸不平，急需辦理改善，以利交通。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"官田里中脇重劃區東二路農路改善工程，因路面破損急需辦理改善後，對農產品運損及來往車流交通安全之提升，可維護居民生命財產之安全。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"瀝青混凝土：L=190公尺、W=6.5公尺\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府地政局優先納入改善。\"}]",
+    "CheckDate": "2022\/06\/21",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/07\/08",
+    "SendNumber": "南議財經字第 1110006588號",
+    "DoDesc": "\r\n本府就「請改善官田區官田里中脇重劃區東二路農路改善工程，因年久失修，路面凹凸不平，急需辦理改善，以利交通。」決議案， 敬答覆如下：\r\n一、 本案農路老舊部份破損，易影響行車交通安全，亟需辦理改善，列入年度農路改善預算審查研議辦理。\r\n二、承蒙 貴會對於本案之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b67edbfd-1f12-4229-ac55-f1b442761d00",
+            "FileName": "35.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e6e5f1dd-7933-49e5-9015-53fcf8889946&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/07\/26",
+    "ExecuteReNumber": "府地農字第 1110902301號",
+    "ExecuteReMemo": "\r\n本府就「請改善官田區官田里中脇重劃區東二路農路改善工程，因年久失修，路面凹凸不平，急需辦理改善，以利交通。」決議案， 敬答覆如下：\r\n一、 本案農路老舊部份破損，易影響行車交通安全，亟需辦理改善，列入年度農路改善預算審查研議辦理。\r\n二、承蒙 貴會對於本案之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "ErrorMessage": ""
+}

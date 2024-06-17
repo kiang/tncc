@@ -1,0 +1,54 @@
+{
+    "GradeTime": "第3屆 第7次 臨時會",
+    "PTypTitle": "民政",
+    "CaseNumber": "1",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "",
+    "OrgTitle2": "",
+    "CaseCause": "「協助弱勢團體過好年之各項社會福利措施」專案報告",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"針對身心障礙生活補助審核規定，依原規定延續辦理。將\"},{\"tag\":\"p\",\"content\":\"(1)已出嫁女兒且未與父母共同生活者。\"},{\"tag\":\"p\",\"content\":\"(2)婚姻關係存續中未共同生活或未同戶籍之直系血親尊親屬。\"},{\"tag\":\"p\",\"content\":\"均「不列入」應計算人口範圍，以保障身心障礙者生活補助權益。\"}]",
+    "CheckDate": "2021\/01\/25",
+    "CheckDesc": "針對身心障礙生活補助審核規定，依原規定延續辦理。將\r\n(1)已出嫁女兒且未與父母共同生活者。\r\n(2)婚姻關係存續中未共同生活或未同戶籍之直系血親尊親屬。\r\n均「不列入」應計算人口範圍，以保障身心障礙者生活補助權益。\r\n",
+    "DoneDate": "2021\/01\/26",
+    "DoneDesc": "一、照會議結論通過。\r\n二、請市府儘速辦理並於農曆年前完成補助費之發放。",
+    "SendDate": "2021\/01\/27",
+    "SendNumber": "南議民政字第 1100000892號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3f6707a6-6721-4373-ae8b-61cc8f2d11d1",
+            "FileName": "民政專案報告會議紀錄(含審查意見報告書).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7c1c6803-80e6-408e-9a37-dd0d3eef842e",
+            "FileName": "協助弱勢團體過好年之各項社會福利措施專案報告簡報資料.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=20aa4ce3-d8a8-4873-8aa9-e149b538b2c7",
+            "FileName": "專案報告市府書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=31a9384e-4648-47cd-8cbf-abd53eb8f2c1&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "一、照會議結論通過。\r\n二、請市府儘速辦理並於農曆年前完成補助費之發放。",
+    "FirstDate": "2021\/01\/05",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

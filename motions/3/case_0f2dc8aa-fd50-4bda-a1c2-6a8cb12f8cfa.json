@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/03\/22",
+    "ComeNumber": "府勞福字第1110385422號",
+    "OrgTitle": "臺南市政府勞工局",
+    "OrgTitle2": "",
+    "CaseCause": "財政部核定本市「臺南市南門勞工育樂中心BOT案前置作業計畫」，經費新台幣315萬元整(全部中央補助款)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據財政部111年2月11日台財促字第11125503830號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費350萬元(中央補助款315萬元整、市配合款35萬元)，其中中央補助款315萬，因未及納入本府111年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年3月15日第533次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟於112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/05\/09",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/06\/08",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/06\/14",
+    "SendNumber": "南議建設字第 1110005676號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b01e6806-ffa5-4f38-b8ad-4255e25bd6af",
+            "FileName": "財政部核定來函 .pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7d93a98c-3a3c-4d6c-81dd-4a5792dfc8cf",
+            "FileName": "南門勞工中心BOT前置作業補助申請表與附件HD .pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fa03a117-181c-44c8-bd1c-8234bb4daa2f",
+            "FileName": "核定111年度機關辦理促進民間參與公共建設案件前置作業費用補助案件表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0f2dc8aa-fd50-4bda-a1c2-6a8cb12f8cfa&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/04\/06",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

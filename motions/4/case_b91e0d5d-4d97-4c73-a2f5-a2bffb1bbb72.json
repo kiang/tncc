@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/03\/03",
+    "ComeNumber": "府水污養字第1120289856號",
+    "OrgTitle": "臺南市政府水利局",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部水利署同意本市「二仁溪鯽魚橋改建工程」增加112年度經費新臺幣194萬7,000元(中央補助款151萬8,000元、地方配合款42萬9,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據經濟部水利署第六河川局112年2月13日水六工字第11201009830號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出規定辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案因物價飆漲多次流標，故由本府預算先行支應完成招標程序，核算計畫總經費7,194萬7,000元，較原核定經費7,000萬元增加194萬7,000元，爰向中央按原核定補助比例78%爭取經費。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案增加經費194萬7,000元為本次墊付款(經濟部水利署補助78%為151萬8,000元，地方配合款22%為42萬9,000元)，因未及納入本府112年度總預算，為爭取時效，謹請貴會同意先行墊付，俟113年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"本案業經本府112年3月１日第583次市政會議審議通過。\",\"children\":[]},{\"order\":\"六、\",\"content\":\"送墊付款案緊急性理由：本案為配合經濟部水利署三爺溪護岸整體整治，目前該工程橋樑本體已改善完成，後續將辦理工區周邊、河道護岸土方整平，本工程須於今年汛期前完工，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/03\/23",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/03\/30",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/04\/10",
+    "SendNumber": "南議工務字第 1120001958號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e7ea4555-af8e-4c5f-bc7d-ccd070f86115",
+            "FileName": "24134_0289856A00_ATTCH2.PDF",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b91e0d5d-4d97-4c73-a2f5-a2bffb1bbb72&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/03\/13",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/03\/21",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

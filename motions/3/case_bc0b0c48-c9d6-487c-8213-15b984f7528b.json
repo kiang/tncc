@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "17",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "吳禹寰",
+    "OrgTitle2": "林阳乙、蔡淑惠、方一峰、李鎮國、曾培雅、林美燕、李中岑、張世賢、盧崑福、蔡育輝",
+    "CaseCause": "建請市府儘速辦理關廟區五甲里和美街旁10m計畫道路新建工程。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、有關民眾多次陳情關廟區五甲里和美街旁10m計畫道路，已經徵收約25年，至今經台南縣政府及目前台南市政府，政府完全沒有作為，妨礙地方發展甚鉅。\"},{\"tag\":\"p\",\"content\":\"二、本席建議台南市政府應已最快速完成該10m計畫道路新建工程。\"},{\"tag\":\"p\",\"content\":\"三、本案經查於107年3月台南市政府已經呈報市府。\"},{\"tag\":\"p\",\"content\":\"四、經查新設道路長度50m。\"},{\"tag\":\"p\",\"content\":\"五、衛星定位X:181093Y:2539514\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2021\/01\/21",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2021\/01\/26",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/01\/28",
+    "SendNumber": "南議工務字第 1100000685號",
+    "DoDesc": "本案經市府110年2月8日府工新一字第1100189754號函復：\r\n經查本案係屬本市關廟區10m都市計畫道路範圍，本道路長度約50M、計畫寬10M，後續將循都市計畫區域發展需求、市政建設期程及財政狀況研議辦理。 ",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9d1b2e60-edf4-4890-a57c-da4ea5f2f7cd",
+            "FileName": "議提17附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=bc0b0c48-c9d6-487c-8213-15b984f7528b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/01\/05",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年2月8日府工新一字第1100189754號函復：\r\n經查本案係屬本市關廟區10m都市計畫道路範圍，本道路長度約50M、計畫寬10M，後續將循都市計畫區域發展需求、市政建設期程及財政狀況研議辦理。 ",
+    "ErrorMessage": ""
+}

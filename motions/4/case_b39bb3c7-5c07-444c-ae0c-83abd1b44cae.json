@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/03\/29",
+    "ComeNumber": "府交公運字第1130468543號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部公路局核定本市「TPASS行政院通勤月票113年度票價優惠差額補助」經費新臺幣(以下同)3億370萬元(中央補助2億6,160萬元，市配合款4,210萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據交通部公路局113年3月7日路運計字第1130022216號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款之規定：「經上級政府核定之補助款，所使用之支出。」及第6款之規定：「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"本案交通部公路局同意補助2億6,160萬元，市配合款4,210萬元，總經費3億370萬元。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"因本案未及納入113年度總預算，為爭取時效，謹請貴會同意先行墊付，俟114年度總預算辦理轉正。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府113年0月0日第000次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本案公共運輸通勤月票係延續112年度政策，月票營運服務及各運具業者款項清分作業皆需持續辦理不中斷，有時效上之急迫性，故於本會期提出墊付案申請。\",\"children\":[]}]},{\"tag\":\"p\",\"content\":\"\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2024\/05\/13",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2024\/05\/29",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3b402e70-9335-4f89-96fc-3c884d0a3251",
+            "FileName": "市提2核定函.PDF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=511c504b-fb8c-4f76-99e3-9855135d47fb",
+            "FileName": "市提2核定計畫.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b39bb3c7-5c07-444c-ae0c-83abd1b44cae&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2024\/04\/19",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

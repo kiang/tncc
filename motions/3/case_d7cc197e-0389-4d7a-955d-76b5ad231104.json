@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/03\/31",
+    "ComeNumber": "府文秘字第1100418552號",
+    "OrgTitle": "臺南市政府文化局所屬臺南市立圖書館",
+    "OrgTitle2": "",
+    "CaseCause": "文化部核定本市「110年地方美術館典藏空間升級或購藏計畫」之「臺南市美術館修護設備採購與典藏品蒐購計畫」經費新臺幣642萬9,000元整乙案（中央補助450萬元、市配合款192萬9,000元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據文化部110年2月9日文藝字第1103004021號函。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案110年核定經費新臺幣642萬9,000元整（中央補助450萬元、市配合款192萬9,000元），因未及納入本府110年度總預算，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年3月30日第484次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/04\/22",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/08\/03",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/08\/06",
+    "SendNumber": "南議教育字第 1100005117號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=04054ba1-e9f4-466a-b7bb-2afb8e1335a8",
+            "FileName": "3-5定-市提附件5-計畫書.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3f19398a-fb59-42ae-b646-ec640e85d69f",
+            "FileName": "3-5定-市提5附件-核准函.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d7cc197e-0389-4d7a-955d-76b5ad231104&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

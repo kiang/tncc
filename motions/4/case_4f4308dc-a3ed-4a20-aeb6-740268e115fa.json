@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第4屆 第5次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-追加減預算",
+    "ComeDate": "2024\/02\/17",
+    "ComeNumber": "府主預字第1130265942號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "本市113年度總預算第一次追加(減)預算案業經編製完竣，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據地方制度法、一百十三年度中央及地方政府預算籌編原則規定辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"依據本府111年3月24日府主預字第1110358140號函答覆貴會之決議，將中央政府於112年12月31日前核定之補助款與因應其他市政需增加相關業務經費，編具完成追加(減)預算案。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本市113年度總預算歲入原編預算數1,124億3,466萬6千元，淨追加34億151萬8千元，追加後歲入預算數1,158億3,618萬4千元；歲出原編預算數1,169億4,294萬6千元，淨追加32億5,729萬4千元，追加後歲出預算數1,202億24萬元；追加減後歲入歲出差短43億6,405萬6千元，較原編預算數差短45億828萬元，減少1億4,422萬4千元，差短減少同額債務舉借。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年2月6日第632次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請 貴會惠予審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "詳如各委員會聯席審查意見報告書。",
+    "DoneDate": "2024\/03\/15",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2024\/03\/22",
+    "SendNumber": "南議財經字第 1130001601號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d19cd72d-a4fc-498a-b0a2-0dbea542d4a5",
+            "FileName": "113年度預算追加(減)預算案補充資料(0229修).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4f4308dc-a3ed-4a20-aeb6-740268e115fa&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fc8cbebc-5475-4670-a62b-9d5175be7ba1",
+            "FileName": "113年度臺南市總預算第一次追加（減）預算案 - 各委員會聯席審查意見報告書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [],
+    "ReDate": "2024\/02\/23",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "2024\/03\/15",
+    "SecondDesc": "照聯席審查意見通過。",
+    "ThirdDate": "2024\/03\/15",
+    "ThirdDesc": "照二讀會決議通過。",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

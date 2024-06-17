@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/01\/17",
+    "ComeNumber": "府工新二字第1120107291 號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部水利署第五河川局增加補助經費辦理「東山區南99大埔橋改建工程」，經費新臺幣4,000萬元(中央補助款139萬4,492元、地方配合款3,860萬5,508元)，為爭取時效，謹請貴會同意先行墊付180萬元（中央補助款139萬4,000元、地方配合款40萬6,000元），俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據經濟部水利署第五河川局112年1月6日水五工字第11150090900號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"「東山區南99大埔橋改建工程」原核定經費8,050萬元(中央補助4,787萬3,000元、地方配合款3,262萬7,000元)，已编列112年度預算，採分年編列，111年度編列7,200萬元、112年度編列10萬元及113年度編列840萬元。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"現總經費由原8,050萬元修正為1億2,050萬元（中央補助款修正為4,926萬7,492元、地方配合款修正為7,123萬2,508元）共增加4,000萬元(中央補助款增加139萬4,492元、地方配合款增加3,860萬5,508元)，上開增加經費因未及納入112年度總預算，為爭取時效，謹請貴會同意先行墊付180萬元。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"本案經費增加4,000萬元，採一次發包，分年編列方式辦理，分3年編列：\",\"children\":[{\"order\":\"(一)\",\"content\":\"112年預算編列工程費180萬元（中央補助款139萬4,000元、地方配合款40萬6,000元）。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"113年預算編列工程費2,620萬元(地方配合款)。\",\"children\":[]},{\"order\":\"(三)\",\"content\":\"114年預算編列工程費1,200萬元(地方配合款)。\",\"children\":[]}]},{\"order\":\"六、\",\"content\":\"本案業經本府112年1月17日第578次市政會議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/02\/13",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/02\/17",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/02\/20",
+    "SendNumber": "南議工務字第 1120001000號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=01da1c48-3ec3-4571-9798-3128eace2410",
+            "FileName": "工務市提3-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f3c354c7-2b7e-40d4-a239-9835ade78177&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/02\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

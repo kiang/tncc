@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第12次 臨時會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "6",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/02\/22",
+    "ComeNumber": "府原綜字第1110265370號",
+    "OrgTitle": "臺南市政府原住民族事務委員會",
+    "OrgTitle2": "",
+    "CaseCause": "原住民族委員會核定本府「111年度推展原住民族長期照顧-文化健康站實施計畫」，經費新臺幣135萬9,000元整乙案（中央補助83萬4,000元、市配合款52萬5,000元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據原住民族委員會111年2月8日原民社字第1100075037D號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款「經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」規定及第45點第2款等規定辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"本案總經費新臺幣553萬3,000元整，由中央補助497萬5,567元，本市配合52萬4,790元，民間團體自籌3萬2,643元。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"因應預算編列進位至千元，前開中央補助款本府111年度已編列414萬2,000萬元預算，83萬4,000元及市配合款52萬5,000元未及納入111年度預算，為爭取時效，謹請貴會同意先行辦理墊付。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府111年2月22日第530次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/03\/10",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/03\/25",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/03\/31",
+    "SendNumber": "南議民教字第 1110002563號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d83ef561-b602-4601-91e5-c6ae057fe09d",
+            "FileName": "民教6(原民會)-附件(核定函及計畫書).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c7bb84f9-d7a8-4824-9f8f-207a8458d783&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/03\/09",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "20",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/05\/24",
+    "ComeNumber": "府民自字第1110677736號",
+    "OrgTitle": "臺南市政府民政局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部110年度核定「臺南市白河區公所辦公廳舍拆除重建工程」1案，因近期物價波動，擬增加經費新臺幣（下同）4,474萬4,000元，總工程經費調整為1億9,950萬元，為爭取時效，謹請貴會同意增加墊付111年度700萬元（中央補助400萬元，市配合款300萬元），俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部110年11月18日台內民字第1100224287號函暨市府111年5月11日簽奉核定辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合各機關單位預算執行要點第44點第4款規定經上級政府核定之補助款,所使用之支出」及第6款規定「配合上级或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案原總工程經費1億5,475萬6,000元，因近期營建物價不斷攀升，經公所委託之建築師重新評估後，建議挹注經費4,474萬4,000元，總工程經費調整為1億9,950萬元，規劃設計費420萬4,000元，監造及工程款1億9,529萬6,000元，採一次性發包，分年編列預算辦理，並考量後續工程進度及付款期程，於111年度增加墊付700萬元（中央補助400萬元，市配合款300萬元），112年度預算編列7,879萬6,000元，113年編列8,940萬元，因未及納入本府111年度總預算，謹請貴會同意先行墊付，俟112年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年5月24日第543次市政會議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算轉正。\"}]",
+    "CheckDate": "2022\/06\/30",
+    "CheckDesc": "聯席審查意見：\r\n一、同意墊付。\r\n二、附帶條件：白河區公所辦公廳舍重建完成後，要將白河戶政事務所移至區公所內部。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2022\/07\/07",
+    "SendNumber": "南議民教字第 1110007166號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d20c87bc-5db0-4f50-b374-542e847c9975",
+            "FileName": "民教20(民政局)-附件(白河辦公廳舍核定函及計畫).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6594a7ab-9139-4027-b1e3-bc810afa00b9&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/05\/31",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2022\/06\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

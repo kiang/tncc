@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第6次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2013\/10\/28",
+    "ComeNumber": "府工園一字第1020970274號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市公共設施植栽管理自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市政府為加強管理臺南市花草樹木及公共設施，特制定臺南市公共設施植栽管理自治條例，於一百零一年七月二十日公布施行。惟鑑於臺南市政府工務局組織規程於一百零二年五月三十日以府法規字第一○二四七○二八四A號令修正施行，公共工程處納編工務局，爰擬具臺南市公共設施植栽管理自治條例第二條修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府102年10月23日第133次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市公共設施植栽管理自治條例草案」（含總說明及逐條說明）乙份。\",\"children\":[]}]},{\"tag\":\"p\",\"content\":\"-----------------------\"},{\"tag\":\"p\",\"content\":\"臺南市公共設施植栽管理自治條例第二條修正草案總說明\"},{\"tag\":\"p\",\"content\":\"臺南市政府為加強管理臺南市花草樹木及公共設施，特制定臺南市公共設施植栽管理自治條例，於一百零一年七月二十日公布施行。惟鑑於臺南市政府工務局組織規程於一百零二年五月三十日以府法規字第一○二四七○二八四A號令修正施行，公共工程處納編工務局，爰擬具臺南市公共設施植栽管理自治條例第二條修正草案。\"},{\"tag\":\"p\",\"content\":\"------------------------\"},{\"tag\":\"p\",\"content\":\"臺南市公共設施植栽管理自治條例第二條修正草案\"},{\"tag\":\"p\",\"content\":\"第二條　　本自治條例之主管機關為臺南市政府工務局。\"},{\"tag\":\"p\",\"content\":\"本市巷弄及面積未達一公頃之公園，管理機關為區公所。\"},{\"tag\":\"p\",\"content\":\"主管機關執行本自治條例規定之事項，得委任或委託其他機關辦理。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2013\/12\/06",
+    "DoneDesc": "照案通過。",
+    "SendDate": "2013\/12\/17",
+    "SendNumber": "南議法規字第 1020011335號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=89f5ecea-59e0-47c0-9fa4-a8d5c6b6d97b",
+            "FileName": "1-6定市提1-臺南市公共設施植栽管理自治條例第二條修正草案(總說明、對照表、條文草案).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0a079b5b-2151-4cb0-8dbb-9e32211470da&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照案通過。",
+    "FirstDate": "2013\/10\/01",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

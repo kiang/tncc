@@ -1,0 +1,58 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "10",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2022\/02\/16",
+    "ComeNumber": "府經能 字第 1110208323號",
+    "OrgTitle": "臺南市政府經濟發展局",
+    "OrgTitle2": "",
+    "CaseCause": "台灣電力（股）公司為供應麻豆工業區用電需求，申請購買本府經濟發展局經管「麻豆區麻工段88地號(面積5,499.94平方公尺)」1筆非公用市有土地，興建屋內式一次配電變電所，擬請同意依土地法第25條規定完成處分讓售程序，俾憑辦理後續相關作業，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據臺南市市有財產管理自治條列規定暨台灣電力股份有限公司嘉南供電區營運處110年11月2日南供字第1108129082號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合臺南市市有財產管理自治條列第49條第3款及第50條第1項第1款相關規定，空地、空屋應予標售。但公營事業機構因業務需要者，得辦理讓售。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：台電公司為供應麻豆工業區將來用電需求，計畫於旨揭「變電所用地」興建屋內式一次配電變電所，並已列入該公司「南區一期輸變電計畫」內，計畫於111年執行購地預算及完成土地產權移轉，並於119年興建完成加入系統運轉。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府110年12月7日第520次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後辦理出售。\"}]",
+    "CheckDate": "2022\/06\/21",
+    "CheckDesc": "一、照案通過。\r\n二、請參考明（112）年地價評議委員會評定之地價訂定本案售地價格。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/07\/07",
+    "SendNumber": "南議財經字第 1110006695號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d92c5476-f072-4875-a519-2fea9103984d",
+            "FileName": "財經10-附件1台電來文.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b13b205f-4a4a-4b6c-91f9-96a07a53ca2e",
+            "FileName": "財經10-附件2計畫書.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c0feb025-70a1-4603-b894-15ee4ac4f6ba",
+            "FileName": "財經10-附件3說明.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fa59e4e9-08d4-432a-8fb8-b38742f2a00d",
+            "FileName": "財經10-附件4地籍圖.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e9c3cf08-92ae-4b76-9fe8-8d2c9cb7e511&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/05\/31",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/06\/08",
+    "FirstDesc": "交付財經委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

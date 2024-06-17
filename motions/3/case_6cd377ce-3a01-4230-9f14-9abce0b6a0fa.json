@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "19",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國、方一峰、蔡淑惠、王家貞",
+    "OrgTitle2": "張世賢、尤榮智、盧崑福、李中岑、周奕齊",
+    "CaseCause": "建議市府研議將永康交流道旁「永安轉運站」改名為「鹽行轉運站」，以符合地域辨識度。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"經地方民眾反映，永安轉運站名稱未能充份顯示其地域所在，且無地方代表性，在地人都希望能以「鹽行」作為轉運站的命名會更有辨別性。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府編列預算辦理。\"}]",
+    "CheckDate": "2022\/08\/25",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/08\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/09\/02",
+    "SendNumber": "南議保安字第 1110010022號",
+    "DoDesc": "本府就「建議市府研議將永康交流道旁『永安轉運站』改名為『鹽行轉運站』，以符合地域辨識度」案，敬答覆如下： \r\n一、因永安轉運站鄰近永安路旁，且位於新興重劃區內，無傳統地名，工程規劃時暫時以主要道路稱之為「永安轉運站」。 \r\n二、本府交通局(公共運輸處)將再和地方研議，並尊重地方共識訂定正式之站名。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ed84fd26-f40c-4461-8cf4-cf3850ad0cec",
+            "FileName": "議提19附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6cd377ce-3a01-4230-9f14-9abce0b6a0fa&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/09\/19",
+    "ExecuteReNumber": "府交公運字第 1111178233號",
+    "ExecuteReMemo": "本府就「建議市府研議將永康交流道旁『永安轉運站』改名為『鹽行轉運站』，以符合地域辨識度」案，敬答覆如下： \r\n一、因永安轉運站鄰近永安路旁，且位於新興重劃區內，無傳統地名，工程規劃時暫時以主要道路稱之為「永安轉運站」。 \r\n二、本府交通局(公共運輸處)將再和地方研議，並尊重地方共識訂定正式之站名。",
+    "ErrorMessage": ""
+}

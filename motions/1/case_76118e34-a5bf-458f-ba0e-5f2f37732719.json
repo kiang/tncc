@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第4次 臨時會",
+    "PTypTitle": "會務",
+    "CaseNumber": "7",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "賴議長美惠",
+    "OrgTitle2": "",
+    "CaseCause": "訂定「臺南市議會聽證辦法(草案)」，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、為擴大市民政治參與暨聽取市民心聲，以貫徹民意監督之需要，特訂定本辦法，俾便實施。\"},{\"tag\":\"p\",\"content\":\"二、檢附「臺南市議會聽證辦法(草案)」。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會同意後，發布施行。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2011\/04\/01",
+    "DoneDesc": "照案通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f30aca51-4840-4ecc-84fc-0c3e899f0a5b",
+            "FileName": "1-4臨會務7-臺南市議會聽證辦法.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=76118e34-a5bf-458f-ba0e-5f2f37732719&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照案通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

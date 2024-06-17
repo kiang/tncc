@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "8",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "陳怡珍、周奕齊、李宗霖、林冠維、黃麗招、沈家鳳、蔡育輝、郭鴻儀、鄭佳欣",
+    "CaseCause": "建請市府儘速完成山上區排水改善工程，預估總費用新臺幣76,180,000元。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據人民陳情案件辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"此工程受益面積為300公頃，受益人口400户，可改善排水長度1160M。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"附件為計畫提案單，請參閱。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"},{\"tag\":\"p\",\"content\":\"\"}]",
+    "CheckDate": "2023\/10\/23",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/10\/27",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/11\/03",
+    "SendNumber": "南議工務字第 1120009942號",
+    "DoDesc": "本府就「建請市府儘速完成山上區排水改善工程，預估總費用新臺幣76,180,000 元。」案，敬答覆如下：\r\n為提升本市善化、山上地區及山上工業區保護程度，本府將持續向中央提報「山上排水(0K+390~6K+203)護岸新建工程」，工程費 8.2 億，用地費 3 億，施作護岸11.63 公里 (雙岸合計)。 ",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=04d3575c-f0cb-427f-9e4a-cd45ec0e4f2d",
+            "FileName": "4-2定工務議提8附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c37e5a2b-9f69-4eae-86ff-d1663eabcef8&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/11\/16",
+    "ExecuteReNumber": "府水養字第 1121486041號",
+    "ExecuteReMemo": "本府就「建請市府儘速完成山上區排水改善工程，預估總費用新臺幣76,180,000 元。」案，敬答覆如下：\r\n為提升本市善化、山上地區及山上工業區保護程度，本府將持續向中央提報「山上排水(0K+390~6K+203)護岸新建工程」，工程費 8.2 億，用地費 3 億，施作護岸11.63 公里 (雙岸合計)。 ",
+    "ErrorMessage": ""
+}

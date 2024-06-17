@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "24",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/07\/26",
+    "ComeNumber": "府文秘字第1100905492 號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "文化部文化資產局核定本市「110年臺南市防護專業服務中心」總經費240萬元整(中央補助款144萬元、市配合款96萬元)，為爭取時效，謹請貴會同意先行墊付110年度48萬元整(中央補助款28萬8仟元、市配合款19萬2仟元)，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據文化部文化資產局110年6月24日文資蹟字第11030065411號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案總經費240萬元整(中央補助款144萬元、市配合款96萬元)，執行期間自110年起至111年，經費分年編列採一次發包辦理，分年經費說明如下：。\"},{\"tag\":\"p\",\"content\":\"(一)110年度總預算48萬元整(中央補助款28萬8仟元、市配合款19萬2仟元)，因未及納入本府110年度總預算，為爭取時效，謹請貴會同意先行墊付，俟111年度總預算時辦理轉正。\"},{\"tag\":\"p\",\"content\":\"(二)111年度總預算192萬元整(中央補助款115萬2仟元、市配合款76萬8仟元)，擬納入111年度總預算編列。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年7月26日第501次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2021\/08\/26",
+    "SendNumber": "南議教育字第 1100006450號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e1287cf8-46c1-4d4e-8404-aa049e50ce75",
+            "FileName": "3-5-定提24號案-核定文.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2442cab4-c6d7-44a0-a4ed-d71f160e89a2",
+            "FileName": "3-5-定提24號案-計畫書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c9c65a49-f953-445d-9281-23613c1edecc&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

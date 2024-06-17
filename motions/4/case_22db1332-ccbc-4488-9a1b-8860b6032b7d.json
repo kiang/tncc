@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "25",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "曾之婕",
+    "OrgTitle2": "陳怡珍、李偉智、林冠維、杜素吟、陳碧玉、方一峰、趙昆原、盧崑福、周奕齊",
+    "CaseCause": "建請對東區崇成里崇明路底崇成公園，植入草坪進行綠地美化，及安裝灑水系統。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為改善附近居民生活環境，提高公園綠地利用價值，美化東區社區環境。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"因應崇成里周邊新建大樓發展未來趨勢，將成為人口稠密社區，市容美化刻不容緩。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"請儘速會勘規劃辦理。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如說明。\"}]",
+    "CheckDate": "2023\/03\/29",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/03\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/04\/10",
+    "SendNumber": "南議工務字第 1120002080號",
+    "DoDesc": "本府就「建請對東區崇成里崇明路底崇成公園，植入草坪進行綠地美化，及安裝灑水系統」案，敬答覆如下：\r\n近年因水情吃緊，導致全市公園綠地草坪地被無法足量澆灌養護，造成植生狀況普遍生長不佳。旨案屬東區區公所轄管鄰里公園，本府工務局將請公所針對議座所提意見，在節約用水的前提下，考量灑水系統設備使用期限、草坪活動安全性及日後維管等因素進行研辦。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8a1e3b01-b4fa-4ff6-bccf-6d6a3c00aa48",
+            "FileName": "特色公園(崇成里)附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=22db1332-ccbc-4488-9a1b-8860b6032b7d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/04\/25",
+    "ExecuteReNumber": "府工園一字第 1120493021號",
+    "ExecuteReMemo": "本府就「建請對東區崇成里崇明路底崇成公園，植入草坪進行綠地美化，及安裝灑水系統」案，敬答覆如下：\r\n近年因水情吃緊，導致全市公園綠地草坪地被無法足量澆灌養護，造成植生狀況普遍生長不佳。旨案屬東區區公所轄管鄰里公園，本府工務局將請公所針對議座所提意見，在節約用水的前提下，考量灑水系統設備使用期限、草坪活動安全性及日後維管等因素進行研辦。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "22",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "Ingay Tali穎艾達利",
+    "OrgTitle2": "周麗津、陳怡珍、李鎮國",
+    "CaseCause": "建請臺南市政府於東豐路與東豐路451巷口裝設機車兩段式左轉之標誌。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、此路口依據道路交通安全規則第99條規定，需進行兩段式左轉。\"},{\"tag\":\"p\",\"content\":\"二、東豐路與東豐路451巷路口(桌球館前)劃設有機車待轉區(如附件一)，但路口並無兩段式左轉標誌(如附件二)。\"},{\"tag\":\"p\",\"content\":\"三、建請臺南市政府裝設標誌牌以提示用路人此路口需二段式左轉，以促進道路安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"於東豐路與東豐路451巷口裝設機車兩段式左轉之標誌。\"}]",
+    "CheckDate": "2020\/11\/25",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/12\/09",
+    "SendNumber": "南議保安字第 1090011744號",
+    "DoDesc": "本案經市府109年12月17日府交工字第1091521951號函復:\r\n本案前經本府交通局自行巡查並派工辦理設置事宜，已於109年10月5日完成設置。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fc4701f1-265e-417a-b063-8b14c098a31d",
+            "FileName": "議提22附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=acff5415-8ffe-4a2a-95f0-5601ec348c60&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府109年12月17日府交工字第1091521951號函復:\r\n本案前經本府交通局自行巡查並派工辦理設置事宜，已於109年10月5日完成設置。",
+    "ErrorMessage": ""
+}

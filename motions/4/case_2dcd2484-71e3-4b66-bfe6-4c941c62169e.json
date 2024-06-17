@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2023\/09\/05",
+    "ComeNumber": "府環綜字第1121082501號",
+    "OrgTitle": "臺南市政府環境保護局",
+    "OrgTitle2": "",
+    "CaseCause": "擬具「臺南市低碳城市自治條例」第三條修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據氣候變遷因應法第十四條、第十五條及第二十條規定，直轄市、縣（市）主管機關為因應氣候變遷事務之協調整合，設「氣候變遷因應推動會」，明定應訂修溫室氣體減量執行方案及氣候變遷調適執行方案，並公開成果報告，與本自治條例第三條所設低碳調適及永續發展委員會執行內容相同。為避免發生組織上疊床架屋、功能不彰的情形，爰擬具本自治條例第三條修正草案，刪除第三條規定。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府112年8月23日第608次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市低碳城市自治條例」第3條修正草案總說明、草案對照表、草案條文。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "2023\/10\/24",
+    "CheckDesc": "第4屆第2次定期會(112年10月24日)審查意見：\r\n本案修正通過。（修正情形詳見審查結果對照表)",
+    "DoneDate": "2023\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/12\/07",
+    "SendNumber": "南議法規字第 1120011921號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4bf6de51-3392-461a-a182-4fc5f7373f14",
+            "FileName": "4-2定法規市提1「臺南市低碳城市自治條例」第三條修正草案附件-總說明、條文對照表、草案條文.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2dcd2484-71e3-4b66-bfe6-4c941c62169e&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=48bee8a2-018a-48dc-b4b0-4f5e9c6a53b2",
+            "FileName": "4-2定法規市提1-審查結果對照表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [],
+    "ReDate": "2023\/09\/15",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2023\/09\/22",
+    "FirstDesc": "交付法規委員會審查。",
+    "SecondDate": "2023\/11\/30",
+    "SecondDesc": "照審查意見通過。",
+    "ThirdDate": "2023\/11\/30",
+    "ThirdDesc": "照二讀會決議通過。",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

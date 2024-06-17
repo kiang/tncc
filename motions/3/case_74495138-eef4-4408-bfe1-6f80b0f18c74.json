@@ -1,0 +1,58 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "9",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/08\/17",
+    "ComeNumber": "府水污養字第1111083463號",
+    "OrgTitle": "臺南市政府水利局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院環境保護署核定本市「竹溪水質淨化場第二期工程規劃設計計畫」經費新台幣1,974萬元(中央補助款1,184萬4,000元；市配合款789萬6,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院環境保護署111年8月11日環署水字第1111107569號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費新台幣1,974萬元整(中央補助款1,184萬4,000元、市配合款789萬6,000元)，因未及納入本府112年度總預算案，為爭取時效，謹請貴會同意先行墊付，俟112年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年8月17日第555次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/09\/28",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/10\/05",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/10\/14",
+    "SendNumber": "南議工務字第 1110012336號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8812804c-ded6-431a-af3b-adb81b596d91",
+            "FileName": "1110811 環保署同意補助.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a3014dcf-ad12-41aa-9530-e529a75aefb9",
+            "FileName": "1110811 環保署同意補助-附件1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=dfbd96f7-985a-4b76-923a-20ce3dcb427f",
+            "FileName": "1110811 環保署同意補助-附件2.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=73d41fa0-4dcf-41d7-a81e-6925a88398a1",
+            "FileName": "1110817工務委員會編號9簡易說明(竹溪水質淨化場第二期工程規劃設計計畫).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=74495138-eef4-4408-bfe1-6f80b0f18c74&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/08\/23",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/08\/30",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

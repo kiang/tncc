@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第1次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "8",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李啓維",
+    "OrgTitle2": "蔡旺詮、Ingay Tali穎艾達利、沈震東、周麗津",
+    "CaseCause": "請儘速開闢灣裡松安里公兒S37公園。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、目前灣裡地區僅松安里沒有公園，過去市長答應地方要開闢松安里公園，後來說先開闢其他里之後再開闢，結果食言，地方議論紛紛，為平息眾怒應儘速開闢。\"},{\"tag\":\"p\",\"content\":\"二、近來大家也質疑，為什麼一些公園好好的，政府還用大筆預算改建，是否有浪費之虞？\"},{\"tag\":\"p\",\"content\":\"三、政府應努力將有限資源運用於為下一代，創造更大的活動空間，所以開闢松安里公園絕對是值得的！\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2019\/01\/25",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/02\/01",
+    "SendNumber": "南議工務字第 號",
+    "DoDesc": "本案經市府108年2月18日府工園一字第1080205726號函復：\r\n(詳如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ecc05407-845f-4ae5-a216-df1e8ed8d790",
+            "FileName": "3-1臨議提8號書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e91f7c29-2933-44b7-bd90-846b94e65a13&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/01\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府108年2月18日府工園一字第1080205726號函復：\r\n(詳如夾檔)",
+    "ErrorMessage": ""
+}

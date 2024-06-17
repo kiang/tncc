@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "99",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "Ingay Tali穎艾達利",
+    "OrgTitle2": "郭鴻儀、林易瑩、李鎮國、沈震東、陳怡珍、蔡育輝",
+    "CaseCause": "建請臺南市政府改善河樂廣場標示，以協助民眾理解廣場之使用規定及相關設施位置。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、河樂廣場之注意事項如圖一說明，然注意事項中缺漏「寵物不得落地」之規定，僅由現場清潔人員提醒寵物飼主；又，注意事項僅公告於河樂廣場內部，未標明於河樂廣場各出入口（如圖二），有帶寵物之民眾無法提前瞭解廣場內有關寵物之注意事項，恐造成民眾不便及增加現場工作人員之宣導負擔。\"},{\"tag\":\"p\",\"content\":\"二、河樂廣場地圖標示未有垃圾桶圖示（如圖三），然廣場內垃圾桶設置與牆平行（如圖四），雖較不易影響視覺觀感，卻也不易為民眾所發現。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"一、建請臺南市政府都市發展局於注意事項中新增「寵物不得落地」之規定，並於河樂廣場各出入口增加注意事項標示，以利民眾提前瞭解河樂廣場注意事項。\"},{\"tag\":\"p\",\"content\":\"二、建請臺南市政府都市發展局於廣場各地圖中標示垃圾桶位置，以利民眾找到垃圾桶，降低隨手棄置垃圾之機率，亦可減輕工作人員負擔。\"}]",
+    "CheckDate": "2020\/05\/28",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2020\/06\/09",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/06\/17",
+    "SendNumber": "南議工務字第 1090003897號",
+    "DoDesc": "本案經市府109年6月20日府都設字第1090741157號函復：\r\n一、河樂廣場急迫性標示已於109年5月5日設置完成，包含開園時間、使用規定、警示標示、臨時性公告等等，方便民眾了解廣場相關規範。\r\n二、「B1層禁止寵物落地，並嚴禁寵物入水」之規定已明確標示於入園須知，且該需知標示已設置於各入口及電梯口(詳附圖)，地下層亦有設置兩處，讓有帶寵物之民眾了解有關寵物之注意事項。\r\n三、有關相關設施位置標示及管理單位新增需求，將納入未來永久性標示規劃設置。\r\n四、貴會暨議座關心市政，併予以致謝。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=aa805f37-12d8-4580-ba16-197683a16d89",
+            "FileName": "議提99-附件.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=98914fc1-d24b-4362-b554-25e9c36d927e",
+            "FileName": "3-3定(議提99)書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d80d06d7-dbab-47fa-b2a3-41f130367540&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府109年6月20日府都設字第1090741157號函復：\r\n一、河樂廣場急迫性標示已於109年5月5日設置完成，包含開園時間、使用規定、警示標示、臨時性公告等等，方便民眾了解廣場相關規範。\r\n二、「B1層禁止寵物落地，並嚴禁寵物入水」之規定已明確標示於入園須知，且該需知標示已設置於各入口及電梯口(詳附圖)，地下層亦有設置兩處，讓有帶寵物之民眾了解有關寵物之注意事項。\r\n三、有關相關設施位置標示及管理單位新增需求，將納入未來永久性標示規劃設置。\r\n四、貴會暨議座關心市政，併予以致謝。",
+    "ErrorMessage": ""
+}

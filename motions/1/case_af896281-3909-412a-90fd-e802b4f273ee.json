@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第6次 臨時會",
+    "PTypTitle": "會務",
+    "CaseNumber": "2",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "賴議長美惠",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市議會各種委員會設置辦法」第三條第二項及第五條條文草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依臺南市議會第一屆第二次定期大會第37次會決議修正。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"檢附「臺南市議會各種委員會設置辦法」修正草案總說明、條文修正草案對照表、修正後條文草案。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會同意後報行政院備查，並函知市政府。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2012\/02\/13",
+    "DoneDesc": "照案通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c316f29d-028f-4f67-b39b-5a6006508cca",
+            "FileName": "1-6臨會務2-臺南市議會各種委員會設置辦法修正草案(總說明、對照表).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=af896281-3909-412a-90fd-e802b4f273ee&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照案通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

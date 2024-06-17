@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "13",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2021\/09\/29",
+    "ComeNumber": " 府文秘字第1101168226 號",
+    "OrgTitle": "臺南市政府文化局所屬臺南市立圖書館",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本市「財團法人台南市文化基金會111年度預算書」乙案，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、財團法人台南市文化基金會，為政府捐助之財團法人。依預算法第41條第4項規定，將該會111年度預算送請議會審議。\"},{\"tag\":\"p\",\"content\":\"二、111年度預算書業經財團法人台南市文化基金會於110年9月2日召開第13屆第1次董監事會議審核通過。\"},{\"tag\":\"p\",\"content\":\"三、本案業經本府110年9月24日第509次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "聯席審查意見：照案通過。",
+    "DoneDate": "2022\/01\/14",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2022\/01\/21",
+    "SendNumber": "南議建設字第 1110000715號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c0842106-1e2b-4040-a984-3003c039836f",
+            "FileName": "3-6定-市提13號案-台南市文化基金會111年預算.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2160fc10-e2dd-4e2d-be53-89ef429852ee&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2021\/10\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "15",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2021\/10\/06",
+    "ComeNumber": "府文秘字第1101180101 號",
+    "OrgTitle": "臺南市政府文化局所屬臺南市立圖書館",
+    "OrgTitle2": "",
+    "CaseCause": "檢送「臺南市美術館111年度預算書」，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據臺南市美術館設置自治條例第二十八條第二項：「政府機關核撥之經費超過本館當年度預算收入來源百分之五十者，應由監督機關將本館年度預算書，送臺南市議會審查。」\"},{\"tag\":\"p\",\"content\":\"二、本預算書業於110年6月24日經臺南市美術館董監事聯席會審議。\"},{\"tag\":\"p\",\"content\":\"三、本案業經本府110年10月4日第511次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "聯席審查意見：照案通過。",
+    "DoneDate": "2022\/01\/14",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2022\/01\/21",
+    "SendNumber": "南議建設字第 1110000696號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2e711827-0ddd-4c6c-8346-7d7107d90f7b",
+            "FileName": "3-6定-教育市提15號案-111年度美術館預算.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3f1f3a74-c826-4773-a6a9-6ea971390b7e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

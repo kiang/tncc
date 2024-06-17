@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "11",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2023\/10\/04",
+    "ComeNumber": "府財產字第1121276083號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理讓售本府經管坐落本市官田區二鎮段二鎮小段441地號等8筆非公用市有土地，謹依土地法第25條規定之處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"市有土地鄰地所有權人檢附畸零（裡）地合併使用證明書申請承購坐落本市官田區二鎮段二鎮小段441地號等3筆市有土地，擬依「臺南市市有財產管理自治條例」第51條規定辦理讓售。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"市有土地承租人申請承購坐落本市南區日新段630-2地號等5筆市有出租土地，擬依「臺南市市有財產管理自治條例」第50條第1項第2款規定辦理讓售。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府112年10月3日第614次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "2023\/11\/27",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/12\/05",
+    "SendNumber": "南議財經字第 1120011703號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=66dc6f89-8be3-43e7-9527-dd24a933c3df",
+            "FileName": "財經11-處分清冊.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e958bb4f-e3fb-4b01-9406-9a50b5a93d13",
+            "FileName": "提案11讓售-地籍圖.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9eb6abd5-1628-4980-a599-94891daeeee3&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/10\/19",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2023\/10\/27",
+    "FirstDesc": "交付財經委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

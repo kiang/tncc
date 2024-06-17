@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第12次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "18",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/02\/18",
+    "ComeNumber": "府社秘字第1110242254號",
+    "OrgTitle": "臺南市政府社會局",
+    "OrgTitle2": "",
+    "CaseCause": "衛生福利部社會及家庭署補助本市「111年度身心障礙者自立生活支持服務計畫」經費新臺幣123萬7,000元整(中央補助款105萬1,000元、市配合款18萬6,000元)乙案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據衛生福利部社會及家庭署110年11月9日社家企字第1100560330號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[]}]},{\"tag\":\"p\",\"content\":\"本案總經費新臺幣484萬9,000元(中央補助款412萬1,000元、市配合款72萬8,000元)。業於111年度公務預算編列361萬2,000元(中央補助款307萬元、市配合款54萬2,000元)，餘123萬7,000元(中央補助款105萬1,000元、市配合款18萬6,000元)，因未及納入本府111年度總預算，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年12月13日第521次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/03\/21",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/03\/25",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/03\/31",
+    "SendNumber": "南議環衛字第 1110002636號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2b9e0859-5cbd-4240-bd16-fd27e3c7acd3",
+            "FileName": "環保衛生18號-附件-社會局-111年度身心障礙者自立生活支持服務計畫(身福科).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fad7f22e-18a8-4789-886e-8cf4da91b60c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/03\/09",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

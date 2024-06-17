@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "74",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李坤煌",
+    "OrgTitle2": "黃麗招、陳文科、蔡淑惠",
+    "CaseCause": "建請市府地政局會同都市發展局、水利局、財政局，共同解決永康區永大路一、二段旁原農地重劃剩餘土地，造成鄰地數十年來無法面臨永大路之困境。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、永康區永大路一段、二段東側原民國50幾年農地重劃剩餘土地，橫亙在私有鄰地及永大路間，造成鄰地無法直接面臨永大路申請建築，影響市民權益、地方發展及市容甚鉅。\"},{\"tag\":\"p\",\"content\":\"二、該剩餘市有土地，管理單位為市府民政局，原農地重劃後為農田排水溝渠，緊鄰舊有部落，但經永康都市計畫、道路開闢，農地全部變更為其他使用分區土地，該溝渠又失去排水功能，且亦非永康計畫排水。平常緊鄰進住戶排放民生用水，但因無法清疏及鄰近民眾占用，故汙水淤積雜草叢生，成為環境髒亂死角。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"建請市府相關單位儘速共同解決數十年來之沈痾，改善該地區環境，帶動地方發展。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2012\/12\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/12\/19",
+    "SendNumber": "南議工務字第 1010011421號",
+    "DoDesc": "本案經市府101.12.28府地農字第1011079179號函復：\r\n本案前經101.12.11邀集相關單位研商，茲檢送協商會議記錄1份。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e5474b00-4417-4963-8f30-959db5a7d292",
+            "FileName": "會議記錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7a570cbb-1ae2-4bda-aba7-6c286b073f4d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府101.12.28府地農字第1011079179號函復：\r\n本案前經101.12.11邀集相關單位研商，茲檢送協商會議記錄1份。",
+    "ErrorMessage": ""
+}

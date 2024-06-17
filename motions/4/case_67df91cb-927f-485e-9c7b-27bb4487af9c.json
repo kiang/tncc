@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "9",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/05\/14",
+    "ComeNumber": "府民自字第1130664745號",
+    "OrgTitle": "臺南市政府各區公所",
+    "OrgTitle2": "",
+    "CaseCause": "為國防部空軍司令部核定補助本所辦理「113年度飛彈營區敦親睦鄰經費-山腳里轄區內道路及相關公共設施改善維護等工程」，核定計畫總經費180萬元，其中54萬元無法由原編列之經常門預算科目項下支應，為因應時效，擬請准予將54萬元辦理墊付，俟114年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據國防部空軍司令部112年3月14日國空戰防字第1120061908號函及113年3月20日國空戰防字第1130061046號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合各機關單位預算執行要點第44點第4款規定，經上級政府核定之補助款，所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明:旨揭計畫補助款180萬元(中央全額補助)，於規劃時擬用於公益支出及專案改善工程項目，本所依據原定計畫編列113年度預算(公益支出:經常門預算54萬元；專案改善工程:資本門預算126萬元)。惟後續因地方需求，調整執行項目，公益支出54萬元轉為執行專案改善工程，經國防部空軍司令部於113年度複審核定，惟執行項目修正後，原資本門預算僅編列126萬元，不足以支應經該部核定之專案改善工程180萬元(資本門)，為爭取時效並有效運用補助經費，爰提請墊付，俟114年度總預算時再予轉正，以利計畫執行，同時本所原編列經常門54萬元，因計畫修正，不再執行，擬由本所自行控管，不另行動支。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年4月30日第644次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案因道路現況破損恐危及用路安全性，急需修復及執行核定年度計畫，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=596bd730-478b-4036-b01e-826a4167e81d",
+            "FileName": "民教9(新化區公所)-附件(核定文及計畫書).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=67df91cb-927f-485e-9c7b-27bb4487af9c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "",
+    "FirstDate": "2024\/05\/29",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

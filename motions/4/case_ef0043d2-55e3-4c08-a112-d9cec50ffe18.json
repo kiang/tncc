@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第4屆 第5次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/02\/07",
+    "ComeNumber": "府農森字第1130244526號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "農業部林業及自然保育署嘉義分署核定本府「臺南市龍崎自然地景整體空間先期規劃」總經費計新臺幣537萬元整（中央補助款430萬元、市府配合款107萬元），因未及納入113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據農業部林業及自然保育署嘉義分署113年1月5日嘉保字第1125117178號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款及第6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"本案總經費計新臺幣537萬元整（中央補助款430萬元、市府配合款107萬元），因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本規劃案係委託專業服務，辦理龍崎自然地景整體空間先期規劃，以利辦理後續使用及活化事宜。\",\"children\":[]},{\"order\":\"(三)\",\"content\":\"上開經費537萬元，採一次發包，中央分年編列預算辦理，113年度117萬（中央補助款100萬元、市府配合款17萬元），114年度420萬（中央補助款330萬元、市府配合款90萬元）。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府113年2月6日第632次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本規劃案係需進行龍崎工業區現況調查（含生態、地質、建物等），相關調查需耗費時日，才能逕行規劃作業，為爭取時效，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2024\/03\/08",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2024\/03\/15",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2024\/03\/21",
+    "SendNumber": "南議財經字第 1130001603號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=02badf15-dcfa-4cd1-aa68-6863d1651b22",
+            "FileName": "財經市提4號案-附件A.PDF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=544e8d0d-5516-4a5a-9215-d64b462ed2bc",
+            "FileName": "財經市提4號案-附件B.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=83b687b0-2938-42e4-aedf-b4c2f30266de",
+            "FileName": "財經市提4號案-附件C.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ef0043d2-55e3-4c08-a112-d9cec50ffe18&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/02\/23",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2024\/03\/06",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

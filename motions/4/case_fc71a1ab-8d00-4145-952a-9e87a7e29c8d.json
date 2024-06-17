@@ -1,0 +1,59 @@
+{
+    "GradeTime": "第4屆 第5次 臨時會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-市法規案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "周嘉韋、林依婷、蔡筱薇、李宗翰、朱正軒、郭鴻儀",
+    "OrgTitle2": "林志展、黄肇輝、王宣貿、蔡麗青、邱昭勝、沈家鳳、陳皇宇、陳怡珍、施余興望 Tjakumay Tagaw、黃麗招、鄭佳欣、蔡蘇秋金",
+    "CaseCause": "制定「臺南市騎樓管理使用自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"我國關於交通之法規雖有道路交通管理處罰條例作為基準，然此法乃係大方向對於騎樓總括性規範。惟基於自治條例之目的，主要係為求協助地方政府因地制宜相關細節性涉及人民權益之規定，使騎樓之使用範圍及方式更趨完整、明確，以維護人民之財產權，並減少執法人員之困擾。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"此外，本市為我國較早開發之城市，房屋常態性設置騎樓，本自治條例立法目的乃為求衡平釋字第564號解釋所稱騎樓為供公眾通行之利益及騎樓土地所有權人之財產利益，並解決本市普遍停車空間不足之困境，期以得到解決方案，在行人路權與騎樓使用兩個面向中，覓得支點平衡兩方權利。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市騎樓管理使用自治條例」草案總說明、逐條說明及草案條文。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2024\/03\/06",
+    "DoneDesc": "本案為市法規制定案，大會通過先行辦理草案預告及公聽會，於下會期再進行一讀會及付委。(註：依照第3 屆第4 次定期會第1 次會大會決議辦理)",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "1草案預告113.3.7南議法規字第1130001077號。\r\n2.公聽會於113.3.26辦理完成，會議紀錄詳附件。\r\n3.1130517辦理第4屆第3次議案審查，會議紀錄詳附件。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e2c57324-55e2-484b-ac72-f515c98fc25c",
+            "FileName": "4-5臨法規議提1-「臺南市騎樓管理使用自治條例」草案(總說明、逐條說明、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=01016e8c-dde6-4a36-a22b-4c5ea45ca14e",
+            "FileName": "20240307騎樓自治條例預告公告.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=238e3732-f1f2-4360-adbf-da2b828530b8",
+            "FileName": "(逐字稿+簽到單)會議紀錄-113.03.26公廳會-臺南市騎樓管理使用自治條例草案公聽會.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8a80b13c-1e9c-47fa-bc86-214043530c16",
+            "FileName": "1-4-1130517---4-3定-騎樓會議紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fc71a1ab-8d00-4145-952a-9e87a7e29c8d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/02\/23",
+    "ReDesc": "本案為市法規制定案，大會通過先行辦理草案預告及公聽會，於下會期再進行一讀會及付委。(註：依照第3 屆第4 次定期會第1 次會大會決議辦理)",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "1草案預告113.3.7南議法規字第1130001077號。\r\n2.公聽會於113.3.26辦理完成，會議紀錄詳附件。\r\n3.1130517辦理第4屆第3次議案審查，會議紀錄詳附件。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "12",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "吳禹寰",
+    "OrgTitle2": "周麗津、林易瑩、李中岑、趙昆原、蔡旺詮",
+    "CaseCause": "建請市府盡速改善歸仁區台86線橋下道路，以保障人民通行往來安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"民眾陳情歸仁區台86線橋下道路破損，因年久失修，路面老化龜裂破損影響行車。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請市府儘速改善，以保障人民通行往來之安全。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附改善位置圖。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/06\/01",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/06\/08",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/06\/22",
+    "SendNumber": "南議工務字第 1110005908號",
+    "DoDesc": "本府就「建請市府盡速改善歸仁區台86線橋下道路，以保障人民通行往來安全」案，敬答覆如下：\r\n本市「仁德區勝利路及歸仁區台86側車道等部分路段路面改善工程」，計畫改善長度774公尺、寛度13.5公尺，AC改善面積10,449平方公尺，已納入本府111年度路平専案辦理改善，目前辦理工程簽約作業中。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a2feb691-6d20-40b4-ac23-e15f4fcfc123",
+            "FileName": "3-7定工務議提12附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=67615f3f-9e26-44f2-997e-f8bfd54f9066&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/08\/11",
+    "ExecuteReNumber": "府工養一字第 1111013561號",
+    "ExecuteReMemo": "本府就「建請市府盡速改善歸仁區台86線橋下道路，以保障人民通行往來安全」案，敬答覆如下：\r\n本市「仁德區勝利路及歸仁區台86側車道等部分路段路面改善工程」，計畫改善長度774公尺、寛度13.5公尺，AC改善面積10,449平方公尺，已納入本府111年度路平専案辦理改善，目前辦理工程簽約作業中。",
+    "ErrorMessage": ""
+}

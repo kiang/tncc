@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "3",
+    "KidTitle": "議員提案-市法規案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李退之",
+    "OrgTitle2": "王錦德、吳通龍、林志聰、林宜瑾、梁順發、陳文賢、陳特清、陳朝來、Kumu Hacyo谷暮．哈就、楊麗玉、蔡秋蘭、蔡蘇秋金",
+    "CaseCause": "擬制訂「臺南市興辦公共工程拆遷補償自治條例」，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"臺南縣市合併改制為直轄市已屆一年三個月，臺南市政府為提升全市生活環境、改善交通建設、治理水利設施及開發產業聚落等等，積極辦理各項公共建設，為求本市土地改良物所有權人、使用人得有公平一致之徵收補償標準，特訂定本自治條例，並追溯自臺南縣市合併改制首日。本自治條例共有三十二條條文，其要點如下：\"},{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本自治條例所列提供拆遷補償之土地改良物，包含建築改良物、農作改良物、畜產及水產養殖物、農業機具、工商設備(含營業損失)、水井及墳墓。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"主管機關辦理拆遷補償之查估程序、通知期限。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"詳列建築改良物中合法建築物、違章建築物及新違章建築物之資格條件與補償基準。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"訂定自行拆遷獎勵金以鼓勵民眾自行拆遷。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"徵收供居住之建築改良物，主管機關應發給人口遷移費；徵收營業使用之建築改良物則應發給生產設備遷移費。\",\"children\":[]},{\"order\":\"六、\",\"content\":\"徵收建築改良物以外之土地改良物，如農作改良物、畜產及水產養殖物、農業機具、水井及墳墓，主管機關應發給補償費或遷移費。\",\"children\":[]},{\"order\":\"七、\",\"content\":\"課予主管機關訂定建築改良物查估評點標準，並依據營造工程物價指數調整之權利。\",\"children\":[]},{\"order\":\"八、\",\"content\":\"課予主管機關訂定各類土地改良查估標準，並每年依據物價指數調整之權利。\",\"children\":[]}]}]",
+    "Method": "[]",
+    "CheckDate": "",
+    "CheckDesc": "一、併案討論。\r\n二、以地政局版本做為主體討論。\r\n三、地政局版本有關拆遷補償及計算方式請再做具體文字內容修正。\r\n四、李退之議員版本第29條請再修正文字內容後納入自治條例(草案)。\r\n五、修正後之自治條例(草案)，詳如附件二，並修正通過。",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "一、本案併市府提案-市法規23號案。\r\n二、法規委員會審議修正版第六條第二項刪除重覆字句。\r\n三、法規委員會審議修正版第十二條第二項修正為：拆除私有土地內未辦水權登記、水權登記已逾期限或未領有免水權登記證明之地下水井，得…給予救濟金\r\n四、餘照審查意見修正通過。",
+    "SendDate": "2012\/06\/28",
+    "SendNumber": "南議法規字第 1010010751號",
+    "DoDesc": "本案業經本府於101年7月11日以府法規字第1010563256A號令公布。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=17564e76-cec9-4b87-a4c2-e4ad5f438df8",
+            "FileName": "臺南市興辦公共工程拆遷補償自治條例(總說明、逐條說明、草案條文).doc",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cf339727-c79e-4289-89e8-cb1630e1c726",
+            "FileName": "臺南市興辦公共工程拆遷補償自治條例草案地政局、李退之議員版本比較表.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=85b45d31-d009-42a2-a7ca-8d1b99d7ffe2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "一、本案併市府提案-市法規23號案。\r\n二、法規委員會審議修正版第六條第二項刪除重覆字句。\r\n三、法規委員會審議修正版第十二條第二項修正為：拆除私有土地內未辦水權登記、水權登記已逾期限或未領有免水權登記證明之地下水井，得…給予救濟金\r\n四、餘照審查意見修正通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案業經本府於101年7月11日以府法規字第1010563256A號令公布。",
+    "ErrorMessage": ""
+}

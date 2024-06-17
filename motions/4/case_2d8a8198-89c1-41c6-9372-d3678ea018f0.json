@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2023\/09\/07",
+    "ComeNumber": "府文秘字第1121151156號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送「臺南市美術館113年度預算書」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據臺南市美術館設置自治條例第二十八條第二項：「政府機關核撥之經費超過本館當年度預算收入來源百分之五十者，應由監督機關將本館年度預算書，送臺南市議會審查。」\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本預算書業於112年6月28日經臺南市美術館董監事聯席會審議。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府112年9月6日第610次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "2023\/12\/15",
+    "CheckDesc": "聯席審查意見：照案通過",
+    "DoneDate": "2023\/12\/21",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8417d286-83a9-484e-b99e-43c25bef7c86",
+            "FileName": "市提2附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2d8a8198-89c1-41c6-9372-d3678ea018f0&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/09\/15",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2023\/10\/27",
+    "FirstDesc": "交付聯席審查，併同列入113年度總預算案聯審議程。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

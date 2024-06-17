@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第2次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "6",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "沈震東",
+    "OrgTitle2": "林易瑩、沈家鳳、鄭佳欣",
+    "CaseCause": "建請市府工務局進行台南市美術一館相鄰南門路側之側溝及側溝路面全段之修繕工程。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"案址南門路段側溝及側溝路面，出現高低落差，路面破碎、凹凸不平等情形，容易造成用路人危險。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2019\/02\/27",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/03\/08",
+    "SendNumber": "南議工務字第 1080001878號",
+    "DoDesc": "本案經市府108年3月20日府工養一字第1080306687號函復：\r\n(詳如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0794f70c-e327-4a8a-92da-cc3b2976b815",
+            "FileName": "3-2臨(議提6)書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=320a4451-68c1-467d-9aca-f4e126e4bb0b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/02\/14",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府108年3月20日府工養一字第1080306687號函復：\r\n(詳如夾檔)",
+    "ErrorMessage": ""
+}

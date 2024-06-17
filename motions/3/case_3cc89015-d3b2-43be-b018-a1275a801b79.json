@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第12次 臨時會",
+    "PTypTitle": "建設",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/02\/22",
+    "ComeNumber": "府都更字第1110263329號",
+    "OrgTitle": "臺南市政府都市發展局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部同意補助本市辦理110年度第1梯次「整合住宅補貼資源實施方案-租金補貼」超額2,087戶經費新臺幣8,547萬6,000元（全額中央補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部111年1月19日內授營宅字第1110801136號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款之規定，經上級政府核定之補助款，所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：內政部補助本市辦理110年度租金補貼超額2,087戶經費新臺幣8,547萬6,000元（全額中央補助），因未及納入本府111年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年2月22日第530次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/03\/21",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/03\/25",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/04\/01",
+    "SendNumber": "南議建設字第 1110002738號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=799c4424-cfe3-44b4-a876-6e079deac4ad",
+            "FileName": "市提3附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3cc89015-d3b2-43be-b018-a1275a801b79&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/03\/09",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

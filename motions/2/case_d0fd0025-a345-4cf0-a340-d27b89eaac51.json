@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第2屆 第1次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "19",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "吳通龍",
+    "OrgTitle2": "洪玉鳳、蔡玉枝",
+    "CaseCause": "建議修改臺南市興辦公共工程土地改良物補償自治條例第八條規定合法房屋或違章建築之所有權人於主管機關通知拆遷期限以前全部自行搬遷完竣，不影響拆除工作者，每一門牌號，發給搬遷獎勵金，將條文中文字「每一門牌號」刪除。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"因部分被徵收之建築改良物所有人有使用執照等合法證明，卻因礙於臺南市興辦公共工程土地改良補償自治條例第八條規定，須以戶政機關登記之門牌號申請搬遷獎勵金，致無法申請搬遷獎勵金。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2015\/08\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2015\/08\/31",
+    "SendNumber": "南議工務字第 1040004728號",
+    "DoDesc": "本案經市府104年9月14日南市工新三字第1040889706號函復：\r\n有關本市議會第2屆第1次定期大會議員提案（工務第19案），建議修改臺南市興辦公共工程土地改良物補償自治條例第8條規定乙事，因屬貴局權管，敬請卓處後逕復該會並副知本局。=================================================\r\n本案經市府104年9月16日南市地用字第1040879525號函復：（詳如夾檔）\r\n=================================================\r\n本案經市府104年10月12日府工新三字第1040946487號函復：（詳如夾檔）",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4776f9d9-e94e-4651-bf04-d896182ba68e",
+            "FileName": "工務議提第19號案答復函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=de4dfbb9-67cd-45b8-b366-c31cceee0a83",
+            "FileName": "工務19號案工務局答復函.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d0fd0025-a345-4cf0-a340-d27b89eaac51&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2015\/06\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府104年9月14日南市工新三字第1040889706號函復：\r\n有關本市議會第2屆第1次定期大會議員提案（工務第19案），建議修改臺南市興辦公共工程土地改良物補償自治條例第8條規定乙事，因屬貴局權管，敬請卓處後逕復該會並副知本局。=================================================\r\n本案經市府104年9月16日南市地用字第1040879525號函復：（詳如夾檔）\r\n=================================================\r\n本案經市府104年10月12日府工新三字第1040946487號函復：（詳如夾檔）",
+    "ErrorMessage": ""
+}

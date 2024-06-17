@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "9",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/02\/20",
+    "ComeNumber": "府農銷字1130283473號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "農業部核定本府「2024年臺南農漁產品海外參展拓銷計畫案」，經費新臺幣650萬元（中央補助300萬元，市府配合款350萬元），因未及納入113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據農業部113年2月1日農際字第1130201334號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款、第6款與第45點，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"所需經費新臺幣同意經費新臺幣650萬元（中央補助300萬元，市府配合款350萬元），因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俟114年度總預算時再予轉正。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要工作項目為率團參加東京食品展、新加坡食品展及韓國首爾食品展，並於該國辦理農漁產品海外拓銷活動，等相關工作。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府113年2月20日第634次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：為推廣臺南優質農產品進入國際市場，參加海外國際食品展及拓銷活動，並配合計畫要求於113年底前結案，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2024\/03\/08",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2024\/03\/15",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2024\/03\/21",
+    "SendNumber": "南議財經字第 1130001607號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=10d43ca2-c5bf-47f0-91d8-173c3b83fcd3",
+            "FileName": "附件-財經第9號案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=84787bf9-dcfd-47e6-bbc0-26181f674a02&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/02\/23",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2024\/03\/06",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第2次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "5",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "沈家鳳",
+    "OrgTitle2": "沈震東、蔡筱薇、曾培雅",
+    "CaseCause": "建請市府研議改善當雨量過大，致柳營區聯外橋梁及道路（省道台一線新營往柳營急水溪橋、新營延平路往柳營市區急水溪橋及新營長榮路往柳營雙營橋）封閉，導致交通中斷或增加柳營區對外聯絡橋梁道路，以解決居民無法安全通行問題。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、107年8月23日豪雨成災，導致柳營地區聯外橋梁與道路皆封閉，因此交通中斷，瞬間柳營地區成為孤島，人車皆無法通行，影響民眾甚鉅，進出受限有家歸不得。\"},{\"tag\":\"p\",\"content\":\"二、長期以來每逢豪雨或颱風，柳營區對外橋梁與道路就可能封閉，實有必要研議如何提供民眾一條能安全回家的路。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2019\/02\/27",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/03\/08",
+    "SendNumber": "南議工務字第 1080001876號",
+    "DoDesc": "本案經市府108年3月20日府工新二字第1080316178號函復：\r\n(詳如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=41a7eeb9-b309-4088-b86e-b07c2f8c29b3",
+            "FileName": "3-2臨(議提5)書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1afca053-1521-4a97-a876-94f49c8294c8&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/02\/14",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府108年3月20日府工新二字第1080316178號函復：\r\n(詳如夾檔)",
+    "ErrorMessage": ""
+}

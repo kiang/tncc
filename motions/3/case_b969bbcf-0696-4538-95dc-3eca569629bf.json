@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第1次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "5",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "蔡育輝、蔡淑惠、尤榮智、林燕祝",
+    "CaseCause": "建請市府針對南區新建路39巷道路排水不及等問題，改善沿線區域排水系統。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"南區新建路39巷道路排水不及、逢雨必淹，造成局部水位壅高及滿水溢流，建請相關單位規劃檢討，以改善沿線區域排水系統。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2019\/01\/25",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/02\/01",
+    "SendNumber": "南議工務字第 號",
+    "DoDesc": "本案經市府108年2月13日府工養一字第1080202266號函復：\r\n(詳如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=248dd4cf-c640-447b-bc20-0e6b0a0ba772",
+            "FileName": "工務議提5.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b969bbcf-0696-4538-95dc-3eca569629bf&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/01\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府108年2月13日府工養一字第1080202266號函復：\r\n(詳如夾檔)",
+    "ErrorMessage": ""
+}

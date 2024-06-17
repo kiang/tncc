@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第4次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2016\/08\/12",
+    "ComeNumber": "府工管二字第1050815116號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市營建工程賸餘土石方處理及資源堆置處理場設置管理自治條例」部分條文修正草案第十七、十八、二十一、二十二、二十五、二十七及三十五條，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市營建工程賸餘土石方處理及資源堆置處理場設置管理自治條例業於一百零一年十一月二十二日府法規字第一Ｏ一Ｏ九八八九一六A號令制定公布在案，因實際執行有修改自治條例之必要，爰提出修正自治條例第十七、十八、二十一、二十二、二十五、二十七及三十五條，共七條。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府105年7月28日第259次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市營建工程賸餘土石方處理及資源堆置處理場設置管理自治條例」部分條文修正草案（含總說明及逐條說明）乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、修正通過。\r\n二、第十八條第一項第二款中段，且不得禁止砂石車通行。修正為且不得為禁止砂石車通行之道路。\r\n三、第二十五條第一項最後一行，並以二次為限。修正為並以三次為限。",
+    "DoneDate": "2016\/12\/23",
+    "DoneDesc": "照審查意見修正通過。",
+    "SendDate": "2017\/01\/03",
+    "SendNumber": "南議法規字第 1050008991號",
+    "DoDesc": "本案已於106年1月24日府工管二字第1060048741號函請行政院核備。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e063a88b-5f03-4e18-91c5-cd735bc265ff",
+            "FileName": "臺南市營建工程賸餘土石方處理及資源堆置處理場設置管理自治條例部分條文修正草案總說明及修正對照表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=95724d12-d053-4964-8e08-47bef8cd2379&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見修正通過。",
+    "FirstDate": "2016\/10\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案已於106年1月24日府工管二字第1060048741號函請行政院核備。",
+    "ErrorMessage": ""
+}

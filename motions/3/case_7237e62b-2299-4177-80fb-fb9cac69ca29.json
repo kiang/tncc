@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "8",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/05\/06",
+    "ComeNumber": "府文秘字第1100535989號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "教育部核定本市「110年推動公共圖書館資源整合發展補助專案計畫」總經費新臺幣21萬元整一案(中央補助款14萬7,000元、市配合款6萬3,000元)，為爭取時效，謹請貴會同意先行墊付21萬元，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據教育部110年3月16日臺教社(四)第1100030489G號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」、第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"本案係教育部核定本市「110年推動公共圖書館資源整合發展補助專案計畫」總經費21萬元一案(中央補助款14萬7,000元、市配合款6萬3,000元)，因本案核定時間及經費額度未及列入本館110年度預算編列，為爭取時效，謹請貴會同意先行墊付21萬元，俟111年度總預算時予以轉正。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年4月6日第485次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/08\/09",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/08\/25",
+    "SendNumber": "南議教育字第 1100006406號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1fdd7020-4ae6-42f6-9e82-193bc4300c10",
+            "FileName": "3-5-定提8號案-核定文.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6606358f-007c-4c60-b99a-d6490e613ded",
+            "FileName": "3-5-定提8號案-計畫書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7237e62b-2299-4177-80fb-fb9cac69ca29&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

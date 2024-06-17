@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林易瑩",
+    "OrgTitle2": "許又仁、郭鴻儀、黃麗招、周奕齊、陳怡珍、周麗津、李中岑、Ingay Tali穎艾達利",
+    "CaseCause": "建請市府針對市立圖書館新總館外圍之石椅破損部分進行修繕。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"市立圖書館新總館（臺南市永康區康橋大道255號）外圍廣場之石椅因使用頻繁，部分石椅側面剝落。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請進行修繕維護，避免意外發生，以維護民眾使用之權益。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/05\/13",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/06\/08",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/06\/13",
+    "SendNumber": "南議建設字第 1110005129號",
+    "DoDesc": "本府就 「 建請市府針對市立圖書館新總館外圍之石椅破損部分進行修繕」案，敬答覆如下：\r\n有關新總館外圍之石椅破損部分， 已於111年4月19日修復完成。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=18f45880-9591-4449-bcf1-850557d07848",
+            "FileName": "議提1附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d24c1e88-ad19-426d-bd3b-93e5758fc820",
+            "FileName": "議提1回覆附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=267ef79d-e0c1-483d-b63a-18ab41695a0c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/06\/21",
+    "ExecuteReNumber": "府文圖字第 1110779164號",
+    "ExecuteReMemo": "本府就 「 建請市府針對市立圖書館新總館外圍之石椅破損部分進行修繕」案，敬答覆如下：\r\n有關新總館外圍之石椅破損部分， 已於111年4月19日修復完成。",
+    "ErrorMessage": ""
+}

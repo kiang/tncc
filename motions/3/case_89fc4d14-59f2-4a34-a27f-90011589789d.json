@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "22",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/05\/09",
+    "ComeNumber": "府經工商字第1110613249號",
+    "OrgTitle": "臺南市政府經濟發展局",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部補助辦理「111年度臺南市工業鍋爐改善補助計畫」，補助經費新臺幣507萬5,000元乙案（中央全額補助新臺幣507萬5,000元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依經濟部111年4月8日經授工字第11120411285號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本府為配合中央改善空氣污染計畫，積極輔導本市轄內工廠汰換燃燒高污染燃料之工業鍋爐改用低污染燃料，補助工廠每座鍋爐更換相關設備49%之費用(50萬元為上限)及管線鋪設49%之費用(20萬元為上限)，爰經濟部核定本市辦理「111年度臺南市工業鍋爐改善補助計畫」經費新臺幣507萬5,000元(中央全額補助，本市無需配合編列款項），因未及納入本府111年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年5月9日第541次市政會議審核通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/06\/30",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/07\/08",
+    "SendNumber": "南議財經字第 1110006730號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=afbb5a48-1944-473b-b5e0-4e13efc52c0d",
+            "FileName": "財經22-111年工業鍋爐補助核定函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2dbf304b-c26d-405f-8727-51acd2ebbc96",
+            "FileName": "財經22-臺南市111年度工業鍋爐改善補助計畫(7座).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=89fc4d14-59f2-4a34-a27f-90011589789d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/05\/31",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/06\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

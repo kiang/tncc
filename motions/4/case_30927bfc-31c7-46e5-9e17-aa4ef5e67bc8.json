@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "10",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2023\/05\/10",
+    "ComeNumber": "府文秘字第1120619851號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送財團法人臺南市孔廟文化基金會111年度決算書，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"附財團法人臺南市孔廟文化基金會111年度決算書。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經財團法人臺南市孔廟文化基金會112年3月16日第3屆第6次暨第4屆第1次董監事聯席會議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府112年4月25日第591次市政會議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "2023\/06\/28",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2023\/07\/07",
+    "SendNumber": "南議建設字第 1120005553號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e5351542-a706-4aa0-b605-3ca35012d4f8",
+            "FileName": "市提10附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=30927bfc-31c7-46e5-9e17-aa4ef5e67bc8&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/05\/29",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2023\/06\/07",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

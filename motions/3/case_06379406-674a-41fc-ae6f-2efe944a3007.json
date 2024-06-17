@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "4",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "「本市太陽光電推動進展與地面型太陽光電對地方之影響」專案報告",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"一、市府推動太陽能光電國家綠能政策，引發諸多地方居民疑慮與抗爭對立事件，市府應深切檢討傾聽地方民意，應積極建立與地方有效的溝通橋樑，主動釐清行政程序、適法性、污染、土地使用等問題，弭平民眾疑慮，並就中央法令未完備明確部分盡速建請中央檢討修正之，以利政策推動與民眾權益保障，創造多贏局面。\"},{\"tag\":\"p\",\"content\":\"二、針對多起光電業者違法情形，市府應主動稽查依法處分，並移送檢調機關偵辦。另外，請市府就不當介入光電案開發等非法行為，主動調查並移送檢調機關偵辦。\"},{\"tag\":\"p\",\"content\":\"三、對於太陽能光電種電地方居民陳抗事件，請市府警察局應本於行政中立、客觀公正原則衡平執法，並加強執法技巧避免執法過當引起爭議。\"},{\"tag\":\"p\",\"content\":\"四、請市府建請中央主管機關就「蘆竹溝社區光電案場爭議事件」召開會議，針對地方相關疑慮與陳情事項，邀請地方居民與業者雙向溝通解決問題。\"},{\"tag\":\"p\",\"content\":\"五、請市府推動地面型太陽能光電依法行政進行審查，對於農地作農業設施容許使用及農地變更使用審查應嚴格把關，控管農漁業土地使用，兼顧長久發展需要，避免影響農業生產經營、生態環境衝擊及地區發展。\"},{\"tag\":\"p\",\"content\":\"六、請市府研議太陽能光電示範區的可行性評估。\"},{\"tag\":\"p\",\"content\":\"七、今日專案報告市府答詢內容資料移送檢調單位。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "照會議結論通過。",
+    "SendDate": "2021\/08\/30",
+    "SendNumber": "南議建設字第 1100007144號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=53b44779-1942-430e-9ca3-67d2f564c594",
+            "FileName": "(004)0813-本市太陽光電推動進展與地面型太陽光電對地方之影響.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9cefac33-70ee-4c4a-a610-0b74f1fe3e17",
+            "FileName": "簡報.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=06379406-674a-41fc-ae6f-2efe944a3007&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照會議結論通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

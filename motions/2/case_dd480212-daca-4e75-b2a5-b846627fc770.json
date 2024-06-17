@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2018\/03\/13",
+    "ComeNumber": "府財務字第1070309328號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送「臺南市政府各機關106年9月1日至107年3月2日先行墊支案件彙整表」，計有民政局等27個機關，共79案計新台幣16億1,586萬9,000元。",
+    "Content": "[]",
+    "Method": "[]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2018\/04\/11",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2018\/04\/19",
+    "SendNumber": "南議財經字第 1070002465號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a753f378-4c71-41f1-9c63-a5a3ce277893",
+            "FileName": "報告事項1-先行墊支案106.9.1-107.3.2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=dd480212-daca-4e75-b2a5-b846627fc770&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2018\/03\/07",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

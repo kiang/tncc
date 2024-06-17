@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "70",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林燕祝",
+    "OrgTitle2": "王家貞、許至椿",
+    "CaseCause": "建請市府盡速規劃辦理永康區大成長城企業搬遷案，還給周圍居民好空氣，提升當地生活品質。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"大成長城企業現位於永康車站北側產業専用區市地重劃區，目前進度為重劃範圍審議階段，市府預計於民國116年完成市地重劃。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"大成長城永康廠生產飼料排出惡臭，嚴重影響附近居民生活品質，當地里民已多次向本服務處檢舉，環保局也多次稽查並且開罰。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"請市府加速辦理並協助大成長城如期完成遷廠，還給居民良好的生活環境。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/10\/03",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/10\/05",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/10\/13",
+    "SendNumber": "南議財經字第 1110012329號",
+    "DoDesc": "本府就「建請市府盡速規劃辦理永康區大成長城企業搬遷案，還給周圍居民好空氣，提升當地生活品質」案，敬答覆如下：\r\n一、 有關民眾反映大成長城企業股份有限公司永康一廠生產飼料排放惡臭氣味，經查大成長城已陸續完成永康廠區畜產飼料廠、油脂廠、經料廠三個生產廠的新建與遷移工程，預計112年底完成水產廠及生技豆粉廠遷廠至柳營科技工業區及官田工業區，永康區永康一廠將停止生產。\r\n二、 貴席關心市政熱忱，本府併予誌謝。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9c7d7735-3b13-4d2b-a18b-1a93ef1e09a5",
+            "FileName": "70.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=95dd1105-8cf8-4d0f-b7b9-9907aa660bf9&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/10\/25",
+    "ExecuteReNumber": "府經工商字第 1111342330號",
+    "ExecuteReMemo": "本府就「建請市府盡速規劃辦理永康區大成長城企業搬遷案，還給周圍居民好空氣，提升當地生活品質」案，敬答覆如下：\r\n一、 有關民眾反映大成長城企業股份有限公司永康一廠生產飼料排放惡臭氣味，經查大成長城已陸續完成永康廠區畜產飼料廠、油脂廠、經料廠三個生產廠的新建與遷移工程，預計112年底完成水產廠及生技豆粉廠遷廠至柳營科技工業區及官田工業區，永康區永康一廠將停止生產。\r\n二、 貴席關心市政熱忱，本府併予誌謝。\r\n",
+    "ErrorMessage": ""
+}

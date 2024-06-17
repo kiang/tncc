@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "15",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2012\/03\/14",
+    "ComeNumber": "府民自字第1010169235號",
+    "OrgTitle": "臺南市政府觀光旅遊局",
+    "OrgTitle2": "",
+    "CaseCause": "制定「臺南市四草水域觀光管筏管理自治條例」敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本自治條例（草案）依據地方制度法第十八條第十款第三目規定制定。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為積極推廣生態觀光旅遊，並落實管理四草水域觀光管筏之載客，保障搭載人員安全，進而賦予相關法源依據，特制定本自治條例。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案經本府101年3月1日第57次市政會議審議通過。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"檢附制定「臺南市四草水域觀光管筏管理自治條例（草案）」。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"審議通過後報經中央各該主管機關核定後公布。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、依觀光旅遊局所送調整後草案(3月22日程委會附帶意見，請於委員會審查本案前補齊相關資料)審查(內容詳附表二)。\r\n二、照案通過",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/06\/22",
+    "SendNumber": "南議法規字第 1010010740號",
+    "DoDesc": "1.本案已於101年7月19日報行政院核定中。\r\n2.行政院101年8月15日函文，因本案業務涉及層面較複雜及彙整意見耗時，故通知本府延長核定期限。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=464c5385-431f-4af7-9a91-00d621c36c45",
+            "FileName": "臺南市四草水域觀光管筏管理自治條例草案（總說明、逐條說明、草案條文).doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4bc69985-2d8a-404e-8daa-739e8d36bd1e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "1.本案已於101年7月19日報行政院核定中。\r\n2.行政院101年8月15日函文，因本案業務涉及層面較複雜及彙整意見耗時，故通知本府延長核定期限。\r\n",
+    "ErrorMessage": ""
+}

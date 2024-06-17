@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "87",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝",
+    "OrgTitle2": "蔡淑惠、林燕祝",
+    "CaseCause": "建請臺南市政府責令土地管理人或管理機關對路樹落花落葉等加強清掃，以確保用路人安全及附近居民健康。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據市民陳情意見辦理。\"},{\"tag\":\"p\",\"content\":\"二、為美化都市景觀或社區環境，工務單位等機關團體常於道路兩旁或空地上種植會開花的喬木，每到花開季節雖則美不勝收，不過落葉落花常造成道路泥濘極易滑倒，令行人安全備受威脅，政府機關接獲反映雖會處理，但也有少數區域權責不明，令鄰近居民飽受困擾。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2021\/05\/14",
+    "CheckDesc": "函送市府研議。",
+    "DoneDate": "2021\/08\/03",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/08\/09",
+    "SendNumber": "南議工務字第 1100005576號",
+    "DoDesc": "本案經市府110年8月23日府工務一字第1100995964號函復：(詳如夾檔)",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9de70d57-6cac-48fd-ab3c-eafa60a75e82",
+            "FileName": "3-5定(議提87)書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=149a5d8d-d506-46c8-89d3-dd0a65c7ae46&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年8月23日府工務一字第1100995964號函復：(詳如夾檔)",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2021\/08\/31",
+    "ComeNumber": "府文藝字第1101043514號",
+    "OrgTitle": "臺南市政府文化局所屬臺南市立圖書館",
+    "OrgTitle2": "",
+    "CaseCause": "檢送109年臺南市美術館績效評鑑分析報告，請查照。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據「臺南市美術館設置自治條例」第30條第2項規定，「…年度績效評鑑報告，應由監督機關提交分析報告，送臺南市議會備查。…」\"},{\"tag\":\"p\",\"content\":\"二、本案業經市府110年8月30日第506次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2021\/11\/24",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "同意備查。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=58c1bdc5-28bb-4aa9-aa1f-23853837e12a",
+            "FileName": "3-6定-109年臺南市美術館績效評鑑分析報告.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6714e5d4-4cfe-4b20-bae2-921763ad9298&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

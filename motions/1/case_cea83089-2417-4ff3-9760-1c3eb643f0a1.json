@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "12",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2012\/02\/01",
+    "ComeNumber": "府民自字第1010060862號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "擬制定「臺南市寬頻管道營運管理自治條例」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據本府100年1月10日府法制字第1000007675號函發「臺南市政府及所屬各機關自治法規新訂及整併作業計畫」辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本市於99年12月25日臺南縣、市合併升格為直轄市，針對寬頻管道之收費，仍依原臺南縣、市所訂定之自治條例各自執行，導致一市兩制之情形，使纜線業者無所適從，因此，本局參考原有之自治條例、其他縣市之相關法規及以往之經驗，爰此，重新檢討訂定「臺南市寬頻管道管理維護自治條例(草案)」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"為加速臺南市寬頻管道建設、提升通訊品質及國際競爭力，並統合市區道路公共設施管線配置，加強道路管理，維護交通安全及市容觀瞻，特制定本自治條例規定使用寬頻管道適用對象、收費方式等相關條文，共計十二條。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本自治條例業經本府100年12月28日第49次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請惠予審議\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、不予通過\r\n二、李退之議員、蔡淑惠議員保留發言權。",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "不予通過",
+    "SendDate": "2012\/06\/22",
+    "SendNumber": "南議法規字第 1010010740號",
+    "DoDesc": "本案已重新提送本市議會第7次臨時會議審議。(已通過)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d4fc80fb-a497-4f4b-ba8b-433af71e1b5e",
+            "FileName": "臺南市寬頻管道管理維護自治條例（草案條文）.doc",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0884d1e9-9de7-41c4-9b83-d162c4e18b5e",
+            "FileName": "臺南市寬頻管道管理維護自治條例（草案）逐條說明.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=cea83089-2417-4ff3-9760-1c3eb643f0a1&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "不予通過",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案已重新提送本市議會第7次臨時會議審議。(已通過)",
+    "ErrorMessage": ""
+}

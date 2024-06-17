@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第4屆 第2次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-追加減預算",
+    "ComeDate": "2023\/03\/07",
+    "ComeNumber": "府主預字第1120293551號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "本市112年度總預算第一次追加(減)預算案業經編製完竣，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據地方制度法、一百十二年度中央及地方政府預算籌編原則規定辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"依據本府111年3月24日府主預字第1110358140號函答覆貴會之決議，將中央政府於111年12月31日前核定經貴會同意之墊付案，以及中央政府於111年12月31日前核定之補助款與因應其他市政需增加相關業務經費，編具完成追加(減)預算案。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本市112年度總預算第一次追加（減）預算案，歲入追加92億7,586萬7千元，追減1億4,333萬3千元，淨追加91億3,253萬4千元，歲出追加70億6,685萬1千元，追減1億953萬4千元，淨追加69億5,731萬7千元；112年度臺南市總預算歲入追加減後預算數1,071億5,574萬元，歲出追加減後預算數1,095億2,345萬1千元，追加減後歲入歲出差短23億6,771萬1千元，差短部分以舉借同額債務支應。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年3月1日第583次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會惠予審議。\"}]",
+    "CheckDate": "2023\/03\/24",
+    "CheckDesc": "詳如各委員會聯席審查意見報告書。",
+    "DoneDate": "2023\/03\/30",
+    "DoneDesc": "照案通過（附帶決議詳附表－見次頁）。",
+    "SendDate": "2023\/04\/06",
+    "SendNumber": "南議財經字第 1120001949號",
+    "DoDesc": "",
+    "AttList": [],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c9ab45ed-137d-4abe-b54f-248d832fde27&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=42382c15-ae0b-40f2-aea2-0c967f7f39eb",
+            "FileName": "各委員會聯席審查意見報告書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c41e55ed-8e77-4b2b-88fc-e23fefa92d02",
+            "FileName": "財經市提1-臺南市112年度總預算第一次追加（減）預算案-附帶決議.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "2023\/03\/13",
+    "ReDesc": "照案通過（附帶決議詳附表－見次頁）。",
+    "FirstDate": "2023\/03\/21",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "2023\/03\/30",
+    "SecondDesc": "照聯席審查意見通過。",
+    "ThirdDate": "2023\/03\/30",
+    "ThirdDesc": "照二讀會決議通過。",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第2次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-法規備查案",
+    "ComeDate": "2019\/09\/03",
+    "ComeNumber": "府法規字第108107491B號",
+    "OrgTitle": "臺南市政府民政局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市公立殯葬設施使用收費標準」第二條附表，請備查。",
+    "Content": "[]",
+    "Method": "[]",
+    "CheckDate": "",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2019\/12\/10",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2019\/12\/24",
+    "SendNumber": "南議法規字第 1080012325號",
+    "DoDesc": "依修正後收費標準辦理。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c761aad6-4459-417c-befc-4801776b64e9",
+            "FileName": "修正「臺南市公立殯葬設施使用收費標準」第二條附表.PDF",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=72ec8163-8a03-473f-9107-508bad14e674&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2019\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "依修正後收費標準辦理。",
+    "ErrorMessage": ""
+}

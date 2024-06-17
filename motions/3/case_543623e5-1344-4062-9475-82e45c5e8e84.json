@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第2次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2019\/10\/24",
+    "ComeNumber": "府財產字第1081159642號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理出售本府經管坐落中西區星鑽段1313-1地號等6筆非公用市有土地，擬依土地法第25條規定完成處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、坐落本市中西區星鑽段13131地號等6筆市有土地，擬依「臺南市市有財產管理自治條例」第50條第1項第1款及第4款規定辦理標售。\"},{\"tag\":\"p\",\"content\":\"二、本案業經本府108年10月22日第411次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "2019\/12\/06",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2019\/12\/10",
+    "DoneDesc": "照審查意見通過",
+    "SendDate": "2019\/12\/19",
+    "SendNumber": "南議財經字第 1080011533號",
+    "DoDesc": "議會同意本府出售處分清冊編號1~6等6筆土地，本府於109年1月16日府財產字第1081511005號函送內政部，行政院於109年2月5日院授內地字第1090004943號函核准本府處分在案，賡續辦理出售案件審議作業。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f3c99712-7c6b-4e2e-8cab-8cabb336e50d",
+            "FileName": "擬處分清冊.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=543623e5-1344-4062-9475-82e45c5e8e84&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過",
+    "FirstDate": "2019\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "議會同意本府出售處分清冊編號1~6等6筆土地，本府於109年1月16日府財產字第1081511005號函送內政部，行政院於109年2月5日院授內地字第1090004943號函核准本府處分在案，賡續辦理出售案件審議作業。",
+    "ErrorMessage": ""
+}

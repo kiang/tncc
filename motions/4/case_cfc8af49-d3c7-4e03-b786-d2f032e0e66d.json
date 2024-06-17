@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "7",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/03\/27",
+    "ComeNumber": "府文秘字第1130452986號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "文化部核定補助本市113年「地方藝文場館及文化資產多元活化計畫-新化演藝廳場館空調設備改善計畫」總經費1,239萬5,000元(中央補助款867萬元、市配合款372萬5,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續作業事宜，俟114年總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據文化部113年2月20日文源字第1133004224號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款：「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案經費1,239萬5,000元(中央補助款867萬元、市配合款372萬5,000元)，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俟114年總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年3月26日第639次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：新化演藝廳空調設備至今已使用14年，因空調主機老舊所產生之運轉及震動噪音，已對表演者及觀眾產生嚴重干擾，亟需進行設備改善，以提升表演、欣賞空間品質。新化演藝廳另一工程案預計於今年9月施工，空調改善期能一併同步施作，以減少施工期過長影響演出，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"謹請貴會同意先行辦理墊付，俟114年總預算時辦理轉正。\"}]",
+    "CheckDate": "2024\/05\/13",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2024\/05\/29",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9deee661-f11d-45a0-94cb-4dfe26d3763d",
+            "FileName": "市提7附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=cfc8af49-d3c7-4e03-b786-d2f032e0e66d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

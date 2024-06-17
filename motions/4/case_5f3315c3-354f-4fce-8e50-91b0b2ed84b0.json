@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "98",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "蔡育輝、王宣貿、施余興望 Tjakumay Tagaw",
+    "CaseCause": "建議永康區中山南路(中華路至中山路口)道路重鋪，且車道配置標線及人行穿越線因磨損無法辨識，易生行車糾紛，請道路重鋪後重新繪製。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"永康區中山南路(南橫公路)如圖，中山南路路段，道路老舊且有多處波浪紋，造成用路人安全上的隱憂，需重鋪，又車道配置標線及人行穿越線早已模糊不清，待道路重鋪後，車道配置標線及人行穿越線一併重新繪製。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/05\/23",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/05\/29",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2024\/06\/05",
+    "SendNumber": "南議工務字第 1130004053號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a876766f-3288-4990-baa2-d37ccf09bcca",
+            "FileName": "4-3定工務議提98附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5f3315c3-354f-4fce-8e50-91b0b2ed84b0&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

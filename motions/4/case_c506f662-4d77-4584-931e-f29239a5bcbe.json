@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "173",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "沈震東",
+    "OrgTitle2": "余柷青、王宣貿、沈家鳳",
+    "CaseCause": "建請市政府水利局協助修復西門路四段1巷及其工程導致路面浮凸問題。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"水利局整修下水道相關設施後，路面回鋪不久便出現浮凸情形，導致用路人騎乘車輛時安全產生疑慮，建請水利局儘速整修，以利市民朋友擁有安全的用路環境。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/06\/02",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/06\/07",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/06\/15",
+    "SendNumber": "南議工務字第 1120004379號",
+    "DoDesc": "",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=292dda5c-ffb5-4fc5-944f-371ead4f38e2",
+            "FileName": "府水污工字第1120832373號函-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c506f662-4d77-4584-931e-f29239a5bcbe&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/08\/24",
+    "ExecuteReNumber": "府水污工字第 1120832373號",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

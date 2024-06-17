@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/02\/24",
+    "ComeNumber": "府環稽字第1120261576號",
+    "OrgTitle": "臺南市政府環境保護局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院環境保護署核定補助本市辦理「112年健全稽查專精能力及專業跨域支援量能-臺南市公害陳情重點查核計畫」新臺幣385萬元(中央補助300萬元(78%)，地方配合款85萬元(22%))墊付款事宜，為爭取時效，敬請同意先行辦理墊付，俟113年度總預算時再予轉正，提請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院環境保護署（以下稱環保署）112年1月13日環署督字第1111182650號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案環保署核定補助總經費為新臺幣385萬元(中央補助300萬元(78%)，地方配合款85萬元(22%))，未及納入本局112年度預算，本案符合上開執行要點規定，擬先行辦理墊付，俟113年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年2月14日第581次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案為藉由增加科學儀器及稽查人力進行稽查蒐證，以杜絕污染、降低陳情件數及作好源頭減量，並依112年1月13日環署督字第1111182650號函，於接獲補助計畫後逾5個月仍未公告招標或逾6個月仍未完成發包工作者，環保署得撤銷補助，並要求於112年12月10日前結案，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"},{\"tag\":\"p\",\"content\":\"\"}]",
+    "CheckDate": "2023\/03\/23",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/03\/30",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/04\/07",
+    "SendNumber": "南議環衛字第 1120001924號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e0b0e97b-56b0-47a8-b07a-3b95582b0c60",
+            "FileName": "4-2臨-環保衛生1號案-附件-環保局-112年健全稽查專精能力及專業跨域支援量能.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=da50b66d-d159-4fe3-b000-adc58b70ed55&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/03\/13",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/03\/21",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

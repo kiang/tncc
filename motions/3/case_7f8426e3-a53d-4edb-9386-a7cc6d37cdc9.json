@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "42",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "Ingay Tali穎艾達利",
+    "OrgTitle2": "周奕齊、林易瑩、陳怡珍、蔡淑惠、周麗津、蔡筱薇、許又仁、郭鴻儀",
+    "CaseCause": "建請臺南市政府修正臺南好停車APP之介面。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"〈臺南好停車APP>即時停車地圖問題如下：\"},{\"tag\":\"p\",\"content\":\"一、要求使用者提供GPS位置時之氣球提示以英文呈現。\"},{\"tag\":\"p\",\"content\":\"二、指示停車率、剩餘格位之氣球內文字訊息未依照氣球之寬度換行，以致出現可滑動之卷軸，需於氣球內向右滑動方能獲得所有資訊。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"一、依照當前手機使用者之系統語言給予對應之語言。\"},{\"tag\":\"p\",\"content\":\"二、將文字訊息侷限於氣球內，使用者無需於氣球內滑動。\"}]",
+    "CheckDate": "2020\/06\/24",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2020\/07\/07",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/07\/15",
+    "SendNumber": "南議保安字第 1090005846號",
+    "DoDesc": "本案經市府109年7月24日府交停管字第1090886264號函復:\r\n一、有關要求使用者提供GPS位置之提示文字，本府交通局業已修正完成，該提示文字將依當前使用者手機所設定之語言給予相應語言提示。\r\n二、有關氣球框內文字訊息，業已改善依照氣球框寬度調整換行，無需向右滑動僅需上下滑動即可查看所有資訊，另本府交通局亦持續研議臺南好停車APP其他介面優化事宜，以帶給民眾更好的使用體驗。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=067e9ada-1a70-4bd6-826f-2c11364ab966",
+            "FileName": "3屆3定---議提42號（交通局）附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7f8426e3-a53d-4edb-9386-a7cc6d37cdc9&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府109年7月24日府交停管字第1090886264號函復:\r\n一、有關要求使用者提供GPS位置之提示文字，本府交通局業已修正完成，該提示文字將依當前使用者手機所設定之語言給予相應語言提示。\r\n二、有關氣球框內文字訊息，業已改善依照氣球框寬度調整換行，無需向右滑動僅需上下滑動即可查看所有資訊，另本府交通局亦持續研議臺南好停車APP其他介面優化事宜，以帶給民眾更好的使用體驗。",
+    "ErrorMessage": ""
+}

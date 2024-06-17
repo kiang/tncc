@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "20",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/05\/04",
+    "ComeNumber": "府農動字第1110593313號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會動植物防疫檢疫局核定本府111年度「畜禽產品安全衛生預警體系計畫」總經費新臺幣164萬8,000元(中央補助款148萬3,000元；市配合款16萬5,000元），其中151萬4,000元整(中央補助款134萬9,000元；市配合款16萬5,000元)因未及納入本府111年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院農業委員會動植物防疫檢疫局111年3月28日防檢一字第1111471145號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款，所使用之支出及配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"(一)本案總經費新臺幣164萬8,000元(中央補助款148萬3,000元；市配合款16萬5,000元），其中151萬4,000元整(中央補助款134萬9,000元；市配合款16萬5,000元)，因未及納入本府111年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要工作項目為本市畜牧場用藥稽查及監測工作之執行等相關工作。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府111年5月3日第540次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算辦理轉正。\"}]",
+    "CheckDate": "2022\/06\/30",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/07\/08",
+    "SendNumber": "南議財經字第 1110006712號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=65289554-bb5f-471b-bf34-862cde67f1d9",
+            "FileName": "2.111年度畜禽產品安全衛生預警體系計畫-墊付會議附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=979c212b-d503-4c88-b041-f93eb1878485&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/05\/31",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/06\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

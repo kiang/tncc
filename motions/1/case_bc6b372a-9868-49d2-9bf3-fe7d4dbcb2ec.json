@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第7次 定期會",
+    "PTypTitle": "民政",
+    "CaseNumber": "7",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "2014\/07\/11",
+    "ComeNumber": "府民生字第1030661302號",
+    "OrgTitle": "蔡育輝",
+    "OrgTitle2": "李文正、林美燕、王峻潭",
+    "CaseCause": "建請改善台南市殯葬管理所柳營區祿園火葬場設備。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、柳營祿園火葬場設備故障，焚燒時冒出大量黑煙，造成當地空氣汙染，引起民怨陳情。\"},{\"tag\":\"p\",\"content\":\"二、上述說明，火葬場排放出大量黑煙，已嚴重影響當地居民的居住品質，以及造成當地地區嚴重的空氣汙染，柳營地區鄉親多次向本席陳情，建請市府重視、民政局儘速改善，避免類似情形再次發生，引起民怨。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2014\/06\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2014\/06\/27",
+    "SendNumber": "南議民政字第 1030004048號",
+    "DoDesc": "依據臺南市政府中華民國103年7月11日府民生字第1030661302號函復：有關本市柳營祿園火化場因設備故障，肇致排放黑煙乙事，本府業已調整鄰近之新營福園火化場以為因應，並於6月10日就該損壞爐具辦理修繕工事，未來本府將視財政負擔量能、公共利益之輕重緩急，及地方居民確切需求，評估整體火化及空污防治設備之更新改善，以符民情。\r\n\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1a742c7e-7f5e-4b69-be5d-5fdf09b1a798",
+            "FileName": "民政7.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=bc6b372a-9868-49d2-9bf3-fe7d4dbcb2ec&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2014\/04\/07",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "依據臺南市政府中華民國103年7月11日府民生字第1030661302號函復：有關本市柳營祿園火化場因設備故障，肇致排放黑煙乙事，本府業已調整鄰近之新營福園火化場以為因應，並於6月10日就該損壞爐具辦理修繕工事，未來本府將視財政負擔量能、公共利益之輕重緩急，及地方居民確切需求，評估整體火化及空污防治設備之更新改善，以符民情。\r\n\r\n",
+    "ErrorMessage": ""
+}

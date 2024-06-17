@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第1次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "10",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡秋蘭",
+    "OrgTitle2": "杜素吟、林阳乙",
+    "CaseCause": "建請市府辦理南45-1線(由45線起經西港區金砂里新寮至佳里區鎮山宮)道路改善工程。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"南45-1線長約3,000公尺，其中約2,000公尺(由45線起經西港區金砂里新寮至佳里區鎮山宮)道路路面老舊，凹陷處遇雨積水破損嚴重，路面顛頗影響行車安全，亟需辦理改善。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2019\/01\/25",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/02\/01",
+    "SendNumber": "南議工務字第 號",
+    "DoDesc": "本案經市府108年2月26日府工養二字第1080202123號函復：(詳夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=426139b5-2fdf-4a4a-bffd-3bcbcec54270",
+            "FileName": "3-1臨(議提10)書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c5e55922-a74a-4942-ae7c-1efdcd49accf&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/01\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府108年2月26日府工養二字第1080202123號函復：(詳夾檔)",
+    "ErrorMessage": ""
+}

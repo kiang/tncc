@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "6",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/08\/17",
+    "ComeNumber": "府工新三字第1110996428號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部工業局核定補助111年度配合新市產業園區開發辦理之南側主要聯絡道路工程計畫，用地需求經費新臺幣4,796萬元（中央補助款3,788萬8,400元，地方配合款1,007萬1,600元），因未及納入111年度總預算，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度追加減預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據經濟部工業局111年5月6日工地字第11100461970號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款規定，經上級政府核定之補助款，所需使用之支出之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：經濟部工業局核定補助111年度配合新市產業園區開發辦理之南側主要聯絡道路工程計畫，用地需求經費計新臺幣4,796萬元（中央補助79%，計新臺幣3,788萬8,400元）（地方配合21%，計新臺幣1,007萬1,600元），為爭取時效，謹請貴會同意先行墊付，俟112年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年8月17日第555次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時再予轉正。\"}]",
+    "CheckDate": "2022\/09\/28",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/10\/05",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/10\/13",
+    "SendNumber": "南議工務字第 1110012337號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fc7c5b9c-502d-4a58-88ce-e5275ff4482e",
+            "FileName": "工務市提6-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c07c2201-df47-4e3a-b239-1f90530b3994&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/08\/23",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/08\/30",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

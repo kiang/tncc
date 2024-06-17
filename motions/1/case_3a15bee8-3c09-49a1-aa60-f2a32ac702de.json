@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第2次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2011\/09\/01",
+    "ComeNumber": "府民自字第1000659621號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理出售本府經管坐落本市官田區官田段293-20地號等3筆非公用市有土地，擬依土地法第25條規定，提請審議。",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審議，同意後報請行政院核准，完成處分程序後於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2011\/12\/08",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2011\/12\/22",
+    "SendNumber": "南議財經字第 1000011604號",
+    "DoDesc": "依土地法第25條規定辦理。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=41e42d2c-8850-400a-94cd-3aa065024179",
+            "FileName": "第一屆第2次定期大會擬處分清冊（提案4）.xls",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3a15bee8-3c09-49a1-aa60-f2a32ac702de&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "依土地法第25條規定辦理。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第4次 臨時會",
+    "PTypTitle": "會務",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "賴議長美惠",
+    "OrgTitle2": "",
+    "CaseCause": "訂定「臺南市議會組織自治條例(草案)」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市議會組織自治條例(草案)為合併改制後之組織及議事運作有所遵循而訂定之。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本自治條例依地方制度法第五十四條第一項及地方立法機關組織準則第三條第一項規定制定之。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市議會組織自治條例(草案)」。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會同意後函報行政院核定，並函知市政府。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2011\/04\/01",
+    "DoneDesc": "一、第二十六條第一項第四款「定期停止出席會議」刪除。\r\n二、第三十五條第二項修正為：未能依前項規定組成黨團之政黨或無黨籍議員，得加入其他黨團或由議員總額五分之一以上之議員合組政團。但每一政團至少須有三人以上。\r\n三、修正通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0847a024-9ac3-439c-bf6a-37b33ebb596b",
+            "FileName": "1-4臨會務1-臺南市議會組織自治條例.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=350ab42e-1f4c-46b9-b3ec-e1f718fcd9d7&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "一、第二十六條第一項第四款「定期停止出席會議」刪除。\r\n二、第三十五條第二項修正為：未能依前項規定組成黨團之政黨或無黨籍議員，得加入其他黨團或由議員總額五分之一以上之議員合組政團。但每一政團至少須有三人以上。\r\n三、修正通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

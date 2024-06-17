@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2020\/10\/14",
+    "ComeNumber": "府財產字第1091207387號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理標售本府經管坐落本市歸仁區南潭段30地號等9筆非公用市有土地，謹依土地法第25條規定之處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、坐落本市歸仁區南潭段30地號等9筆市有土地，擬依「臺南市市有財產管理自治條例」第50條第1項第1款規定辦理標售。\"},{\"tag\":\"p\",\"content\":\"二、本案業經本府109年10月6日第459次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "2020\/11\/27",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/12\/08",
+    "SendNumber": "南議財經字第 1090011255號",
+    "DoDesc": "本府於109年12月17日府財產字第1091492705號函送內政部審核，並經行政院109年12月30日院授內地字第1090071820號函核准本府處分在案，賡續辦理出售案件審議作業。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cfdd9783-2b82-473a-b7eb-cd6f3260b8bb",
+            "FileName": "擬處分清冊.xlsx",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e08def0b-f9df-448a-bfd4-670037cc2d01&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/10\/28",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本府於109年12月17日府財產字第1091492705號函送內政部審核，並經行政院109年12月30日院授內地字第1090071820號函核准本府處分在案，賡續辦理出售案件審議作業。",
+    "ErrorMessage": ""
+}

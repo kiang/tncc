@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第5次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2017\/02\/02",
+    "ComeNumber": "府工養一字第1060144115號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本府「臺南市市區道路管理自治條例」部分條文修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據臺南市法規標準自治條例第9條暨本府第278次市政會議紀錄辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本修正草案，其要點如下：\",\"children\":[{\"order\":\"(一)\",\"content\":\"就本府工務局對市區道路之管理權責增列「等管理事項」及「本市都市計畫區外市道側溝清理」，並明定警察局與環境保護局業管權責。（修正條文第四條）\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"增訂有線電視、行動電話及固定通信網路業者需經管理機關審查核准，始可於市區道路側溝暫掛纜線。（增修條文第二十七條之一）\",\"children\":[]},{\"order\":\"(三)\",\"content\":\"增訂有線電視、行動電話及固定通信網路業者應對設置於市區道路側溝之暫掛纜線等設施物經常性維護，且須將維護成果送管理機關備查。（增修條文第二十七條之二）\",\"children\":[]},{\"order\":\"(四)\",\"content\":\"增訂違反第二十七條之一及第二十七條之二之罰則。（增修條文第二十九條之一、第三十條之一）\",\"children\":[]}]},{\"order\":\"三、\",\"content\":\"本案業經本府106年1月4日第278次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、修正草案對照表第四條說明二內容增加法令依據及障礙物行政協助文字。其增加文字為：『供公眾通行之非計畫道路遭設置障礙物之處理』，倘行為人拒不即時消除道路障礙物，可洽請工務局行政協助，支援人員及機具設備以消除之，以達成行政效能之實質提升目標。\r\n二、第二十九條之一罰鍰金額，由管理機關處新臺幣一萬元以上三萬元以下罰鍰，修正為三萬元以上十萬元以下罰鍰。\r\n三、第三十條之一罰鍰金額，由管理機關處新臺幣六千元以上一萬元以下罰鍰，修正為二萬元以上八萬元以下罰鍰。\r\n四、修正通過。",
+    "DoneDate": "",
+    "DoneDesc": "照審查意見修正通過。",
+    "SendDate": "2017\/07\/06",
+    "SendNumber": "南議法規字第 1060004854號",
+    "DoDesc": "106年7月11日府工養一字第1060719646號函送行政院核定。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4127a48c-625f-4fb2-80a9-ff5fbe4075b4",
+            "FileName": "2-5定市提1-臺南市市區道路管理自治條例部分條文修正草案總說明、對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8d426ba6-b8d0-4d03-ba80-acbab2c3d671&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見修正通過。",
+    "FirstDate": "2017\/04\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "106年7月11日府工養一字第1060719646號函送行政院核定。",
+    "ErrorMessage": ""
+}

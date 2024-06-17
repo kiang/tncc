@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第2次 定期會",
+    "PTypTitle": "民政",
+    "CaseNumber": "2",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "Ingay Tali穎艾達利",
+    "OrgTitle2": "林易瑩、陳碧玉、郭鴻儀",
+    "CaseCause": "建請市府修正臺南市政府資料開放平台之安全性疑慮。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、隨著GoogleChrome瀏覽器(下稱Chrome)版本更新，安全性政策越趨嚴格，網站未正確設置可能造成安全性漏洞，瀏覽器會提出警告甚至阻止進入。(附件一)\"},{\"tag\":\"p\",\"content\":\"二、如附件，Chrome會警告使用者，臺南市政府資料開放平台，可能存在安全漏洞。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"一、此漏洞肇因於data.tainan.gov.tw以加密的通訊協定(https)載入，網頁內卻含有非https的資源。\"},{\"tag\":\"p\",\"content\":\"二、頁面最底下之圖片即是一例。(附件二)(http:\/\/assets.okfn.org\/images\/ok_buttons\/od_80x15_blue.png)\"},{\"tag\":\"p\",\"content\":\"三、將此類資源移除或改為以https的方式載入。\"}]",
+    "CheckDate": "2019\/11\/01",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2019\/12\/10",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/12\/18",
+    "SendNumber": "南議民政字第 1080012098號",
+    "DoDesc": "收文字號：108年12月24日1080012524號\r\n依據臺南市政府108年12月24日府研智字第1081493636號函復：\r\n本府就「建請市府修正臺南市政府資料開放平台之安全性疑慮」案，敬答 覆如下：\r\n有關本府資料開放平台含有非 HTTPS 資源，本府已於本（108）年 10月30日完成全面清查平台並將該類資源移除。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5fc94517-815c-4191-bbc2-05afbc8c46f8",
+            "FileName": "民政2(研考會)---Ingay Tali議員.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6a7ef574-9774-42a4-9da9-ced76e232672&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "收文字號：108年12月24日1080012524號\r\n依據臺南市政府108年12月24日府研智字第1081493636號函復：\r\n本府就「建請市府修正臺南市政府資料開放平台之安全性疑慮」案，敬答 覆如下：\r\n有關本府資料開放平台含有非 HTTPS 資源，本府已於本（108）年 10月30日完成全面清查平台並將該類資源移除。\r\n",
+    "ErrorMessage": ""
+}

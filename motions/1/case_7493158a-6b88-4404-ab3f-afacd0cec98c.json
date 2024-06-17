@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第5次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "8",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2011\/08\/08",
+    "ComeNumber": "府民自字第1000559375號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理出售本府經管坐落本市南區中和段1225地號等3筆非公用市有土地，擬依土地法第25條規定，提請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、坐落本市南區中和段1225地號等3筆市有出租土地，100年總公告現值為11,790,000元（如臺南市政府管有非公用市有土地擬處分清冊(2)），承租人申請價購，擬依臺南縣縣有財產管理自治條例第49條第1項第2款及公有土地經營及處理原則第7點但書第7款規定辦理讓售。\"},{\"tag\":\"p\",\"content\":\"二、本案業經本府100年8月2日第30次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2011\/08\/31",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2011\/09\/05",
+    "SendNumber": "南議財經字第 1000011208號",
+    "DoDesc": "送內政部核准中。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5a2aed1c-bd03-4419-8833-74f162c1f2a8",
+            "FileName": "第一屆第5次臨時大會擬處分清冊（提案8）.xls",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7493158a-6b88-4404-ab3f-afacd0cec98c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "送內政部核准中。",
+    "ErrorMessage": ""
+}

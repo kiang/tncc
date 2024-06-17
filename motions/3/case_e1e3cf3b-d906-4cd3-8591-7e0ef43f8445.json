@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 臨時會",
+    "PTypTitle": "建設",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2020\/12\/14",
+    "ComeNumber": "府農森字第10915365565號",
+    "OrgTitle": "臺南市政府農業局所屬動物防疫保護處",
+    "OrgTitle2": "",
+    "CaseCause": "內政部核定本市「110年度濕地保育補助」總經費170萬元整(內政部補助130萬9000元，市配合款39萬1000元)，因未及納入本府110年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據內政部109年11月26日台內營字第1090820838號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：本案係內政部補助本市辦理二仁溪口濕地保育行動計畫、鯤鯓湖濕地保育及里海推廣計畫、雙春侵蝕海岸暨地層下陷背景環境生物及生態保育行動計畫共三案；中央核定總經費170萬元(內政部補助130萬9000元，市配合款39萬1000元)，因未及納入本府110年度總預算，為爭取時效，謹請貴會同意先行墊付，俟111年度總預算編列後再予轉正。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府109年12月8日第468次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算編列後再予轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2020\/12\/21",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2020\/12\/25",
+    "SendNumber": "南議建設字第 1090013068號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bc10f106-2290-49f1-9893-44528e907e3c",
+            "FileName": "市提1附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e1e3cf3b-d906-4cd3-8591-7e0ef43f8445&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "2020\/12\/14",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

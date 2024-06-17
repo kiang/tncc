@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第2屆 第7次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2018\/04\/13",
+    "ComeNumber": "府衛心字第 1070355834號",
+    "OrgTitle": "臺南市政府衛生局",
+    "OrgTitle2": "",
+    "CaseCause": "衛生福利部補助辦理『107年強化社會安全網補助加害人合併精神疾病(含自殺企圖)服務及加害人處遇協調服務』，市配合款新台幣711萬6,000元辦理墊付，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據「衛生福利部107年3月5日衛受家字第1070102226號」（如附件1）及「衛生福利部107年2月14日衛部會字第1072460095號」函（如附件2）辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第6款之規定，配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"本案總經費1,186萬元整，衛生福利部補助474萬4,000元及市配合款711萬6,000元。其中市配合款711萬6,000元因未及納入預算，為應時效，請貴會同意先行墊付，俾憑辦理後續相關作業事宜。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府107年4月12日第332次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟107年度追加減預算或108年度預算時再予轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "同意墊付。",
+    "DoneDate": "2018\/05\/25",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2018\/06\/04",
+    "SendNumber": "南議建設字第 1070003979號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=03303cba-becf-4d46-aa48-46199cd8a5c7",
+            "FileName": "(附件1)衛福部轉行政院核定社會安全網公文.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5844085d-53d2-4dcc-ab20-dd132ff95f3d",
+            "FileName": "(附件2)107安全網經費補助公文.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=47e0d352-0f46-458a-b5be-b1c74068bf3e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2018\/03\/07",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

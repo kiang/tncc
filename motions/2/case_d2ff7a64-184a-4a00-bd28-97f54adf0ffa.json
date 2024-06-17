@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第8次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2018\/08\/27",
+    "ComeNumber": "府財產字第1070916242號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理出售本府經管坐落本市東山區東原段854地號等20筆非公用市有土地及東山區前大埔2之14號等12筆市有建物，擬依土地法第25條規定完成處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、坐落本市東山區東原段854地號等20筆市有土地及東山區前大埔2之14號等12筆市有建物，擬依「臺南市市有財產管理自治條例」第50條第1項第1款、第2款後段及第3款規定辦理標售。\"},{\"tag\":\"p\",\"content\":\"二、本案業經本府107年8月22日第350次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2018\/11\/27",
+    "DoneDesc": "照審查意見通過。\r\n備註：係經第2屆第12次臨時會第1次會（107年11月27日）決議通過。",
+    "SendDate": "2018\/12\/03",
+    "SendNumber": "南議財經字第 1070008079號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d295a2c7-bd0a-4851-a1a5-8f83ca94095a",
+            "FileName": "市提3-房地標售清冊.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d2ff7a64-184a-4a00-bd28-97f54adf0ffa&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。\r\n備註：係經第2屆第12次臨時會第1次會（107年11月27日）決議通過。",
+    "FirstDate": "2018\/07\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

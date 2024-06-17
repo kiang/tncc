@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第4次 臨時會",
+    "PTypTitle": "會務",
+    "CaseNumber": "4",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "賴議長美惠",
+    "OrgTitle2": "",
+    "CaseCause": "訂定「臺南市議會程序委員會設置辦法(草案)」，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、本辦法依臺南市議會組織自治條例第十八條第一項規定訂定之。\"},{\"tag\":\"p\",\"content\":\"二、本委員會主要設置功能為議事日程之審訂事項、審核各類提案程序是否完備及其內容是否符合本會權責之審查、議案之合併分類及其次序之變更等相關事項。\"},{\"tag\":\"p\",\"content\":\"三、檢附「臺南市議會程序委員會設置辦法(草案)」。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會同意後報行政院備查，並函知市政府。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2011\/04\/01",
+    "DoneDesc": "一、第二條第一項修正為：臺南市議會（以下簡稱本會）設程序委員會，置委員九人，由議長、副議長及本會各種委員會設置辦法第二條第一項第一至第七款之各種委員會於每年第一次定期大會各推一人，以議長為召集人。\r\n二、修正通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=38d98993-a835-443c-a156-7533cec0e7c7",
+            "FileName": "1-4臨會務4-臺南市議會程序委員會設置辦法.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=195c7a96-ab3e-40e1-aba4-cf31af795dbb&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "一、第二條第一項修正為：臺南市議會（以下簡稱本會）設程序委員會，置委員九人，由議長、副議長及本會各種委員會設置辦法第二條第一項第一至第七款之各種委員會於每年第一次定期大會各推一人，以議長為召集人。\r\n二、修正通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

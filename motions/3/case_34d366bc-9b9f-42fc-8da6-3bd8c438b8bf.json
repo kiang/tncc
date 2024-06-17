@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "148",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "尤榮智",
+    "OrgTitle2": "方一峰、王家貞、許至椿、林燕祝",
+    "CaseCause": "市道165線官田區烏山頭至六甲市區道路，路面破損龜裂、凹凸不平，急需辦理改善以利交通。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"市道165線自烏山頭至六甲市區，曾文街路(六甲區部分)路面年久失修，加上管線埋設造成路面破損、凹凸不平，造成行車不便，易造成交通事故。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"瀝青混凝土L=1200公尺、W=18公尺。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府工務局優先納入改善。\"}]",
+    "CheckDate": "2022\/06\/01",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/06\/08",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/06\/24",
+    "SendNumber": "南議工務字第 1110006166號",
+    "DoDesc": "旨案反映路段經詢為市道174線曾文街至六甲監獄路段沿線皆有似管溝沉陷導致之裂縫，另查下地管線圖資查詢結果自來水管線埋設深度約0.6m、中華電信管線埋設深度約1.2m。已於111年7月21日會同臺南市議員尤榮智服務處、台灣自來水股份有限公司第六區管理處、中華電信股份有限公司臺灣南區電信分公司等辦理現勘，本局預計111年8月中旬前辦理試挖釐清，試挖日期將另通知相關管線單位到場確認，後續請相關管線權責單位配合修復改善之。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=772e7693-9485-4287-92f3-ca64402b9af9",
+            "FileName": "21212_1033127A00_ATTCH2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=34d366bc-9b9f-42fc-8da6-3bd8c438b8bf&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/08\/15",
+    "ExecuteReNumber": "府工務二字第 1111033127號",
+    "ExecuteReMemo": "旨案反映路段經詢為市道174線曾文街至六甲監獄路段沿線皆有似管溝沉陷導致之裂縫，另查下地管線圖資查詢結果自來水管線埋設深度約0.6m、中華電信管線埋設深度約1.2m。已於111年7月21日會同臺南市議員尤榮智服務處、台灣自來水股份有限公司第六區管理處、中華電信股份有限公司臺灣南區電信分公司等辦理現勘，本局預計111年8月中旬前辦理試挖釐清，試挖日期將另通知相關管線單位到場確認，後續請相關管線權責單位配合修復改善之。",
+    "ErrorMessage": ""
+}

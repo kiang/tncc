@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第1次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2019\/04\/24",
+    "ComeNumber": "府財稅字第1080493110號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市房屋稅徵收率自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本市108年不動產評價委員會決議，通過本市全國單一自住房屋折減其房屋現值，附帶決議應提高非自住住家用房屋(下稱非自住房屋)之徵收率，為建置配套完整房屋稅制，以落實居住正義，爰依據房屋稅條例第5條規定稅率之範圍內，修正「臺南市房屋稅徵收率自治條例」。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為符合量能課稅原則，依持有非自住房屋戶數多寡訂定差別稅率，2戶以下每戶均為2.4%；3戶以上每戶均為3.6%，經估算房屋稅年稅收約增加4億6,985萬元，受影響人數約為3萬8,025人，平均每戶約增加7,775元。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經108年4月24日市政會議審議通過。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"檢附「臺南市房屋稅徵收率自治條例」修正草案(含草案條文、總說明及修正條文對照表)乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "2019\/05\/27",
+    "CheckDesc": "聯席審查意見：照案通過。",
+    "DoneDate": "2019\/05\/29",
+    "DoneDesc": "本案撤銷。",
+    "SendDate": "2019\/06\/10",
+    "SendNumber": "南議法規字第 1080005548號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=56f63cb9-c64f-406f-a773-1336257d62dc",
+            "FileName": "3-1定市提4-臺南市房屋稅徵收率自治條例修正草案(總說明、對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=56c05465-30ad-413f-bbb8-d224caba7793&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "本案撤銷。",
+    "FirstDate": "2019\/03\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

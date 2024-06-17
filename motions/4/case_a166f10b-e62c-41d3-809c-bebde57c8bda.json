@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "26",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "曾之婕、周奕齊",
+    "OrgTitle2": "陳怡珍、周麗津、林冠維、陳秋萍、吳禹寰、鄭佳欣、趙昆原、杜素吟、李中岑、Ingay Tali 穎艾達利",
+    "CaseCause": "建請於平實公園停車場公車站設置候車亭，以免民眾候車時遭受日曬雨淋。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"頃接獲本市民眾反映，並經實地會勘。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"平實公園停車場公車站周遭地處空曠，但候車民眾遇日曬雨淋完全無處可躲。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"未來平實特色公園將吸引市民前來，公車站使用率將更高，建請設置候車亭讓民眾可以遮陽擋雨。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"請儘速規劃辦理。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如說明。\"}]",
+    "CheckDate": "2023\/11\/27",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/12\/06",
+    "SendNumber": "南議保安字第 1120011575號",
+    "DoDesc": "本府就「建請於平實公園停車場公車站設置候車亭，以免民眾候車時遭受日曬雨淋」案，敬答覆如下：\r\n本府交通局公共運輸處已於112年11月15日辦理現勘，決議建置候車亭，預計於113年3月底前完成，以提供在地民眾良好候車環境。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=29a690bb-e146-4b6b-a00e-bee35242f086",
+            "FileName": "平實公園停車場公車站設置候車亭-曾之婕周奕齊.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a166f10b-e62c-41d3-809c-bebde57c8bda&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/12\/12",
+    "ExecuteReNumber": "府交公運字第 1121622319號",
+    "ExecuteReMemo": "本府就「建請於平實公園停車場公車站設置候車亭，以免民眾候車時遭受日曬雨淋」案，敬答覆如下：\r\n本府交通局公共運輸處已於112年11月15日辦理現勘，決議建置候車亭，預計於113年3月底前完成，以提供在地民眾良好候車環境。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "43",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林志展",
+    "OrgTitle2": "陳秋宏、邱莉莉、呂維胤、李宗翰",
+    "CaseCause": "建請市政府主動協助臺南工廠內之鍋爐轉型，採用能燃燒SRF(固體再生燃料）之鍋爐。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"「固體再生燃料」（SolidRecoveredFuel，簡稱SRF），可解決高熱值廢棄物處理、減少化石原料及燃料開採。SRF由塑料與生質物（如廢紙、木材與其他木質纖維廢棄物）等非有害且具適燃性物質回收轉製，具有低環境衝擊、低燃料成本、並可應用於高能源效率鍋爐及燃燒設施等三大優勢，相較於煤炭，SRF作為燃料更能達成減碳之效。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請經發局輔導本市轄內工廠汰換燃燒高污染燃料之工業鍋爐改用低污染燃料時，能採用可燃燒SRF之鍋爐。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/06\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/07\/08",
+    "SendNumber": "南議財經字第 1110006596號",
+    "DoDesc": "本府就「建請市政府主動協助臺南工廠內之鍋爐轉型，採用能燃燒SRF(固體再生燃料)之鍋爐」案，敬答覆如下：\r\n一、本府於107-110年間已輔導本市工廠使用高汙染燃料446座工業鍋爐改為使用低汙染燃料，另本市尚有少數使用燃煤之工業鍋爐，皆已安裝空污防治設備，且符合環保署所訂定空污之排放標準，本府亦持續輔導廠商採用低污染燃料(固體再生燃料) ，以符合減碳政策之目標。\r\n二、承蒙貴會議席對市政之關切，本府至為感謝，尚請不吝賜教\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4e9d8ee4-a12b-445e-96ac-1c05a8f27a9d",
+            "FileName": "43.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=88d53e1d-6769-4ada-8574-483f060bad1c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/08\/09",
+    "ExecuteReNumber": "府經工商字第 1110946930號",
+    "ExecuteReMemo": "本府就「建請市政府主動協助臺南工廠內之鍋爐轉型，採用能燃燒SRF(固體再生燃料)之鍋爐」案，敬答覆如下：\r\n一、本府於107-110年間已輔導本市工廠使用高汙染燃料446座工業鍋爐改為使用低汙染燃料，另本市尚有少數使用燃煤之工業鍋爐，皆已安裝空污防治設備，且符合環保署所訂定空污之排放標準，本府亦持續輔導廠商採用低污染燃料(固體再生燃料) ，以符合減碳政策之目標。\r\n二、承蒙貴會議席對市政之關切，本府至為感謝，尚請不吝賜教\r\n",
+    "ErrorMessage": ""
+}

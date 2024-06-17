@@ -1,0 +1,54 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2024\/05\/09",
+    "ComeNumber": "府工使一字第1130672485號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南市騎樓地使用管理自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"案係本市議會為明確規範騎樓之停車及商業使用，以衡平民眾財產權及供公眾通行之利益，於113年3月26日召開「臺南市騎樓管理使用自治條例」草案公聽會，依會議紀錄主席裁示請臺南市政府提出一版本與該自治條例併案審查，爰擬具「臺南市騎樓地使用管理自治條例」草案。全文共計八條。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府113年5月7日第645次市政會議審議通過。檢附「臺南市騎樓地使用管理自治條例」草案總說明、草案逐條說明、草案條文。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=688ed0d6-ba9f-49b3-b673-dc67e93a8b0d",
+            "FileName": "4-3定-巿提5號案附件---臺南市騎樓地使用管理自治條例草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=47da5f0d-21a2-4b05-9e94-9e333b44f55e",
+            "FileName": "4-3定-巿提5號案---臺南市騎樓地使用管理自治條例草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5939a504-a504-4305-8d99-b41d151cfccc&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=95863a46-35f1-4955-832b-9b03d1514fa8",
+            "FileName": "1130517---4-3 定騎樓會議紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "2024\/05\/17",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

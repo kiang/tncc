@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "18",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/05\/15",
+    "ComeNumber": "府農工字1130699149 號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "農業部核定本府113年度「農村道路品質提升計畫」案450萬元(中央全額補助)，因未及納入113年度總預算，為爭取時取，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據農業部113年4月12日農授農保字第1132663092號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"所需新臺幣450萬元(中央全額補助)，因未及納入本府113年度總預算，需俟114年度總預算時辦理轉正，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要工作項目為改善農路品質，保障農特產品運輸便利及農民生命財產安全，確保農業永續發展等相關工作。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府113年5月14日第646次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案理由：因工程辦理有其急迫性，較無法將計畫放至隔年度待隔年度預算轉正後辦理，恐有災害擴大或預算金額需重新概估疑慮。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=19b2826b-feb3-450b-9a43-eb9cd6414b45",
+            "FileName": "財經18-附件1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6944ac5e-d765-48d6-96da-be5540144e79",
+            "FileName": "財經18-附件2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=74f1793d-5356-4afb-93e0-3cee403a8d55&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "",
+    "FirstDate": "2024\/05\/29",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

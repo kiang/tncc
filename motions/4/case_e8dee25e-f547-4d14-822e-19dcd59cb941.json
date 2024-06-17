@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "8",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/02\/17",
+    "ComeNumber": "府經場工字第1130282103號",
+    "OrgTitle": "臺南市政府經濟發展局",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部核定本市「臺南市仁德區中洲公有零售市場建築物耐震能力拆除重建申請補助計畫」經費新臺幣1,216萬4,000元（中央補助款1,033萬9,000元、市配合款182萬5,000元）乙案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據經濟部113年1月19日經授商字第11304400730號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：所需總經費新臺幣1,216萬4,000元整(中央補助款1,033萬9,000元及本府配合款182萬5,000元)，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俟114年總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年2月15日第633次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案為「臺南市仁德區中洲公有零售市場建築物耐震能力拆除重建申請補助計畫」，為達建築物耐震能力標準，並符合中央補助計畫期程(核定補助案件期程需於113年7月底前完成規劃設計發包，114年7月底前工程竣工)，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2024\/03\/08",
+    "CheckDesc": "聯席審查意見：提請大會討論。",
+    "DoneDate": "2024\/03\/15",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2024\/03\/21",
+    "SendNumber": "南議財經字第 1130001620號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f3b9ef0c-fc13-482c-86ab-24d13ba40b0f",
+            "FileName": "附件-財經第8號案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e8dee25e-f547-4d14-822e-19dcd59cb941&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/02\/23",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "2024\/03\/06",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

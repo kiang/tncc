@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第4次 定期會",
+    "PTypTitle": "臨時動議",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-其他",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "盧崑福",
+    "OrgTitle2": "曾順良、林燕祝、林全忠、陳文科、杜素吟",
+    "CaseCause": "為維護國家領土的完整，不分黨派，應強烈要求日本政府歸還釣魚台列嶼，必要時請中央政府採取強硬手段。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、1872年清朝同治11年，臺灣知府周懋琦所著「全台圖說」，內容清楚記載「山後大洋有嶼名釣魚台，可泊巨舟十餘艘」，有圖為證，釣魚台列嶼自古隸屬臺灣。\"},{\"tag\":\"p\",\"content\":\"二、日本於甲午戰爭時，趁機兼併釣魚台列嶼，是違反國際法的侵略行為，且當時未經日本天皇發布敕令昭告世界，這是「竊占」行為，在國際法上自始無效。\"},{\"tag\":\"p\",\"content\":\"三、領土主權是國家至高無上的表徵，日本政府今天將釣魚台國有化，明顯侵害中華民國主權。\"},{\"tag\":\"p\",\"content\":\"四、過去宜蘭漁民只要不在釣魚台海域12浬內作業，就不會遭驅逐；如今日本政府將釣魚台列嶼收歸國有，其經濟海域一定更往台灣沿海延伸，多數漁民已經受不了迫害。(2001年至2011年期間，日本扣押臺灣漁船事件如附表)\"},{\"tag\":\"p\",\"content\":\"五、1972年美國要將?繩（琉球）歸還給日本前，當時與美國有邦交的中華民國透過外交管道，要求美國將釣魚台列嶼及?繩島切割處理，反對釣魚台列嶼被納入日本。\"},{\"tag\":\"p\",\"content\":\"六、內政部在民國60年12月2日已有公文（台六十內字第11676號令）核定本為無主地的釣魚台列嶼隸屬宜蘭縣政府，在民國63年1月將釣魚台列嶼劃歸宜蘭縣頭城鎮大溪里。\"},{\"tag\":\"p\",\"content\":\"七、馬英九總統表示：1895年前釣魚台是清廷領土，無可置疑，是日本侵佔了我們的釣魚台，沒有國際法上的效力；總統說：他採取很正確的做法，「主權在我、擱置爭議、和平互惠、共同開發」，符合國際法上要求各國以和平方式解決爭端。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2012\/09\/27",
+    "DoneDesc": "照案通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5c9aae6e-8b50-491d-bae0-e99fac57a24c",
+            "FileName": "提案附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=cd35f2ac-ffda-4a28-96a6-989633fd300c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照案通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第3次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/07\/26",
+    "ComeNumber": "府交交管字第1120972786號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部核定「行人及高齡者友善示範區」，總經費新臺幣797萬元整(中央補助450萬元整、市配合款347萬元整)，因未及納入本局112年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據交通部112年3月17日交安發字第1125003646號暨112年7月19日交安字第1125009920號函辦理，惟針對本局所提之計畫需由交通部(以下簡稱中央)補助本市經費之核定一節，中央業於7月19日核定執行計畫之申請補助經費。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"旨案計畫中央核定補助總經費為新臺幣797萬元（中央補助450萬元、市配合款347萬元），核定執行計畫項目臚列如下:\",\"children\":[{\"order\":\"(一)\",\"content\":\"計畫名稱：「新營區中正路\/武昌街路口」，總經費新臺幣203萬元整(中央補助新臺幣150萬元整、市配合款新臺幣53萬元整)。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"計畫名稱：「新營區中正路\/三民路口」，總經費新臺幣353萬元整(中央補助新臺幣150萬元整、市配合款新臺幣203萬元整)。\",\"children\":[]},{\"order\":\"(三)\",\"content\":\"計畫名稱：「新營區中正路\/綠川北街路口」，總經費新臺幣241萬元整(中央補助新臺幣150萬元整、市配合款新臺幣91萬元整)。\",\"children\":[]}]},{\"order\":\"三、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」，因未及納入本局112年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年7月24日第604次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由:依交通部來函說明補助計畫應於112年11月30日前完成結報核銷，爰本案有時效上之急迫性，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/08\/11",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/08\/17",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/08\/25",
+    "SendNumber": "南議保安字第 1120007927號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9796fd76-a401-4208-9b03-a810380905f4",
+            "FileName": "交通部核定函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4d34eda9-9605-442d-9c99-de6163616601",
+            "FileName": "臺南市行人及高齡者友善示範區補助計畫.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=219a87e2-a532-486e-aed7-1cb99e7eab5c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/08\/01",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/08\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

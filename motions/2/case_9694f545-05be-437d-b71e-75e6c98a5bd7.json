@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "3",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "張世賢",
+    "OrgTitle2": "蔡育輝、洪玉鳳",
+    "CaseCause": "建請市府儘速辦理「後壁區平安里菁寮大排(高速公路東)護岸改善工程」，以維農民田園生命財產安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、該案經年汛期洪水掏刷，且又位於雙排匯合處，現已出現土堤崩塌流失現象，嚴重影響鄰近農田。\"},{\"tag\":\"p\",\"content\":\"二、市府水利局主秘蔡國銓於106.09.12已會勘，建請儘速改善。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2017\/11\/29",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2017\/12\/08",
+    "SendNumber": "南議工務字第 1060008400號",
+    "DoDesc": "本案經市府107年2月12日府水行字第1070202455號函復：\r\n(書面答覆詳如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=05f49986-79c4-44e0-bccf-935c5c9f354b",
+            "FileName": "2-6定期大會-工務第3號.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9694f545-05be-437d-b71e-75e6c98a5bd7&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2017\/09\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府107年2月12日府水行字第1070202455號函復：\r\n(書面答覆詳如夾檔)",
+    "ErrorMessage": ""
+}

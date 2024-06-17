@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第12次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/02\/16",
+    "ComeNumber": "府衛國健字第1110063351號",
+    "OrgTitle": "臺南市政府衛生局",
+    "OrgTitle2": "",
+    "CaseCause": "衛生福利部國民健康署核定本市111年銀髮健身俱樂部補助計畫總經費新台幣681萬9,000元整(中央補助600萬，地方自籌81萬9,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據衛生福利部國民健康署110年12月17日國健社字第1100260853A號函辦理（如附件）。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第第4款：經上級政府核定之補助款，所使用之支出、第6款：配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費新台幣681萬9,000元整(中央補助600萬，地方自籌81萬9,000元)，因未及納入本府111年度總預算，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年1月11日第525次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/03\/11",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/03\/25",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/03\/31",
+    "SendNumber": "南議環衛字第 1110002620號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ed23b77e-84b4-402c-9d38-70b8b09678f5",
+            "FileName": "3-12臨-市提4號附件-核定函(銀髮健身俱樂部).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d05bc39b-4208-4248-a5d2-dca5e333e713",
+            "FileName": "3-12臨-市提4號案-計畫書(銀髮健身俱樂部).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3067acb4-af6e-4322-a662-89900c57f6d4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/03\/09",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

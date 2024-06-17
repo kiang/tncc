@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第2次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "12",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2011\/10\/25",
+    "ComeNumber": "府工管一字第1000827774號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "擬制定「臺南市建築爭議事件處理及評審自治條例」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據本府100年1月10日府法制字第1000007675號函發「臺南市政府及所屬各機關自治法規新訂及整併作業計畫」辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為因應縣市合併及減少訟源，重新訂定「臺南市建築爭議事件處理及評審自治條例」（草案），並廢止99年12月25日公告繼續適用「臺南市建築爭議事件處理及評審自治條例」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本自治條例業經本府100年10月20日第40次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請惠予審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、修正第六條及第八條（修正內容詳附表）\r\n二、刪除第十條（內容詳附表）\r\n三、餘照案通過。",
+    "DoneDate": "2011\/12\/08",
+    "DoneDesc": "一、除第八條修正為：損鄰事件，申訴戶房屋邊緣與舊建築物拆除及工地開挖境界線之水平最短距離大於開挖深度三倍以上者，不受理其申請。但申訴人自行委託專業鑑定機構鑑定確屬施工所致損壞者，不在此限（修正內容詳附表）。\r\n二、餘照審查意見修正通過（修正內容詳附表）。",
+    "SendDate": "2011\/12\/28",
+    "SendNumber": "南議法規字第 1000011663號",
+    "DoDesc": "本案已修正並於101年1月31日以府法規字第110073732A號公布，並於101年2月4日以府工管一字第1010081895號函送內政部轉行政院備查。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3caa9013-6674-477b-916e-3779e54cce2b",
+            "FileName": "1-2定市提12大會決議附表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f8d88ea3-fa17-40b7-a51f-9082ca4d0c1b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "一、除第八條修正為：損鄰事件，申訴戶房屋邊緣與舊建築物拆除及工地開挖境界線之水平最短距離大於開挖深度三倍以上者，不受理其申請。但申訴人自行委託專業鑑定機構鑑定確屬施工所致損壞者，不在此限（修正內容詳附表）。\r\n二、餘照審查意見修正通過（修正內容詳附表）。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案已修正並於101年1月31日以府法規字第110073732A號公布，並於101年2月4日以府工管一字第1010081895號函送內政部轉行政院備查。",
+    "ErrorMessage": ""
+}

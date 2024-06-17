@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第2次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "72",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "黃麗招",
+    "OrgTitle2": "林阳乙、杜素吟、陳碧玉",
+    "CaseCause": "建請工務局翻修安中路二段200巷道路。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"安中路二段200巷道路使用多年，路面龜裂嚴重，影響行車安全，亟需進行路面翻修。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2019\/11\/05",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2019\/12\/10",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/12\/18",
+    "SendNumber": "南議工務字第 1080011603號",
+    "DoDesc": "本案經市府108年12月25日府工務一字第1081480150號函復：(詳如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=614916b9-c478-4740-a243-29fde9ecd368",
+            "FileName": "3-2定(議提72)書面答覆.PDF",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=529ec348-a9f1-43ca-9969-9843a1119bfc&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府108年12月25日府工務一字第1081480150號函復：(詳如夾檔)",
+    "ErrorMessage": ""
+}

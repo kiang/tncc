@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "194",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳昆和",
+    "OrgTitle2": "杜素吟、盧崑福、方一峰、蔡秋蘭、周奕齊、林阳乙",
+    "CaseCause": "國聖橋北上交流道右轉接173線路面嚴重塌陷破損案。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、該路段嚴重破損下陷，需改善以維護用路人之往來安全。\"},{\"tag\":\"p\",\"content\":\"二、該段水溝下陷，無法正常宣洩排水，過雨積水成災，需重新施作改善。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2021\/08\/11",
+    "CheckDesc": "函送市府研議。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/08\/26",
+    "SendNumber": "南議工務字第 1100006271號",
+    "DoDesc": "本案經市府110年9月28日府工務三字第1101136648號函復：\r\n本府工務局於110年7月7日邀集陳昆和議員及七股區公所於現地辦理「國姓橋北上交流道右轉接173線路面塌陷」在案，並於110年8月18日派工進行AC破損處刨鋪修復，於修復時重新調整該處洩水坡度，提升行車舒適度。\r\n本案於AC刨除時確認側溝頂版無破損，惟路中清掃孔格柵經車輛碾壓有調整需求，已於AC刨鋪後重新調整齊平。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e22df162-2e21-49d3-95a6-5b7f27a698b7",
+            "FileName": "議提194附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4a3254b8-0fbd-4edd-8fe4-7955e901a6e4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年9月28日府工務三字第1101136648號函復：\r\n本府工務局於110年7月7日邀集陳昆和議員及七股區公所於現地辦理「國姓橋北上交流道右轉接173線路面塌陷」在案，並於110年8月18日派工進行AC破損處刨鋪修復，於修復時重新調整該處洩水坡度，提升行車舒適度。\r\n本案於AC刨除時確認側溝頂版無破損，惟路中清掃孔格柵經車輛碾壓有調整需求，已於AC刨鋪後重新調整齊平。\r\n",
+    "ErrorMessage": ""
+}

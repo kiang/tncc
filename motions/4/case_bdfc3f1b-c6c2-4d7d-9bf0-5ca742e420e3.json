@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2023\/09\/28",
+    "ComeNumber": "府文秘字第1121266178 號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送財團法人臺南市孔廟文化基金會113年度預算書，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"附財團法人臺南市孔廟文化基金會113年度預算書。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經財團法人臺南市孔廟文化基金會112年9月21日第4屆第2次董監事聯席會議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府112年9月26日第613次市政會議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "2023\/12\/18",
+    "CheckDesc": "聯席審查意見：照案通過",
+    "DoneDate": "2023\/12\/21",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4b171e4c-9be9-4da7-8a92-48e7e83db5a2",
+            "FileName": "市提4附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=bdfc3f1b-c6c2-4d7d-9bf0-5ca742e420e3&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/10\/19",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2023\/10\/27",
+    "FirstDesc": "交付聯席審查，併同列入113年度總預算案聯審議程。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

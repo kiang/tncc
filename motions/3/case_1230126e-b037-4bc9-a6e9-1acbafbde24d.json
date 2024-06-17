@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "50",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "張世賢、蔡淑惠",
+    "OrgTitle2": "王家貞、尤榮智、方一峰、盧崑福、李中岑、周奕齊",
+    "CaseCause": "白河區廣蓮里(玉豐高幹192左3)新建排水溝工程乙案。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"目前白河區屬於農業區村里，區內汲水溝及排水溝很多都處於待修狀態，建請市府應就市內進行通盤檢討改善。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"110年已將本案通報區公所及工務局會勘，但遲遲未有下文。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"現今又進入雨汛時期，該排水已大部分損壞，且有危險的急迫性。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"建請儘速編列預算設計發包改善。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/08\/26",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/08\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/09\/06",
+    "SendNumber": "南議工務字第 1110010195號",
+    "DoDesc": "本案本府工務局已於110年10月19日勘查完畢，既有道路側溝老舊，建議側溝改建L*W *H =140m*1.0m*1.0m及PC路面，估需經費200萬元，本府工務局將籌措經費並委由公所辦理。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=576760b3-9880-4d86-b37e-440a06fad70f",
+            "FileName": "3-8定工務議提50附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1230126e-b037-4bc9-a6e9-1acbafbde24d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/09\/19",
+    "ExecuteReNumber": "府工養二字第 1111179244號",
+    "ExecuteReMemo": "本案本府工務局已於110年10月19日勘查完畢，既有道路側溝老舊，建議側溝改建L*W *H =140m*1.0m*1.0m及PC路面，估需經費200萬元，本府工務局將籌措經費並委由公所辦理。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "會務",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "郭議長信良",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市議會錄影、錄音管理規則」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為配合地方立法機關組織準則第25條議事透明規定自109年1月1日生效，並依據內政部108年12月10日台內民字第10802258061號函，請本會儘速配合辦理檢討修正相關條文。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"檢附「臺南市議會錄影、錄音管理規則」修正草案總說明、修正草案條文對照表及修正草案各1份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會同意後報行政院備查，並函知市政府。\"}]",
+    "CheckDate": "2020\/05\/29",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2020\/07\/07",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/07\/22",
+    "SendNumber": "南議法研字第 1090006039號",
+    "DoDesc": "臺南市議會109年7月22日南議法研宇第1090006039號令修正發布第5條、第6條。\r\n行政院109年9月1日院臺綜宇第1090027555號函同意備查。\r\n\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4f4288e8-a991-4a8b-acbd-284f047558dd",
+            "FileName": "1090311錄影、錄音管理規則草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=41809ad0-1fd6-4ad7-a4cb-71e8509e4545",
+            "FileName": "1090311錄影管理規則修正總說明.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e25a7fa5-256c-4848-bd1c-74eea57fcb7f",
+            "FileName": "1090311錄影音管理規則修正對照表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a35a72ed-a3c7-4332-b857-de6c34b6b7f6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "臺南市議會109年7月22日南議法研宇第1090006039號令修正發布第5條、第6條。\r\n行政院109年9月1日院臺綜宇第1090027555號函同意備查。\r\n\r\n",
+    "ErrorMessage": ""
+}

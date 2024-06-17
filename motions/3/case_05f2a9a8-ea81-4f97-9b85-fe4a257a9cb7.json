@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "13",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/05\/04",
+    "ComeNumber": "府都景字第1100515001號",
+    "OrgTitle": "臺南市政府都市發展局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部營建署核定本市「城鎮風貌及創生環境營造計畫」競爭型提案計畫補助總經費新台幣7,500萬元(中央補助款6,000萬元，地方配合款1,500萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據內政部110年4月14日台內營字第1100805617號函。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4、6款之規定，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"本次墊付經費係核定本市辦理「新化風情小鎮。人文水綠廊道」競爭型計畫總經費新台幣7,500萬元(中央補助款6,000萬元，地方配合款1,500萬元)，因未及納入本府110年度總預算，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年4月20日第487次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2021\/08\/25",
+    "SendNumber": "南議工務字第 1100006433號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d1b62978-e3f8-4178-bdd8-f142ec60732b",
+            "FileName": "市提6-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=05f2a9a8-ea81-4f97-9b85-fe4a257a9cb7&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

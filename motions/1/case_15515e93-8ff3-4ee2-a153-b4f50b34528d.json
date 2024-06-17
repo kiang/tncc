@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2012\/02\/01",
+    "ComeNumber": "府民自字第1010060862號",
+    "OrgTitle": "臺南市政府衛生局",
+    "OrgTitle2": "",
+    "CaseCause": "擬制定「臺南市營業衛生管理自治條例」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本自治條例主要適用之特定行業別，包括旅館業、美容美髮業、浴室業、娛樂業、電影片映演業、游泳業等，涵蓋營業場所之共同衛生規範、標準消毒方法、從業人員健康檢查、衛生管理人員教育訓練及各業別之衛生規範。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本市於縣市合併前，均無制定營業衛生管理相關之法規，為有效加強管理營業衛生，維護市民健康，制定本市營業衛生管理自治條例實刻不容緩，希望能夠藉由本自治條例協助業者建立自主衛生管理制度，杜絕傳染疾病蔓延，讓市民享有衛生安全的營業場所。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本自治條例業經本府100年11月23日第44次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請惠予審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/06\/22",
+    "SendNumber": "南議法規字第 1010010740號",
+    "DoDesc": "已於101年7月4日以府衛疾字第10100551703號函報請行政院准予核定；101年7月30日行政院以院臺衛字第1010047888號函回覆有關本府提報制定「臺南市營業衛生管理自治條」核定一案，因該院有關機關認有應予釐清之處，須較長時間審查，爰依「地方制度法」第32條第3項但書規定延長核定期限，因此本案現仍待行政院通知核定結果，俾利辦理後續法制程序作業。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=93d352f6-2594-4764-9c1f-f1ce96edc019",
+            "FileName": "臺南市營業衛生管理自治條例(總說明、逐條說明、草案條文).doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=15515e93-8ff3-4ee2-a153-b4f50b34528d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "已於101年7月4日以府衛疾字第10100551703號函報請行政院准予核定；101年7月30日行政院以院臺衛字第1010047888號函回覆有關本府提報制定「臺南市營業衛生管理自治條」核定一案，因該院有關機關認有應予釐清之處，須較長時間審查，爰依「地方制度法」第32條第3項但書規定延長核定期限，因此本案現仍待行政院通知核定結果，俾利辦理後續法制程序作業。",
+    "ErrorMessage": ""
+}

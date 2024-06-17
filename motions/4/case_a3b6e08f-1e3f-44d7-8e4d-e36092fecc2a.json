@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第3次 臨時會",
+    "PTypTitle": "建設",
+    "CaseNumber": "8",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/07\/25",
+    "ComeNumber": "府都住字第1120958416號",
+    "OrgTitle": "臺南市政府都市發展局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部營建署補助本市辦理112年度（增加)住宅補貼業務推動費，經費新臺幣3,501萬6,000元（全額中央補助），謹請貴會同意先行墊付，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部營建署112年6月2日營署宅字第1121126956號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"內政部營建署補助本市辦理112年度（增加)住宅補貼業務推動費，所需經費新臺幣3,501萬6,000元（全額中央補助），因未及納入本府112年度總預算及追加減預算，為爭取時效，謹請貴會同意先行墊付，俟113年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年7月18日第603次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案急性理由：「300億元中央擴大租金補貼專案計畫」已於112年7月3日開辦，開辦期間需要大量人力、物力以服務所需民眾，本市111年度申辦共計2.6萬戶，中央據以增加補助業務推動費，依112年6月2日營署宅字第1121126956號函，於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/08\/11",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/08\/17",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/08\/23",
+    "SendNumber": "南議建設字第 1120007801號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=456d31ff-6d56-4510-939b-dc44ce6d6f27",
+            "FileName": "核定函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bdcd1c0a-4845-48ce-a6f3-6d5b65963f23",
+            "FileName": "附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a3b6e08f-1e3f-44d7-8e4d-e36092fecc2a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/08\/01",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/08\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

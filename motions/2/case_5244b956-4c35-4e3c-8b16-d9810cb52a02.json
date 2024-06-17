@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第4次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2016\/11\/18",
+    "ComeNumber": "府財產字第1051142823號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理出售本府經管坐落本市西港區西港堡段96地號等13筆非公用市有土地，擬依土地法第25條規定完成處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、市有土地鄰地所有權人檢附畸零地合併使用證明書申請承購坐落本市西港區西港堡段96地號等6筆市有土地，擬依「臺南市市有財產管理自治條例」第51條規定辦理讓售。\"},{\"tag\":\"p\",\"content\":\"二、市有土地承租人申請承購坐落本市麻豆區中興段221-5地號等7筆市有土地，擬依「臺南市市有財產管理自治條例」第50條第1項第2款規定辦理讓售。\"},{\"tag\":\"p\",\"content\":\"三、本案業經本府105年11月9日第271次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2016\/12\/23",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2016\/12\/27",
+    "SendNumber": "南議財經字第 1050009037號",
+    "DoDesc": "一、西港區西港堡段96地號6筆市有畸零地業已依土地法25條規定送請行政院核准處分在案，賡續辦理出售案件審議作業辦理出售。\r\n二、餘麻豆區中興段221-5地號等7筆市有土地業已依土地法25條規定送請行政院在案，經內政部函請依依文化資產保存法第15條規定，先由主管機關進行文化資產價值評估，再予送內政部審查。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9e0ec2d8-a10a-44c8-b277-62af2e042fee",
+            "FileName": "第2屆第4次定期會擬處分清冊（提案2）.xlsx",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5244b956-4c35-4e3c-8b16-d9810cb52a02&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2016\/10\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "一、西港區西港堡段96地號6筆市有畸零地業已依土地法25條規定送請行政院核准處分在案，賡續辦理出售案件審議作業辦理出售。\r\n二、餘麻豆區中興段221-5地號等7筆市有土地業已依土地法25條規定送請行政院在案，經內政部函請依依文化資產保存法第15條規定，先由主管機關進行文化資產價值評估，再予送內政部審查。\r\n",
+    "ErrorMessage": ""
+}

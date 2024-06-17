@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第4次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2012\/09\/12",
+    "ComeNumber": "府民自字第1010713933號",
+    "OrgTitle": "臺南市政府警察局",
+    "OrgTitle2": "",
+    "CaseCause": "制定「臺南市性交易服務者及性交易場所管理自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為因應一百年十一月四日總統公布之社會秩序維護法第八十條、第八十一條及第九十一條之一修正案，並符合「公民與政治權利國際公約」第二十六條所揭示有關平等原則及禁止歧視之意旨，爰依本市目前合法之性交易場所1處、性交易服務者2名等社會現況，並參酌原臺南市管理娼妓自治條例，制定本自治條例，以為縣市合併後法規之適用。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府101年9月12日第81次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市性交易服務者及性交易場所管理自治條例草案」（含總說明及逐條說明）乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/12\/19",
+    "SendNumber": "南議法規字第  1010011416 號函號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9e1b5e3c-831e-469d-9cfd-e4414881e71a",
+            "FileName": "1-4定市提1-臺南市性交易服務者及性交易場所管理自治條例(總說明、逐條說明、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3d774acd-8bd6-46c0-8a5a-e84054729fb4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

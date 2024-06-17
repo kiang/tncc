@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/03\/22",
+    "ComeNumber": "府地農字第1130386232號",
+    "OrgTitle": "臺南市政府地政局",
+    "OrgTitle2": "",
+    "CaseCause": "農業部農田水利署核定本市113年度「農地重劃區緊急農水路改善-地方政府執行」計畫案經費增加新台幣1,282萬1,000元(中央補助款78%計1,000萬元，本市配合款22%計282萬1,000元)，因未及納入113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據農業部農田水利署113年3月8日農水建字第1138047138號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」，與第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本計畫核定經費新台幣1億3,647萬513元(中央補助款新台幣1億644萬7,000元整，本市配合款新台幣3,002萬3,513元)，本局113年度預算已編列新台幣1億2,365萬元(中央補助款新台幣9,644萬7,000元整，本市配合款新台幣2,720萬3,000元)，增加新台幣1,282萬513元(中央補助款新台幣1,000萬元，本市配合款新台幣282萬513元)，配合預算編列調整至千元為新台幣1,282萬1,000元(中央補助款78%計1,000萬元，本市配合款22%計282萬1,000元)，此增加之部分經費因未及納入本府113年度總預算，為爭取時效，以利計畫進行，爰辦理本墊付案，僅請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年3月19日第638次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：為辦理113年度農地重劃區緊急農水路更新改善作業，並於工程核定及設計後，盡速辦理發包作業，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2024\/05\/13",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2024\/05\/29",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=27bb365d-561b-4d2d-95da-e34da1ece65a",
+            "FileName": "附件-財經第3號案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d471bb3c-fa65-454c-a3cf-a2fcfa5d1d11&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2024\/04\/19",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

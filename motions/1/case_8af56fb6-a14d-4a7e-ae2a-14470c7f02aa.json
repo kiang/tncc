@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第1屆 第9次 臨時會",
+    "PTypTitle": "會務",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "賴議長美惠",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市議會組織自治條例」第十五條、第十六條、第二十條草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依103年度第2次政黨黨團協商第2次會議決議辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"檢附「臺南市議會組織自治條例」第十五條、第十六條、第二十條修正草案總說明、修正草案條文對照表、修正後條文草案。\",\"children\":[]}]},{\"tag\":\"p\",\"content\":\"--------------------------\"},{\"tag\":\"p\",\"content\":\"臺南市議會組織自治條例第十五條、第十六條、第二十條修正總說明\"},{\"tag\":\"p\",\"content\":\"為配合地方立法機關組織準則之修正，爰檢討修正臺南市議會組織自治條例第十五條、第十六條、第二十條內容，其修正要點如次：\"},{\"tag\":\"p\",\"content\":\"一、配合地方立法機關組織準則第十九條第一項、第三項，酌作文字修正及增列相關條文。（修正條文第十五條）\"},{\"tag\":\"p\",\"content\":\"二、配合立法機關組織準則第二十條第二項，增列第三項條文。（修正條文第十六條）\"},{\"tag\":\"p\",\"content\":\"三、配合立法機關組織準則第二十三條第一項末段規定，酌作文字修正。（修正條文第二十條）\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會同意後報行政院核定\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2014\/08\/13",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=91b9bc0f-78dc-4484-ba3b-c6d2b28f1763",
+            "FileName": "臺南市議會組織自治條例第十五條、第十六條、第二十條修正條文.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=63b084e6-a5f4-4191-9e60-b19e062b0368",
+            "FileName": "臺南市議會組織自治條例第十五條、第十六條、第二十條修正條文.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8af56fb6-a14d-4a7e-ae2a-14470c7f02aa&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2014\/08\/04",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "98",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國、蔡淑惠",
+    "OrgTitle2": "洪玉鳳、尤榮智、王家貞、張世賢、方一峰、李文俊、謝龍介",
+    "CaseCause": "永康區五王里五福街與五福街38巷巷口側溝地基下陷恐有安全之虞，建請優先搶修維護。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"永康區五福街38巷共有4戶住家，位於五福街與五福街38巷巷口排水溝地基掏空，連帶已影響38巷內部基地，屆時造成住戶內部基地及路面下陷坍塌，唯恐泥石不斷掉落至下水道內，未來也將嚴重影響到水流的暢通，建請市府應立即搶修。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府列為預算辦理。\"}]",
+    "CheckDate": "2021\/11\/25",
+    "CheckDesc": "函送市府研議。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/12\/07",
+    "SendNumber": "南議工務字第 1100011894號",
+    "DoDesc": "本案經市府110年12月23日府工養二字第1101538232號函復：\r\n本案110年11月8日由李鎮國議員服務處邀集本府工務局、永康區公所及里長現場會勘，查現場勘查既有側溝雖老舊但無明顯損壞，永康區公所為保障民眾通行安全已先行填補下陷坑洞；另有管制閘門之私設通路因無法確認為側溝損壞造成掏空，已請所有權人自行修補。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=252506eb-3124-42bd-be3a-d0c22a3531ad",
+            "FileName": "議提98附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0672b4cf-906d-40e7-8cd7-30981e96bf93&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年12月23日府工養二字第1101538232號函復：\r\n本案110年11月8日由李鎮國議員服務處邀集本府工務局、永康區公所及里長現場會勘，查現場勘查既有側溝雖老舊但無明顯損壞，永康區公所為保障民眾通行安全已先行填補下陷坑洞；另有管制閘門之私設通路因無法確認為側溝損壞造成掏空，已請所有權人自行修補。",
+    "ErrorMessage": ""
+}

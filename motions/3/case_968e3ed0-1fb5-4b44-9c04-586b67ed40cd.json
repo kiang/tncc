@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "「本市遊蕩犬貓問題對策及收容安置作為」專案報告",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"請臺南市政府編列經費優先擴建改善現有收容所並加速增加開發新的收容所，以增加收容量。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請市府運用跨局處的人力及資源，普查本市犬貓並請植入晶片納管，儘速制定本市「飼養犬貓管理自治條例」，強制建立身分管理制度。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"請儘速盤點各區合適地點，並將特色公園納入評估範圍，提供捕抓遊蕩犬的緊急收容安置，並設置多處小型生命教育園區取代收容所。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"請寬列經費，公私協力提高絕育成效。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"請市府配置足夠的人力並整合各局處、公所的資源，共同解決遊蕩犬造成社會安全的問題。\",\"children\":[]},{\"order\":\"六、\",\"content\":\"請於遊蕩犬貓經常出沒路段，設置犬貓出沒小心駕駛的交通警告標誌，提醒用路人注意防範。\",\"children\":[]},{\"order\":\"七、\",\"content\":\"訂定人犬貓衝突認定標準及統計表以利檢討改進犬貓所造成社會問題的解決方案，並建請制定「臺南市犬貓救助補償基金自治條例」，使因遊蕩犬貓受到身心及財務受損的人能獲得救助之依據。\",\"children\":[]},{\"order\":\"八、\",\"content\":\"請加強社群媒體經營能力及人力，使收容犬貓有行銷推廣被認養的機會。\",\"children\":[]}]}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2022\/08\/30",
+    "DoneDesc": "照委員會結論通過。",
+    "SendDate": "2022\/09\/02",
+    "SendNumber": "南議財經字第 1110009940號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b94623cf-300e-4caf-baec-f6e6e2fbafa1",
+            "FileName": "1110729本市遊蕩犬貓問題對策與收容安置作為報告(0728修改).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2c1ed9d2-6682-4e85-b0d4-6bf69eb257a6",
+            "FileName": "1110729本市遊蕩犬貓問題對策與收容安置作為專案報告逐字稿.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=968e3ed0-1fb5-4b44-9c04-586b67ed40cd&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照委員會結論通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

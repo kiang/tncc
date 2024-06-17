@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第12次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "5",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "吳禹寰",
+    "OrgTitle2": "李宗翰、趙昆原、蔡筱薇、Ingay Tali穎艾達利、李鎮國",
+    "CaseCause": "建請市府儘速檢討歸仁區中山路台86以東至關廟區關廟加油站道路平整，整合管線單位，減少人孔蓋數量與優先納入路平專案。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"歸仁區中山路台86以東至關廟區關廟加油站全線1.5公里，本路段因長年管線積累，以致線路複雜，人孔蓋數量持續增加。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"經實地查估如附件，此1.5公里人孔蓋比水溝蓋還多，還有沒發現在瀝青下面的人孔蓋不知有多少。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"路面老舊，建請市府跨局處統合督導，各管線整併，減少人孔蓋數量，且保持路面平整優先納入路平專案，辦理刨鋪。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/03\/17",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/03\/25",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/04\/07",
+    "SendNumber": "南議工務字第 1110002833號",
+    "DoDesc": "本府就「建請市府儘速檢討歸仁區中山路台86以東至關廟區關廟加油站道路平整，整合管線單位，減少人孔蓋數量與優先納入路平專案。」1案，敬答覆如下：\r\n     有關該路段路面改善工程，長度約1,650公尺，寬度約20公尺，施作10公分厚新料瀝青混凝土刨除重鋪、路基改善、排水功能檢討及人手孔改善…等，所需經費約新臺幣4,125萬元，本府將先行予以錄案，並納入前瞻計畫向中央爭取預算辦理。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f3f3d6c4-e1c4-4823-b67d-a6f6a18b5791",
+            "FileName": "工務議提5-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d15f4ab0-d0d7-4c05-898c-95382beddd29&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/03\/09",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/04\/19",
+    "ExecuteReNumber": "府工務三字第 1110477928號",
+    "ExecuteReMemo": "本府就「建請市府儘速檢討歸仁區中山路台86以東至關廟區關廟加油站道路平整，整合管線單位，減少人孔蓋數量與優先納入路平專案。」1案，敬答覆如下：\r\n     有關該路段路面改善工程，長度約1,650公尺，寬度約20公尺，施作10公分厚新料瀝青混凝土刨除重鋪、路基改善、排水功能檢討及人手孔改善…等，所需經費約新臺幣4,125萬元，本府將先行予以錄案，並納入前瞻計畫向中央爭取預算辦理。",
+    "ErrorMessage": ""
+}

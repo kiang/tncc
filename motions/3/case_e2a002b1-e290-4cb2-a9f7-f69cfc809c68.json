@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "36",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "方一峰、蔡淑惠、尤榮智",
+    "OrgTitle2": "王家貞、李文俊、林燕祝、李中岑、許至椿",
+    "CaseCause": "請改善下營區港尾重劃區農路11號茅港尾段2276號農路改善工程，因路面破損嚴重，致使雨後造成通行不便，急辦理修復以利行車安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"下營區港尾重劃區農路11號茅港尾段2276號農路改善工程，路面損壞處有危害用路人通行安全之虞。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"瀝青混凝土：L=590公尺、W=4.6公尺。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府地政局優先納入改善。\"}]",
+    "CheckDate": "2022\/06\/21",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/07\/08",
+    "SendNumber": "南議財經字第 1110006589號",
+    "DoDesc": "本府就「請改善下營區港尾重劃區農路 11 號茅港尾段 2276 號農路改善工程，因路面破損嚴重，致使雨後造成通行不便，急辦理修復以利行車安全。」決議案，敬答覆如下：\r\n一、 該農路路面老舊部份破損，易影響行車安全，將列入年度農路改善預算審查研議辦理。\r\n二、 承蒙 貴會對於本案之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=95ebb151-cc50-4f2f-ab1d-bbb185d14181",
+            "FileName": "36.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e2a002b1-e290-4cb2-a9f7-f69cfc809c68&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/07\/20",
+    "ExecuteReNumber": "府地農字第 1110902280號",
+    "ExecuteReMemo": "本府就「請改善下營區港尾重劃區農路 11 號茅港尾段 2276 號農路改善工程，因路面破損嚴重，致使雨後造成通行不便，急辦理修復以利行車安全。」決議案，敬答覆如下：\r\n一、 該農路路面老舊部份破損，易影響行車安全，將列入年度農路改善預算審查研議辦理。\r\n二、 承蒙 貴會對於本案之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "ErrorMessage": ""
+}

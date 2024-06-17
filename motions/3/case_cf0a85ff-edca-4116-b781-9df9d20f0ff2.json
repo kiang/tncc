@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "7",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2022\/08\/17",
+    "ComeNumber": "府文秘字1111066539號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本市「財團法人臺南市孔廟文化基金會112年度預算書」乙案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"檢附財團法人臺南市孔廟文化基金會112年度預算書。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經財團法人臺南市孔廟文化基金會111年8月3日第2次董監事聯席會議審核通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府111年8月17日第555次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "2022\/09\/23",
+    "CheckDesc": "聯席審查意見：照案通過。",
+    "DoneDate": "2022\/12\/22",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2022\/12\/28",
+    "SendNumber": "南議建設字第 1110020937號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=93ad1c17-18a1-4cd7-a081-010658a558fc",
+            "FileName": "市提7-孔廟預算書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=cf0a85ff-edca-4116-b781-9df9d20f0ff2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/08\/23",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2022\/08\/30",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

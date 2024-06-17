@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2016\/05\/26",
+    "ComeNumber": "府觀技字第1050532031號",
+    "OrgTitle": "臺南市政府觀光旅遊局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市載客小船管理自治條例」第五條、第八條之一草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"因考量政府機關或其他公法人亦有申請營運需求，及維護公共安全、增進公共利益，以促進載客小船營運發展及維持航運秩序，爰擬具本修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府105年5月25日第251次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「修正臺南市載客小船管理自治條例第五條、第八條之一草案」（含總說明修正對照表及修正條文）乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2016\/06\/30",
+    "SendNumber": "南議法規字第 1050004524號",
+    "DoDesc": "因考量政府機關或其他公法人亦有申請營運需求，及維護公共安全、增進公共利益，修正「臺南市載客小船自治條例」，以促進載客小船營運發展及維持航運秩序。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=89423c42-5575-4860-8f0b-b76ed1043119",
+            "FileName": "2-3定法規市提4(臺南市載客小船管理自治條例第五條、第八條之一修正草案總說明、對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=55f32752-f5e4-4284-84fd-affdb6e8cf5d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2016\/04\/11",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "因考量政府機關或其他公法人亦有申請營運需求，及維護公共安全、增進公共利益，修正「臺南市載客小船自治條例」，以促進載客小船營運發展及維持航運秩序。",
+    "ErrorMessage": ""
+}

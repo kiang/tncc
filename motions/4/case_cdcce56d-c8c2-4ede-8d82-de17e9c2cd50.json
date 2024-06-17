@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "21",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/05\/17",
+    "ComeNumber": "府農務字第1120653766號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會農糧署核定本府「112年綠色環境給付計畫補助縣市政府更新所轄公所電腦暨周邊設備計畫」案，經費45萬4,000元整(全額中央補助款)因未及納入本府112年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院農業委員會農糧署112年4月24日農糧產字第1121090383號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"所需總經費共計新臺幣45萬4,000元(全額中央補助款)，因未及納入本府112年度總預算，為爭取時效，謹請貴會同意先行墊付，俟113年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要工作項目為補助本市共13區公所辦理本計畫之電腦及周邊設備，逐年汰換、更新不堪使用之設備，補助個人電腦主機、液晶螢幕、平板電腦、A3黑白印表機、A4彩色印表機、點陣滾筒式印表機。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府112年5月16日第594次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案為藉由補助本市所轄公所更新老舊之電腦及周邊設備，提升公所辦理效率，並依112年4月24日農糧產字第1121090383號函要求於112年12月31日前結案，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算辦理轉正。\"}]",
+    "CheckDate": "2023\/06\/28",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/07\/07",
+    "SendNumber": "南議財經字第 1120005994號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e4ad729a-5a86-462c-94f5-ccc82b8ef74b",
+            "FileName": "21號案附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=cdcce56d-c8c2-4ede-8d82-de17e9c2cd50&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/05\/29",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/06\/07",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

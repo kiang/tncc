@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "18",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2020\/04\/15",
+    "ComeNumber": "府文秘字第1090451884號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "教育部核定本市「109年推動公共圖書館資源整合發展補助專案計畫」經費新臺幣22萬4,000元整一案(全額中央補助22萬4,000元)，為爭取時效，謹請貴會同意先行墊付中央補助款22萬4,000元，俾憑辦理後續相關作業事宜，俟110年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據教育部109年3月25日臺教社(四)第1090037254G號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」之規定。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"本案係教育部核定本市「109年推動公共圖書館資源整合發展補助專案計畫」總經費32萬元一案(中央補助22萬4,000元、市配合款9萬6,000元)，因本案僅於109年度預算中預先匡列市配合款9萬6,000元（經常門），又本案核定時間及經費額度未及列入本館109年度預算編列，為爭取時效，謹請貴會同意先行墊付中央補助款22萬4,000元，俟110年度總預算時予以轉正。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府109年4月14日第434次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟110年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2020\/05\/06",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2020\/06\/09",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2020\/06\/16",
+    "SendNumber": "南議教育字第 1090003877號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c427ad3c-34ee-43a7-8f30-8ae6c710a6dd",
+            "FileName": "18.109年推動公共圖書館資源整合發展補助專案計畫教育部核定函.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e7974328-ca2c-41b3-b6b8-e1df7b414eec&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

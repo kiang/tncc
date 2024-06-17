@@ -1,0 +1,69 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "會務",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "郭議長信良",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南市議會組織自治條例」部分條文修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市議會組織自治條例係本會依地方制度法第54條第1項及地方立法機關組織準則第3條第1項規定所擬訂，報經行政院100年5月18日院臺秘字第1000023393A號函核定，嗣由臺南市政府100年6月1日府法規字第1000379082A號令公布。自公布施行後，曾於103年9月9日及106年2月6日歷經二次修正。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為配合107年11月30日及110年8月4日修正發布之地方立法機關組織準則，強化本會議事運作之透明度及對民眾之資訊提供，並明確議員出缺之通報、健全正、副議長不能執行職務或出缺之處理，爰擬具本自治條例部分條文修正草案。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市議會組織自治條例」部分條文修正草案總說明、修正草案對照表、修正草案條文。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"經大會審議通過後報行政院核定並送市政府公布。\"}]",
+    "CheckDate": "2021\/10\/20",
+    "CheckDesc": "一、照案通過。\r\n二、有關本案配合「地方立法機關組織準則」修正，該準則第10條刪除「去職」與第19條保留「去職」兩者之差別，請本會法規研究室函請中央釋明。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "2021\/12\/06",
+    "SendNumber": "南議法規字第 1100012346號",
+    "DoDesc": "1.本會110.12.7以南議法研字第1100012468號函報行政院核定。\r\n2.本會110.12.7以南議法研字第1100012509號函請行政院釋示本會大會決議第二點。(如附件1)\r\n3.內政部110.12.15台內民自第1100146185號函覆本會大會決議第二點：有關本案配合「地方立法機關組織準則」修正，該準則第10條刪除「去職」與第19條保留「去職」兩者之差別，請本會法規研究室函請中央釋明。內政部原函如函復附件。(如附件2)\r\n4.臺南市政府111年1月4日府法規字第1101592513A號令修正部分條文。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ea7babce-6bbe-4e37-8b44-5e8a477871eb",
+            "FileName": "「臺南市議會組織自治條例」部分條文修正草案(含總說明、條文對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8d7a76f7-0f32-4fe4-835f-fc8d9a64b43c",
+            "FileName": "3-6定會務1審查結果對照表A4.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b0f892d8-f58d-478e-9109-84733ef6caec",
+            "FileName": "1.10.12.7南議法研字第1100012509號函請行政院釋示本會大會決議第二點公文",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b5a71afd-8790-4366-ac0a-40d1ce334fb8",
+            "FileName": "2.3-6定會務1內政部110.12.15函覆本會大會決議第二點原案全文",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=47ff3095-1daf-4701-8311-8571ccb46a88",
+            "FileName": "(附件1)110.12.7以南議法研字第1100012509號.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8b82dd85-0774-493b-b1e7-d0b656b4eabc",
+            "FileName": "(附件2)內政部110.12.15台內民自第1100146185號.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0f112522-1a87-4722-83ee-4c3bc9928543&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "交付會務委員會審查。",
+    "SecondDate": "2021\/11\/30",
+    "SecondDesc": "照審查意見通過。",
+    "ThirdDate": "2021\/11\/30",
+    "ThirdDesc": "照二讀會決議通過。",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "1.本會110.12.7以南議法研字第1100012468號函報行政院核定。\r\n2.本會110.12.7以南議法研字第1100012509號函請行政院釋示本會大會決議第二點。(如附件1)\r\n3.內政部110.12.15台內民自第1100146185號函覆本會大會決議第二點：有關本案配合「地方立法機關組織準則」修正，該準則第10條刪除「去職」與第19條保留「去職」兩者之差別，請本會法規研究室函請中央釋明。內政部原函如函復附件。(如附件2)\r\n4.臺南市政府111年1月4日府法規字第1101592513A號令修正部分條文。\r\n",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "90",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王宣貿",
+    "OrgTitle2": "蔡麗青、邱莉莉、余柷青、Ingay Tali 穎艾達利、林依婷、朱正軒",
+    "CaseCause": "建請臺南市政府統整轄內各處公園、景點導覽告示牌、指標並修復。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"多處公共設施導覽告示牌、指標年久失修毀損。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請臺南市政府應儘速盤點各處景點、設施，導覽告示牌、指標，並進行統一設計、規劃，美化城市景觀。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/03\/29",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/03\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/04\/10",
+    "SendNumber": "南議工務字第 1120002151號",
+    "DoDesc": "本府就「建請臺南市政府統整轄內各處公園、景點導覽告示牌、指標並修復。」案，敬答覆如下：\r\n本府工務局已針對本府工務局所轄管大型公園更換公園內告示牌、指標及公告欄，另也函請區公所逐一盤點臺南市所有公園內告示牌、指標及公告欄，如破損不堪則請維護管理單位盡速汰換，另函文文化局及觀光旅遊局盤點本市所有景點內告示牌、指標及公告欄及汰換相關事宜。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f9332531-49ec-4335-944f-4781dbde8428",
+            "FileName": "4-2臨工務議提90附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d8f662f6-e30f-4774-8106-d6a57a4a12ab&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/05\/09",
+    "ExecuteReNumber": "府工園二字第 1120555973號",
+    "ExecuteReMemo": "本府就「建請臺南市政府統整轄內各處公園、景點導覽告示牌、指標並修復。」案，敬答覆如下：\r\n本府工務局已針對本府工務局所轄管大型公園更換公園內告示牌、指標及公告欄，另也函請區公所逐一盤點臺南市所有公園內告示牌、指標及公告欄，如破損不堪則請維護管理單位盡速汰換，另函文文化局及觀光旅遊局盤點本市所有景點內告示牌、指標及公告欄及汰換相關事宜。",
+    "ErrorMessage": ""
+}

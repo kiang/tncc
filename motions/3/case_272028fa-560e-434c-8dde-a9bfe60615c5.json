@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "19",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "呂維胤",
+    "OrgTitle2": "劉米山、鄭佳欣、蔡旺詮、蔡筱薇",
+    "CaseCause": "要求農業局考量飼養需求，讓蚵農依傳統於中秋過後放養牡蠣，避免打亂蚵農養殖計畫。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"原先傳統牡蠣放養時間落在中秋過後，農業局考量蚵農作業安全性，為避開颱風季節等天候風險，欲將放養時間規定在國曆10月1日\",\"children\":[]},{\"order\":\"二、\",\"content\":\"理解農業局守護蚵農安全的用心，然新規定放養時間相較傳統晚了近3個星期，恐影響牡蠣養殖時程及後續收成。要求農業局應維持蚵農中秋過後傳統放養時間，避免打亂蚵農養殖計畫。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/06\/21",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/07\/08",
+    "SendNumber": "南議財經字第 1110006572號",
+    "DoDesc": "本府就「要求農業局考量飼養需求，讓蚵農依傳統於中秋過後放養牡蠣，避免打亂蚵農養殖計畫。」案，敬答覆如下：\r\n一、本府農業局漁港所 5 月 25 日至南區及安平區與產銷班代表召開會議研商牡蠣放養期提前之可行性，因考量 9 月仍有颱風等劇烈天氣因素影響放養安全，達成共識將俟今年 8 月時蒐集氣候、蚵苗生產及漁民籌備情形等資料，再與漁民研議是否提早放養之需求。\r\n二、承蒙貴席對於農政業務之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2064b899-0404-4781-8357-19227bde2229",
+            "FileName": "19.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=272028fa-560e-434c-8dde-a9bfe60615c5&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/07\/21",
+    "ExecuteReNumber": "府農港字第 1110899876號",
+    "ExecuteReMemo": "本府就「要求農業局考量飼養需求，讓蚵農依傳統於中秋過後放養牡蠣，避免打亂蚵農養殖計畫。」案，敬答覆如下：\r\n一、本府農業局漁港所 5 月 25 日至南區及安平區與產銷班代表召開會議研商牡蠣放養期提前之可行性，因考量 9 月仍有颱風等劇烈天氣因素影響放養安全，達成共識將俟今年 8 月時蒐集氣候、蚵苗生產及漁民籌備情形等資料，再與漁民研議是否提早放養之需求。\r\n二、承蒙貴席對於農政業務之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "ErrorMessage": ""
+}

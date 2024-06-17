@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "6",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/01\/11",
+    "ComeNumber": "府農工字第1120100246號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會水土保持局核定本市辦理地方創生「臺灣極西點七股魅力漁村創生計畫-極西里海魚藝饗宴計畫」，所需經費新臺幣353萬元(中央補助款300萬元、市配合款53萬元)，為因應時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院農業委員會水土保持局111年11月18日水保農字第1111868306號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"本案核定經費新臺幣353萬元(中央補助款300萬元、市配合款53萬元)。經常門尚需增列300萬元，以及計畫必須分擔配合款53萬元，合計353萬元，因未及納入112年度預算，為因應時效，請准予先行墊付，俟112年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要工作項目：\",\"children\":[{\"order\":\"１、\",\"content\":\"極西里海魚藝建構計畫。\",\"children\":[]},{\"order\":\"２、\",\"content\":\"極西里海饗宴共創計畫。\",\"children\":[]},{\"order\":\"３、\",\"content\":\"極西里海魚藝饗宴整合行銷。\",\"children\":[]}]}]},{\"order\":\"四、\",\"content\":\"本案業經本府111年12月13日第574次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/02\/09",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/02\/17",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/02\/20",
+    "SendNumber": "南議財經字第 1120000925號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=16af3374-bbb6-4719-9c17-f68d15679a55",
+            "FileName": "附件-財經6號案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=52123fe5-f9ed-491e-b1a7-1b1e9d6be9c2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/02\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

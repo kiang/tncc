@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第1次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "16",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "蔡育輝、盧崑福、林燕祝",
+    "CaseCause": "請市府彙整本席針對南山公墓中之南山溪及下游日新溪提案整治資料，並為各次提案辦理情形說明，詳如說明。",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2015\/08\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2015\/08\/27",
+    "SendNumber": "南議工務字第 1040004698號",
+    "DoDesc": "本案經市府104年8月31日府水雨字第1040861087號函復：\r\n(詳如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=aed37413-41dd-4d9c-9b09-7ae1c184b5b4",
+            "FileName": "議提16號案市府答復.docx",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c237dbc6-68f4-4510-8211-a62127a51608&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2015\/06\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府104年8月31日府水雨字第1040861087號函復：\r\n(詳如夾檔)",
+    "ErrorMessage": ""
+}

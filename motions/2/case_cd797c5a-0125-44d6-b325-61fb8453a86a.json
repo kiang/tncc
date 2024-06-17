@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第6次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-市法規案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝",
+    "OrgTitle2": "林阳乙、郭秀珠、李坤煌、盧崑福、張世賢、陳朝來、王家貞、蔡玉枝、曾培雅、洪玉鳳、蔡淑惠、謝財旺",
+    "CaseCause": "制定「臺南市不動產評價委員會組織自治條例」，明定聘任「不動產評價委員」應有任期制暨議員代表應有政黨比例，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、臺南市政府未制定「臺南市不動產評價委員會組織」，是以本市有制定「臺南市不動產評價委員會組織自治條例」之必要。\"},{\"tag\":\"p\",\"content\":\"二、財政部訂頒「不動產評價委員會組織規程」卻未明訂聘任委員之任期、聘任起迄年限，容易造成「萬年委員」一直擔任「評價委員」致而忽視不動產評價對民眾權益之影響。\"},{\"tag\":\"p\",\"content\":\"三、「臺南市不動產評價委員會組織規程」自治條例有制定之必要，爰擬具制訂本市不動產評價委員會組織自治條例草案。\"},{\"tag\":\"p\",\"content\":\"四、草案(含總說明及條文對照表、制訂後條文)如後附。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"經大會決議後，送巿府公布施行。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bd32384b-e1e6-4fce-b902-6d2ff4af05ae",
+            "FileName": "2-6定議提1-臺南巿不動產評價委員會組織自治條例條文草案(總說明、對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=cd797c5a-0125-44d6-b325-61fb8453a86a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "2017\/09\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第3屆 第7次 臨時會",
+    "PTypTitle": "教育",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/01\/13",
+    "ComeNumber": "府文秘字第1100095365號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "文化部文化資產局核定本市辦理「曾文溪流域宋江武陣陣式及武術影像紀錄解說計畫」經費新臺幣130萬元整乙案（中央補助款35萬元；市配合款95萬元），為爭取時效，謹請貴會同意先行墊付新臺幣130萬元，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據文化部文化資產局109年10月30日文資傳字第10930123101號函。\"},{\"tag\":\"p\",\"content\":\"二、依據「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：本案經費新臺幣260萬元整，中央補助70萬元整，市配合款190萬元整，採一次發包，分年編列預算辦理(110年度130萬元，111年度130萬元)。其中110年度130萬元（中央補助35萬元，市配合款95萬元），因未及納入本府110年度總預算，為爭取執行時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年1月12日第473次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/01\/19",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/01\/26",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/01\/29",
+    "SendNumber": "南議教育字第 1100000778號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5e6628f3-e963-490e-a59b-d52a1c186e0e",
+            "FileName": "3-7臨-市提3-文化部核准文.docx",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=28f3b22d-8724-4e4d-9cd5-e567b11cea02",
+            "FileName": "3-7臨-文化部核准文1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5a0bfb90-100f-4070-9717-38f5b621f54a",
+            "FileName": "3-7臨-文化部核准文2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=262d0152-81d5-4eb6-86ae-af065c9dacc6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/01\/05",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

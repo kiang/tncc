@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第7次 臨時會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2016\/07\/11",
+    "ComeNumber": "府工管一字第1050707077號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "修訂「臺南市建築管理自治條例」第十一條，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市建築管理自治條例業於一百零一年六月十一日府法規字第一Ｏ一Ｏ四六八九二ＯＡ號令制定公布在案，為配合內政部一百零二年三月十三日公告修正之商業團體分業標準，將建築開發商業團體業別名稱修正為不動產開發商業，爰修正臺南市建築管理自治條例第十一條。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府105年3月23日第244次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市建築管理自治條例草案」（含總說明及逐條說明）乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2016\/08\/23",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2016\/09\/02",
+    "SendNumber": "南議法規字第 1050006206號",
+    "DoDesc": "105年9月22日府工管一字第1050989768號函送內政部核定未通過。內政部於105年10月5日內授營建管字第1050814058號函復本局，要求本府檢討說明是否牴觸商業團體法第12條。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e9b46662-e72c-44b6-9a75-04a7204fe4d8",
+            "FileName": "2-7臨市提1-臺南市建築管理自治條例第十一條修正草案(總說明、對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9eb352c7-8e39-401f-9331-0b3aed0ad32f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2016\/08\/01",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "105年9月22日府工管一字第1050989768號函送內政部核定未通過。內政部於105年10月5日內授營建管字第1050814058號函復本局，要求本府檢討說明是否牴觸商業團體法第12條。",
+    "ErrorMessage": ""
+}

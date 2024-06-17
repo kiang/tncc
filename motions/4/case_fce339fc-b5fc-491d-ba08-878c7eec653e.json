@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "126",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "李鎮國、陳皇宇、郭鴻儀、尤榮智、蔡育輝、蔡淑惠、吳通龍",
+    "CaseCause": "雨季將到，再請市府疏濬竹溪南山公墓中段，以免因竹溪南山公墓中段間未疏濬而堵塞，使竹溪上段淤積並致下游日新溪水質惡臭，影響沿岸市民生活品質。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"竹溪於體育公園至金湯橋段市府花鉅資整治美化。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"但金湯橋至日新橋間南山公墓段未建護堤，淤積而致水流不通暢影響上游竹溪水質，天氣變化時，時常有大量魚兒死亡。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"日新橋下至中華西路之河流因南山公墓段未建護堤，使污泥堆積，水流不暢，水少時發生惡臭為沿岸居民長期詬病之市政大問題，亦為南區環境毒瘤。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由並請專案討論。\"}]",
+    "CheckDate": "2023\/06\/02",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/06\/07",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/06\/15",
+    "SendNumber": "南議工務字第 1120004285號",
+    "DoDesc": "",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=77c48a3c-889d-4448-8219-482e74d87479",
+            "FileName": "府水雨字第1120840415號-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fce339fc-b5fc-491d-ba08-878c7eec653e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/07\/12",
+    "ExecuteReNumber": "府水雨字第 1120840415號",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

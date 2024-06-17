@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 臨時會",
+    "PTypTitle": "建設",
+    "CaseNumber": "12",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/02\/16",
+    "ComeNumber": "府文秘字第1130258957號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "文化部文化資產局核定補助本市辦理113年度直轄市及縣(市)政府文化資產古物類(D類)補助-113年度文化資產保存修護及管理維護補助計畫-D類直轄市及縣（市）政府補助計畫-「113-114年度原臺南市保生大帝百年廟宇文物普查建檔計畫」(第一期）」總經費230萬元(中央補助款138萬元、市配合款92萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據文化部文化資產局中華民國113年1月30日文資物字第1133001198號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44條第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費230萬元(中央補助款138萬元、市配合款92萬元)，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年2月15日第633次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：臺南為眾神之都、廟宇眾多，未來將採逐年分批分區逐步完成整體文物普查，經綜合評估建廟年代及同類主祀神明廟宇數量多寡後，經考量保生大帝尚未普查的廟宇數量最少及開山宮等廟宇意願高，故本期優先普查臺南市保生大帝廟宇。因本案標的為臺南市14間保生大帝廟宇，收存共約560件珍貴文物，為避免文物散佚，需加速完成普查，故有緊急執行之必要故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2024\/03\/08",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2024\/03\/15",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c451eeda-1738-4c72-a71f-9e9d0daf316a",
+            "FileName": "市提12附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b200a8a0-12b6-4f3b-901f-61d1f2dcfa59&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/02\/23",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

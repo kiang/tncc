@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 臨時會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/07\/26",
+    "ComeNumber": "府民自字第1120980279號",
+    "OrgTitle": "臺南市政府民政局",
+    "OrgTitle2": "",
+    "CaseCause": "有關內政部補助本市民政局辦理「台灣燈會X臺南400年『2024臺灣燈會在台南新住民燈區』」計畫案，總經費計新臺幣（下同）800萬元整（全額中央補助）辦理墊付，俟113年度總預算再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部函112年7月17日台內移字第11209118181號函辦理，並符合「各機關單位預算執行要點」第44點第4款規定「經上級政府核定之補助款，所使用之支出」。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"內政部辦理「112年度新住民發展基金申請補助計畫」核定補助本市民政局辦理「台灣燈會X臺南400年『2024臺灣燈會在台南新住民燈區』」經費計800萬元，由中央全額補助，採分期方式辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"上開總經費112年度因未及納入年度預算，為應時效，擬請准予提送市議會審議辦理墊付，俟113年度總預算再予轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年7月24日第604次市政會議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：依據內政部核定函，本計畫案應於計畫完成30日內(預計113年4月30日前)辦理結案，故本會期提出墊付案申請，以利於112年度完成發包作業，並於113年4月底前檢具所有相關成果資料向中央辦理核結作業。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/08\/10",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/08\/17",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/08\/24",
+    "SendNumber": "南議民教字第 1120007813號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5a8b028d-71b4-48a2-923b-36c488cd0177",
+            "FileName": "民教4(民政局)-附件(核定函及計畫書).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=42644aab-96e6-489f-b939-42594e8f9c0b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/08\/01",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/08\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

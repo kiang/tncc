@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市議會本會",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本會112年第2季辦理政策及業務宣導之執行情形表，提請備查。",
+    "Content": "",
+    "Method": "",
+    "CheckDate": "2023\/11\/28",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2023\/11\/30",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2023\/12\/06",
+    "SendNumber": "南議民教字第 1120011899號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1c15b009-e31d-4b72-af85-c3c15acadd49",
+            "FileName": "定4-2-民教備查1-112年第2季政策及業務宣導之執行情形表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2cbf25ac-7a2e-4e0f-aab3-fb88a45a77cb&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2023\/10\/27",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

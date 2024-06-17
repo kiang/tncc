@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "2",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡麗青",
+    "OrgTitle2": "王宣貿、黄肇輝、余柷青、陳皇宇",
+    "CaseCause": "建請增設和順工業區服務中心二樓廁所。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本市和順工業區服務中心(安南區永安路11巷11號)，洽公民眾及廠商人流逐年增加。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"和順工業區服務中心二樓空間為辦公會議場所，經常各協會往來及各縣市參訪會議，該空間沒有設置廁所造成極大不便，影響會議進行。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"建請編列預算，於中心二樓增建廁所，以利民眾洽公。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/03\/28",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/03\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/04\/06",
+    "SendNumber": "南議財經字第 1120001890號",
+    "DoDesc": "本府就「建請增設和順工業區服務中心二樓廁所」案，敬答覆如下：\r\n一、本市和順工業區服務中心於107年12月正式啟用，目前租賃予廠協會使用中，該建物在1樓設置已有設置廁所，供廠協會開會時使用，先予敘明。\r\n二、有關建議和順工業區服務中心二樓增設廁所乙案，本府目前已向行政院環境保護署申請112-113年度「優質公廁及美質環境推動計畫」設置，目前該案尚在申請案審查階段，後續將依審查結果辦理後續事宜。\r\n三、承蒙貴會議席對於增設和順工業區服務中心二樓廁所的關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=341b834f-c7f0-4454-9e80-dfb5692d90b1",
+            "FileName": "2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=79e066dd-d627-43a4-93ca-669e7d2efe88&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/04\/12",
+    "ExecuteReNumber": "府經區字第 1120457385號",
+    "ExecuteReMemo": "本府就「建請增設和順工業區服務中心二樓廁所」案，敬答覆如下：\r\n一、本市和順工業區服務中心於107年12月正式啟用，目前租賃予廠協會使用中，該建物在1樓設置已有設置廁所，供廠協會開會時使用，先予敘明。\r\n二、有關建議和順工業區服務中心二樓增設廁所乙案，本府目前已向行政院環境保護署申請112-113年度「優質公廁及美質環境推動計畫」設置，目前該案尚在申請案審查階段，後續將依審查結果辦理後續事宜。\r\n三、承蒙貴會議席對於增設和順工業區服務中心二樓廁所的關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "ErrorMessage": ""
+}

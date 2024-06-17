@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第4屆 第2次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "4",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王宣貿",
+    "OrgTitle2": "Ingay Tali 穎艾達利、蔡麗青、余柷青、林依婷、周嘉韋、蔡筱薇",
+    "CaseCause": "請臺南市政府擬定調整「臺南市居家托育服務收退費項目及基準」。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"關於「臺南市居家托育服務收退費項目及基準」，上次調整日期為109年，時隔3年，因應物價波動指數上漲，臺南市政府應研擬調整，以符合民情。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2023\/03\/28",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/03\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/04\/10",
+    "SendNumber": "南議環衛字第 1120002035號",
+    "DoDesc": "檢送本府對貴會第4屆第2次臨時會決議案（環保衛生第4號案）「請臺南市政府擬訂調整臺南市居家托育服務收退費項目及基準」之書面答覆1份，詳如附件。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=796b2bb9-6f81-48b6-aef3-1c8894f249b3",
+            "FileName": "4-2臨-議提4及5號案-附件1--居家托育服務收退費.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d2013f8c-d395-4e49-98ff-bd7154c7fc83",
+            "FileName": "4-2臨-議提4及5號案-附件2--居家托育服務收退費.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b7eb2dba-d5b8-44bd-b178-fffe9fc1bfa6",
+            "FileName": "4-2臨-議提4及5號案-附件3--居家托育服務管理委員會會議紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=715ffa09-4ac9-43a8-8a73-c434061c42d0&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/03\/28",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/05\/09",
+    "ExecuteReNumber": "府社兒字第 1120548828號",
+    "ExecuteReMemo": "檢送本府對貴會第4屆第2次臨時會決議案（環保衛生第4號案）「請臺南市政府擬訂調整臺南市居家托育服務收退費項目及基準」之書面答覆1份，詳如附件。\r\n",
+    "ErrorMessage": ""
+}

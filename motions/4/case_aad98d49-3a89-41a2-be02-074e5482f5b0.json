@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "7",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/05\/15",
+    "ComeNumber": "府民自字第1120483168號",
+    "OrgTitle": "臺南市政府民政局",
+    "OrgTitle2": "",
+    "CaseCause": "有關內政部112年度補助辦理「公共服務據點整備及公有危險建築補強重建有關村（里）集會所（活動中心）耐震評估及整建計畫」，經費新臺幣170萬6,000元（中央補助137萬9,000元，市府配合款32萬7,000元）辦理墊付，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部112年3月24日台內民字第1120221983號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款,所使用之支出」及第6款「配合上级或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明:內政部核定里活動中心耐震初步評估19案及耐震詳細評估7案，原申請補助154萬9,296元，市配合款35萬6,464元，最後核定中央補助金額為137萬9,296元，市府配合款32萬6,464元，合計總經費170萬5,760元。為爭取採購時效，謹請貴會同意先行辦理墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年4月21日第590次市政會議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由:本案係內政部補助案件，須於112年8月底前完成，因未及納入本(112)年度預算，為爭取時效故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/06\/28",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/07\/05",
+    "SendNumber": "南議民教字第 1120005542號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=efaf5d66-e5d9-44a4-9ffb-80965b06fae9",
+            "FileName": "民教市提7(民政局)-核定函及計畫書等資料.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=aad98d49-3a89-41a2-be02-074e5482f5b0&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/05\/29",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/06\/07",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

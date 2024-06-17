@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "54",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "鄭佳欣、Ingay Tali穎艾達利",
+    "OrgTitle2": "陳秋宏、林燕祝、陳怡珍、林美燕、李宗翰",
+    "CaseCause": "建請提高台南市政府人員值班費用。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"經查六都政府共同性編列預算，台南市值班費費用分別為日間80元、夜間180元、全天250元，其他直轄市值班費編列基準大多為平日300元，例假日500元，(三節加倍)。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為體恤全體市府人員處理公務之辛勞，建請提高值班費用。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"另市府人員、警察同仁常因重覆陳情案導致身心疲勞，應研議幫助其排解身心壓力之方法。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/06\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/07\/08",
+    "SendNumber": "南議財經字第 1110006617號",
+    "DoDesc": "本府就「建請提高台南市政府人員值班費用」決議案，敬答覆如下：\r\n有關議員為體恤全體市府人員處理公務之辛勞，建請本府提高值班費標準部分，本府已於 111 年 6 月 6 日函頒 112 年度臺南市預算共同性費用編列基準，自112 年度將共同性費用編列基準比照其餘五都提高為平日 300 元、例假日 500 元，三節加倍。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1ef1775f-70f5-4e65-8816-6cf7c7439e66",
+            "FileName": "54.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=49b1e284-09f2-4bf3-827f-ebe0191b1db0&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/07\/14",
+    "ExecuteReNumber": "府主預字第 1110902670號",
+    "ExecuteReMemo": "本府就「建請提高台南市政府人員值班費用」決議案，敬答覆如下：\r\n有關議員為體恤全體市府人員處理公務之辛勞，建請本府提高值班費標準部分，本府已於 111 年 6 月 6 日函頒 112 年度臺南市預算共同性費用編列基準，自112 年度將共同性費用編列基準比照其餘五都提高為平日 300 元、例假日 500 元，三節加倍。\r\n",
+    "ErrorMessage": ""
+}

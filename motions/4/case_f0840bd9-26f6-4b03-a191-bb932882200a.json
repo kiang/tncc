@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第4屆 第3次 臨時會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/07\/24",
+    "ComeNumber": "府體設字第1120707933號",
+    "OrgTitle": "臺南市政府體育局",
+    "OrgTitle2": "",
+    "CaseCause": "教育部體育署（下稱體育署）核定本市公園國民小學等2校辦理「112年度學校游泳池整建維修經費」案，新臺幣（下同）735萬元整（中央補助款514萬5,000元、市配合款220萬5,000元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據體育署112年5月15日臺教體署學（二）字第1120019209號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案核定計畫總經費計735萬元整（中央補助款514萬5,000元、市配合款220萬5,000元），因未及納入本府112年度總預算，為利本案執行及配合中央列管時程，謹請貴會同意先行墊付，俟113年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年6月20日第599次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：據體育署核定辦理期程，本案須於核定後100天內完成規劃設計，於160天內完成工程發包，因本府未編列預算，為使補助計畫順利完成工程發包，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，於113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/08\/10",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/08\/17",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/08\/24",
+    "SendNumber": "南議民教字第 1120007861號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f1c41397-b320-4b43-b54c-6792bc031c75",
+            "FileName": "臨4-3-市提2-體育局學校游泳池整建維修墊付.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f0840bd9-26f6-4b03-a191-bb932882200a&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6a9c01ac-572a-4d8a-9aa0-a092eed88794",
+            "FileName": "臨4-3-體育局補充資料-墊付案2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [],
+    "ReDate": "2023\/08\/01",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/08\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

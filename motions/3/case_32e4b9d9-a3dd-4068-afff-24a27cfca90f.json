@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第2次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "31",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "李文俊、張世賢、尤榮智",
+    "CaseCause": "建請復華三街新闢道路增設預警式號誌燈。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據108年10月30日民眾陳情。\"},{\"tag\":\"p\",\"content\":\"二、車輛行駛中華二路往復華三街經二王公墓新闢路段，由於位處下坡及轉彎路段，轉彎後隨即遭遇紅綠燈，易導致後方車反應不及而發生追撞，建議增設前方路口號誌預告警示以維護行車之安全。(如附件)\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2019\/11\/04",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2019\/12\/10",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/12\/17",
+    "SendNumber": "南議保安字第 1080011548號",
+    "DoDesc": "本案經市府108年12月26日府交工字第1081496603號函復:\r\n一、經查本府交通局業於108年11月8日邀集貴會李鎮國議員及相關單位現場會勘，考量復華三街路段(忠孝路往復華三街90巷)為下坡，用路人車速常有過快情形，且該路段為彎道，造成用路人至復華三街90巷口易煞車不及，發生交通事故，共識請本府交通局於適當地點設置預告號誌，以利用路人辨識減速慢行，維護交通安全。\r\n二、本案本府交通局納入109年度經費優先辦理改善，預計109年6月底前完成，以利用路人辨識，維護交通安全。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a187ad08-4df4-4aba-b08b-652df6b5acf7",
+            "FileName": "保安議提31號-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=32e4b9d9-a3dd-4068-afff-24a27cfca90f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府108年12月26日府交工字第1081496603號函復:\r\n一、經查本府交通局業於108年11月8日邀集貴會李鎮國議員及相關單位現場會勘，考量復華三街路段(忠孝路往復華三街90巷)為下坡，用路人車速常有過快情形，且該路段為彎道，造成用路人至復華三街90巷口易煞車不及，發生交通事故，共識請本府交通局於適當地點設置預告號誌，以利用路人辨識減速慢行，維護交通安全。\r\n二、本案本府交通局納入109年度經費優先辦理改善，預計109年6月底前完成，以利用路人辨識，維護交通安全。",
+    "ErrorMessage": ""
+}

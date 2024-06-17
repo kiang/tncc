@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第12次 臨時會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "16",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "鄭佳欣",
+    "OrgTitle2": "沈震東、唐碧娥、蔡蘇秋金、許又仁、李啓維",
+    "CaseCause": "建請研議改善歸仁運動公園角落照明不足及家戶垃圾亂丟之改善方法。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"公園為最普遍的公共財，也是市民下班後運動的去處，且歸仁運動公園面積大。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本席接獲民眾陳情歸仁運動公園因有連貫樹木，造成角落照明度不足之問題，恐有安全疑慮。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"另有關家戶垃圾亂丟於公園內，建請研議是否加裝監視器等方法改善相關問題。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/03\/16",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/03\/25",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/04\/01",
+    "SendNumber": "南議民教字第 1110002545號",
+    "DoDesc": "本府就「建請研議改善歸仁運動公園角落照明不足及家戶垃圾亂丟之改善方法」案，敬答覆如下：\r\n一、歸仁運動公園由歸仁區公所管理，將請公所評估公園內照明情況，如確實需提升加強，可依據本市各區公所管理體育設施（含場地）分工原則，提報需求概算至本府民政局申請改善經費。\r\n二、另家戶垃圾亂丟情況，已函請公所評估改善方式，如有設置監視器之需求，另依據上述分工原則，提報需求經費至本府民政局辧理。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5507dc5e-dc68-4d2d-9302-da08a017581a",
+            "FileName": "臨3-12民教議提16-教育局覆歸仁運動公園角落照明不足改善.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d4432f61-c4ba-4e83-ae24-81e72e1b3809&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/03\/09",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/04\/26",
+    "ExecuteReNumber": "府教體處設字第 1110466510號",
+    "ExecuteReMemo": "本府就「建請研議改善歸仁運動公園角落照明不足及家戶垃圾亂丟之改善方法」案，敬答覆如下：\r\n一、歸仁運動公園由歸仁區公所管理，將請公所評估公園內照明情況，如確實需提升加強，可依據本市各區公所管理體育設施（含場地）分工原則，提報需求概算至本府民政局申請改善經費。\r\n二、另家戶垃圾亂丟情況，已函請公所評估改善方式，如有設置監視器之需求，另依據上述分工原則，提報需求經費至本府民政局辧理。",
+    "ErrorMessage": ""
+}

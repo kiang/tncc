@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "6",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市議會本會",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本會111年第4季辦理政策及業務宣導之執行情形表，提請備查。",
+    "Content": "",
+    "Method": "",
+    "CheckDate": "2023\/06\/26",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2023\/07\/07",
+    "SendNumber": "南議民教字第 1120005724號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=817464b6-84df-4310-8abd-2f2e4182ca6d",
+            "FileName": "定4-1民教備查6-市議會111年第4季政策及業務宣導之執行情形表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a866511f-7188-4d63-a6b4-ca08a88c3879&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2023\/06\/07",
+    "FirstDesc": "交付民政教育委員會審查",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

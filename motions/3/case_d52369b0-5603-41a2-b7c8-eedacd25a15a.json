@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "71",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "郭鴻儀",
+    "OrgTitle2": "林志展、呂維胤、鄭佳欣、Ingay Tali穎艾達利",
+    "CaseCause": "建請市府增修自治條例，依據有線廣播電視法第44條第2項規定，設置有線電視費率委員會，核定本市有線電視收費標準，敦促本市有線電視服務品質。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依照有線廣播電視法第44條第2項規定，有線電視收視費用由地方主管機關設置費率委員會核定；未設置費率委員會的縣市，由中央主管機關核定。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本市有線電視收費上限為六都最高，顯見中央審定之費率標準未能符合地方，且六都僅臺南市未設有費率委員會，建請市府增訂自治條例，促進本市有線電視業健康發展。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/06\/01",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/06\/08",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/06\/23",
+    "SendNumber": "南議工務字第 1110005979號",
+    "DoDesc": "本府就「建請市府增修自治條例，依據有線廣播電視法第44條第2項規定，設置有線電視費率委員會，核定本市有線電視收費標準，敦促本市有線電視服務品質」，敬答覆如下：\r\n本府已於111年7月11日函頒臺南市政府有線廣播電視費率審議委員會設置要點，將由本府設置之有線電視費率委員會審核本轄有線電視費率，以期提升本市有線電視數位服務。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=40e86701-c3f7-45c3-8d3c-a44d5aa92416",
+            "FileName": "臺南市政府有線廣播電視費率審議委員會設置要點.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d52369b0-5603-41a2-b7c8-eedacd25a15a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/07\/13",
+    "ExecuteReNumber": "府新影字第 1110909551號",
+    "ExecuteReMemo": "本府就「建請市府增修自治條例，依據有線廣播電視法第44條第2項規定，設置有線電視費率委員會，核定本市有線電視收費標準，敦促本市有線電視服務品質」，敬答覆如下：\r\n本府已於111年7月11日函頒臺南市政府有線廣播電視費率審議委員會設置要點，將由本府設置之有線電視費率委員會審核本轄有線電視費率，以期提升本市有線電視數位服務。",
+    "ErrorMessage": ""
+}

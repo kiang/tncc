@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第3次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "有關機關提案-決算審核報告",
+    "ComeDate": "2023\/07\/24",
+    "ComeNumber": "審南市一字第1120054115號",
+    "OrgTitle": "臺南市政府其他",
+    "OrgTitle2": "",
+    "CaseCause": "111年度臺南市總決算暨附屬單位決算及綜計表審核報告，敬請　審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據地方制度法第42條規定辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"中華民國111年度臺南市總決算暨附屬單位決算及綜計表，臺南市政府於民國112年4月28日以府主決字第1120479046號函送本處，本處業於法定期限內依法完成審核，並編製審核報告竣事。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/08\/10",
+    "CheckDesc": "聯席審查意見：照案通過。",
+    "DoneDate": "2023\/08\/17",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2023\/08\/24",
+    "SendNumber": "南議財經字第 1120007810號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c4bbe0e1-b8b7-4b48-a7ef-847becabc9e7",
+            "FileName": "111年審核報告-全0724修.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4d0bab89-938c-4536-b9c7-df524d141a24",
+            "FileName": "口頭報告.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5ec934d5-e7be-49e1-860c-10562afba973&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/08\/01",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2023\/08\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

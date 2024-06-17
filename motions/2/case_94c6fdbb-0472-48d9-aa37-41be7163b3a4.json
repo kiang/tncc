@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第2屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "2",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "曾培雅",
+    "OrgTitle2": "陳朝來、杜素吟",
+    "CaseCause": "本市東區自強里活動中心的停車場路面及林森路2段192巷24弄路面已破損不堪，請立即重鋪柏油。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、自強里活動中心的停車場路面凹凸不平，破損不堪，需重鋪柏油以維護民眾使用的安全。\"},{\"tag\":\"p\",\"content\":\"二、林森路2段192巷24弄路面已殘破不堪，車輛行駛與民眾行走時非常危險，請儘速修繕路面。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2017\/06\/23",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2017\/07\/06",
+    "SendNumber": "南議工務字第 1060004501號",
+    "DoDesc": "本案經市府106年7月18日府工務一字第1060739370號函復：（詳夾檔）\r\n================================================\r\n本案經臺南市東區區公所106年7月26日南東經字第1060478812號函復：（詳夾檔）",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0f854337-70bd-46e9-bcd9-5b41c7b2817d",
+            "FileName": "2-5-議提工務第2號案函復公文.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7e102ac8-5b64-4352-849d-a78650733d5b",
+            "FileName": "2-5-議提工務第7號案函復公文-東區公所回文.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=94c6fdbb-0472-48d9-aa37-41be7163b3a4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2017\/04\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府106年7月18日府工務一字第1060739370號函復：（詳夾檔）\r\n================================================\r\n本案經臺南市東區區公所106年7月26日南東經字第1060478812號函復：（詳夾檔）",
+    "ErrorMessage": ""
+}

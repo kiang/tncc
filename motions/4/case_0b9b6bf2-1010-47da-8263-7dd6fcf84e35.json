@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "104",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "林冠維、陳怡珍、周奕齊、曾之婕、周麗津",
+    "CaseCause": "建請市府改善新化區新果菜市場東側交易場，此面容易日曬雨淋影響攤商生意。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據人民陳情案件辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"交易場東側鄰近通道，因無建物遮蔽，致使該區攤位夏季日曬，冬季冷風吹襲，雨天常造成攤位進水無法營業。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"請市府體恤攤商業者經營不易，提出改善辦法。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"附件為攤商陳情資料，請參閱。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/06\/20",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/14",
+    "SendNumber": "南議財經字第 1120006537號",
+    "DoDesc": "本府就「建請市府改善新化區新果菜市場東側交易場，此面容易日曬雨淋影響攤商生意」案，敬答覆如下： \r\n一、為協助臺南市農產運銷公司解決新化果菜市場交易場東側日曬雨淋等問題，經與公司會勘及討論後，農產運銷公司擬以建置固定式遮雨棚作為改善方案，並研提「強化新化果菜市場營運效能計畫」，請本局協助向農糧署申請改善經費2,000萬元；對此，本局業於112年7月25日南市農銷字第1120936908號函轉農糧署。 \r\n二、承蒙貴席對於農政業務之關切，本府至為感謝，尚請不吝賜教。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=328e1eaa-3ad6-4ec5-ac91-fe43b49119de",
+            "FileName": "財經議提104號案附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0b9b6bf2-1010-47da-8263-7dd6fcf84e35&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/08\/01",
+    "ExecuteReNumber": "府農銷字第 1120952566號",
+    "ExecuteReMemo": "本府就「建請市府改善新化區新果菜市場東側交易場，此面容易日曬雨淋影響攤商生意」案，敬答覆如下： \r\n一、為協助臺南市農產運銷公司解決新化果菜市場交易場東側日曬雨淋等問題，經與公司會勘及討論後，農產運銷公司擬以建置固定式遮雨棚作為改善方案，並研提「強化新化果菜市場營運效能計畫」，請本局協助向農糧署申請改善經費2,000萬元；對此，本局業於112年7月25日南市農銷字第1120936908號函轉農糧署。 \r\n二、承蒙貴席對於農政業務之關切，本府至為感謝，尚請不吝賜教。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "56",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "楊麗玉",
+    "OrgTitle2": "曾王雅雲、陳特清、王錦德、盧崑福",
+    "CaseCause": "請市府全面修復本市麻豆區大山里南49線自來水管線替換挖掘路面，以維人車安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"麻豆區大山里南49線因自來水管線更新替換，路面經挖掘後，僅部分修復，易造成行車之危險，請市府儘速全面鋪設修復。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2012\/12\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/12\/18",
+    "SendNumber": "南議工務字第 1010011396號",
+    "DoDesc": "市府102.1.2府工公養二字第1011074884號函復：\r\n本府已於12月6日完成現勘（如會勘記錄），將視財務情況研議辦理。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=66e32637-82dd-44d2-bb0b-84ef14303449",
+            "FileName": "會勘紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4e2a1ea8-09af-4533-9fcd-7d7e08fae749&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "市府102.1.2府工公養二字第1011074884號函復：\r\n本府已於12月6日完成現勘（如會勘記錄），將視財務情況研議辦理。",
+    "ErrorMessage": ""
+}

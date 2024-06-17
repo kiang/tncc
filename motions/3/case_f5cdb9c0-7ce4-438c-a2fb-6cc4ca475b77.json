@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/03\/29",
+    "ComeNumber": "府農銷字第1110400980號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會農糧署同意本府辦理「2022臺南國際芒果節活動」案，經費新臺幣400萬（中央補助款400萬元）因未及納入111年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院農業委員會農糧署111年3月11日農糧生字第1111064414號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"所需經費新臺幣400萬元(中央補助款400萬元)，因未及納入本府111年度總預算案，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要工作項目為辦理本市111年芒果行銷活動及推展芒果產業等宣傳工作。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府111年3月29日第535次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/05\/09",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/06\/08",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/06\/14",
+    "SendNumber": "南議財經字第 1110005541號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0743d8bb-2d79-4d5b-8bc8-d31fd2a1b4c0",
+            "FileName": "5-3.2022臺南國際芒果節活動_議案說明.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=33591009-a4c6-4028-b6d4-73eab8f63862",
+            "FileName": "5-2.2022臺南國際芒果節活動_同意函.PDF",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f5cdb9c0-7ce4-438c-a2fb-6cc4ca475b77&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/04\/06",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

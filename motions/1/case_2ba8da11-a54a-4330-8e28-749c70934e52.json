@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "47",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林慶鎮",
+    "OrgTitle2": "蔡育輝、蔡玉枝、李坤煌、施重男、洪玉鳳、陳文科",
+    "CaseCause": "新市區東潭頂重劃區地號219~221號土地前道路南側擋土牆，請市府重新加高，並舖設路面。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"該段道路因年久失修，高低不平，影響人車安全，請市府儘速改善。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2012\/12\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/12\/18",
+    "SendNumber": "南議工務字第 1010011386號",
+    "DoDesc": "本案經市府101.12.22南市地農字1011071321號函復：\r\n茲訂101.12.28（五）上午9時30分假新市區公所建設課集齊後赴實地勘查。\r\n=================================================\r\n本案經市府102.1.21府地農字第1020028139號函復：\r\n一、副本抄送新市區公所，請依101.12.28實地會勘記錄結論辦理。\r\n二、檢附會勘記錄、現場照片、位置圖各乙份。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bfddd03f-01e6-4750-804e-dd5704430ad3",
+            "FileName": "會勘紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2ba8da11-a54a-4330-8e28-749c70934e52&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府101.12.22南市地農字1011071321號函復：\r\n茲訂101.12.28（五）上午9時30分假新市區公所建設課集齊後赴實地勘查。\r\n=================================================\r\n本案經市府102.1.21府地農字第1020028139號函復：\r\n一、副本抄送新市區公所，請依101.12.28實地會勘記錄結論辦理。\r\n二、檢附會勘記錄、現場照片、位置圖各乙份。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第1次 定期會",
+    "PTypTitle": "臨時動議",
+    "CaseNumber": "5",
+    "KidTitle": "議員提案-其他",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "曾順良",
+    "OrgTitle2": "杜素吟、趙昆原、林阳乙、張世賢",
+    "CaseCause": "為保障婦女之健康，請市府寬列預算補助本市婦女施打子宮頸癌疫苗。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"根據世界衛生組織（WHO）的報告，子宮頸癌是全球婦女第二常見的癌症，各國政府在此方面也投入很大的人力物力進行醫療與研究。由於早期並無症狀，所以一旦發現患病時多數人已經擴散，因此預防重於治療，請市府寬列預算補助本市婦女施打子宫頸疫苗，以保障本市婦女健康。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如說明。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2015\/08\/20",
+    "DoneDesc": "照案通過。",
+    "SendDate": "2015\/09\/01",
+    "SendNumber": "南議議事字第 1040004933號",
+    "DoDesc": "市府回覆函請由附件下載\r\n-------------\r\n一、104年9月24日府衛國健字第1040923351號函復。\r\n二、現在研發之HPV疫苗，可以預防感染HPV，約減少6至7成的子宮頸癌發生，此疫苗適合接種對象為9至26歲女性，以沒有性經驗者效果較佳。\r\n三、本年度持續配合國民健康署計畫推動低收入戶、中低收入戶等國中青少女接種HPV疫苗，同時結合醫療院所積極辦理婦女子宮頸抹片檢查服務。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bb005ca4-dd4f-4ce1-b6db-8494e86eaf86",
+            "FileName": "市府回覆附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=acebad3b-ad9b-4312-8d37-fcf86fc3899a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照案通過。",
+    "FirstDate": "2015\/06\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "市府回覆函請由附件下載\r\n-------------\r\n一、104年9月24日府衛國健字第1040923351號函復。\r\n二、現在研發之HPV疫苗，可以預防感染HPV，約減少6至7成的子宮頸癌發生，此疫苗適合接種對象為9至26歲女性，以沒有性經驗者效果較佳。\r\n三、本年度持續配合國民健康署計畫推動低收入戶、中低收入戶等國中青少女接種HPV疫苗，同時結合醫療院所積極辦理婦女子宮頸抹片檢查服務。\r\n",
+    "ErrorMessage": ""
+}

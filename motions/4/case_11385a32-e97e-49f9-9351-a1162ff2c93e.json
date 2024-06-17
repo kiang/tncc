@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "19",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "尤榮智、陳怡珍、周奕齊、林冠維、趙昆原、吳通龍、蔡育輝、陳皇宇、李中岑",
+    "CaseCause": "建請市府徵收闢設新化區民族街道路至8米，以紓解區域交通。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"新化區民族街位於市區必須之道路，然路面狹小、彎曲，自民國75年都市計畫道路劃定至今已逾三十多年，卻仍沒有貫通，至今街景及房屋已更為破落，且遇到廟會、喜事、活動等，整條道路封閉無法通行，為活化民族街，且讓繁忙市區多一條道路分散車流量，建請市府拓寬新化區民族街道路。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/05\/23",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/05\/29",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2024\/06\/05",
+    "SendNumber": "南議工務字第 1130003880號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=dc56198c-7505-44ec-a37c-af5e8875d4de",
+            "FileName": "4-3定工務議提19附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=11385a32-e97e-49f9-9351-a1162ff2c93e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

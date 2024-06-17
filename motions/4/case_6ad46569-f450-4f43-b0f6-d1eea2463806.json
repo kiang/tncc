@@ -1,0 +1,59 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/03\/27",
+    "ComeNumber": "府工使一字第1130436568號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部核定本市辦理113年度「都市危險及老舊建築物結構安全性能評估案」經費新臺幣676萬5,000元(中央全額補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關事宜，俟114年度總預算辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部113年2月2日內授國更字第1130801008號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案依內政部核定函示獲核定補助113年度「都市危險及老舊建築物結構安全性能評估案」中央補助款新臺幣676萬5,000元(中央全額補助)，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付。俟114年度總預算辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年3月19日第638次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款緊急理由：為使民眾瞭解住家耐震性能，避免因地震造成損失以確保民眾居家安全，內政部113年核定補助本市建築物申請辦理耐震能力評估，因未及納入本府113年度總預算，為爭取時效，需辦理墊付款支應。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算辦理轉正。\"}]",
+    "CheckDate": "2024\/05\/13",
+    "CheckDesc": "聯席審查意見：\r\n一、同意墊付。\r\n二、請工務局將相關申請資格資料提供給本會每位議員。",
+    "DoneDate": "2024\/05\/29",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2024\/06\/04",
+    "SendNumber": "南議工務字第 1130003850號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=46b14a4b-d1cb-4f55-a988-6c9b3bc2004f",
+            "FileName": "4-3定工務市提1附件說明.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bb6905be-daef-4daa-975e-178a757f3e9a",
+            "FileName": "31445_0436568A00_ATTCH3.PDF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=430884a5-3933-4f65-8d55-aae122e1d0ce",
+            "FileName": "31445_0436568A00_ATTCH4.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6ad46569-f450-4f43-b0f6-d1eea2463806&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=532cdc2e-4e22-41c7-8d66-e85187ad3a46",
+            "FileName": "公告113年度初詳評補助.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

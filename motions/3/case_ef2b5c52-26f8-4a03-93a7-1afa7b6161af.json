@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "10",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/05\/05",
+    "ComeNumber": "府工新一字第1100560173號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部水利署第六河川局補助辦理「臺南市仁德區文賢路（臺1線至保安路）拓寬工程(臺86線至保安路）暨三爺溪排水文賢橋改建工程」案，本案工程經濟部水利署同意核定補助經費新臺幣(下同)為2,588萬元全額中央補助款，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據經濟部水利署第六河川局110年5月3日水六工字第11050064680號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」規定。\"},{\"tag\":\"p\",\"content\":\"三、本案款項係為辦理「臺南市仁德區文賢路（臺1線至保安路）拓寬工程(臺86線至保安路）暨三爺溪排水文賢橋改建工程」，工程經費預算2億3,653萬元(含後續擴充經費)，「中央補助款(內政部營建署)1億6,852萬元及經濟部水利署同意核定補助經費為2,588萬元，市配合款4,213萬元」，其中經濟部水利署補助經費2,588萬元部分，因未及納入本府110年度總預算，謹請貴會同意先行墊付，俟111年度總預算時再予轉正。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年5月4日第489次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/08\/09",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/08\/23",
+    "SendNumber": "南議工務字第 1100004713號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d1a65027-8aca-4df3-9363-b1046913dd0b",
+            "FileName": "市提10附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ef2b5c52-26f8-4a03-93a7-1afa7b6161af&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

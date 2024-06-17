@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "27",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/05\/12",
+    "ComeNumber": "府農畜字1100612728號",
+    "OrgTitle": "臺南市政府農業局所屬動物防疫保護處",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會核定本府辦理「110年度養豬場節水減廢及資源化利用」計畫，其中經費新臺幣1,423萬元(全額中央補助款)為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據行政院農業委員會110年4月20日農牧字第1100042541號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"（一）所需總經費計新台幣1,623萬元整(中央補助款1,591萬元、市配合款32萬元)，其中200萬元(中央補助款168萬元、市配合款32萬元)業經貴會同意墊付，另1,423萬元因未及納入本府110年度總預算，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"（二）本計畫係盤點臺南市主要流域畜牧場現況、汰換污染防治設備、推動養豬場資源化再利用、輔導養豬場進行沼氣發電接軌國家能源政策等。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年5月11日第490次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/08\/09",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/08\/26",
+    "SendNumber": "南議建設字第 1100006968號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9691be46-c286-4528-8eaf-5b386ff15950",
+            "FileName": "計畫說明.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=307e73bc-8033-4dd7-98a9-d2e6d244278d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

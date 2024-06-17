@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "19",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/10\/24",
+    "ComeNumber": "府客綜字第1121386182號",
+    "OrgTitle": "臺南市政府客家事務委員會",
+    "OrgTitle2": "",
+    "CaseCause": "客家委員會核定本府辦理「2024台灣燈會在臺南-榮耀臺南光彩客家」計畫，經費新臺幣(以下同)1,500萬元(中央補助款)未及納入113年度總預算案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據客家委員會112年10月19日客會傳字第1120007895號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費1,786萬元整(中央補助款1,500萬；市配合款286萬)，其中中央補助款1,500萬元因未及納入本府113年度總預算案，擬辦理墊付，俟113年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年10月24日第617次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案經費係補助本府辦理「2024台灣燈會在臺南-榮耀臺南光彩客家」計畫，須於跨112年至113年度辦理完成，故於本會期提出墊付案申請，以利向中央核結請領補助款。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/11\/23",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/11\/30",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/12\/05",
+    "SendNumber": "南議民教字第 1120011759號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a58fcc7c-63f4-4677-a2c0-36d8182ae788",
+            "FileName": "民教19(客委會)-附件(同意補助函及計畫書).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4b5898d5-c92c-48c6-8395-22b247abe00e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/10\/27",
+    "FirstDesc": "一、交付聯席審查。\r\n二、請客家事務委員會於聯席審查前提供更加細項之各項經費概算表。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

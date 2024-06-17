@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "7",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡旺詮",
+    "OrgTitle2": "郭鴻儀、盧崑福、蔡蘇秋金、趙昆原",
+    "CaseCause": "請主計處減化互動式視覺化圖表之查詢。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"六都當中，台北市、新北市與台中市的主計處網站中的資料視覺化，都在搜尋引擎上可以輕易發現，點擊直接即可瀏覽，唯有台南市，點擊之後會連到台南市主計處的官網，並經過五次點擊、跳轉頁面最後連到另一個網站，才能瀏覽台南市的視覺化資料，整個過程步驟繁瑣且無明確指示，一般民眾在使用上極其不便，建議應減化搜尋過程，以利民眾使用。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2021\/08\/13",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/08\/25",
+    "SendNumber": "南議財經字第 1100006606號",
+    "DoDesc": "臺南市政府110年8月30日府主統字第1101044354號函覆:\r\n經本處針對網頁進行重新編排視覺化資料查詢平臺節點位置，於主計處網頁左側設置「統計視覺化查詢平臺」專屬節點，將原本需要經歷5個步驟的滑鼠點擊，修正成只要點選該節點連結即能進入查詢平臺，以利民眾方便查詢及使用。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5721b6ec-e650-4ad3-85c4-3710dda2fc9b",
+            "FileName": "議提-7.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5c5363fb-69a5-485c-8385-1fcef484ea27&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "臺南市政府110年8月30日府主統字第1101044354號函覆:\r\n經本處針對網頁進行重新編排視覺化資料查詢平臺節點位置，於主計處網頁左側設置「統計視覺化查詢平臺」專屬節點，將原本需要經歷5個步驟的滑鼠點擊，修正成只要點選該節點連結即能進入查詢平臺，以利民眾方便查詢及使用。",
+    "ErrorMessage": ""
+}

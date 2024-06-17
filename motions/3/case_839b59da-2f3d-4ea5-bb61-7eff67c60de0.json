@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第3次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "9",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2019\/07\/22",
+    "ComeNumber": "府交公運字第1080849677號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部公路總局核定補助本市辦理「108年度「公路公共運輸多元推升計畫」第1波計畫第1次核定「幸福巴士計畫-臺南市幸福小黃營運缺口（計畫編號：108TNP01）」營運缺口補助經費108萬元（全額中央補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟108年度追加減預算或於109年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據交通部公路總局108年4月25日路運計字第1080044584號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第四十四點第四款之規定：「經上級政府核定之補助款，所使用之支出。」。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"（一）本案交通部公路總局同意補助新臺幣107萬9,765元（配合預算編列進位為108萬元）。\"},{\"tag\":\"p\",\"content\":\"（二）因本案未及納入本府交通局所屬公共運輸處108年度預算，擬請准予辦理先行墊付，俟108年度追加減預算或於109年度總預算時再予轉正。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府108年5月21日第389次市政會議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟108年度追加減預算或於109年度總預算時再予轉正。\"}]",
+    "CheckDate": "2019\/08\/20",
+    "CheckDesc": "同意墊付。",
+    "DoneDate": "2019\/08\/23",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/09\/03",
+    "SendNumber": "南議保安字第 1080007675號",
+    "DoDesc": "一、案係交通部公路總局公路公共運輸多元推升計畫補助案件。\r\n二、本案總計虧損金額77萬9,517元，業於108年12月13日府交運字第1081442323號函申請核撥補助款66萬2,589元（85%），本府自籌11萬6,928元（15%）。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=40f7591f-f1d2-4767-820a-cab3b031a3f8",
+            "FileName": "保安市提9號-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=839b59da-2f3d-4ea5-bb61-7eff67c60de0&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/08\/14",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "一、案係交通部公路總局公路公共運輸多元推升計畫補助案件。\r\n二、本案總計虧損金額77萬9,517元，業於108年12月13日府交運字第1081442323號函申請核撥補助款66萬2,589元（85%），本府自籌11萬6,928元（15%）。\r\n",
+    "ErrorMessage": ""
+}

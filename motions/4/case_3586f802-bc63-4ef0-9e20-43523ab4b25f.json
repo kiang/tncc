@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "233",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳秋宏",
+    "OrgTitle2": "林志展、周嘉韋、蔡蘇秋金、謝舒凡、邱昭勝、蔡麗青、蔡筱薇、沈家鳳",
+    "CaseCause": "請改善麻豆區謝厝寮排水護岸。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"石頭砌護岸老舊，年久失修塌陷崩落，急需改善。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/06\/30",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/10",
+    "SendNumber": "南議工務字第 1120005932號",
+    "DoDesc": "本府就「請改善麻豆區謝厝寮排水護岸」案，敬答覆如下：\r\n一、提案位置位於謝厝寮排水之中上游段，現況為老舊砌石護岸，雖部分護岸有破損情形，然結構尚屬穩定，暫不影響排水功能，主要保護標的為農田。本案已於112年4月14日會同麻豆區公所會勘，預計新建矩形明渠長約100 公尺(W*H=4 M*2M )，經估算所需經費約需460萬元，將視年度預算辦理改善。\r\n二、另因謝厝寮排水兩側涉及私有地及果樹等地上物，已請麻豆區公所協助取得土地同意書俾利後續工程施作。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=50954ae6-593d-4ad4-bfa3-0edd6988c8d6",
+            "FileName": "4-1定工務議提233附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=86d26597-b0bc-401d-93f3-97d20aea2896",
+            "FileName": "4-1定議提233號.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3586f802-bc63-4ef0-9e20-43523ab4b25f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/08\/08",
+    "ExecuteReNumber": "府水工字第 1121003547號",
+    "ExecuteReMemo": "本府就「請改善麻豆區謝厝寮排水護岸」案，敬答覆如下：\r\n一、提案位置位於謝厝寮排水之中上游段，現況為老舊砌石護岸，雖部分護岸有破損情形，然結構尚屬穩定，暫不影響排水功能，主要保護標的為農田。本案已於112年4月14日會同麻豆區公所會勘，預計新建矩形明渠長約100 公尺(W*H=4 M*2M )，經估算所需經費約需460萬元，將視年度預算辦理改善。\r\n二、另因謝厝寮排水兩側涉及私有地及果樹等地上物，已請麻豆區公所協助取得土地同意書俾利後續工程施作。",
+    "ErrorMessage": ""
+}

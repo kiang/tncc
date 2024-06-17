@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第2次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "7",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "沈震東",
+    "OrgTitle2": "林易瑩、鄭佳欣",
+    "CaseCause": "建請市府工務局進行小東路147巷整排側溝之修繕工程。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"因該側溝位置緊鄰小東公園，致公園樹根生長竄向側溝溝內，不僅造成清溝障礙，亦導致排水相關問題。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2019\/02\/27",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/03\/08",
+    "SendNumber": "南議工務字第 1080001879號",
+    "DoDesc": "本案經市府108年3月25日府工養一字第1080352961號函復：\r\n(詳如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3cba60c3-6a08-4d6f-84c9-51af8e413e21",
+            "FileName": "3-2臨(議提7)書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ce934b62-8ee0-434b-9280-67528cabbabc&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/02\/14",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府108年3月25日府工養一字第1080352961號函復：\r\n(詳如夾檔)",
+    "ErrorMessage": ""
+}

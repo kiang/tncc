@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "3",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡蘇秋金",
+    "OrgTitle2": "鄭佳欣、朱正軒、黄肇輝、沈震東、林依婷",
+    "CaseCause": "建請檢討各區公所特別費支出，以符合實際需求。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"婚喪喜慶是民眾的大事，各區公所贈與民眾之輓聯、喜幛、中堂、花籃(圈)等，是風俗民情之必要。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"區長擔任點主官是為民服務，但是喪禮時常在清晨6、7點開始，有些區長偶而也需要跨區點主，不啻增加區政外之負擔。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"各級政府機關特別費支用規定」是由民國96年實施至今，時至今日物價已翻漲多倍，故建請檢討以符合實際需求。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/06\/20",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/07",
+    "SendNumber": "南議財經字第 1120005674號",
+    "DoDesc": "本府就「建請檢討各區公所特別費支出，以符合實際需求」決議案，敬答覆如下：\r\n有關議員所提今日物價已翻漲多倍，建請檢討各區公所特別費支出，以符合實際需求，本市預算共同性費用編列基準區長特別費，113 年度已由原5 種級距修正為下列2 種級距：\r\n一、人口10 萬以上，每月19,500 元。\r\n二、人口未滿10 萬，每月18,500 元。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3fa3cc2c-1e75-4483-a4b4-9ec42146e89a",
+            "FileName": "3.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=11e5804d-b218-4df4-843c-148218f657fe&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/07\/11",
+    "ExecuteReNumber": "府主預字第 1120896244號",
+    "ExecuteReMemo": "本府就「建請檢討各區公所特別費支出，以符合實際需求」決議案，敬答覆如下：\r\n有關議員所提今日物價已翻漲多倍，建請檢討各區公所特別費支出，以符合實際需求，本市預算共同性費用編列基準區長特別費，113 年度已由原5 種級距修正為下列2 種級距：\r\n一、人口10 萬以上，每月19,500 元。\r\n二、人口未滿10 萬，每月18,500 元。",
+    "ErrorMessage": ""
+}

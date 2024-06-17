@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第4次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2016\/10\/21",
+    "ComeNumber": "府都社字第1051089462號",
+    "OrgTitle": "臺南市政府都市發展局",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南市低碳城市自治條例」部分條文修正草案，提請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市政府以推動低碳城市為目標，而本自治條例自一百零一年十二月二十二日公布施行至今已近四年，經重新檢視本自治條例，就部分條文未盡明確或窒礙難行者提出修正方案，並彙整民間團體陳情建議、行政院核定時之修法建議及本府各機關意見予以檢討，爰擬具臺南市低碳城市自治條例部分條文修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府105年10月12日第267次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市低碳城市自治條例」部分條文修正草案（含總說明及修正對照表）乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2016\/12\/23",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2017\/01\/03",
+    "SendNumber": "南議法規字第 1050008997號",
+    "DoDesc": "ㄧ、本府106年1月10日府都設字第1060045058號函送行政院核定。\r\n二、行政院106年2月6日院臺環字第1060003595號函覆因會商部會延遲函復，影響彙整回覆作業，延長核定期限。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=00911045-1aa6-4490-8046-6a97b21c3515",
+            "FileName": "臺南市低碳城市自治條例部分條文修正草案(總說明、條文對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=63797fa9-ee67-43a2-9acf-dee380437526&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2016\/10\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "ㄧ、本府106年1月10日府都設字第1060045058號函送行政院核定。\r\n二、行政院106年2月6日院臺環字第1060003595號函覆因會商部會延遲函復，影響彙整回覆作業，延長核定期限。\r\n",
+    "ErrorMessage": ""
+}

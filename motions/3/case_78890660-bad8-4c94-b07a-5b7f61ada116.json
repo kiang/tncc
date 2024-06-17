@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "17",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/05\/24",
+    "ComeNumber": "府都景字第1110663379號",
+    "OrgTitle": "臺南市政府都市發展局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部核定本市辦理「111年臺南市新化區城鎮核心環境整體改造計畫二期─新化風情小鎮。綠藝生活舞台」乙案規劃設計費，總經費新台幣350萬元(中央補助款276萬5,000元，地方配合款73萬5,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部111年5月16日台內營字第1110808410號函。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款之規定，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本次墊付經費係核定本市辦理「111年臺南市新化區城鎮核心環境整體改造計畫二期─新化風情小鎮。綠藝生活舞台」乙案規劃設計費，總經費新台幣350萬元(中央補助款276萬5,000元，地方配合款73萬5,000元)，因未及納入本府111年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年5月24日第543次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/06\/30",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/07\/08",
+    "SendNumber": "南議建設字第 1110007391號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=77124d96-a2e0-434c-8f9a-1c7c279fe9f6",
+            "FileName": "核定函.PDF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=43f2d866-9c26-40c6-beb2-2d0e8abdba9c",
+            "FileName": "審查紀錄 .pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=35220838-f949-4adb-a3a2-10ff3f999f85",
+            "FileName": "計畫書_新化區二期_1110525 (8000萬).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=78890660-bad8-4c94-b07a-5b7f61ada116&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/05\/31",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/06\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/03\/28",
+    "ComeNumber": "府原綜字第1110418581號",
+    "OrgTitle": "臺南市政府原住民族事務委員會",
+    "OrgTitle2": "",
+    "CaseCause": "原住民族委員會原住民族文化發展中心核定本府「111年度補助地方政府僱用原住民文化館策展規劃解說員計畫」，經費54萬6,000元(市配合款)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度編列總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據原住民族委員會原住民族文化發展中心111年1月4日原民發文字第1100010804號函及111年2月16日原民發文字第1110000988號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用支出」及第45點第3款等規定辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費165萬5,364元整(中央補助款110萬9,364元、市配合款54萬6,000元)。其中，54萬6,000元(市配合款)未及納入本（111）年度預算，謹請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年3月15日第533次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度編列總預算時再予轉正。\"}]",
+    "CheckDate": "2022\/05\/09",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/06\/08",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/06\/10",
+    "SendNumber": "南議民教字第 1110005572號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bf04a314-d177-4013-8cdf-07acda86a8c8",
+            "FileName": "民教市提3(原民會)-附件(核定函及計畫書等資料).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b0c19d3c-4b4d-4ba3-b404-052477c03c69&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/04\/06",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

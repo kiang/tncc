@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "16",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/10\/20",
+    "ComeNumber": "府教體處設字第1101234836號",
+    "OrgTitle": "臺南市政府教育局",
+    "OrgTitle2": "",
+    "CaseCause": "教育部體育署核定本市「歸仁高鐵壘球場第二期興建工程」，經費共計新臺幣400萬元整(中央補助款280萬元、市配合款120萬元)，因核定時未及納入本府111年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據教育部體育署110年10月7日臺教體署設(一)字第1100036502A號函函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\"},{\"tag\":\"p\",\"content\":\"三、本案業經本府110年10月19日第512次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2021\/10\/27",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2021\/10\/29",
+    "SendNumber": "南議教育字第 1100009944號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0f9c2ae0-4e05-4761-867d-d51669037dab",
+            "FileName": "3-6定-教育市提16號案-計畫書-歸仁高鐵壘球場第二期興建工程.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0c5fd66b-f579-4b05-a811-ccedee8f08f3",
+            "FileName": "3-6定-教育市提16號案-核定文歸仁高鐵壘球場第二期興建工程.PDF",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d7080ea5-ba13-4fb1-914a-3e2c9002a5f4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

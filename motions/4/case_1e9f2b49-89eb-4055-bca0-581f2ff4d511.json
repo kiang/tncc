@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "141",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "方一峰、吳通龍、李鎮國、施余興望 Tjakumay Tagaw",
+    "CaseCause": "建請市府交通局與工務局研議移除安平區國平里健康路三段329-335號前綠帶並增設機車停車格位之可能性。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"查健康路三段329-335號前雖經市府交通局劃設機車彎供機車停車使用，惟該處住戶及上班族人數眾多，該機車停車格數不敷使用，導致機車違規停放，嚴重影響交通往來之安全。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為求改善該處機車停車亂象，以維護車輛通行之安全，建請市府交通局與工務局研議移除健康路三段329-335號前綠帶並增設機車停車格位之可能性（詳如附圖）。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/11\/27",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/12\/05",
+    "SendNumber": "南議工務字第 1120011431號",
+    "DoDesc": "本府就「建請市府交通局與工務局研議移除安平區國平里健康路三段329-335號前綠帶並增設機車停車格位之可能性。」案，敬答覆如下：\r\n有關安平區國平里健康路三段329-335號前綠帶，管理權責為本市安平區公所，鑑於地方需求增設機車停車格位，後續將請權責單位與本府交通局研議後辦理。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7a83fc00-e353-46fa-a01b-af31654789d9",
+            "FileName": "4-2定工務議提141號(附件).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1e9f2b49-89eb-4055-bca0-581f2ff4d511&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/12\/21",
+    "ExecuteReNumber": "府工園一字第 1121614270號",
+    "ExecuteReMemo": "本府就「建請市府交通局與工務局研議移除安平區國平里健康路三段329-335號前綠帶並增設機車停車格位之可能性。」案，敬答覆如下：\r\n有關安平區國平里健康路三段329-335號前綠帶，管理權責為本市安平區公所，鑑於地方需求增設機車停車格位，後續將請權責單位與本府交通局研議後辦理。",
+    "ErrorMessage": ""
+}

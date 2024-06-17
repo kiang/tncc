@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "63",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡筱薇",
+    "OrgTitle2": "陳秋宏、李宗翰、Ingay Tali穎艾達利",
+    "CaseCause": "東興公園地面淤積泥土及雜草叢生，需清理打掃。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"東興公園人行步道長期皆是泥濘，尤其下過雨後泥土未乾容易讓行人滑倒，及雜草叢生有礙觀瞻，本席要求主管機關定期清理打掃，確保民眾的遊憩品質。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/11\/26",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/12\/08",
+    "SendNumber": "南議工務字第 1090011771號",
+    "DoDesc": "本案經市府110年1月4日府工務一字第1091538801號函復：\r\n東興公園地面淤積泥土及雜草本府工務局已清理完成，並加強環境清掃工作以維民眾權益。 ",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=79e75c5d-db1d-40d2-9af4-a404c47c5566",
+            "FileName": "議提63-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=aa1d13ba-b4a9-4072-b194-da664bcc7016&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年1月4日府工務一字第1091538801號函復：\r\n東興公園地面淤積泥土及雜草本府工務局已清理完成，並加強環境清掃工作以維民眾權益。 ",
+    "ErrorMessage": ""
+}

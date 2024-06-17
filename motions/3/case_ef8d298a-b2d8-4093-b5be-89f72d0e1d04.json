@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "34",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "郭鴻儀",
+    "OrgTitle2": "李宗翰、劉米山、沈家鳳、陳碧玉、邱莉莉、曾信凱、蔡筱薇、鄭佳欣、Ingay Tali穎艾達利",
+    "CaseCause": "建請市府儘速辦理臺南市仁德區德糖路雨水箱涵新建工程，改善沿線區域逢雨必淹之困境。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"本市仁德區德糖路因舊有雨水下水道排洪量不足，以致沿線區域遇強降雨內水排量不足造成積淹水，建請市府儘速開闢新建雨水箱涵，解決當地居民長年淹水之苦。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/09\/07",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2020\/09\/09",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/09\/14",
+    "SendNumber": "南議工務字第 1090008169號",
+    "DoDesc": "一、仁德區德糖路雨水下水道(TI幹線)系統，起點位於德安路街接德糖路穿越中山高涵洞，往西排入三爺溪左岸，全長約1,594公尺，箱涵尺寸下游段為H*H=6.0*2.0m 、上游為W*=2.0*2.0m。\r\n二、該幹線中下游段配合仁德特27號道路開開一併施作雨水下水道，預計今(109)年10月完工，預期可降低區域積淹水情事。\r\n三、上游段部分(德安路起至德洋路舆德糖路口)長度約785公尺，所需經費約6,500萬元，本府已提報內政部營建署前瞻計畫爭取經費辦理。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c5855a8d-736c-48aa-9b65-2318dd5f108c",
+            "FileName": "議提34-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ef8d298a-b2d8-4093-b5be-89f72d0e1d04&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/08\/25",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "一、仁德區德糖路雨水下水道(TI幹線)系統，起點位於德安路街接德糖路穿越中山高涵洞，往西排入三爺溪左岸，全長約1,594公尺，箱涵尺寸下游段為H*H=6.0*2.0m 、上游為W*=2.0*2.0m。\r\n二、該幹線中下游段配合仁德特27號道路開開一併施作雨水下水道，預計今(109)年10月完工，預期可降低區域積淹水情事。\r\n三、上游段部分(德安路起至德洋路舆德糖路口)長度約785公尺，所需經費約6,500萬元，本府已提報內政部營建署前瞻計畫爭取經費辦理。\r\n",
+    "ErrorMessage": ""
+}

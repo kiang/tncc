@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "12",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "趙昆原",
+    "OrgTitle2": "林美燕、林燕祝、黃麗招、林志聰、許至椿、方一峰",
+    "CaseCause": "東山區南勢里大洋（655）農路路面損毀，建請儘速刨鋪改善乙案。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"東山區南勢里大洋（655）農路路面斑駁損壞、崎嶇難行，影響用路人甚鉅，建議全段路面重新刨鋪。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/06\/21",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/07\/08",
+    "SendNumber": "南議財經字第 1110006477號",
+    "DoDesc": "本府就「東山區南勢里大洋(655)農路路面損毀，建請儘速刨鋪改善乙案」案，敬答覆如下：\r\n一、本案工程名稱：東山區南勢里大洋(655)農路改善工程。\r\n二、經查本局已以111年7月26日南市農工字第1110971559號函核定東山區公所施作。\r\n三、承蒙 貴會對於市政之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0bc77633-8831-46a7-9b0b-5b0f0264d395",
+            "FileName": "12.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=57fc7a1e-de53-4793-aada-0c1f3b4225a5&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/07\/27",
+    "ExecuteReNumber": "府農工字第 1110984010號",
+    "ExecuteReMemo": "本府就「東山區南勢里大洋(655)農路路面損毀，建請儘速刨鋪改善乙案」案，敬答覆如下：\r\n一、本案工程名稱：東山區南勢里大洋(655)農路改善工程。\r\n二、經查本局已以111年7月26日南市農工字第1110971559號函核定東山區公所施作。\r\n三、承蒙 貴會對於市政之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "ErrorMessage": ""
+}

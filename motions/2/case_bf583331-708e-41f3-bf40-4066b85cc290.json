@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第2次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "31",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "王家貞、許至椿、林阳乙、林燕祝",
+    "CaseCause": "請重新鋪設南區國民路270巷73弄及270巷全段路面。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"居民反映南區南區270巷73弄及270巷全段路面已破損，請重新鋪設。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2015\/11\/05",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2015\/11\/13",
+    "SendNumber": "南議工務字第 1040007514號",
+    "DoDesc": "本案經市府104年11月23日府工務一字第1041135932號函復：\r\n（答復函如附件）\r\n本案經市府104年12月15日府民自字第1041225040號函復：\r\n本府就貴席於第2屆第2次定期大會提案「請重新鋪設南區國民路270巷37弄及270巷全段路面」乙案，敬答覆如下：\r\n    有關議員建議旨揭路段重新鋪設柏油，本市南區區公所已於104年12月1日派員前往勘查，經評估其總工程經費約145萬元，因經費龐大，本年度將屆業務機關南區區公所預算經費將用罄，爰將錄案於105年度籌措經費辦理。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ae00b19a-72e8-4227-bd14-0d31c8599691",
+            "FileName": "市府答復函.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=bf583331-708e-41f3-bf40-4066b85cc290&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2015\/08\/28",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府104年11月23日府工務一字第1041135932號函復：\r\n（答復函如附件）\r\n本案經市府104年12月15日府民自字第1041225040號函復：\r\n本府就貴席於第2屆第2次定期大會提案「請重新鋪設南區國民路270巷37弄及270巷全段路面」乙案，敬答覆如下：\r\n    有關議員建議旨揭路段重新鋪設柏油，本市南區區公所已於104年12月1日派員前往勘查，經評估其總工程經費約145萬元，因經費龐大，本年度將屆業務機關南區區公所預算經費將用罄，爰將錄案於105年度籌措經費辦理。\r\n",
+    "ErrorMessage": ""
+}

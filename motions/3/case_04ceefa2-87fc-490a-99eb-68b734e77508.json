@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第2次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "4",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "郭鴻儀",
+    "OrgTitle2": "Ingay Tali穎艾達利、黃麗招、鄭佳欣、沈震東、林易瑩、蔡筱薇、林美燕、蔡淑惠",
+    "CaseCause": "請市府加速都市計畫區域內公園用地之取得作業及鄰里公園之建置。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、為落實低碳城市願景，台南市推動「一區一公園」計畫，包含鄰里公園、大型公園、重劃區等公園建置，尚有許多市民居住區域無鄰近公園綠地，為提升市民生活品質，請市府加速鄰里公園建置。\"},{\"tag\":\"p\",\"content\":\"二、市府於都市計畫區內劃定公園用地，未經用地取得，導致用地閒置、阻礙公園建設等問題，建請巿府加速辦理都市計畫區域內公園用地之取得，並提出列管公園用地尚未辦理用地取得之相關統計報告書。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2019\/02\/27",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/03\/08",
+    "SendNumber": "南議工務字第 1080001875號",
+    "DoDesc": "本案經市府108年4月3日府工園二字第1080368508號函復：\r\n(詳如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fe8fb7e7-530e-437c-a1f8-e1718d22542f",
+            "FileName": "3-2臨(議提4)書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=04ceefa2-87fc-490a-99eb-68b734e77508&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/02\/14",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府108年4月3日府工園二字第1080368508號函復：\r\n(詳如夾檔)",
+    "ErrorMessage": ""
+}

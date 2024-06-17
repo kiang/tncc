@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第8次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2018\/08\/17",
+    "ComeNumber": "府交綜字第1070933848號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南市共享自行車管理自治條例(草案)」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為有效規範共享自行車在臺南市之營運事項，促進低碳運具發展，維持本市市容與停車秩序及公共安全，特制定本自治條例。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府107年8月8日第348次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市共享自行車管理自治條例(草案)」（含總說明、逐條說明及條文內容）1份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、照案通過。\r\n二、附帶意見：公共運輸應以提高承載率及節能減碳為考量，所以在上、下班尖峰時間，應要求公車業者，必須以大巴士載客。\r\n",
+    "DoneDate": "2018\/11\/27",
+    "DoneDesc": "照審查意見通過。\r\n備註：係經第2屆第12次臨時會第1次會（107年11月27日）決議通過。",
+    "SendDate": "2018\/12\/11",
+    "SendNumber": "南議法規字第 1070008222號",
+    "DoDesc": "一、本府於107年12月21日府交綜字第1071426951號報請交通部核定。\r\n二、行政院108年1月25日院臺交字第1080002050號說明需延長核定期限（「地方制度法」第32條第3項但書規定）\r\n三、持續追蹤行政院核定進度。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e1fee60d-1f39-4609-9fdd-3bf8fa5b962a",
+            "FileName": "2-8定市提4-臺南市共享自行車管理自治條例草案(總說明、逐條說明、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9118e53d-ead2-4ff0-9604-e518485e76a8&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。\r\n備註：係經第2屆第12次臨時會第1次會（107年11月27日）決議通過。",
+    "FirstDate": "2018\/07\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "一、本府於107年12月21日府交綜字第1071426951號報請交通部核定。\r\n二、行政院108年1月25日院臺交字第1080002050號說明需延長核定期限（「地方制度法」第32條第3項但書規定）\r\n三、持續追蹤行政院核定進度。\r\n",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "民政",
+    "CaseNumber": "18",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2021\/07\/06",
+    "ComeNumber": "府民區字第1100815062號",
+    "OrgTitle": "臺南市政府民政局",
+    "OrgTitle2": "",
+    "CaseCause": "為關廟區公所辦理「關廟區南雄里變更為龜洞里連署案」，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據地方制度法第六條規定，直轄市之里名稱，依原有之名稱；同法第六條第二項第五款規定，里名稱之變更，由各該市政府提請市議會通過後辦理。\"},{\"tag\":\"p\",\"content\":\"二、為尊重地方民意並使里名稱變更之作業有所依循，本府訂定「臺南市政府辦理里名稱變更作業要點」，由里民連署提出變更案。\"},{\"tag\":\"p\",\"content\":\"三、本案該里有連署資格人數共1,460人，經區公所及戶政事務所查對，連署名冊內符合連署資格人數共766人，已達該里有連署資格人數二分之一，符合里名稱變更規定。\"},{\"tag\":\"p\",\"content\":\"四、關廟區公所並於110年5月31日至6月8日調查該區31位地方意見領袖（議員、各里里長及南雄里各鄰鄰長），包含不表示意見2位、贊同恢復原里名1位、尊重地方意見1位、尊重住民自決1位、無意見24位、不表達意見1位、有意見1位。\"},{\"tag\":\"p\",\"content\":\"五、茲將「臺南市關廟區南雄里變更為龜洞里」連署資料印附，提請審議。\"},{\"tag\":\"p\",\"content\":\"六、本案業經本府110年6月28日第497次市政會議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"謹請貴會審議，同意後辦理後續里名變更事宜。\"}]",
+    "CheckDate": "2021\/08\/10",
+    "CheckDesc": "同意辦理。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/08\/25",
+    "SendNumber": "南議民政字第 1100005656號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b962a744-9b19-4019-b816-278eb1f949e4",
+            "FileName": "連署審查表等資料.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f9de281f-9034-4fa0-ad63-c5fc30eb63a7&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

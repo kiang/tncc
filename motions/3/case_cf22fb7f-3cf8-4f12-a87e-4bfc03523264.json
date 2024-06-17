@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "10",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/09\/29",
+    "ComeNumber": "府水行字第1111268875號 ",
+    "OrgTitle": "臺南市政府水利局",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部水利署第六河川局核定本市「111年度水資源作業基金土石銷售成本之公益支出」經費新台幣280萬元(全部中央補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據經濟部水利署第六河川局111年8月26日水六管字第11102080490號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合各機關單位預算執行要點第44點第4款辦理，經上級政府核定之補助款，所使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案為「111年度水資源作業基金土石銷售成本之公益支出」核定補助經費為280萬元整，因未及納入本府112年度總預算，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府111年9月13日第560次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2022\/10\/05",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2022\/10\/14",
+    "SendNumber": "南議工務字第 1110012339號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2af3480d-2a00-4a8d-b440-b899c0168eef",
+            "FileName": "水六管字第11102080490號函.PDF",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=cf22fb7f-3cf8-4f12-a87e-4bfc03523264&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

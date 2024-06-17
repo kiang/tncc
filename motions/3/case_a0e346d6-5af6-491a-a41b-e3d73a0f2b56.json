@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第1次 定期會",
+    "PTypTitle": "會務",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李宗翰",
+    "OrgTitle2": "蔡蘇秋金、林宜瑾、蔡筱薇、沈震東、沈家鳳、林志展、林志聰、呂維胤、蔡旺詮、陳秋宏、Ingay Tali穎艾達利",
+    "CaseCause": "修正「臺南市議會各種委員會設置辦法」第十三條，讓議員能夠於非所屬委員會參與討論。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"目前「臺南市議會各種委員會設置辦法」第十三條中規定，除本委員會委員之外不得參與討論，使得變相鼓勵議員不參加其他委員會，為使議員多參與各式委員會，讓討論更加多元，遂提出此案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"詳細提案修正文字如附表。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2019\/05\/02",
+    "CheckDesc": "本案未予通過。",
+    "DoneDate": "2019\/05\/29",
+    "DoneDesc": "不予通過。",
+    "SendDate": "2019\/06\/10",
+    "SendNumber": "南議法規字第 1080005549號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=55364e44-b8c3-4c0c-9623-1a9b185bb29f",
+            "FileName": "臺南市議會各種委員會設置辦法第13條修正條文草案(含總說明及條文對照表).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a0e346d6-5af6-491a-a41b-e3d73a0f2b56&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "不予通過。",
+    "FirstDate": "2019\/03\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

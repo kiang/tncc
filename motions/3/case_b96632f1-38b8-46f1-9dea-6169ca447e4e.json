@@ -1,0 +1,54 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "5",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市政府經濟發展局",
+    "OrgTitle2": "",
+    "CaseCause": "「本市綠能執行情形」專案報告",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"太陽能光電發展應關注漁民生計避免造成傷害。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"市府應儘速提送漁電共生管理檢討報告至本會，經大會決議前，請暫緩地面型光電之審查、執行施作。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"建請市府查察漁農電共生執行情形，對違反者應依法處置。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"建請市府針對地面型太陽能光電與氫能發電做整體評估分析報告，於下會期進行專案報告，經大會決議前，暫緩地面型光電之執行。\",\"children\":[]}]}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2022\/06\/08",
+    "DoneDesc": "一、由於綠能光電為國家政策，請臺南市政府加重推廣屋頂型種電，減少漁電共生的搭建率，因太陽能光電協會希望本會多加考慮當地情形，爰暫緩地面型光電之執行問題（委員會結論2、4後段），請市政府審慎適當處置及研議。\r\n二、餘照委員會結論通過。",
+    "SendDate": "2022\/06\/13",
+    "SendNumber": "南議財經字第 1110005554號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bb950cd6-f58e-442b-ab42-33855ffd8e0c",
+            "FileName": "議會專案報告V16-綠能執行情形.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=50ab57b0-c8f6-4d18-bfe1-a9e6ffb8269a",
+            "FileName": "1110506-本市綠能執行情形專案報告逐字稿.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5d2c9010-264c-4293-af8a-3fdac6e2e7d5",
+            "FileName": "來函及檢討報告.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b96632f1-38b8-46f1-9dea-6169ca447e4e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "一、由於綠能光電為國家政策，請臺南市政府加重推廣屋頂型種電，減少漁電共生的搭建率，因太陽能光電協會希望本會多加考慮當地情形，爰暫緩地面型光電之執行問題（委員會結論2、4後段），請市政府審慎適當處置及研議。\r\n二、餘照委員會結論通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/06\/09",
+    "ExecuteReNumber": "府經能字第 1110700823號",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第6次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2020\/12\/11",
+    "ComeNumber": "府都區字第1091519750號",
+    "OrgTitle": "臺南市政府都市發展局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送「臺南市國土計畫(草案)」相關處理情形，敬請貴會第3屆第6次臨時會備查，俾利函送內政部核定，請查照。",
+    "Content": "[]",
+    "Method": "[]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2020\/12\/21",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2020\/12\/24",
+    "SendNumber": "南議工務字第 1090013021號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=28b57319-99d6-4d77-86df-8d23c6a08789",
+            "FileName": "臺南市國土計畫草案-報議會備查版.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7fbee5bb-ffdb-4350-8ccc-d5f6adae4fe5",
+            "FileName": "臺南市國土計畫Q&A.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0ae5cf3d-116a-4eaf-b60a-63981432b482&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2020\/12\/14",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

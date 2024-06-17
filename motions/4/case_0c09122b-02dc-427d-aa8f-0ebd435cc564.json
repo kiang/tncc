@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "17",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "周嘉韋",
+    "OrgTitle2": "沈家鳳、林依婷、李宗翰、蔡筱薇、王宣貿、林志展、施余興望 Tjakumay Tagaw、蔡蘇秋金、黃麗招、陳秋宏、邱昭勝",
+    "CaseCause": "建請更換臺南市北區公園路、公園北路之交通號誌。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市北區公園路、公園北路交叉路口為尖峰時段車流量較大之道路，交通號誌對於用路人安全及交通流暢度均十分重要。然因該號誌面向東邊，為太陽升起之方向，號誌之顏色飽和度不足，將易導致交通事故發生率層升，請相關單位盡速更換本路口交通號誌，並定期針對顯色情況追蹤維護。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"該路口交通號誌現狀如下(拍攝時間為天氣晴朗時，上午約11時30分左右)(附件一)。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如說明。\"}]",
+    "CheckDate": "2023\/05\/26",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/06\/07",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/06\/09",
+    "SendNumber": "南議保安字第 1120004018號",
+    "DoDesc": "本府就「建請更換臺南市北區公園路、公園北路之交通號誌」案，敬答覆如下：\r\n經查該路口西往東方向近桿號誌燈箱老舊，本府交通局已於112年5月16日完成老舊燈箱汰換。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f0fa0878-1dde-49bc-a88a-cd07165f3fe6",
+            "FileName": "周嘉韋議員提案-更換公園路紅綠燈.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0c09122b-02dc-427d-aa8f-0ebd435cc564&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/06\/17",
+    "ExecuteReNumber": "府交交管字第 1120778275號",
+    "ExecuteReMemo": "本府就「建請更換臺南市北區公園路、公園北路之交通號誌」案，敬答覆如下：\r\n經查該路口西往東方向近桿號誌燈箱老舊，本府交通局已於112年5月16日完成老舊燈箱汰換。",
+    "ErrorMessage": ""
+}

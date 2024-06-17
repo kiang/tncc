@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第3屆 第3次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2019\/07\/19",
+    "ComeNumber": "府交公運字第1080849369號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部公路總局核定本市108年度「公路公共運輸多元推升計畫」市區汽車客運業車輛汰舊換新－興南客運（22輛低地板）（計畫編號：108TND01）」經費6,679萬2,000元（中央補助4,919萬2,000元；市配合款1,760萬元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟108年度追加減預算或於109年度總預算時再予轉正，敬請　審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據交通部公路總局108年4月25日路運計字第1080044584號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第四十四點第四款之規定：「經上級政府核定之補助款，所使用之支出。」及第四十四點第六款之規定：「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。」。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"（一）本案交通部公路總局同意補助低地板公車22輛(每輛補助223萬6,000元)，共計補助4,919萬2,000元（附件1）。\"},{\"tag\":\"p\",\"content\":\"（二）又為推動本市發展無障礙公共運輸系統，除中央補助經費外，本局擬依「臺南市區汽車客運業購買低碳車輛補助辦法」第四條第一項第三款（附件2），每輛低地板公車增加80萬元補助，前揭22輛低地板公車共計1,760萬元整。故「汰舊換新－興南客運」補助經費6,679萬2,000元（中央補助4,919萬2,000元；市配合款1,760萬元）。\"},{\"tag\":\"p\",\"content\":\"（三）因本案未及納入本府交通局所屬公共運輸處108年度預算，擬請准予辦理先行墊付，俟108年度追加減預算或於109年度總預算時再予轉正。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府108年5月15日第388次市政會議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟108年度追加減預算或於109年度總預算時再予轉正。\"}]",
+    "CheckDate": "2019\/08\/20",
+    "CheckDesc": "同意墊付。",
+    "DoneDate": "2019\/08\/23",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/09\/03",
+    "SendNumber": "南議保安字第 1080007667號",
+    "DoDesc": "一、案係交通部公路總局公路公共運輸多元推升計畫補助案件。\r\n二、交通部公路總局已於108年12月25日路運計字第1080155981號函同意撥付補助尾款。本府並於109年1月16日同意撥付本市客運業者購車補助尾款3,235萬7,600元。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a8682f4c-39ea-445c-b965-b6bdaaaae2ff",
+            "FileName": "保安市提4號-附件1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=836800ff-00f7-47eb-8c76-117faf8828d3",
+            "FileName": "保安市提4號-附件2.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bc32a3cd-10c9-4098-b820-c19c4d43d992",
+            "FileName": "保安市提4號-附件3.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=efd3d076-f240-41fb-8894-025f769b146d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/08\/14",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "一、案係交通部公路總局公路公共運輸多元推升計畫補助案件。\r\n二、交通部公路總局已於108年12月25日路運計字第1080155981號函同意撥付補助尾款。本府並於109年1月16日同意撥付本市客運業者購車補助尾款3,235萬7,600元。\r\n",
+    "ErrorMessage": ""
+}

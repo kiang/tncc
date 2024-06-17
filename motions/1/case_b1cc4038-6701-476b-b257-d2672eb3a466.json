@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "21",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2012\/03\/14",
+    "ComeNumber": "府民自字第 1010169235 號",
+    "OrgTitle": "臺南市政府教育局",
+    "OrgTitle2": "",
+    "CaseCause": "擬制定「臺南市短期補習班設立及管理自治條例」(草案)，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"臺南市短期補習班設立及管理自治條例依據「補習及進修教育法」第九條第四款制定。全文共計四十六條，其要點說明如下：\"},{\"tag\":\"p\",\"content\":\"(一)法源依據、主管機關、補習班之定義、分類及授課時程。（第一條至第四條）\"},{\"tag\":\"p\",\"content\":\"(二)補習班設立所需資料及設班基金、補習班印模備查、班名及分班設立之規定。（第五條至第八條）\"},{\"tag\":\"p\",\"content\":\"(三)班舍總樓地板面積、教室使用面積、招生年齡限制、增設教室之規定、補習班設置設備、器材及懸掛立案證書之規定。（第九條至第第十三條）\"},{\"tag\":\"p\",\"content\":\"(四)補習班教師條件、人數及不得聘請現任老師教學。（第二十三條、第二十四條）\"},{\"tag\":\"p\",\"content\":\"(五)補習班。（第二十五條至第二十七條）\"},{\"tag\":\"p\",\"content\":\"(六)補習班收費、退費、保證班、補習服務契約書規定。（第二十八條至第三十二條）\"},{\"tag\":\"p\",\"content\":\"(七)主管機關得定期召開相關座談會、研討會及舉行觀摩會，並派員對補習班進行各項業務視導及考核。（第三十五條至第三十七條）\"},{\"tag\":\"p\",\"content\":\"(八)補習班暫停招生及不繼續辦理營業相關規定。（第四十條、第四十一條）\"},{\"tag\":\"p\",\"content\":\"(九)稽查未立案補習班規定及施行日期。（第四十五條、第四十六條）\"}]",
+    "Method": "[]",
+    "CheckDate": "",
+    "CheckDesc": "一、第四條第二項：且修業期限每期超過三個月者，應分期招生、收費及授課。修正為且修業期限每期超過一年者，應分期招生、收費及授課。\r\n二、修正通過。",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "照審查意見修正通過。",
+    "SendDate": "2012\/06\/22",
+    "SendNumber": "南議法規字第 1010010740號",
+    "DoDesc": "1.本府業遵照議會決議將第四條第二項修正為「修業期限每期超過一年者，應分期招生、收費及授課」。\r\n2.另於101年7月13日以府教社字第1010592744函呈報行政院及教育部核定。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=33e13137-9e6b-4373-9f1e-70cbdd9fe486",
+            "FileName": "臺南市短期補習班設立及管理自治條例草案逐條說明.doc",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a3be54dc-95cf-4084-9a93-7318c9ae5a36",
+            "FileName": "臺南市短期補習班設立及管理自治條例(草案條文).doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b1cc4038-6701-476b-b257-d2672eb3a466&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見修正通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "1.本府業遵照議會決議將第四條第二項修正為「修業期限每期超過一年者，應分期招生、收費及授課」。\r\n2.另於101年7月13日以府教社字第1010592744函呈報行政院及教育部核定。\r\n",
+    "ErrorMessage": ""
+}

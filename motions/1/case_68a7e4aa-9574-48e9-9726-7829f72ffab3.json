@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第1屆 第6次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "6",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2013\/10\/28",
+    "ComeNumber": "府財產字第 1020968523 號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理出售本府經管坐落本市中西區南寧段190-19地號等2筆非公用市有土地，擬依土地法第25條規定完成處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、市有土地承租人申請承購坐落本市中西區南寧段190-19地號等2筆市有土地，擬依「臺南市市有財產管理自治條例」第50條第1項第2款規定辦理讓售。\"},{\"tag\":\"p\",\"content\":\"二、本案提送本府102年10月30日第134次市政會議追認審議。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2013\/12\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2013\/12\/12",
+    "SendNumber": "南議財經字第 1020011166號",
+    "DoDesc": "本案中西區南寧段190-21地號土地上建物已拆除，未符合承租讓售要件，暫緩出售該土地，餘中西區南寧段190-19地號土地業經行政院於103年1月27日院授內中地字第1036030431號函核准完成處分程序。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ac2b61ff-bfee-4eec-b373-088d82b9f4e9",
+            "FileName": "第一屆第6次定期大會擬處分清冊(提案6).xls",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a0a865cf-0968-4677-870b-506978a34c68",
+            "FileName": "財經6號案經市政會議追認函文.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=68a7e4aa-9574-48e9-9726-7829f72ffab3&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2013\/10\/01",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案中西區南寧段190-21地號土地上建物已拆除，未符合承租讓售要件，暫緩出售該土地，餘中西區南寧段190-19地號土地業經行政院於103年1月27日院授內中地字第1036030431號函核准完成處分程序。",
+    "ErrorMessage": ""
+}

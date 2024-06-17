@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "39",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳碧玉",
+    "OrgTitle2": "陳秋宏、Ingay Tali穎艾達利、李宗翰、沈震東",
+    "CaseCause": "建請市府交通局於新市區豐華里47-28號門前道路約50公尺起設置三聯式反光導標，保障民眾人車通行安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、新市區豐華里47-28號門前道路常有行人、機車通行，前50公尺設有水泥護欄，50公尺後道路路面高度與現有土地地面落差極大，人車行經該路段非常危險。\"},{\"tag\":\"p\",\"content\":\"二、建請市府交通局在未設有水泥護欄路段，設置三聯式反光導標（如後附圖），保障民眾人車通行安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/11\/25",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/12\/09",
+    "SendNumber": "南議保安字第 1090011764號",
+    "DoDesc": "本案經市府109年12月21日府交工字第1091496341號函復:\r\n經會同相關單位現場勘查，建議道路與農地高低落差大，為明確警示用路人該路段道路範圍及通行安全，本府交通局將於該路段東側設置危1警示標誌，以供用路人遵循。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7770868a-fd0f-4ab1-88ff-6f43c269868f",
+            "FileName": "議提39號附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7489c464-141b-4053-bd06-c1c80a2e1b19&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府109年12月21日府交工字第1091496341號函復:\r\n經會同相關單位現場勘查，建議道路與農地高低落差大，為明確警示用路人該路段道路範圍及通行安全，本府交通局將於該路段東側設置危1警示標誌，以供用路人遵循。",
+    "ErrorMessage": ""
+}

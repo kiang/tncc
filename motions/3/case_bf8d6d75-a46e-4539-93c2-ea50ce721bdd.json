@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第2次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "42",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "許又仁",
+    "OrgTitle2": "杜素吟、趙昆原、林阳乙、周奕齊、洪玉鳳",
+    "CaseCause": "歸仁區大潭里中正南路三段(農會至大南國小前路段)及長榮路一段(與中正南路三段交叉口至大潭派出所前路段)路面破損嚴重，車輛行駛安全堪慮，里民怨聲四起，工務局已前來勘查完畢，但施工日期卻遲未決定，建請市府於雨季來臨前能儘速翻修重鋪。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、中正南路三段及長榮路一段分屬區道351、352，屬工務局管養道路。\"},{\"tag\":\"p\",\"content\":\"二、108年所經字第1080123715號函函報工務局，並於3月6日現勘後錄案，表明於今年底完成施工改善。\"},{\"tag\":\"p\",\"content\":\"三、經里長詢問，工務局尚未排定施工期程。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2019\/11\/05",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2019\/12\/10",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/12\/18",
+    "SendNumber": "南議工務字第 1080010143號",
+    "DoDesc": "本案經市府109年1月3日府工務三字第1081479835號函復：\r\n旨案改善工程建議所需經費1,921,233元，本府工務局業於108 年12月10日南市工務三字第1081345503號函同意核定改善經費 187萬元(詳夾檔)，由本府工務局辦理改善，改善日期於施作前再另行通知。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f52d72f3-e8e3-4fb4-85e6-1809d9cfb949",
+            "FileName": "3-2定(議提42)同意函.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=bf8d6d75-a46e-4539-93c2-ea50ce721bdd&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府109年1月3日府工務三字第1081479835號函復：\r\n旨案改善工程建議所需經費1,921,233元，本府工務局業於108 年12月10日南市工務三字第1081345503號函同意核定改善經費 187萬元(詳夾檔)，由本府工務局辦理改善，改善日期於施作前再另行通知。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-市法規案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝、吳禹寰、杜素吟、趙昆原、方一峰、王宣貿、謝舒凡、陳昆和",
+    "OrgTitle2": "陳怡珍、林美燕、林燕祝、林冠維、李中岑、周奕齊、曾之婕、蔡宗豪、李啓維、陳秋萍、余柷青、陳皇宇、陳碧玉、李偉智、周麗津",
+    "CaseCause": "「臺南市新設置畜牧設施管理自治條例」第五條修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本市依文化資產保存法規定指定為重要民俗計有西港刈香、東山碧軒寺迎佛祖暨遶境、南鯤鯓代天府五府千歲進香期、東山吉貝耍西拉雅族夜祭、學甲上白礁、南關線三大廟王礁暨遊社等六項占全國經指定為重要民俗二十二項中超過四分之一。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為突顯本市重要民俗具有相當大比例之特殊性及重要性，特別就指定為本市重要民俗經主管機關公告之場所周界與新設置畜牧設施場地間之最短距離予以規範，使彼此得以互相共存共榮，爰修正第五條第一項，新增第八款。\",\"children\":[]}]},{\"tag\":\"p\",\"content\":\"三、檢附「臺南市新設置畜牧設施管理自治條例」修正第五條條文草案總說明、條文草案對照表、修正後草案條文。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"經大會決議通過後，送市府公布施行。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bf6bf13d-cce4-4607-a642-c1e060646074",
+            "FileName": "4-3定-法規議提1號案---修正臺南市新設置畜牧設施管理自治條例第5條條文草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2b978b02-6aee-487f-ac30-9ff01dc115ae&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "",
+    "FirstDate": "2024\/05\/29",
+    "FirstDesc": "本案涉及人民權利義務，召開公聽會後交付法規委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

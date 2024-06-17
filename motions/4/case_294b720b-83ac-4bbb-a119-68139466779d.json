@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第4屆 第5次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "44",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡宗豪",
+    "OrgTitle2": "吳禹寰、陳碧玉、Ingay Tali 穎艾達利",
+    "CaseCause": "本市振興里振興公園籃球場照明燈故障，建請市府單位儘速修繕。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"本市振興里振興公園籃球場照明燈故障，由於該籃球場夜間使用人數眾多，此照明燈故障攸關前來公園運動的民眾安危，建請市府單位儘速修繕。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/03\/13",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/03\/15",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2024\/03\/21",
+    "SendNumber": "南議工務字第 1130001583號",
+    "DoDesc": "本府就「本市振興里振興公園籃球場照明燈故障，建請市府單位儘速修繕。」案，敬答覆如下：\r\n臺南市北區開元振興公園籃球場投射燈不亮，已於113年3月15日修復完成恢復照明(如照片)。 ",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2f4f4844-11a9-47d0-9a3c-eafec64a5760",
+            "FileName": "4-5臨工務議提44附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ca4885f0-fe30-480d-b407-04fc40828fa8",
+            "FileName": "府工園一字第1130440893號函-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=294b720b-83ac-4bbb-a119-68139466779d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2024\/03\/26",
+    "ExecuteReNumber": "府工園一字第 1130440893號",
+    "ExecuteReMemo": "本府就「本市振興里振興公園籃球場照明燈故障，建請市府單位儘速修繕。」案，敬答覆如下：\r\n臺南市北區開元振興公園籃球場投射燈不亮，已於113年3月15日修復完成恢復照明(如照片)。 ",
+    "ErrorMessage": ""
+}

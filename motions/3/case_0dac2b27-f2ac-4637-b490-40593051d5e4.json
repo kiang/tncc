@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "57",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳秋宏",
+    "OrgTitle2": "邱莉莉、楊中成、呂維胤、林志展",
+    "CaseCause": "下營區大屯重劃區東路18鋪面龜裂破損嚴重，提請改善。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"下營區大吉里大屯農地重劃區東路18農路（大屯寮段2466-1地號旁），臨近大屯中排，道路老舊破損嚴重不利通行。道路長度共380公尺，需重新刨鋪改善，以利通行安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/06\/21",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/07\/11",
+    "SendNumber": "南議財經字第 1110006626號",
+    "DoDesc": "本府就「下營區大屯重劃區東路 18 鋪面龜裂破損嚴重，提請改善。」決議案，敬答覆如下：\r\n一、 本案農路改善案農委會農田水利署於 111 年 7 月 7 日核定， 本府地政局已函文委託下營區公所辦理發包。\r\n二、 承蒙 貴會對於本案之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1567f458-c7cf-48d0-89a0-cbe42cd2e9f5",
+            "FileName": "57.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0dac2b27-f2ac-4637-b490-40593051d5e4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/07\/26",
+    "ExecuteReNumber": " 府地農字第 1110906266號",
+    "ExecuteReMemo": "本府就「下營區大屯重劃區東路 18 鋪面龜裂破損嚴重，提請改善。」決議案，敬答覆如下：\r\n一、 本案農路改善案農委會農田水利署於 111 年 7 月 7 日核定， 本府地政局已函文委託下營區公所辦理發包。\r\n二、 承蒙 貴會對於本案之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "",
+    "PTypTitle": "法規",
+    "CaseNumber": "11",
+    "KidTitle": "查照\/備查案-法規查照案",
+    "ComeDate": "2022\/09\/14",
+    "ComeNumber": "府消人字第1111201929號",
+    "OrgTitle": "臺南市政府消防局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市政府消防局組織規程」、「臺南市政府消防局編制表」。",
+    "Content": "",
+    "Method": "",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=06b41d2f-cf85-4b26-ae5d-c64ce8bfda64",
+            "FileName": "3-8定查照11-修正「臺南市政府消防局組織規程」、「臺南市政府消防局編制表」.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4d5a9a6a-c37c-4e6b-aa43-afd7ce3d3fcd&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

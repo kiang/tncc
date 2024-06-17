@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "66",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡旺詮",
+    "OrgTitle2": "郭鴻儀、趙昆原、盧崑福、蔡蘇秋金",
+    "CaseCause": "敦促工務局儘快改善「臺南市道路挖掘行動查報系統」APP。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"「臺南市道路挖掘行動查報系統」當中，首頁公告空白，案件查詢的功能空白。現地通報系統太過繁雜，民眾不會使用。請工務局儘快改善空白內容，並更新簡潔之介面，以利民眾使用。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2021\/05\/14",
+    "CheckDesc": "函送市府研議。",
+    "DoneDate": "2021\/08\/03",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/08\/09",
+    "SendNumber": "南議工務字第 1100005554號",
+    "DoDesc": "本案經市府110年9月6日府工企劃字第1100989935號函復：(詳如夾檔)",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b2630636-1618-434a-9595-3713994cdeb8",
+            "FileName": "3-5定(議提66)書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=10d5b223-e037-4b10-bb97-8530d365c9a7&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年9月6日府工企劃字第1100989935號函復：(詳如夾檔)",
+    "ErrorMessage": ""
+}

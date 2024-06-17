@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "85",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林慶鎮",
+    "OrgTitle2": "蔡秋蘭、杜素吟、莊玉珠、郭秀珠、趙昆原",
+    "CaseCause": "建請市府早日改善新市區光華街至台一線排水溝，以利排水。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、該段排水溝因年久失修且寬度及深度均不足，因而衍生兩側住家有淹水之苦。\"},{\"tag\":\"p\",\"content\":\"二、請市府早日加寬加深該段排水溝，以維百姓生命財產安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2017\/11\/29",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2017\/12\/07",
+    "SendNumber": "南議工務字第 1060008563號",
+    "DoDesc": "本案經市府106年12月22日府工養二字第1061355692號函復：（詳夾檔）\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=23d1a9d6-cb2f-4f54-abed-f1762b9ccede",
+            "FileName": "2-6定期大會-工務第85號案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a480930b-dbc1-4291-84f6-c8758aa3a14c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2017\/09\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府106年12月22日府工養二字第1061355692號函復：（詳夾檔）\r\n",
+    "ErrorMessage": ""
+}

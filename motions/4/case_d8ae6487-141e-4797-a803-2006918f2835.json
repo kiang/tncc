@@ -1,0 +1,54 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2024\/05\/14",
+    "ComeNumber": "府財稅字第1130653050號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市社會住宅與公益出租人地價稅及房屋稅優惠自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"因應住宅法於112年12月6日修正，本自治條例之授權依據修正為第16條第3項及第22條第2項；另因房屋稅條例於113年1月3日修正房屋稅改為按年計徵，且房屋使用情形變更致稅額減少者，自當期開始適用；房屋使用情形變更致稅額增加者，自變更次期開始適用，爰擬具本修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經113年5月14日第646次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市社會住宅與公益出租人地價稅及房屋稅優惠自治條例」修正草案(含總說明、條文對照表及草案條文)1份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2024\/05\/29",
+    "DoneDesc": "一、同意市府撤回。\r\n二、請市府於下會期前召開公聽會或說明會，並排定專案報告後，再行審議。",
+    "SendDate": "2024\/06\/04",
+    "SendNumber": "南議法規字第 1130003955號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e77e7bae-0f9a-4117-8739-dbf2920bb60d",
+            "FileName": "4-3定---市提3---各直轄市社會住宅與公益出租人優惠地價稅及房屋稅自治條例立法例.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=51e1400a-1d48-482f-80cc-709a3a618e18",
+            "FileName": "4-3定---市提3附件---各直轄市社會住宅與公益出租人優惠地價稅及房屋稅自治條例立法例.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8db7c95d-8d30-4b5e-abfa-9f31c7089495",
+            "FileName": "撤案+公聽會---(012-大會)4屆2定0529第12次會紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d8ae6487-141e-4797-a803-2006918f2835&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "一、同意市府撤回。\r\n二、請市府於下會期前召開公聽會或說明會，並排定專案報告後，再行審議。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

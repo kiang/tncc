@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "49",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "吳通龍",
+    "OrgTitle2": "方一峰、李偉智、Ingay Tali 穎艾達利、陳怡珍、曾之婕、李宗霖、林美燕",
+    "CaseCause": "建請市府規劃辦理麻豆區清水里雨水下水道D4-1~D1\/4-1~D2\/4-1段，以改善排水系統。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"清水里長反映每逢強降雨，南48區道常有積淹水情事發生，經現場勘查南48區道旁側溝通洪量不足，且案陳處現況無雨水下水道系統。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請市府於南48道規劃雨水箱涵，以改善周遭水系統。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/03\/29",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/03\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/04\/10",
+    "SendNumber": "南議工務字第 1120002177號",
+    "DoDesc": "本府就「建請辦理麻豆區清水里雨水下水道D4-1~D1\/4-1~D2\/4-1段，以改善排水系統」案，敬答覆如下：\r\n一、本案已於111年10月6日會同麻豆區公所及清水里辦公處辦理會勘，經里長反映南48區道每逢強降雨常有積淹水情事發生，現場勘查發現南48區道旁側溝通洪量不足，且案址處現況無雨水下水道系統。\r\n二、依據內政部營建署麻豆區雨水下水道系統檢討規劃報告，於南48區道規劃雨水箱涵(W1.5*H1.5m)長度240m，將所收集之逕流導引至龍泉抽水站前道路下方既有箱涵後排至曾文溪，經初步評估工程經費約需1,100萬元，本府水利局已提報營建署前瞻計畫爭取經費辦理。另為維持渠道通水斷面順暢，已請麻豆區公所加強側溝及箱涵清淤事宜。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ac4c3329-ef65-4a3e-8c23-61c74268884a",
+            "FileName": "議提49號附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b9457ced-d7b5-40ab-bb28-5c1a2fe39dbe&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/04\/26",
+    "ExecuteReNumber": "府水工字第 1120501729號",
+    "ExecuteReMemo": "本府就「建請辦理麻豆區清水里雨水下水道D4-1~D1\/4-1~D2\/4-1段，以改善排水系統」案，敬答覆如下：\r\n一、本案已於111年10月6日會同麻豆區公所及清水里辦公處辦理會勘，經里長反映南48區道每逢強降雨常有積淹水情事發生，現場勘查發現南48區道旁側溝通洪量不足，且案址處現況無雨水下水道系統。\r\n二、依據內政部營建署麻豆區雨水下水道系統檢討規劃報告，於南48區道規劃雨水箱涵(W1.5*H1.5m)長度240m，將所收集之逕流導引至龍泉抽水站前道路下方既有箱涵後排至曾文溪，經初步評估工程經費約需1,100萬元，本府水利局已提報營建署前瞻計畫爭取經費辦理。另為維持渠道通水斷面順暢，已請麻豆區公所加強側溝及箱涵清淤事宜。",
+    "ErrorMessage": ""
+}

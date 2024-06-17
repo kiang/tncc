@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第2次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2011\/09\/01",
+    "ComeNumber": "府民自字第1000659621號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理出售本府經管坐落本市中西區玉宇段73地號等77筆非公用市有土地及安平區新南段6162建號1筆市有非公用房屋，擬依土地法第25條規定，提請審議。",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審議，同意後報請行政院核准，完成處分程序後於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、佳里區潭墘段0624-0000地號；永康區東南段0995-0000地號；永康區西勢段0008-0003地號、0008-0004地號、0008-0005地號、0007-0012地號、0011-0002地號、0011-0003地號、0011-0004地號、0044-0002地號、0044-0003地號等11筆土地不同意出售。\r\n二、佳里區北文段0414-0000地號保留，日後再與鄰地0413-0000地號一併提案出售。\r\n三、永康區五王段0114-0000地號同意出售，附帶條件為與0114-0002地號一併出售。(0114-0002地號案經本會第1屆第1次定期大會決議通過出售。)\r\n其餘照案通過。",
+    "DoneDate": "2011\/12\/08",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2011\/12\/22",
+    "SendNumber": "南議財經字第 1000011605號",
+    "DoDesc": "議決同意出售之土地，依土地法第25條規定辦理。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c8d905eb-4934-417a-a775-5f6767db4ec3",
+            "FileName": "第一屆第2次定期大會擬處分清冊（提案5）.xls",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f368d247-2752-45e8-adb2-c7410f151f2d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "議決同意出售之土地，依土地法第25條規定辦理。",
+    "ErrorMessage": ""
+}

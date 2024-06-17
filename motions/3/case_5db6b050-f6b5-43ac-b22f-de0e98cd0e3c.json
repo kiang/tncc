@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "26",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "Ingay Tali穎艾達利",
+    "OrgTitle2": "郭議長信良、林阳乙、王家貞、許至椿、蔡旺詮、蔡秋蘭、盧崑福",
+    "CaseCause": "建請臺南市政府改善「大臺南公車」app多語操作介面環境，俾供外語使用者得有效使用。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"查臺南市交通局設有「大臺南公車app」供公車搭乘者查詢利用，便利搭乘公車經驗。另為提供來府之外籍人士便利，同軟體亦提供英語與日語操作環境(如圖一)。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"惟於外語環境中，軟體之各項功能是否符合該外語使用者得而理解之效能，不無疑義：\",\"children\":[{\"order\":\"(一)\",\"content\":\"例於「動態公車」功能（其他涉及「站牌名」功能亦同，茲不贅言），在「日語」環境下顯示之站牌名，是否為該語別使用者用語習慣得理解？(如圖二)\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"復於「路線規劃」功能，在「英語」環境下顯示之起迄點設定跳出之地圖，其上仍為中文標示之地圖，是否為該語別使用者能正常操作、點選之用？(如圖三)\",\"children\":[]}]},{\"order\":\"三、\",\"content\":\"為符合軟體開發多語功能初衷，應審酌多語使用者操作角度，否則則失原規劃美意。建請交通局斟酌研議，或可與來府之外籍社群或個人交流，檢視軟體實際使用之可親性，以臻科技化工具效能之完善。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2022\/05\/13",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/06\/08",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/06\/15",
+    "SendNumber": "南議保安字第 1110005738號",
+    "DoDesc": "一、為服務外籍遊客，大台南公車APP 於107年推出英日文版本，使用介面與功能均參考民眾需求與建議持續檢討改進，有關目前日語站名不合時用一案，本府交通局將重新檢討改善並委請專業人士協助檢視，並預計111年底前完成。\r\n二、目前大台南公車APP「路線規劃」功能，於iOS 作業系統係採用Apple 地圖，Android 作業系統則採用Google 地圖，有關在「英語」環境下仍顯示中文地圖一案，本府交通局已轉請系統維運廠商應針對民眾所選擇之語系呈現相對應之地圖並已於111年5月底修正完成。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d97565c5-9d7e-45a9-a0e4-05a29db3c42f",
+            "FileName": "議提26附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5db6b050-f6b5-43ac-b22f-de0e98cd0e3c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/06\/29",
+    "ExecuteReNumber": "府交公運字第 1110823291號",
+    "ExecuteReMemo": "一、為服務外籍遊客，大台南公車APP 於107年推出英日文版本，使用介面與功能均參考民眾需求與建議持續檢討改進，有關目前日語站名不合時用一案，本府交通局將重新檢討改善並委請專業人士協助檢視，並預計111年底前完成。\r\n二、目前大台南公車APP「路線規劃」功能，於iOS 作業系統係採用Apple 地圖，Android 作業系統則採用Google 地圖，有關在「英語」環境下仍顯示中文地圖一案，本府交通局已轉請系統維運廠商應針對民眾所選擇之語系呈現相對應之地圖並已於111年5月底修正完成。",
+    "ErrorMessage": ""
+}

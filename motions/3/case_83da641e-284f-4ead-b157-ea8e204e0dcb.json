@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/05\/12",
+    "ComeNumber": "府交智安字第1100608964號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部核定本市110年度智慧運輸系統發展建設計畫「110~111年臺南市整合交通資訊應用服務計畫（110年度）」經費1,200萬元（中央補助800萬元；市配合款400萬元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟111年度總預算時再予轉正，敬請　審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據交通部110年4月16日交科字第1105002651C號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款之規定：「經上級政府核定之補助款，所使用之支出。」及第6款之規定：「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。」。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"(一)本案業經交通部同意本市辦理「110~111年臺南市整合交通資訊應用服務計畫（110年度）」並補助800萬元為上限，本市自籌400萬元，總預算金額1,200萬元。\"},{\"tag\":\"p\",\"content\":\"(二)本案中央補助經費核定因日期較晚，未及納入本局110年度預算，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年5月11日第490次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時再予轉正。\"}]",
+    "CheckDate": "2021\/08\/05",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/08\/25",
+    "SendNumber": "南議保安字第 1100006813號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=99a74e3f-43e9-48c7-9355-17545d55988f",
+            "FileName": "保安市提2-核定函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=91825136-b596-4af4-8048-ee7376c1a030",
+            "FileName": "保安市提2-核定函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=83da641e-284f-4ead-b157-ea8e204e0dcb&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

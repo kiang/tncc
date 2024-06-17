@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2020\/02\/24",
+    "ComeNumber": "府都更字第1090239304號",
+    "OrgTitle": "臺南市政府都市發展局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理出售本府經管本市南區舉喜段527-2地號1筆市有土地，擬依土地法第25條規定完成處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、本案土地位於南區喜樹、灣裡地區「住三（附）」低密度住宅區，係依據「臺南市都市計畫變更回饋規定及變更為商業區申請規範」取得之土地，管理機關登記為本府都市發展局，面積19.64平方公尺。\"},{\"tag\":\"p\",\"content\":\"二、依土地法第25條規定，應經民意機關同意並經行政院核准，故本提案係為完成經民意機關同意程序。\"},{\"tag\":\"p\",\"content\":\"三、本案經貴會同意後，本府都市發展局將移請本府財政稅務局送行政院核准，以完成土地法第25條程序。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府109年2月11日第425次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"本案經貴會同意後，移請本府財政稅務局送行政院核准，以完成土地法第25條程序。\"}]",
+    "CheckDate": "2020\/05\/28",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2020\/06\/09",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/06\/16",
+    "SendNumber": "南議工務字第 1090003758號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0be4d434-40d6-42fc-b727-e282515ccd24",
+            "FileName": "市提2-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0e65b825-ebb7-4caa-aff5-cfa84ba8efd3&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

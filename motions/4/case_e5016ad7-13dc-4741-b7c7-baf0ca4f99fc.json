@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "8",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝",
+    "OrgTitle2": "吳通龍、曾之婕、曾培雅、吳禹寰、李偉智、余柷青",
+    "CaseCause": "建議市府向中央建議比照農保提高勞保生育補助。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"目前的勞工保險(勞保)生育補助水平可能不足以應對日益上升的生活成本，特別是在生育過程中和育兒期間所面臨的支出，又現有的勞保生育補助可能對低收入家庭不夠有利，可能導致不公平。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"農保制度提供了一個有利農業工作者的生育補助標準，這個制度可以作為參考，來提高勞保生育補助的公平性和可持續性。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"建議市府向中央政府建議提高勞保生育補助的金額，以更好地反映生育過程中的實際成本，並確保家庭能夠應對這些支出。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/11\/28",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/12\/08",
+    "SendNumber": "南議建設字第 1120011973號",
+    "DoDesc": "本府就「建請市府向中央建議比照農保提高勞保生育補助」案，敬答覆如下：\r\n一、有關目前勞工保險(勞保)生育補助水平不足以應對日益上升的生活成本，特別是在生育過程中和育兒期間所面臨的支出，又現有的勞保生育補助可能對於低收入家庭不夠有利，可能導致不公平，本府勞工局已於 112 年12 月 15 日南市勞資字第 1121649549 號函函文勞動部，建議比照農保條例修法提高生育補助標準為 3 個月。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=424ce996-31c9-485a-83c4-ccc0f7fd805b",
+            "FileName": "議提8附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e5016ad7-13dc-4741-b7c7-baf0ca4f99fc&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/12\/19",
+    "ExecuteReNumber": "府勞資字第 1121679036號",
+    "ExecuteReMemo": "本府就「建請市府向中央建議比照農保提高勞保生育補助」案，敬答覆如下：\r\n一、有關目前勞工保險(勞保)生育補助水平不足以應對日益上升的生活成本，特別是在生育過程中和育兒期間所面臨的支出，又現有的勞保生育補助可能對於低收入家庭不夠有利，可能導致不公平，本府勞工局已於 112 年12 月 15 日南市勞資字第 1121649549 號函函文勞動部，建議比照農保條例修法提高生育補助標準為 3 個月。",
+    "ErrorMessage": ""
+}

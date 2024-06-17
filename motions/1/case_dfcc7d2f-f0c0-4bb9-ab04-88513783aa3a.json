@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第9次 臨時會",
+    "PTypTitle": "會務",
+    "CaseNumber": "2",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "賴議長美惠",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市議會議事規則」第九條、第十一條草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依103年度第2次政黨黨團協商第2次會議決議辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"檢附「臺南市議會議事規則」第九條、第十一條修正草案總說明、修正草案條文對照表、修正後條文草案。\",\"children\":[]}]},{\"tag\":\"p\",\"content\":\"-----------------------\"},{\"tag\":\"p\",\"content\":\"臺南市議會議事規則第九條、第十一條修正總說明\"},{\"tag\":\"p\",\"content\":\"針對議員一般提案之人數規範及議員對於市法規提案時程與方式重新檢討，並對議員臨時提案順序更加具體明確，以符實際議事運作，爰檢討修正臺南市議會議事規則第九條、第十一條條文，其修正要點如次：\"},{\"tag\":\"p\",\"content\":\"一、檢討議員一般提案人數及議員對於市法規提案時程與方式（修正條文第九條）\"},{\"tag\":\"p\",\"content\":\"二、明確規範議員臨時提案順序（修正條文第十一條）\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會同意後報行政院備查，並函知市政府\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、修正第九條第一點(修正內容詳附表）\r\n二、修正通過 \r\n",
+    "DoneDate": "2014\/08\/13",
+    "DoneDesc": "照審查意見修正通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=95e151d7-021e-44a0-b5ae-604a89ded5d9",
+            "FileName": "臺南市議會議事規則第九條、第十一條修正條文.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=dfcc7d2f-f0c0-4bb9-ab04-88513783aa3a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見修正通過。",
+    "FirstDate": "2014\/08\/04",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

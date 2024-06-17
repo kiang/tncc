@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "11",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2012\/02\/01",
+    "ComeNumber": "府民自字第1010060862號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "擬制定「臺南市公共設施植栽管理自治條例」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為因應為因應臺南縣、市於99年12月25日合併升格直轄市及配合機關整併，重新訂定「臺南市公共設施植栽管理自治條例」，俾供業務單位管理維護之依據，並廢止99年12月25日公告繼續適用「臺南市花草樹木及公共設施管理自治條例」。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本自治條例業經本府100年11月30日第45次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請惠予審查。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/06\/22",
+    "SendNumber": "南議法規字第 1010010740號",
+    "DoDesc": "本案已於101年7月20日以府法規字第1010594836A號令發佈實施。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7a4eeabb-514b-45b2-8c78-83f244a0d910",
+            "FileName": "臺南市公共設施植栽管理自治條例（草案）逐條說明.doc",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e9f79567-2b4d-43e6-902b-140205b6d859",
+            "FileName": "臺南市公共設施植栽管理自治條例（草案條文）.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=aae28620-ff9b-43be-b73f-59c5a5852687&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案已於101年7月20日以府法規字第1010594836A號令發佈實施。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第7次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2018\/03\/08",
+    "ComeNumber": "府衛疾字第1070284415號",
+    "OrgTitle": "臺南市政府衛生局",
+    "OrgTitle2": "",
+    "CaseCause": "擬修正「臺南市營業衛生管理自治條例」第三條及第十八條，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本自治條例自一百零一年十二月二十七日制定公布，並於一百零二年六月二十七日施行以來，迄今尚未修正。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"「臺南雙城地區」業經交通部於一百零五年九月二十二日公告指定為觀光地區，致該區民宿蜂擁成立，為維護旅客健康，協助業者建立自主衛生管理制度，修正本自治條例第三條，將經營「民宿」之營業納入旅館業管理實刻不容緩，希望能有效管理本市民宿之營業衛生，以杜絕傳染病蔓延，讓旅客享有衛生安全之住宿環境；另修正本自治條例第十八條，增列「本自治條例修正條文自公布後六個月施行」之緩衝期間，使民宿業者有充分時間準備及改善。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本自治條例修正草案業經本府107年3月7日第328次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請惠予審議\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2018\/05\/25",
+    "DoneDesc": "一、照審查意見通過。\r\n二、請衛生局研擬流動攤販的管理辦法送查會備查。",
+    "SendDate": "2018\/06\/04",
+    "SendNumber": "南議法規字第 1070004057號",
+    "DoDesc": "本府衛生局業於107年9月21日以府衛食藥字第1070686825號函送議會書面回覆及「本市攤販管理自治條例」。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=daf3ef0a-8408-454a-8e7a-5855d8447368",
+            "FileName": "2-7定市提2-臺南市營業衛生管理自治條例修正草案(總說明、對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=101f4142-52ed-40e8-bfe0-f0e77653011c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "一、照審查意見通過。\r\n二、請衛生局研擬流動攤販的管理辦法送查會備查。",
+    "FirstDate": "2018\/03\/07",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本府衛生局業於107年9月21日以府衛食藥字第1070686825號函送議會書面回覆及「本市攤販管理自治條例」。",
+    "ErrorMessage": ""
+}

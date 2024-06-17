@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第2次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "10",
+    "KidTitle": "市府提案",
+    "ComeDate": "2019\/10\/24",
+    "ComeNumber": "府交公運字1081187474 號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部公路總局核定本市「108年度公路公共運輸多元推升計畫─擴大秋冬國民旅遊使用電子票證搭乘『台灣好行』旅遊優惠行銷計畫」（使用電子票證搭乘台灣好行旅遊優惠行銷計畫）（計畫編號：108BEX03）經費新臺幣96萬9,000元整乙案（全額中央補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟109年度追加減預算或110年度總預算時辦理轉正，敬請　審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據交通部公路總局108年10月8日路運計字第1080118063號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款之規定：「經上級政府核定之補助款，所使用之支出。」。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"（一）本案前經交通部公路總局108年10月8日路運計字第1080118063號函（附件1）核定補助本市辦理秋冬國民旅遊使用電子票證搭乘本市台灣好行公車路線享半價優惠（108年10月1日至108年12月31日），本案在總預算金額96萬9,000元之前提下，交通部公路總局補助96萬9,000元為上限，本府無自籌款，補助經費細項如下：\"},{\"tag\":\"p\",\"content\":\"　　1.「88路」與「99路」約91,000人次搭乘，以段次計費票價之半價（9元）計算，先行匡列81萬9,000元。\"},{\"tag\":\"p\",\"content\":\"　　2.「33路」與「61路」約5,000人次搭乘，票價以平均優惠價格30元（里程計費）計算，先行匡列15萬元。\"},{\"tag\":\"p\",\"content\":\"（二）因本案未及納入本局所屬公共運輸處109年度總預算，擬請准予辦理先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府108年10月22日第411次市政會議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟109年度追加減預算或110年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2019\/11\/28",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2019\/12\/10",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2019\/12\/17",
+    "SendNumber": "南議保安字第 1080011617號",
+    "DoDesc": "一、案係交通部公路總局公路公共運輸多元推升計畫補助案件。\r\n二、本案已執行完畢，刻辦理結案請款。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=62ed4509-e670-4d7a-a637-24085efe7169",
+            "FileName": "保安市提10-核定函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9548f87d-43e7-4647-abac-0242b3fd29f3",
+            "FileName": "保安市提10-核定函表格.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=550aac2a-40cd-4321-96a5-e2499250a72a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2019\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "一、案係交通部公路總局公路公共運輸多元推升計畫補助案件。\r\n二、本案已執行完畢，刻辦理結案請款。\r\n",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李宗霖、沈家鳳",
+    "OrgTitle2": "黄肇輝、王宣貿、陳皇宇、李啓維",
+    "CaseCause": "建請市府盤點本市閒置空間，與民間合作，研議作為緊急救難、槍枝訓練、戰術戰傷救護等民防訓練場地，增加市民民防知識且能具備基礎技能，未雨綢繆。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"今（2024）年初國防部發布「國家級警報」手機簡訊，許多民眾收到後不知道簡訊內容，同時造成恐慌。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"有鑑於此，市府應更積極向市民宣導民防相關知識，同時提供市民相關基礎訓練。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"市府應盤點本市閒置空間，研議作為民防訓練場地，增加市民民防知識且能具備基礎技能，未雨綢繆。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2024\/03\/14",
+    "CheckDesc": "函送市府研議。",
+    "DoneDate": "2024\/03\/15",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2024\/03\/21",
+    "SendNumber": "南議財經字第 1130001598號",
+    "DoDesc": "本府就「建請市府盤點本市閒置空間，與民間合作，研議作為緊急救難、槍枝訓練、戰術戰傷救護等民防訓練場地，增加市民民防知識且能具備基礎技能，未雨綢繆」決議案，敬答覆如下：\r\n一、經本府財政稅務局盤點本府閒置空間，茲檢附盤點清冊 1 份(如附件)供評估設置民防訓練場地，倘經後續現勘並評估適宜設置且確有需求者，建請洽各管理機關提供使用。\r\n二、承蒙貴會暨議座對市政建設之關切，本府併予致謝。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1df9b641-19c5-49ee-af4b-ca289774b237",
+            "FileName": "議員提案-1號案附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5227c1a3-6548-438e-9878-24c837e99c58&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2024\/03\/28",
+    "ExecuteReNumber": "府財產字第 1130440708號",
+    "ExecuteReMemo": "本府就「建請市府盤點本市閒置空間，與民間合作，研議作為緊急救難、槍枝訓練、戰術戰傷救護等民防訓練場地，增加市民民防知識且能具備基礎技能，未雨綢繆」決議案，敬答覆如下：\r\n一、經本府財政稅務局盤點本府閒置空間，茲檢附盤點清冊 1 份(如附件)供評估設置民防訓練場地，倘經後續現勘並評估適宜設置且確有需求者，建請洽各管理機關提供使用。\r\n二、承蒙貴會暨議座對市政建設之關切，本府併予致謝。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/03\/24",
+    "ComeNumber": "府衛國健字第1110281567號",
+    "OrgTitle": "臺南市政府衛生局",
+    "OrgTitle2": "",
+    "CaseCause": "衛生福利部國民健康署核定本市111年銀髮健身俱樂部補助計畫(第二次公告)總經費新台幣113萬7,000元整(中央補助100萬，地方自籌13萬7,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據衛生福利部國民健康署111年3月3日國健社字第1110260344A號函辦理（如附件）。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第第4款：經上級政府核定之補助款，所使用之支出、第6款：配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案總經費新台幣113萬7,000元整(中央補助100萬，地方自籌13萬7,000元)，因未及納入本府111年度總預算，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府111年3月21日第534次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/05\/09",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/06\/08",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/06\/14",
+    "SendNumber": "南議環衛字第 1110005415號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1d1a6446-b8b9-4b32-abf0-da91968e3f46",
+            "FileName": "3-7定 -環衛1號案-核定函、計畫書及經費概算.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2be9a11e-75cb-4dc5-9d2e-7ae2a8c15af4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/04\/06",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

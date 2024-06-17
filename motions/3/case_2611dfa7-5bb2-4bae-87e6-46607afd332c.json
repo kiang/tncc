@@ -1,0 +1,54 @@
+{
+    "GradeTime": "第3屆 第13次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/02\/23",
+    "ComeNumber": "府經產輔字第1110258117號",
+    "OrgTitle": "臺南市政府經濟發展局",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部中小企業處運用中小企業發展基金「補(捐)助中小工商業服務網路計畫」核定補助辦理「本市中小企業服務中心111年度服務工作計畫」，總經費109萬元整(中央補助款109萬)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依經濟部中小企業處111 年1 月13 日中企輔字第1110200031E號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第 44點第4 款「經上級政府核定之補助款，所使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費109萬元(中央補助款109萬)，補助期間為自旨揭工作計畫經該處同意後至111年12月10日止，因未及納入本府111年度總預算，為爭取時效，謹請貴會同意先行墊付，俟 112 年總預算案辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年2月22日第530次市政會議審議通過。\",\"children\":[]}]},{\"tag\":\"p\",\"content\":\"\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/03\/21",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/03\/25",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/03\/31",
+    "SendNumber": "南議財經字第 1110002749號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a1c6c94e-6b2a-45fb-8319-ebf7680c9359",
+            "FileName": "財經5-中央核定函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=36af91df-1101-4eb8-a363-878d7cea77b6",
+            "FileName": "財經5-計畫彙整表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2611dfa7-5bb2-4bae-87e6-46607afd332c&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2ce756a6-0885-4a62-bf11-b5f492cb5374",
+            "FileName": "3-13墊付案審查意見報告書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/03\/18",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

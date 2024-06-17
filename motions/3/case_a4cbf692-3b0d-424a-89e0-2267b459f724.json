@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "2",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2021\/06\/08",
+    "ComeNumber": "府主基字第1100717724號",
+    "OrgTitle": "臺南市政府教育局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送臺南市政府110年1月至110年6月特別收入基金補辦預算或先行辦理數額表1份，請備查。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"依據附屬單位預算執行要點第23點及第32點規定辦理。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2021\/08\/10",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2021\/08\/31",
+    "SendNumber": "南議教育字第 1100007220號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9471661d-a51a-4bee-9336-437ccf14cb03",
+            "FileName": "3-5定-110年特別基金預算函文.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=dcf595ce-4ee8-4b08-b86f-720b19c7860b",
+            "FileName": "3-5定-附件-110年特別基金預算.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a4cbf692-3b0d-424a-89e0-2267b459f724&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

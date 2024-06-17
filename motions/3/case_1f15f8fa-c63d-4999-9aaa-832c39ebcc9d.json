@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/09\/06",
+    "ComeNumber": "府教體處設字第1101081038號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "教育部體育署核定補助本市「臺南市立新營體育園區田徑場外牆、廁所及周邊景觀暨第五停車場整修工程」案，總經費新臺幣2,500萬元整(中央補助款1,750萬元，市配合款750萬元)一案，因核定時未及納入本府110年度總預算，為爭取時效，謹請貴會同意先行墊付110年度90萬元(中央補助63萬元、市配合款27萬元)，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據教育部體育署110年8月16日臺教體署設(一)字第1100029054B號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"(一)本案執行期間自110年起至112年止，總經費2,500萬元，採一次發包，分3年編列預算辦理，110年度90萬元、111年度1,630萬元、112年度780萬元。\"},{\"tag\":\"p\",\"content\":\"(二)依照體育署核定補助作業要點規定，須於收到核定補助經費公文後，3個月內完成委託技術服務招標公告，逾3個月(110年11月15日前)未完成招標公告者將註銷補助款。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年8月23日第505次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2021\/09\/23",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2021\/09\/27",
+    "SendNumber": "南議教育字第 1100008520號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=dfb135f6-9224-4ab1-8a8a-60616d7728f8",
+            "FileName": "3-6定-教育市提1號案核定文.PDF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b453fa9c-0c0e-4f0a-8255-a33efd7a053a",
+            "FileName": "3-6定-市提1號案計畫書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1f15f8fa-c63d-4999-9aaa-832c39ebcc9d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

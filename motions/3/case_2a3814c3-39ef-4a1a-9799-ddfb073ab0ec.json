@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市政府水利局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院環境保護署核定本市110年「臺南市水質溶氧改善計畫」經費新台幣1,000萬元整乙案(中央補助700萬元；市配合款300萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，並於俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據行政院環境保護署109年9月21日環署水字第1091165930號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款，所使用之支出；第6款，配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：本次墊付總金額為1,000萬元，中央補助款為新台幣700萬元整，本市編列配合款新台幣300萬元整。因未及納入本府110年度總預算，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府109年10月15日第460次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2020\/11\/24",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2020\/12\/08",
+    "SendNumber": "南議工務字第 1090010999號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=78336411-c45c-4c09-bad7-3b7f99c8afbe",
+            "FileName": "市提2附件.PDF",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2a3814c3-39ef-4a1a-9799-ddfb073ab0ec&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2020\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

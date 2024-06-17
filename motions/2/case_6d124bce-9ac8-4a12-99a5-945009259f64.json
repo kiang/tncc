@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第6次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2017\/11\/21",
+    "ComeNumber": "府民自字第1061242424號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "財政部核定本市「強化資通安全防護作業計畫(106-107年)」經費新臺幣1,220萬8,000元(中央補助854萬5,000元；市配合款366萬3,000元)，為應時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，於107年度追加減預算或108年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據財政部106年9月28日台財資字第1062005248號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「直轄市及縣（市）單位預算執行要點」第44點第4款及第6款之規定，經上級政府核定之補助款，所使用之支出，及配合上級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"財政部核定「強化資通安全防護作業計畫(106-107年)」總經費1,220萬8,000元(進位至千元)其中中央補助經費70%計854萬5,000元，本市配合款30%計366萬3,000元，因未及納入預算，擬請准予先行墊付，於107年度追加減預算或108年度總預算時再予轉正。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府106年10月18日第312次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，於107年度追加減預算或108年度總預算時再予轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2017\/11\/24",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2017\/11\/29",
+    "SendNumber": "南議財經字第 1060008228號",
+    "DoDesc": "一、辦理使用年限逾7年電腦設備汰換及政府組織基準(GCB)導入。\r\n二、106年已辦理完成、107年辦理中。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a5fb6e61-6e5b-4f5f-94b2-89092bcf66d6",
+            "FileName": "市提3-資通安全防護墊付附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6d124bce-9ac8-4a12-99a5-945009259f64&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "2017\/09\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "一、辦理使用年限逾7年電腦設備汰換及政府組織基準(GCB)導入。\r\n二、106年已辦理完成、107年辦理中。\r\n",
+    "ErrorMessage": ""
+}

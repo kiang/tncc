@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第8次 臨時會",
+    "PTypTitle": "民政",
+    "CaseNumber": "1",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "",
+    "OrgTitle2": "",
+    "CaseCause": "「本市議員選區劃分之分析探討」專案報告",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"會議結論：\"},{\"tag\":\"p\",\"content\":\"一、請民政局建議臺南市選舉委員會針對各選舉區之實際狀況重新製作問卷調查，以真實反應各選舉區現況。\"},{\"tag\":\"p\",\"content\":\"二、請民政局針對「本市議員選區劃分之分析探討」專案報告中，議員提出之意見詳實彙整後檢送臺南市選舉委員會轉陳中央選舉委員會，以茲作為日後審議調整選舉區劃分之參考。\"}]",
+    "CheckDate": "2021\/03\/16",
+    "CheckDesc": "會議結論：\r\n一、請民政局建議臺南市選舉委員會針對各選舉區之實際狀況重新製作問卷調查，以真實反應各選舉區現況。\r\n二、請民政局針對「本市議員選區劃分之分析探討」專案報告中，議員提出之意見詳實彙整後檢送臺南市選舉委員會轉陳中央選舉委員會，以茲作為日後審議調整選舉區劃分之參考。\r\n",
+    "DoneDate": "2021\/03\/19",
+    "DoneDesc": "",
+    "SendDate": "2021\/03\/25",
+    "SendNumber": "南議民政字第 1100002066號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a3dabb7d-f135-4d4e-b1f4-ab216a72a5c9",
+            "FileName": "「本市議員選區劃分之分析探討」專案報告.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e7ddc6bf-8962-4b57-b5f0-68af079a7449",
+            "FileName": "臺南市選舉委員會委員名單.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8fee8f6d-a731-4940-b87c-d34979ffdcde&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "2021\/03\/03",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

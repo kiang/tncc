@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "68",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝、方一峰、李中岑、蔡淑惠",
+    "OrgTitle2": "吳通龍、Ingay Tali穎艾達利、周奕齊、李鎮國、陳昆和",
+    "CaseCause": "建請臺南市政府宜速召開「道路屬性及權責釐清會議」，以解決原南縣偏鄉道路無管轄單位致報修無門的問題，以保障偏鄉用路人安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依白河地區等里民陳情意見辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"白河區廣蓮里道路原做為區道使用，現仍為鄰里部落往來之重要通道，年久失修，破損嚴重，卻因該路使用分區為特定農業區，遭廢除區道編號，地政單位則以涉及私人土地不予鋪設，致該道路改善工程到底歸屬工務、民政、地政或農業局等那個單位辦理，相關單位皆認定非其管轄權。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"原南縣偏鄉道路管理恐不乏有類此權責不明的情況，惟市府多年來皆未召開，使破損的道路遲遲無法獲得維護，亟待改善。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/10\/03",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/10\/05",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/10\/13",
+    "SendNumber": "南議財經字第 1110012197號",
+    "DoDesc": "本府就「建請臺南市政府宜速召開『道路屬性及權責釐清會議』，以解決原台南縣偏鄉道路無管轄單位致報修無門的問題，以保障偏鄉用路人安全。」1案，敬答覆如下：\r\n本府已於107年11月13日召開「劃分本市道路及排水溝渠權責單位第4次研商會議」，並訂定「道路修繕權責主管機關認定標準」(詳如附件)，各區公所可依該認定標準向相關權管單位報修。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f85e5119-3bf9-4278-a416-526a5710f582",
+            "FileName": "財經議提68號-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7092b36f-3f44-4b0c-bf7d-db39b14e8b92&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/11\/02",
+    "ExecuteReNumber": "府工養二字第 1111387718號",
+    "ExecuteReMemo": "本府就「建請臺南市政府宜速召開『道路屬性及權責釐清會議』，以解決原台南縣偏鄉道路無管轄單位致報修無門的問題，以保障偏鄉用路人安全。」1案，敬答覆如下：\r\n本府已於107年11月13日召開「劃分本市道路及排水溝渠權責單位第4次研商會議」，並訂定「道路修繕權責主管機關認定標準」(詳如附件)，各區公所可依該認定標準向相關權管單位報修。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第9次 臨時會",
+    "PTypTitle": "民政",
+    "CaseNumber": "8",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/08\/23",
+    "ComeNumber": "府民自字第1101018997號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "國家發展委員會核定本市「新營區微型創新教育體驗基地空間整備活化計畫」經費新臺幣278萬5,000元整（中央補助款222萬7,000元，地方配合款55萬8,000元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據國家發展委員會110年5月18日發國字第1100082366號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案總經費278萬5,000元（中央補助款222萬7,000元，地方配合款55萬8,000元），因未及納入本府110年度總預算，為爭取時效，謹請貴會同意先行墊付，俟111年度總預算時辦理轉正。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年8月23日第505次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/09\/03",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/09\/10",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/09\/15",
+    "SendNumber": "南議民政字第 1100007588號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a1c7f630-c451-4ca2-ba46-f3f27c1ef53b",
+            "FileName": "核定函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ea99dcc7-18c9-425c-8e8a-2fe00d991e20",
+            "FileName": "計畫書.docx",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3642f0d8-ab83-4d9f-97fb-7028bbd6fc33&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/09\/01",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

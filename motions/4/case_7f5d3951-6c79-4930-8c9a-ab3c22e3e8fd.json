@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "7",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/01\/11",
+    "ComeNumber": "府農工字第1120100532號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會水土保持局核定本市辦理地方創生「學甲平安宴及在地特色料理開發計畫」，所需經費新臺幣95萬元(中央補助款80萬元、市配合款15萬元)，為因應時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院農業委員會水土保持局111年12月12日水保農字第1111868508號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"本案核定經費新臺幣95萬元(中央補助款80萬元、市配合款15萬元)。經常門尚需增列80萬元，以及計畫必須分擔配合款15萬元，合計95萬元，因未及納入112年度預算，為因應時效，請准予先行墊付，俟112年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要工作項目：\",\"children\":[{\"order\":\"１、\",\"content\":\"在地特色中西式料理開發。\",\"children\":[]},{\"order\":\"２、\",\"content\":\"料理品嘗試吃會。\",\"children\":[]},{\"order\":\"３、\",\"content\":\"平安餐會活動舉辦。\",\"children\":[]}]}]},{\"order\":\"四、\",\"content\":\"本案業經本府111年12月26日第575次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/02\/09",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/02\/17",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/02\/20",
+    "SendNumber": "南議財經字第 1120000926號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=67c5fc5e-25da-4e81-8447-7388069a70d0",
+            "FileName": "附件-財經7號案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7f5d3951-6c79-4930-8c9a-ab3c22e3e8fd&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/02\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

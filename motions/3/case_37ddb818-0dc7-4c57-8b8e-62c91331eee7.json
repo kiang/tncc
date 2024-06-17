@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "20",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "張世賢、蔡淑惠",
+    "OrgTitle2": "王家貞、尤榮智、方一峰、盧崑福、李中岑、周奕齊",
+    "CaseCause": "新營區健康路213巷與金華路一段路口號誌建請改善乙案。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"日前道安記者會中交通部長說明會檢討機車路權、兩段式左轉的合理性。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"由健康路213巷左轉金華路掛有待轉牌，需要兩段式待轉，但此巷路幅狹窄，沒有跨越眾多車道的需求，也沒有待轉格，且此路口只是閃光紅燈，強制待轉反而容易造成追撞，卻還要強制待轉；從國圖南館東側計畫道路左轉金華路也有相同狀況。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"從金華路慢車道左轉國圖南館東側計畫道路，待轉格在金華路外，也就是慢車道右側；然而反方向左轉健康路213巷，待轉格卻在快慢分隔島中，也就是慢車道左側。待轉格一下子在左方、一下子在右方，對用路人來說非常不直覺，反而增加車禍的機會。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"希望市府可以通盤檢討全市的交通，而不是浮濫的設置待轉牌或待轉格，增加車流的交織；也應當設置實體人行道保障行人安全。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"建請該路口啟動定時號誌及改善待轉區設置位置。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/08\/25",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/08\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/09\/02",
+    "SendNumber": "南議保安字第 1110010025號",
+    "DoDesc": "本府就「新營區健康路213巷與金華路一段路口號誌建請改善乙案」案，敬答覆如下：\r\n本案本府交通局業於111年8月22日邀集相關單位辦理現地會勘，經考量現地交通條件與行車安全之需求，決議調整案地路口號誌時制計畫增加三色運作時段，並拆除案地路口自支道(健康路213巷、北側道路)轉向金華路之機慢車兩段式左轉標誌「遵20」計4面。\r\n另本府交通局將研議調整本路段各路口機慢車左轉待轉區位置之可行性。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d261140b-76eb-4ed4-a020-a62889a357e9",
+            "FileName": "議提20附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=37ddb818-0dc7-4c57-8b8e-62c91331eee7&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/09\/13",
+    "ExecuteReNumber": "府交交管字第 1111176215號",
+    "ExecuteReMemo": "本府就「新營區健康路213巷與金華路一段路口號誌建請改善乙案」案，敬答覆如下：\r\n本案本府交通局業於111年8月22日邀集相關單位辦理現地會勘，經考量現地交通條件與行車安全之需求，決議調整案地路口號誌時制計畫增加三色運作時段，並拆除案地路口自支道(健康路213巷、北側道路)轉向金華路之機慢車兩段式左轉標誌「遵20」計4面。\r\n另本府交通局將研議調整本路段各路口機慢車左轉待轉區位置之可行性。",
+    "ErrorMessage": ""
+}

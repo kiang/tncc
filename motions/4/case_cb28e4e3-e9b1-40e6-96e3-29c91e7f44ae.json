@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "61",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林依婷",
+    "OrgTitle2": "朱正軒、鄭佳欣、謝舒凡",
+    "CaseCause": "經查：8\/10(四)由於急降雨，時雨量達70mm，經民眾反映健康路三段側溝嚴重堵塞，排水不良(如附圖)，建請相關單位進行研擬改善。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"受到西南風影響，本(8)月上旬，臺灣西半部天氣不穩定，中南部整天有陣雨或雷雨，氣象局發出防災警告：包括本市有局部大雨或豪雨等狀況，嘉義、屏東地區及澎湖有局部大雨發生的機率。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"8\/10(四)當天更出現時雨量達70mm的狀況，經民眾反映健康路三段側溝嚴重堵塞，排水不良(如附圖)，建請相關單位進行研擬改善。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/08\/15",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/08\/17",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/08\/28",
+    "SendNumber": "南議工務字第 1120007920號",
+    "DoDesc": "本府就「經查：8\/10(四)由於急降雨，時雨量達 70mm，經民眾反映健康路三段側溝嚴重堵塞，排水不良，建請相關單位進行研擬改善。」案，敬答覆如下：\r\n林依婷議員服務處112年8月15日邀集本府工務局、本市安平區公所、本府環境保護局、本市安平區文平里里長、台灣自來水公司第六區管理處現地會勘，因雨量大導致健康路三段30號~36號前積水嚴重，經與會單位討論，健康路三段側溝離排水箱涵很近，溝內無淤積問題且設有6個溝蓋，故排除排水之問題，另查詢8月10日當時雨量為70mm，應是雨量大過湍急導致積水之問題。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=096c0031-d2a6-4f1c-862a-7ab9f7fc85fe",
+            "FileName": "4-3臨工務議提61附件docx.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=cb28e4e3-e9b1-40e6-96e3-29c91e7f44ae&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/09\/14",
+    "ExecuteReNumber": "府工養一字第 1121173153號",
+    "ExecuteReMemo": "本府就「經查：8\/10(四)由於急降雨，時雨量達 70mm，經民眾反映健康路三段側溝嚴重堵塞，排水不良，建請相關單位進行研擬改善。」案，敬答覆如下：\r\n林依婷議員服務處112年8月15日邀集本府工務局、本市安平區公所、本府環境保護局、本市安平區文平里里長、台灣自來水公司第六區管理處現地會勘，因雨量大導致健康路三段30號~36號前積水嚴重，經與會單位討論，健康路三段側溝離排水箱涵很近，溝內無淤積問題且設有6個溝蓋，故排除排水之問題，另查詢8月10日當時雨量為70mm，應是雨量大過湍急導致積水之問題。",
+    "ErrorMessage": ""
+}

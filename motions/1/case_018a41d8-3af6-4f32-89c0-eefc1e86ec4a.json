@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第2次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "14",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2011\/10\/26",
+    "ComeNumber": "府工管一字第1000831632號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "擬制定「臺南市建築管理自治條例」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據本府100年1月10日府法制字第1000007675號函發「臺南市政府及所屬各機關自治法規新訂及整併作業計畫」辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為因應縣市合併後建築管理需要，重新訂定「臺南市建築管理自治條例」（草案），並廢止99年12月25日公告繼續適用「臺南市建築管理自治條例」及「臺南縣建築管理自治條例」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本自治條例業經本府100年10月27日第41次市政會議審議，礙於時間緊迫，送請貴會審議。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請惠予審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、刪除第十條（內容詳附表）\r\n二、餘照案通過",
+    "DoneDate": "2011\/12\/08",
+    "DoneDesc": "照審查意見修正通過。",
+    "SendDate": "2011\/12\/28",
+    "SendNumber": "南議法規字第 1000011663號",
+    "DoDesc": "本案業經本府工務局於101年3月5日以府工管一字第1010187872號函請內政部核定中，俟核定後即可由本府法制處公布實施。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2f861962-bfe5-4f0e-a601-eb15dff24cde",
+            "FileName": "1-2定市提14大會決議附表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=018a41d8-3af6-4f32-89c0-eefc1e86ec4a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見修正通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案業經本府工務局於101年3月5日以府工管一字第1010187872號函請內政部核定中，俟核定後即可由本府法制處公布實施。",
+    "ErrorMessage": ""
+}

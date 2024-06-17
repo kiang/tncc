@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "6",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "陳怡珍、林冠維、周奕齊、曾之婕、周麗津",
+    "CaseCause": "建請市府儘速改善新化區離子尾橋旁大目幹溪雜草叢生情況。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據人民陳情案件辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"此大排附近住家眾多，為有效排水及維護環境整潔，請市府儘速清淤。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"附件為實拍圖，請參閱。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/06\/02",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/06\/07",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/06\/15",
+    "SendNumber": "南議工務字第 1120004266號",
+    "DoDesc": "本局就「建請市府儘速改善新化區離子尾橋旁大目幹溪雜草叢生情況」案，敬答覆如下：\r\n針對本市轄內公告區域排水巡查作業，本府水利局委由區域排水巡查專案管理廠商於每年度3月底完成虎頭溪排水公告權責區段巡查作業，本案於112年4月底完成第1次疏濬作業，考量本區段排水路緊鄰新化都市計畫住宅區居民舒適及安全性，再於6月17日通知廠商進行第2次疏濬作業，施作範圍為虎頭溪排水離子尾橋下游至烏鬼厝溪排水匯流口區段，長度約2公里，預計7月中旬前完成。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7505dec3-3ac1-421e-89cb-067396b9eae6",
+            "FileName": "4-1定工務議提6附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fd5d5b90-b1e3-4bfc-ac0d-0e98b33b1d13&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/07\/12",
+    "ExecuteReNumber": "府水養字第 1120814318號",
+    "ExecuteReMemo": "本局就「建請市府儘速改善新化區離子尾橋旁大目幹溪雜草叢生情況」案，敬答覆如下：\r\n針對本市轄內公告區域排水巡查作業，本府水利局委由區域排水巡查專案管理廠商於每年度3月底完成虎頭溪排水公告權責區段巡查作業，本案於112年4月底完成第1次疏濬作業，考量本區段排水路緊鄰新化都市計畫住宅區居民舒適及安全性，再於6月17日通知廠商進行第2次疏濬作業，施作範圍為虎頭溪排水離子尾橋下游至烏鬼厝溪排水匯流口區段，長度約2公里，預計7月中旬前完成。",
+    "ErrorMessage": ""
+}

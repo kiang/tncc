@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "15",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2020\/03\/04",
+    "ComeNumber": "府文秘字第1090270898號",
+    "OrgTitle": "臺南市政府文化局所屬臺南市立圖書館",
+    "OrgTitle2": "",
+    "CaseCause": "教育部核定本市「建構合作共享的公共圖書館系統中長程個案計畫」之「108至111年健全直轄市立圖書館營運體制計畫」，109年度中央補助款預算新臺幣100萬元，為爭取時效，謹請貴會同意先行墊付補助款100萬元，俾憑辦理後續相關作業事宜，俟110年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據教育部108年1月23日臺教社(四)字第1080007760A號、108年5月10日臺教社(四)字第1080069516號及109年2月4日臺教社(四)字第1090008217號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"本案係教育部核定本市「建構合作共享的公共圖書館系統中長程個案計畫」之「108至111年健全直轄市立圖書館營運體制計畫」總經費新台幣1,201萬元，原核定以代收代付方式辦理，現依教育部109年2月4日臺教社(四)字第1090008217號函改以納入預算辦理，109至111年，每年度中央補助100萬元，市配合款67萬元(已納入109年預算)。因本案核定時間及經費額度未及納入本府109年度總預算，為爭取時效，謹請貴會同意先行墊付中央補助款100萬元。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府109年3月3日第428次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟110年度預算時再予轉正。\"}]",
+    "CheckDate": "2020\/05\/06",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2020\/06\/09",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2020\/06\/16",
+    "SendNumber": "南議教育字第 1090003870號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=74d9cb9c-51ec-454f-b98d-59b9e2c385d1",
+            "FileName": "15.教育部核定健全直轄市計畫補助函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ed380e7e-7869-41ac-9356-c0056859c5e1",
+            "FileName": "15中央公文(108年1月23日教育部函).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=00564da4-6c70-4333-83de-d80541510b47",
+            "FileName": "15教育部補助經費請納入預算辦理.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f4bdc5e5-176f-4909-aedd-de6d701d056b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

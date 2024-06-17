@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第6次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2017\/09\/14",
+    "ComeNumber": "府財務字第1060979769號",
+    "OrgTitle": "",
+    "OrgTitle2": "",
+    "CaseCause": "檢送「臺南市政府各機關106年3月29日至106年8月31日先行墊支案件彙整表」，計有臺南市龍崎區公所等21個機關，共70案計新台幣16億5,590萬2,000元。",
+    "Content": "[]",
+    "Method": "[]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2017\/09\/22",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2017\/09\/29",
+    "SendNumber": "南議財經字第 1060006747號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3b5a43d3-261e-4e63-b1b4-127b124815f1",
+            "FileName": "報告事項1-先行墊支案彙整表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=26dd8722-2b46-45ca-b164-a43fd5606962&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2017\/09\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

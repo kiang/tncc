@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案",
+    "ComeDate": "2020\/08\/28",
+    "ComeNumber": "府主預字第1091056994號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "本市109年度總預算第1次追加（減）預算案，業經編製完竣，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據地方制度法、一百零九年度中央及地方政府預算籌編原則規定辦理。\"},{\"tag\":\"p\",\"content\":\"二、本市109年度總預算追加（減）預算案歲入未追加減，歲出追加2億1,863萬元；109年度臺南市總預算歲入追加減後預算數946億8,043萬5,000元，歲出追加減後預算數1,007億9,446萬5,000元，歲入歲出差短61億1,403萬元，差短部分以舉借同額債務支應。\"},{\"tag\":\"p\",\"content\":\"三、本案業經本府109年8月27日第453次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會惠予審議。\"}]",
+    "CheckDate": "2020\/09\/02",
+    "CheckDesc": "聯席審查意見：照案通過。",
+    "DoneDate": "2020\/09\/09",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2020\/09\/14",
+    "SendNumber": "南議財經字第 1090008273號",
+    "DoDesc": "一、本府主計處109年9月18日府主預字第1091142920號公告「109年度臺南市總預算第1次追加(減)預算」在案。\r\n二、本府主計處109年9月18日府主預字第1091132134號函將市議會審議109年度總預算第1次追加(減)預算案結果通知社會局，並請社會局依各機關單位預算執行要點辦理預算分配。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6967811b-c9f0-4890-8439-19cb5c181df3",
+            "FileName": "本市109年度總預算第1次追加（減）預算案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d4719257-148b-4084-b672-d347ca8f33fe&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2020\/08\/31",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "一、本府主計處109年9月18日府主預字第1091142920號公告「109年度臺南市總預算第1次追加(減)預算」在案。\r\n二、本府主計處109年9月18日府主預字第1091132134號函將市議會審議109年度總預算第1次追加(減)預算案結果通知社會局，並請社會局依各機關單位預算執行要點辦理預算分配。",
+    "ErrorMessage": ""
+}

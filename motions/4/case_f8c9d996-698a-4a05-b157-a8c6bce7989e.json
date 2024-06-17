@@ -1,0 +1,68 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "3",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2023\/05\/04",
+    "ComeNumber": "府主預字第1120596738號",
+    "OrgTitle": "臺南市政府主計處",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本府112年第1季辦理政策及業務宣導之執行情形表，提請貴會備查，請查照。",
+    "Content": "",
+    "Method": "",
+    "CheckDate": "2023\/06\/20",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2023\/07\/06",
+    "SendNumber": "南議財經字第 1120005573號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a74604d2-90e0-4e67-ae3f-90d5c16ffdb3",
+            "FileName": "民政教育委員會-112年第1季.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=172f7bd4-6bc8-4522-aa79-610c6abf5981",
+            "FileName": "財經委員會-112年第1季.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c6e87599-85bb-42b9-85ab-6d69ba932580",
+            "FileName": "環衛委員會-112年第1季.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1b51d5f7-d697-46c5-825e-7e6d1dbf67ba",
+            "FileName": "保安委員會-112年第1季.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6de4fed5-8824-4b47-b6ae-e1381ccc0643",
+            "FileName": "建設委員會-112年第1季.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0b5934c0-c867-4d61-a699-145ecfb65484",
+            "FileName": "工務委員會-112年第1季.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f8c9d996-698a-4a05-b157-a8c6bce7989e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2023\/06\/07",
+    "FirstDesc": "交付各相關委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

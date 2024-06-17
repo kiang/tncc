@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "114",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "尤榮智",
+    "OrgTitle2": "方一峰、王家貞、李中岑、蔡宗豪",
+    "CaseCause": "請辦理下營區中營里南廍排水改善工程(二期)，因河水淤積嚴重，每逢豪雨或颱風季節致使淹水問題，急需辦理改善，以利排水通暢。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"下營區中營里南廍排水改善工程(二期)，因河水淤積雜草叢生妨害河道，請儘速辦理改善，杜絕淹水問題。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"護岸工程：L=600公尺，W=4公尺。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府水利局優先納入改善。\"}]",
+    "CheckDate": "2023\/10\/23",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/10\/27",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/11\/03",
+    "SendNumber": "南議工務字第 1120010173號",
+    "DoDesc": "",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ab1243f8-a14b-4ff1-be54-8e049ab94b05",
+            "FileName": "第4屆第2次定期會議員提案-工務第114號案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1b45b320-bb0f-44ec-bb6e-de16ca22fd47&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/11\/16",
+    "ExecuteReNumber": "府水工字第 1121470747號",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

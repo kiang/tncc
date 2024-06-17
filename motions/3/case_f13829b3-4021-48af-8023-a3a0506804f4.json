@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "14",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳碧玉",
+    "OrgTitle2": "沈家鳳、林阳乙、陳昆和、周麗津、蔡育輝",
+    "CaseCause": "建請市府農業局儘速在新市區潭頂段945-3地號前，進行排水系統改善工程，俾利農耕。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"據民眾反映，上該農地，每逢大雨，不及排水，農損嚴重。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請市府農業局，儘速進行排水系統改善工程，俾利農耕。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/06\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/07\/08",
+    "SendNumber": "南議財經字第 1110006479號",
+    "DoDesc": "本府就「建請市府針對臺南市新市區潭頂段 945-3 地號前，進行排水系統改善工程，俾利農耕」案，敬答覆如下：\r\n一、 本案工程名稱：新市區潭頂段 945-3 地號前排水改善工程。\r\n二、 旨揭工程本府農業局已於 111 年 6 月 27 日會同陳議員碧玉服務處及相關單位現場勘查完成，惟未能取得土地使用同意書，已商請臺南市新市區公所與陳情人，再協調土地所有權人取得同意書，再行提案本府農業局辦理。\r\n三、 承蒙 貴席對於農政業務之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6ff0a97f-a2c5-498b-9714-b5a5cde55523",
+            "FileName": "14.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f13829b3-4021-48af-8023-a3a0506804f4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/07\/15",
+    "ExecuteReNumber": "府農工字第 1110916048號",
+    "ExecuteReMemo": "本府就「建請市府針對臺南市新市區潭頂段 945-3 地號前，進行排水系統改善工程，俾利農耕」案，敬答覆如下：\r\n一、 本案工程名稱：新市區潭頂段 945-3 地號前排水改善工程。\r\n二、 旨揭工程本府農業局已於 111 年 6 月 27 日會同陳議員碧玉服務處及相關單位現場勘查完成，惟未能取得土地使用同意書，已商請臺南市新市區公所與陳情人，再協調土地所有權人取得同意書，再行提案本府農業局辦理。\r\n三、 承蒙 貴席對於農政業務之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "ErrorMessage": ""
+}

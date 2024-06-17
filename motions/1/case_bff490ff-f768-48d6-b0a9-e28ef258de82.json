@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第5次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2011\/08\/08",
+    "ComeNumber": "府民自字第1000559375號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理出售本府經管坐落本市關廟區文衡段1203地號等9筆非公用市有土地，擬依土地法第25條規定，提請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、坐落本市關廟區文衡段1203地號等9筆市有土地，現況為空地，100年總公告現值為447,288,137元（如臺南市政府管有非公用市有土地擬處分清冊(4)），擬依臺南縣縣有財產管理自治條例第49條第1項第1款及公有土地經營及處理原則第7點但書第7款規定辦理出售以挹注市庫。\"},{\"tag\":\"p\",\"content\":\"二、本案業經本府100年8月2日第30次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "除永康區頂西段0331-0000地號，建請依8月19日現勘之決議辦理外，其餘照案通過。(8月19日現勘之決議：為提供里民更多生活休憩空間，建議循都市計畫變更程序，將永康區頂西段331地號土地變更為公兒用地，併同相鄰永康區頂西段327地號公兒用地整體規劃使用。尚未合併使用前，請永康區公所排除公兒用地地上物後，交由里辦公處簡易綠美化提供民眾使用。)",
+    "DoneDate": "2011\/08\/31",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2011\/09\/05",
+    "SendNumber": "南議財經字第 1000011204號",
+    "DoDesc": "1.永康區頂西段0331-0000地號市有土地，已函請永康區公所依決議事項辦理。\r\n2.其餘關廟區文衡段1203地號等8筆市有土地，已送內政部核准中。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bce385d5-2a21-4bfb-974e-e33577aa97bb",
+            "FileName": "第一屆第5次臨時大會擬處分清冊（提案4）.xls",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=bff490ff-f768-48d6-b0a9-e28ef258de82&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "1.永康區頂西段0331-0000地號市有土地，已函請永康區公所依決議事項辦理。\r\n2.其餘關廟區文衡段1203地號等8筆市有土地，已送內政部核准中。\r\n",
+    "ErrorMessage": ""
+}

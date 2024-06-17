@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "33",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡蘇秋金",
+    "OrgTitle2": "鄭佳欣、謝舒凡、林依婷、周嘉韋、陳皇宇",
+    "CaseCause": "建請儘速改善將軍區玉山中排一排水，俾利附近農田排水順暢及居民安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"將軍區玉山中排一排水，現有排水溝為重劃後之砌石溝，現有排水溝嚴重破損，影響該地區農產收成，亟須辦理改善。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請儘速改善，俾利該地區排水安全，以符合該區農民實際需求，並確保排水順暢及發揮防洪功能。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/06\/02",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/06\/07",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/06\/15",
+    "SendNumber": "南議工務字第 1120004363號",
+    "DoDesc": "本府就「建請儘速改善將軍區玉山中排一排水，俾利附近農田排水順暢及居民安全」案，敬答覆如下：\r\n一、經查將軍區玉山中排一排水現況兩岸為砌石護岸結構尚屬穩定，目前渠寬約 6 公尺，係屬行政院農業委員會農田水利署嘉南管理處權責管理，非本市公告區域排水。\r\n二、行政院農業委員會農田水利署嘉南管理處已於112年4月18日提報行政院農業委員會農田水利署爭取經費約510萬元，預計改建長度約278公尺，本府將追蹤後續辦理情形。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=201c66cf-9a49-4c76-8aab-8848f6f39ab9",
+            "FileName": "26124_0799734A00_ATTCH1.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d4b14c9a-cd13-4f47-bb78-c77b15bf9c94&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/06\/26",
+    "ExecuteReNumber": "府水工字第 1120799734號",
+    "ExecuteReMemo": "本府就「建請儘速改善將軍區玉山中排一排水，俾利附近農田排水順暢及居民安全」案，敬答覆如下：\r\n一、經查將軍區玉山中排一排水現況兩岸為砌石護岸結構尚屬穩定，目前渠寬約 6 公尺，係屬行政院農業委員會農田水利署嘉南管理處權責管理，非本市公告區域排水。\r\n二、行政院農業委員會農田水利署嘉南管理處已於112年4月18日提報行政院農業委員會農田水利署爭取經費約510萬元，預計改建長度約278公尺，本府將追蹤後續辦理情形。",
+    "ErrorMessage": ""
+}

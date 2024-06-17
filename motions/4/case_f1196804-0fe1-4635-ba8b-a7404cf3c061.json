@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "87",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "李文俊、陳皇宇、朱正軒",
+    "CaseCause": "建請市府重鋪三民里三民街90巷67號前道路及三民街79巷56號前道路柏油路。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"永康區三民里三民街90巷67號前柏油路及三民街79巷56號前柏油路重鋪。此2條巷道路柏油嚴重龜裂，路面修修補補呈現路面不平整，嚴重影響行車人之安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"建請臺南市政府編列預算辦理。\"}]",
+    "CheckDate": "2023\/03\/29",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/03\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/04\/10",
+    "SendNumber": "南議工務字第 1120002148號",
+    "DoDesc": "本府就「建請市府重鋪三民里三民街90巷67號前道路及三民街79巷56號前道路柏油路」案，敬答覆如下：\r\n本府工務局於112年4月11日邀集李鎮國議員服務處、三民里長及永康區公所現場會勘，經現場勘查既有AC路面已老舊龜裂且粒料剝離，請永康區公所規劃AC改善工程，本府工務局將先行錄案並視年度經費研議辦理。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3eacb66a-a66a-4252-a12a-11837e29f1a5",
+            "FileName": "4-2臨工務議提87附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f1196804-0fe1-4635-ba8b-a7404cf3c061&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/04\/25",
+    "ExecuteReNumber": "府工養二字第 1120497301號",
+    "ExecuteReMemo": "本府就「建請市府重鋪三民里三民街90巷67號前道路及三民街79巷56號前道路柏油路」案，敬答覆如下：\r\n本府工務局於112年4月11日邀集李鎮國議員服務處、三民里長及永康區公所現場會勘，經現場勘查既有AC路面已老舊龜裂且粒料剝離，請永康區公所規劃AC改善工程，本府工務局將先行錄案並視年度經費研議辦理。",
+    "ErrorMessage": ""
+}

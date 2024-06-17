@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "160",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡宗豪",
+    "OrgTitle2": "曾培雅、王家貞",
+    "CaseCause": "建請市府將北區長榮路四段119巷路面重新鋪設為連鎖磚，保障用路人安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市北區長榮路四段119巷路面經多次重鋪，導致路面凹凸不平及龜裂，影響用路人安全。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請市府將路面重新鋪設為連鎖磚，保障用路人安全。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/11\/27",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/12\/05",
+    "SendNumber": "南議工務字第 1120011470號",
+    "DoDesc": "本府就「建請市府將北區長榮路四段119巷路面重新鋪設為連鎖磚，保障用路人安全」案，敬答覆如下：\r\n本案已於112年11月27日由本府工務局邀集蔡宗豪議員服務處、北區區公所、振興里里長現場會勘，里長考量磚面耐久性、美觀性及119巷無大型車進出，建議鋪設磚面；本府工務局評估現況路面老舊且粒料析離，需重新鋪設AC路面，請北區區公所研議改善路面。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a46efae7-7b18-476f-8813-c11360d7a993",
+            "FileName": "工務議提160附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b40d56d6-7b39-4d52-9806-bcc50c2d5f9a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/12\/20",
+    "ExecuteReNumber": "府工養一字第 1121662334號",
+    "ExecuteReMemo": "本府就「建請市府將北區長榮路四段119巷路面重新鋪設為連鎖磚，保障用路人安全」案，敬答覆如下：\r\n本案已於112年11月27日由本府工務局邀集蔡宗豪議員服務處、北區區公所、振興里里長現場會勘，里長考量磚面耐久性、美觀性及119巷無大型車進出，建議鋪設磚面；本府工務局評估現況路面老舊且粒料析離，需重新鋪設AC路面，請北區區公所研議改善路面。",
+    "ErrorMessage": ""
+}

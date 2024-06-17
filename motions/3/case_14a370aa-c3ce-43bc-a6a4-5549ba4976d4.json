@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2021\/07\/15",
+    "ComeNumber": "府文建字第1100862874號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "文化局擬具「臺南市歷史街區振興自治條例」全文修正草案，提請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本府為予以非位處歷史街區之歷史老屋永續推展及振興活化政策之可能，希冀完整歷史老屋政策之規劃；另亦根據執行經驗、強化各執行面向及確保補助效益等，爰擬具本修正草案，其要點如下：\",\"children\":[]}]},{\"tag\":\"p\",\"content\":\"（一）修正法規名稱。\"},{\"tag\":\"p\",\"content\":\"（二）修正規範目的。（修正條文第一條）\"},{\"tag\":\"p\",\"content\":\"（三）修正部分文字。（修正條文第二條）\"},{\"tag\":\"p\",\"content\":\"（四）配合規範目的之修正，酌修文字。（修正條文第三條）\"},{\"tag\":\"p\",\"content\":\"（五）修正用詞定義。（修正條文第四條）\"},{\"tag\":\"p\",\"content\":\"（六）修正歷史街區振興委員會名稱與審議內容。（修正條文第五條）\"},{\"tag\":\"p\",\"content\":\"（七）配合本次修正目的，刪除非位於歷史街區歷史老屋之現行第二項第三款規定，並酌修第二項第二款及第六款文字。（修正條文第六條）\"},{\"tag\":\"p\",\"content\":\"（八）修正部分文字，以符目前說明會均於歷史街區振興委員會審議前辦理之執行經驗。（修正條文第七條）\"},{\"tag\":\"p\",\"content\":\"（九）修正振興方案應包含之內容。（修正條文第八條）\"},{\"tag\":\"p\",\"content\":\"（十）增訂第三款規定，增加補助之彈性。（修正條文第九條）\"},{\"tag\":\"p\",\"content\":\"（十一）定明同一補助對象申請補助，每年以一次為限。（修正條文第十條）\"},{\"tag\":\"p\",\"content\":\"（十二）修正連續補助之限制及例外。（修正條文第十一條）\"},{\"tag\":\"p\",\"content\":\"（十三）為確保補助效益，受補助人應於結案後五年內按補助計畫辦理，或不得違反補助之目的。（修正條文第十二條）\"},{\"tag\":\"p\",\"content\":\"（十四）修正部分文字。（修正條文第十三條）\"},{\"tag\":\"p\",\"content\":\"（十五）配合第六條第二項第五款規定之修正，酌修文字。(修正條文第十四條）\"},{\"tag\":\"p\",\"content\":\"二、本案業經本府110年6月7日第494次市政會議審議通過。\"},{\"tag\":\"p\",\"content\":\"三、檢附「臺南市歷史街區振興自治條例」修正草案總說明、對照表、草案總條文各1份。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請　貴會審議。\"}]",
+    "CheckDate": "2021\/08\/12",
+    "CheckDesc": "本修正草案內容不夠詳實、周延，退回文化局重新修訂後，再提送本會審議。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "第3屆第5次定期會第37次會議(110年8月19日)大會決議如下：\r\n照審查意見，退回文化局重新修訂後，再提送本會審議。",
+    "SendDate": "2021\/08\/25",
+    "SendNumber": "南議法規字第 1100006871號",
+    "DoDesc": "本府文化局刻正重新修訂，預計111年上半年完成本府法規審查後，再提送市議會審議。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d5df4727-9cbd-4533-94a1-fd0c2af96d8a",
+            "FileName": "臺南市歷史街區振興自治條例(含總說明、條文對照表、條文內容).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=14a370aa-c3ce-43bc-a6a4-5549ba4976d4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b667790c-d7b6-4a8e-9ec2-48c9812e61be",
+            "FileName": "3-5定法規市提2大會決議案-「臺南市歷史街區振興自治條例」全文修正草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "2021\/07\/27",
+    "ReDesc": "第3屆第5次定期會第37次會議(110年8月19日)大會決議如下：\r\n照審查意見，退回文化局重新修訂後，再提送本會審議。",
+    "FirstDate": "2021\/08\/03",
+    "FirstDesc": "交付法規委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本府文化局刻正重新修訂，預計111年上半年完成本府法規審查後，再提送市議會審議。",
+    "ErrorMessage": ""
+}

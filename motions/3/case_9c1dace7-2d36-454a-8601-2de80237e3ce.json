@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-法規查照案",
+    "ComeDate": "2020\/09\/01",
+    "ComeNumber": "府文人字第1091057596號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市政府文化局編制表」。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據地方制度法第27條第3項規定辦理。\"},{\"tag\":\"p\",\"content\":\"二、旨揭編制表業經本府109年8月26日府法規字第1091026364A號令修正發布，並自109年10月1日生效。\"}]",
+    "Method": "[]",
+    "CheckDate": "2020\/11\/26",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2020\/12\/08",
+    "SendNumber": "南議法規字第 1090011783號",
+    "DoDesc": "已於109年10月1日修正施行。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8b8bd9ca-c9a1-43e9-878b-236bc4e8e6ab",
+            "FileName": "臺南市政府文化局編制表.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4ccb5874-db97-4c62-b8da-a4023eebb9d1",
+            "FileName": "法規報告案大會決議.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9c1dace7-2d36-454a-8601-2de80237e3ce&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2020\/09\/24",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "已於109年10月1日修正施行。",
+    "ErrorMessage": ""
+}

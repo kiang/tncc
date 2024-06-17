@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/07\/24",
+    "ComeNumber": "府社秘字第1120942015號",
+    "OrgTitle": "臺南市政府社會局",
+    "OrgTitle2": "",
+    "CaseCause": "本案為行政院農業委員會補助辦理112年身心障礙者自付農民健康保險及農民職業災害保險增加負擔之保險費，計新臺幣558萬3,000元整(中央全額補助)，為利時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院農業委員會112年5月19日農輔字第1120222057號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：(一)本案為行政院農業委員會為農民健康保險條例部分修正條文自112年2月10日施行後，經由中央特別統籌分配稅款核撥本府112年身心障礙者自付農民健康保險及農民職業災害保險增加負擔之保險費。(二)本案經費計新臺幣558萬3,000元整，因未及納入本府112年度總預算，為利時效並有效運用補助經費，謹請貴會同意先行墊付，俟113年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年6月27日第600次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：有關「農民健康保險條例」部分修正條文自112年2月10日施行後，其保險之月投保金額由1萬200元增加至2萬400元，致補助之保險費隨之增加，為免影響身心障礙者農民健康保險及農民職業災害保險之權益，謹請同意先行墊付。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/08\/10",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/08\/17",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/08\/24",
+    "SendNumber": "南議環衛字第 1120007875號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=aaba04f6-f6ea-40a0-a56e-7512e1694501",
+            "FileName": "4-3 臨-環保衛生1號案-附件-社會局--農委會補助112年身心障礙者自付農民保費.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=da43909e-01a2-40f0-9097-9fd25da1fac7&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/08\/01",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/08\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

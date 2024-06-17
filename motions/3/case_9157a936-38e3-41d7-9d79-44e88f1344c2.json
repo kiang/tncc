@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "130",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "尤榮智、蔡育輝、蔡淑惠、李文俊、謝龍介、曾培雅",
+    "CaseCause": "建請市府針對南區鹽館街與新和東路交叉口道路隆起進行改善，以維護民眾生命財產安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、經查該道路往來車輛頻繁，道路隆起使民眾行車有危險之虞。\"},{\"tag\":\"p\",\"content\":\"二、建請市府針對該路段路面進行改善工程，以保障公眾通行往來安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2021\/08\/11",
+    "CheckDesc": "函送市府研議。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/08\/25",
+    "SendNumber": "南議工務字第 1100006566號",
+    "DoDesc": "本案經市府110年9月8日府工企劃字第1101062661號函復：\r\n有關上述路段，因管線造成隆起一案，惠請相關單位立即改善一節，案經會同相關單位及人員勘查結果，已於110年8月4日修復完成按道路全寬度刨除。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d409e0c5-15f1-48cf-9023-e8a7378a618e",
+            "FileName": "3-5定(議提130)書面答覆-附圖.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9157a936-38e3-41d7-9d79-44e88f1344c2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年9月8日府工企劃字第1101062661號函復：\r\n有關上述路段，因管線造成隆起一案，惠請相關單位立即改善一節，案經會同相關單位及人員勘查結果，已於110年8月4日修復完成按道路全寬度刨除。",
+    "ErrorMessage": ""
+}

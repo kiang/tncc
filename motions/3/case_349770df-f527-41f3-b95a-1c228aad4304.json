@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "9",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/05\/10",
+    "ComeNumber": "府工新二字第1110618972號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部水利署第六河川局補助辦理「左鎮區南171民生橋改建工程」，經費新台幣10萬元(全額中央補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據經濟部水利署110年7月30日經水河字第11016090560號函、經濟部111年3月9日經授水字第11120203180號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"「左鎮區南171民生橋改建工程」原核定經費1億260萬1,000元(中央補助6,365萬1,000萬元、地方配合款3,895萬元)，已編列111年度預算，採分年編列，111年度編列3,800萬元、112年度編列6,260萬1,000元。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"現中央同意核列總經費為1億2,995萬元（中央補助款修正為9,100萬元、地方配合款為3,895萬元無須修正）共增加2,734萬9,000元(全部中央補助款)，因未及納入111年度總預算，為爭取時效，謹請貴會同意先行墊付10萬元。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"本案經費增加2,734萬9,000元，採一次發包，分年編列方式辦理，分2年編列：\",\"children\":[{\"order\":\"(一)\",\"content\":\"111年預算編列工程費10萬元(全額中央補助)。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"113年預算編列工程費2,724萬9,000元(全額中央補助)。\",\"children\":[]}]},{\"order\":\"六、\",\"content\":\"本案業經本府111年5月9日第541次市政會議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/06\/30",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/07\/12",
+    "SendNumber": "南議工務字第 1110007548號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ea11f674-a504-4b89-83b9-f13a1ef99b91",
+            "FileName": "工務9號附件-中央核定函及補充說明.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=349770df-f527-41f3-b95a-1c228aad4304&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/05\/31",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/06\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

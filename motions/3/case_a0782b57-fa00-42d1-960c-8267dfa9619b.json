@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "會務",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "郭議長信良",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南市議會各種委員會設置辦法」第二條修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"鑑於歷年來本會議員參加各種委員會塡表意願高低懸殊頗鉅，屢以抽籤方式分配各委員會委員之人數，實有失公允。爰依據本會第3屆第4次定期會第37次會(109年12月1日)大會決議檢討調整本會各種委員會之局處配置。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"承上，各種委員會之局處配置涉及議員問政權益，為期本會議員能均衡監督市政，爰擬具「臺南市議會各種委員會設置辦法」第二條修正草案，調整各局處之配置，其內容係經本會109年度政黨黨團協商第5次會議(12月30日)討論所獲致之結論。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市議會各種委員會設置辦法」第二條修正草案總說明、修正草案條文對照表、修正草案條文。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"經大會審議通過後發布施行。\"}]",
+    "CheckDate": "2021\/08\/16",
+    "CheckDesc": "本案擱置，請秘書長與議事組針對這部分進行討論，下次會再提出。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "請秘書長與議事組針對這部分進行討論，下次會再提出。",
+    "SendDate": "2021\/08\/25",
+    "SendNumber": "南議法規字第 1100006923號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=623afb03-3f22-4ffa-8a3e-8c9e9e70f76f",
+            "FileName": "3-5定會務1-臺南市議會各委員會設置辦法第二條修正草案(含總說明、條文對照表及草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a0782b57-fa00-42d1-960c-8267dfa9619b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "請秘書長與議事組針對這部分進行討論，下次會再提出。",
+    "FirstDate": "2021\/08\/03",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

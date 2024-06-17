@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/09\/01",
+    "ComeNumber": "府體設字第1120872669號",
+    "OrgTitle": "臺南市政府體育局",
+    "OrgTitle2": "",
+    "CaseCause": "教育部體育署（下稱體育署）核定本市仁德區文賢國中辦理「112─114年度補助直轄市及縣市政府整建學校草地運動場計畫（113年度修整建8人制人工草皮）」新臺幣（下同）1,100萬元整（中央補助款770萬元、市配合款330萬元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據體育署112年6月29日臺教體署學（三）字第1120025337B號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案核定計畫總經費計1,100萬元整（中央補助款770萬元、市配合款330萬元），因未及納入本府112年度總預算，為利本案執行及配合中央列管時程，謹請貴會同意先行墊付，俟113年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年8月1日第605次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：依據體育署核定作業規定，本案於核定日起列管填報勞務及工程採購進度，須於113年3月31日前完成工程招標及簽約作業。因本府未編列預算，為使補助計畫順利完成勞務及工程發包，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，於113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/10\/19",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/10\/27",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=112f51a9-d0a2-4b5c-9283-25a59d1e5a4d",
+            "FileName": "定4-2-市提2-體育局墊付提案-112年度修整建8人制人工草皮計畫案附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e753a68f-ba85-47e7-a713-30864482a06c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/09\/15",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/09\/22",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

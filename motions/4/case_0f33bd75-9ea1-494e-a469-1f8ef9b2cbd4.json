@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/03\/06",
+    "ComeNumber": "府環事字第1120295029號",
+    "OrgTitle": "臺南市政府環境保護局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院環境保護署核定補助本市辦理「112年度臺南市推動固體再生燃料（SRF）、無機再生粒料等物料資源循環計畫」新臺幣800萬元(中央補助600萬(75%)，地方配合款200萬元(25%)墊付事宜，為爭取時效，敬請同意先行辦理墊付，俟113年度總預算時再予轉正，提請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院環境保護署（以下稱環保署）112年2月14日環署循字第1121014100E號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案環保署核定補助總經費為新臺幣800萬元(中央補助600萬元(75%)，地方配合款200萬元(25%))，未及納入本府112年度總預算，本案符合上開執行要點規定，擬先行辦理墊付，俟113年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年3月1日第583次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本案已於112年2月14日經環保署核定，要求應於3個月內完成發包作業，並於112年11月30日前執行完畢，因時程緊迫且中央估列補助計畫日期較晚，未及納入本府112年度總預算，建請貴會同意先行辦理墊付程序，俾利後續作業流程順暢。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/03\/23",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/03\/30",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/04\/07",
+    "SendNumber": "南議環衛字第 1120001923號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9f2a07ee-a249-4189-9966-475960518729",
+            "FileName": "4-2臨-環保衛生2號案-附件-環保局-112年台南市推動固體再生燃料、無機再生粒料資源循環計畫.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0f33bd75-9ea1-494e-a469-1f8ef9b2cbd4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/03\/13",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/03\/21",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

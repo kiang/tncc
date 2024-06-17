@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "11",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2021\/05\/06",
+    "ComeNumber": "府文秘字第1100535989  號",
+    "OrgTitle": "臺南市政府文化局所屬臺南市立圖書館",
+    "OrgTitle2": "",
+    "CaseCause": "檢送財團法人臺南市孔廟文化基金會109年度決算書，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、附財團法人臺南市孔廟文化基金會決算書。\"},{\"tag\":\"p\",\"content\":\"二、本案業經財團法人臺南市孔廟文化基金會110年度第3屆第2次董監事聯席會議通過。\"},{\"tag\":\"p\",\"content\":\"三、本案業經本府110年4月13日第486次市政會議通過，送請貴會審議。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"審議通過後依規定辦理。\"}]",
+    "CheckDate": "2021\/08\/09",
+    "CheckDesc": "聯席審查意見：照案通過。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2021\/08\/25",
+    "SendNumber": "南議教育字第 1100006435號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=138a0965-a735-40e8-a44b-1a0fda28dceb",
+            "FileName": "3-5定-市提11-孔廟決算書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d3938c21-7125-4902-bc0e-cd193904f13f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

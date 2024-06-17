@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "59",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "曾之婕、周奕齊、林冠維",
+    "OrgTitle2": "周麗津、鄭佳欣、李中岑、趙昆原、陳怡珍、吳禹寰、陳秋萍、杜素吟、Ingay Tali 穎艾達利",
+    "CaseCause": "建請於本市公園綠地設置具有捕蚊滅蚊功效的路燈，以利遏阻登革熱疫情蔓延。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"革熱疫情持續增溫，並已出現死亡個案，市府年年都上緊發條防治，仍難以有效遏阻疫情發生。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"防治登革熱首重環境清潔和預防蚊子叮咬，但人力有限，環境清消亦無法面面俱到，有時尚會遭致民怨。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"於公園綠地處所設置戶外太陽能路燈，兼具美觀及捕蚊滅蚊的功效，也有節電功能。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"請儘速會勘規劃辦理。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如說明。\"}]",
+    "CheckDate": "2023\/10\/23",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/10\/27",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/11\/03",
+    "SendNumber": "南議工務字第 1120010101號",
+    "DoDesc": "本府就「建請於本市公園綠地設置具有捕蚊滅蚊功效的路燈，以利遏阻登革熱疫情蔓延」案，敬答覆如下：\r\n公園內景觀燈是以符合生態之光源設計，盡可能避免影響到其他生態，惟設置捕蚊滅蚊功能的光源，恐不只蚊子連同其他的昆蟲也都會受影響，目前暫不予汰換具有捕蚊滅蚊功效之光源。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=da2a99a3-de35-4763-bf58-5a0d1499af10",
+            "FileName": "4-2定工務議提59附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d01c2020-e0b0-421f-92f1-466ff6737824&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/11\/13",
+    "ExecuteReNumber": "府工園一字第 1121453669號",
+    "ExecuteReMemo": "本府就「建請於本市公園綠地設置具有捕蚊滅蚊功效的路燈，以利遏阻登革熱疫情蔓延」案，敬答覆如下：\r\n公園內景觀燈是以符合生態之光源設計，盡可能避免影響到其他生態，惟設置捕蚊滅蚊功能的光源，恐不只蚊子連同其他的昆蟲也都會受影響，目前暫不予汰換具有捕蚊滅蚊功效之光源。",
+    "ErrorMessage": ""
+}

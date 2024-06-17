@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2021\/09\/13",
+    "ComeNumber": "府經資字第1101098405號",
+    "OrgTitle": "臺南市政府經濟發展局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理本府經管坐落本市歸仁區武東段276地號1筆非公用市有土地設定地上權，擬依土地法第25條規定完成處分程序，提請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、法令依據:臺南市市有財產管理自治條例第45條第2項。\"},{\"tag\":\"p\",\"content\":\"二、市有土地設定地上權標的:坐落本市歸仁區武東段276地號1筆市有土地，面積52,000㎡，110年公告地價為1億6,640萬元。\"},{\"tag\":\"p\",\"content\":\"三、設定存續期間:以70年為原則。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年9月13日第508次市政會議審核通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理地上權設定事宜。\"}]",
+    "CheckDate": "2021\/11\/26",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/12\/07",
+    "SendNumber": "南議建設字第 1100012409號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a7613f24-1d6c-4c9e-8436-2b8a29d766dc",
+            "FileName": "附件 .pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1dd2bf33-e7ed-43ba-8102-b4af3852e036&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

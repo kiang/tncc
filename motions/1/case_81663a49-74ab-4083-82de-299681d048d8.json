@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第8次 定期會",
+    "PTypTitle": "民政",
+    "CaseNumber": "2",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "杜素吟",
+    "OrgTitle2": "蔡玉枝、蔡秋蘭、洪玉鳳",
+    "CaseCause": "建請民政局協助仁德區公所向交通部公路總局第五區養護工程處新化工務段，申請撥用仁德區中軍段1106地號做為活動中心使用。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、本區上崙里原活動中心，佔用廟宇用地，因該廟要重建，以致於活動中心拆除，原址長壽俱樂部頓失定所，面臨里民無活動中心可使用。\"},{\"tag\":\"p\",\"content\":\"二、建請市府因應實需，協助仁德區公所申請於86快速道路橋下設置老人活動中心，並編列預算，以造福社區老人使用，讓長輩們有活動娛樂空間。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "函送市府研議辦理",
+    "DoneDate": "2014\/10\/22",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2014\/10\/27",
+    "SendNumber": "南議民政字第 1030007139號",
+    "DoDesc": "依據臺南市政府103年11月11日府民自字第1031025875號函復：查該里原有兩處里活動中心：\r\n一、上崙里活動中心於民國84年11月1日取得使用執照，拆除作業已於103年10月14日執行完成。，\r\n二、蔦松腳活動中心於民國84年12月18日竣工。案內提報興建用地位址與蔦松腳活動中心距離約700公尺。\r\n三、經現場會勘該活動中心三樓空間目前尚無使用，請區公所先行輔導該俱樂部前往使用，以活化該活動中心之使用率。\r\n四、有關本案本局持續輔導區公所處理旨揭用地相關作業事宜並作空間妥善規劃。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=30f6fd42-602c-42ce-a554-f018c618aefc",
+            "FileName": "市府答覆議員提案2號案.docx",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=81663a49-74ab-4083-82de-299681d048d8&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2014\/08\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "依據臺南市政府103年11月11日府民自字第1031025875號函復：查該里原有兩處里活動中心：\r\n一、上崙里活動中心於民國84年11月1日取得使用執照，拆除作業已於103年10月14日執行完成。，\r\n二、蔦松腳活動中心於民國84年12月18日竣工。案內提報興建用地位址與蔦松腳活動中心距離約700公尺。\r\n三、經現場會勘該活動中心三樓空間目前尚無使用，請區公所先行輔導該俱樂部前往使用，以活化該活動中心之使用率。\r\n四、有關本案本局持續輔導區公所處理旨揭用地相關作業事宜並作空間妥善規劃。\r\n",
+    "ErrorMessage": ""
+}

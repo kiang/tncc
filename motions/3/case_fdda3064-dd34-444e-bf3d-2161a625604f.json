@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "39",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "周麗津、黃麗招、沈震東、Ingay Tali穎艾達利",
+    "CaseCause": "為提昇LM社區停車環境品質兼顧綠能發展，建請交通局評估LM區，陽光電能停車場，進行管理與太陽能發電遮陽設施。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、因應LM社區住戶日益增加，停車需求恐急，應儘速檢討陽光電城停車場進行優化，加強環境管理與綠能兼顧的遮陽設施。\"},{\"tag\":\"p\",\"content\":\"二、建請交通局儘速辦理相關作業。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2021\/11\/23",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/12\/09",
+    "SendNumber": "南議保安字第 1100012449號",
+    "DoDesc": "本案經臺南市政府111年1月7日府交停營字第1110073432號函復如下：\r\n一、 為排除區內陽光電城等停車場遭長期停車占用情形，本府交通局已實施南科車站東、西側停車場、陽光電城停車場、目加溜灣橋下停車場及路邊停車格位停車收費，並將持續滾動式檢討收費後之停車情形。\r\n二、 另為因應LM區域開發及大量人口移入，本府交通局刻正評估規劃優化平面停車場格位或建置立體化停車場，以增進LM區域停車空間，俟完成後另於停車場上方建置太陽光電發電系統，增進綠能發展。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=028c041d-9931-46dc-9ecb-5297f9db61b6",
+            "FileName": "議提39-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fdda3064-dd34-444e-bf3d-2161a625604f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經臺南市政府111年1月7日府交停營字第1110073432號函復如下：\r\n一、 為排除區內陽光電城等停車場遭長期停車占用情形，本府交通局已實施南科車站東、西側停車場、陽光電城停車場、目加溜灣橋下停車場及路邊停車格位停車收費，並將持續滾動式檢討收費後之停車情形。\r\n二、 另為因應LM區域開發及大量人口移入，本府交通局刻正評估規劃優化平面停車場格位或建置立體化停車場，以增進LM區域停車空間，俟完成後另於停車場上方建置太陽光電發電系統，增進綠能發展。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第4次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2019\/12\/31",
+    "ComeNumber": "府工建工字第1081467467",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "國防部陸軍司令部補助辦理「南169線改道工程」案，總經費為3億7,042萬8,000元(全中央補助款)，109年度所需經費9,002萬7,000元(全中央補助款)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟110年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據國防部陸軍司令部108年12月13日國陸戰訓字第1080004112號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本墊付案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」規定。\"},{\"tag\":\"p\",\"content\":\"三、本案為國防部全額補助，原於106~108年度已核定補助工程費為2億5,807萬3,000元，用地費為2,232萬8,000,元，總經費為2億8,040萬1,000元。\"},{\"tag\":\"p\",\"content\":\"四、為配合現況調整工程費為3億1,947萬元，用地及補償費為5,095萬8,000,元，總經費為3億7,042萬8,000元。\"},{\"tag\":\"p\",\"content\":\"五、本次增列補助109年度所需經費9,002萬7,000元。\"},{\"tag\":\"p\",\"content\":\"六、綜上說明，109年度所需經費9,002萬7,000元(全中央補助款)，因未及納入本府109年度總預算，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"七、本案業經108年12月31日第420次市政會議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟110年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2020\/01\/14",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2020\/01\/17",
+    "DoneDesc": "",
+    "SendDate": "2020\/02\/04",
+    "SendNumber": "南議工務字第 1090000507號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f0d7dd0c-9860-49ff-ac6a-997761b571b5",
+            "FileName": "市提1附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3db3ffcd-72b4-4a66-b0e9-a1bc3ad88d82&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "2020\/01\/08",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

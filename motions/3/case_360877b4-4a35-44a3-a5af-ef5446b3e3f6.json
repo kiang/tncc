@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "民政",
+    "CaseNumber": "33",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "周麗津、李中岑、周奕齊、劉米山",
+    "CaseCause": "請打通南山公墓內之新竹路舖設臨時道路，方便民眾使用。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、附民眾陳情書6份供參。\"},{\"tag\":\"p\",\"content\":\"二、本案以不毀墓原則辦理，若有涉及遷移私人墓園時由陳情人自行協調，經墓主後人切結同意方得執行。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由並請擇期會勘。\"}]",
+    "CheckDate": "2021\/11\/24",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/12\/07",
+    "SendNumber": "南議民政字第 1100011109號",
+    "DoDesc": "發文日期：中華民國110年12月9日\r\n發文字號：府民生字第1101495798號\r\n本府就「請打通南山公墓內之新竹路舖設臨時道路，方便民眾使用」案，敬復如下： \r\n有關民眾反映南區新都段325地號新竹路因多年未使用，致掃墓路徑壅塞，且新竹路墓道因較窄，車輛通行多有不便，缺乏停車空間致掃墓期間多有不便等情，本局刻正研議相關可行性方案，以便利新竹路車流動線及民眾掃墓使用。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3f65d842-f885-48f7-8387-2b6eac9ee08b",
+            "FileName": "陳情書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=360877b4-4a35-44a3-a5af-ef5446b3e3f6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "發文日期：中華民國110年12月9日\r\n發文字號：府民生字第1101495798號\r\n本府就「請打通南山公墓內之新竹路舖設臨時道路，方便民眾使用」案，敬復如下： \r\n有關民眾反映南區新都段325地號新竹路因多年未使用，致掃墓路徑壅塞，且新竹路墓道因較窄，車輛通行多有不便，缺乏停車空間致掃墓期間多有不便等情，本局刻正研議相關可行性方案，以便利新竹路車流動線及民眾掃墓使用。",
+    "ErrorMessage": ""
+}

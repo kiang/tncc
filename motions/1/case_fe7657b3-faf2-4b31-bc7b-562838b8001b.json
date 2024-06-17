@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "62",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林慶鎮",
+    "OrgTitle2": "陳文科、張世賢、施重男",
+    "CaseCause": "新市區大社里、東大社重劃區1366等地號前排水溝，請市府改善，以利排水。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"該段排水溝至今未予施設，影響排水甚鉅，請速改善以利排水。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請市政府儘速辦理。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2012\/12\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/12\/18",
+    "SendNumber": "南議工務字第 1010011406號",
+    "DoDesc": "本案經市府101.12.22南市地農字1011075332號函復：\r\n茲訂101.12.28（五）上午9時30分假新市區公所建設課集齊後赴實地勘查。\r\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\r\n本案經市府102.1.21府地農字1020026906號函復：\r\n一、副本抄送新市區公所，請依101.12.28實地會勘記錄結論辦理。\r\n二、檢附會勘記錄、現場照片、位置圖",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ed2347f4-63f8-4a9e-af8b-981e0bf6dd61",
+            "FileName": "會勘紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fe7657b3-faf2-4b31-bc7b-562838b8001b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府101.12.22南市地農字1011075332號函復：\r\n茲訂101.12.28（五）上午9時30分假新市區公所建設課集齊後赴實地勘查。\r\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\r\n本案經市府102.1.21府地農字1020026906號函復：\r\n一、副本抄送新市區公所，請依101.12.28實地會勘記錄結論辦理。\r\n二、檢附會勘記錄、現場照片、位置圖",
+    "ErrorMessage": ""
+}

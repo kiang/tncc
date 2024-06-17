@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "144",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "周嘉韋、沈家鳳",
+    "OrgTitle2": "林志展、林依婷、李宗翰、蔡筱薇、王宣貿、黃麗招、施余興望 Tjakumay Tagaw、邱昭勝、黄肇輝、陳秋宏、蔡蘇秋金、陳怡珍",
+    "CaseCause": "建請每位議員配置工作用筆記型電腦一台，以利推動無紙化辦公。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"鑒於環保之推動，無紙化辦公為時代之趨勢，各議案及行政單位提供之資料，應减少纸本印刷，以利節省成本支出及避免資源浪費。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"市議會議事廳並無配置電腦設備於各議員席間，為提升議員問政品質，並有利相關單位交換資料，且開議期間文書處理需求繁重，故配置移動性較為便利之筆記型電腦予議員，較符合公務之需求。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"又民治議事廳並無議員個別休息室，文書處理更為不便，筆記型電腦之機動性較符合議員工作性質，使議員於移地過程中，更方便處理問題，以利問政及服務。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/06\/26",
+    "CheckDesc": "請議會研辦。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/10",
+    "SendNumber": "南議民教字第 1120005830號",
+    "DoDesc": "一、依112年地方民意代表費用支給及村里長事務補助費補助條例解釋彙編第八條壹拾肆【不得另行編列之費用】(六)電腦壹拾肆.15及壹拾.16規定，不宜編列預算支付(如附件二)。\r\n二、本會為配合無紙化辦公及減少開會會議紙張之用量節能環保，積極推動議事作業資訊化一公文及議案附件多採用議事資料雲端平台，達成資源共享及節能減碳減紙政策。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4d465868-7800-4348-bf1c-111525b6317f",
+            "FileName": "附件二-112年地方民意代表費用支給及村里長事務補助費補助條例解釋彙編.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6136c871-6727-4f3b-9b94-dd2e4714d2d7&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/07\/10",
+    "ExecuteReNumber": "南議資文字第 1120006151號",
+    "ExecuteReMemo": "一、依112年地方民意代表費用支給及村里長事務補助費補助條例解釋彙編第八條壹拾肆【不得另行編列之費用】(六)電腦壹拾肆.15及壹拾.16規定，不宜編列預算支付(如附件二)。\r\n二、本會為配合無紙化辦公及減少開會會議紙張之用量節能環保，積極推動議事作業資訊化一公文及議案附件多採用議事資料雲端平台，達成資源共享及節能減碳減紙政策。",
+    "ErrorMessage": ""
+}

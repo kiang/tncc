@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第3次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/07\/21",
+    "ComeNumber": "府交公運字第1120943395號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部公路總局核定本市「公共運輸通勤月票計畫」經費新臺幣(以下同)8億1,900萬元(中央補助7億50萬元，市配合款1億1,850萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據交通部公路總局112年6月1日路運計字第1120067652C號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款之規定：「經上級政府核定之補助款，所使用之支出。」及第6款之規定：「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"本案交通部公路總局同意補助7億50萬元，市配合款1億1,850萬元，總經費8億1,900萬元。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"因本案未及納入112年度總預算，為爭取時效，謹請貴會同意先行墊付，俟113年度總預算辦理轉正。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府112年6月27日第600次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：依交通部公路總局112年4月12日路運計字第1120043244號函之會議結論(一)提及「三大生活圈通勤月票方案原則於112年7月1日上線實施。」，本案公共運輸通勤月票需依中央訂定時程上線，並於112年完成付款，有時效上之急迫性，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/08\/11",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/08\/17",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/08\/25",
+    "SendNumber": "南議保安字第 1120007926號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f2f64d45-e1c1-47ae-bf50-c160d5166d41",
+            "FileName": "通勤月票計畫說明.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=eeb91762-f3c8-428e-9994-3f2e06cbbb4d",
+            "FileName": "核定函.PDF",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d43c228a-9a51-49a6-af02-596a59dff85d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/08\/01",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/08\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

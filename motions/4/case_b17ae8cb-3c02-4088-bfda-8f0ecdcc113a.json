@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "10",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/05\/23",
+    "ComeNumber": "府原綜字第1120681576號",
+    "OrgTitle": "臺南市政府原住民族事務委員會",
+    "OrgTitle2": "",
+    "CaseCause": "原住民族委員會原住民族文化發展中心核定本府辦理「112年度原住民族文化館改善計畫」經費新臺幣(以下同)11萬1,000元整(中央補助款8萬8,000元、市配合款2萬3,000元)未及納入本(112)年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據原住民族委員會原住民族文化發展中心112年2月21日原民發文字第1120000998號函暨112年4月27日原民發文字第1120002439號函。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款「經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」規定及第45點第2、3款等規定辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案執行經費11萬1,000元整(中央補助款資本門6萬元、經常門2萬8,000元；市配合款經常門2萬3,000元)未及納入112年度總預算，謹請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年5月23日第595次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案經費依計畫規定，執行期程自核定日起至112年7月20日，須於執行期程內檢具相關成果辦理核結，故於本會期提出墊付案申請，以利向中央核結。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/06\/28",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/07\/05",
+    "SendNumber": "南議民教字第 1120005546號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cd675bc9-95c4-4f67-8b16-368c22ff1a7f",
+            "FileName": "民教10(原民會)-附件(核定函及計畫書等資料).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b17ae8cb-3c02-4088-bfda-8f0ecdcc113a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/05\/29",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/06\/07",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

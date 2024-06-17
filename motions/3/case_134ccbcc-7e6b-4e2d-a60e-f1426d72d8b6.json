@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "2",
+    "KidTitle": "查照\/備查案-法規查照案",
+    "ComeDate": "2021\/09\/02",
+    "ComeNumber": "府教人(二)字第11001061615號",
+    "OrgTitle": "臺南市政府教育局",
+    "OrgTitle2": "",
+    "CaseCause": "廢止「臺南市立學甲托兒所編制表」。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"依據地方制度法第27條第3項規定辦理。\"}]",
+    "Method": "[]",
+    "CheckDate": "2021\/11\/24",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2021\/12\/06",
+    "SendNumber": "南議法規字第 1100012249號",
+    "DoDesc": "本案已於110年7月24日生效廢止。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=73f260c7-00b5-4952-9a7d-f77f0a731d87",
+            "FileName": "廢止「臺南市立學甲托兒所編制表」.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=134ccbcc-7e6b-4e2d-a60e-f1426d72d8b6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "交付教育委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案已於110年7月24日生效廢止。",
+    "ErrorMessage": ""
+}

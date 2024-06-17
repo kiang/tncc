@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "16",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2012\/03\/15",
+    "ComeNumber": "府民自字第1010169235號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "制定「臺南市珍貴樹木保護自治條例」（草案），敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本案經臺南市議會第1屆第2次定期大會審查結果保留，依議會意見研議並修正「臺南市珍貴樹木保護自治條例(草案)」後，再提送議會審查。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府101年3月1日第57次市政會議審議通過在案，送請貴會審議。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審議，俟完成法定程序後，依規定公布施行。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/06\/22",
+    "SendNumber": "南議法規字第 1010010740號",
+    "DoDesc": "依行政院101年8月21日院臺農字第1010141037號函示，臺南市珍貴樹木保護自治條例因部分條文尚待釐清，需較長時間審查，爰依地方制度法第32條第3項但書規定延長核定期限。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5e1d0539-3d78-4a5a-a957-4e9f5746f975",
+            "FileName": "臺南市珍貴樹木保護自治條例（草案條文）.doc",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=12081ade-1dc0-4621-9a29-1ae224c0fd90",
+            "FileName": "臺南市珍貴樹木保護自治條例(草案)逐條說明.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d766ad3d-1e61-4ec6-b4a4-ab0dc35ed8d3&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "依行政院101年8月21日院臺農字第1010141037號函示，臺南市珍貴樹木保護自治條例因部分條文尚待釐清，需較長時間審查，爰依地方制度法第32條第3項但書規定延長核定期限。",
+    "ErrorMessage": ""
+}

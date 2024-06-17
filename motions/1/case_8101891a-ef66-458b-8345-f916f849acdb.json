@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第5次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2013\/02\/25",
+    "ComeNumber": "府民自第1020088187號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理出售本府經營坐落本市下營區十六甲段2566地號等31筆非公用市有土地及中西區永福段179建號1筆非公用市有建物，擬依土地法第25條規定完成處分程序，敬請　審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、坐落本市下營區十六甲2566地號等31筆等市有土地，擬依「臺南市市\"},{\"tag\":\"p\",\"content\":\"有財產管理自治條例」第50條第1項第1款及第4款規定辦理標售。\"},{\"tag\":\"p\",\"content\":\"二、本市中西區永福路179建號1筆市有建物，擬依「臺南市市有財產管理\"},{\"tag\":\"p\",\"content\":\"自治條例」第50條第1項第1款規定辦理標售。\"},{\"tag\":\"p\",\"content\":\"三、本案業經本府101年9月5日第80次及101年10月18日第84次市政\"},{\"tag\":\"p\",\"content\":\"會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請　貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "仁德區中洲段380-2地號、東區路東段852地號及南區中和段55地號等三筆土地暫緩出售，其中南區中和段55地號需俟同地段被佔用之56、57地號土地收回後再一併出售，其餘照案通過。",
+    "DoneDate": "2013\/05\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2013\/05\/24",
+    "SendNumber": "南議財經字第 1020010339號",
+    "DoDesc": "本案目前已將議決通過之17筆土地及1筆建物送內政部核准完成處分程序中。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3e4185f9-8178-4e15-8347-fccd799b56e1",
+            "FileName": "第一屆第5次定期大會擬處分清冊(提案2).xls",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8101891a-ef66-458b-8345-f916f849acdb&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2013\/03\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案目前已將議決通過之17筆土地及1筆建物送內政部核准完成處分程序中。",
+    "ErrorMessage": ""
+}

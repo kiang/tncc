@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "24",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "尤榮智",
+    "OrgTitle2": "王家貞、洪玉鳳、李中岑、蔡淑惠",
+    "CaseCause": "請改善六甲區港仔頭護岸改善工程，年久失修、雜草叢生，每遇豪雨、颱風季節造成淹水，急需改善。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、六甲區港仔頭護岸改善工程長度：120公尺、高度4公尺。\"},{\"tag\":\"p\",\"content\":\"二、該排水為六甲主要排水要道，急需改善，杜絕淹水問題。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府水利局優先納入改善。\"}]",
+    "CheckDate": "2021\/01\/21",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2021\/01\/26",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/01\/28",
+    "SendNumber": "南議工務字第 1100000693號",
+    "DoDesc": "本案經市府110年2月26日府水工字第1100256709號函復：\r\n一、本案經勘查研討建議施作段係位於龜子港排水支流港子頭排水，現況結構為老舊礫石排水護岸，渠寬約15M，長度約120M，高度約4公尺，目前通洪尚無虞，地方表示希冀能予一併改善老舊排水護岸設施，以加大通洪斷面，避免淹水情事發生。\r\n二、考量為利整體防洪效益，本府將視年度預算編列情形、改善效益等\r\n評估研討辦理。 \r\n三、承蒙貴會對於六甲區治水工程之關切，本府至為感謝，尚請不吝賜教。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=34f722bf-83c5-4737-b443-95419eb0abbd",
+            "FileName": "議提24附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fc94b9a8-f0e1-4cf1-84c3-469b36aa063a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/01\/05",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年2月26日府水工字第1100256709號函復：\r\n一、本案經勘查研討建議施作段係位於龜子港排水支流港子頭排水，現況結構為老舊礫石排水護岸，渠寬約15M，長度約120M，高度約4公尺，目前通洪尚無虞，地方表示希冀能予一併改善老舊排水護岸設施，以加大通洪斷面，避免淹水情事發生。\r\n二、考量為利整體防洪效益，本府將視年度預算編列情形、改善效益等\r\n評估研討辦理。 \r\n三、承蒙貴會對於六甲區治水工程之關切，本府至為感謝，尚請不吝賜教。",
+    "ErrorMessage": ""
+}

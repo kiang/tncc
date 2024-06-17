@@ -1,0 +1,54 @@
+{
+    "GradeTime": "第3屆 第9次 臨時會",
+    "PTypTitle": "會務",
+    "CaseNumber": "2",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "郭議長信良",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南市議會因應嚴重特殊傳染性肺炎等疫情採遠距視訊會議作業準則」訂定草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為因應嚴重特殊傳染性肺炎疫情擴大，致定期會或臨時會開議期間依法接受居家檢疫（隔離）之議員無法親自出席會議（十人以內），為保障其參與會議之權利，兼採遠距視訊輔助在本會議事廳或審查室開會方式同時進行，前以本會109年7月22日南議法研字第1090006040號令訂定臺南市議會因應嚴重特殊傳染性肺炎開議期間兼採遠距視訊開會作業準則，並經行政院109年8月10日院臺綜字第1090026725號函備查。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為完善本會議事運作機制，並配合中央傳染病防疫政策及內政部109年4月13日台內民字第1090112389號函暨110年5月17日台內民字第11002223901號函之會議指引，擴及將會議因受傳染病防治措施影響致人員聚集受限無法開議（會），得改採視訊會議等情，鑒於規範內容大幅度翻修，爰廢止上開準則，並重新擬具本準則訂定草案。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市議會因應嚴重特殊傳染性肺炎等疫情採遠距視訊會議作業準則」草案總說明、逐條說明、草案條文。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"經大會審議通過後發布施行並報行政院備查。\"}]",
+    "CheckDate": "2021\/09\/07",
+    "CheckDesc": "本案第5條修正通過，其餘照案通過。（詳見審查結果對照表)",
+    "DoneDate": "2021\/09\/10",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/09\/17",
+    "SendNumber": "南議法規字第 1100008221號",
+    "DoDesc": "1.本會110.9.23以南議法研字第1100008463號修正發布公告，並於110.9.28以南議法研字第1100008541號函報行政院備查。\r\n2.行政院110.10.18院臺綜字第1100032629號函覆本會:業已備查。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=03b22801-56e4-4368-b225-d76fc73386f9",
+            "FileName": "臺南市議會因應疫情採遠距視訊會議作業準則草案(含總說明、逐條說明、草案全文).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=967fd4da-343e-4209-989b-532681464780",
+            "FileName": "3-9臨定會務2審查結果對照表A4.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3d6c8c1c-75c5-4f9f-9e23-59abf08345d9&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3c831543-4bc9-43c9-bf2d-52f1ea1a7664",
+            "FileName": "2-1.3-9臨定會務2審查結果對照表A4.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/01",
+    "FirstDesc": "交付法規委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "1.本會110.9.23以南議法研字第1100008463號修正發布公告，並於110.9.28以南議法研字第1100008541號函報行政院備查。\r\n2.行政院110.10.18院臺綜字第1100032629號函覆本會:業已備查。\r\n",
+    "ErrorMessage": ""
+}

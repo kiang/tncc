@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "18",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/05\/09",
+    "ComeNumber": "府原綜字第1130659024號",
+    "OrgTitle": "臺南市政府原住民族事務委員會",
+    "OrgTitle2": "",
+    "CaseCause": "原住民族委員會核定本府辦理「113年度原住民族語傳承人才培育計畫-墩苗、培鷹、登高三部曲」經費新臺幣(以下同)60萬元整(中央補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據原住民族委員會113年4月19日原民教字第1130018870號及113年5月6日原民教字第1130022796號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第45點第2款等規定辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案獲原住民族委員會核定補助60萬元整(中央補助款)，未及納入本(113)年度總預算。謹請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年5月7日第645次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案理由：本案經費係補助本府辦理原住民族語傳承人才培育計畫，相關培育課程執行，需配合原住民族語言能力認證辦理期程，故於本會期提出墊付案申請，以利向中央核結請領補助款。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=875c4eb4-08de-455b-9cc0-a9ce98a1a659",
+            "FileName": "民教18(原民會)-附件(核定函及計畫書).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ee44f4dd-a5e2-4da1-8a87-8ce127a824b5",
+            "FileName": "民教18(原民會)--附件修正資料(計畫書).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d3d5ba77-6bf7-4e79-80d9-83434f02c025&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "",
+    "FirstDate": "2024\/05\/29",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

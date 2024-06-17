@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "31",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "尤榮智",
+    "OrgTitle2": "王家貞、李中岑、蔡育輝、蔡淑惠、林燕祝、張世賢",
+    "CaseCause": "請辧理官田溪南119線旁支流排水改善工程，因年久未改善，致使堤岸沖刷嚴重，造成農田流失，急需辦理改善。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、官田溪南119線旁支流排水，因年久失修，造成農田沖刷流失，急需辦理改善。\"},{\"tag\":\"p\",\"content\":\"二、懸臂式倘土牆：L=480公尺、H=4.8公尺。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府水利局優先納入改善。\"}]",
+    "CheckDate": "2021\/10\/22",
+    "CheckDesc": "函送市府研議。",
+    "DoneDate": "2021\/10\/27",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/11\/02",
+    "SendNumber": "南議工務字第 1100010162號",
+    "DoDesc": "本案經市府110年12月1日府水工字第1101452548號函復：(附圖-詳夾檔)\r\n一、本案為中央管河川官田溪之支流排水路，現況為自然邊坡且植生良好，土堤結構尚穩定，目前渠寬約8M，主要保護標的為農田。\r\n二、針對地方希冀整建官田溪旁支流排水由土堤新建RC 護岸，經110年10月25日邀集臺南市官田區公所及里長辨理會勘，所需經費約2,688萬元，預計改善480M，考量治理經費甚鉅，本府將提報中央相關治水計畫研議辦理。\r\n三、承蒙貴會議席對於官田區治水工程之關切，本府至為感謝，尚請不吝賜教。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=66d6c71f-7139-4c43-bb8a-9ec2e949983c",
+            "FileName": "3-6定(議提31)書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4f55d12e-a79a-4abc-8efe-e77394f6eb71&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年12月1日府水工字第1101452548號函復：(附圖-詳夾檔)\r\n一、本案為中央管河川官田溪之支流排水路，現況為自然邊坡且植生良好，土堤結構尚穩定，目前渠寬約8M，主要保護標的為農田。\r\n二、針對地方希冀整建官田溪旁支流排水由土堤新建RC 護岸，經110年10月25日邀集臺南市官田區公所及里長辨理會勘，所需經費約2,688萬元，預計改善480M，考量治理經費甚鉅，本府將提報中央相關治水計畫研議辦理。\r\n三、承蒙貴會議席對於官田區治水工程之關切，本府至為感謝，尚請不吝賜教。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第8次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2018\/08\/23",
+    "ComeNumber": "府衛食藥字第1070898391號",
+    "OrgTitle": "臺南市政府衛生局",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南市加水站衛生管理自治條例」修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為了提升加水站安全衛生自主管理，並提供消費者更多的業者自主管理資訊，擬具修正自治條例，強化加水站業者管理（第四、七條）；提升衛生管理人員衛生管理認知（第六條）；強化維護消費者知的權益（第十條）；強化業者盛裝飲用水產品衛生自主管理（第十二條）；增訂盛裝飲用水產品宣傳管理（第十一條）及酌修罰則。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府107年08月08日第348次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市加水站衛生管理自治條例修正草案」（含總說明及逐條說明）乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、第十二條第一項文字最後，增列下列文字：\r\n    但水源來源非自來水者，業者每年應自行送驗至少兩次。\r\n二、修正通過。\r\n",
+    "DoneDate": "2018\/11\/27",
+    "DoneDesc": "一、第十二條第一項修正為：盛裝飲用水應為無色、無味、無臭之液體。加水站業者每年應自行送驗其販售之盛裝飲用水至少一次。但水源來源非自來水者，主管單位每年應抽驗至少兩次，費用由業者負擔。」\r\n二、修正通過。\r\n備註：係經第2屆第12次臨時會第1次會（107年11月27日）決議通過。",
+    "SendDate": "2018\/12\/11",
+    "SendNumber": "南議法規字第 1070008223號",
+    "DoDesc": "一、本府衛生局於107年12月21日以府衛食藥字第1071392945號函請行政院核定。\r\n二、行政院於108年1月10日以院臺食安字第1080000535號函，表延長核定期限。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=605287f1-4e49-4ba5-b2c9-c999b567b880",
+            "FileName": "2-8定市提5-臺南市加水站衛生管理自治條例修正草案(總說明、逐條說明、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7c2b2ef2-f728-4959-8bb4-a7fed62d51e0&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "一、第十二條第一項修正為：盛裝飲用水應為無色、無味、無臭之液體。加水站業者每年應自行送驗其販售之盛裝飲用水至少一次。但水源來源非自來水者，主管單位每年應抽驗至少兩次，費用由業者負擔。」\r\n二、修正通過。\r\n備註：係經第2屆第12次臨時會第1次會（107年11月27日）決議通過。",
+    "FirstDate": "2018\/07\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "一、本府衛生局於107年12月21日以府衛食藥字第1071392945號函請行政院核定。\r\n二、行政院於108年1月10日以院臺食安字第1080000535號函，表延長核定期限。\r\n",
+    "ErrorMessage": ""
+}

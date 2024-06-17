@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "19",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2012\/03\/14",
+    "ComeNumber": "府民自字第1010169235號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "擬制定「臺南市公園綠地管理自治條例」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為因應臺南縣、市於99年12月25日合併升格直轄市及配合機關整併，重新訂定「臺南市公園綠地管理自治條例」，俾供業務單位管理維護之依據，並廢止99年12月25日公告繼續適用之「臺南縣公園綠地管理自治條例」、「臺南市公園管理自治條例」。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本自治條例業經本府101年02月22日第56次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[]",
+    "CheckDate": "",
+    "CheckDesc": "一、照案通過。\r\n二、附帶意見：第十條第一項建請主管機關於訂定場地使用費收費標準時，其金額訂定為新台幣3,000元整。",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/06\/22",
+    "SendNumber": "南議法規字第 1010010740號",
+    "DoDesc": "本案已於101年7月11日以府工公園一字第1010569389號函提送行政院核定。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a99a1bea-b42a-4843-9358-7836cc4c3a42",
+            "FileName": "臺南市公園綠地管理自治條例草案(總說明、逐條說明).doc",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1be3a548-414d-457e-ac16-bc5cc506c62f",
+            "FileName": "臺南市公園綠地管理自治條例（草案條文）.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=911a2595-e10d-4491-a79c-eac674bb9d0e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案已於101年7月11日以府工公園一字第1010569389號函提送行政院核定。",
+    "ErrorMessage": ""
+}

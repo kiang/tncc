@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "臨時動議",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-其他",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "盧崑福、林美燕、蔡淑惠",
+    "OrgTitle2": "王家貞、李鎮國、周麗津、洪玉鳳、李文俊、李中岑、林燕祝、陳怡珍、Ingay Tali穎艾達利、吳禹寰、周奕齊、蔡育輝",
+    "CaseCause": "本市安平區怡平里活動中心設置地點。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"民眾陳情希望怡平里活動中心設立在永華六街與怡平路轉角（怡平停九停車用地位置），建議變更地目為多目標使用。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2020\/08\/07",
+    "DoneDesc": "送交市府研究辦理。",
+    "SendDate": "2020\/08\/13",
+    "SendNumber": "南議議事字第 1090005654號",
+    "DoDesc": "臺南市政府109年7月24日府民自字第1090853625號函復。\r\n本府就「本市安平區怡平里活動中心設置地點。」案，敬答覆如下：\r\n一、怡平里轄內多為住宅區，僅部分為公有土地(公園及停車場用地)，原評估選定怡平公園作為興建基地，運用怡平公園少數部分土地興建活動中心(都市計畫公共設施用地多目標使用辦法)。\r\n二、有關所提安平區怡平里活動中心新建於永華六街與怡平路轉角停車場用地(停9)，應依「都市計畫公共設施用地多目標使用辦法」利用停車場用地立體多目標使用，興建於停車場用地或變更停車場用地興建活動中心均需由主管機關交通局進行評估\r\n三、有關怡平里活動中心興建用地選址，需由地方達成共識後，才可接續辦理後續活動中心興建事宜。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0c657a78-0df6-43fb-9bc7-77f4d221c01b",
+            "FileName": "本市安平區怡平里活動中心設置地點市府回文附件.odt",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fc87c529-fb4d-4daf-8e09-94cdb1f32a84&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "送交市府研究辦理。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "臺南市政府109年7月24日府民自字第1090853625號函復。\r\n本府就「本市安平區怡平里活動中心設置地點。」案，敬答覆如下：\r\n一、怡平里轄內多為住宅區，僅部分為公有土地(公園及停車場用地)，原評估選定怡平公園作為興建基地，運用怡平公園少數部分土地興建活動中心(都市計畫公共設施用地多目標使用辦法)。\r\n二、有關所提安平區怡平里活動中心新建於永華六街與怡平路轉角停車場用地(停9)，應依「都市計畫公共設施用地多目標使用辦法」利用停車場用地立體多目標使用，興建於停車場用地或變更停車場用地興建活動中心均需由主管機關交通局進行評估\r\n三、有關怡平里活動中心興建用地選址，需由地方達成共識後，才可接續辦理後續活動中心興建事宜。\r\n",
+    "ErrorMessage": ""
+}

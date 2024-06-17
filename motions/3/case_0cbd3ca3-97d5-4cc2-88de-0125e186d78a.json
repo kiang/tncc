@@ -1,0 +1,59 @@
+{
+    "GradeTime": "第3屆 第12次 臨時會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "1",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市政府民政局",
+    "OrgTitle2": "",
+    "CaseCause": "「活動中心運作收費及支用情形」專案報告",
+    "Content": "[{\"tag\":\"p\",\"content\":\"\"}]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"請民政局及社會局將「一里一活動中心」目標辦理期程計畫送會。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"提供現行活動中心借用其他集會所如學校、廟宇等建物設置之明細資料送會。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"今日專案報告議員建議之事項，請民政局及社會局善加研議，做為日後改進的依據。\",\"children\":[]}]}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2022\/03\/25",
+    "DoneDesc": "照會議結論通過。",
+    "SendDate": "2022\/03\/31",
+    "SendNumber": "南議民教字第 1110002748號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3999787a-d836-490f-8b2c-9c478be82651",
+            "FileName": "3屆12臨民政教育專案報告審查意見報告書.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f6b2416c-f938-4c91-961b-fac64a91d432",
+            "FileName": "1110314活動中心運作收費及支用情形專案報告簡報(修正版).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0cbd3ca3-97d5-4cc2-88de-0125e186d78a&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=08953b45-834a-4124-b2d4-8019a4c85675",
+            "FileName": "3-12臨民政教育專報1提案單.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8940120c-d0fd-4eb6-b70d-ff7247a0c2a2",
+            "FileName": "3屆12臨民政教育專案報告審查意見報告書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照會議結論通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

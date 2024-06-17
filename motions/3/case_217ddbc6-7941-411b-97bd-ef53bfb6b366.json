@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡淑惠",
+    "OrgTitle2": "郭鴻儀、黃麗招、杜素吟、蔡育輝、陳怡珍、方一峰、李鎮國、李偉智、鄭佳欣、蔡旺詮、邱莉莉、蔡秋蘭、吳禹寰、李宗翰、陳碧玉、林志展、楊中成、李中岑",
+    "CaseCause": "建請市府針對南區鹽埕路205巷、291巷13弄（SB-40-6M道路）編列預算經費，將此路段上之地上物（鹽埕路239巷3號）加以徵收，貫通此計畫道路，以利當地民眾交通通行動線。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、南區鹽埕路205巷、291巷13弄為SB-40-6M南北向計畫道路。\"},{\"tag\":\"p\",\"content\":\"二、因地上物（鹽埕路239巷3號）的存在，而被分隔為二條不同巷道之道路，造成當地民眾交通不便。\"},{\"tag\":\"p\",\"content\":\"三、為便利當地民眾交通通行動線以及地方整體發展，建請市府編列預算經費，將此路段上之地上物（鹽埕路239巷3號）加以徵收，貫通此計畫道路，以利當地民眾交通通行動線。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2021\/01\/21",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2021\/01\/26",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/01\/28",
+    "SendNumber": "南議工務字第 1100000666號",
+    "DoDesc": "本案經市府110年2月3日府工新一字第1100185948號函復：\r\n本案所陳位址，經查係屬本市南區SB-40-6m都市計畫道路後段範圍，有關該路段徵收開闢事宜，本府將先行予以錄案，視財源籌措情形研議辦理。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fa1f288f-7794-49cd-a669-55700b778c75",
+            "FileName": "議提1附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=217ddbc6-7941-411b-97bd-ef53bfb6b366&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/01\/05",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年2月3日府工新一字第1100185948號函復：\r\n本案所陳位址，經查係屬本市南區SB-40-6m都市計畫道路後段範圍，有關該路段徵收開闢事宜，本府將先行予以錄案，視財源籌措情形研議辦理。",
+    "ErrorMessage": ""
+}

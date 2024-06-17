@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "32",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "郭鴻儀",
+    "OrgTitle2": "李宗翰、劉米山、沈家鳳、陳碧玉、邱莉莉、曾信凱、蔡筱薇、鄭佳欣、Ingay Tali穎艾達利",
+    "CaseCause": "建請市府儘速辦理仁德區中正路一段與崑崙路口排水改善工程，改善沿線區域逢雨必淹之困境。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"本市仁德區中正路一段與崑崙路口因舊有雨水下水道排洪量不足，以致沿線區域遇強降雨內水排量不足造成積淹水，建請市府儘速開闢新建雨水箱涵，解決當地居民長年淹水之苦。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/09\/07",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2020\/09\/09",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/09\/14",
+    "SendNumber": "南議工務字第 1090008157號",
+    "DoDesc": "本案經市府109年9月24日府水雨字第1091149695號函復：\r\n一、仁德區中正路一段與崑崙街路口地勢低窪，該路口匯集中正路一段南北側及崑崙路上由地表逕流，僅由道路側溝收集後往車路墘排水排出，該道路既有側溝排洪斷面不足外，降雨期間因側溝格柵及排水孔極易遭樹葉雜物垃圾阻塞，一時宣洩不及而造成路面積淹水情形。\r\n二、中正路一段既有道路側溝斷面不足需重建(W*H=0.8*1.1m)長度約500公尺，另研擬由中正路一段文賢消防隊對面施做排水箱涵長度約122公尺(W*H=1.0*1.0)，將路口匯集之地表逕流分流至車路墘排水，所需總經費1,000萬元，本府優先提報內政部營建署前瞻計畫爭取經費辦理。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=04ae9a5b-f708-4baa-868e-2aa4b8a18259",
+            "FileName": "議提32-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=061b5d0c-4286-479d-acb2-d094e75432d1&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/08\/25",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府109年9月24日府水雨字第1091149695號函復：\r\n一、仁德區中正路一段與崑崙街路口地勢低窪，該路口匯集中正路一段南北側及崑崙路上由地表逕流，僅由道路側溝收集後往車路墘排水排出，該道路既有側溝排洪斷面不足外，降雨期間因側溝格柵及排水孔極易遭樹葉雜物垃圾阻塞，一時宣洩不及而造成路面積淹水情形。\r\n二、中正路一段既有道路側溝斷面不足需重建(W*H=0.8*1.1m)長度約500公尺，另研擬由中正路一段文賢消防隊對面施做排水箱涵長度約122公尺(W*H=1.0*1.0)，將路口匯集之地表逕流分流至車路墘排水，所需總經費1,000萬元，本府優先提報內政部營建署前瞻計畫爭取經費辦理。",
+    "ErrorMessage": ""
+}

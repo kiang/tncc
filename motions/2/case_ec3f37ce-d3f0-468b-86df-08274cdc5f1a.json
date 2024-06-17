@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第6次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "4",
+    "KidTitle": "議員提案-市法規案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝",
+    "OrgTitle2": "曾王雅雲、杜素吟、蔡秋蘭、郭秀珠、洪玉鳳、莊玉珠、蔡淑惠、盧崑福、李中岑、許至椿、林美燕、李坤煌、王家貞、林燕祝、曾培雅、林志聰、蔡玉枝、陳朝來、張世賢、賴惠員、陳怡珍",
+    "CaseCause": "修正「臺南市里鄰編組及調整辦法」為「臺南市里鄰編組及調整自治條例」，明定各區公所辦理各里整併應經台南市議會通過後實施，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市政府訂定「臺南市里鄰編組及調整辦法」，剝奪、限制本市居民權益，是以依地方制度法第七條第三項暨第二十八條第二款規定，有修正為「臺南市里鄰編組及調整自治條例」之必要。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"縣市合併前，原臺南市里鄰編組及調整自治條例第10條明定里鄰調整，應由市府核轉市議會通過後施行。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"縣市合併前，原臺南縣就有訂定『臺南縣村里鄰編組及調整自治條例』，顯見『里鄰編組及調整』其相關規定應以『自治條例』位階訂定；目前「臺南市里鄰編組及調整辦法」當初訂定時顯有規避臺南市議會監督之嫌疑，才調降『法』之位階，改由市府以『辦法』訂定。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"各區行政「里」名稱，甚多涉及地方歷史文化，例如新營區姑爺里、鐵線里等具有自明鄭時期地方由來的歷史典故，貿然合併就是在消滅歷史；實有修訂『自治條例』之必要，爰擬具臺南市里鄰編組及調整自治條例修正草案。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"修正草案(含總說明及條文對照表、修訂後條文)如後附。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"經大會決議後，送巿府公布施行。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bab06f56-1e94-43a7-be9e-381c59e098b6",
+            "FileName": "2-6定議提4-臺南市里鄰編組及調整自治條例草案(總說明、對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ec3f37ce-d3f0-468b-86df-08274cdc5f1a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "2017\/09\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

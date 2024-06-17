@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "民政",
+    "CaseNumber": "25",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "Ingay Tali穎艾達利、林易瑩",
+    "OrgTitle2": "郭鴻儀、陳怡珍、沈震東",
+    "CaseCause": "建請臺南市議會研議調整議會直播畫面配置。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"現行議會開議時，直播畫面配置以質詢畫面為主，各局處、單位或議員提供簡報或相關資料之配置畫面則縮小置中下或縮小置左上處理（如附件一），考量觀看直播民眾使用之工具，除一般電腦、平板等大螢幕工具外，更有以手機收看之民眾，故建請臺南市議會於直播時，改以簡報或相關資料作為主要畫面，以便民眾可清楚看見其所包含之文字及圖片資訊（請參閱附件二，立法院直播畫面）。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/06\/01",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2020\/06\/09",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/06\/16",
+    "SendNumber": "南議民政字第 1090004066號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5b846319-f05b-480b-9499-37e9eb2adfc6",
+            "FileName": "民政25(市議會)---Ingay Tali穎艾議員.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9cdd536f-6728-4067-af34-6653de33ead4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

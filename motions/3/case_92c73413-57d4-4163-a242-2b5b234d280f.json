@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "6",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "尤榮智",
+    "OrgTitle2": "盧崑福、謝龍介、王家貞、李文俊、曾培雅、林燕祝、李鎮國、許至椿、張世賢、方一峰",
+    "CaseCause": "請改善大內區內郭里（頭社高幹98左4）農路邊坡改善工程，因年久失修，邊坡滑落造成行車安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"大內區內郭里（頭社高幹98左4）農路改善工程，因豪雨沖刷造成地基滑落邊坡不穩定，急需改善。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"擋土牆工程：L=80公尺、H=4公尺\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府農業局優先納入改善。\"}]",
+    "CheckDate": "2022\/06\/21",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/07\/08",
+    "SendNumber": "南議財經字第 1110006437號",
+    "DoDesc": "本府就「請改善大內區內郭里(頭社高幹98左4)農路邊坡改善工程，因年久失修，邊坡滑落造成行車安全。」案，敬答覆如下：\r\n一、本案工程名稱：大內區內郭里(頭社高幹98左4)農路邊坡改善工程。\r\n二、本案工程已於111年5月4日辦理現場勘查，本府將參酌公所提報經費之合理性、並考量農路改善的需求性、急迫性，遵照「臺南市政府農業局辦理農路修繕審查作業要點」，依極危險、危險、不便、普通4個等級循序辦理農路案件之核定，以妥善運用有限經費及資源。\r\n三、承蒙貴會對於市政之關切，本府至為感謝，尚請不吝賜教。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=51a736bb-019d-47b9-a98b-2623039dbccd",
+            "FileName": "6.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=92c73413-57d4-4163-a242-2b5b234d280f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/08\/02",
+    "ExecuteReNumber": "府農工字第 1110984225號",
+    "ExecuteReMemo": "本府就「請改善大內區內郭里(頭社高幹98左4)農路邊坡改善工程，因年久失修，邊坡滑落造成行車安全。」案，敬答覆如下：\r\n一、本案工程名稱：大內區內郭里(頭社高幹98左4)農路邊坡改善工程。\r\n二、本案工程已於111年5月4日辦理現場勘查，本府將參酌公所提報經費之合理性、並考量農路改善的需求性、急迫性，遵照「臺南市政府農業局辦理農路修繕審查作業要點」，依極危險、危險、不便、普通4個等級循序辦理農路案件之核定，以妥善運用有限經費及資源。\r\n三、承蒙貴會對於市政之關切，本府至為感謝，尚請不吝賜教。",
+    "ErrorMessage": ""
+}

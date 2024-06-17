@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "民政",
+    "CaseNumber": "6",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/05\/05",
+    "ComeNumber": "府社秘字第1100561803號",
+    "OrgTitle": "臺南市政府社會局、教育局",
+    "OrgTitle2": "",
+    "CaseCause": "衛生福利部核定本市「前瞻基礎建設計畫-公共服務據點整備-整建長照衛福據點-其他在地閒置空間\/土地類」第三期第一階段經費2,357萬5,000元（中央補助款2,003萬8,000元、市配合款353萬7,000元），為爭取時效，謹請貴會同意先行墊付110年度757萬1,000元(中央補助款643萬5,000元、市配合款113萬6,000元)，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據衛生福利部110年4月8日衛部顧字第1101960699號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"1.本案總經費2,357萬5,000元（中央補助款2,003萬8,000元、市配合款353萬7,000元），執行期間自110年起至113年止，因未及納入本府110年度總預算，為爭取時效，謹請貴會同意先行墊付110年度757萬1,000元（中央補助款643萬5,000元、市配合款113萬6,000元)，俟111年度總預算時辦理轉正。\"},{\"tag\":\"p\",\"content\":\"2.上開總經費2,357萬5,000元，採一次發包，分年編列預算辦理，110年度757萬1,000元、111年度830萬4,000元、112年度660萬元、113年度110萬元。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年4月20日第487次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/08\/09",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/08\/24",
+    "SendNumber": "南議民政字第 1100006459號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=29afbbec-5711-47fe-8751-e9d634474975",
+            "FileName": "民政6(社會局)-附件-核定函及計畫書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2499f60f-80b6-450c-9120-ffb5784116d2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

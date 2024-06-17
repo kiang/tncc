@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第5次 定期會",
+    "PTypTitle": "會務",
+    "CaseNumber": "2",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "賴議長美惠",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市議會政黨黨團辦公室設置辦法」第五條第二項條文草案，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依行政院101年11月18日院臺綜字第1010068301號函修正。\"},{\"tag\":\"p\",\"content\":\"二、檢附「臺南市議會政黨黨團辦公室設置辦法」修正草案總說明、條文修正草案對照表、修正後條文草案。\"},{\"tag\":\"p\",\"content\":\"----------------------\"},{\"tag\":\"p\",\"content\":\"臺南市議會黨團辦公室設置辦法修正草案總說明\"},undefined,{\"tag\":\"p\",\"content\":\"臺南市議會黨團辦公室設置辦法（以下簡稱本辦法），依行政院101年11月18日院臺綜字第1010068301號函修正。\"},{\"tag\":\"p\",\"content\":\"刪除原條文第五條第二項，刪除後條文如下：\"},{\"tag\":\"p\",\"content\":\"第五條　黨團辦公室設備市內電話分機、電腦、傳真機、列表機、影印機及辦公桌椅等基本設備，由本會提供。其餘辦公設備或用品等費用由各該黨團自理。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會同意後報行政院備查\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2013\/05\/20",
+    "DoneDesc": "照案通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5a1465bd-79b8-42b1-8ddb-a398f405dd75",
+            "FileName": "臺南市議會政黨黨團辦公室設置辦法草案.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5c11fe16-296a-4bf2-a20a-c1bda6cc36ef&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照案通過。",
+    "FirstDate": "2013\/03\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

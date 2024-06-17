@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第2次 定期會",
+    "PTypTitle": "民政",
+    "CaseNumber": "33",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林易瑩、沈震東、蔡旺詮、Ingay Tali穎艾達利",
+    "OrgTitle2": "",
+    "CaseCause": "建請臺南市議會增設性別平等委員會。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"為促進臺南市議會之性別平等、消除性別歧視，建請設立臺南市議會專屬之性別平等委員會，並訂定設置要點。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2019\/11\/01",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2019\/12\/10",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/12\/20",
+    "SendNumber": "南議民政字第 1080012273號",
+    "DoDesc": "依據本會人事室109年3月3日南議人事字第1090001418號函：\r\n本會性別平等委員會設置要點，自即日起生效，如附件。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e7123a52-8636-43cb-9acd-9ebd614bf279",
+            "FileName": "臺南市議會性別平等委員會設置要點.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=541566e9-e5f6-4d93-921e-ab4449f8771c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "依據本會人事室109年3月3日南議人事字第1090001418號函：\r\n本會性別平等委員會設置要點，自即日起生效，如附件。",
+    "ErrorMessage": ""
+}

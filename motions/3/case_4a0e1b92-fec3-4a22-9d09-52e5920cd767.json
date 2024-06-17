@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/07\/11",
+    "ComeNumber": "府原綜字第1110892371號",
+    "OrgTitle": "臺南市政府原住民族事務委員會",
+    "OrgTitle2": "",
+    "CaseCause": "原住民族委員會核定本府辦理「《ari踩街趣》111年臺南市原住民族日樂舞嘉年華活動計畫」經費15萬元整乙案（中央補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據原住民族委員會111年6月2日原民教字第11100286923號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出。」規定及第45點第2款等規定辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費計新臺幣35萬元整，由中央補助15萬元，餘20萬元由本府111年度原住民族業務─文教社福業務─業務費項下支應。其中，前開中央補助款15萬元未及納入111年度預算，為爭取時效，謹請貴會同意先行辦理墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年6月21日第547次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，並於112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/08\/22",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/07\/28",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2022\/07\/29",
+    "SendNumber": "南議民教字第 1110008531號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=565aeb2e-ddef-4d8b-b147-cb6cf6023013",
+            "FileName": "民教2(原民會)-附件(核定函及計畫書).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4a0e1b92-fec3-4a22-9d09-52e5920cd767&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/07\/20",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

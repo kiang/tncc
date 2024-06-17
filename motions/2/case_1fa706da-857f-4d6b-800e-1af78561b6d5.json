@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第7次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "7",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林燕祝",
+    "OrgTitle2": "曾培雅、許至椿、王家貞",
+    "CaseCause": "建請市府水利局於永康區大灣路1102巷17弄臨大灣排水處增設沈水式抽水機，以解決大灣地區淹水問題並保障市民生命及財產安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、經查位於永康區大灣地區崑山里大仁街附近約有1500戶居民，每逢颱風或時雨量較大時，必遭淹水之苦，究其淹水主因，乃係大灣排水水位上漲時，堤後排水無法採重力排出，每每導致水淹及腰，嚴重影響該地區市民生命及財產安全。\"},{\"tag\":\"p\",\"content\":\"二、倘若於永康區大灣路1102巷17弄臨大灣排水處增設沈水式抽水機即可將大仁街附近之積水順利抽排，當可有效解決該地區淹水問題。\"},{\"tag\":\"p\",\"content\":\"三、綜此，建請市府水利局於上址增設沈水式抽水機，除可解決大仁街淹水問題，亦可保障該區市民生命及財產安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2018\/05\/25",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2018\/06\/04",
+    "SendNumber": "南議工務字第 1070003752號",
+    "DoDesc": "本案經市府107年7月30日府水雨字第1070852990號函復：\r\n(詳如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=af29ce31-d6c8-473e-963f-a785ec07ed74",
+            "FileName": "2-7工務議提7書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1fa706da-857f-4d6b-800e-1af78561b6d5&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2018\/03\/07",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府107年7月30日府水雨字第1070852990號函復：\r\n(詳如夾檔)",
+    "ErrorMessage": ""
+}

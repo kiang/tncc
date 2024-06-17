@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市政府經濟發展局",
+    "OrgTitle2": "",
+    "CaseCause": "「本市太陽能光電目前建置進度與發展情形及對環境之影響評估」專案報告",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"建請市府儘速協調中央能源主管機關，提出太陽能光電區域開發總量的管制辦法，並請中央確實檢討能源用地，勿壓縮農漁用地，不能再由市場機制主導光電的發展，致使空間失衡狀況更加劇烈。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"「臺南市太陽光電設施設置監督管理辦法」、「臺南市政府申請設置併網型儲能系統審查作業要點」等2法規，已不合時宜，請市府配合中央相關法規再行研議，滾動修正爲更符時宜之法規。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"市府應嚴格查核漁電共生案場，避免假養殖真種電之弊端；其他類型之案場，亦應加強稽查是否有非法傾倒、掩埋廢棄物等違反申請目的之情形，如有即應依法令程序廢止執照。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"政策執行應與地方充分溝通，釐清民眾疑慮，降低對自然生態、人文景觀等地形地貌之破壞，以避免太陽能光電產業因人為之不當而遭受汙名化。\",\"children\":[]}]}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2024\/05\/29",
+    "DoneDesc": "照委員會結論通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e7fd597a-cb92-4047-9bd0-8d741ea4d642",
+            "FileName": "本市太陽能光電目前建置進度與發展情形及對環境之影響評估-定稿(議會版).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=567d065b-316e-4614-9d71-085c1c9595cc&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照委員會結論通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

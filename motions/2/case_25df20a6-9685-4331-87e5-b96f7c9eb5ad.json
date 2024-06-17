@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第2屆 第4次 定期會",
+    "PTypTitle": "民政",
+    "CaseNumber": "22",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林志展",
+    "OrgTitle2": "李退之、林宜瑾",
+    "CaseCause": "建請市政府增加安定區納骨堂神主牌位。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"安定區納骨堂88年12月19日啟用，設有3433個神主牌位，截至今年十一月份為止，剩餘0個神主牌位，至105年10月11日止仍有47位登記購買，已面臨到神主牌位不足的問題，建請市政府增加安定區納骨堂神主牌位。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2016\/12\/23",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2017\/01\/05",
+    "SendNumber": "南議民政字第 1050008914號",
+    "DoDesc": "106年1月12日府民自字第1060055256號函民政局回復如下：\r\n\r\n本府就「建請市政府增加安定區納骨堂神主牌位」決議案，敬答覆如下：\r\n一、查該堂現有牌位3,433位皆已完售，尚有民眾登記購置，為因應該區民眾所需，本府民政局已於106年1月12日南市民生字第1060088356號函(詳如附件)同意本市安定區公所提報「納骨塔申請增設牌位櫃設施經費補助」。 \r\n二、依該所之計畫將於納骨塔一樓大廳兩側牆面增設牌位280位，該案核定經費為新台幣伍拾肆萬元整(詳如計畫書)。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=58fac124-56af-4329-9532-6361adc6714d",
+            "FileName": "4定議提22號案附件.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c0782224-5d80-460d-864d-3fa0c6007b8b",
+            "FileName": "安定區公所計劃書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=25df20a6-9685-4331-87e5-b96f7c9eb5ad&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2016\/10\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "106年1月12日府民自字第1060055256號函民政局回復如下：\r\n\r\n本府就「建請市政府增加安定區納骨堂神主牌位」決議案，敬答覆如下：\r\n一、查該堂現有牌位3,433位皆已完售，尚有民眾登記購置，為因應該區民眾所需，本府民政局已於106年1月12日南市民生字第1060088356號函(詳如附件)同意本市安定區公所提報「納骨塔申請增設牌位櫃設施經費補助」。 \r\n二、依該所之計畫將於納骨塔一樓大廳兩側牆面增設牌位280位，該案核定經費為新台幣伍拾肆萬元整(詳如計畫書)。\r\n",
+    "ErrorMessage": ""
+}

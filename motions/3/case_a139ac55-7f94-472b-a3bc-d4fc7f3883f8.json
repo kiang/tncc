@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "7",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/03\/29",
+    "ComeNumber": "府民自字第1110432444號",
+    "OrgTitle": "臺南市政府各區公所",
+    "OrgTitle2": "",
+    "CaseCause": "有關經濟部水利署南區水資源局補助楠西區公所辦理「111度水資源作業基金水庫清淤公益支出計畫共5件」案，經費計新臺幣835萬3,000元整（全額中央補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據經濟部水利署南區水資源局111年2月25日、2月11日暨110年12月30日水南曾字第11130010050號、第11130006660號暨第11030067360號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款，所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"「計畫執行人事費用」:經濟部水利署南區水資源局111年2月25日水南曾字第11130010050號函核定本案變更計畫後分配額度計新臺幣60萬元整。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"「臺南市楠西區公所老人文康活動中心廚房興建工程」:經濟部水利署南區水資源局111年2月11日第11130006660號函核定本案分配額度計新臺幣350萬元整。\",\"children\":[]},{\"order\":\"(三)\",\"content\":\"『臺南市楠西區楠西國中、楠西國小營養午餐補助計畫』、『臺南市楠西區楠西國中、楠西國小註冊等費用補助計畫』、『111年度楠西區長照服務資源不足地區交通接送量能提升計畫』」等3件:經濟部水利署南區水資源局110年12月30日水南曾字第11030067360號函核定本案分配額度計新臺幣425萬2,928元整。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案所需經費新臺幣835萬3,000元整（全額中央補助），因未及納入本市府111年度總預算，為爭取時效，擬請貴會同意先行墊付，俟112年度總預算時辦理轉正。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，並於112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/05\/09",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/06\/08",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/06\/10",
+    "SendNumber": "南議民教字第 1110005622號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a1c02c4c-0335-40c6-96a0-84375f4cde1b",
+            "FileName": "民教市提7-附件(楠西5案核定函與計畫).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a139ac55-7f94-472b-a3bc-d4fc7f3883f8&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/04\/06",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

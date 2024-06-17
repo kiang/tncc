@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "10",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2024\/05\/09",
+    "ComeNumber": "府財產字第1130650871號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理讓售本府經管坐落本市中西區星鑽段2218地號等7筆非公用市有房地，謹依土地法第25條規定之處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"市有土地鄰地所有權人檢附畸零（裡）地合併使用證明書申請承購坐落本市中西區星鑽段2218地號等4筆市有土地，擬依「臺南市市有財產管理自治條例」第51條規定辦理讓售。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"市有土地承租人申請承購坐落本市白河區中興段1540-17地號市有出租土地，擬依「臺南市市有財產管理自治條例」第50條第1項第2款規定辦理讓售。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本市安平區妙壽段310建號等2筆市有建物，擬依「臺南市市有財產管理自治條例」第50條第1項第5款規定辦理讓售。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年5月7日第645次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=59cb04da-f348-4bbb-bf93-e90256a90024",
+            "FileName": "財經10-土地處分清冊.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=718083e1-165e-4404-b556-1728c86a5e82",
+            "FileName": "財經10-地籍圖.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4dc799e4-8154-4f21-9656-503c4754c4d3&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "",
+    "FirstDate": "2024\/05\/29",
+    "FirstDesc": "交付財經委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2014\/03\/27",
+    "ComeNumber": "府民自字第1030201443號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理出售本府經管坐落本市新營區東興段62地號等15筆非公用市有土地，擬依土地法第25條規定完成處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、市有土地鄰地所有權人檢附畸零地合併使用證明書申請承購坐落本市新營區東興段62地號等12筆市有土地，擬依「臺南市市有財產管理自治條例」第51條規定辦理讓售。\"},{\"tag\":\"p\",\"content\":\"二、市有土地承租人申請承購坐落本市白河區新興段1021地號等3筆市有土地，擬依「臺南市市有財產管理自治條例」第50條第1項第2款規定辦理讓售。\"},{\"tag\":\"p\",\"content\":\"三、本案業經本府103年3月26日第153次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "白河區新興段1021地號暫緩出售，其餘照案通過。",
+    "DoneDate": "2014\/06\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2014\/06\/27",
+    "SendNumber": "南議財經字第 1030004047號",
+    "DoDesc": "本案除善化區大成段729地號及同區善昌段234-1地號需分別釐清有否為徵收及文件待補正，擬另案辦理外，餘11筆土地已函送內政部核准完成處分程序中。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=26d4a039-e45a-4017-9f10-b0ab126cc371",
+            "FileName": "第一屆第7次定期大會擬處分清冊（提案2）.xls",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0d0cb043-507e-4647-9ef8-4b1c4c3f2020&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2014\/04\/07",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案除善化區大成段729地號及同區善昌段234-1地號需分別釐清有否為徵收及文件待補正，擬另案辦理外，餘11筆土地已函送內政部核准完成處分程序中。",
+    "ErrorMessage": ""
+}

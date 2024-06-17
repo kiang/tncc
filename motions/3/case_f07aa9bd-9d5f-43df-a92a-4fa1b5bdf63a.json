@@ -1,0 +1,59 @@
+{
+    "GradeTime": "第3屆 第5次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2020\/07\/27",
+    "ComeNumber": "府交公運字第1090894295號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部公路總局核定本市「109年度公路公共運輸多元推升計畫『使用電子票證搭乘台灣好行旅遊優惠計畫』（計畫編號：109BEX03）」經費91萬8,000元整乙案（全額中央補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟110年度總預算時辦理轉正，敬請　審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據交通部公路總局109年6月23日路運計字第1090076580號辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款之規定：「經上級政府核定之補助款，所使用之支出。」。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"（一）本案交通部公路總局同意補助91萬8,000元辦理連續假期民眾使用電子票證搭乘台灣好行路線享半票優惠（共6個連續假期，計118日），本府無自籌款。\"},{\"tag\":\"p\",\"content\":\"（二）因本案未及納入本局所屬公共運輸處109年度預算，為爭取時效，謹請貴會同意先行辦理墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府109年7月15日第447次市政會議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟110年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2020\/09\/03",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2020\/09\/09",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2020\/09\/11",
+    "SendNumber": "南議保安字第 1090008222號",
+    "DoDesc": "一、案係109年度交通部公路公共運輸多元推升計畫補助案件。\r\n二、本案已辦理完成並於109年12月2日向交通部公路總局嘉義區監理所請款，交通部公路總局嘉義區監理所109年12月16日嘉監運字第1090344252號函同意撥付新臺幣45萬3,768元整。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4654f37b-e940-4f1c-866f-154e860d8882",
+            "FileName": "保安市提2號核定函.PDF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a5247db6-32e5-495e-8709-111170ed650a",
+            "FileName": "保安市提2號附件.PDF",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8cf048bd-fefc-4235-8de6-3eac8b9e8389",
+            "FileName": "交通局補充資料公文.PDF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cbf5a18e-7403-43a1-b1cf-34d5e77ad77b",
+            "FileName": "交通局墊付案補充資料-2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f07aa9bd-9d5f-43df-a92a-4fa1b5bdf63a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2020\/08\/25",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "一、案係109年度交通部公路公共運輸多元推升計畫補助案件。\r\n二、本案已辦理完成並於109年12月2日向交通部公路總局嘉義區監理所請款，交通部公路總局嘉義區監理所109年12月16日嘉監運字第1090344252號函同意撥付新臺幣45萬3,768元整。",
+    "ErrorMessage": ""
+}

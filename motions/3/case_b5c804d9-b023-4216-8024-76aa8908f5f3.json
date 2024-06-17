@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "10",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡旺詮",
+    "OrgTitle2": "林易瑩、陳秋宏、沈家鳳",
+    "CaseCause": "財稅局應與各局室尤其是文化局立案之各團體的資訊應要有系統連線。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"因某藝文團體登記在南區之地址，藝文團體已在文化局註銷但因無跟財稅局連線以致於必須再取得文化局註銷公文，造成人民不便不符合目前智慧城市電腦系統的功能。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/11\/27",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/12\/08",
+    "SendNumber": "南議財經字第 1090011368號",
+    "DoDesc": "臺南市政府109年12月11日府財稅字第1091521237號函覆:\r\n本府就「財稅局應與各局室尤其是文化局立案之各團體的資訊應要有系統連線」案，敬答覆如下：\r\n一、依據貴會第3屆第4次定期會109年9月30日財經部門業務報告蔡議員旺詮質詢暨本提案事項，本府財政稅務局前於109年10月12日已函請本府文化局協助通報文化團體相關資訊(函文影本，如附件1)，並將辦理情形於109年12月2日先予答覆蔡議員旺詮在案(函文影本，如附件2)。\r\n二、爾後本府文化局核定文化團體登記、異動或註銷案件皆會通報本府財政稅務局，由財政稅務局據以輔導納稅義務人申報房屋稅使用情形變更等相關事宜，以維納稅義務人權益。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2da18985-513f-43c7-97c7-0423679dea1d",
+            "FileName": "附件1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0a6d2f8e-fe70-413e-b056-f46f5234bb74",
+            "FileName": "附件2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b5c804d9-b023-4216-8024-76aa8908f5f3&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "臺南市政府109年12月11日府財稅字第1091521237號函覆:\r\n本府就「財稅局應與各局室尤其是文化局立案之各團體的資訊應要有系統連線」案，敬答覆如下：\r\n一、依據貴會第3屆第4次定期會109年9月30日財經部門業務報告蔡議員旺詮質詢暨本提案事項，本府財政稅務局前於109年10月12日已函請本府文化局協助通報文化團體相關資訊(函文影本，如附件1)，並將辦理情形於109年12月2日先予答覆蔡議員旺詮在案(函文影本，如附件2)。\r\n二、爾後本府文化局核定文化團體登記、異動或註銷案件皆會通報本府財政稅務局，由財政稅務局據以輔導納稅義務人申報房屋稅使用情形變更等相關事宜，以維納稅義務人權益。",
+    "ErrorMessage": ""
+}

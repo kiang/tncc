@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "92",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "尤榮智、王家貞、林燕祝",
+    "CaseCause": "請市府編列預算重新規劃徵收永康區中興街12米道路以解民困。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、該道路是永康區第一條開闢之12米都市計畫道路，至今40年之久。\"},{\"tag\":\"p\",\"content\":\"二、其中興街12米道路兩旁大部分是公有土地，住戶配合無償拆屋配合拓寬。\"},{\"tag\":\"p\",\"content\":\"三、如今數十年，其部分私有土地，竟未辦理徵收，因此民怨而生，希望市府早日重新檢討，徵收相關事宜。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請市府編列預算，辦理徵收。\"}]",
+    "CheckDate": "2020\/11\/26",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/12\/08",
+    "SendNumber": "南議工務字第 1090011817號",
+    "DoDesc": "經市府109年12月23日府工新二字第1091558104號函復：\r\n經查永康區區中興街係永康交流道道附近特定區內25-12M計畫道路，現況已近全寬開闢，有關現有道路涉私地未徵收取得部分，因本市數量眾多且金額龐大，須通盤檢討辦理。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9c587254-4778-402c-a482-f78d63cc40d6",
+            "FileName": "議提92-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0248f2cf-02df-45bf-b124-6a109cfee613&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "經市府109年12月23日府工新二字第1091558104號函復：\r\n經查永康區區中興街係永康交流道道附近特定區內25-12M計畫道路，現況已近全寬開闢，有關現有道路涉私地未徵收取得部分，因本市數量眾多且金額龐大，須通盤檢討辦理。",
+    "ErrorMessage": ""
+}

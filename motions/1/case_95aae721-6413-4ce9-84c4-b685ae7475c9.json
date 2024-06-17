@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2012\/05\/11",
+    "ComeNumber": "府財產字第1010393834號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "為民眾申請承購市有畸零地及承租土地，擬辦理出售本府經管坐落本市官田區隆田段1112地號等23筆非公用土地，茲依土地法第25條規定完成處分程序，提請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、市有土地鄰地所有權人檢附畸零地合併使用證明書申請承購。坐落本市官田區隆田段1112地號等7筆市有土地，擬依臺南市市有財產管理自治條例第51條規定辦理讓售。\"},{\"tag\":\"p\",\"content\":\"二、市有土地承租人申請承購。坐落本市鹽水區月津段381地號16筆市有出租土地，擬依臺南市市有財產管理自治條例第50條第1項第2款規定辦理讓售。\"},{\"tag\":\"p\",\"content\":\"三、本案業經本府101年5月9日第65次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/06\/13",
+    "SendNumber": "南議財經字第 1010010579號",
+    "DoDesc": "1.畸零地讓售6筆土地，奉行政院101年7月20日院授內中字第1016036829號函核准。\r\n2.承租讓售15筆土地，奉行政院101年8月3日院授內中字第1016037443號函核准。\r\n3.其中1筆畸零地辦理撤銷徵收中，1筆承租土地承租現況待釐?，俟撤銷徵收完成後再送行政院審核。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=852283d5-5e1c-45ca-b298-66630ce0ec01",
+            "FileName": "第一屆第3次定期大會擬處分清冊（提案3）.xls",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=95aae721-6413-4ce9-84c4-b685ae7475c9&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "1.畸零地讓售6筆土地，奉行政院101年7月20日院授內中字第1016036829號函核准。\r\n2.承租讓售15筆土地，奉行政院101年8月3日院授內中字第1016037443號函核准。\r\n3.其中1筆畸零地辦理撤銷徵收中，1筆承租土地承租現況待釐?，俟撤銷徵收完成後再送行政院審核。\r\n",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "30",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林依婷",
+    "OrgTitle2": "周嘉韋、李宗翰、鄭佳欣",
+    "CaseCause": "臺南市「安平路612號騎樓前」的機車停車格線重劃，建議重新劃設。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"有鑑於臺南市安平區「安平路612號騎樓前」，因為鄰近觀光熱點，致使機車格標線久經使用，致使模糊到難以辨識；經陳情人反應如附圖，建請交通局重新劃設標線。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/05\/26",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/06\/07",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/06\/09",
+    "SendNumber": "南議保安字第 1120004057號",
+    "DoDesc": "本府就「安平路612號騎樓前機車停車格位線重劃」案，敬答覆如下： \r\n案經本府交通局派員現勘，查案揭人行道機車停車區標線已模糊，為加強辨識，爰業於112年5月11日補劃機車停車線完竣。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1da3da43-baf6-427a-ae8c-c16196182e71",
+            "FileName": "林依婷議員提案-安平路612號前機車格線重繪.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3bdc9e8b-8ffa-4a5d-b141-892d59fd085a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/06\/21",
+    "ExecuteReNumber": "府交停工字第 1120780647號",
+    "ExecuteReMemo": "本府就「安平路612號騎樓前機車停車格位線重劃」案，敬答覆如下： \r\n案經本府交通局派員現勘，查案揭人行道機車停車區標線已模糊，為加強辨識，爰業於112年5月11日補劃機車停車線完竣。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "70",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡旺詮",
+    "OrgTitle2": "郭鴻儀、趙昆原、盧崑福、蔡蘇秋金",
+    "CaseCause": "請水利局與經發局將公務及民間載水車常使用的路線地圖彙整後轉發給工務局，由工務局進行路面檢查。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"水情吃緊，因載水車頻繁路過，導致路面塌陷龜裂。呼籲加強跨局處合作，請水利局與經發局將公務及民間載水車常使用的路線地圖，彙整後轉發給工務局，由工務局進行路況的檢查與維修。以維護水資源與市民安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2021\/05\/14",
+    "CheckDesc": "函送市府研議。",
+    "DoneDate": "2021\/08\/03",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/08\/09",
+    "SendNumber": "南議工務字第 1100005558號",
+    "DoDesc": "本案經市府110年8月19日府水污養字第1100991151號函復：(詳如夾檔)",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5df16597-0ead-45dd-b742-ea97f7d6ee53",
+            "FileName": "3-5定(議提70)書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8a11e37c-59c1-4588-80ff-494cc3f1e463&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年8月19日府水污養字第1100991151號函復：(詳如夾檔)",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "民政",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2021\/04\/09",
+    "ComeNumber": "府民自字第1100446461號",
+    "OrgTitle": "臺南市政府民政局新營區公所",
+    "OrgTitle2": "",
+    "CaseCause": "有關「新營區民族段966號土地經法院判決准予變價分割」乙案，敬請貴會准予備查，請查照。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據新營區公所110年3月5日所行字第1100146747號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、依土地法第34條之1執行要點第4點規定：「共有土地或建物為公私共有者，有本法條之適用。私有部分共有人就公私共有土地或建物全部為處分時，如已符合本法條各項規定，其申請所有權變更登記，應予受理。但公有部分為直轄市或縣（市）時，其管理機關於接獲共有人之通知後，以其處分係依據法律之規定，應即報請該管區內民意機關備查。」\"},{\"tag\":\"p\",\"content\":\"三、旨揭公私共有土地登記面積為0.63平方公尺，其中30分之1之所有權人為「臺南市」管理者為「臺南市新營區公所」，茲執行清償（拍賣）所得金額新臺幣900元（每平方公尺約42,857元）扣除執行費135元，發還新營區公所765元。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年3月30日第484次市府會議審議通過。\"}]",
+    "Method": "[]",
+    "CheckDate": "2021\/08\/10",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2021\/08\/25",
+    "SendNumber": "南議民政字第 1100005664號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=28fa32ff-0a62-4401-a102-5adf071d84ac",
+            "FileName": "判決書.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0c724c4d-cea1-4d12-aab3-c472c3562519",
+            "FileName": "附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5d485041-a0d3-48cc-a9e2-5bf30ee9a1b7&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

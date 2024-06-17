@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "25",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2012\/05\/14",
+    "ComeNumber": "府環衛字第1010361378號",
+    "OrgTitle": "臺南市政府環境保護局",
+    "OrgTitle2": "",
+    "CaseCause": "制定「臺南市環境清潔自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為加強環境清潔、維護市容觀瞻及提昇環境品質，填補既有法令規範之不足，並具體落實法令之精神，特制定本自治條例。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府101年5月2日第64次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市環境清潔自治條例草案」（含總說明及逐條說明）乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、修正第九條（修正內容詳附表二）。\r\n二、修正通過。",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "照審查意見修正通過。",
+    "SendDate": "2012\/06\/22",
+    "SendNumber": "南議法規字第 1010010740號",
+    "DoDesc": "已於101年6月27日函送「臺南市環境清潔自治條例」至行政院核定，行政院101年8月20日來函准於核定。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bd8e291b-a06c-44c0-ab67-f29928d1f36b",
+            "FileName": "臺南市環境清潔自治條例（總說明、逐條說明、草案條文).doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f9e6051f-dc18-48ff-81c6-df8d71a4c178&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見修正通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "已於101年6月27日函送「臺南市環境清潔自治條例」至行政院核定，行政院101年8月20日來函准於核定。",
+    "ErrorMessage": ""
+}

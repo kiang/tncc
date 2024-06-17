@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "58",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳秋宏",
+    "OrgTitle2": "林志展、沈家鳳、周嘉韋、謝舒凡、蔡麗青、蔡蘇秋金、邱昭勝、蔡筱薇",
+    "CaseCause": "請通盤檢討全市早期農水路級配路面，崎嶇難行，建請儘速改善。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"早期農水路完工後，現況級配路面需保固3年或2年才能鋪AC，因逢雨泥濘且崎嶇難行，引起地方民怨。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請地政局盡速於保固期限一到，優先辦理改善。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/06\/20",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/14",
+    "SendNumber": "南議財經字第 1120006448號",
+    "DoDesc": "本府就「請通盤檢討全市早期農水路級配路面，崎嶇難行，建請盡速改善」提案，敬答覆如下：\r\n一、為提升本市早期農地重劃區農路安全性及交通運輸便利性，本府將就保固期滿之級配路面進行通盤檢討，加速辦理AC鋪設改善作業。\r\n二、承蒙貴會對於本案之關切，本府至為感謝，尚請不吝賜教。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=57092b1b-1b27-45b5-8116-b936de0d6222",
+            "FileName": "附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0eb920ce-df89-455c-bf6f-c36a9547766e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/07\/25",
+    "ExecuteReNumber": "府地農字第 1120931278號",
+    "ExecuteReMemo": "本府就「請通盤檢討全市早期農水路級配路面，崎嶇難行，建請盡速改善」提案，敬答覆如下：\r\n一、為提升本市早期農地重劃區農路安全性及交通運輸便利性，本府將就保固期滿之級配路面進行通盤檢討，加速辦理AC鋪設改善作業。\r\n二、承蒙貴會對於本案之關切，本府至為感謝，尚請不吝賜教。",
+    "ErrorMessage": ""
+}

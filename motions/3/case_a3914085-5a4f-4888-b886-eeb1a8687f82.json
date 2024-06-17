@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "有關機關提案-決算審核報告",
+    "ComeDate": "2020\/07\/24",
+    "ComeNumber": "審南市一字第1090003357號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "108年度臺南市總決算暨附屬單位決算及綜計表審核報告，敬請　審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據地方制度法第42條規定辦理。\"},{\"tag\":\"p\",\"content\":\"二、中華民國108年度臺南市總決算暨附屬單位決算及綜計表，臺南市政府於民國109年4月30日以府主決字第1090480339號函送本處，本處業於法定期限內依法完成審核，並編製審核報告竣事。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/09\/01",
+    "CheckDesc": "聯席審查意見：照案通過。",
+    "DoneDate": "2020\/09\/09",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2020\/09\/14",
+    "SendNumber": "南議財經字第 1090008271號",
+    "DoDesc": "本府主計處業於109年9月16日以府主決字第1091132512號公告「中華民國108年度臺南市地方總決算暨附屬單位決算及綜計表之最終審定數額表」在案。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=94523c8e-3a34-4638-924e-17ceac186300",
+            "FileName": "108年度臺南市總決算暨附屬單位決算及綜計表審核報告.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a3914085-5a4f-4888-b886-eeb1a8687f82&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2020\/08\/31",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本府主計處業於109年9月16日以府主決字第1091132512號公告「中華民國108年度臺南市地方總決算暨附屬單位決算及綜計表之最終審定數額表」在案。",
+    "ErrorMessage": ""
+}

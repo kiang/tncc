@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "3",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳碧玉",
+    "OrgTitle2": "陳秋宏、李宗翰、陳秋萍、蔡旺詮",
+    "CaseCause": "建請市府工務局於安定區港口里311-4號前道路裝設路燈，以防宵小並利人車通行安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、據民眾反映，上該地點前道路較為昏暗，視線不良，易生危險。\"},{\"tag\":\"p\",\"content\":\"二、建請市府工務局考量用路人安全，儘速裝設路燈，保障人車通行安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2021\/10\/22",
+    "CheckDesc": "函送市府研議。",
+    "DoneDate": "2021\/10\/27",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/11\/02",
+    "SendNumber": "南議工務字第 1100010134號",
+    "DoDesc": "本案經市府110年11月18府工園二字第1101412057號函復：\r\n本府工務局前於110年10月22日辧理現場路燈增設(如附件)，現刻正請台灣電力公司辧理外線佈設作業，以利該盞路燈正常放亮。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=baca572a-b204-4f78-b96e-fe41a9b3df64",
+            "FileName": "3-6定(議提3)畫面答覆-附圖.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f6e43792-b9b0-45ff-859a-d8364a352452&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年11月18府工園二字第1101412057號函復：\r\n本府工務局前於110年10月22日辧理現場路燈增設(如附件)，現刻正請台灣電力公司辧理外線佈設作業，以利該盞路燈正常放亮。",
+    "ErrorMessage": ""
+}

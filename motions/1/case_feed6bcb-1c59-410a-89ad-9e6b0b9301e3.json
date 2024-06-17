@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "8",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2012\/02\/01",
+    "ComeNumber": "府民自字第1010060862號",
+    "OrgTitle": "臺南市政府水利局",
+    "OrgTitle2": "",
+    "CaseCause": "擬制定「臺南市污水下水道使用費徵收自治條例」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"、為內政部99年6月23日內授營環字第0990804874號函請各單位依審計部意見積極擬定污水下水道使用費徵收辦法，以符合下水道法第26條規定、提升公共建設投資下水道效益及落實地方政府污水下水道營運管理機制；另因應縣市合併後原台南縣（市）自治法規制適用到101年12月31日止。爰此，依據前開規定訂定本自治條例，以符體制。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本自治條例業經本府101年01月19日第52次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請惠予審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、修正第三條第二項（修正內容詳附表二）。\r\n二、修正通過。",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "照審查意見修正通過。",
+    "SendDate": "2012\/06\/22",
+    "SendNumber": "南議法規字第 1010010740號",
+    "DoDesc": "本案業於101年7月3日以府法規字第1016161312號函公布，本府以101年8月14日府水污字第1010621726號函請內政部轉行政院備查。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cd3e1fea-50d0-4d23-b5d0-c42ec0700963",
+            "FileName": "臺南市污水下水道使用費徵收自治條例草案（總說明、逐條說明、草案條文）.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=feed6bcb-1c59-410a-89ad-9e6b0b9301e3&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見修正通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案業於101年7月3日以府法規字第1016161312號函公布，本府以101年8月14日府水污字第1010621726號函請內政部轉行政院備查。",
+    "ErrorMessage": ""
+}

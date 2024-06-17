@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "11",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2023\/05\/10",
+    "ComeNumber": "府文秘字第1120619851號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本市「財團法人台南市文化基金會111年度決算書」乙案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"財團法人台南市文化基金會，為政府捐助之財團法人。依「財團法人依法決算須送臺南市議會之決算編製注意事項」規定，將該會111年度決算送請議會審議。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"111年度決算書業經財團法人台南市文化基金會於112年4月10日召開第13屆第4次董監事會議審核通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府112年5月2日第592次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "2023\/06\/28",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2023\/07\/07",
+    "SendNumber": "南議建設字第 1120005548號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=41a3d1f8-b221-4bd9-a334-0020d3edd14e",
+            "FileName": "市提11附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=00706adf-c645-4f03-b64d-5531162f94e6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/05\/29",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2023\/06\/07",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "8",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/07\/12",
+    "ComeNumber": "府民自字第 1110889961 號",
+    "OrgTitle": "臺南市政府民政局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部110年度核定「臺南市仁德區大甲里活動中心新建工程」1案，因近期物價波動，擬增加經費新臺幣（下同）800萬元，總工程經費調整為3,771萬3,000元，為爭取時效，謹請貴會同意增加墊付111年度100萬元（市配合款），俾憑辦理後續相關作業事宜，俟112年度追加減預算辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部110年3月18日台內民字第1100221561號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合各機關單位預算執行要點第44點第4款規定經上級政府核定之補助款,所使用之支出」及第6款規定「配合上级或同級政府施政需要而核定必須分擔且須及時使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案原總工程經費2,971萬3,000元，因近期營建物價不斷攀升，經公所委託之建築師重新評估後，建議挹注經費800萬元，總工程經費調整為3,771萬3,000元，規劃設計監造費230萬7,692元，建造費用3,461萬8,833元，採一次性發包，分年編列預算辦理，並考量後續工程進度及付款期程，於111年度增加墊付100萬元（市配合款），113年編列700萬元（市配合款），因未及納入本府111年度總預算，謹請貴會同意先行墊付，俟112年度追加減預算辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年7月12日第550次市政會議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度追加減預算辦理轉正。\"}]",
+    "CheckDate": "2022\/08\/22",
+    "CheckDesc": "聯席審查意見：\r\n一、同意墊付。\r\n二、蔡育輝議員及許又仁議員保留大會發言權。",
+    "DoneDate": "2022\/08\/30",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2022\/08\/31",
+    "SendNumber": "南議 民教字第 1110009929號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=dcc14427-215c-4f3b-b3b2-1f09bcafb99c",
+            "FileName": "民教8(民政局)-附件(核定函及計畫書).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e6f98427-c95a-4eec-b982-701eb6bdcf4a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/07\/20",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "2022\/07\/28",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

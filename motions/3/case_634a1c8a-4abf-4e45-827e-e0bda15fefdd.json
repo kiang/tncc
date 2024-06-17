@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "14",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2021\/09\/29",
+    "ComeNumber": "府文秘字第1101168226號",
+    "OrgTitle": "臺南市政府文化局所屬臺南市立圖書館",
+    "OrgTitle2": "",
+    "CaseCause": "檢送財團法人臺南市孔廟文化基金會111年度預算書，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、附財團法人臺南市孔廟文化基金會預算書。\"},{\"tag\":\"p\",\"content\":\"二、本案業經財團法人臺南市孔廟文化基金會110年度第3屆第3次董監事聯席會議通過。\"},{\"tag\":\"p\",\"content\":\"三、本案業經本府110年9月28日第510次市政會議通過，送請貴會審議。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"審議通過後依規定辦理。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "聯席審查意見：照案通過。",
+    "DoneDate": "2022\/01\/14",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2022\/01\/21",
+    "SendNumber": "南議建設字第 1110000718號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=39c93619-7825-4707-a180-11d3beb43dae",
+            "FileName": "3-6定-市提14號案-台南孔廟文化基金會111年預算.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=634a1c8a-4abf-4e45-827e-e0bda15fefdd&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

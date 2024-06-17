@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "10",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/08\/15",
+    "ComeNumber": "府民自字第1111065993號",
+    "OrgTitle": "臺南市政府民政局",
+    "OrgTitle2": "",
+    "CaseCause": "台灣自來水股份有限公司第六區管理處核定補助「111年度南化區北寮里自來水公司工程專案補助路面劣損預拌混凝土維護改善計畫」，經費計新臺幣197萬2,200元，為爭取時效，謹請貴會同意先行墊付197萬3,000元整(全額中央補助)，俾憑辦理後續事宜，俟112年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據台灣自來水股份有限公司第六區管理處111年7月26日台水六操字第1110009851號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款規定：「經上級政府核定之補助款，所使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"自來水公司補助「111年度南化區北寮里自來水公司工程專案補助路面劣損預拌混凝土維護改善計畫書」，補助1,038立方公尺混凝土，核定經費197萬2,200元，因未及納入本府112年度總預算，為爭取時效，謹請貴會同意先行墊付197萬3,000元，俟112年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年8月9日第554次市政會議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/09\/27",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/10\/05",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/10\/07",
+    "SendNumber": "南議民教字第 1110011886號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=558512f7-5d48-4f31-ac39-b4019799383b",
+            "FileName": "民教10(民政局)-附件(核定函及計畫書)-遮蔽.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=90f36886-aef6-46d9-b49e-572a6ddf4d09&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/08\/23",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/08\/30",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

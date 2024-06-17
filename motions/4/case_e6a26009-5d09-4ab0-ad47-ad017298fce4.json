@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "146",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "Ingay Tali 穎艾達利、周奕齊、陳昆和、趙昆原",
+    "OrgTitle2": "陳怡珍、蔡育輝、李中岑、周麗津",
+    "CaseCause": "建請臺南市議會增購播放設備，俾便直播時同時顯示發言計時與手語翻譯欄位，以利議員發言或影像閱聽眾參酌知悉。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為議事直播錄影畫面配置事，本席前於第三屆第8次定期會提出民政教育第76號案，建請增設發言計時顯示欄位，俾便議員發言或影像閱聽眾參酌知悉。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"嗣獲議會以2022年10月12日南議民教字第1110011694號函覆，以「手語議事翻譯與發言倒數計時共用同一欄位(同一時間僅能顯現其中一項功能)。意即如於專案報告、總質詢等配置手語翻譯員場合時，則因現有設備配置，前述二者僅能擇一顯示，於議員發言或直播影音閱聽眾言仍未臻便利周全(如附圖1、2)。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"建請議會著即改善，以應各類會議議程所需。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2023\/06\/26",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/10",
+    "SendNumber": "南議民教字第 1120005832號",
+    "DoDesc": "本會已於113年度編列永華議事廳導播機等設備汰換案預算，將增設畫面配置於直播時同時顯示發言計時與手語翻譯欄位，可有效將輸出畫面呈現議員問政及民眾觀看之效能，提升議事品質。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=01b5eeb7-8f8b-4607-a488-d80a74797824",
+            "FileName": "議提附件-議事直播顯示手語翻譯與計時功能.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e6a26009-5d09-4ab0-ad47-ad017298fce4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/07\/10",
+    "ExecuteReNumber": "南議資文字第 1120006188號",
+    "ExecuteReMemo": "本會已於113年度編列永華議事廳導播機等設備汰換案預算，將增設畫面配置於直播時同時顯示發言計時與手語翻譯欄位，可有效將輸出畫面呈現議員問政及民眾觀看之效能，提升議事品質。",
+    "ErrorMessage": ""
+}

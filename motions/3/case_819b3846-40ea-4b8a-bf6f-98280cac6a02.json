@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "121",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "Ingay Tali穎艾達利",
+    "OrgTitle2": "陳怡珍、蔡育輝、林易瑩、周奕齊、周麗津、洪玉鳳、李中岑、蔡淑惠、李宗翰、邱莉莉",
+    "CaseCause": "建請臺南市政府改善實價登錄資料集釋出資料方式與格式。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、臺南市政府地政局釋出之臺南市不動產實價登錄資料，現以每月劃分資料集（如圖一，即10月為1資料集、11月為1資料集以此類推），惟資料集性質相同，應作同一資料集。\"},{\"tag\":\"p\",\"content\":\"二、又現每一資料集當中又每10日劃分為一檔案（如圖二），且資料的編碼時為UTF-8，時為Big-5，不利批次處理。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"將資料集相同內容性質之檔案合併為一資料集。\"}]",
+    "CheckDate": "2021\/11\/25",
+    "CheckDesc": "函送市府研議。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/12\/07",
+    "SendNumber": "南議工務字第 1100011945號",
+    "DoDesc": "本案經市府110年12月16日府地價字第1101498223號函復：\r\n一、為提供多數人使用之便利性，地政局針對實價登錄資料集提供之類別及週期建議，已將調整為(買賣、預售、租賃)等3大類別資料集(詳:  圖一)，並將相同性質之檔案合併為以年份為單位之下載檔(自實價登錄實施年份101年起迄最新公告之歷年資料檔)(詳:圖二)，以利使用人下載使用。 \r\n二、為利使用者批次處理相關資料，已重新統一修正為(UTF-8)編碼格且為CSV 可相容之檔案格式(詳:圖三)。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ec1f54fc-f538-4066-a6ef-ad53a53234f5",
+            "FileName": "議提121附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0026a48a-eec3-4243-b402-8e668e207c29",
+            "FileName": "議提121回覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=819b3846-40ea-4b8a-bf6f-98280cac6a02&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年12月16日府地價字第1101498223號函復：\r\n一、為提供多數人使用之便利性，地政局針對實價登錄資料集提供之類別及週期建議，已將調整為(買賣、預售、租賃)等3大類別資料集(詳:  圖一)，並將相同性質之檔案合併為以年份為單位之下載檔(自實價登錄實施年份101年起迄最新公告之歷年資料檔)(詳:圖二)，以利使用人下載使用。 \r\n二、為利使用者批次處理相關資料，已重新統一修正為(UTF-8)編碼格且為CSV 可相容之檔案格式(詳:圖三)。",
+    "ErrorMessage": ""
+}

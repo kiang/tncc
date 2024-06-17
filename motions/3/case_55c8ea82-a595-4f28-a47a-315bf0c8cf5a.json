@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/06\/28",
+    "ComeNumber": "府警交字第1110842694號",
+    "OrgTitle": "臺南市政府警察局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部核定補助本府「協助地方政府建置交通科技執法設備經費需求計畫書」計畫經費新臺幣(以下同)2,263萬4,000元(全部補助款)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部警政署111年5月20日警署交字第1110103785號函。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款之規定「經上級政府核定之補助款所使用之支出。」等相關規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費2,263萬4,000元，因未及納入本府警察局111年度總預算，擬請准予辦理先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年6月14日第546次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/08\/22",
+    "CheckDesc": "聯席審查意見：\r\n一、同意墊付。\r\n二、附帶條件：本案科技執法路口建請加裝LED警示燈。",
+    "DoneDate": "2022\/08\/30",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2022\/09\/02",
+    "SendNumber": "南議保安字第 1110009986號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6c913824-10f0-43d2-b39c-d3a8440caac9",
+            "FileName": "內政部警政署111年5月20日警署交字第1110103785號函.PDF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=830b7dbb-2bad-4d40-b913-2155ac0d0380",
+            "FileName": "7處科技執法設置地點.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=55c8ea82-a595-4f28-a47a-315bf0c8cf5a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/07\/20",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2022\/07\/28",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

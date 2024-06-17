@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "41",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王宣貿",
+    "OrgTitle2": "余柷青、郭鴻儀、沈震東",
+    "CaseCause": "建請市府改善新進國小校內多處地磚不平整，避免學生發生跌倒情形。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"新進國小校內地磚多處不平整，恐造成學生行走安全，建請市政府盡速編列預算改善。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"如附件所說明。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2023\/11\/28",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/12\/06",
+    "SendNumber": "南議民教字第 1120011833號",
+    "DoDesc": "本府就「新進國小校內地磚多處不平整，恐造成學生行走安全，建請市政府盡速編列預算改善」案，敬答覆如下：\r\n一、有關建請改善本市新營區新進國小校內地磚鋪面事宜，本府教育局已督請該校針對具安全疑慮之通行鋪面周邊先行放置警示標誌，以維校園師生民眾通行安全。\r\n二、承上，學校刻正邀請專家入校協助評估改善方案及經費需求，將儘速擬具充實設施設備計畫及相關文件送本府教育局，本府教育局將視個案實際需求予以協助，或轉請教育部國民及學前教育署爭取設施設備經費補助。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e5ceaa1b-b5a5-4046-80d3-2003bbe411a3",
+            "FileName": "定4-2議提附件-教育局-新進國小內地磚不平整.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c9dca684-0a75-4e79-ae36-7ad52ee44c6b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/12\/11",
+    "ExecuteReNumber": "府教永字第 1121630666號",
+    "ExecuteReMemo": "本府就「新進國小校內地磚多處不平整，恐造成學生行走安全，建請市政府盡速編列預算改善」案，敬答覆如下：\r\n一、有關建請改善本市新營區新進國小校內地磚鋪面事宜，本府教育局已督請該校針對具安全疑慮之通行鋪面周邊先行放置警示標誌，以維校園師生民眾通行安全。\r\n二、承上，學校刻正邀請專家入校協助評估改善方案及經費需求，將儘速擬具充實設施設備計畫及相關文件送本府教育局，本府教育局將視個案實際需求予以協助，或轉請教育部國民及學前教育署爭取設施設備經費補助。",
+    "ErrorMessage": ""
+}

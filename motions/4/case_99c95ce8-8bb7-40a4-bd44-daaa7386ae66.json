@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "260",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳秋宏",
+    "OrgTitle2": "林志展、周嘉韋、蔡蘇秋金、謝舒凡、邱昭勝、蔡麗青、沈家鳳、蔡筱薇",
+    "CaseCause": "請改善麻豆區巷口里和平路1-29號前巷道路面。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"路面老舊，凹凸不平，急需改善，以保障用路人安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/06\/30",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/10",
+    "SendNumber": "南議工務字第 1120005915號",
+    "DoDesc": "本府就「請改善麻豆區巷口里和平路1-29號前巷道路面」案，敬答覆如下：\r\n本案112年2月3日偕同陳秋宏議員、區公所及港口里長前往現場勘查，會勘結果為現場路面年久失修，已有損壞及龜裂破損情形，依實際需求改善路段共2段，1段為長度約30M，寬度約5.5M，面積約165M^2，另1段為長度約45M，寬度約5M，面積約225M^2，總計面積為390M^2，瀝青混凝土需約45噸(390M^2*0.05M*2.3T\/M^3)，概估所需經費約19萬5,000元，由本府工務局112年度溪北路面刨鋪工程開口契約派工辦理，預計112年10月底前改善完成，以維用路人安全。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3d43765c-afdc-41dc-a826-925d106175b4",
+            "FileName": "4-1定工務議提260附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=99c95ce8-8bb7-40a4-bd44-daaa7386ae66&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/08\/04",
+    "ExecuteReNumber": "府工務二字第 1120964602號",
+    "ExecuteReMemo": "本府就「請改善麻豆區巷口里和平路1-29號前巷道路面」案，敬答覆如下：\r\n本案112年2月3日偕同陳秋宏議員、區公所及港口里長前往現場勘查，會勘結果為現場路面年久失修，已有損壞及龜裂破損情形，依實際需求改善路段共2段，1段為長度約30M，寬度約5.5M，面積約165M^2，另1段為長度約45M，寬度約5M，面積約225M^2，總計面積為390M^2，瀝青混凝土需約45噸(390M^2*0.05M*2.3T\/M^3)，概估所需經費約19萬5,000元，由本府工務局112年度溪北路面刨鋪工程開口契約派工辦理，預計112年10月底前改善完成，以維用路人安全。",
+    "ErrorMessage": ""
+}

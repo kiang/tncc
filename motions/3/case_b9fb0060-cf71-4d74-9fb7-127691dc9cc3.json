@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "3",
+    "KidTitle": "查照\/備查案-法規查照案",
+    "ComeDate": "2021\/09\/01",
+    "ComeNumber": "府文永字第1101038345號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市歸仁文化中心場地使用管理辦法」。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依「地方制度法」第27條第3項及「地方自治法規報院核定或備查之統一處理程序」第5點規定辦理。\"},{\"tag\":\"p\",\"content\":\"二、旨揭辦法上經本府於110年8月26日以府法規字第1100982526A號令修正發布。\"},{\"tag\":\"p\",\"content\":\"三、檢送「本自治規則修正總說明、修正條文對照表、修正條文」、「發布令」及「直轄市自治法規報院資料檢核表」各1份。\"}]",
+    "Method": "[]",
+    "CheckDate": "2021\/11\/24",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2021\/12\/06",
+    "SendNumber": "南議法規字第 1100012250號",
+    "DoDesc": "已於110年8月26日修正施行。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=93f90da9-74ad-4448-a467-60f3ef3a1ae3",
+            "FileName": "修正「臺南市歸仁文化中心場地使用管理辦法」。.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b9fb0060-cf71-4d74-9fb7-127691dc9cc3&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "交付教育委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "已於110年8月26日修正施行。",
+    "ErrorMessage": ""
+}

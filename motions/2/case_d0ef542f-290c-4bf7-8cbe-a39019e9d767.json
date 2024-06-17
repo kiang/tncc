@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第10次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "3",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王峻潭",
+    "OrgTitle2": "王錦德、陳金鐘",
+    "CaseCause": "建請市府於本年度改善楠西區東勢里信義路旁排水工程。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、經當地里長及居民反映，每逢汛期排水渠道因洩水坡降不足，致土砂無法順利排出而造成淤積現象易發生淹水，且積水易滋生蚊蟲問題。\"},{\"tag\":\"p\",\"content\":\"二、楠西區公所歷年清淤作業效果有限，需行排水渠底改善，以維公益，建請市府水利局儘速辦理。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2017\/08\/21",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2017\/08\/28",
+    "SendNumber": "南議工務字第 1060006056號",
+    "DoDesc": "本案經市府106年10月20日府水養字第1061080513號函復：\r\n(詳如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7f286b42-28bb-4a32-923c-2733e8a41f54",
+            "FileName": "2-10臨議提3號案書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d0ef542f-290c-4bf7-8cbe-a39019e9d767&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2017\/08\/03",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府106年10月20日府水養字第1061080513號函復：\r\n(詳如夾檔)",
+    "ErrorMessage": ""
+}

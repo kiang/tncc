@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "10",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/10\/12",
+    "ComeNumber": "府原綜字第1121311262號",
+    "OrgTitle": "臺南市政府原住民族事務委員會",
+    "OrgTitle2": "",
+    "CaseCause": "原住民族委員會核定本府「112年度補助經濟弱勢原住民建購住宅計畫」增撥經費新臺幣177萬元整(中央補助款141萬5,000元、市配合款35萬5,000元)，未及納入113年度總預算案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，並俟113年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依原住民族委員會112年9月7日原民建字第11200456246號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款「經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」規定及第45點第2款等規定辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費176萬9,400元整(中央補助款141萬4,580元、市配合款35萬4,820元)，因應預算編列進位至千元，共計177萬元整(中央補助款141萬5,000元、市配合款35萬5,000元)，未及納入113年度總預算案，擬辦理墊付，俟113年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年9月26日第613次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案經費係補助本市112年度經濟弱勢原住民建購住宅核定者，須於年度完成辦理核撥，故於本會期提出墊付案申請，以利向中央核結請領補助款。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2023\/10\/27",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2023\/10\/31",
+    "SendNumber": "南議民教字第 1120009838號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=93cfdda9-7f51-4814-a5f9-755f8770b122",
+            "FileName": "民教10(原民會)--附件(核定函及計畫等).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=aeba2308-8a04-47ef-aff0-b75938746b0e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/10\/19",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

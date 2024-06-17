@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "9",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2012\/02\/01",
+    "ComeNumber": "府民自字第1010060862號",
+    "OrgTitle": "臺南市政府環境保護局",
+    "OrgTitle2": "",
+    "CaseCause": "擬制定「臺南市處理廢棄車輛自治條例」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據本府100年1月10日府法制字第1000007675號函發「臺南市政府及所屬各機關自治法規新訂及整併作業計畫」辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為有效清除處理廢棄車輛（含動力機械及貨櫃），改善環境衛生，維護市容觀瞻及道路暢通，特制定「臺南市處理廢棄車輛自治條例」，據以執行。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本自治條例業經本府100年11月23日第44次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請惠予審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/06\/22",
+    "SendNumber": "南議法規字第 1010010740號",
+    "DoDesc": "本自治條例於101年7月9日以府法規1010577002A號令發布。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=15cbd496-fb81-4058-b8bc-b797f83f1417",
+            "FileName": "臺南市處理廢棄車輛自治條例草案(總說明、逐條說明、草案條文).doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4372549e-9c7f-484a-8bdc-608e55b80a84&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本自治條例於101年7月9日以府法規1010577002A號令發布。",
+    "ErrorMessage": ""
+}

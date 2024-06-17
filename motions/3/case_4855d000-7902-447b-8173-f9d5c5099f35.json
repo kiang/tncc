@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "107",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡旺詮",
+    "OrgTitle2": "許又仁、林志聰、邱莉莉、曾培雅、李偉智、蔡筱薇",
+    "CaseCause": "請水利局評估文忠調節池附近是否需進一步增設額外之調節池，以因應嚴重水患。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"台南市東區及仁德區周邊的東門路、自由路一帶，因地勢較低，每逢短時強降雨即容易積淹水。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"東區文忠公園新建2座地下調節池截流，完工後最高滯洪量可達6425立方公尺。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"文忠調節池提升當地保護水準約72%，但若遇大型水患，未來仍可能會有部分積淹水情形。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"請水利局評估該滯洪池，若遇強降雨、颱風或大型水患時，是否能有效改善淹水情形。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"並分析是否有需要進一步在附近增設額外滯洪池，以因應洪患。\",\"children\":[]}]}]",
+    "CheckDate": "2022\/09\/29",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/10\/05",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/10\/13",
+    "SendNumber": "南議工務字第 1110012212號",
+    "DoDesc": "本府就「請水利局評估文忠調節池附近是否需一步增設額外之調節池，以因應嚴重水惠」案，敬答覆如下：\r\n―、本市東區文忠調節池設計，係依雨水下水道重新檢討規劃報告，採用雨水下水道設計標準，以五年重現期距、90分鐘設計降雨進行規劃設計，五年重現期距時雨量為89.2mm\/hr，而案場過去致災雨場監測資料，時雨量最大分別為2019年0813暴雨之79mm\/hr，以及2018年0823暴雨之65 mm\/hr，顯示文忠調節池設計，可達現階段之防洪標準，且工程完成後，可有效舒緩東區東門路及自由路口積淹水問題。\r\n二、為因應極端氣候的降雨型態，本府水利局將隨時檢視該區域的排水功能，避免積淹水問題發生。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6608f292-1f14-439f-b805-48f619fe6ef7",
+            "FileName": "23232_1388238A00_ATTCH2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4855d000-7902-447b-8173-f9d5c5099f35&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/11\/02",
+    "ExecuteReNumber": "府水雨字第 1111388238號",
+    "ExecuteReMemo": "本府就「請水利局評估文忠調節池附近是否需一步增設額外之調節池，以因應嚴重水惠」案，敬答覆如下：\r\n―、本市東區文忠調節池設計，係依雨水下水道重新檢討規劃報告，採用雨水下水道設計標準，以五年重現期距、90分鐘設計降雨進行規劃設計，五年重現期距時雨量為89.2mm\/hr，而案場過去致災雨場監測資料，時雨量最大分別為2019年0813暴雨之79mm\/hr，以及2018年0823暴雨之65 mm\/hr，顯示文忠調節池設計，可達現階段之防洪標準，且工程完成後，可有效舒緩東區東門路及自由路口積淹水問題。\r\n二、為因應極端氣候的降雨型態，本府水利局將隨時檢視該區域的排水功能，避免積淹水問題發生。",
+    "ErrorMessage": ""
+}

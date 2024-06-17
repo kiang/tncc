@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第15次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "13",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/12\/07",
+    "ComeNumber": "府環水字第1111585199號",
+    "OrgTitle": "臺南市政府環境保護局",
+    "OrgTitle2": "",
+    "CaseCause": "海洋委員會海洋保育署估列補助本市「112年海洋廢棄物治理計畫」新臺幣322萬4,000元整(海保署補助241萬8,000元、地方須負擔配合款計80萬6,000元)墊付事宜，為爭取時效，敬請貴會同意先行辦理墊付，俟112年度追加減預算時再予轉正，提請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據海洋委員會海洋保育署(以下稱海保署)111年8月31海保環字第11100087954號函、111年8月9日海保環字第11100080494號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款規定「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案海保署估列補助總經費為新臺幣322萬4,000元整(海保署補助241萬8,000元、地方須負擔配合款計80萬6,000元)，惟因中央估列補助計畫日期較晚，未及納入本局112年度預算，本案符合上開要點規定，擬先行辨理墊付，並俟112年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年11月22日第570次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[]},{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度追加減預算時辦理轉正。\"},{\"tag\":\"ol\",\"children\":[]}]",
+    "CheckDate": "2022\/12\/15",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/12\/22",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/12\/28",
+    "SendNumber": "南議環衛字第 1110021031號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f9340303-2113-4148-b60f-41b119564070",
+            "FileName": "海洋廢棄物治理計畫.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c8438a4a-17e8-4d8f-b1c1-3a5749d2357f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/12\/08",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/12\/14",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "11",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2021\/09\/29",
+    "ComeNumber": "府教體處競字第1101167851號",
+    "OrgTitle": "臺南市政府教育局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送財團法人台南市體育發展基金會109年度決算案，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、財團法人台南市體育發展基金會政府累計捐助新臺幣1,454萬6,032元，捐助金額超過財產總額50%。\"},{\"tag\":\"p\",\"content\":\"二、預算書業於109年9月7日經該基金會110年第7屆第1次董監事會議通過。\"},{\"tag\":\"p\",\"content\":\"三、本案業經本府110年9月28日第510次市政會議審議通過。\"},{\"tag\":\"p\",\"content\":\"四、檢附財團法人台南市體育發展基金會109年決算書1份。\"},{\"tag\":\"p\",\"content\":\"五、依決算法第22條第2項規定，送請市議會審議。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審議。\"}]",
+    "CheckDate": "2021\/11\/16",
+    "CheckDesc": "聯席審查意見：照案通過。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2021\/12\/08",
+    "SendNumber": "南議教育字第 1100012136號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=286cda41-c261-4b5e-9288-a62f0ba22b26",
+            "FileName": "3-6定-109年體育發展基金決算.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=722993b0-f7e8-420f-9d31-efaf52be3da6",
+            "FileName": "3-6定---1116一般提案審查意見報告書.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=87265ead-3498-4d23-b400-81e3f21afcd4",
+            "FileName": "3-6定-1116第2次市提--聯席審查會議紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1492ab7a-bb65-4734-90c9-9168f22acf2b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 臨時會",
+    "PTypTitle": "建設",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/02\/16",
+    "ComeNumber": "府文秘字第1130258957 號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "教育部核定補助本市113年補助公共圖書館多元閱讀推廣計畫—「113年臺南市公共圖書館多元閱讀推廣計畫」總經費618萬5,000元（中央補助款426萬8,000元、市配合款191萬7,000元），其中155萬8,000元（中央補助款99萬8,000元、市配合款56萬元）未及納入113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據教育部113年1月19日臺教社(四)字第1132400098M號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費618萬5,000元（中央補助款426萬8,000元、市配合款191萬7,000元），其中經費462萬7,758元（中央補助款327萬元、市配合款135萬7,758元）已匡列於113年度預算中，惟部分155萬8,000元（中央補助款99萬8,000元、市配合款56萬元），未及納入113年度總預算，為爭取時效，謹請貴會同意先行墊付，俟114年度總預算時轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年2月15日第633次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本計畫補助本市45個區圖辦理閱讀推廣活動，為讓每區、每月皆能定期辦理活動、吸引市民參與、進而提升全市整體借閱量，急需爭取時效、儘速執行，故於本會期提出墊付案審查。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2024\/03\/08",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2024\/03\/15",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=075ba711-ba12-4414-931a-45115cbe7f70",
+            "FileName": "市提5附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=cb575b3e-a6ed-4a1d-9e9b-65f4d1c25574&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/02\/23",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2023\/09\/28",
+    "ComeNumber": "府文秘字第1121266178 號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本市「財團法人台南市文化基金會113年度預算書」敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"財團法人台南市文化基金會，為政府捐助之財團法人。依預算法第41條第4項規定，將該會113年度預算送請議會審議。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"113年度預算書業經財團法人台南市文化基金會於112年8月11日召開第13屆第5次董監事會議審核通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府112年9月19日第612次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "2023\/12\/18",
+    "CheckDesc": "聯席審查意見：照案通過",
+    "DoneDate": "2023\/12\/21",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4e235b79-8c56-41ee-b475-f8fac5448d21",
+            "FileName": "市提3附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=cd1a70ef-6d40-4d6b-bd28-19e11dbb2e2c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/10\/19",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2023\/10\/27",
+    "FirstDesc": "交付聯席審查，併同列入113年度總預算案聯審議程。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

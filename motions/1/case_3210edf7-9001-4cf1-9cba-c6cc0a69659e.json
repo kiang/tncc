@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "24",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2012\/03\/29",
+    "ComeNumber": "府環空字第1010222042號",
+    "OrgTitle": "臺南市政府環境保護局",
+    "OrgTitle2": "",
+    "CaseCause": "制定「臺南市反怠速自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為養成市民停車後立即熄火之習慣，避免車輛長時間怠速排放廢氣造成空氣污染，行政院環境保護署於101年2月16日發布「機動車輛停車怠速管理辦法」及「機動車輛違反停車怠速罰鍰標準」。為配合中央法規，並加強管制特定區域之機動車輛怠速行為及規範本市反怠速告示牌之設置，特制定「臺南市反怠速自治條例」，以維護市民健康、改善空氣品質。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本自治條例業經本府101年3月22日第60次市政會議審議通過在案，送請貴會審議。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審議，俟完成法定程序後，依規定公佈施行。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/06\/22",
+    "SendNumber": "南議法規字第 1010010740號",
+    "DoDesc": "1.行政院於101年8月16日函復，請本府依相關部會意見再行研議。\r\n2.行政院環保署近期內將修正「機動車輛停車怠速管理辦法」，俟修正辦法訂定後，再參酌相關部會意見修正本自治條例。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a6ce632a-ebc5-4028-abf0-145090942a66",
+            "FileName": "臺南市反怠速自治條例(總說明、逐條說明、草案條文).doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3210edf7-9001-4cf1-9cba-c6cc0a69659e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "1.行政院於101年8月16日函復，請本府依相關部會意見再行研議。\r\n2.行政院環保署近期內將修正「機動車輛停車怠速管理辦法」，俟修正辦法訂定後，再參酌相關部會意見修正本自治條例。\r\n",
+    "ErrorMessage": ""
+}

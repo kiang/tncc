@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第3屆 第12次 臨時會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2022\/02\/17",
+    "ComeNumber": "府人企字第1110250695號",
+    "OrgTitle": "臺南市政府人事處",
+    "OrgTitle2": "",
+    "CaseCause": "人事處擬具「臺南市政府組織自治條例」第十一條、第二十條修正草案，提請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為應業務需要，裁撤本府二級機關本市體育處，成立一級機關體育局，爰擬具「臺南市政府組織自治條例」第十一條、第二十條修正草案，並自111年7月1日生效。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府111年2月15日第529次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市政府組織自治條例」第十一條、第二十條修正草案（含總說明及修正對照表）1份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "2022\/03\/15",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/03\/25",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/03\/31",
+    "SendNumber": "南議法規字第 1110002725號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1aea1fa1-07f0-4655-a527-341614269e89",
+            "FileName": "3-12臨法規市提1-「臺南市政府組織自治條例」第十一條、第二十條修正草案(含總說明、逐條說明、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1b03bd73-046f-40e1-8516-4f419ee69582&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=11916ee1-41b8-432f-be6e-7eb0420f346f",
+            "FileName": "3-12臨法規市提1-審查結果對照表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [],
+    "ReDate": "2022\/03\/01",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/03\/09",
+    "FirstDesc": "交付法規委員會審查。",
+    "SecondDate": "2022\/03\/25",
+    "SecondDesc": "照審查意見通過。",
+    "ThirdDate": "2022\/03\/25",
+    "ThirdDesc": "照二讀會決議通過。",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

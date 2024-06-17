@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第12次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "3",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝、趙昆原、陳昆和、曾培雅",
+    "OrgTitle2": "吳禹寰、蔡淑惠、許至椿、陳怡珍、周麗津、周奕齊、Ingay Tali穎艾達利、李中岑",
+    "CaseCause": "建請臺南市政府修正提高社團活動誤餐費金額，將現行補助標準每人80元調高5~10元，以因應物價飛漲，符合基層實際所需。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依臺南市民陳情意見辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"國際各項原物料飆漲，加上基本工資調高等影響，便當、各類餐盒小吃無不調高售價，尤其111年以來，各家便當餐盒均漲5至10元以上，讓消費者叫苦不迭。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"市內各類型社團幾乎都有經費困窘的情況，每年重要活動皆賴市府補助挹注，其中餐費常占活動支出極大比率，惟由市府現行補助規定，每人僅能支出最高80元餐費，以目前物價俱漲情形顯有不足，宜因應物價現況略做調整提高，以符合補助社團活動美意。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/03\/17",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/03\/25",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/04\/06",
+    "SendNumber": "南議環衛字第 1110002519號",
+    "DoDesc": "一、依據臺南市政府社會局推展社會福利服務補助經費申請補助項目及基準，補助社區發展協會以推動福利服務活動或社會福利宣導活動為主，惟聯歡、聯誼、協會週年慶等活動不予補助。現行餐費補助規定：「餐費」上限為每人80元。\r\n二、社會局將依據「111年臺南市預算共同性費用編列基準」補助規定以 80 元為原則，超過視個案簽陳機關首長核准。\r\n三、貴會議席關心市政熱忱，本府併予致謝。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0707059a-9fd8-42ee-a02f-ad56f5cfa377",
+            "FileName": "3屆12次臨時會議提3號回覆公文.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8295a07f-b4ab-4045-8647-1ffa29d29588",
+            "FileName": "3屆12次臨時會議提3號回覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8f6b2a91-bcb4-4ebc-91a2-e7835431739e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/03\/09",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/04\/28",
+    "ExecuteReNumber": "府社團字第 1110514308號",
+    "ExecuteReMemo": "一、依據臺南市政府社會局推展社會福利服務補助經費申請補助項目及基準，補助社區發展協會以推動福利服務活動或社會福利宣導活動為主，惟聯歡、聯誼、協會週年慶等活動不予補助。現行餐費補助規定：「餐費」上限為每人80元。\r\n二、社會局將依據「111年臺南市預算共同性費用編列基準」補助規定以 80 元為原則，超過視個案簽陳機關首長核准。\r\n三、貴會議席關心市政熱忱，本府併予致謝。",
+    "ErrorMessage": ""
+}

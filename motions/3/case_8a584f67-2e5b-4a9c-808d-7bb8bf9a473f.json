@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "21",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/09\/29",
+    "ComeNumber": "府農動字第1111281376號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院核定本府111年度「建構寵物管理行政體系」計畫案，總經費135萬3,000元整(中央補助120萬元；市配合款15萬3,000元)，因未及納入112年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院111年9月19日院授主預國字第1110103068號暨行政院農業委員會111月9月22日農牧字第1110242358號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款，所使用之支出及配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"所需總經費新臺幣135萬3,000元整(中央補助120萬元；市配合款15萬3,000元)，因未及納入112年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要工作內容為因應行政院農業委員會畜牧處寵物管理科成立，辦理寵物產業管理之相關業務。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府111年9月27日第562次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2022\/10\/05",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2022\/10\/12",
+    "SendNumber": "南議財經字第 1110011965號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=acc053de-19e2-47dc-91f7-9d08279d3d9f",
+            "FileName": "21-1核定函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5fd7a64a-a6a6-4500-9b56-dca13d05546f",
+            "FileName": "21-2計畫說明.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8a584f67-2e5b-4a9c-808d-7bb8bf9a473f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

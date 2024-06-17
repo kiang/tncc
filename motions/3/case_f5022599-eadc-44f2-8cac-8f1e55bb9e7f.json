@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "民政",
+    "CaseNumber": "71",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡旺詮",
+    "OrgTitle2": "鄭佳欣、周麗津、林志聰、蔡育輝、李偉智、陳秋萍",
+    "CaseCause": "建請市府重視MyData資料平台之個資安全與推廣。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、歷年來都有專門詐騙長者的不肖人士，甚至也有極少數是自己的血親詐財的案例。MyData平台無差別對民眾開放，讓代辦更加方便，這些詐騙集團是否會利用代辦漏洞，或者長者不熟悉網路系統操作的問題，發展出新型的詐騙，請相關單位研議防堵措施。\"},{\"tag\":\"p\",\"content\":\"二、MyData資料平台使用率不如預期，也請相關單位設計鼓勵政策，促使民眾多加利用。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"一、將MyData平台的服務分類，並縝密規範，區分代辦授權的層級，某些涉及大量金額的服務，必須本人親至，方可辦理或授權。\"},{\"tag\":\"p\",\"content\":\"二、嘉義縣政府祭出5萬元的禮券獎勵，來鼓勵使用者使用MyData資料平台，市府也應設計相關鼓勵措施，以利推廣。\"},{\"tag\":\"p\",\"content\":\"三、E化資料平台整合，乃未來之趨勢，若中央補助經費不足建置平台使用，可考慮研議由市府經費支出。\"}]",
+    "CheckDate": "2021\/11\/24",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/12\/07",
+    "SendNumber": "南議民政字第 1100012285號",
+    "DoDesc": "收文字號：110年12月10日1100012790號\r\n依據臺南市政府110年12月10日府研智字第1101495832號函復：\r\n本府就「（案由）建請市府重視 My Data 資料平台之個資安全與推廣」決議案，敬答覆如下：\r\n一、國發會 MyData 平台，係按機敏程度由本人進行單次身分驗證(參見附件， MyData 平臺身分驗證簡介)及線上同意方能取得政府所保存個人資料。\r\n二、MyData 平台代辦服務程序，國發會刻正研擬中，本府將依循為作業流程範本，目前則積極擴增臨櫃輔助功能，以協助長者業務申辦。\r\n三、擬於111年度參採該推廣措施，規劃與業務機關合作辦理相關推廣措施。 \r\n四、本案中央經費補助以 MyData 服務相關為限，其不足處將與各業務機關合作推動 E 化服務擴增，持續發展一站式整合服務，帶給市民更多的便利。(後附附件MyData 平臺身分驗證簡介)\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=03242dc0-ed41-4550-9302-d57b95a5eb67",
+            "FileName": "MyData 平臺身分驗證簡介.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f5022599-eadc-44f2-8cac-8f1e55bb9e7f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "收文字號：110年12月10日1100012790號\r\n依據臺南市政府110年12月10日府研智字第1101495832號函復：\r\n本府就「（案由）建請市府重視 My Data 資料平台之個資安全與推廣」決議案，敬答覆如下：\r\n一、國發會 MyData 平台，係按機敏程度由本人進行單次身分驗證(參見附件， MyData 平臺身分驗證簡介)及線上同意方能取得政府所保存個人資料。\r\n二、MyData 平台代辦服務程序，國發會刻正研擬中，本府將依循為作業流程範本，目前則積極擴增臨櫃輔助功能，以協助長者業務申辦。\r\n三、擬於111年度參採該推廣措施，規劃與業務機關合作辦理相關推廣措施。 \r\n四、本案中央經費補助以 MyData 服務相關為限，其不足處將與各業務機關合作推動 E 化服務擴增，持續發展一站式整合服務，帶給市民更多的便利。(後附附件MyData 平臺身分驗證簡介)\r\n",
+    "ErrorMessage": ""
+}

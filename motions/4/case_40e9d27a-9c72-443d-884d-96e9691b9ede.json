@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/11\/27",
+    "ComeNumber": " 府衛心字第1121520984號",
+    "OrgTitle": "臺南市政府衛生局",
+    "OrgTitle2": "",
+    "CaseCause": "衛生福利部公益彩券回饋金113年度補助本市社團法人中華民國耶底底亞家庭關顧協會辦理「跳脫綑綁之路-家庭暴力相對人庭前預防性服務方案」一案總經費新臺幣103萬6,000元整(中央補助93萬2,000元整、市配合款10萬4,000元整)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，於113年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據衛生福利部112年10月16日衛部心字第1121763161號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款、第6款：經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案113年度總經費新臺幣103萬6,000元整(中央補助93萬2,000元整、市配合款10萬4,000元整)，因未及納入本府113年度總預算，請准予先行墊付，俟113年追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年11月21日第621次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：因此經費113年初急需使用，因未及納入113年度總預算，且考量本方案主以服務家暴相對人，透過庭前教育課程，增加相對人參與出庭及相關法律流程的動力，進而改善家庭關係。經費為該方案人事及相關行政費用，為確保服務品質達社會安全目標，故提出申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/12\/13",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/12\/21",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/12\/27",
+    "SendNumber": "南議環衛字第 1120012919號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8809079a-bbca-43ec-9cdc-9f3a25c16f3d",
+            "FileName": "(4-4臨環衛2號案)附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=40e9d27a-9c72-443d-884d-96e9691b9ede&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/12\/04",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/12\/12",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

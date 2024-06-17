@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "129",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "黃麗招",
+    "OrgTitle2": "郭鴻儀、邱莉莉、楊中成",
+    "CaseCause": "建請臺南市政府儘速改善安南區郡安路六段111巷37弄至40弄內紅磚步道，以確保民眾通行便利及安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"安南區郡安路六段111巷37弄至40弄內之紅磚步道因年久失修，步道紅磚已有脫落現象（如附件），造成民眾交通不便，亦危及通行安全，建請臺南市政府儘速辦理改善工程，確保民眾之通行便利及安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/11\/26",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/12\/09",
+    "SendNumber": "南議工務字第 1090011472號",
+    "DoDesc": "本案經市府110年1月29日府工養一字第1100148900號函復：\r\n本府工務局於110年1月20日邀集黃麗招議員、安南區公所、國安里辦公處、龍湶水資源股份有限公司現場勘查，經查該通路屬私設道路，通路上亦設有社區私有道路之車阻，現況仍僅供社區使用，本市安南區公所表示本路段查無養護紀錄，故請里長先行與社區管理委員會或土地所有權人溝通協調後，再行研議。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f9db54e1-19e2-43e7-95bb-260276776157",
+            "FileName": "議提129附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8b592611-11ea-4f8b-b15c-0cadfed90d42&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年1月29日府工養一字第1100148900號函復：\r\n本府工務局於110年1月20日邀集黃麗招議員、安南區公所、國安里辦公處、龍湶水資源股份有限公司現場勘查，經查該通路屬私設道路，通路上亦設有社區私有道路之車阻，現況仍僅供社區使用，本市安南區公所表示本路段查無養護紀錄，故請里長先行與社區管理委員會或土地所有權人溝通協調後，再行研議。",
+    "ErrorMessage": ""
+}

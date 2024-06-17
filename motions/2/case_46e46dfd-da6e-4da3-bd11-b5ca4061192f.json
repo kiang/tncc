@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "2",
+    "KidTitle": "議員提案-市法規案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝",
+    "OrgTitle2": "曾培雅、林美燕、許至椿、王家貞、張世賢、洪玉鳳、郭秀珠、盧崑福、蔡淑惠、杜素吟、林燕祝、蔡玉枝、蔡秋蘭、李中岑、李坤煌、謝龍介、林阳乙、林全忠、謝財旺",
+    "CaseCause": "增訂「臺南市興辦公共工程土地改良物補償自治條例」第三條之一條文，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"需用土地人進行各項公共工程興辦開發案，易導致開發區一定範圍外之土地或土地改良物價值受減損引起民怨(例如：路沖、變電設施、汙水廠、焚化爐或環境汙染等嫌惡設施)。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為使上開興辦公共工程用地一定範圍外之土地或土地改良物所有權人無法於一併徵收時獲得合理補償，爰增訂第三條之一條文。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附增訂「臺南市興辦公共工程土地改良物補償自治條例」第三條之一條文草案總說明、條文草案對照表、增訂後條文。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"經大會決議通過後，送市府公布施行。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "本案撤回。",
+    "DoneDate": "2016\/08\/23",
+    "DoneDesc": "照審查意見通過。（本案撤回）\r\n備註：係經第2屆第7次臨時會第2次會（105年8月23日）決議通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=76995d5a-3425-4354-bcfe-5e98553e0f08",
+            "FileName": "2-3定法規議提2號(增訂「臺南市興辦公共工程土地改良物補償自治條例」第三條之一條文條文草案總說明、對照表、條文草案).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=46e46dfd-da6e-4da3-bd11-b5ca4061192f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。（本案撤回）\r\n備註：係經第2屆第7次臨時會第2次會（105年8月23日）決議通過。",
+    "FirstDate": "2016\/04\/11",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

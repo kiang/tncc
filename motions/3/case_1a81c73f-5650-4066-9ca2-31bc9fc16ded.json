@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "民政",
+    "CaseNumber": "22",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/05\/12",
+    "ComeNumber": "府民自字第1100596329號",
+    "OrgTitle": "臺南市政府民政局",
+    "OrgTitle2": "",
+    "CaseCause": "有關內政部110年度補助辦理「公共服務據點整備及公有危險建築補強重建有關地方政府辦公廳舍、村（里）集會所（活動中心）耐震補強及整建計畫-中西區淺草里活動中心拆除重建工程」乙案，經費新臺幣101萬2,000元(市府配合款101萬2,000元)辦理墊付，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據內政部110年3月18日台內民字第1100221561號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、內政部核定本案總經費2,500萬元（中央補助400萬元，市府配合款2,100萬元）。採分年編列預算辦理，110年度101萬2,000元，111年度1,919萬1,000元(中央補助380萬元，市府配合款1,539萬1,000元)，112年度479萬7,000元(中央補助20萬元，市府配合款459萬7,000元)。\"},{\"tag\":\"p\",\"content\":\"四、上開總經費分3年採分年編列預算辦理，110年度因未及納入預算，為應時效，擬請准予提送市議會審議辦理墊付，俟111年度總預算再予轉正。\"},{\"tag\":\"p\",\"content\":\"五、本案原以民政第5號案提出在案，因議員尚有疑義，故經貴會於110年4月16日第3屆第5次定期會第1次會決議：「請市府提出說明，於本次會第3次程序委員會再行提案。」。\"},{\"tag\":\"p\",\"content\":\"六、本府於110年5月3日邀集當地相關單位針對中正里活動中心(淺草里活動中心)規劃方案，將地方意見納入未來結合地方發展朝多功能規劃設計。\"},{\"tag\":\"p\",\"content\":\"七、本案業經本府110年3月30日第484次市政會議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2021\/08\/03",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2021\/08\/06",
+    "SendNumber": "南議民政字第 1100005485號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7d4f388d-abf7-4552-96d5-5e60b0b223c9",
+            "FileName": "核定函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3a3d9124-316c-4ea8-92b3-b173a6dfee80",
+            "FileName": "會議紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1a81c73f-5650-4066-9ca2-31bc9fc16ded&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

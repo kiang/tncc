@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第9次 臨時會",
+    "PTypTitle": "會務",
+    "CaseNumber": "4",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "賴議長美惠",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市議會紀律委員會設置辦法」第二條、第五條草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依103年度政黨黨團協商第2次會議及本會法規委員會103年7月31日會議決議辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"檢附「臺南市議會紀律委員會設置辦法」第二條、第五條修正草案總說明、修正草案條文對照表、修正後條文草案。\",\"children\":[]}]},{\"tag\":\"p\",\"content\":\"------------------\"},{\"tag\":\"p\",\"content\":\"臺南市議會紀律委員會設置辦法第二條、第五條修正總說明\"},{\"tag\":\"p\",\"content\":\"依臺南市議會法規委員會103年7月31日會議決議，擔任本會各種委員會設置辦法第二條第一項第一款至第七款委員會之召集人，不得同時擔任紀律委員會及程序委員會委員。由於已涉及紀律委員會委員組成變更，另為使臺南市議會紀律委員會設置辦法（以下簡稱本辦法）條文符合法規體例爰一併修正本辦法第二條及第五條條文，修正要點如次：\"},{\"tag\":\"p\",\"content\":\"一、修正委員會委員組成（修正條文第二條第一項）\"},{\"tag\":\"p\",\"content\":\"二、為符法規體例，酌作文字修正，以資明確。（修正條文第五條第一項）\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會同意後報行政院備查，並函知市政府\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2014\/08\/13",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4aebc5e2-2ad3-4aff-93a2-b00677f72c44",
+            "FileName": "臺南市議會紀律委員會設置辦法第二條、第五條修正條文.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9e4b6c22-292f-4e09-bfec-8d08c4fa36f2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2014\/08\/04",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

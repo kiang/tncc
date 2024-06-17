@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第6次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "2",
+    "KidTitle": "議員提案-市法規案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝",
+    "OrgTitle2": "林阳乙、郭秀珠、李坤煌、王家貞、張世賢、曾順良、盧崑福、蔡玉枝、洪玉鳳、蔡淑惠、謝財旺、曾培雅",
+    "CaseCause": "修訂「臺南巿攤販管理自治條例」第六條、第十一條、第十二條文，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"民國100年縣市合併前，原台南縣、原台南市各自有設置已久之集合攤販，豐富了地方特色，更造就平民美食與養活許多庶民家庭，活絡社區生活，市府應就申請許可上給予更適切輔導並延長申請許可之要求。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"現行集合攤販設置地點，甚多有其歷史淵源暨時代背景，市府對於設置在私有土地(含現況道路的未徵收道路用地等)的集合攤販申請許可時，應提供權利證明文件：土地所有權證明文件；非土地所有權人，應取得同意使用土地相關證明文件。此規範時是強人所難，集合攤販如何去取得現有道路卻未獲得市府徵收的私有地主同意呢，在此不合宜規範未獲得充分輔導情況下，市府應予集合攤販延長辦理申請許可時間，並先期輔導申請許可，以充分照顧弱勢階層市民。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"臺南市攤販管理自治條例有修正之必要，爰擬具修訂本市攤販管理自治條例第第六條、第十一條、第十二條文修正草案。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"草案(含總說明及條文對照表、增訂後條文)如後附。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"經大會決議後，送巿府公布施行。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1bfa81e4-1d78-4be7-9358-127c659db71e",
+            "FileName": "2-6定議提2-臺南巿攤販管理自治條例修訂第六條、第十一條、第十二條文草案(總說明、對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=376351e2-921e-4334-bb54-2339a00b2a26&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "2017\/09\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第3屆 第5次 臨時會",
+    "PTypTitle": "教育",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2020\/06\/18",
+    "ComeNumber": "府主基字第1090728740號",
+    "OrgTitle": "臺南市政府教育局",
+    "OrgTitle2": "",
+    "CaseCause": "臺南市政府109年1月至109年6月特別收入基金補辦預算或先行辦理數額表1份，請備查。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"依據附屬單位預算執行要點第23點及第32點規定辦理。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/09\/04",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2020\/09\/09",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2020\/09\/16",
+    "SendNumber": "南議教育字第 1090008194號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=578840f4-ebd2-430b-9b13-a2a91744e701",
+            "FileName": "經費核定明細表.TIF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=db988341-1a23-4a73-bedf-bf6a9f669f0f",
+            "FileName": "市府公文2.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4ff26cc7-e743-42d5-8be2-be0e72190dc4",
+            "FileName": "特別基金補辦預算.xlsx",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0549d044-05f6-4543-af5f-a61afcc68661&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2020\/08\/25",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

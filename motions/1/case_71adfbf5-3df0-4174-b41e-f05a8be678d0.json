@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2012\/05\/11",
+    "ComeNumber": "府財產字第1010393834號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理出售本府經管坐落本市新營區民權段692地號等75筆非公用土地及新營區民權段459等17筆建號市有建物，茲依土地法第25條規定完成處分程序，提請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、坐落本市新營區民權段692地號等75筆市有土地及新營區民權段459等17筆建號市有建物，擬依臺南市市有財產管理自治條例第50條第1項第1款及第4款規定辦理標售。\"},{\"tag\":\"p\",\"content\":\"二、本案業經本府101年5月9日第65次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "佳里區佳里段1630-14、1630-15、1630-16地號、1630-21地號、1630-23地號等5筆土地保留不同意出售，日後再與鄰地一併提案標售，其餘照案通過。\r\n",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/06\/13",
+    "SendNumber": "南議財經字第 1010010580號",
+    "DoDesc": "1.民權段692地號等26筆土地，奉行政院101年7月30日院授內中字第1016037394號函核准。\r\n2竹篙厝段630-145等4筆土地，奉行政院101年8月10日院授內中字第1016037543號函核准。\r\n3.其中逾500坪32筆土地未獲行政院准。新化區7筆土地，為日式宿舍基地，故保留未送行政院審核，關廟區1筆土地因公用之需未送行政院審核。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1314e50e-0406-46e4-bdc7-9589babd3103",
+            "FileName": "第一屆第3次定期大會擬處分清冊（提案4）.xls",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=71adfbf5-3df0-4174-b41e-f05a8be678d0&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "1.民權段692地號等26筆土地，奉行政院101年7月30日院授內中字第1016037394號函核准。\r\n2竹篙厝段630-145等4筆土地，奉行政院101年8月10日院授內中字第1016037543號函核准。\r\n3.其中逾500坪32筆土地未獲行政院准。新化區7筆土地，為日式宿舍基地，故保留未送行政院審核，關廟區1筆土地因公用之需未送行政院審核。",
+    "ErrorMessage": ""
+}

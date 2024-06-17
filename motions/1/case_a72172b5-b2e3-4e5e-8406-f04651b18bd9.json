@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第5次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2013\/02\/25",
+    "ComeNumber": "府民自字第1020087714號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "制定「臺南市民間興辦社會住宅減徵地價稅自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"按100年12月30日公布之住宅法第20條規定：「民間興辦之社會住宅於興辦或營運期間，直轄市、縣（市）政府應課徵之地價稅，得予適當減徵。前項減徵之期限、範圍、基準及程序之自治條例，由直轄市、縣（市）主管機關定之，並報財政部備查。」為促進本市民間興辦社會住宅之意願，俾健全本市住宅市場並提升居住品質，爰依該授權制定本條例。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府101年12月26日第94次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市民間興辦社會住宅減徵地價稅自治條例草案」（含總說明及逐條說明）乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、照案通過\r\n二、附帶意見\r\n(一)於二讀會前，請都市發展局將整體住宅法所有法條及相關內容規定，彙送1份給法規委員會所有委員。\r\n(二)請都市發展局謝科長於會後，再跟林燕祝議員以口頭方式做詳盡說明。\r\n",
+    "DoneDate": "2013\/05\/20",
+    "DoneDesc": "照案通過。",
+    "SendDate": "2013\/05\/30",
+    "SendNumber": "南議法規字第 1020010568號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=99e6bf48-f65f-4ee0-919d-af983f4a9456",
+            "FileName": "1-5定市提1-臺南市民間興辦社會住宅減徵地價稅自治條例(總說明、逐條說明、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a72172b5-b2e3-4e5e-8406-f04651b18bd9&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照案通過。",
+    "FirstDate": "2013\/03\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

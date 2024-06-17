@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "18",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2023\/10\/11",
+    "ComeNumber": "府民自字第1121273546號",
+    "OrgTitle": "臺南市政府各區公所",
+    "OrgTitle2": "",
+    "CaseCause": "為善化區公所辦理「善化區光華段406、406-1地號土地共有物分割」乙案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部112年6月1日台內地字第1120026666號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"依土地法第25條規定:「直轄市或縣（市）政府對於其所管公有土地，非經該管區內民意機關同意，並經行政院核准，不得處分或設定負擔或為超過十年期間之租賃。」暨內政部104年2月26日內授中辦地字第10413601739號函釋，公私共有土地協議辦理共有物分割，涉及權利之移轉變動，屬處分行為，故應經貴會同意。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案前經111年7月4日市議會第3屆第7次定期會審議通過(民政教育第22號案)，惟當時提案係以「光華段406地號土地共有物分割」為案名，未將擬分割後之光華段406-1地號納入案名，致內政部未予核備。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"現依內政部意見修正案名為「光華段406、406-1地號土地共有物分割」，建請貴會同意辦理。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"本案業經本府112年9月26日第613次市政會議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後辦理上開土地分割事宜。\"}]",
+    "CheckDate": "2023\/11\/28",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/12\/05",
+    "SendNumber": "南議民教字第 1120011758號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b20913ce-08d1-483c-b510-5565f6c9b05f",
+            "FileName": "民教18(善化區公所)-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=405ef472-78c0-40bb-a95a-4cc8f5209779&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2023\/10\/27",
+    "FirstDesc": "交付民政教育委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "118",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林依婷",
+    "OrgTitle2": "周嘉韋、李宗霖、Ingay Tali 穎艾達利",
+    "CaseCause": "臺南市安平區永華路二段、建平路口(近市府廣場路口)之導盲磚，建議重新鋪設。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"有鑑於安平區永華路二段、建平路口(近市府廣場路口)之導盲磚有中斷、不連續之情況，建議重新鋪設，並在導盲磚與導盲型行穿線間應設置定位點，以維視障朋友之行走權益；相關實際狀況如附件照片，建請改善。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/06\/02",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/06\/07",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/06\/15",
+    "SendNumber": "南議工務字第 1120004268號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=abfcffbd-78e0-453e-a09a-5ecd28c247dd",
+            "FileName": "4-1定工務議提118附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1af98784-bf8d-437c-bf18-1e4adce3f17b",
+            "FileName": "府工養一字第1120978124號-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a1938f40-8215-4ead-9709-92eab27a73bc&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/08\/01",
+    "ExecuteReNumber": "府工養一字第 1120978124號",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

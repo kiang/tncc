@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "9",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/07\/12",
+    "ComeNumber": "府民自字第1110889961號",
+    "OrgTitle": "臺南市政府民政局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部110年度核定「臺南市中西區淺草里活動中心拆除重建工程案」1案，因近期物價波動，擬增加經費新臺幣（下同）1,002萬元，總工程經費調整為3,502萬元，為爭取時效，謹請貴會同意增加墊付111年度100萬元（市配合款），俾憑辦理後續相關作業事宜，俟112年度追加減預算辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部110年3月18日台內民字第1100221561號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合各機關單位預算執行要點第44點第6款規定「配合上级或同級政府施政需要而核定必須分擔且須及時使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案原總工程經費2,500萬元，因近期營建物價不斷攀升，經公所委託之建築師重新評估後，建議挹注經費1,002萬元，總工程經費調整為3,502萬元，規劃設計監造費183萬7,053元，建造費用3,318萬2,947元，採一次性發包，分年編列預算辦理，並考量後續工程進度及付款期程，於111年度增加墊付100萬元（市配合款），113年編列902萬元（市配合款），因未及納入本府111年度總預算，謹請貴會同意先行墊付，俟112年度追加減預算辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年7月12日第550次市政會議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度追加減預算辦理轉正。\"}]",
+    "CheckDate": "2022\/08\/22",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/08\/30",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/08\/31",
+    "SendNumber": "南議 民教字第 1110009931號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5c66c5d6-e53d-420e-85b4-a5820d0b2391",
+            "FileName": "民教9(民政局)-附件(核定函及計畫書).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=062510bd-66b2-43d5-af9e-70cc06eb5d95&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/07\/20",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/07\/28",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/03\/18",
+    "ComeNumber": "府警後字第1130422242 號",
+    "OrgTitle": "臺南市政府警察局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部核定補助本府「協助地方政府整(修)建地方警察機關辦公廳舍待勤處所經費需求計畫書」經費新臺幣124萬3,000元（中央全額補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部113年2月15日內授警字第1130870547號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款之規定「經上級政府核定之補助款所使用支出」等相關規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明:本案總經費124萬3,000元（中央全額補助），因內政部於113年2月15日核定本府計畫，未及納入本府警察局113年度總預算，為爭取時效，謹請貴會准予辦理先行墊付，俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年3月12日第637次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本案係屬中央補助地方政府整(修)建地方警察機關辦公廳舍待勤處所計畫，依內政部核定經費需求書規定，本案應於本(113)年度4月底完成發包、10月底完工結案，為配合廳舍整(修)建期程及優化員警良好辦公環境，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2024\/05\/13",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2024\/05\/29",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=054dd324-5cff-421d-8b22-5e4667d94de4",
+            "FileName": "中央核定公文及計畫內容.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=eab65dad-3979-483d-bec0-80ac9cce7edd&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2024\/04\/19",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

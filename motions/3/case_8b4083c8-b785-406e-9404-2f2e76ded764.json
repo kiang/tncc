@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 臨時會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-法規查照案",
+    "ComeDate": "2020\/06\/09",
+    "ComeNumber": "府民生字第1090665172B號",
+    "OrgTitle": "臺南市政府民政局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市公立殯葬設施使用管理辦法」第四條、第十五條，請查照。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據地方制度法第27條第3項規定辦理。\"},{\"tag\":\"p\",\"content\":\"二、檢附旨揭辦法之修正總說明、條文對照表、修正條文及發布令各1份。\"}]",
+    "Method": "[]",
+    "CheckDate": "2020\/09\/04",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2020\/09\/09",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2020\/09\/14",
+    "SendNumber": "南議法規字第 1090008105號",
+    "DoDesc": "業以109年6月1日府法規字第1090573260A號令修正發布。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6ca91f84-3dd1-45ca-ac3e-ab19a13b95a7",
+            "FileName": "臺南市公立殯葬設施使用管理辦法」第四條、第十五條.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8b4083c8-b785-406e-9404-2f2e76ded764&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2020\/08\/25",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "業以109年6月1日府法規字第1090573260A號令修正發布。",
+    "ErrorMessage": ""
+}

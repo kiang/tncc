@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-法規備查案",
+    "ComeDate": "2020\/08\/26",
+    "ComeNumber": "府法規字第1091026564B號",
+    "OrgTitle": "臺南市政府民政局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市公立殯葬設施使用收費標準」第二條及附表。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依規費法第10條第1項規定辦理。\"},{\"tag\":\"p\",\"content\":\"二、檢附「臺南市公立殯葬設施使用收費標準」第2條修正條文及附表1份。\"}]",
+    "Method": "[]",
+    "CheckDate": "2020\/11\/27",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2020\/12\/08",
+    "SendNumber": "南議法規字第 1090011796號",
+    "DoDesc": "業已以109年8月26日府法規字第1091026564A號令修正發布。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e559612e-e857-4e06-a998-b5b8fba7ec9b",
+            "FileName": "臺南市公立殯葬設施使用費標準.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4c891a94-8561-45d7-ad59-e761fe2fb11e",
+            "FileName": "法規報告案大會決議.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9704a083-9455-471c-bed1-17d0a6605566&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2020\/09\/24",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "業已以109年8月26日府法規字第1091026564A號令修正發布。",
+    "ErrorMessage": ""
+}

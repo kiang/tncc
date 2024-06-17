@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "6",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2020\/03\/04",
+    "ComeNumber": "府文秘字第1090270898號",
+    "OrgTitle": "臺南市政府文化局所屬臺南市立圖書館",
+    "OrgTitle2": "",
+    "CaseCause": "文化部核定本市109年「地方藝文場館整建計畫—大臺南地區藝文場館整建升級計畫」請增經費新臺幣1,929萬元整一案（中央補助1,350萬元；市配合款579萬元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟110年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據文化部109年1月16日文藝字第1093001817號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合依據「各機關單位預算執行要點」第44點第4款：「經上級政府核定之補助款，所使用之支出」及第6款：「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：文化部於107年核定分年補助7,500萬（107年：1,900萬元，108年：3,100萬元，109年：2,500萬元），相關歲入歲出業已編列至本市總預算。本案另於109年請增經費新臺幣1,929萬元整（中央補助款1,350萬元、本府配合款編列579萬元），惟因本案核定時間及經費額度未及列入本局109年度總預算編列，為利本案執行及配合中央列管時程，擬先行辦理墊付新臺幣1,929萬元以利執行作業，俟110年度總預算再予轉正。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府109年2月18日第426次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟110年度編列總預算時辦理轉正\"}]",
+    "CheckDate": "2020\/05\/06",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2020\/06\/09",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2020\/06\/16",
+    "SendNumber": "南議教育字第 1090003854號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9dc6c046-9946-45bb-8733-a2c1b030d6b0",
+            "FileName": "6.文斌-01_來文.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4e416e6e-a186-48ab-82a2-5b0d8c6c2870",
+            "FileName": "6.文斌--02_「地方藝文場館整建計畫」審查結果.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4157646e-b788-4fe1-a622-940944a02662&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

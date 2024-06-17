@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第1次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-動支第二預備金",
+    "ComeDate": "2019\/03\/04",
+    "ComeNumber": "府主預字第1080273429號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "檢送107年度臺南市地方總預算第二預備金動支數額表，敬請　審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據預算法第70條規定辦理。\"},{\"tag\":\"p\",\"content\":\"二、107年度臺南市地方總預算第二預備金預算編列4億元，動支數3億9,742萬3千元，節餘257萬7千元。\"},{\"tag\":\"p\",\"content\":\"三、本案業經本府108年2月27日第377次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會惠予審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、照案通過。\r\n二、爾後聯席審查第二預備金動支數額表時，請副市長均應列席。\r\n",
+    "DoneDate": "2019\/04\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/05\/07",
+    "SendNumber": "南議財經字第 1080003761號",
+    "DoDesc": "本府主計處已於108年5月8日以府主預字第1080546893號函將市議會審議臺南市107年度地方總預算第二預備金動支數額表決議通知各動支單位。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4356d2c1-cd77-4deb-acc2-f144f64ad791",
+            "FileName": "107年度臺南市第二預備金動支數額表大會決議.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3549c27a-91fb-46ab-9707-dbabac62dbe1&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/03\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本府主計處已於108年5月8日以府主預字第1080546893號函將市議會審議臺南市107年度地方總預算第二預備金動支數額表決議通知各動支單位。",
+    "ErrorMessage": ""
+}

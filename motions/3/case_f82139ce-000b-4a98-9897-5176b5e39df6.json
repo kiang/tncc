@@ -1,0 +1,69 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "會務",
+    "CaseNumber": "2",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝",
+    "OrgTitle2": "郭信良、林阳乙、林美燕、尤榮智、王家貞、方一峰、謝龍介、蔡秋蘭、盧崑福、趙昆原、黃麗招、陳碧玉",
+    "CaseCause": "修正「臺南市議會議員質詢辦法」第三條條文草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依本會109年政黨黨團協商109年10月12日第4次會議結論及本會109年10月12日回復大會（第10次會）之大會決議辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本會經公民監督國會聯盟評鑑為2020年全國22縣市議會公開透明度第一名，雖讓本會議員與有榮焉，但相對也使本會議員對臺南市政府各局處業務部門報告及質詢之質詢發言更加踴躍。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"為確保本會法定57席議員（現為56席）依地方制度法第48條第2項規定，均有質詢發言權利，爰修正「臺南市議會議員質詢辦法」第3條第2項第2款業務質詢之各輪次議員質詢時間，並再次重申此質詢時間係包括市府官員答覆及補充質詢在內，希望本會議員及會議主席共同遵守以保障每位議員均能行使發言質詢之職權。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"檢附「臺南市議會議員質詢辦法」第三條條文修正草案總說明、修正草案對照表、修正後條文。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"經大會決議通過後發布施行。\"}]",
+    "CheckDate": "2020\/11\/27",
+    "CheckDesc": "一、會務第1、2號案併案審查。\r\n二、照會務1號案版本通過（詳見審查結果對照表)。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/12\/08",
+    "SendNumber": "南議法規字第 1090011805號",
+    "DoDesc": "1.本會109年12月14日以南議法研字第1090012223號修正發布公告，並於109.12.15以南議法研字第1090012438號函報行政院備查。\r\n2.行政院109年12月30日院臺綜字第1090042976號函覆本會:業已備查。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c3b59d5d-7b37-455c-9954-6ef57c031024",
+            "FileName": "臺南市議會議員質詢辦法第三條修正草案(含總說明、條文對照表及第3條條文).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=71f98b4e-43c4-4163-9883-83ce2669840e",
+            "FileName": "本會109年政黨黨團協商第4次會議紀錄.PDF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=13549904-f3a2-465a-b128-8c4bba757d63",
+            "FileName": "本會109年10月12日回復大會（第10次會）之大會決議.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=67e2bdca-b69a-4bcd-91a5-15cb46ba4a93",
+            "FileName": "審查結果對照表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e1dcc66f-22d7-4122-b9d0-b394fc476b77",
+            "FileName": "本會公告修正台南市議會議員質詢辦法(3-4定會務1、2號案).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=361ca020-d63f-4b26-85f6-bf19b0603ba6",
+            "FileName": "行政院備查函-修正「臺南市議會議員質詢辦法」.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f82139ce-000b-4a98-9897-5176b5e39df6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/10\/28",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "1.本會109年12月14日以南議法研字第1090012223號修正發布公告，並於109.12.15以南議法研字第1090012438號函報行政院備查。\r\n2.行政院109年12月30日院臺綜字第1090042976號函覆本會:業已備查。",
+    "ErrorMessage": ""
+}

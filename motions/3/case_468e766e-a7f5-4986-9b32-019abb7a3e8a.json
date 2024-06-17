@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第1次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2019\/04\/15",
+    "ComeNumber": "府工管一字第1080439046號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市建築爭議事件處理及評審自治條例」第七條、第十二條草案一案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本案業經本府107年9月19日第354次市政會議審議通過。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經貴會第3屆第1次臨時會法規三讀提案1號案決議辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市建築爭議事件處理及評審自治條例」第七條、第十二條草案（含總說明及逐條說明）乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "2019\/05\/27",
+    "CheckDesc": "聯席審查意見：\r\n一、修正條文詳如附表。\r\n二、修正通過。\r\n",
+    "DoneDate": "2019\/05\/29",
+    "DoneDesc": "照聯席審查意見修正通過。",
+    "SendDate": "2019\/06\/10",
+    "SendNumber": "南議法規字第 1080005502號",
+    "DoDesc": "本府已於108年7月4日府法規字第1080777424A號府令修正頒布。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ec94edb6-b0ac-4cbf-b52b-3fdc3e59a32c",
+            "FileName": "3-1定市提3-臺南市建築爭議事件處理及評審自治條例第七條及第十二條條文修正草案(總說明、對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=468e766e-a7f5-4986-9b32-019abb7a3e8a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見修正通過。",
+    "FirstDate": "2019\/03\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本府已於108年7月4日府法規字第1080777424A號府令修正頒布。",
+    "ErrorMessage": ""
+}

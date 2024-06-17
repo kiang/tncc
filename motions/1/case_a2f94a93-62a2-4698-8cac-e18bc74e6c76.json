@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "25",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林燕祝",
+    "OrgTitle2": "盧崑福、林美燕、杜素吟、謝財旺、黃麗招",
+    "CaseCause": "建請地政局儘速在永康區媽廟農地重劃區西勢一小段地號10號道路建置擋土邊坡護牆，以解決汽車、機車用路人道路使用安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"永康區媽廟農地重劃區西勢一小段地號10號道路路面及土地高低落差達2公尺之多，道路又有轉彎處，汽車及機車行經此路視線不佳，非常危險，期儘速完成擋土邊坡護牆，以解決汽車、機車用路人道路使用安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2012\/12\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/12\/17",
+    "SendNumber": "南議工務字第 1010011362號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=93682c64-2a0b-4c37-8761-f8fc4f65d657",
+            "FileName": "永康區媽廟農地重劃區西勢一小段地號10號道路建置擋土邊坡護牆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a2f94a93-62a2-4698-8cac-e18bc74e6c76&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

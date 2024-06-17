@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/04\/12",
+    "ComeNumber": "府社秘字第1120454243號",
+    "OrgTitle": "臺南市政府社會局",
+    "OrgTitle2": "",
+    "CaseCause": "有關衛生福利部社會及家庭署核定本市「112年度我國少子女化對策計畫－地方政府專案人力」，未及編入預算經費新臺幣40萬3,000元(中央補助34萬2,000元，地方配合款6萬1,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據衛生福利部社會及家庭署112年3月22日社家支字第1120960254號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合各機關單位預算執行要點第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案所需總經費計190萬2,000元(中央補助161萬6,000元，地方配合款28萬6,000元)，112年度單位預算已編列149萬9,000元(中央補助127萬4,000元，地方配合款22萬5,000元)。餘40萬3,000元(中央補助34萬2,000元，地方配合款6萬1,000元)，因未及納入112年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年4月6日第588次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本案係提供本市地方政府專案人力聘用，倘墊付案未能於定期會通過，將影響本市專案人力聘用之執行成效。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/05\/22",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/06\/07",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/06\/13",
+    "SendNumber": "南議環衛字第 1120004208號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a6b4bf47-7296-4642-9e19-b5c849bd22bd",
+            "FileName": "4-1定-環保衛生3號案-附件-社會局-112年度我國少子女化對策計畫-地方政府專案人力(婦兒少.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4a61bcb3-e4b6-4e5c-82f1-257097634967&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/04\/19",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/04\/27",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

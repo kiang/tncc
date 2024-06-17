@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "43",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國、蔡淑惠",
+    "OrgTitle2": "張世賢、許至椿、方一峰、李中岑",
+    "CaseCause": "建請市府徵收開發永康區蔦松南段道路(蔦松南段822地號)，以利社區交通動線改善。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"社區現狀(詳附件一)\",\"children\":[{\"order\":\"(一)\",\"content\":\"蔦松社區內部房屋多為三合院古厝及老舊透天，且部分已無人居住，可通行巷道僅約4米，蜿蜒曲折過於狹小，若發生災害，消防車及救護車不易進入，恐影響救災。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"台南市永康區蔦松南段822地號計畫道路用地(約42坪，尚未徵收)現為停車場供人使用，該路段為銜接中正北路(主要幹道)之重要入口，已被封死不能出入。\",\"children\":[]}]},{\"order\":\"二、\",\"content\":\"建議：\",\"children\":[{\"order\":\"(一)\",\"content\":\"該社區都市計畫道路建設公司已取得大部分產權，會由建設公司負責開闢道路(預計開闢位置詳附件二)，以改善社區交通動線。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"現僅剩(蔦松南段822地號)尚屬私人土地，無法連接至中正北路主要幹道，且計畫道路用地劃定已久一直未徵收，基於社區安全考量及改善整體都市環境，建請市府徵收該地號計畫道路用地。\",\"children\":[]}]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府編列預算辦理。\"}]",
+    "CheckDate": "2022\/08\/26",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/08\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/09\/06",
+    "SendNumber": "南議工務字第 1110010184號",
+    "DoDesc": "旨案本府工務局已於111年8月31日辦理會勘，有關陳情人說明未來將分段開發及完成建築基地前道路設施，分段開發施作建築基地前道路排水設施，恐有造成鄰近排水設施不堪負荷積淹水情事，建議如欲開發申請第一期排水聯審前可先來函洽本府工務局協商；另有關徵收開闢永康區蔦松南段822 地號，因陳情人說明可提供永康區蔦松南段821 地號無償使用同意書，本府工務局將納入研議並於後續一同協商。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cca2e970-c228-456c-8450-9ad38a26a3b9",
+            "FileName": "3-8定工務議提43附件1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e1ae0ec8-ded5-40f8-a760-7155752ee595",
+            "FileName": "3-8定工務議提43附件2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=89289fa2-2de4-496e-b066-ac8a9beb709a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/09\/20",
+    "ExecuteReNumber": "府工新二字第 1111183557號",
+    "ExecuteReMemo": "旨案本府工務局已於111年8月31日辦理會勘，有關陳情人說明未來將分段開發及完成建築基地前道路設施，分段開發施作建築基地前道路排水設施，恐有造成鄰近排水設施不堪負荷積淹水情事，建議如欲開發申請第一期排水聯審前可先來函洽本府工務局協商；另有關徵收開闢永康區蔦松南段822 地號，因陳情人說明可提供永康區蔦松南段821 地號無償使用同意書，本府工務局將納入研議並於後續一同協商。",
+    "ErrorMessage": ""
+}

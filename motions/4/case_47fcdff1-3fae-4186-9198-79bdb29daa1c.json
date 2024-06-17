@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "會務",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝、周麗津、林美燕、林燕祝、陳怡珍、余柷青、曾之婕、黃麗招、王家貞、蔡淑惠",
+    "OrgTitle2": "王宣貿、蔡宗豪、邱昭勝、李中岑、陳秋萍、鄭佳欣、Ingay Tali 穎艾達利、吳禹寰、杜素吟、周奕齊、林冠維、郭鴻儀、尤榮智、方一峰",
+    "CaseCause": "修正「臺南市議會議事規則」第七十一條條文草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為順應國內外性別平等、性別平權潮流及落實消除對婦女一切形式歧視公約(CEDAW)，同時締造議會友善問政環境，放寬議員為就近照護零至六歲子女，得於開會時將其攜入會場至議員座位並負看管之責。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"爰修正第七十一條第二項增列但書。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市議會議事規則」第七十一條條文修正草案總說明、修正草案對照表、修正後條文。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"經大會決議通過後發布實施。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2023\/06\/07",
+    "DoneDesc": "一、會務1、2、3、6號案，均予撤銷。\r\n二、鑒於本會缺乏育兒親子空間，請各政黨黨團可推派代表討論，於一週內研議建置友善環境。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=09f579da-6ac0-430c-b2c6-5add0c6008c0",
+            "FileName": "4-1定會務1-修正「臺南市議會議事規則」七十一條草案(總說明、逐條說明、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=47fcdff1-3fae-4186-9198-79bdb29daa1c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/04\/19",
+    "ReDesc": "一、會務1、2、3、6號案，均予撤銷。\r\n二、鑒於本會缺乏育兒親子空間，請各政黨黨團可推派代表討論，於一週內研議建置友善環境。",
+    "FirstDate": "2023\/04\/27",
+    "FirstDesc": "第4屆第1次定期會第1次會(112年4月27日)大會決議：大會通過會務 1、2 號案併案交付法規委員會審查。\r\n說明：\r\n一、會務 1、2 號案同為修正本會議事規則第七十一條條文，爰併案處理。\r\n二、會務 1 提案人蔡育輝議員說明本案連署人實際上均為提案人，因限於法規規定，必須有 12 人以上之連署，爰將部分議員列為連署人。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

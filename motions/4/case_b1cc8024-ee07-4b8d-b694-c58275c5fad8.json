@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "2",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "「本市農漁產品產銷概況及相關配套措施」專案報告",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"請市府農業局與中央合作，爭取資源定期輔導農漁民生產技術及擴大國內外的行銷能量。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"農特產品行銷企劃要詳實並提早宣傳，讓更多鄉親參與以活絡產銷。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"加強輔導加工及協助冷鏈應用，提高農漁產品之產值。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"今年竹筍、芒果、綠肥，因水情不佳，應爭取啟動災損補償。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"充分提供農漁民生產調控資訊，避免因搶種造成價格傷害及去化不良的問題。\",\"children\":[]}]},{\"tag\":\"p\",\"content\":\"<br>\"},{\"tag\":\"p\",\"content\":\"其他意見：專案報告內容請加強數據統計資料及量化指標。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2023\/06\/07",
+    "DoneDesc": "照委員會結論通過。",
+    "SendDate": "2023\/06\/14",
+    "SendNumber": "南議財經字第 1120004228號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=36bc8014-cb71-43ce-8a81-5b8322844fbd",
+            "FileName": "「本市農漁產品產銷概況及相關配套措施」專案報告.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b1cc8024-ee07-4b8d-b694-c58275c5fad8&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照委員會結論通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

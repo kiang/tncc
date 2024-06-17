@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "92",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "曾培雅",
+    "OrgTitle2": "劉正昌、王峻潭、賴惠員",
+    "CaseCause": "臺南市莊敬里莊敬公園長久未修繕，建請市府全面評估翻修整理，以利市民休憩活動使用，並達到綠美化之效益。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"莊敬公園面積0.19公頃位於東興路，公園環境老舊，安全堪慮，建請市府儘速改善，以利市民休憩活動使用。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2017\/11\/29",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2017\/12\/07",
+    "SendNumber": "南議工務字第 1060008572號",
+    "DoDesc": "本案經市府107年1月5日府工園一字第1061380844號函復：(詳夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bebe9cec-9bb0-4ad1-a009-d388235bf221",
+            "FileName": "2-6定期大會-工務第92號案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ce7ea29d-98e4-4eaf-8424-28002d094ac5&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2017\/09\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府107年1月5日府工園一字第1061380844號函復：(詳夾檔)",
+    "ErrorMessage": ""
+}

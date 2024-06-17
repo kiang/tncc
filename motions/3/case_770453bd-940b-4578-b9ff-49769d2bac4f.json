@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "68",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡筱薇",
+    "OrgTitle2": "陳秋宏、楊中成、Ingay Tali穎艾達利",
+    "CaseCause": "金華路二段二號公園網球場換新。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"金華路二段二號公園因網球場地板老舊，已無止滑功能，雨天過後地面濕滑，造成行人跌倒。本席要求相關單位重視，並提出改善辦法，確保民眾的休憩品質。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/11\/26",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/12\/08",
+    "SendNumber": "南議工務字第 1090011778號",
+    "DoDesc": "本案經市府109年12月31日府工園一字第1091538810號函復：\r\n有關金華路二段二號公園為鄰里公園，該公園網球場後續相關管理維護改善由公所辦理，俟公所研提改善方案後，本府工務局納入研議補助辦理，以維民眾使用安全。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=208c8ead-ffee-44ee-8265-6f45f78003fa",
+            "FileName": "議提68-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=770453bd-940b-4578-b9ff-49769d2bac4f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府109年12月31日府工園一字第1091538810號函復：\r\n有關金華路二段二號公園為鄰里公園，該公園網球場後續相關管理維護改善由公所辦理，俟公所研提改善方案後，本府工務局納入研議補助辦理，以維民眾使用安全。",
+    "ErrorMessage": ""
+}

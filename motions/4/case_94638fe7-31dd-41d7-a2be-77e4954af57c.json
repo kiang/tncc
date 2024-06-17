@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "18",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/10\/12",
+    "ComeNumber": "府社秘字第1121270427號",
+    "OrgTitle": "臺南市政府社會局",
+    "OrgTitle2": "",
+    "CaseCause": "衛生福利部核定補助本市113年「臺南市政府性別暴力防治社區服務方案」增補經費新臺幣44萬8,000元整案（中央全額補助），因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據衛生福利部112年10月4日衛部護字第1121460920號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款，所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費153萬8,000元(中央全額補助)，已於113年度總預算編列109萬元，尚有44萬8,000元，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俟113年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年10月11日第615次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本案為獎補助費，倘墊付案未能於定期會通過，將影響本市性別暴力社區預防工作成效及各社區組織年度規劃。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/11\/24",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/11\/30",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/12\/07",
+    "SendNumber": "南議環衛字第 1120011588號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=185284ba-e2bc-4107-a017-cf29e18a8a14",
+            "FileName": "4-2定-環保衛生18號案-附件-社會局-113年性別暴力防治社區服務方案(家防中心).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=94638fe7-31dd-41d7-a2be-77e4954af57c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/10\/19",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

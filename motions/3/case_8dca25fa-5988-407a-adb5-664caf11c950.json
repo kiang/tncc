@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 臨時會",
+    "PTypTitle": "民政",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2020\/08\/12",
+    "ComeNumber": "府社秘字第1090984056號",
+    "OrgTitle": "臺南市政府社會局、教育局",
+    "OrgTitle2": "",
+    "CaseCause": "社會局辦理65-69歲中低收入老人健保費自付保險費補助經費計新臺幣736萬7,000元乙案(全部市款)，為維護民眾權益，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟110年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、本案符合各機關單位預算執行要點第44點第5款「依法律或經核定有案之契約義務必需之支出」之規定。\"},{\"tag\":\"p\",\"content\":\"二、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"因符合領取中低收入老人生活津貼人數增加，致65-69歲中低收入老人健保費自付健保補助人數亦隨之增加，預估全年所需核發經費計新臺幣2,536萬4,000元。本（109）年度65-69歲中低收入老人健保費自付健保補助經費預算1,799萬7,000元，不足經費預估新臺幣736萬7,000元，因未及納入本府109年度總預算，為應時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"三、本案業經本府109年8月11日第451次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟110年度總預算時再予轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cb22c018-7b12-404f-bbc4-b74338302bb9",
+            "FileName": "民政市提1-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8dca25fa-5988-407a-adb5-664caf11c950&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "2020\/08\/25",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

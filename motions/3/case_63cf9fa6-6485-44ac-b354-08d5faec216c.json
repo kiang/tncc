@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "29",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡秋蘭",
+    "OrgTitle2": "盧崑福、杜素吟、林阳乙、周奕齊、吳禹寰",
+    "CaseCause": "建請市府改善佳里農地重劃區民安段408地號改善工程。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"佳里農地重劃區民安段408地號，現況鋪面破損嚴重，已不堪使用，建請市府重鋪道路，改善路基及補邊所需經費為新臺幣181萬4400元整，建請市府儘速改善工程，俾利民眾通行。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/06\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/07\/08",
+    "SendNumber": "南議財經字第 1110006582號",
+    "DoDesc": "本府就「建請市府改善佳里農地重劃區民安段 408 地號改善工程。」決議案，敬答覆如下：\r\n一、 該農路路面老舊部份柏油脫落，易造成滑倒影響行車安全，將視年度農路改善預算審查研議辦理。\r\n二、 承蒙 貴會對於本案之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=561c538b-7f90-4d6c-bda5-f455ecf47c66",
+            "FileName": "29.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=63cf9fa6-6485-44ac-b354-08d5faec216c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/07\/20",
+    "ExecuteReNumber": "府地農字第 1110902261號",
+    "ExecuteReMemo": "本府就「建請市府改善佳里農地重劃區民安段 408 地號改善工程。」決議案，敬答覆如下：\r\n一、 該農路路面老舊部份柏油脫落，易造成滑倒影響行車安全，將視年度農路改善預算審查研議辦理。\r\n二、 承蒙 貴會對於本案之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "ErrorMessage": ""
+}

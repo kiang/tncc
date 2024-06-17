@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "54",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林慶鎮",
+    "OrgTitle2": "蔡玉枝、蔡淑惠、郭秀珠",
+    "CaseCause": "請市府改善新市區大洲里大洲大排水溝牆面，以維護里民安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"該大排水溝牆面施設已20年，平均高度近3M，且年久未補強，為防止災害發生，請水利局早日改善，以利百姓生命財產安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請市府儘速辦理。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2014\/10\/22",
+    "DoneDesc": "照審查意意見通過",
+    "SendDate": "2014\/10\/27",
+    "SendNumber": "南議工務字第 1030006957號",
+    "DoDesc": "本案經市府103年11月4日府水養字第1031025869號函復：\r\n因屬經濟濟水利署第六河川局轄管範圍，請第六河川局研議改善方案，並副知市議會。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=eabe1f84-2105-4087-91d1-ec62ab61fae3",
+            "FileName": "議提54附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6f4d8c36-adc9-4685-89dd-313d3fefdf31&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意意見通過",
+    "FirstDate": "2014\/08\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府103年11月4日府水養字第1031025869號函復：\r\n因屬經濟濟水利署第六河川局轄管範圍，請第六河川局研議改善方案，並副知市議會。",
+    "ErrorMessage": ""
+}

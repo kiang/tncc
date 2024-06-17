@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第9次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林燕祝",
+    "OrgTitle2": "洪玉鳳、蔡育輝、許至椿",
+    "CaseCause": "建請市府相關單位重視民意反映，將柴頭港溪修正變更為污水下水道，以提升市容美觀及道路使用，增加經濟效益，以符合民眾實際現況需求。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、據河堤兩岸居民陳情反映，目前河堤因未加覆蓋，無法兩岸連結，造成民眾終日捨近求遠，行車出入不便，且因污水排放造成惡臭，影響環境衛生。\"},{\"tag\":\"p\",\"content\":\"二、綜上，亟盼市府工務局暨相關單位重視民意反映將柴頭港溪正名修正變更為污水下水道，並覆蓋成道路使用，以提升市容美觀及增加市府稅收及全民經濟效益。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2017\/03\/31",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2017\/04\/10",
+    "SendNumber": "南議工務字第 1060002073號",
+    "DoDesc": "本案經市府106年5月24日府水雨字第1060540298號函復：\r\n（詳夾檔）",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=45b193a5-032e-4076-810c-9f75e33143c0",
+            "FileName": "2-9臨時會工務1號案書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2e8e2d68-c8df-4287-a7af-fef1b9f30b69&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2017\/03\/21",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府106年5月24日府水雨字第1060540298號函復：\r\n（詳夾檔）",
+    "ErrorMessage": ""
+}

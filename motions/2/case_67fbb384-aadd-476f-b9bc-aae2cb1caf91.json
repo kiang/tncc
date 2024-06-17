@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "10",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡秋蘭",
+    "OrgTitle2": "蔡育輝、郭信良、林阳乙、謝財旺",
+    "CaseCause": "建請市府辦理佳里區民安里佳興國中西側瓶頸段排水改善工程。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、此段排水系統因設計方式影響排水順暢，造成逢雨必淹，影響居民居住品質甚鉅。\"},{\"tag\":\"p\",\"content\":\"二、本案區公所業於104.01.23以所農建字第1040047310號函請市府改善在案。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2016\/12\/23",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2016\/12\/29",
+    "SendNumber": "南議工務字第 1050009052號",
+    "DoDesc": "本案經市府106年1月24日府工養二字第1060066195號函復：（詳夾檔）",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a9d73251-3c34-48d4-a41f-eeee5036c71f",
+            "FileName": "10號案書面答復.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=67fbb384-aadd-476f-b9bc-aae2cb1caf91&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2016\/10\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府106年1月24日府工養二字第1060066195號函復：（詳夾檔）",
+    "ErrorMessage": ""
+}

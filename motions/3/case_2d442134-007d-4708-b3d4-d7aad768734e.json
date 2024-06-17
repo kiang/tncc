@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "民政",
+    "CaseNumber": "62",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "Ingay Tali穎艾達利",
+    "OrgTitle2": "陳怡珍、陳碧玉、吳禹寰、李偉智、洪玉鳳、陳秋宏、蔡淑惠、陳秋萍、林易瑩",
+    "CaseCause": "建請臺南市政府人事處修改官網「徵才公告」手機網頁顯示。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、臺南市政府人事處官網（https：\/\/personnel.tainan.gov.tw\/）首頁左側功能列，其中「熱門服務」項下設有「徵才公告」連結，提供民眾查詢臺南市政府各單位職缺資訊，殊為造福求職者之友善設計。\"},{\"tag\":\"p\",\"content\":\"二、惟查，操作者倘以手機瀏覽網頁時，部分區塊顯示為「載入中…」（如圖示一），需改為「桌面版」網頁，才能顯示正常；復查，點選列示職缺進一步查閱詳細內容頁面時，則發現排版文字間距小、格式不一（如圖二），易造成使用者閱覽困擾。\"},{\"tag\":\"p\",\"content\":\"三、建請臺南市政府人事處修正徵才公告網頁手機顯示及文字排版，俾利民眾以多元瀏覽設備皆能正常查閱資訊為禱。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2021\/11\/24",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/12\/07",
+    "SendNumber": "南議民政字第 1100012275號",
+    "DoDesc": "收文字號：110年12月14日1100012918號\r\n依據臺南市政府110年12月13日府人力字第1101505355號函復：\r\n本府就「建請臺南市政府人事處修改官網「徵才公告」手機網頁顯示」案，敬答覆如下：\r\n一、為建立友善求職管道，本府人事處網頁設置有「徵才專區」，提供民眾查詢本府各單位職缺資訊。\r\n二、為利民眾瀏覽及使用，本網頁業於 110 年度 10 月完成改版，並已併 同修正手機版瀏覽頁面部分區塊顯示「載入中」或排版文字間距小、格式不一之問題，提供更佳視覺體驗。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d3f4f303-d779-4ea3-821b-b0705e87f515",
+            "FileName": "圖示一、二.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2d442134-007d-4708-b3d4-d7aad768734e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "收文字號：110年12月14日1100012918號\r\n依據臺南市政府110年12月13日府人力字第1101505355號函復：\r\n本府就「建請臺南市政府人事處修改官網「徵才公告」手機網頁顯示」案，敬答覆如下：\r\n一、為建立友善求職管道，本府人事處網頁設置有「徵才專區」，提供民眾查詢本府各單位職缺資訊。\r\n二、為利民眾瀏覽及使用，本網頁業於 110 年度 10 月完成改版，並已併 同修正手機版瀏覽頁面部分區塊顯示「載入中」或排版文字間距小、格式不一之問題，提供更佳視覺體驗。\r\n",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第3屆 第8次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/03\/17",
+    "ComeNumber": "府觀技字第1100346103號",
+    "OrgTitle": "臺南市政府觀光旅遊局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部觀光局核定本市110年度「體驗觀光-地方旅遊環境營造計畫」經費新臺幣4,500萬元整一案(中央補助款2,430萬元；市配合款2,070萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依交通部觀光局110年3月8日觀技字第1104000389號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"本案補助含「110年度南關線觀光旅遊廊帶營造工程-第二期(2,000萬元)」、「110年度倒風內海濱海旅遊廊帶串聯計畫-第三期(2,000萬元)」及「新化168特色景點結合西拉雅景觀廊帶工程(500萬元)」，總經費4,500萬元(中央補助款2,430萬元；市配合款2,070萬元)，因未及納入本府110年度總預算，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年3月16日第482次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2021\/03\/19",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2021\/03\/25",
+    "SendNumber": "南議保安字第 1100002182號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8c66ad48-5e3d-4797-801b-a8031baff9df",
+            "FileName": "核定函.PDF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b93d11f7-95e5-4d54-a49f-2f0a01581d41",
+            "FileName": "附件-經費核定表.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4b5d42a2-f4de-48fc-93ed-de2475fe938f",
+            "FileName": "110年度提案計畫書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4c32e6fe-775f-4153-a8f3-5150cd964b54&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "2021\/03\/03",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "121",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "尤榮智",
+    "OrgTitle2": "王家貞、蔡淑惠、盧崑福、李中岑、許又仁、李文俊、蔡育輝",
+    "CaseCause": "請改善麻豆區海埔里排水改善工程（第二期），因年久未整治修理，造成淹水問題。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、麻豆區海埔里排水改善工程。矩形明溝：長度240公尺，寬度＊高度：2公尺*2公尺；路面鋪設：長度140公尺，寬度：4公尺。\"},{\"tag\":\"p\",\"content\":\"二、該工程已會勘完成。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府水利局優先納入改善。\"}]",
+    "CheckDate": "2021\/08\/11",
+    "CheckDesc": "函送市府研議。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/08\/25",
+    "SendNumber": "南議工務字第 1100006556號",
+    "DoDesc": "本案經市府110年9月9日府水工字第1101067953號函復：\r\n一、本案主要係改善海埔社區蒐集水路，終點匯集至海埔中排支流且排往海埔中抽水站，蒐集水路全長約335m，上游瓶頸段原寬度約僅0.3m，其餘區段寬度約1.2~1.5m，鑑於為加速社區排洪能力，本府於109年度即編列153萬元針對上游急迫段辦理拓寬為矩形溝(W1.0m*H1.0m~W2.3m*H1.5m)、長度95.5m。工程於110年01月17日開工且於110年03月11日竣工。\r\n二、針對下游待改善段240m，本府水利局業於同年5月21日會同公所等單位辦理現勘評估後續施做需求，現況渠寬約1.5m，經檢討將拓寬為W2.3m*H1.5m。後續將籌措經費辦理。\r\n三、承蒙貴會對於麻豆區治水工程之關切，本府至為感謝，尚請不吝賜教。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=db0026b9-e790-4c55-bd8b-cd89a6632522",
+            "FileName": "3-5定(議提121)書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3bd83b92-57fa-41b0-82a8-7a1ffb7c4302&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年9月9日府水工字第1101067953號函復：\r\n一、本案主要係改善海埔社區蒐集水路，終點匯集至海埔中排支流且排往海埔中抽水站，蒐集水路全長約335m，上游瓶頸段原寬度約僅0.3m，其餘區段寬度約1.2~1.5m，鑑於為加速社區排洪能力，本府於109年度即編列153萬元針對上游急迫段辦理拓寬為矩形溝(W1.0m*H1.0m~W2.3m*H1.5m)、長度95.5m。工程於110年01月17日開工且於110年03月11日竣工。\r\n二、針對下游待改善段240m，本府水利局業於同年5月21日會同公所等單位辦理現勘評估後續施做需求，現況渠寬約1.5m，經檢討將拓寬為W2.3m*H1.5m。後續將籌措經費辦理。\r\n三、承蒙貴會對於麻豆區治水工程之關切，本府至為感謝，尚請不吝賜教。",
+    "ErrorMessage": ""
+}

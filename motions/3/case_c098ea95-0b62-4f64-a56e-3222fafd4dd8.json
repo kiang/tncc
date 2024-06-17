@@ -1,0 +1,58 @@
+{
+    "GradeTime": "第3屆 第12次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/02\/21",
+    "ComeNumber": "府交綜字第1110272880號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部營建署「提升道路品質計畫（內政部）2.0」核定補助經費新臺幣（下同）2,528萬元（中央補助款2,072萬9,000元，地方配合款455萬1,000元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據本府工務局110年12月27日南市工養一字第1101549177號函暨內政部110年12月17日台內營字第1100819303號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：內政部營建署「提升道路品質計畫（內政部）2.0」核定補助經費新臺幣（下同）2,528萬元（中央補助款2,072萬9,000元，地方配合款455萬1,000元），因未及納入本府111年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年1月11日第525次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/03\/21",
+    "CheckDesc": "聯席審查意見：\r\n一、同意墊付。\r\n二、附帶條件：年底前必須通車，否則預算不得動支。",
+    "DoneDate": "2022\/03\/25",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2022\/04\/06",
+    "SendNumber": "南議保安字第 1110002602號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e175a6f9-999c-49d0-9e08-1ebe8ed61577",
+            "FileName": "市提1核定函.PDF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=39ea8394-fbca-4c70-b3a9-7854abc619e0",
+            "FileName": "市提1補充說明.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5a7e0644-9b37-48d7-babb-d22a2f419de1",
+            "FileName": "市提1核定函附件.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=75b55059-0c83-404d-a8e1-270b890babf7",
+            "FileName": "提案計畫書-(臺南岸內-新營-烏樹林)糖廠糖業歷史國家綠道系統串聯計畫.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c098ea95-0b62-4f64-a56e-3222fafd4dd8&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2022\/03\/09",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

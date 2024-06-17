@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第2次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "20",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李啓維",
+    "OrgTitle2": "陳昆和、Ingay Tali穎艾達利",
+    "CaseCause": "建議政府補強安平區水景橋，並開放遊覽車通行。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、自從安平路興建水景橋，遊覽車卻不能通行，造成遠洋漁港交通不便，反而影響地方發展。\"},{\"tag\":\"p\",\"content\":\"二、政府實有必要改善水景橋，以利通行，也可減輕安北路交通負擔。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2019\/02\/27",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/03\/08",
+    "SendNumber": "南議工務字第 1080001851號",
+    "DoDesc": "本案經市府108年4月8日府工養一字第1080323243號函復：\r\n(詳如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=904757a6-0d88-4750-9eec-b7a721c56009",
+            "FileName": "3-2臨-20書面答覆.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f7bf87a1-1ff8-4105-93f7-87c3f7cdaf18",
+            "FileName": "3-2臨-20書面答覆附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8261de08-9c6b-4e22-bf7d-0d714235f85e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/02\/14",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府108年4月8日府工養一字第1080323243號函復：\r\n(詳如夾檔)",
+    "ErrorMessage": ""
+}

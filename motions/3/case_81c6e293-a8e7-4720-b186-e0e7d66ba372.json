@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "臨時動議",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-其他",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "呂維胤",
+    "OrgTitle2": "劉米山、陳昆和、蔡筱薇、李宗翰",
+    "CaseCause": "請臺南市政府對於漁民使用環保浮具（EPP可發泡聚丙烯）之補助由7成提高至9成。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如說明及案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "送市府研辦。",
+    "SendDate": "2021\/08\/25",
+    "SendNumber": "南議議事字第 1100006809號",
+    "DoDesc": "收文字號：110年9月11日1100008075號\r\n臺南市政府110年9月11日府文圖字第1101119764號函覆：\r\n本府就「請臺南市政府對於漁民使用環保浮具（EPP可發泡聚丙烯）之補助由7成提高至9成」案，敬答覆如下：\r\n本府辦理「110年向海致敬-養殖漁業廢棄物源頭管理補助計畫」之EPP材質改良式浮具補助比例原為7成，但考量今（110）年確實有疫情及颱風等因素影響本市浮筏式牡蠣養殖產業，且漁民、漁民團體及民意代表等各個單位均反映希望上修EPP浮具補助比例，又本府預定於111年修法禁用保麗龍，為加速改良式浮具汰換速度，順應民情，爰同意將EPP浮具補助比例從7成提高至9成。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3cfe6a5f-b04d-4c75-8b74-33f2b24b29d6",
+            "FileName": "市府回覆附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=81c6e293-a8e7-4720-b186-e0e7d66ba372&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "送市府研辦。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "收文字號：110年9月11日1100008075號\r\n臺南市政府110年9月11日府文圖字第1101119764號函覆：\r\n本府就「請臺南市政府對於漁民使用環保浮具（EPP可發泡聚丙烯）之補助由7成提高至9成」案，敬答覆如下：\r\n本府辦理「110年向海致敬-養殖漁業廢棄物源頭管理補助計畫」之EPP材質改良式浮具補助比例原為7成，但考量今（110）年確實有疫情及颱風等因素影響本市浮筏式牡蠣養殖產業，且漁民、漁民團體及民意代表等各個單位均反映希望上修EPP浮具補助比例，又本府預定於111年修法禁用保麗龍，為加速改良式浮具汰換速度，順應民情，爰同意將EPP浮具補助比例從7成提高至9成。\r\n",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "18",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/10\/26",
+    "ComeNumber": "府教體處設字第1101286164號",
+    "OrgTitle": "臺南市政府教育局",
+    "OrgTitle2": "",
+    "CaseCause": "教育部體育署核定補助本市新化國民中學辦理「購置體育器材設備」案，新臺幣125萬元整(中央補助款87萬5,000元，市配合款37萬5,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據教育部體育署110年10月18日臺教體署學(二)字第1100037718號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\"},{\"tag\":\"p\",\"content\":\"三、因核定時未及納入本府111年度總預算，為利本案執行及配合中央列管時程，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年10月26日第514次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，於112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/03\/17",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2021\/10\/27",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2021\/10\/29",
+    "SendNumber": "南議教育字第 1100009943號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0e0b5918-4623-40b3-bd04-50cab5d0e211",
+            "FileName": "3-6定-教育市提18號案-體育署器材採購計畫書.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=56d3a45d-0e4e-4257-a8cd-b075d56c6e6f",
+            "FileName": "3-6定-教育市提18號案-體育署器材採購核定文.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6b5d31f5-57de-4f96-b43a-91681c5b927b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

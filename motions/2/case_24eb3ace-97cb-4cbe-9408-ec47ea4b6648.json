@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第2屆 第8次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2018\/07\/16",
+    "ComeNumber": "府財務字第1070805000號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送「臺南市政府各機關107年3月3日至107年6月14日先行墊支案件彙整表」，計有水利局等19個機關，共73案計新台幣12億7,057萬元。",
+    "Content": "[]",
+    "Method": "[]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2018\/07\/27",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2018\/08\/03",
+    "SendNumber": "南議財經字第 1070005397號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=89da4621-5ee3-4d8a-935b-bda112a6e3af",
+            "FileName": "報告事項1-先行墊支案107.3.3-107.6.14.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5655078c-504a-49fb-9cf6-28dbf2745c34",
+            "FileName": "報告事項1-先行墊支案-決議文號.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=24eb3ace-97cb-4cbe-9408-ec47ea4b6648&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2018\/07\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

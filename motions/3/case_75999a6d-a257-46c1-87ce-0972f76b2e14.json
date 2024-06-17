@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 臨時會",
+    "PTypTitle": "建設",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/01\/20",
+    "ComeNumber": "府字第1100144731號",
+    "OrgTitle": "臺南市政府農業局所屬動物防疫保護處",
+    "OrgTitle2": "",
+    "CaseCause": "本局委託歸仁區公所辦理「鹽水溪八甲橋改建工程」案，經濟部水利署第六河川局增加補助經費800萬元因未及納入110度預算，為爭取時效，謹請貴會同意先行墊付800萬元，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據經濟部部水利署第六河川局110年1月11日水六工字第10901100820號函及108年11月5日水六工字第10801112740號函及各機關單位預算執行要點辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"(一)本案工程委由臺南市歸仁區公所辦理。\"},{\"tag\":\"p\",\"content\":\"(二)經濟部水利署第六河川局原補助本案經費3,700萬元，並經臺南市議會108年12月17日南議建設字第1080011984號函同意墊付3,700萬元在案。因預算不足，本局函請經濟部水利署第六河川局增加補助1,100萬元，該局同意增加補助800萬元（該局共計補助經費4,500萬元），為爭取時效，謹請貴會同意先行墊付800萬元。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年1月19日第474次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/01\/19",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/01\/26",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2021\/02\/02",
+    "SendNumber": "南議建設字第 1100000909號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0c31047b-b180-4ee0-a694-cd81eb670274",
+            "FileName": "市提附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=75999a6d-a257-46c1-87ce-0972f76b2e14&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "2021\/01\/05",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

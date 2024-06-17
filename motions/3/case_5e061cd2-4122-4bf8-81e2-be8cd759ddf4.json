@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "23",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "張世賢、李文俊、王家貞、蔡淑惠、吳禹寰、方一峰",
+    "CaseCause": "建請市府重鋪永康區大灣路970巷之道路路面柏油，以保障民眾與車輛往來之安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"永康區大灣路970巷之道路柏油路面年久失修、龜裂破損，請市府盡速重鋪以維護行人與車輛往來之安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府編列預算辦理。\"}]",
+    "CheckDate": "2022\/06\/01",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/06\/08",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/06\/22",
+    "SendNumber": "南議工務字第 1110005920號",
+    "DoDesc": "本府就「建請市府重鋪永康區大灣路970巷之道路路面柏油，以保障民眾與車輛往來之安全。」一案，敬答覆如下：\r\n本府工務局經查部份巷弄係為私設巷弄且為消防通道等，且其巷弄係為4米不等道路AC改善約400㎡，已請區公所先行將道路破損嚴重部份切割修補，以維護用路人安全並由區公所優先以開口契約辦理改善。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d0ed5af4-f5da-4503-8241-557469d23d53",
+            "FileName": "3-7定工務議提23附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5e061cd2-4122-4bf8-81e2-be8cd759ddf4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/07\/07",
+    "ExecuteReNumber": "府工養二字第 1110823283號",
+    "ExecuteReMemo": "本府就「建請市府重鋪永康區大灣路970巷之道路路面柏油，以保障民眾與車輛往來之安全。」一案，敬答覆如下：\r\n本府工務局經查部份巷弄係為私設巷弄且為消防通道等，且其巷弄係為4米不等道路AC改善約400㎡，已請區公所先行將道路破損嚴重部份切割修補，以維護用路人安全並由區公所優先以開口契約辦理改善。",
+    "ErrorMessage": ""
+}

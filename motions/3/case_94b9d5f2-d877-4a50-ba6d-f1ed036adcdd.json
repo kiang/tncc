@@ -1,0 +1,55 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2022\/05\/05",
+    "ComeNumber": "府財稅字第1110587761號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市社會住宅興辦及公益出租人出租房屋優惠地價稅及房屋稅自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"配合本市110年12月21日修正公布「臺南市房屋稅徵收率自治條例」，自111年7月1日起調高非自住之住家用房屋稅稅率，為促進民間興辦社會住宅之意願，依住宅法第19條第1項第5款、第6款或同條第2項規定辦理者，使其減徵後房屋稅稅率與房屋稅條例第5條規定公益出租人出租使用稅率相同，爰擬具本修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經111年5月3日市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市社會住宅興辦及公益出租人出租房屋優惠地價稅及房屋稅自治條例」修正草案(含總說明、對照表及草案條文)乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "2022\/06\/13",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/07\/11",
+    "SendNumber": "南議法規字第 1110007423號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=44ec3d6e-c948-449a-bace-85c9e07cea9e",
+            "FileName": "3-7定法規市提1-總說明、條文對照表、草案條文.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=94b9d5f2-d877-4a50-ba6d-f1ed036adcdd&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=82288e80-3700-4e0d-9fd3-0d9b98278bfc",
+            "FileName": "3-7定法規委員會議案審查會議紀錄111.6.13(含審查意見報告書、審查結果對照表).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c395e251-c3b1-41a4-977f-ce4ba7a6d192",
+            "FileName": "3-7定法規市提1大會決議-修正「臺南市社會住宅興辦及公益出租人出租房屋優惠地價稅及房屋稅自治條例」草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "2022\/05\/31",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/06\/08",
+    "FirstDesc": "交付法規委員會審查。",
+    "SecondDate": "2022\/07\/04",
+    "SecondDesc": "照審查意見通過。",
+    "ThirdDate": "2022\/07\/04",
+    "ThirdDesc": "照二讀會決議通過。",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

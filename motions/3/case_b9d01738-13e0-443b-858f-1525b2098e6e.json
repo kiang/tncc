@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "46",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳秋宏",
+    "OrgTitle2": "沈家鳳、李宗翰、Ingay Tali穎艾達利、李偉智、沈震東、郭鴻儀、劉米山、邱莉莉",
+    "CaseCause": "麻豆區新生南路218巷往西到底，牆面有左右轉指示標牌，但左轉入涵洞則為單行道，造成用路人逆向行駛狀況，建請改善不明指示標牌之情況。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"如圖。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/11\/25",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/12\/09",
+    "SendNumber": "南議保安字第 1090011921號",
+    "DoDesc": "本案經市府109年12月22日府交工字第1091539161號函復:\r\n本府就「建請改善麻豆區新生南路218巷往西到底，牆面有左右轉指示標牌，但左轉入涵洞則為單行道，造成用路人逆向行駛狀況，建請改善不明指示標牌之情況」案，敬答覆如下：\r\n本府交通局業於109年11月29日派工將安全方向導引標誌「輔2」雙向4A更換為右轉3A，以利用路人遵行方向行駛。\r\n(改善前後照片詳如夾檔)\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=457f6638-444d-48c1-ad46-be0f07480b0e",
+            "FileName": "麻豆區新生南路218巷底指示標牌不明.jpg",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4d00ff91-12b9-41b6-a245-7e5c0d483911",
+            "FileName": "3-4定議提第46號書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b9d01738-13e0-443b-858f-1525b2098e6e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府109年12月22日府交工字第1091539161號函復:\r\n本府就「建請改善麻豆區新生南路218巷往西到底，牆面有左右轉指示標牌，但左轉入涵洞則為單行道，造成用路人逆向行駛狀況，建請改善不明指示標牌之情況」案，敬答覆如下：\r\n本府交通局業於109年11月29日派工將安全方向導引標誌「輔2」雙向4A更換為右轉3A，以利用路人遵行方向行駛。\r\n(改善前後照片詳如夾檔)\r\n",
+    "ErrorMessage": ""
+}

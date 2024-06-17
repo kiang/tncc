@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第7次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2018\/03\/09",
+    "ComeNumber": "府農港字第1070292021號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南市淺海牡蠣養殖管理自治條例」第六條及第十七條修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為推廣本市漁民使用改良式浮具，減少保麗龍浮具污染問題，擬具修正自治條例，增訂浮具以保麗龍或易破損材質製作者，其外層應有包覆或保護結構，並規範本修正條文自一百零八年十月一日施行。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府107年3月7日第328次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市淺海牡蠣養殖管理自治條例第六條及第十七條草案」（含總說明、條文對照表及條文內容）乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2018\/05\/25",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2018\/06\/08",
+    "SendNumber": "南議法規字第 1070004217號",
+    "DoDesc": "本府於107年9月4日府法規字第1070981342A號令修正公布實施，本次修正內容為自本(108)年10月1日起，浮筏式牡蠣養殖禁止使用未包覆之保麗龍浮具,目前已加強宣導並於108年10月1日推動。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1c947e1a-0cce-45a4-8882-18b29078a68d",
+            "FileName": "2-7定市提5-臺南市淺海牡蠣養殖管理自治條例第六條及第十七條修正草案(總說明、對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d0fc06d0-1223-45ce-af08-4f2453a5354e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2018\/03\/07",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本府於107年9月4日府法規字第1070981342A號令修正公布實施，本次修正內容為自本(108)年10月1日起，浮筏式牡蠣養殖禁止使用未包覆之保麗龍浮具,目前已加強宣導並於108年10月1日推動。",
+    "ErrorMessage": ""
+}

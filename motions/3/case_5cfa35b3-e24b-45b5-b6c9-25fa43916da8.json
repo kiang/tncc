@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第2次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "2",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李宗翰、劉米山、沈家鳳、陳秋宏、黃麗招、呂維胤、蔡筱薇、Ingay Tali穎艾達利",
+    "OrgTitle2": "蔡蘇秋金、陳昆和、林志展、林宜瑾、楊中成、沈震東、蔡旺詮、吳禹寰、鄭佳欣、許又仁、郭鴻儀",
+    "CaseCause": "要求重新檢討自用住宅房屋稅。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、新房界線一刀劃在105年7月1日，將使未來下一代購買負擔增加、新屋價格增加、租屋價格增加。\"},{\"tag\":\"p\",\"content\":\"二、要求臺南市政府重新檢討自用住宅房屋稅，調降或凍漲自用住宅稅基，並加高刻意囤屋持有人成本，以符合房屋稅核心價值與目標。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2019\/02\/27",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/03\/07",
+    "SendNumber": "南議財經字第 1080002017號",
+    "DoDesc": "市府108.3.25府財稅字第1080375560號函覆:\r\n本府就「要求重新檢討自用住宅房屋稅。」，敬覆如下：\r\n本市108 年不動產評價委員會已決議單一自住房屋，於課徵房屋稅時折減課稅現值16%（即實質稅率由1.2%降低為1%），現值最高折減100萬元，但附帶決議建議臺南市政府應提「臺南市房屋稅徵收率自治條例」修正案。建請貴會支持提高非自住房屋之稅率，俾配套建置符合租稅公平之房屋稅制度，落實居住正義。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=441b520b-fcae-4353-b1f8-d41043c32e0f",
+            "FileName": "大會決議.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bdaaa2a8-ba9d-4123-b5e5-fe4eb7fbacdd",
+            "FileName": "臨3-2議提2-檢討自住房屋稅-覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5cfa35b3-e24b-45b5-b6c9-25fa43916da8&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/02\/14",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "市府108.3.25府財稅字第1080375560號函覆:\r\n本府就「要求重新檢討自用住宅房屋稅。」，敬覆如下：\r\n本市108 年不動產評價委員會已決議單一自住房屋，於課徵房屋稅時折減課稅現值16%（即實質稅率由1.2%降低為1%），現值最高折減100萬元，但附帶決議建議臺南市政府應提「臺南市房屋稅徵收率自治條例」修正案。建請貴會支持提高非自住房屋之稅率，俾配套建置符合租稅公平之房屋稅制度，落實居住正義。",
+    "ErrorMessage": ""
+}

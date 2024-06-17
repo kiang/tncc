@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "40",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "張世賢",
+    "OrgTitle2": "黃麗招、李文俊、李坤煌",
+    "CaseCause": "建請市府地政局勘作修築白河區蓮潭里北埔往陳明志前議員別墅之農路編號詔安農地重劃區北埔一輪農路56，以利人車出入安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、該案主民國100年即已透過葉宜津立委請求市府協助，迄今未果。\"},{\"tag\":\"p\",\"content\":\"二、該處通往八掌溪畔，四季前往賞鳥攝影，欣賞蘆葦花開，遊客如織，因農路已崩塌嚴重，又無法會車，意外頻傳，應即改善。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2014\/10\/22",
+    "DoneDesc": "照審查意意見通過",
+    "SendDate": "2014\/10\/27",
+    "SendNumber": "南議工務字第 1030006950號",
+    "DoDesc": "本案經市府103年11月11日府地農字第1031053945號函復：\r\n一、本案已列入本府103年度重劃區緊急農水路改善計畫辦理，業經行政院農業委員會核定在案(核定函號：行政院農業委員會103年10月2日農水字第1030082909號函)。\r\n二、本局另於103年10月23日南市地農字第1031005809號函請臺南市白河區公所辦理設計、發包作業。目前臺南市白河區公所正辦理工程設計中。\r\n三、檢附行政院農業委員會103年10月2日農水字第1030082909號函暨本局103年10月23日南市地農字第1031005809號函影本1份。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4638d412-5291-4e94-a460-ca071e958f1f",
+            "FileName": "議提40附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b35dc5dd-1570-48ec-be01-9df3251381fc&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意意見通過",
+    "FirstDate": "2014\/08\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府103年11月11日府地農字第1031053945號函復：\r\n一、本案已列入本府103年度重劃區緊急農水路改善計畫辦理，業經行政院農業委員會核定在案(核定函號：行政院農業委員會103年10月2日農水字第1030082909號函)。\r\n二、本局另於103年10月23日南市地農字第1031005809號函請臺南市白河區公所辦理設計、發包作業。目前臺南市白河區公所正辦理工程設計中。\r\n三、檢附行政院農業委員會103年10月2日農水字第1030082909號函暨本局103年10月23日南市地農字第1031005809號函影本1份。\r\n",
+    "ErrorMessage": ""
+}

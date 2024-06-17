@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2016\/04\/11",
+    "ComeNumber": "府衛食藥字第1050281563號",
+    "OrgTitle": "臺南市政府衛生局",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南市加水站衛生管理自治條例」第四條、第十六條修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為維護及確保本市加水站供應之水質衛生安全，特制定自治條例，爰配合食品衛生管理法名稱業修正為食品安全衛生管理法，故修正自治條例第四條、第十六條相關文字。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府105年3月1日第240次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市加水站衛生管理自治條例第四條、第十六條修正草案」（含總說明、條文對照表及條文內容）乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2016\/06\/30",
+    "SendNumber": "南議法規字第 1050004522號",
+    "DoDesc": "臺南市政府105年7月6日府法規字第1050695055A號函修正公布，另以105年7月19日府衛食藥字第1050689479號函陳報衛生福利部在案。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=97d7c0b2-8f17-4fe3-a7e9-c4d868e431a7",
+            "FileName": "2-3定法規市提2(臺南市加水站衛生管理自治條例第四條、第十六條修正 草案總說明、對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9658cc0c-8373-40c6-8869-14e27bb4b31a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2016\/04\/11",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "臺南市政府105年7月6日府法規字第1050695055A號函修正公布，另以105年7月19日府衛食藥字第1050689479號函陳報衛生福利部在案。",
+    "ErrorMessage": ""
+}

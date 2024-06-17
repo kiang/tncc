@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第2次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2015\/04\/23",
+    "ComeNumber": "府工管一字第1040403654號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "擬修訂「臺南市建築管理自治條例」第三條、第二十三條、第二十七條，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為符合建築管理實際需要，重新修定「臺南市建築管理自治條例」第三條、第二十三條、第二十七條（草案）。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本自治條例業經本府103年12月3日第186次市政會議審議通過，送請貴會審議。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請惠予審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2015\/11\/05",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2015\/11\/17",
+    "SendNumber": "南議法規字第 1040007783號",
+    "DoDesc": "依規定檢附「臺南市建築管理自治條例」第三條、第二十三條及第二十七條草案等資料，另函送內政部核備",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0adabc29-96b3-4d29-93a8-3aaaebe48952",
+            "FileName": "2-2定法規議提2(條文草案總說明、對照表、條文草案).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3737d0de-e1f3-462e-8dc7-bfe4ce09be09&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2015\/08\/28",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "依規定檢附「臺南市建築管理自治條例」第三條、第二十三條及第二十七條草案等資料，另函送內政部核備",
+    "ErrorMessage": ""
+}

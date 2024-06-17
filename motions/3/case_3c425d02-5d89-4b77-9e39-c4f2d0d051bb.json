@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "25",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李宗翰、林志展",
+    "OrgTitle2": "蔡筱薇、蔡蘇秋金、陳秋宏、邱莉莉",
+    "CaseCause": "建請新聞處提供輿情監控系統分析數據及說明處資料。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、請新聞處提供所採購之輿情監控系統所花費之數額及該系統所具備之功能等相關資料。\"},{\"tag\":\"p\",\"content\":\"二、請新聞處提供該輿情監控系統目前所測得之關鍵字分析資料，例如輸入臺南市長名字「黃偉哲」所出現之文字雲為何。\"},{\"tag\":\"p\",\"content\":\"三、建請新聞處提供未來將如何使用該輿情監控系統之規劃，及分析數據後將如何處理。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2021\/08\/10",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/08\/27",
+    "SendNumber": "南議教育字第 1100006593號",
+    "DoDesc": "本案經臺南市政府110年9月14日府新傳字第1101115144號函復本會在案：\r\n本府就「建請新聞處提供輿情監控系統分析數據及說明處資料」案，敬答覆如下： \r\n一、 請新聞處提供所採購之輿情監控系統所花費之數額及該系統所具備之功能等相關資料。\r\n(一)採購案名：臺南市政府 110 年度網路輿情蒐集分析通報服務\r\n(二)履約廠商：意藍資訊股份有限公司\r\n(三)採購金額：77 萬 8428 元\r\n(四)服務期間：110\/2\/1-111\/1\/31 共計 12 個月，餘詳如附件。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9e9568d2-593e-4a21-a624-089ef6ac7b19",
+            "FileName": "3-5定-教育議提25號案-新聞處回復.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3c425d02-5d89-4b77-9e39-c4f2d0d051bb&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經臺南市政府110年9月14日府新傳字第1101115144號函復本會在案：\r\n本府就「建請新聞處提供輿情監控系統分析數據及說明處資料」案，敬答覆如下： \r\n一、 請新聞處提供所採購之輿情監控系統所花費之數額及該系統所具備之功能等相關資料。\r\n(一)採購案名：臺南市政府 110 年度網路輿情蒐集分析通報服務\r\n(二)履約廠商：意藍資訊股份有限公司\r\n(三)採購金額：77 萬 8428 元\r\n(四)服務期間：110\/2\/1-111\/1\/31 共計 12 個月，餘詳如附件。",
+    "ErrorMessage": ""
+}

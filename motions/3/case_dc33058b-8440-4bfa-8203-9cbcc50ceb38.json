@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "13",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2021\/03\/26",
+    "ComeNumber": "府農港字1100389181號",
+    "OrgTitle": "臺南市政府農業局所屬動物防疫保護處",
+    "OrgTitle2": "",
+    "CaseCause": "為促進將軍漁港土地有效利用，辦理「本市將軍漁港修造船廠一、四及商業三用地標租案」，及核發土地使用權同意書，提請審議案。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、查土地法第25條規定「直轄市或縣(市)政府對於其所管公有土地，非經該管區內民意機關同意，並經行政院核准，不得處分或設定負擔或超過十年期間之租賃」。\"},{\"tag\":\"p\",\"content\":\"二、修造船廠一、四及商業三用地為將軍區山子腳段3535-114、117、32、33、36、37、84、35、163地號等9筆市有土地，經行政院106年2月24日院授內中地字1060012526號函核准辦理土地標租及核發土地使用權同意書在案，並於4年內完成處分。\"},{\"tag\":\"p\",\"content\":\"三、旨揭土地因107年-108年辦理標租期間無人投標，後續因台灣智慧尖端科技股份有限公司（下稱廠商）欲投資將軍漁港而暫停將軍漁港標租案辦理，惟廠商遲不提出投資案規劃期程及計畫，爰於109年12月4日奉准重新辦理土地標租案，因旨案經行政院核准已逾4年處分期限，爰重新申辦處分案。\"},{\"tag\":\"p\",\"content\":\"四、為促進市有土地利用、增加市庫效益，辦理旨揭土地標租案及核發土地使用權同意書。\"},{\"tag\":\"p\",\"content\":\"五、本案業經本府110年3月3日第480次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審議，如蒙同意再報請行政院核准，完成處分程序，辦理標租及核發土地使用權同意書。\"}]",
+    "CheckDate": "2021\/08\/06",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/08\/26",
+    "SendNumber": "南議建設字第 1100006936號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f023e0e3-5edc-4a70-a659-b6adf7f7b19a",
+            "FileName": "行政院核准函.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=dc33058b-8440-4bfa-8203-9cbcc50ceb38&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

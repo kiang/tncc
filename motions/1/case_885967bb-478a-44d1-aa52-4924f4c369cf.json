@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第7次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "85",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "曾培雅",
+    "OrgTitle2": "李退之、林美燕",
+    "CaseCause": "東安路從凱旋路口到東和路口路面破損，建請鋪新柏油路面。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"1.東安路前半段(從東寧路交叉路口到凱旋路口)已於三月份完成路面翻修。\"},{\"tag\":\"p\",\"content\":\"2.後半段也已損壞，建請翻修路面。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2014\/06\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2014\/06\/26",
+    "SendNumber": "南議工務字第 1030003993號",
+    "DoDesc": "本案經市府103年7月29日府工務一字第1030677746號函復：\r\n書面答覆及會勘紀錄如附件\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=17940ab8-e777-4a16-9b4a-ca2c2346fa8b",
+            "FileName": "工務議提85號案書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=885967bb-478a-44d1-aa52-4924f4c369cf&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2014\/04\/07",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府103年7月29日府工務一字第1030677746號函復：\r\n書面答覆及會勘紀錄如附件\r\n",
+    "ErrorMessage": ""
+}

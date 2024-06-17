@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 臨時會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "6",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/11\/28",
+    "ComeNumber": "府客綜字第 1121579622 號",
+    "OrgTitle": "臺南市政府客家事務委員會",
+    "OrgTitle2": "",
+    "CaseCause": "客家委員會核定本府辦理「113年臺南市客語深根服務計畫」，經費新臺幣(以下同)32萬8,000元(中央補助款27萬元、市配合款5萬8,000元)因未及納入113年度總預算案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據客家委員會112年11月20日客會語字第1120008661號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款、第6款，經上級政府核定之補助款，所使用之支出、配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案計畫113年度預算原編列277萬4,000元（中央補助款233萬元、市配合款44萬4,000元）在案，先予敘明。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"嗣因113年度客語深根服務計畫將納入客語說故事活動及增加客語師資專業知能研習場次，爰獲客家委員會核定補助本案經費310萬2,000元(中央補助款260萬元、市配合款50萬2,000元)，較原編列預算增加32萬8,000元(中央補助款27萬元、市配合款5萬8,000元)，因未及納入113年度總預算案，擬辦理墊付，俟113年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"本案業經本府112年11月28日第622次市政會議審議通過。\",\"children\":[]},{\"order\":\"六、\",\"content\":\"提送墊付款案緊急性理由：本案經費係補助本府辦理臺南市客語深根服務計畫」，由於113年度計畫將於1月開始執行及送納入預算證明至客家委員會，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/12\/13",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/12\/21",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/12\/26",
+    "SendNumber": "南議民教字第 1120012891號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4162c77a-11b2-4df2-83f8-dceae0ef3ce1",
+            "FileName": "民教市提6(客委會)-附件(核定函及計畫書).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e1f74329-e12a-417e-9808-bc3fa56a971e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/12\/04",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/12\/12",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

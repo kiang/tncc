@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第8次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2013\/07\/19",
+    "ComeNumber": "府民自字第1020619033號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理出售本府經管坐落本市新營區新營段628-24地號等34筆非公用市有土地，擬依土地法第25條規定完成處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、市有土地鄰地所有權人檢附畸零地合併使用證明書申請承購坐落本市新營區新營段628-24地號等20筆市有土地，擬依「臺南市市有財產管理自治條例」第51條規定辦理讓售。\"},{\"tag\":\"p\",\"content\":\"二、市有土地承租人申請承購坐落本市永康區東灣段578地號等14筆市有土地，擬依「臺南市市有財產管理自治條例」第50條第1項第2款規定辦理讓售。\"},{\"tag\":\"p\",\"content\":\"三、本案業經本府102年4月3日第106次及102年7月10日第118次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2013\/08\/09",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2013\/08\/20",
+    "SendNumber": "南議財經字第 1020010790號",
+    "DoDesc": "依土地法第25條規定送內政部完成處分程序中。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=47084d56-4bc6-474f-a84d-157effdfab20",
+            "FileName": "第一屆第8次臨時大會擬處分清冊(提案2).xls",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ef010ffb-8089-4412-8097-7e58756baa75&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2013\/07\/31",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "依土地法第25條規定送內政部完成處分程序中。",
+    "ErrorMessage": ""
+}

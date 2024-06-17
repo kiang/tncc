@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "173",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "周奕齊、楊中成、蔡筱薇、蔡旺詮",
+    "CaseCause": "建請於玉井區福德段742、792地號通道部分，加強排水設施，設計施做路側排水溝。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"玉井區福德段742、792地號通道，為重要通行道路，為免於雨季汛期造成積水影響通行，建請加強路側排水設施。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"依據玉井區公所111年5月6日所農建字第1110304287號函續辧。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"現場道路圖如附件。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/06\/22",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/07\/14",
+    "SendNumber": "南議工務字第 1110007619號",
+    "DoDesc": "經查玉井區福德段742、792 地號等2筆土地係屬玉井都市計畫區8M計畫道路，長約72公尺，寬度8公尺，本府工務局先予錄案並視市府建設期程及財政狀況研議辦理。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cf024c44-2360-4a60-a63e-face197c74ce",
+            "FileName": "3-7定 工務議提173-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f69aa772-22af-4327-904f-1ef92fca8d8c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/07\/28",
+    "ExecuteReNumber": "府工新二字第 1110954397號",
+    "ExecuteReMemo": "經查玉井區福德段742、792 地號等2筆土地係屬玉井都市計畫區8M計畫道路，長約72公尺，寬度8公尺，本府工務局先予錄案並視市府建設期程及財政狀況研議辦理。",
+    "ErrorMessage": ""
+}

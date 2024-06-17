@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "34",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳碧玉",
+    "OrgTitle2": "周麗津、蔡旺詮、劉米山、李啓維",
+    "CaseCause": "建請市府地政局儘速在新市區東大社段726、727、728地號，進行農地溝渠改善工程，俾利農耕。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據民眾反映，上該地號無施作溝渠，每逢雨季宣洩不及，水淹農田，造成農損，嚴重影響農民生計。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請市府地政局儘速進行溝渠改善工程，俾利農耕。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/06\/21",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/07\/08",
+    "SendNumber": "南議財經字第 1110006587號",
+    "DoDesc": "本府就「建請市府地政局儘速在新市區東大社段726、727、728地號，進行農地溝渠改善工程，俾利農耕」案，敬答覆如\r\n下：\r\n一、 經查東大社段726、727、728地號排水溝屬非灌區內排水溝，現況溝牆破損亟需辦理改善，將視年度農路改善預 算審查研議辦理。\r\n二、承蒙 貴會對於本案之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=eac0b2c4-c549-4250-a897-a87764c5fa35",
+            "FileName": "34.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4d20ef66-16c8-4dc4-b18a-bea987f66a4f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/04\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/07\/20",
+    "ExecuteReNumber": "府地農字第 1110902265號",
+    "ExecuteReMemo": "本府就「建請市府地政局儘速在新市區東大社段726、727、728地號，進行農地溝渠改善工程，俾利農耕」案，敬答覆如\r\n下：\r\n一、 經查東大社段726、727、728地號排水溝屬非灌區內排水溝，現況溝牆破損亟需辦理改善，將視年度農路改善預 算審查研議辦理。\r\n二、承蒙 貴會對於本案之關切，本府至為感謝，尚請不吝賜教。\r\n",
+    "ErrorMessage": ""
+}

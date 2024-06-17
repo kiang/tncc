@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "16",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "李啓維、陳怡珍、Ingay Tali 穎艾達利、陳秋萍、周奕齊、林冠維",
+    "CaseCause": "請市府規劃於新化區護東路1130巷靠近護東路1060巷設置消防栓。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"此處原為無自來水管線之區域，經爭取將施工設置自來水管線，為後續安全考量，建請市府規畫設置消防栓，保障民眾安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/11\/27",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/12\/06",
+    "SendNumber": "南議保安字第 1120011516號",
+    "DoDesc": "本府就「請市府規劃於新化區護東路1130巷靠近護東路1060巷設置消防栓」案，敬答復如下：\r\n一、本府消防局業於112年11月9日派員配合會勘，目前尚無適當自來水管徑可設置消防栓，水公司預計於明(113)年初設置自來水管線(100mm)，俟本府經濟發展局補助設置消防栓審查作業要點修訂完成後，再依相關要點辦理後續事宜。\r\n二、經查本市新化區護東路上設有消防栓，若旨揭地區現階段有救災需求，可以中繼方式供給救災水源；本府消防局為強化水源運用，轄區救災救護大隊每半年均辦理教育訓練(含水線佈署、循環送水、實機操作等)，各分隊每季辦理蓄水池、深水井或河川汲水之演練。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=628a3654-2633-432d-a948-ae20a4902cf5",
+            "FileName": "新化護東路1130巷近護東路1060巷設置消防栓-李偉智.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2f667b31-8b03-41aa-abb7-07f8948ff1df",
+            "FileName": "4-2-16.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=04d71c86-4799-4b2f-b18f-6b717be27546&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/12\/08",
+    "ExecuteReNumber": "府消救字第 1121618257號",
+    "ExecuteReMemo": "本府就「請市府規劃於新化區護東路1130巷靠近護東路1060巷設置消防栓」案，敬答復如下：\r\n一、本府消防局業於112年11月9日派員配合會勘，目前尚無適當自來水管徑可設置消防栓，水公司預計於明(113)年初設置自來水管線(100mm)，俟本府經濟發展局補助設置消防栓審查作業要點修訂完成後，再依相關要點辦理後續事宜。\r\n二、經查本市新化區護東路上設有消防栓，若旨揭地區現階段有救災需求，可以中繼方式供給救災水源；本府消防局為強化水源運用，轄區救災救護大隊每半年均辦理教育訓練(含水線佈署、循環送水、實機操作等)，各分隊每季辦理蓄水池、深水井或河川汲水之演練。",
+    "ErrorMessage": ""
+}

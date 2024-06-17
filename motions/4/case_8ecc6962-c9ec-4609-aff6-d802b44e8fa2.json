@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "188",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳秋宏",
+    "OrgTitle2": "林依婷、蔡筱薇、陳皇宇、沈家鳳、李宗翰、沈震東",
+    "CaseCause": "官田區川文山路面鋪面龜裂破損嚴重，危及民衆通行安全，提請改善。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"官田區川文山面積近14公頃，遊客眾多，園區道路卻是年久失修，影響遊客行走安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/11\/27",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/12\/05",
+    "SendNumber": "南議工務字第 1120011432號",
+    "DoDesc": "本府就「官田區川文山路面鋪面龜裂破損嚴重，危及民眾通行安全，提請改善」案，敬答覆如下：\r\n本案112年11月29日邀集陳秋宏議員服務處、臺南市政府農業局、區公所及里長現場勘查，會勘結果確認該路段之管理機關為臺南市政府農業局，後續由本府農業局錄案並研議辦理改善。 ",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=23bae20f-cbb1-4140-8df6-7f81ca03663c",
+            "FileName": "4-2定議提188號附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8ecc6962-c9ec-4609-aff6-d802b44e8fa2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/12\/27",
+    "ExecuteReNumber": "府工務二字第 1121718544號",
+    "ExecuteReMemo": "本府就「官田區川文山路面鋪面龜裂破損嚴重，危及民眾通行安全，提請改善」案，敬答覆如下：\r\n本案112年11月29日邀集陳秋宏議員服務處、臺南市政府農業局、區公所及里長現場勘查，會勘結果確認該路段之管理機關為臺南市政府農業局，後續由本府農業局錄案並研議辦理改善。 ",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "3",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市政府經濟發展局",
+    "OrgTitle2": "",
+    "CaseCause": "「光電儲能場設置及九崴天然氣發電廠設置」專案報告",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"「九崴天然氣發電廠」及「新營、柳營儲能場」選址不當應重新選址，在未制定儲能場管理審查標準或自治條例前不應輕易放行施工及重新審查並不得核准新設儲能場址。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請臺南市政府儘速制訂再生能源發電、儲能設備設置自治條例，並訂定以案場規模實行分級管制，災害管制與營運期間管理規範並設置退場保證金及回復規範，以利綠能建設的推動及規劃。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"設置發電廠及儲能場時應於地方召開公聽會，由主管機關、當地公所、民意代表及居民共同參與說明會，並將環境影響及居民意見納入評估。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"請市府研議未取得民眾同意前，不予審查電廠開發案。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"設置儲能場應與住宅區保有適當之距離，以保障市民生命財產安全。\",\"children\":[]},{\"order\":\"六、\",\"content\":\"請市府經濟發展局、工務局、環境保護局等局處邀請本會議員辦理森霸電廠聯合會勘。\",\"children\":[]}]}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2023\/06\/07",
+    "DoneDesc": "照委員會結論通過。",
+    "SendDate": "2023\/06\/13",
+    "SendNumber": "南議財經字第 1120004203號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=07f23054-128e-423e-8241-94e55328bc99",
+            "FileName": "光電儲能廠設置及九崴天然氣發電廠.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cb4a624e-8ef1-47c5-9dd5-e928b9aa674e",
+            "FileName": "反對九崴天然氣發電廠簡報_0519議會說明.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e2bcda27-cfb1-4752-8887-05b46d6cd4da&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照委員會結論通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

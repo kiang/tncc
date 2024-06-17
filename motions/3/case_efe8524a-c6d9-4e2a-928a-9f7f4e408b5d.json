@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/09\/08",
+    "ComeNumber": "府交智安字第1101089915號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部營建署「提升道路品質計畫(2.0)」核定本市補助計畫「臺南市人本交通及校園教育宣導行銷案」經費500萬元(中央補助410萬元；市配合款90萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時再予轉正，敬請　審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據內政部110年8月24日台內營字第1100813839號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款之規定：「經上級政府核定之補助款，所使用之支出。」及第6款之規定：「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。」。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"(一)本案業經內政部營建署同意本市辦理「臺南市人本交通及校園教育宣導行銷案」並補助410萬元，本市自籌90萬元，總預算金額500萬元。\"},{\"tag\":\"p\",\"content\":\"(二)本案中央補助經費核定因日期較晚，未及納入本局111年度預算，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年9月6日第506次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時再予轉正。\"}]",
+    "CheckDate": "2021\/10\/13",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/10\/27",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/10\/29",
+    "SendNumber": "南議保安字第 1100010257號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bbe06d2c-35de-4e98-bfbe-fdf812f504d4",
+            "FileName": "保安2核定函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e62e5224-36c0-4a87-b6a9-828500615b95",
+            "FileName": "保安2-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=efe8524a-c6d9-4e2a-928a-9f7f4e408b5d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

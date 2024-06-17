@@ -1,0 +1,55 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-市法規案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝、邱莉莉、鄭佳欣",
+    "OrgTitle2": "蔡宗豪、李中岑、王家貞、林美燕、陳碧玉、黄肇輝、陳皇宇、李啓維、王宣貿、李宗霖、李偉智、方一峰、許至椿",
+    "CaseCause": "修正「臺南市攤販管理自治條例」第三條、第九條條文草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為保障消費者身體健康，並確實掌握攤販所販賣之商品及行為有無涉及不法情事，就臺南市政府各相關機關業務權責劃分，將警察局業務權責納入規範，爰修正第三條，增列第七款。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"另為杜絕臺南市未合法申請設置集合攤販許可之業者，其公然藐視主管機關執行公權力之決心，依地方制度法第二十六條第三項規定提高罰鍰額度，爰修正第九條。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市攤販管理自治條例」修正第三條、第九條條文草案總說明、條文草案對照表、修增後條文。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"經大會決議通過後，送市府公布施行。\"}]",
+    "CheckDate": "2023\/10\/25",
+    "CheckDesc": "第4屆第2次定期會(112年10月25日)審查意見：\r\n一、第三條維持現行條文，不予增修。\r\n二、第九條修正通過。（修正情形詳見審查結果對照表)",
+    "DoneDate": "2023\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/12\/07",
+    "SendNumber": "南議法規字第 1120011927號",
+    "DoDesc": "一、本案經臺南市政府113年1月30日以府經場攤字第1130182029號函復本會在案(如執行情形回覆附件1)：\r\n主旨：送本府對貴會第4屆第2次定期會決議案(法規議提第號案)「修正臺南市攤販管理自治條例第3條、第9條條文草案」」之書面答覆1份,請查照。說明：復貴會112年12月7日南議法規字第1120011927號函。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2651cfbd-8926-435f-a09e-33a7df582671",
+            "FileName": "4-2定法規議提1-「臺南市攤販管理自治條例」第三條、第九條修正草案附件-總說明、條文對照表、草案條文.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c67c293f-37e2-4b75-8a43-95d001312638",
+            "FileName": "(執行情形回覆附件1)113.1.30府經場攤字第1130182029號.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=52e090ec-3bb7-464c-ac39-bba18fdf45ae&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d3b1b42a-3c87-4452-8411-44d2525b9b25",
+            "FileName": "4-2定法規議提1-審查結果對照表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [],
+    "ReDate": "2023\/09\/15",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2023\/09\/22",
+    "FirstDesc": "提案人增加鄭佳欣議員，大會通過交付法規委員會審查。",
+    "SecondDate": "2023\/11\/30",
+    "SecondDesc": "照審查意見通過。",
+    "ThirdDate": "2023\/11\/30",
+    "ThirdDesc": "照二讀會決議通過。",
+    "ExecuteReDate": "2024\/01\/30",
+    "ExecuteReNumber": "府經場字第 1130182029號",
+    "ExecuteReMemo": "一、本案經臺南市政府113年1月30日以府經場攤字第1130182029號函復本會在案(如執行情形回覆附件1)：\r\n主旨：送本府對貴會第4屆第2次定期會決議案(法規議提第號案)「修正臺南市攤販管理自治條例第3條、第9條條文草案」」之書面答覆1份,請查照。說明：復貴會112年12月7日南議法規字第1120011927號函。",
+    "ErrorMessage": ""
+}

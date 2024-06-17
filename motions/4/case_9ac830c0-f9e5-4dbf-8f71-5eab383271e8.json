@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-動支第二預備金",
+    "ComeDate": "2023\/01\/13",
+    "ComeNumber": "府主預字第1120097244號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "檢送111年度臺南市總預算第二預備金動支數額表，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據預算法第70條規定辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"111年度臺南市總預算第二預備金預算編列4億元，動支數3億5,512萬6千元，節餘4,487萬4千元。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府112年1月10日第577次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會惠予審議。\"}]",
+    "CheckDate": "2023\/02\/13",
+    "CheckDesc": "聯席審查意見：\r\n一、照案通過。\r\n二、請工務局於本會期大會前向本會提供111年度第二預備金動支數額表-工務局主管-工程建築及設備（第18、19頁）2,568萬元，區公所申請表列21條道路改善工程經費之完整資料。\r\n三、日後審查第二預備金市府出列席人員，責成市府審酌。\r\n四、建議市府給予每位議員有地方建設經費的建議額度。\r\n五、蔡育輝議員保留大會發言權。(1.辦理臺南市農產運銷公司改善階梯植栽及交易場框架工程經費338萬元、2.辦理新化果菜市場—虎踞營區臨時停車場工程經費245萬元、3.辦理臺南市新化果菜市場樓梯安全性及排水設施改善工程經費156萬2,000元) \r\n六、林燕祝議員保留大會發言權。(辦理111年度臺南市傳統市場、夜市裝設政令宣導採購液晶顯示器附屬零件所需經費90萬5,000元)",
+    "DoneDate": "2023\/02\/17",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2023\/02\/18",
+    "SendNumber": "南議財經字第 1120000899號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f2c4fea4-cc84-46f5-9637-84426da68ba8",
+            "FileName": "整併-111二備金數額表(0119更新).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9ac830c0-f9e5-4dbf-8f71-5eab383271e8&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2023\/02\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

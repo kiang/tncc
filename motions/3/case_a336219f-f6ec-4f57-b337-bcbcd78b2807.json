@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "36",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡旺詮、陳怡珍",
+    "OrgTitle2": "周麗津、蔡秋蘭、林阳乙、許又仁、林易瑩",
+    "CaseCause": "建請市府儘速改善「臺南市污水下水道系統」網頁搜尋不易之問題。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、今年9月剛推出的「臺南市污水下水道系統」，透過新聞報導周知，整體頁面使用雖然流暢，但卻有搜尋不易之問題(如附圖1)。\"},{\"tag\":\"p\",\"content\":\"二、用該系統名稱下去搜尋，找到的頁面卻非該系統，使民眾無法順利線上申請(如附圖2)。\"},{\"tag\":\"p\",\"content\":\"三、民眾必須到水利局首頁才能找到該系統並申請。然而在首頁上該系統的名稱卻跟報導中提到的不同。換言之，看到報導想申請相關服務的民眾，無法自行搜尋到系統，亦很難在水利局首頁找到。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"1.問題一，系統名稱為「臺南市污水下水道系統」，為何在搜尋引擎上不能直接找到，還要透過迂迴的方式。如此麻煩，會使民眾放棄使用。\"},{\"tag\":\"p\",\"content\":\"2.問題二，假設民眾直接來到首頁，看到的是「用戶接管及污水下水道相關資訊」，但系統名稱是「臺南市污水下水道系統」，民眾不一定能聯想兩者是同一個頁面。\"},{\"tag\":\"p\",\"content\":\"3.問題三，一般新推出的系統或資訊，會置於最上方，甚至用跑馬燈顯示，為何首頁不見該系統的任何資訊?\"},{\"tag\":\"p\",\"content\":\"以上三個問題，請與資訊專家協商並改善。\"}]",
+    "CheckDate": "2021\/10\/22",
+    "CheckDesc": "函送市府研議。",
+    "DoneDate": "2021\/10\/27",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/11\/02",
+    "SendNumber": "南議工務字第 1100010167號",
+    "DoDesc": "本案經市府110年11月8日府水污養字第1101349544號函復：\r\n一、臺南市污水下水道系統近期因局內資訊安全管理等級提升，造成Google Search無法正常搜尋到本系統網頁，目前已改善。\r\n二、為提供民眾方便查詢系統網頁，本局近日研議改善作法如下：\r\n（一）修正功能俾利提供網路搜尋引擎（如Google Serach、微軟Bing等）搜尋並記錄本局污水下水道系統網站。\r\n（二）於臺南市政府官網以及水利局官網加入本系統超連結服務，民眾於瀏覽本府或本局官網時，亦可便於連結至本系統網站。\r\n（三）本系統網站首頁進行改版，便於民眾可直接於首頁瀏覽查詢污水相關資訊。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bd32fbe5-24a2-49cb-b7a9-ef419a39b6a5",
+            "FileName": "工務議提36-附圖1.jpg",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bcb2259a-bb9d-414e-8c81-9935cc997704",
+            "FileName": "工務議提36-附圖2.jpg",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a336219f-f6ec-4f57-b337-bcbcd78b2807&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年11月8日府水污養字第1101349544號函復：\r\n一、臺南市污水下水道系統近期因局內資訊安全管理等級提升，造成Google Search無法正常搜尋到本系統網頁，目前已改善。\r\n二、為提供民眾方便查詢系統網頁，本局近日研議改善作法如下：\r\n（一）修正功能俾利提供網路搜尋引擎（如Google Serach、微軟Bing等）搜尋並記錄本局污水下水道系統網站。\r\n（二）於臺南市政府官網以及水利局官網加入本系統超連結服務，民眾於瀏覽本府或本局官網時，亦可便於連結至本系統網站。\r\n（三）本系統網站首頁進行改版，便於民眾可直接於首頁瀏覽查詢污水相關資訊。",
+    "ErrorMessage": ""
+}

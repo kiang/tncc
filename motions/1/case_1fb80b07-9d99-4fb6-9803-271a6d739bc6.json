@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2012\/05\/11",
+    "ComeNumber": "府財產字第1010393834號",
+    "OrgTitle": "臺南市政府其他",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理本府經管坐落本市東區竹篙厝段2111、2111-1、2111-27、2111-39地號等4筆非公用市有土地設定地上權，擬依土地法第25條規定完成處分程序，提請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、法令依據：臺南市市有財產管理自治條例第45條第2項。\"},{\"tag\":\"p\",\"content\":\"二、市有土地設定地上權標的：坐落本市東區竹篙厝段2111、2111-1、2111-27、2111-39地號等4筆市有土地，面積共計7,707平方公尺，101年總公告現值為2億1,194萬2,500元。\"},{\"tag\":\"p\",\"content\":\"三、設定存續期間：以50年為原則，經雙方同意得延長最多20年。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府101年5月9日第65次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理地上權設定事宜。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2012\/06\/13",
+    "SendNumber": "南議財經字第 1010010581號",
+    "DoDesc": "奉行政院101年7月9日院授內中字第1016036501號函核准。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=86ae2fcb-6a60-4f06-b473-efb315c8a53a",
+            "FileName": "第一屆第3次定期大會擬處分清冊（提案5）.xls",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1fb80b07-9d99-4fb6-9803-271a6d739bc6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "奉行政院101年7月9日院授內中字第1016036501號函核准。",
+    "ErrorMessage": ""
+}

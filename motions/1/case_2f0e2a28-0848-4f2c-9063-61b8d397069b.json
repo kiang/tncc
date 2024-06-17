@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第1屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "18",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2012\/03\/14",
+    "ComeNumber": "府民自字第1010169235號",
+    "OrgTitle": "臺南市政府都市發展局",
+    "OrgTitle2": "",
+    "CaseCause": "擬制定「臺南市低碳城市自治條例」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據本府100年1月10日府法制字第1000007675號函發「臺南市政府及所屬各機關自治法規新訂及整併作業計畫」辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為有效減緩、因應及調適氣候變遷之影響，考量本市目前現況，以建立人民樂業、健康及國際接軌之低碳城市為目標，特制定「臺南市低碳城市自治條例」，主要內容包括各機關推動低碳城市之權責劃分，低碳教育及生活實踐、低碳城市推動與管理。現自治條例草案已研擬完成，爰提請貴會審議。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請惠予審議\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、修正第三條第一項（修正內容詳附表二）\r\n二、修正通過",
+    "DoneDate": "2012\/06\/06",
+    "DoneDesc": "照審查意見修正通過。",
+    "SendDate": "2012\/06\/22",
+    "SendNumber": "南議法規字第 1010010740號",
+    "DoDesc": "本案已於101年7月5日府都設字第1010561180號函送行政院核定，預計於102年2月底前公告實施。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5ee2de9f-70bf-467c-8895-2d24f40f4ed2",
+            "FileName": "臺南市低碳城市自治條例(總說明).doc",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b729f8d2-6c02-4737-8e57-a680ae79b569",
+            "FileName": "臺南市低碳城市自治條例（逐條說明、草案條文）.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2f0e2a28-0848-4f2c-9063-61b8d397069b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見修正通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案已於101年7月5日府都設字第1010561180號函送行政院核定，預計於102年2月底前公告實施。",
+    "ErrorMessage": ""
+}

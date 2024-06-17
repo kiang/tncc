@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "203",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳秋宏",
+    "OrgTitle2": "林志展、呂維胤、楊中成、邱莉莉",
+    "CaseCause": "下營區市道174線21K~23K道路鋪面破損嚴重，提請改善以利行車安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"下營區市道174線21K~23K(賀建里洲仔往賀建國小)路段，全路段鋪面老舊龜裂嚴重，產生坑洞不平整情形，建請辦理改善，以利通行安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/06\/22",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/07\/14",
+    "SendNumber": "南議工務字第 1110007688號",
+    "DoDesc": "經本府工務局111年6月23日派員與下營區公所、陳秋宏議員服務處現場勘查，174線市道22K+000~22K+273位於賀建國小旁路面轉彎處部分路面有老舊、龜裂及下陷之情事，爰經丈量改善長度約273公尺，寬度13M，面積約3550M^2，瀝青混凝土所需約408噸，經費共計135萬元，已於本(111)年7月14日改善完成(如照片)。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a03e027d-ac23-47de-a0a1-092809f17468",
+            "FileName": "20881_0935149A00_ATTCH2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=97e49115-7e69-42a4-b1c5-df3c9cb89cc6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/07\/26",
+    "ExecuteReNumber": "府工務二字第 1110935149號",
+    "ExecuteReMemo": "經本府工務局111年6月23日派員與下營區公所、陳秋宏議員服務處現場勘查，174線市道22K+000~22K+273位於賀建國小旁路面轉彎處部分路面有老舊、龜裂及下陷之情事，爰經丈量改善長度約273公尺，寬度13M，面積約3550M^2，瀝青混凝土所需約408噸，經費共計135萬元，已於本(111)年7月14日改善完成(如照片)。",
+    "ErrorMessage": ""
+}

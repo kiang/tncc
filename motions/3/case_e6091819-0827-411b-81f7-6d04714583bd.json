@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第10次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/12\/10",
+    "ComeNumber": "府觀旅字第1101496407號",
+    "OrgTitle": "臺南市政府觀光旅遊局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部觀光局核定本市111年度「臺南市旅遊服務中心營運管理補助計畫」經費新台幣156萬元整乙案(全額中央補助)為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據交通部觀光局110年11月25日觀旅字第1105001432C號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"本案核定補助金額為新台幣156萬元整，因未及納入本府111年度總預算案，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年12月7日第520次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/12\/14",
+    "CheckDesc": "聯席審查意見：\r\n一、同意墊付。\r\n二、請市府將本案資料送交本會各議員後始得使用。\r\n",
+    "DoneDate": "2021\/12\/22",
+    "DoneDesc": "一、同意墊付。\r\n二、本案相關資料之統計方式無法確認具各外語能力員額及需補足員額，請觀光旅遊局再詳加說明。",
+    "SendDate": "2021\/12\/27",
+    "SendNumber": "南議保安字第 1100013642號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c13650c3-0049-4bca-ab7d-92ef4c288b75",
+            "FileName": "市提1附件.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=19d3b702-e3e5-412b-9b6c-806c2b428db8",
+            "FileName": "3-10臨保安市提1號觀旅局補充資料.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e6091819-0827-411b-81f7-6d04714583bd&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "一、同意墊付。\r\n二、本案相關資料之統計方式無法確認具各外語能力員額及需補足員額，請觀光旅遊局再詳加說明。",
+    "FirstDate": "2021\/12\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

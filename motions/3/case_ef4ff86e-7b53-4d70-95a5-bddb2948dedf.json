@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2020\/03\/03",
+    "ComeNumber": "府工新二字第1090250761號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部水利署第五河川局補助辦理「柳營區南81重溪橋改建」案，工程改建總經費1億7,578萬元[中央補助工程費1億1,161萬2,000元，市配合款6,416萬8,000元（工程費6,116萬8,000、用地費300萬）]，其中109年度預計支用款310萬元(市配合款300萬元、中央補助款10萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟110年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據經濟部水利署第五河川局109年2月18日水五工字第10901022550號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\"},{\"tag\":\"p\",\"content\":\"三、本案款項係為辦理「柳營區南81線重溪橋改建」案，工程經費需求計新台幣1億7,578萬元[中央補助工程費1億1,161萬2,000元，市配合款6,416萬8,000元（工程費6,116萬8,000、用地費300萬）]，其中109年度預計支用款310萬元(市配合款300萬元、中央補助款10萬元)，因未及納入109年度總預算，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案採一次發包分年編列方式辦理，分3年編列：\"},{\"tag\":\"p\",\"content\":\"(1)109年度編列310萬元（中央補助款10萬元、市配合款300萬元）。\"},{\"tag\":\"p\",\"content\":\"(2)110年預算編列工程費1億元（中央補助款7,000萬元、市配合款3,000萬元）。\"},{\"tag\":\"p\",\"content\":\"(3)111年預算編列工程費7,268萬元（中央補助款4,151萬2,000元、市配合款3,116萬8,000元）。\"},{\"tag\":\"p\",\"content\":\"五、本案業經本府109年3月3日第428次市政會議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟110年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2020\/05\/07",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2020\/06\/09",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2020\/06\/15",
+    "SendNumber": "南議工務字第 1090003523號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=994c3358-e4c3-4d5f-93d1-03bd0ef67030",
+            "FileName": "市提5附件.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0dfea885-a2ce-4d4f-93c7-7180cc89ccf6",
+            "FileName": "市提5附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ef4ff86e-7b53-4d70-95a5-bddb2948dedf&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

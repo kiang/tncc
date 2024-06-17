@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "8",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2022\/08\/11",
+    "ComeNumber": "府財產字第1110998793號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理讓售本府經管坐落本市東區府連段254-2地號等9筆非公用市有土地，謹依土地法第25條規定之處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"市有土地鄰地所有權人檢附畸零地合併使用證明書申請承購坐落本市東區府連段254-2地號等4筆市有土地，擬依「臺南市市有財產管理自治條例」第51條規定辦理讓售。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"市有土地承租人申請承購坐落本市安平區漁港段131地號等5筆市有出租土地，擬依「臺南市市有財產管理自治條例」第50條第1項第2款規定辦理讓售。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府111年8月9日第554次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "2022\/10\/03",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/10\/05",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/10\/12",
+    "SendNumber": "南議財經字第 1110011695號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=18730a42-41bf-4927-88f4-54d1a41517f6",
+            "FileName": "提案8附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a6ca36d8-4666-40a5-a600-542e0ee111a6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/08\/23",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/08\/30",
+    "FirstDesc": "交付財經委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

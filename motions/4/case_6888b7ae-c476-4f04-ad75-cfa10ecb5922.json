@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "171",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "周嘉韋、林依婷",
+    "OrgTitle2": "蔡筱薇、李宗翰、蔡蘇秋金",
+    "CaseCause": "臺南市中西區財稅局(中西區忠義路一段96號)門口之導盲磚，建議重新鋪設。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"有鑑於中西區財稅局(中西區忠義路一段96號)門口之導盲磚，有中斷、不連續之情況，建議重新鋪設，以維視障朋友之行走權益；相關實際狀況如附件照片，建請改善。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/06\/02",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/06\/07",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/06\/15",
+    "SendNumber": "南議工務字第 1120004371號",
+    "DoDesc": "本府就「臺南市中西區財稅局(中西區忠義路一段96號)門口之導盲磚，建議重新鋪設。」案，敬答覆如下：\r\n經查案址人行道非屬本府工務局管養計畫道路範圍，本府工務局已於112年6月5日南市工養一字第1120735900號函請財政部南區國稅局辦理改善。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=12646cea-2f3f-4861-b064-3b1aae323d76",
+            "FileName": "4-1定工務議提171附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6888b7ae-c476-4f04-ad75-cfa10ecb5922&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/06\/28",
+    "ExecuteReNumber": "府工養一字第 1120798965號",
+    "ExecuteReMemo": "本府就「臺南市中西區財稅局(中西區忠義路一段96號)門口之導盲磚，建議重新鋪設。」案，敬答覆如下：\r\n經查案址人行道非屬本府工務局管養計畫道路範圍，本府工務局已於112年6月5日南市工養一字第1120735900號函請財政部南區國稅局辦理改善。",
+    "ErrorMessage": ""
+}

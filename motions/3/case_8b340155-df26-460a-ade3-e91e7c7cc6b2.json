@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "12",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2021\/09\/29",
+    "ComeNumber": "府教體處競字第1101167851號",
+    "OrgTitle": "臺南市政府教育局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送財團法人台南市體育發展基金會111年度預算案，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、財團法人台南市體育發展基金會政府累計捐助新臺幣1,454萬6,032元，捐助金額超過財產總額50%。\"},{\"tag\":\"p\",\"content\":\"二、預算書業於109年9月7日經該基金會110年第7屆第1次董監事會議通過。\"},{\"tag\":\"p\",\"content\":\"三、本案業經本府110年9月28日第510次市政會議審議通過。\"},{\"tag\":\"p\",\"content\":\"四、檢附財團法人台南市體育發展基金會111年預算書1份。\"},{\"tag\":\"p\",\"content\":\"五、依預算法第41條第4項規定，送請市議會審議。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "聯席審查意見：照案通過。",
+    "DoneDate": "2022\/01\/14",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2022\/01\/19",
+    "SendNumber": "南議民教字第 1110000726號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=14e85e4c-cbdc-41e2-8dfc-436cf5df861e",
+            "FileName": "3-6定-111年體育發展基金預算.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8b340155-df26-460a-ade3-e91e7c7cc6b2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

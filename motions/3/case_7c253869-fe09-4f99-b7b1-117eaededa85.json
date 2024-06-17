@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第9次 臨時會",
+    "PTypTitle": "民政",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/08\/16",
+    "ComeNumber": "府研智字第1100980315號",
+    "OrgTitle": "臺南市政府研究發展考核委員會",
+    "OrgTitle2": "",
+    "CaseCause": "行政院國家科學技術發展基金管理會核定本市「強化政府基層機關資安防護計畫」總經費5,484萬7,000元整(中央補助款3,839萬3,000元、市配合款1,645萬4,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據行政院秘書長110年7月20日院臺護長字第1100179621D號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案總經費5,484萬7,000元，採分案發包辦理，110年度核定預算5,484萬7,000元，因未及納入本府110年度總預算，為爭取時效，謹請貴會同意先行墊付，俟111年度總預算時辦理轉正。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年8月2日第502次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/09\/03",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/09\/10",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/09\/15",
+    "SendNumber": "南議民政字第 1100008152號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=48190338-6b35-4c2d-b431-cc290110ad67",
+            "FileName": "民政1(研考)-附件1(核定函及計畫書).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b8772b11-feae-40d5-909e-d00e64528e00",
+            "FileName": "民政1(研考)-附件2-採購資料.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7c253869-fe09-4f99-b7b1-117eaededa85&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/09\/01",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

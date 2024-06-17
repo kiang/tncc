@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第2次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "7",
+    "KidTitle": "市府提案",
+    "ComeDate": "2019\/09\/19",
+    "ComeNumber": "府交公運字第1081097553號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部公路總局核定補助本市辦理「108年度公路公共運輸多元推升計畫『幸福巴士計畫-臺南市幸福小黃營運缺口(一)』(計畫編號：109TNP01）」經費331萬6,000元（中央補助281萬9,000元；市配合款49萬7,000元），為爭取時效，謹請貴會同意先行墊付，俟109年度追加減預算或110年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據交通部公路總局108年9月6日路運計字第1080106683號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第四十四點第四款之規定：「經上級政府核定之補助款，所使用之支出。」及第四十四點第六款之規定：「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。」。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"（一）本案交通部公路總局同意補助營運費用331萬5,520元（配合預算編列進位為331萬6,000元），公路總局補助新臺幣281萬8,192元，本市自籌新臺幣49萬7,328元。\"},{\"tag\":\"p\",\"content\":\"（二）因本案未及納入本府交通局所屬公共運輸處109年度預算，擬請准予辦理先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府108年9月17日第406次市政會議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟109年度追加減預算或110年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2019\/10\/28",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2019\/11\/06",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2019\/11\/11",
+    "SendNumber": "南議保安字第 1080010220號",
+    "DoDesc": "一、案係交通部公路總局公路公共運輸多元推升計畫補助案件。\r\n二、本案刻正執行中，由本市港龍大車隊股份有限公司營運(綠20、綠20-1、綠21、黃14-1、黃15)。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=14d08f5e-1e39-488d-9420-e39d465df56b",
+            "FileName": "市提7-核定函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3f2c8616-ca6c-42d5-b3b5-3eb0a795666b",
+            "FileName": "市提7-核定函表格.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=eda37c75-652e-4d39-bd4b-343c2be120f8&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2019\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "一、案係交通部公路總局公路公共運輸多元推升計畫補助案件。\r\n二、本案刻正執行中，由本市港龍大車隊股份有限公司營運(綠20、綠20-1、綠21、黃14-1、黃15)。\r\n",
+    "ErrorMessage": ""
+}

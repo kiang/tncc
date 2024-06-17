@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "51",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "趙昆原",
+    "OrgTitle2": "吳禹寰、林阳乙、李鎮國、林美燕、蔡淑惠、蔡育輝、周奕齊、李中岑",
+    "CaseCause": "建請環保局檢視各區是有配置清溝車及沖吸二用車，或是清潔隊人力不足，導致側溝淤積嚴重，進而影響排水。若有器具以及人力有不足之處，請編列預算或提報向中央申請經費，以補足本市清溝的能力。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、新營區目前正在進行金華路長榮路優質道路改善工程，施工單位在開挖時發現舊溝淤積嚴重，溝內有不少的舊土、沙包、磚塊、水泥硬塊，故先清淤再施工成為整個工程延宕原因之一。\"},{\"tag\":\"p\",\"content\":\"二、請環保局檢視局內各區是否有配置清溝車及沖吸二用車，是否清溝不足導致側溝淤積嚴重，又或是清潔隊員的人力不足，無人力分派清溝。\"},{\"tag\":\"p\",\"content\":\"三、若有清溝車等器具或是人力不足之處，建請編列預算或提報向中央申請經費，以補足本市清溝能力，保護人民之生命財產。\"},,,,,,,,,,,,,,,,,,,,,,,,{\"tag\":\"p\",\"content\":\"\"}]",
+    "Method": "[]",
+    "CheckDate": "2020\/11\/26",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/12\/09",
+    "SendNumber": "南議建設字第 1090012123號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=12a1128b-69db-40fb-b966-0d86ec3b85ed",
+            "FileName": "議提51附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6e1d0284-1f1d-464d-bbbb-b5f10586ea0e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

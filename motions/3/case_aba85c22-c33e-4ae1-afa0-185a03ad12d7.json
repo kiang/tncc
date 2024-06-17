@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第12次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "16",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "郭鴻儀",
+    "OrgTitle2": "Ingay Tali穎艾達利、林易瑩、陳碧玉、黃麗招、李偉智、楊中成、沈家鳳、李啓維、鄭佳欣、蔡育輝",
+    "CaseCause": "建請市府提撥預算，於本市轄內公有零售市場增設不斷電冷藏設備，以備長時間停電時保存。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"今年度303全台大停電，全台停電戶數多達549萬戶，停電時間最長超過12.5小時，打破台電人為停電時間最長紀錄。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"停電危機下，公有零售市場生鮮攤販損失極為慘重，除無法營業損失外，因生鮮食材無法保存，以致餘貨報廢丟棄等問題，產生不必要浪費情形。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"建請市府提撥預算於公有零售市場增設不斷電冷藏設備，以利於各種突發情形進行緊急食材安置；並建立特殊情況食材去化管道，避免食材浪費等情事。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/03\/16",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/03\/25",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/03\/31",
+    "SendNumber": "南議財經字第 1110002459號",
+    "DoDesc": "本府就「建請市府提撥預算，於本市轄內公有零售市場增設不斷電冷藏設備，以備長時間停電時保存」案，敬答覆如下：\r\n一、本府擬逐年向中央爭取經費，用於公有零售市場增設不斷電冷藏設備系統，以期攤商爾後遭遇長時間停電時，得以進行緊急食材安置。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=971eef3d-a7a3-48fd-923c-02a58e502843",
+            "FileName": "財經16.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=aba85c22-c33e-4ae1-afa0-185a03ad12d7&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2022\/03\/09",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/04\/13",
+    "ExecuteReNumber": "南經處場工字第 1110450372號",
+    "ExecuteReMemo": "本府就「建請市府提撥預算，於本市轄內公有零售市場增設不斷電冷藏設備，以備長時間停電時保存」案，敬答覆如下：\r\n一、本府擬逐年向中央爭取經費，用於公有零售市場增設不斷電冷藏設備系統，以期攤商爾後遭遇長時間停電時，得以進行緊急食材安置。\r\n",
+    "ErrorMessage": ""
+}

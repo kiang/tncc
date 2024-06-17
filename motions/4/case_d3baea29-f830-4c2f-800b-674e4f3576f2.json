@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "265",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳秋宏",
+    "OrgTitle2": "林志展、周嘉韋、蔡蘇秋金、謝舒凡、蔡麗青、邱昭勝、沈家鳳、蔡筱薇",
+    "CaseCause": "請改善麻豆區港尾里保玄橋旁路面。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"路面老舊，粒料剝離，建請改善，以保障用路安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/06\/30",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/10",
+    "SendNumber": "南議工務字第 1120005940號",
+    "DoDesc": "本府就「請改善麻豆區港尾里保玄橋旁路面」案，敬答覆如下：\r\n本案110年7月1日偕同陳秋宏議員、區公所及港尾里長現場勘查，會勘結果為路面嚴重粒料脫離及破損現象，依實際需求 AC 改善約2,400M^2( 長 度 約 480M ， 寬 度 約 5M) ， 瀝 青 混 凝 土 需 約 276 噸(2,400M^2*0.05M*2.3T\/M^3)，由本府工務局112年度溪北路面刨鋪工程開口契約派工辦理，預計112年8月底前改善完成，以維用路人安全。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2dad2a27-a139-4214-a6b2-38979bc20030",
+            "FileName": "4-1定工務議提265附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d3baea29-f830-4c2f-800b-674e4f3576f2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/08\/01",
+    "ExecuteReNumber": "府工務二字第 1120960296號",
+    "ExecuteReMemo": "本府就「請改善麻豆區港尾里保玄橋旁路面」案，敬答覆如下：\r\n本案110年7月1日偕同陳秋宏議員、區公所及港尾里長現場勘查，會勘結果為路面嚴重粒料脫離及破損現象，依實際需求 AC 改善約2,400M^2( 長 度 約 480M ， 寬 度 約 5M) ， 瀝 青 混 凝 土 需 約 276 噸(2,400M^2*0.05M*2.3T\/M^3)，由本府工務局112年度溪北路面刨鋪工程開口契約派工辦理，預計112年8月底前改善完成，以維用路人安全。",
+    "ErrorMessage": ""
+}

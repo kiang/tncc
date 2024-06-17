@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第1次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2019\/03\/04",
+    "ComeNumber": "府教社字第1080276924號",
+    "OrgTitle": "臺南市政府教育局",
+    "OrgTitle2": "",
+    "CaseCause": "有關「臺南市社區大學發展自治條例」修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為配合終身學習法第10條修正及總統公布之社區大學發展條例，重新檢視本條文須修正處，爰擬具本修正草案，其要點說明如附草案總說明、條文對照表及條文草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府108年2月13日第375次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢送「臺南市社區大學發展自治條例」修正草案總說明、修正草案條文對照表及自治條例各1份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會審議通過後，公布之。\"}]",
+    "CheckDate": "2019\/05\/02",
+    "CheckDesc": "聯席審查意見：\r\n一、修正第一條文字為：本自治條例依終身學習法第十條及社區大學發展條例第十二條第一項規定制定之。\r\n二、第十一條增設第二項：前項社區大學審議會組成及作業要點由主管機關另定之。\r\n三、修正第十二條第二項文字為：前項評鑑及獎勵辦法，由主管機關另定之。\r\n四、修正第十三條第二項文字為：前項辦法，由主管機關另定之。\r\n五、附帶決議：社區大學評鑑結果應每年送議會備查。\r\n六、修正通過。\r\n",
+    "DoneDate": "2019\/05\/29",
+    "DoneDesc": "照聯席審查意見修正通過。",
+    "SendDate": "2019\/06\/10",
+    "SendNumber": "南議法規字第 1080005495號",
+    "DoDesc": "本案業經臺南市議會於108年5月29日三讀通過，本府以108年6月26日府法規第1080687384B號令修正發布，並於7月4日府教社第1080773159號函報教育部備查。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=881eb879-0678-43c6-8f10-2bd4bba60915",
+            "FileName": "3-1定市提2-臺南市社區大學發展自治條例修正案(總說明、對照表、修正草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=16c76472-7377-4cdc-9d3f-4f7a425a67ec&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見修正通過。",
+    "FirstDate": "2019\/03\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案業經臺南市議會於108年5月29日三讀通過，本府以108年6月26日府法規第1080687384B號令修正發布，並於7月4日府教社第1080773159號函報教育部備查。",
+    "ErrorMessage": ""
+}

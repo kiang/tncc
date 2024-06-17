@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第2次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "37",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "曾培雅",
+    "OrgTitle2": "林美燕、林燕祝",
+    "CaseCause": "東區崇誨里林森路2段192巷路面毀損嚴重及林森路2段路燈多支損壞，需汰換更新。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、林森路2段192巷路面坑坑洞洞、凹凸不平，需整修以維用路人安全。\"},{\"tag\":\"p\",\"content\":\"二、林森路2段因颱風造成路燈已多支損壞無法使用，需全路段汰換更新。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2015\/11\/05",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2015\/11\/13",
+    "SendNumber": "南議工務字第 1040007519號",
+    "DoDesc": "本案經市府104年12月21日府工務一字第1041226539號函復：（如夾檔附件）",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=eedf220b-76fa-435a-bdd6-4540e6ec3e38",
+            "FileName": "工務議提37號案復文.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=14353110-980c-4e06-9c46-0f6cea9ad2de&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2015\/08\/28",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府104年12月21日府工務一字第1041226539號函復：（如夾檔附件）",
+    "ErrorMessage": ""
+}

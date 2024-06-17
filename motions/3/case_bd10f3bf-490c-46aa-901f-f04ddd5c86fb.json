@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "33",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "尤榮智",
+    "OrgTitle2": "王家貞、李中岑、蔡育輝、蔡淑惠、林燕祝、張世賢",
+    "CaseCause": "請辧理官田區隆本里興隆街85巷東側排水改善工程，因社區地勢低窪，大雨時無法宣洩，造成淹水，急需辦理改善，以減少災害發生。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、官田區隆本里興隆街85巷東側排水，因社區地勢低窪，大雨、豪雨時無法宣洩，造成淹水。\"},{\"tag\":\"p\",\"content\":\"二、矩型側溝：長度70公尺、寬度0.4公尺、高度0.6公尺。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府水利局優先納入改善。\"}]",
+    "CheckDate": "2021\/10\/22",
+    "CheckDesc": "函送市府研議。",
+    "DoneDate": "2021\/10\/27",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/11\/02",
+    "SendNumber": "南議工務字第 1100010164號",
+    "DoDesc": "本案經市府110年12月1日府水工字第1101452706號函復：(附圖-詳夾檔)\r\n一、本案陳情位置為官田區隆本里興隆街85巷內東側民宅屋後土溝，現況渠寬約60CM，因該處原民生廢水主要導排至後方埤塘，因該埤塘現已轉為他用，地方希冀能將溝渠導排至鄰近社區側溝系統。\r\n二、經110年11月1日邀集臺南市工務局、民政局、官田區公所及里長辨理會勘，本案係屬改建導排屋後溝，因涉及私有土地範圍，已委請區公所整體評估規劃後再行提案市府卓處。\r\n三、承蒙貴會議席對於官田區治水工程之關切，本府至為感謝，尚請不吝賜教。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=01bb5015-199b-453c-b5ed-69012713203d",
+            "FileName": "3-6定(議提33)書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=bd10f3bf-490c-46aa-901f-f04ddd5c86fb&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年12月1日府水工字第1101452706號函復：(附圖-詳夾檔)\r\n一、本案陳情位置為官田區隆本里興隆街85巷內東側民宅屋後土溝，現況渠寬約60CM，因該處原民生廢水主要導排至後方埤塘，因該埤塘現已轉為他用，地方希冀能將溝渠導排至鄰近社區側溝系統。\r\n二、經110年11月1日邀集臺南市工務局、民政局、官田區公所及里長辨理會勘，本案係屬改建導排屋後溝，因涉及私有土地範圍，已委請區公所整體評估規劃後再行提案市府卓處。\r\n三、承蒙貴會議席對於官田區治水工程之關切，本府至為感謝，尚請不吝賜教。",
+    "ErrorMessage": ""
+}

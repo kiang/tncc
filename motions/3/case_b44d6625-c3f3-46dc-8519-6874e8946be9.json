@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第12次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-動支第二預備金",
+    "ComeDate": "2022\/02\/23",
+    "ComeNumber": "府主預字第1110272280號",
+    "OrgTitle": "臺南市政府主計處",
+    "OrgTitle2": "",
+    "CaseCause": "檢送110年度臺南市總預算第二預備金動支數額表，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據預算法第70條規定辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"110年度臺南市總預算第二預備金預算編列4億元，動支數3億6,978萬3千元，節餘3,021萬7千元。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府111年2月22日第530次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請 貴會惠予審議。\"}]",
+    "CheckDate": "2022\/03\/18",
+    "CheckDesc": "聯席審查意見：\r\n一、照案通過。\r\n二、臺南市議會動支數500萬元，唐碧娥議員保留大會發言權。",
+    "DoneDate": "2022\/03\/25",
+    "DoneDesc": "照案通過。",
+    "SendDate": "2022\/03\/31",
+    "SendNumber": "南議財經字第 1110002680號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6a43935d-9dee-4d35-ab16-a352f9482514",
+            "FileName": "整併-110二備金數額表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b44d6625-c3f3-46dc-8519-6874e8946be9&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照案通過。",
+    "FirstDate": "2022\/03\/09",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第3次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "16",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "尤榮智",
+    "OrgTitle2": "林冠維、蔡淑惠、蔡育輝、李宗翰、周麗津、陳皇宇、李鎮國",
+    "CaseCause": "適逢極端氣候造成今年一年二期缺水休耕，政府方案唯獨漏列農機修理業沒有補貼，造成生活困苦一案。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"今年缺水休耕，政府為照顧農民啟動各項補貼，例如：耕作者、插秧、農機育苗業者耕耘機、收穫機業者，唯獨漏列農機修理業沒有補貼，請政府體恤民意。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"農機修理者生計在今年連續二期作缺水休耕造成無農機可修理，沒有收入造成生活困苦。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請台南市政府轉農業部農田水利署嘉南管理處辦理。\"}]",
+    "CheckDate": "2023\/08\/14",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/08\/17",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/08\/30",
+    "SendNumber": "南議財經字第 1120008147號",
+    "DoDesc": "本府就「適逢極端氣候造成今年一年二期缺水休耕，政府方案唯獨漏列農機修理業沒有補貼，造成生活困苦。」案，敬答覆如下： \r\n一、本府於112年9月6日南市農務字第1121149356號函向中央建議增列農機修理業救助事宜。農業部農糧署112年9月13日農糧特字第1121022135號函覆如下：「辦理缺水停灌產業救助對象係為農民及第一線主要受衝擊業者，農機修理業屬機械修理之工業服務項目，尚非農業部主管之產業，其營運模式、營業規模等樣態尚無資料可供審認，亦難認定業者因停灌造成營收損失之正確性。」。 \r\n二、承蒙貴席對於農政業務之關切，本府至為感謝，尚請不吝賜教。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cccbce81-4544-4529-bdc0-da3707cabcb2",
+            "FileName": "16號案回覆附件-02.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=595ce7af-3861-451b-a324-35926077c6e5",
+            "FileName": "16號案回覆附件-01.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d5223901-32a8-4f28-9881-c8bb120e8bd5&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/09\/23",
+    "ExecuteReNumber": "府農務字第 1121208360號",
+    "ExecuteReMemo": "本府就「適逢極端氣候造成今年一年二期缺水休耕，政府方案唯獨漏列農機修理業沒有補貼，造成生活困苦。」案，敬答覆如下： \r\n一、本府於112年9月6日南市農務字第1121149356號函向中央建議增列農機修理業救助事宜。農業部農糧署112年9月13日農糧特字第1121022135號函覆如下：「辦理缺水停灌產業救助對象係為農民及第一線主要受衝擊業者，農機修理業屬機械修理之工業服務項目，尚非農業部主管之產業，其營運模式、營業規模等樣態尚無資料可供審認，亦難認定業者因停灌造成營收損失之正確性。」。 \r\n二、承蒙貴席對於農政業務之關切，本府至為感謝，尚請不吝賜教。",
+    "ErrorMessage": ""
+}

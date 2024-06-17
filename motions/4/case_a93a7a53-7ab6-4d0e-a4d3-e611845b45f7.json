@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "17",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "李鎮國、郭鴻儀、蔡育輝、陳昆和、尤榮智、蔡淑惠、吳通龍",
+    "CaseCause": "建議於南區黃金海岸海堤步道沿線設置環境品質監測器，以顯示每天環境品質指標，供運動市民參考以選擇運動健走時段，使市民獲得更好運動品質。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"南區黄金海岸海堤步道早晚運動健走慢跑及騎自行車民眾很多，但受季節風吹與興達港發電廠燃煤影響，常有空氣品質變動之差異大。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"運動時空氣好壞是運動人士最重要因素，更是運動人員健身要素。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由並請專案討論\"}]",
+    "CheckDate": "2023\/06\/21",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/06",
+    "SendNumber": "南議環衛字第 1120005576號",
+    "DoDesc": "一、本府已建立臺南環保通APP，市民可即時查詢所在位置微型感測器數據及附近環保署設置監測站數據，以利民眾查詢空品現況以選擇運動健走時段。\r\n二、本府於秋冬空品不良季(10月翌年3月)於環保局臉書、臺南市空氣品質監測網(https:\/\/air.tnepb.gov.tw\/) 提供未來三日空氣品質預報，4月~9月提供未來一周空氣品質預報，可供民眾查詢。\r\n三、查南區黃金海岸附近已設有空氣品質微型感測器共5顆，設置點位如圖1所示。統計前述5顆微感器111年1月~112年6月PM2.5濃度平均約為16.85μg\/m3。另將微感器監測數據與臺南測站同期監測數據進行比對，111年1月~112年6月位於本市中西及東區臺南測站PM2.5監測數據為19.92μg\/m33，比對結果顯示南區黃金海岸PM 2.5濃度較優於市區中心。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=86bc85c0-58cb-48d9-ad99-60796eea8cf4",
+            "FileName": "17號.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a93a7a53-7ab6-4d0e-a4d3-e611845b45f7&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/07\/24",
+    "ExecuteReNumber": "府環空字第 1120894248號",
+    "ExecuteReMemo": "一、本府已建立臺南環保通APP，市民可即時查詢所在位置微型感測器數據及附近環保署設置監測站數據，以利民眾查詢空品現況以選擇運動健走時段。\r\n二、本府於秋冬空品不良季(10月翌年3月)於環保局臉書、臺南市空氣品質監測網(https:\/\/air.tnepb.gov.tw\/) 提供未來三日空氣品質預報，4月~9月提供未來一周空氣品質預報，可供民眾查詢。\r\n三、查南區黃金海岸附近已設有空氣品質微型感測器共5顆，設置點位如圖1所示。統計前述5顆微感器111年1月~112年6月PM2.5濃度平均約為16.85μg\/m3。另將微感器監測數據與臺南測站同期監測數據進行比對，111年1月~112年6月位於本市中西及東區臺南測站PM2.5監測數據為19.92μg\/m33，比對結果顯示南區黃金海岸PM 2.5濃度較優於市區中心。",
+    "ErrorMessage": ""
+}

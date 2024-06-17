@@ -1,0 +1,79 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2024\/05\/10",
+    "ComeNumber": "府財務字第1130660523號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "制定「臺南市公債發行自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為增加本府建設資金籌措管道，並減輕本市債息負擔，以靈活財務運作，爰制定「臺南市公債發行自治條例」草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經113年5月7日第645次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市公債發行自治條例」制定草案(含總說明、逐條說明及草案條文)1份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2024\/05\/29",
+    "DoneDesc": "一、同意市府撤回。\r\n二、請市府於下會期前召開公聽會或說明會，並排定專案報告後，再行審議。",
+    "SendDate": "2024\/06\/04",
+    "SendNumber": "南議法規字第 1130003952號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=91993a94-38c5-4f4f-b04d-97b6b44c9178",
+            "FileName": "4-3定--法規巿提1--制定「臺南市公債發行自治條例」草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=702d4001-b204-4662-9452-9a56ed75a300",
+            "FileName": "4-3定附件-法規巿提02-1.各直轄市對照表-臺南市公債發行自治條例.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=02eecc5f-653f-4dad-8d82-69d283c01b8d",
+            "FileName": "01.補充資料_各縣市對照表-臺南市公債發行自治條例.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=edd6f3fb-07a6-49c5-9d1d-ff3755f19978",
+            "FileName": "02.臺北市建設公債發行自治條例.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b9d4da05-023c-4ec3-80b1-30b6390bbebc",
+            "FileName": "03.新北市建設公債及新北市市庫券發行自治條例.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e2ae8c79-69b3-4455-857f-c46fb97b2449",
+            "FileName": "04.臺中市公債及臺中市市庫券發行自治條例.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=23d3cef9-0686-41ce-9204-fd764fd7872c",
+            "FileName": "05.高雄市公債發行自治條例.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=38e211bc-9487-481a-a35d-6267969b171d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5133a8c2-ed7a-41f4-ad69-8c818acb52c8",
+            "FileName": "撤案+公聽會---(012-大會)4屆2定0529第12次會紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "一、同意市府撤回。\r\n二、請市府於下會期前召開公聽會或說明會，並排定專案報告後，再行審議。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

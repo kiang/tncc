@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "1",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市議會",
+    "OrgTitle2": "",
+    "CaseCause": "「登革熱防治」專案報告",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"請臺南市政府針對造成社區髒亂點，未配合登革熱防治的空地空屋累犯所有權人，研擬強制的作業規則。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請臺南市政府多輔導醫療院所加入NS1快篩工作，並公開及更新NS1快篩的醫療院所資訊。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"打造AI登革熱防疫平台、設立防疫專線及建立完善登革熱噴藥及就醫SOP，以便即時回應民眾需求。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"落實巡、倒、清、刷工作，拍攝防疫短片以傳達正確防疫訊息，提供全民共同監督防範。\",\"children\":[]}]}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2023\/10\/27",
+    "DoneDesc": "照委員會結論通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=db38ec52-306e-450a-8d95-aa9ecabd0cbf",
+            "FileName": "1120923_議會專案報告登革熱防治(定稿).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ae9e2b79-d7a2-45e7-b2ab-2a65848f5eed",
+            "FileName": "逐字稿---1120923 上午-專案報告（登革熱防治）.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=aeca1fbf-ae7b-4b71-9cdb-47b3163bfebb&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照委員會結論通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/10\/31",
+    "ExecuteReNumber": "環衛字第 1120009853號",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

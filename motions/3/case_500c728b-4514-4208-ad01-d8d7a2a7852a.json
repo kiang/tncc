@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第2次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "95",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "沈震東",
+    "OrgTitle2": "Ingay Tali穎艾達利",
+    "CaseCause": "建請臺南市政府徵收台南市中西區武聖段2093-0000地號公園兼兒童遊樂場預定地，並完成相關開闢規劃。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"台南市中西區武聖段2093-0000地號為公園兼兒童遊樂場預定地，遲未建設導致衛生環境隱憂，鄰近社區住戶盼爭取建設特色公園，建請台南市政府應儘速完成徵收開闢計畫，以維護市民權益。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2019\/11\/05",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2019\/12\/10",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/12\/18",
+    "SendNumber": "南議工務字第 1080011695號",
+    "DoDesc": "本案經市府109年1月6日府工園一字第1081522490號函復：\r\n案地都市計畫劃定為本市中西區公（兒）C2（如下圖），面積約0.4774公頃，其中公有地約0.0515公頃，私有土地約0.4259公頃，概估經費為用地費(含地上物補償)約3.7646億元，工程費約860萬元，總經費約3.8506億元，後續開闢計畫將視本府財源狀況研議。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8fb7cd2f-6bc1-40c7-ad60-3bcadde119ed",
+            "FileName": "工務議提95.odt",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=500c728b-4514-4208-ad01-d8d7a2a7852a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府109年1月6日府工園一字第1081522490號函復：\r\n案地都市計畫劃定為本市中西區公（兒）C2（如下圖），面積約0.4774公頃，其中公有地約0.0515公頃，私有土地約0.4259公頃，概估經費為用地費(含地上物補償)約3.7646億元，工程費約860萬元，總經費約3.8506億元，後續開闢計畫將視本府財源狀況研議。",
+    "ErrorMessage": ""
+}

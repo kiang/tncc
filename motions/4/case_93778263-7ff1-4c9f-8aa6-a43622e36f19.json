@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/01\/13",
+    "ComeNumber": "府農銷字第1120108856號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業委員會農糧署核定本府「臺南市玉井農產加工及冷鏈物流中心建置計畫」，同意增加經費1.39億元(中央補助款1億1,954萬元、市配合款1,946萬元)，為爭取時效，謹請貴會同意先行墊付100萬元(中央補助款86萬元、市配合款14萬元)，俾憑辦理後續相關作業事宜，俟112年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院農業委員會農糧署111年10月18日農糧銷字第1111073927號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合各機關單位預算執行要點第44點第4款經上級政府核定之補助款所使用之支出；第6款配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"本案經費1.39億元(中央補助款1億1,954萬元、市配合款1,946萬元)執行期間自112年起至113年止，因未及納入本府112年度總預算，為爭取時效，謹請貴會同意先行墊付100萬元(中央補助款86萬元、市配合款14萬元)，俟112年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要工作項目為玉井農產加工及冷鏈物流中心新建工程相關工作。\",\"children\":[]},{\"order\":\"(三)\",\"content\":\"上開經費1.39億元，採一次發包，分年編列預算辦理，112年度100萬元、113年度1億3,800萬元。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府111年12月6日第572次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/02\/09",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/02\/17",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/02\/20",
+    "SendNumber": "南議財經字第 1120000923號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=669b3927-c9e1-466d-8c4d-83efca41d52a",
+            "FileName": "附件-財經4號案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=93778263-7ff1-4c9f-8aa6-a43622e36f19&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/02\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

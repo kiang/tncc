@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第10次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "4",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝",
+    "OrgTitle2": "蔡淑惠、洪玉鳳",
+    "CaseCause": "建請市政府改善東山區北馬中排擋土牆，以有效改善區域排水，避免沿線農地塌陷與淹水之苦。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、北馬中排自東山區東山段與第五河川局交接處以西沿線至東山區許秀才大排處，建請市府納入區域排水治理計畫，先期完成治理經費需求評估，儘速向中央政府爭取預算改善。\"},{\"tag\":\"p\",\"content\":\"二、北馬中排現況塌陷圖，請參閱。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2017\/08\/21",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2017\/08\/28",
+    "SendNumber": "南議工務字第 1060006058號",
+    "DoDesc": "本案經市府106年9月14日府水行字第1060910293號函復：\r\n(詳如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ed4b0933-8242-494b-beb8-2f602e597c38",
+            "FileName": "2-10臨議提4號書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a82ade24-5deb-4f2f-a68e-425c14d0379d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2017\/08\/03",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府106年9月14日府水行字第1060910293號函復：\r\n(詳如夾檔)",
+    "ErrorMessage": ""
+}

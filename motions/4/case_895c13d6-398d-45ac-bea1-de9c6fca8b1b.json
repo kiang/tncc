@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/11\/28",
+    "ComeNumber": "府水工字第1121568488號",
+    "OrgTitle": "臺南市政府水利局",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部水利署核定本市「前瞻基礎建設計畫-水與安全-縣市管河川及區域排水整體改善計畫」第5批次治理規劃及檢討工作計畫，經費新臺幣893萬元(中央補助款696萬5,000元，市配合款196萬5,000元)，為爭取時效，謹請貴會同意先行墊付49萬3,000元(中央補助款38萬4,000元，市配合款10萬9,000元)，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據經濟部水利署112年11月22日經水河字第11216137930號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"本案總經費893萬元(中央補助款696萬5,000元，市配合款196萬5,000元)，執行期間自113年起至114年止，因未及納入本府113年度總預算案，為爭取時效，謹請貴會同意先行墊付113年度49萬3,000元(中央補助款38萬4,000元，市配合款10萬9,000元)，俟113年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"上開總經費893萬元，採分案發包，分年編列預算辦理，113年度49萬3,000元、114年度843萬7,000元。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府112年11月28日第622次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案為符水利署規定於113年3月底前完成發包，亟須先行辦理墊付。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/12\/14",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/12\/21",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/12\/26",
+    "SendNumber": "南議工務字第 1120012838號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c72bffa7-3ec3-4151-9547-05cbf0be8c6d",
+            "FileName": "工務市提2-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=895c13d6-398d-45ac-bea1-de9c6fca8b1b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/12\/04",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/12\/12",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

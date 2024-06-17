@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "31",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "Ingay Tali穎艾達利、周奕齊、李啓維、郭鴻儀、許又仁、蔡旺詮",
+    "CaseCause": "建請市府加強新市區全民運動中心地板防滑及球桌間距。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"新設立之新市區全民運動中心地板過於光滑，易讓民眾滑倒，請加強地板止滑效果。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"球桌間距只有一公尺，球員間易發生碰撞，建請加開間距，以保護球員安全。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/09\/29",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/10\/05",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/10\/11",
+    "SendNumber": "南議民教字第 1110011580號",
+    "DoDesc": "本府就「建請市府加強新市區全民運動中心地板防滑及球桌間距」案，敬答覆如下： \r\n一、有關新市全民運動中心桌球室地板防滑，中心營運單位遠東科技大學已加強地板潔淨與打蠟，未來將視該校編列預算逐步進行地板更新。\r\n二、有關桌球桌間距過小一事，中心已調整桌球桌數量並採標準間距以提供民眾運動安全間距。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0a287453-787d-4c26-93ad-41b4f6f04ef7",
+            "FileName": "定3-8民教議提31-體育局新市全民運動中心地板防滑附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6de12f6e-9604-4c15-8029-5bf40f4f9d4c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/10\/24",
+    "ExecuteReNumber": "府體設字第 1111390111號",
+    "ExecuteReMemo": "本府就「建請市府加強新市區全民運動中心地板防滑及球桌間距」案，敬答覆如下： \r\n一、有關新市全民運動中心桌球室地板防滑，中心營運單位遠東科技大學已加強地板潔淨與打蠟，未來將視該校編列預算逐步進行地板更新。\r\n二、有關桌球桌間距過小一事，中心已調整桌球桌數量並採標準間距以提供民眾運動安全間距。",
+    "ErrorMessage": ""
+}

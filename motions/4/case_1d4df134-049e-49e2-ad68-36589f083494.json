@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "12",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2023\/04\/12",
+    "ComeNumber": "府農港字第1120476901號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "為促進安平漁港市有土地有效利用，增加收益，辦理本市安平區漁港段1265及1272地號等2筆市有土地公開標租案及核發土地使用權同意書，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"查土地法第25條規定「直轄市或縣(市)政府對於其所管公有土地非經該管區內民意機關同意，並經行政院核准，不得處分或設定負擔或超過十年期間之租賃」。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"因應業者反映安平漁港魚市場及漁船魚貨使用之製冰及冷凍設施不足，爰辦理土地公開標租，引進民間興辦相關設施，以符使用需求。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"依行政院農業委員會109年4月16日農授漁字第1091314584號函核定「安平漁港計畫書(第二次變更)」，旨揭土地僅供製冰、冷凍設施使用，租期20年，租金按本市市有房地租金計算基準計收(土地面積*公告地價*年租金率)，倘以年租金率5%(底價亦為5%)計算，年租金至少可達新台幣9萬1,263元(829.66平方公尺*每平方公尺2,200元*5%＝91,262.6元，四捨五入計算)。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"旨案前經行政院107年5月17日院授內地字第1070419545號函核准本市農業局辦理2筆土地標租及核發土地使用權同意書，並以4年為完成處分期限且簽訂租賃契約在案，惟因承租人未履約而於112年1月1日終止契約；為促進市有土地利用、增加市庫收益暨符合漁民使用需求，故續行辦理上開土地標租案。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"本案業經本府112年4月11日第589次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審議，如蒙同意再報請行政院核准，完成處分程序，辦理標租及核發土地使用權同意書。\"}]",
+    "CheckDate": "2023\/06\/20",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/07",
+    "SendNumber": "南議財經字第 1120005977號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5be9d634-e4c9-4139-b4cb-0cf0f9e151f7",
+            "FileName": "財經市提12號案附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1d4df134-049e-49e2-ad68-36589f083494&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/04\/19",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2023\/04\/27",
+    "FirstDesc": "交付財經委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

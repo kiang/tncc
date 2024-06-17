@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "會務",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "郭議長信良",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南市議會各種委員會設置辦法」第二條修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市政府為應業務需要，裁撤教育局原二級機關本市體育處，成立一級機關體育局，於111年4月12日府法規字第1110472110A號令修正公布臺南市政府組織自治條例，並自111年年7月1日施行。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"茲為配合臺南市政府組織調整，爰擬具「臺南市議會各種委員會設置辦法」第二條修正草案。修正內容係依據本會111年度政黨黨團協商第1次(6月27日)會議討論所獲致之結論。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市議會各種委員會設置辦法」第二條修正草案總說明、修正草案對照表、修正草案條文。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"經大會審議通過後發布施行。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照案通過。",
+    "SendDate": "2022\/07\/11",
+    "SendNumber": "南議法規字第 1110007436號",
+    "DoDesc": "主旨:「臺南市議會各種委員會設置辦法」第2條，業經本會於111年7月12日以南議法研字第1110007321號令修正發布，並經行政院於111年7月20日以院臺綜字第1110023190號函業已備查，請查照。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fbffc710-1704-45ae-9141-7601d87d3047",
+            "FileName": "臺南市議會各委員會設置辦法第二條第一項修正草案（含總說明、條文對照).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=13e19429-0fc2-4fa1-8e64-c96707f627de&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f2fc76ce-f7f5-4eed-b94a-660ee1b4f9e8",
+            "FileName": "3-7定會務1-提案單-臺南市議議會各種委員會設置辦法第二條修正草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "",
+    "ReDesc": "照案通過。",
+    "FirstDate": "2022\/07\/04",
+    "FirstDesc": "",
+    "SecondDate": "2022\/07\/04",
+    "SecondDesc": "照案通過。",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "主旨:「臺南市議會各種委員會設置辦法」第2條，業經本會於111年7月12日以南議法研字第1110007321號令修正發布，並經行政院於111年7月20日以院臺綜字第1110023190號函業已備查，請查照。\r\n",
+    "ErrorMessage": ""
+}

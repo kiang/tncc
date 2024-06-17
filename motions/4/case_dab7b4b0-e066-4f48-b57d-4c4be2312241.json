@@ -1,0 +1,73 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2023\/08\/28",
+    "ComeNumber": "府主預字第1121124900號",
+    "OrgTitle": "臺南市政府主計處",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本府112年第2季辦理政策及業務宣導之執行情形表，提請貴會備查。",
+    "Content": "",
+    "Method": "",
+    "CheckDate": "2023\/11\/27",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2023\/11\/30",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2023\/12\/05",
+    "SendNumber": "南議財經字第 1120011705號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f5e978f2-b427-48c1-a507-1675c8594d5c",
+            "FileName": "1.市府來文.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9feb5a7e-4d4d-4c28-a035-1b19d239dd17",
+            "FileName": "2.民政教育.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b4352c3e-12b0-4250-b921-1acf2de47476",
+            "FileName": "3.財經.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c33e4bfe-720b-4d56-8dd6-0b8bae7113f3",
+            "FileName": "4.環保衛生.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b23dca8e-390e-47cf-854c-1cfdc3758253",
+            "FileName": "6.保安.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=198d0d6f-2393-4270-9499-a035328bf342",
+            "FileName": "5.建設.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d6145c71-bc07-4698-ac5b-093e1865199b",
+            "FileName": "7.工務.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=dab7b4b0-e066-4f48-b57d-4c4be2312241&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2023\/10\/27",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/09\/28",
+    "ComeNumber": "府工使一字第112117192號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部營建署核定本市辦理「113年度補助直轄市及縣(市)政府輔導成立公寓大廈管理組織經費補助需求計畫案」，經費新台幣318萬元整(中央補助款216萬元、市配合款102萬元)，為爭取時效，謹請貴會同意先行墊付新台幣218萬元(中央補助款216萬元、市配合款2萬元)，俾憑辦理後續相關事宜，俟113年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部營建署112年9月6日營署建管字第1121204042號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本補助計畫係由中央核定補助款項216萬元及配合款102萬元，核定計畫經費共計新台幣318萬元，另因本局已編列總經費100萬元配合款(113年編列50萬元，114年編列50萬元)，故本次配合款擬申請2萬元，共計新台幣218萬元整(中央補助款216萬元、市配合款2萬元)，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年9月26日第613次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案辦理期間自計畫核定日起至113年11月30日止，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/11\/24",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/11\/30",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/12\/05",
+    "SendNumber": "南議工務字第 1120011384號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4c1f8c53-ca36-4d46-a0ad-0f6706bc530b",
+            "FileName": "核准函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e1c91506-280e-4773-9863-ba3b47688fe3",
+            "FileName": "墊付案補充說明(工務5號).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=28920765-bf54-46a2-9e56-44cdaad799bf",
+            "FileName": "審查意見表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3e8ed6ea-ae98-4d42-9070-7508e09b7bd6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/10\/19",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

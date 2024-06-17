@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第2次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "18",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "黃麗招",
+    "OrgTitle2": "陳秋宏、盧崑福",
+    "CaseCause": "建請水利局就安南區淹水問題做總體檢討。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"安南區每遇下雨就淹水，治水預算已花費龐大經費，至去年(107年)還是淹水。雨季即將來臨，安南居民擔心去年淹水噩夢今年是否又會重演，請水利局做總體檢討，讓安南居民生命財產得到保障。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2019\/02\/27",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/03\/08",
+    "SendNumber": "南議工務字第 1080001847號",
+    "DoDesc": "本案經市府108年3月21日府水雨字第1080348028號函復：\r\n(詳如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3f054e42-e6ca-41e4-ae98-c7cd72f43201",
+            "FileName": "3-2臨-1８.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6238e921-ec3b-4457-b770-06b719d14494&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/02\/14",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府108年3月21日府水雨字第1080348028號函復：\r\n(詳如夾檔)",
+    "ErrorMessage": ""
+}

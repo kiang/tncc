@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第12次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/02\/22",
+    "ComeNumber": "府工新二字第1110178030號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部水利署第六河川局補助辦理「官田溪南120線無名橋改建工程」案，增加5,196萬元(中央補助款3,459萬5,000元、地方配合款1,736萬5,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據經濟部水利署第六河川局111年1月22日水六工字第11101006520號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"「官田溪南120線無名橋改建工程」原核定經費1億2,426萬元(中央補助款6,000萬元、地方配合款6,426萬元)，已編列111年度預算，採分年編列：111年度編列9,910萬元、112年度編列2,516萬元。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"現中央同意核列總經費修正為1億7,622萬元（中央補助款修正為9,459萬5,000元、地方配合款修正為8,162萬5,000元）共增加5,196萬元(中央補助款增加3,459萬5,000元、地方配合款增加1,736萬5,000元)，因未及納入111年度總預算，為爭取時效，謹請貴會同意先行墊付5,196萬元。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"本案業經本府111年2月22日第530次市政會議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/03\/21",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/03\/25",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/04\/07",
+    "SendNumber": "南議工務字第 1110002828號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=978c57a8-e340-499e-8a12-9b61dde1bec0",
+            "FileName": "附件1-工務4.PDF",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=270ff9be-e952-49aa-a314-3f72d10ee085&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/03\/09",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

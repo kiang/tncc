@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "123",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "吳通龍、曾之婕、陳昆和、陳皇宇、蔡育輝",
+    "CaseCause": "臺南市南區二仁溪旁自行車道，濱海橋下、南萣橋下及灣裡抽水站排水口處加裝夜間照明設備，提升市民交通安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市南區二仁溪旁自行車道，因聚鄰道路，於夜間時有路燈照明，步行及騎自行車均能清楚看清路面狀況，安全無虞。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"惟行經濱海橋下、南萣橋下及灣裡抽水站排水口處，因無照明設備，導致該區域道路環境漆黑，對於行經該路段市民增加發生意外風險，尤其是南萣橋下為上下坡，對用路人風險更高，為避免發生意外，建請於濱海橋下、南萣橋下及灣裡抽水站排水口處增設夜間照明設備，維護市民安全。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/05\/23",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/05\/29",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2024\/06\/05",
+    "SendNumber": "南議工務字第 1130004094號",
+    "DoDesc": "本府就「臺南市南區二仁溪旁自行車道，二仁溪橋下、南萣橋下及灣裡抽水站排水口處加裝夜間照明設備，提升市民交通安全」案，敬答覆如下：\r\n有關南區二仁溪自行車道，二仁溪橋下、南萣橋下及灣裡抽水站堤頂機房等三處，本府水利局已於113年3月以太陽能感應式燈具改善民眾夜間使用之安全性。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c6ade9e0-f6eb-4cb5-9dcc-386675e1f38a",
+            "FileName": "4-3定工務議提123附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1a3671a9-7fa5-4f2a-bab0-b4da3825fb9a",
+            "FileName": "4-3定工務議提123號附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b1f388de-aace-4ce8-b028-35d9808d7c75&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2024\/06\/14",
+    "ExecuteReNumber": "府水污養字第 1130820709號",
+    "ExecuteReMemo": "本府就「臺南市南區二仁溪旁自行車道，二仁溪橋下、南萣橋下及灣裡抽水站排水口處加裝夜間照明設備，提升市民交通安全」案，敬答覆如下：\r\n有關南區二仁溪自行車道，二仁溪橋下、南萣橋下及灣裡抽水站堤頂機房等三處，本府水利局已於113年3月以太陽能感應式燈具改善民眾夜間使用之安全性。",
+    "ErrorMessage": ""
+}

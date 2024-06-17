@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第3屆 第1次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-市法規案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝",
+    "OrgTitle2": "張世賢、方一峰、蔡秋蘭、吳通龍、尤榮智、周奕齊、李文俊、林燕祝、林阳乙、李鎮國、洪玉鳳、盧崑福、蔡淑惠、周麗津、曾培雅、王家貞、杜素吟、吳禹寰、鄭佳欣",
+    "CaseCause": "制定「臺南市各類房屋耐用年數、折舊率暨房屋標準價格評定自治條例」，明定各類房屋耐用年數、折舊率及房屋標準單價，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"市政府105年6月24日公告「臺南市各類房屋折舊標準表」之鋼筋鋼骨混凝土造房屋之耐用年數為60年；與財政部106年2月3日令修正「固定資產耐用年數表」第一類房屋建築及設備之鋼筋(骨)混凝土建造之耐用年限50年暨內政部107.11.12.函准中華民國不動產估價師公會全國聯合會所訂定建物經濟耐用年數表之鋼骨鋼筋混凝土造房屋經濟耐用年數50年，相差10年，顯見市府忽視民眾房屋稅權益。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"臺北市、新北市、臺中市、高雄市等所定房屋折舊率為1.17%~1.22%；本市105年6月24日公告重行評定房屋標準價格有關事項第四項：各類房屋折舊標準表所定為1%，顯與其他直轄市有嚴重落差，本市有制定本自治條例之必要。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"房屋標準單價對房屋稅之徵收額度與民眾權益影響極大，本市105年6月24日公告「重行評定本市房屋標準價格」其90年7月1日前後各期適用之房屋標準單價，造成民怨，應重新調整朝輕稅方向處理，以符民意。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"草案(含總說明及條文草案表)如後附。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"經大會決議後，送巿府公布施行。\"}]",
+    "CheckDate": "2019\/05\/02",
+    "CheckDesc": "一、本案未予通過。\r\n二、附帶決議：由法規委員會召集人及委員邀請專家學者、社會人士及相關人員召開研討會討論。",
+    "DoneDate": "2019\/05\/29",
+    "DoneDesc": "一、不予通過。\r\n二、附帶決議：由法規委員會召集人及委員邀請專家學者、社會人士及相關人員召開研討會討論。",
+    "SendDate": "2019\/06\/10",
+    "SendNumber": "南議法規字第 1080005550號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0a2596b3-4810-4db1-a975-6d86a68fa87e",
+            "FileName": "條文草案-制定「臺南市各類房屋耐用年數、折舊率暨房屋標準價格評定自治條例」.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=08163244-c2c5-4976-a0b9-5792bdb0c0e2",
+            "FileName": "對照表-制定「臺南市各類房屋耐用年數、折舊率暨房屋標準價格評定自治條例」.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e1b92392-25d4-440a-8565-ba21397e9b40",
+            "FileName": "總說明-制定「臺南市各類房屋耐用年數、折舊率暨房屋標準價格評定自治條例」.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=eb39a716-671f-4223-8026-c36376d576b3&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "一、不予通過。\r\n二、附帶決議：由法規委員會召集人及委員邀請專家學者、社會人士及相關人員召開研討會討論。",
+    "FirstDate": "2019\/03\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

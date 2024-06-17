@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/03\/28",
+    "ComeNumber": "府客綜字第 1130440639號",
+    "OrgTitle": "臺南市政府客家事務委員會",
+    "OrgTitle2": "",
+    "CaseCause": "客家委員會核定本府辦理「浪漫臺三線最南端客家主題步道-楠西區江家古厝客家大伙房周邊環境改善及據點特色營造工程」，經費新臺幣(以下同)1,667萬3,000元（中央補助款1,400萬5,000元、市配合款266萬8,000元），未及納入113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據客家委員會113年3月11日客會產字第1136600135號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款、第6款，經上級政府核定之補助款，所使用之支出、配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案客家委員會核定補助經費1,667萬2,500元（中央補助款1,400萬4,900元、市配合款266萬7,600元），未及納入113年度總預算；又配合預算編列進位至千元，計1,667萬3,000元（中央補助款1,400萬5,000元、市配合款266萬8,000元），為爭取時效，擬請准予於市政會議審議通過後，提送市議會審議辦理墊付，俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年3月19日第638次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案因客家委員會函請本府依「客庄創生環境營造計畫補助作業要點」及「客庄創生環境營造計畫督導評核要點」規定，於113年6月30日前完成墊付及工程招標，為爭取時效，故提出墊付案申請，以利向中央請領補助款。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2024\/05\/13",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2024\/05\/29",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5e231e47-dc17-4198-b057-0965af4b105c",
+            "FileName": "民教5(客委會)-附件(核定函及計畫等資料).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=81b3e6f7-0fd1-41e8-bb46-2c8fd1fd305e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2024\/04\/19",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

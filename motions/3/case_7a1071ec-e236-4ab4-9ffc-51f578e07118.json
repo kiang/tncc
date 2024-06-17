@@ -1,0 +1,80 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-總預算案",
+    "ComeDate": "2022\/07\/14",
+    "ComeNumber": "府主預字第 1110865330 號",
+    "OrgTitle": "臺南市政府主計處",
+    "OrgTitle2": "",
+    "CaseCause": "本市112年度總預算案及總預算案附屬單位預算及綜計表，業經編製完竣，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據地方制度法、預算法及中華民國一百十二年度直轄市及縣（市）總預算編製要點、總預算附屬單位預算編製要點辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"112年度總預算案部分：歲入預算編列980億2,320萬6千元，歲出預算編列1,025億7,823萬4千元，歲入歲出差短45億5,502萬8 千元，差短部分，擬以舉借同額借款支應。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"112年度總預算案附屬單位預算及綜計表部分：\",\"children\":[{\"order\":\"(一)\",\"content\":\"營業基金部分：本年度本期淨利2,360萬6千元。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"非營業基金部分：作業基金本年度本期賸餘8,390萬5千元，特別收入基金本年度本期短絀16億8,652萬元。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府111年7月5日第549次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會惠予審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "詳如各委員會聯席審查意見報告書。",
+    "DoneDate": "2022\/12\/22",
+    "DoneDesc": "經第3屆第15次臨時會第3次會（111年12月22日）修正通過（修正情形如大會決議表）。",
+    "SendDate": "2022\/12\/27",
+    "SendNumber": "南議財經字第 1110021054號",
+    "DoDesc": "一、臺南市政府112年2月1日府地開字第1120091520號函覆詳附件1。\r\n二、臺南市政府112年2月14日府警會字第1120224536號函覆詳附件2。\r\n三、臺南市政府112年4月11日府教安(二)字第1120396057號函覆詳附件3。\r\n四、臺南市政府112年5月22日府秘廳字第1120663054號函覆詳附件4。\r\n五、臺南市政府112年5月1日府體設字第1120535457號函覆詳附件5。\r\n六、臺南市政府112年7月3日府體設字第1120805678號函覆詳附件6。\r\n\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1e280222-c894-45fd-9723-61e0e0bb4baa",
+            "FileName": "附件1-地政局.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e5f945b0-0d3f-4d76-9cfd-9963652cf041",
+            "FileName": "附件2-警察局.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0a323607-0a4c-4eda-9921-1d453e425e74",
+            "FileName": "附件3-教育局.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a93df71d-373c-4388-bbc8-1e3051ba3022",
+            "FileName": "附件4-秘書處.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=40fc2eab-ed6b-4b84-8f17-88c7484b7e40",
+            "FileName": "附件5-體育局.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7b0d30d7-7c50-41ae-a3cf-10bfa0f2523a",
+            "FileName": "附件6-體育局.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7a1071ec-e236-4ab4-9ffc-51f578e07118&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=100f1c5d-e268-4efc-a860-bdfe8960778c",
+            "FileName": "各委員會聯席審查意見報告書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=218c4253-c6d4-4b6f-a6e2-ef383db0d06f",
+            "FileName": "3-8定財經市提1-臺南市112年度總預算暨附屬單位預算案-大會決議.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "2022\/08\/23",
+    "ReDesc": "經第3屆第15次臨時會第3次會（111年12月22日）修正通過（修正情形如大會決議表）。",
+    "FirstDate": "2022\/08\/30",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "2022\/12\/22",
+    "SecondDesc": "修正通過。",
+    "ThirdDate": "2022\/12\/22",
+    "ThirdDesc": "照二讀會決議通過。",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "一、臺南市政府112年2月1日府地開字第1120091520號函覆詳附件1。\r\n二、臺南市政府112年2月14日府警會字第1120224536號函覆詳附件2。\r\n三、臺南市政府112年4月11日府教安(二)字第1120396057號函覆詳附件3。\r\n四、臺南市政府112年5月22日府秘廳字第1120663054號函覆詳附件4。\r\n五、臺南市政府112年5月1日府體設字第1120535457號函覆詳附件5。\r\n六、臺南市政府112年7月3日府體設字第1120805678號函覆詳附件6。\r\n\r\n",
+    "ErrorMessage": ""
+}

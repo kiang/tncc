@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "150",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳秋宏",
+    "OrgTitle2": "呂維胤、林志展、Kumu Hacyo谷暮．哈就",
+    "CaseCause": "請改善六甲區龜子港段568-2地號農路，該路段龜裂破損嚴重，產生坑洞不平整情形，亟待改善。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"如圖示。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2021\/08\/11",
+    "CheckDesc": "函送市府研議。",
+    "DoneDate": "2021\/08\/19",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/08\/25",
+    "SendNumber": "南議工務字第 1100006588號",
+    "DoDesc": "本案經市府110年9月10日府地農字第1101041813號函復：\r\n一、本案568-2農路改善公所於110年3月18日提案，該農路現況為級配路面未鋪設柏油，易造成滑倒影響行車安全，將視年度農路改善預算審查研議辦理。 \r\n二、承蒙貴會對於本案之關切，本府至為感謝，尚請不吝賜教。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=89e8ab8d-80ba-4c01-996c-b8852b005cb1",
+            "FileName": "議提150-附圖 .jpg",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0d7e1652-58df-434b-b06b-a271e805c711&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年9月10日府地農字第1101041813號函復：\r\n一、本案568-2農路改善公所於110年3月18日提案，該農路現況為級配路面未鋪設柏油，易造成滑倒影響行車安全，將視年度農路改善預算審查研議辦理。 \r\n二、承蒙貴會對於本案之關切，本府至為感謝，尚請不吝賜教。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "教育",
+    "CaseNumber": "3",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2020\/10\/08",
+    "ComeNumber": "府文運字第1091225128號",
+    "OrgTitle": "臺南市政府文化局所屬臺南市立圖書館",
+    "OrgTitle2": "",
+    "CaseCause": "檢送「財團法人臺南市台日文化友好交流基金會」110年度營運及資金運用計晝乙份，請查照。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據中華民國一百零九年度直轄市及縣(市)總預算編要點第31條規定辦理。\"},{\"tag\":\"p\",\"content\":\"二、財團法人臺南市台日文化友好交流基金會，政府累計捐助150萬元(臺南市政府文化局捐助50萬元，,臺南市政府農業局捐(補)助50萬元，台南市政府經發局捐(補)助50萬元。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2020\/10\/28",
+    "DoneDesc": "退回。",
+    "SendDate": "2020\/11\/04",
+    "SendNumber": "南議教育字第 1090010179號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=276220ca-99e7-49b9-bee8-83666e4958b5",
+            "FileName": "備查3-110台日文化友好交流計畫書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2ea8606e-aee6-492c-9d03-1d8254581116&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "退回。",
+    "FirstDate": "2020\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

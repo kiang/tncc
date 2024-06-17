@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/01\/12",
+    "ComeNumber": "府工使一字第1100069998號函",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "內政部核定本市辦理110年度「都市危險及老舊建築物結構安全性能評估案」經費新臺幣2,398萬元整(全部中央補助款)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據內政部109年12月31日內授營更字第1090822147號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」之規定。\"},{\"tag\":\"p\",\"content\":\"三、本案依內政部核定函示獲核定補助110年度「都市危險及老舊建築物結構安全性能評估案」中央補助款新臺幣2,398萬元整，因未及納入本府110年度總預算，為爭取時效，謹請貴會同意先行辦理墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年1月12日第473次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/01\/19",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/01\/26",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/01\/28",
+    "SendNumber": "南議工務字第 1100000573號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ccd8b5d6-8edf-49dd-8310-6c6c24cad9db",
+            "FileName": "市提1附件.PDF",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e20f6aef-e057-471e-ae2a-a6688eeee856&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/01\/05",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

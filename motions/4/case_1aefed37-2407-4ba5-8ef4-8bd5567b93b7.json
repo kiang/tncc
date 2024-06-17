@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/04\/12",
+    "ComeNumber": "府水工字第1120463577號",
+    "OrgTitle": "臺南市政府水利局",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部水利署核定本市「前瞻基礎建設計畫-縣市管河川及區域排水整體改善計畫-『鹽水排水治理工程一期(鹽水區)』等8案」，112年度不足總經費1億4,394萬7,000元(中央補助款1億4,056萬5,000元，市配合款338萬2,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據經濟部112年3月31日經授水字第11260003660號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：112年度僅編列2,751萬6,917元(全額中央補助)，因經濟部水利署同意提前辦理8案，112年度預算編列不足，為爭取時效，謹請貴會同意先行墊付112年度1億4,394萬7,000元(中央補助款1億4,056萬5,000元，市配合款338萬2,000元)，俟113年度預算辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年4月11日第589次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：經濟部已同意將預備工程改列為正式治理計畫(含用地)，並要求於轉正後3個月內完成工程採購作業，如逾期未完成決標，經濟部水利署得調整改回預備工程或取消辦理，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/05\/22",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/06\/07",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/06\/15",
+    "SendNumber": "南議工務字第 1120004297號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3d389c89-96f4-4628-b6f2-bae105ad22ac",
+            "FileName": "24463_0463577A00_ATTCH3.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d0d3a02d-a813-4bf9-bb03-e9e6c8add35d",
+            "FileName": "附件02_分年編列-112年3月各批次預備工程改為正式治理工程案件明細表V4(0502修正).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1aefed37-2407-4ba5-8ef4-8bd5567b93b7&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/04\/19",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/04\/27",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

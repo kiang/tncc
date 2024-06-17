@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "13",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/05\/07",
+    "ComeNumber": "府體綜字第1130487481 號",
+    "OrgTitle": "臺南市政府體育局",
+    "OrgTitle2": "",
+    "CaseCause": "教育部體育署（下稱體育署）核定本市辦理「113年度學校游泳池整建維修經費（資本門）」案，新臺幣（下同）1,900萬元整（中央補助款1,330萬元、市配合款570萬元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據教育部體育署113年3月25日臺教體署學（二）字第1130011969號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案核定計畫總經費計1,900萬元整(中央補助款1,330萬元、市配合款570萬元)，因未及納入本府113年度總預算，為利本案執行及配合中央列管時程，謹請貴會同意先行墊付，俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年4月23日第643次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：依據體育署核定辦理期程，本案須於113年7月9日前完成規劃設計，於113年9月7日前完成工程發包，於114年4月1日前報體育署核結，因本府未編列預算，為使補助計畫順利完成工程發包，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，於114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d49e0938-9a8c-401b-8b34-787c5bbf8e97",
+            "FileName": "定4-3-民教墊付13-體育局113年度學校游泳池整建.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d72cd25a-7d1f-4fea-8131-2d2ac95de90d",
+            "FileName": "定4-3-民教墊付13-體育局補充資料.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=045d36a7-4218-4f64-89e9-7c74c1dc4cc5&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "",
+    "FirstDate": "2024\/05\/29",
+    "FirstDesc": "一、交付聯席審查。\r\n二、請市政府提供臺南市具游泳池設備之機關學校其游泳池水道、容積比及有無設置無障礙出入水設備等相關資料，另標註是否聘有救生員或管理員。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

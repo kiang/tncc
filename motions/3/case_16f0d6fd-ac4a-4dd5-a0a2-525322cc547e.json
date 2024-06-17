@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "7",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/10\/12",
+    "ComeNumber": "府經能字第1101214425號",
+    "OrgTitle": "臺南市政府經濟發展局",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部水利署核定本市辦理「111年度自來水用戶設備外線補助計畫」經費新臺幣(下同)116萬元整（全部中央補助款），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據經濟部水利署110年9月9日經水事字第11031070710號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款規定，經上級政府核定之補助款，所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"本案總經費168萬1,000元整（中央補助款116萬元，本府負擔52萬1,000元），其中116萬元（全部中央補助款），因未及納入本府111年總預算，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年10月5日第511次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度預算時再予轉正。\"}]",
+    "CheckDate": "2021\/11\/16",
+    "CheckDesc": "聯席審查意見：\r\n一、同意墊付。\r\n二、建請經發局研擬無自來水地區供水改善計畫送本會，以百分百接管率為目標，訂定明確期程增編預算並爭取中央補助加速完成。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2021\/12\/07",
+    "SendNumber": "南議建設字第 1100012437號",
+    "DoDesc": "臺南市政府111年1月19日府經能字第110158429號覆:\r\n檢送「臺南市無自來水地區供水改善計畫」1份，請查照。\r\n「臺南市無自來水地區供水改善計畫」置於回覆附件，請自行下載參閱。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=79a0ced0-7be1-464f-930f-7a9276b0e636",
+            "FileName": "中央核准函及計畫書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b7bddd8e-c0d0-495f-9187-c13d40252fd7",
+            "FileName": "臺南市無自來水地區供水改善計畫書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=16f0d6fd-ac4a-4dd5-a0a2-525322cc547e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2021\/10\/27",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "臺南市政府111年1月19日府經能字第110158429號覆:\r\n檢送「臺南市無自來水地區供水改善計畫」1份，請查照。\r\n「臺南市無自來水地區供水改善計畫」置於回覆附件，請自行下載參閱。",
+    "ErrorMessage": ""
+}

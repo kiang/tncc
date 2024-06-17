@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第2次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "74",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "黃麗招",
+    "OrgTitle2": "林阳乙、杜素吟、陳碧玉",
+    "CaseCause": "建請市府設置安吉路999巷內產業道路護岸。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"安吉路999巷內產業道路狹窄，汽車常於會車時不慎掉入旁邊的大排，造成道路使用人的生命財產受到威脅。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2019\/11\/05",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2019\/12\/10",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/12\/18",
+    "SendNumber": "南議南市工務字第 1080011606號",
+    "DoDesc": "本案經市府108年12月23日府水雨字第1081489800號函復：(詳如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1687b814-77fa-495d-bc6c-1d1faaee8f8e",
+            "FileName": "3-2定(議提74)書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2aa1e3bc-e2e0-4bd9-9b47-4a99da5784e5&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府108年12月23日府水雨字第1081489800號函復：(詳如夾檔)",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "232",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳秋宏",
+    "OrgTitle2": "林志展、周嘉韋、蔡蘇秋金、謝舒凡、邱昭勝、蔡麗青、蔡筱薇、沈家鳳",
+    "CaseCause": "請改善麻豆區海埔里海埔中排2K+055至2K+100北側護岸。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"護岸易坍塌及雜草叢生，建請改善，以提升防汛使用。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/06\/30",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/10",
+    "SendNumber": "南議工務字第 1120005925號",
+    "DoDesc": "本府就「請改善麻豆區海埔里海埔中排2K+055至2K+100北側護岸」案，敬答覆如下：\r\n一、海埔排水係屬麻豆排水支流，本案位於海埔排水中上游處，案址現況為老舊砌石護岸，為考量海埔社區聚落防洪安全，本府前已核定88萬6,000元辦理改善，並已於112年2月8日竣工。\r\n二、本案係為延續南側護岸改善工程，並已於112年4月14日辦理會勘，預計施作砌石護岸補強長度約40m、高約2.3m，經初估經費約需96萬元，將視年度預算納入辦理改善。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3da134e5-b870-4421-845f-12a536c144c3",
+            "FileName": "4-1定工務議提232附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7dbd9c56-1213-45bc-bd45-653a3c16a3f6",
+            "FileName": "工務議提232.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4354bbaa-a108-4af0-b1bc-3946d1d9211f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/07\/31",
+    "ExecuteReNumber": "府水工字第 1120956364號",
+    "ExecuteReMemo": "本府就「請改善麻豆區海埔里海埔中排2K+055至2K+100北側護岸」案，敬答覆如下：\r\n一、海埔排水係屬麻豆排水支流，本案位於海埔排水中上游處，案址現況為老舊砌石護岸，為考量海埔社區聚落防洪安全，本府前已核定88萬6,000元辦理改善，並已於112年2月8日竣工。\r\n二、本案係為延續南側護岸改善工程，並已於112年4月14日辦理會勘，預計施作砌石護岸補強長度約40m、高約2.3m，經初估經費約需96萬元，將視年度預算納入辦理改善。",
+    "ErrorMessage": ""
+}

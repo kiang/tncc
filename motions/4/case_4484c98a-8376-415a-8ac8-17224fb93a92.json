@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "77",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡麗青",
+    "OrgTitle2": "王宣貿、余柷青、黄肇輝、陳皇宇",
+    "CaseCause": "建請市府儘速開闢安南區四草里公園(公(兒)AN04-4)設置。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"四草里內尚士未設置公園，使得當地居民沒有休閒運動空間。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"四草里有公園預定地遲未建設，請儘速完成四草里公園規劃、提撥經費建造公園，以方便四草里居民及附近住戶有活動的空間。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"四草里為安南區重要觀光景點，敬請儘速完成公園興建，並朝向親子主題公園規劃，以吸引更多觀光客前往。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/03\/29",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/03\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/04\/10",
+    "SendNumber": "南議工務字第 1120002134號",
+    "DoDesc": "",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=03d4a80a-450c-4d60-9c11-216b35d0dbf8",
+            "FileName": "府工園一字第1120519462號-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4484c98a-8376-415a-8ac8-17224fb93a92&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/04\/26",
+    "ExecuteReNumber": "府工園一字第 1120519462號",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

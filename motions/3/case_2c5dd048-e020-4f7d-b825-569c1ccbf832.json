@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "會務",
+    "CaseNumber": "2",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "郭議長信良",
+    "OrgTitle2": "",
+    "CaseCause": "訂定「臺南市議會因應嚴重特殊傳染性肺炎開議期間兼採遠距視訊開會作業準則」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為因應嚴重特殊傳染性肺炎疫情，致定期會或臨時會開議期間依法接受居家檢疫或居家隔離之議員無法親自出席會議(以十人以內為限)，為保障議員參與會議之權利，兼採遠距視訊輔助在本會議事廳或審查室開會方式同時進行，爰遵照內政部109年4月13日台內民字第1090112389號、109年4月14日台內民字第1090112978號及109年5月19日台內民字第1090117585號等函釋相關說明，特訂定本準則。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"檢附「臺南市議會因應嚴重特殊傳染性肺炎開議期間兼採遠距視訊開會作業準則」草案（含總說明及逐條說明）各1份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會同意後發布施行並報行政院備查。\"}]",
+    "CheckDate": "2020\/06\/29",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2020\/07\/07",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/07\/22",
+    "SendNumber": "南議法研字第 1090006040號",
+    "DoDesc": "臺南市議會109年7月22日南議法研字第1090006040號令訂定發布，行政院109年8月10日院臺綜字第1090026725號函同意備查。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=199fe682-c4c6-44f3-abd4-0e94901981bc",
+            "FileName": "1090521臺南市議會因應嚴重特殊傳染性肺炎疫情開議期間兼採視訊會議開會作業準則(草案).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7a10eac4-3df7-41ae-bc75-ece98653e2a3",
+            "FileName": "1090521臺南市議會因應嚴重特殊傳染性肺炎開議期間兼採遠距視訊開會作業準則草案逐條說明.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=11ab561e-410a-4d32-a034-c5666f3bc7e1",
+            "FileName": "1090521臺南市議會因應嚴重特殊傳染性肺炎開議期間兼採遠距視訊開會作業準則草案總說明.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2c5dd048-e020-4f7d-b825-569c1ccbf832&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "臺南市議會109年7月22日南議法研字第1090006040號令訂定發布，行政院109年8月10日院臺綜字第1090026725號函同意備查。",
+    "ErrorMessage": ""
+}

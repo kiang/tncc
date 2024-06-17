@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "54",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "李中岑、尤榮智、曾培雅、蔡淑惠、方一峰、李文俊",
+    "CaseCause": "建請於本市永康區中正路、中正南路、仁愛街、鹽行路此路口，建置行人倒數計時顯示器與行人庇護島設計評估，以維道路使用人與行人之安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"請公路總局、交通局於永康區中正路、中正南路、仁愛街、鹽行路此路口，因交通壅塞、又是多叉路口，建議建置行人倒數計時顯示器及評估行人庇護島設計，將中央分隔島、紅綠燈後移施作完成後一併納入處理，以利大量用路人與行人之安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2021\/11\/23",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/12\/09",
+    "SendNumber": "南議保安字第 1100012470號",
+    "DoDesc": "本案經臺南市政府110年12月30日府交交管字第1101582764號函復如下：\r\n一、經查本府交通局業於110年12月3日邀集貴會李議員鎮國、省道主管機關(交通部公路總局第五區養護工程處新化工務段)及相關單位現場會勘，結論：考量該路口為複雜路口，設定為多時相管制，共識由本府交通局增設紅燈倒數設施，為利用路人辨識燈號及停等秒數。\r\n二、另有關中央分隔島退縮工程，新化工務段納入111年度台1線易肇事路段改善工程辦理施作，預計111年6月底前完成。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=73b318ee-178c-413c-b994-dd90474e99ae",
+            "FileName": "議提54附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5b52e912-ee83-44a3-a6cd-41919409baa6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經臺南市政府110年12月30日府交交管字第1101582764號函復如下：\r\n一、經查本府交通局業於110年12月3日邀集貴會李議員鎮國、省道主管機關(交通部公路總局第五區養護工程處新化工務段)及相關單位現場會勘，結論：考量該路口為複雜路口，設定為多時相管制，共識由本府交通局增設紅燈倒數設施，為利用路人辨識燈號及停等秒數。\r\n二、另有關中央分隔島退縮工程，新化工務段納入111年度台1線易肇事路段改善工程辦理施作，預計111年6月底前完成。",
+    "ErrorMessage": ""
+}

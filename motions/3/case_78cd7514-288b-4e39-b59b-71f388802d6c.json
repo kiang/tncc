@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "102",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡旺詮",
+    "OrgTitle2": "蔡蘇秋金、陳怡珍、許又仁、許至椿",
+    "CaseCause": "請工務局儘速修復「台南市道路挖掘行動查報系統」APP多項功能。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"地圖上完全沒有顯示施工、搶修等標示。(見附件1)\",\"children\":[]},{\"order\":\"二、\",\"content\":\"月初新聞曾宣布，剛推出的「圖資查詢」功能，完全不能使用。(見附件2)\",\"children\":[]},{\"order\":\"三、\",\"content\":\"「市長信箱」功能，讀取過久，一直轉圈，必須重試兩三次才成功連上。(見附件3)「市長信箱」功能，讀取過久，一直轉圈，必須重試兩三次才成功連上。(見附件3)\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"自從「0206台南地震」與「高雄氣爆」等重大災害後，台灣越來越重視管線圖資的重要性，若災害發生時，第一線搜救人員能打開APP，即時獲得如電力、天然氣、水利管線等配置，能有效避免「誤挖」造成二次災害。更能有效規劃救災計畫，加快搜救進度。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"有鑑於災害不知何時發生，請工務局優先修復「圖資查詢」功能，並優化系統，減少卡住或閃退等錯誤，同時也加快查詢速度。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"該查詢功能無須登入，減少查詢所需時間，這部分的設計很好，符合救災緊急的需求，但還是請工務局盡可能優化系統，把握救災黃金時間。\",\"children\":[]}]}]",
+    "CheckDate": "2022\/08\/26",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/08\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/09\/06",
+    "SendNumber": "南議工務字第 1110010204號",
+    "DoDesc": "本府就「請工務局儘速修復「台南市道路挖掘行動查報系統」APP 多項功能。」案，敬答覆如下：\r\n有關本府工務局道挖系統查詢道挖案件、圖資以及市民信箱等功能，目前已可正常使用，如後附之示意圖，未來亦將持續優化系統效能。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=432cd965-e366-410f-b09c-9f04e9a740d4",
+            "FileName": "3-8定工務議提102附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=16631887-1d91-478f-ba60-8f75463d0797",
+            "FileName": "1110010907工務102附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=78cd7514-288b-4e39-b59b-71f388802d6c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/09\/19",
+    "ExecuteReNumber": "府工企劃字第 1111195939號",
+    "ExecuteReMemo": "本府就「請工務局儘速修復「台南市道路挖掘行動查報系統」APP 多項功能。」案，敬答覆如下：\r\n有關本府工務局道挖系統查詢道挖案件、圖資以及市民信箱等功能，目前已可正常使用，如後附之示意圖，未來亦將持續優化系統效能。",
+    "ErrorMessage": ""
+}

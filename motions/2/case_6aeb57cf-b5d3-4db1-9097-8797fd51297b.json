@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第5次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2017\/04\/11",
+    "ComeNumber": "府消預字第1060387535號",
+    "OrgTitle": "臺南市政府消防局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市火災預防自治條例」第十二條、第十五條草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為確保人民權利及有效強化督促管理權人辦理檢修申報機制，爰配合一百零六年一月十八日總統公布修正消防法第三十八條第二項之修正意旨，酌修裁處程序（本自治條例第十二條），並增列本次修正條文之施行日期（本自治條例第十五條）。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經106年3月29日第288次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附臺南市火災預防自治條例第十二條、第十五條修正草案總說明、條文對照表及條文乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、照案通過。\r\n二、附帶決議：有關第九條條文規定，各場所檢修申辦辦理期限，主管機關應於三個月前通知，並加強宣導。",
+    "DoneDate": "2017\/08\/21",
+    "DoneDesc": "照審查意見通過。\r\n備註：本案為第2屆第5次定期會未完成審議事項，係經第2屆第10次臨時會第2次會(106年8月21日)決議。",
+    "SendDate": "2017\/09\/04",
+    "SendNumber": "南議法規字第 1060006072號",
+    "DoDesc": "「臺南市火災預防自治條例」第十二條、第十五條已於106年10月13日府法規字第1061063825A號令公告發布修正，並自公告後開始實施。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=06edb78f-0b73-4507-bf92-634706bcd7be",
+            "FileName": "2-5定市提2-臺南市火災預防自治條例第十二條及第十五條修正草案(總說明、逐條說明、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6aeb57cf-b5d3-4db1-9097-8797fd51297b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。\r\n備註：本案為第2屆第5次定期會未完成審議事項，係經第2屆第10次臨時會第2次會(106年8月21日)決議。",
+    "FirstDate": "2017\/04\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "「臺南市火災預防自治條例」第十二條、第十五條已於106年10月13日府法規字第1061063825A號令公告發布修正，並自公告後開始實施。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "6",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林志展、呂維胤、李宗翰",
+    "OrgTitle2": "",
+    "CaseCause": "建請市政府督導各警分局、派出所，設置民眾洽公停車位，以提升便民、親民形象。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"民眾如有必要至各警察單位洽公或報案，常有車位難尋之苦，在不得已的情形下違停，實令民眾有苦難言。建請警察局督導各警分局、派出所，設置民眾洽公停車位，以提升便民、親民形象。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2021\/11\/23",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/12\/09",
+    "SendNumber": "南議保安字第 1100012336號",
+    "DoDesc": "本案經市府110年12月24日府警後字第1101507466號函復:\r\n一、依據臺南市路邊停車場設置及廢止作業要點第3點，路邊專用停車位可設置之種類為：「行動不便之身心障礙者專用停車位、警車專用停車位、貨車卸貨專用格位」等3類，並無民眾洽公停車位類別；本府警察局為提升警察便民、親民形象，民眾洽公汽機車停車位均設置於本局各單位駐地範圍內。\r\n二、本府警察局除第一分局文化派出所等16個單位(如附表)，因駐地腹地空間不足，無法設置外，餘均已於駐地範圍內擇定適當位置設置。\r\n三、另本府警察局各警察分局已於網站公布各警察單位駐地附近之公、私有停車場位置，以利洽公民眾查詢停放車輛使用。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=393dc705-8c17-409b-bf38-8527317681d2",
+            "FileName": "臺南市政府 附件.docx",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b1942a25-1a15-4e77-a0c4-3e0d15b02b3d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年12月24日府警後字第1101507466號函復:\r\n一、依據臺南市路邊停車場設置及廢止作業要點第3點，路邊專用停車位可設置之種類為：「行動不便之身心障礙者專用停車位、警車專用停車位、貨車卸貨專用格位」等3類，並無民眾洽公停車位類別；本府警察局為提升警察便民、親民形象，民眾洽公汽機車停車位均設置於本局各單位駐地範圍內。\r\n二、本府警察局除第一分局文化派出所等16個單位(如附表)，因駐地腹地空間不足，無法設置外，餘均已於駐地範圍內擇定適當位置設置。\r\n三、另本府警察局各警察分局已於網站公布各警察單位駐地附近之公、私有停車場位置，以利洽公民眾查詢停放車輛使用。\r\n",
+    "ErrorMessage": ""
+}

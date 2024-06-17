@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第4次 臨時會",
+    "PTypTitle": "會務",
+    "CaseNumber": "9",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "賴議長美惠",
+    "OrgTitle2": "",
+    "CaseCause": "訂定「臺南市議會錄影、錄音管理規則(草案)」，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、為加強議場錄音、錄影之管理，特訂定本規則，俾便實施。\"},{\"tag\":\"p\",\"content\":\"二、檢附「臺南市議會錄影、錄音管理規則(草案)」。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會同意後，發布施行。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2011\/04\/01",
+    "DoneDesc": "一、第七條修正為：本會開會時除職司錄影、錄音人員外，新聞媒體得在議場錄影、錄音。但如影響議事進行，主席得制止之。\r\n二、修正通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9f1c8830-5f42-4ddc-aa63-cc1974312c7d",
+            "FileName": "1-4臨會務9-臺南市議會錄影、錄音管理規則.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0be0c5dc-6010-446f-a575-92a9f692d294&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "一、第七條修正為：本會開會時除職司錄影、錄音人員外，新聞媒體得在議場錄影、錄音。但如影響議事進行，主席得制止之。\r\n二、修正通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

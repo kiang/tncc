@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第9次 臨時會",
+    "PTypTitle": "會務",
+    "CaseNumber": "3",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "賴議長美惠",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市議會各種委員會設置辦法」第四條草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依103年度第2次政黨黨團協商第2次會議決議辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"檢附「臺南市議會各種委員會設置辦法」第四條修正草案總說明、條文修正草案對照表、修正後條文草案。\",\"children\":[]}]},{\"tag\":\"p\",\"content\":\"-----------------------\"},{\"tag\":\"p\",\"content\":\"臺南市議會各種委員會設置辦法第四條修正總說明\"},{\"tag\":\"p\",\"content\":\"為明確規範臺南市議會各種委員會設置辦法(以下簡稱本辦法)第二條第一項第一款至第六款委員會之召集人不得擔任本辦法第四條法規委員會委員外，並明定法規委員會召集人連選不得連任，爰修正本辦法第四條條文，以杜爭議。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會同意後報行政院備查，並函知市政府\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、修正第四條 (修正內容詳附表）\r\n二、修正通過\r\n",
+    "DoneDate": "2014\/08\/13",
+    "DoneDesc": "照審查意見修正通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9b75a396-ffe7-4ea9-b941-59ba1c22c428",
+            "FileName": "臺南市議會各種委員會設置辦法第四條修正條文.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f553f120-597b-492c-b655-d5a7a0d2b2f1&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見修正通過。",
+    "FirstDate": "2014\/08\/04",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

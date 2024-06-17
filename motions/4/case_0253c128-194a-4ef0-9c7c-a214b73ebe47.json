@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第1次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/01\/13",
+    "ComeNumber": "府交公運字第1120111871號函",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部核定本市「111年電動大客車示範計畫」補助計畫總經費新臺幣2億6,600萬元，為爭取時效，謹請貴會同意先行墊付112年度經費1億640萬元(全額中央補助)，俾憑辦理後續相關作業事宜，俟112年度追加減預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據交通部111年10月13日交路(一)字第11186007151號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款之規定：「經上級政府核定之補助款，所使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"本案核定總經費新臺幣2億6,600萬元(全額中央補助)\",\"children\":[{\"order\":\"１、\",\"content\":\"「大台南公車『藍幹線』電動大客車示範計畫補助 計畫案-興南客運(20輛甲類電動大客車)」經交通部同意補助興南客運購置20輛甲類電動大客車共計1億4,000萬元整(補助上限700萬元\/輛)。\",\"children\":[]},{\"order\":\"２、\",\"content\":\"「大台南公車『橘9(9-1)、橘13』電動大客車示範計畫補助計畫案-漢程客運(18輛甲類電動大客車)」經交通部同意補助漢程客運購置18輛甲類電動大客車共計1億2,600萬元整(補助上限700萬元\/輛)。\",\"children\":[]}]},{\"order\":\"(二)\",\"content\":\"上開總經費2億6,600萬元，依「交通部電動大客車示範計畫補助作業要點」分4年採分年編列預算辦理，112年1億640萬元、113年5,320萬元、114年5,320萬元、115年5,320萬元。因本案未及納入112年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府111年11月15日第569次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度追加減預算時再予轉正。\"}]",
+    "CheckDate": "2023\/02\/13",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/02\/17",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/02\/21",
+    "SendNumber": "南議保安字第 1120001011號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=25f69ac3-a2d9-45ac-9d46-61451c0dd4e2",
+            "FileName": "附件-交通部核定公文(興南客運、漢程客運).PDF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ca93e615-7753-43d1-965b-2e0727a6f7b9",
+            "FileName": "附件-111年電動大客車示範型計畫書-興南、漢程.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0253c128-194a-4ef0-9c7c-a214b73ebe47&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/02\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

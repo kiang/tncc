@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "129",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "邱莉莉、林志展、周奕齊、施余興望 Tjakumay Tagaw、沈家鳳、陳秋宏、吳通龍",
+    "CaseCause": "請臺南市政府協助研議辦理殯葬管理所行政相驗醫師處增設影印機。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"臺南市殯葬管理所內，行政相驗醫師每日勘驗後需開立死亡證明，然而資料影印卻要離開殯葬管理所大門逆向到7-11去影印，能否研議在行政相驗醫師辦公室亦或者在殯葬管理所之服務處內裝設影印機，讓相驗醫師的流程順暢，家屬也能在悲傷中得到協助(如附件)，建請市府協助改善。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/06\/26",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/07\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/07\/10",
+    "SendNumber": "南議民教字第 1120005952號",
+    "DoDesc": "收文字號：112年7月12日1120006340號\r\n本府就「請臺南市政府協助研議辦理殯葬管理所行政相驗醫師處增設影印機。」案，敬答覆如下：\r\n    因行政相驗屬衛生局轄管業務，本市殯管所僅基於行政互助及協助喪家原則，提供空間供衛生局設置行政相驗醫師辦公室，有關本提案本市殯管所已轉知衛生局本於權責卓處。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ff2a5623-9de9-4258-8fe1-7ebf609a5d38",
+            "FileName": "民教議提129(民政局)--李鎮國議員(殯管所)附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=dc6cab60-f3fd-49f2-9b06-ae19d99eaffc&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/07\/12",
+    "ExecuteReNumber": "府民生字第 1120904052號",
+    "ExecuteReMemo": "收文字號：112年7月12日1120006340號\r\n本府就「請臺南市政府協助研議辦理殯葬管理所行政相驗醫師處增設影印機。」案，敬答覆如下：\r\n    因行政相驗屬衛生局轄管業務，本市殯管所僅基於行政互助及協助喪家原則，提供空間供衛生局設置行政相驗醫師辦公室，有關本提案本市殯管所已轉知衛生局本於權責卓處。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第12次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "11",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/02\/18",
+    "ComeNumber": "府社秘字第1110242254號",
+    "OrgTitle": "臺南市政府社會局",
+    "OrgTitle2": "",
+    "CaseCause": "衛生福利部核定本市111年度「臺南市街友生活重建服務計畫」案，計新臺幣75萬元(中央全額補助)，為爭取時效，謹請貴會同意先行辦理墊付，俾憑辦理後續相關作業事宜，俟112年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據衛生福利部110年11月24日衛部救字第1101364213號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款所使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費計新臺幣179萬元（中央補助款143萬2,000元、市配合款35萬8,000元），業於111年度公務預算編列77萬9,000元（中央補助款68萬2,000元、市配合款9萬7,000元）、公益彩券盈餘編列配合款26萬1,000元，餘中央補助款75萬元，因未及納入本府111年度總預算，為爭取時效，謹請貴會同意先行辦理墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府110年12月21日第522次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2022\/03\/18",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2022\/03\/25",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2022\/03\/31",
+    "SendNumber": "南議環衛字第 1110002629號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c99679f0-2c3b-4a15-b5b4-f801a6f849dd",
+            "FileName": "環保衛生11號-附件-社會局-111年度臺南市街友生活重建服務計畫(社家科).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1ca15c37-642e-4ff0-9662-fe77d4e22d07&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2022\/03\/09",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

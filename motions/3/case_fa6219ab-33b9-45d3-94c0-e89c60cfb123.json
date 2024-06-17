@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第3次 臨時會",
+    "PTypTitle": "教育",
+    "CaseNumber": "12",
+    "KidTitle": "市府提案",
+    "ComeDate": "2019\/07\/24",
+    "ComeNumber": "府教秘字第1080261197號",
+    "OrgTitle": "臺南市政府教育局",
+    "OrgTitle2": "",
+    "CaseCause": "108年度中央對直轄市及縣市教育設施補助─指定項目水電費補助編列不足數新臺幣264萬7,000元整，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟108年度追加預算或109年度預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據行政院107年9月3日院授主預補字第1070102169B號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出。」\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"(一)本案108年度預算編列時，因中央尚未核定108年度中央對臺南市一般性及專案補助款核定數，爰比照107年度額度編列108年度指定項目水電費共新臺幣1億2,506萬1,000元整。\"},{\"tag\":\"p\",\"content\":\"(二)108年度實際核定數為新臺幣1億2,770萬8,000元整，超出預算新臺幣264萬7,000元整，擬辦理先行墊付，俟108年度追加減預算或109年度預算時再予轉正。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府108年7月17日第397次市政會議審議通過。\"},]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟108年度追加減預算或109年度預算時再予轉正。\"}]",
+    "CheckDate": "2019\/08\/20",
+    "CheckDesc": "1.同意墊付。\r\n2.提案內容「108年度追加減預算或」文字刪除。\r\n",
+    "DoneDate": "2019\/08\/23",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2019\/08\/30",
+    "SendNumber": "南議教育字第 1080007759號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=03f64a18-6011-49ba-bf50-fa5361504b5c",
+            "FileName": "教育12-108水電費核定函(一般性補助).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fa6219ab-33b9-45d3-94c0-e89c60cfb123&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2019\/08\/14",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

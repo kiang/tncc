@@ -1,0 +1,63 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "19",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2024\/05\/03",
+    "ComeNumber": "府經能字第1130625184號",
+    "OrgTitle": "臺南市政府經濟發展局",
+    "OrgTitle2": "",
+    "CaseCause": "欣南天然氣股份有限公司為穩定天然氣需求，申請購買本府經濟發展局經管「南區新興段273-5地號(面積62平方公尺)」1筆非公用市有土地，興建天然氣整壓站，惟該公司非公營事業機構，依法僅得辦理標售程序，擬請同意依土地法第25條規定完成處分標售程序，俾憑辦理後續相關作業，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據臺南市市有財產管理自治條列規定函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合臺南市市有財產管理自治條列第49條第3款及第50條第1項第1款相關規定，空地、空屋應予標售。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：原欣南天然氣公司既有整壓站位於南區新興段273地號（公園用地；公92）內部，長期接獲當地居民、民意代表及里長陳情現址整壓站鄰近南廠水門宮（金爐旁）及住宅區恐發生災害，經決議配合工務局『大船來了』主題公園興建，移至健康截流站旁，原公園用地依都市計畫法第27條第1項第2款規定辦理都市計畫個案變更為天然氣設施專用區（南區新興段273-5地號）。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年4月23日第643次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=320a9763-cd23-473e-961e-e9b2dc361415",
+            "FileName": "財經19-附件1-提議會審議案說明.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f79d691a-177b-4d8f-aa2e-42a3a5931563",
+            "FileName": "財經19-附件2- 位置圖.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=956410d1-5093-41d9-8190-4c46364442fa",
+            "FileName": "財經19-附件3- 第二類謄本.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e8dcfcdb-8f8a-42b5-9b67-df80cc01f0ec",
+            "FileName": "財經19-附件4- 地籍圖謄本.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9e1b4b97-ab26-4e45-982b-193db45bf5e0",
+            "FileName": "財經19-附件5-土地處份清冊.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=32cfa4a5-1789-4bae-b897-160ddecbb0a6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "",
+    "FirstDate": "2024\/05\/29",
+    "FirstDesc": "交付財經委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

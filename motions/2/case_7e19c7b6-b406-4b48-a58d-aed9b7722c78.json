@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第7次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "10",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "張世賢",
+    "OrgTitle2": "李坤煌、許至椿",
+    "CaseCause": "建請市府儘速修建「後壁區菁豐里菁寮中排(三)上游段改善工程」，確保居民安全與權益。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、該中排市府已整修二期，但每期僅整修一小段，上游段亟需改善。\"},{\"tag\":\"p\",\"content\":\"二、檢附後壁區公所107年3月30日所建字第1070211300號函。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2018\/05\/25",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2018\/06\/04",
+    "SendNumber": "南議工務字第 1070003755號",
+    "DoDesc": "本案經市府107年6月12日府水行字第1070633123號函復：\r\n(詳如夾檔)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cc5208d5-6913-406d-acdf-499420bf2bc7",
+            "FileName": "2-7工務議提10書面答覆.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7e19c7b6-b406-4b48-a58d-aed9b7722c78&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2018\/03\/07",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府107年6月12日府水行字第1070633123號函復：\r\n(詳如夾檔)",
+    "ErrorMessage": ""
+}

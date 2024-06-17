@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-總預算案",
+    "ComeDate": "2021\/09\/09",
+    "ComeNumber": "府主預字第1101048784號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "本市111年度總預算案及總預算案附屬單位預算及綜計表，業經編製完竣，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據地方制度法、預算法及中華民國一百十一年度直轄市及縣（市）總預算編製要點、總預算附屬單位預算編製要點辦理。\"},{\"tag\":\"p\",\"content\":\"二、111年度總預算案部分：歲入預算編列980億6,530萬1千元，歲出預算編列1,021億1,530萬1千元，歲入歲出差短40億5,000萬元，差短部分，擬以舉借同額借款支應。\"},{\"tag\":\"p\",\"content\":\"三、111年度總預算案附屬單位預算及綜計表部分：\"},{\"tag\":\"p\",\"content\":\"(一)營業基金部分：本年度本期淨利3,565萬2千元。\"},{\"tag\":\"p\",\"content\":\"(二)非營業基金部分：作業基金本年度本期短絀4億4,598萬8千元，特別收入基金本年度本期短絀11億3,154萬6千元。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年8月30日第506次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會惠予審議。\"}]",
+    "CheckDate": "2022\/04\/15",
+    "CheckDesc": "詳如各委員會聯席審查意見報告書。",
+    "DoneDate": "2022\/01\/14",
+    "DoneDesc": "一、經第3屆第11次臨時會第2次會（111年1月14日）修正通過（修正情形如大會決議表）。\r\n二、於同次會（111年1月14日）經復議討論通過。（內容如大會復議後決議）",
+    "SendDate": "2022\/01\/19",
+    "SendNumber": "南議財經字第 1110000584號",
+    "DoDesc": "",
+    "AttList": [],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f1e089ba-2a45-465a-8cce-f27918a8fcc1&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=86bad7f7-c70d-41ff-9d46-31857321d20d",
+            "FileName": "各委員會審查意見報告書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7f3087c4-dd4b-41ff-8307-e89c253d3aa0",
+            "FileName": "復議後決議.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "",
+    "ReDesc": "一、經第3屆第11次臨時會第2次會（111年1月14日）修正通過（修正情形如大會決議表）。\r\n二、於同次會（111年1月14日）經復議討論通過。（內容如大會復議後決議）",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "2022\/01\/14",
+    "SecondDesc": "修正通過。",
+    "ThirdDate": "2022\/01\/14",
+    "ThirdDesc": "照二決議通過。",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

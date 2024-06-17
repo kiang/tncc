@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第7次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2014\/03\/27",
+    "ComeNumber": "府民自字第1030201435號",
+    "OrgTitle": "臺南市政府觀光旅遊局",
+    "OrgTitle2": "",
+    "CaseCause": "制定「臺南市載客小船管理自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"鑒於船舶法及依其授權所訂定之小船管理規則業已刪除有關小船經營管理事項之規定，小船之經營、管理已修正為非交通部許可行業，而為業別管理，屬一般商業管理事宜，改由各地方政府制（訂）定地方自治法規予以規範。是為有效管理臺南市轄內載客小船經營業者之營運秩序，爰參酌一百年一月二十八日修正之「小船管理規則」中有關小船經營管理事項之規定，擬具臺南市載客小船管理自治條例草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府103年3月26日第153次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市載客小船管理自治條例草案」（含總說明及逐條說明）乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、照案通過\r\n二、附帶意見：於第7條立法說明增列下列文字：「收費基準依規費法授權市政府訂定之；嗣後如有調整，為期確實反映成本，應參考經營業者及立法機關意見，再予調整。」\r\n",
+    "DoneDate": "2014\/06\/20",
+    "DoneDesc": "照審查意見通過",
+    "SendDate": "2014\/07\/02",
+    "SendNumber": "南議法規字第 1030004149號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=45ef55d7-a923-41cd-b170-59acb721d28c",
+            "FileName": "1-7定法規市提1-臺南市載客小船管理自治條例草案(總說明、對照表、條文草案).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2bb5c22f-16c4-4d44-a69a-df16810f7c68&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過",
+    "FirstDate": "2014\/04\/07",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

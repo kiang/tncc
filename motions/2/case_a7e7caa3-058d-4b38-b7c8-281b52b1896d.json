@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第6次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2017\/09\/12",
+    "ComeNumber": "府工管一字第1060960687號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "修訂「臺南市建築管理自治條例」第六條、第八條、第三十一條草案一案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本案業經本府106年8月25日第304次市政會議審議通過。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"檢附「臺南市建築管理自治條例」第六條、第八條、第三十一條草案（含總說明及逐條說明）乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、修正通過。\r\n二、第六條第四項第3行，主管機關得組成現有巷道評議小組，修正為應組成現有巷道評議小組。  \r\n三、附帶意見：\r\n    有關第二十九條條文，因環境變遷，指定建築線部分，將使有合法房子變成不合法，請檢討修正該條條文，再送本會審議。",
+    "DoneDate": "2017\/11\/24",
+    "DoneDesc": "照審查意見修正通過。",
+    "SendDate": "2017\/12\/13",
+    "SendNumber": "南議法規字第 1060008805號",
+    "DoDesc": "已簽呈中，將函送行政院報備。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3aae1f5e-eeb0-4f4e-8c77-7a162aa88e4f",
+            "FileName": "2-6定市提1-臺南市建築管理自治條例第六條、第八條、第三十一條修正草案(總說明、對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a7e7caa3-058d-4b38-b7c8-281b52b1896d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見修正通過。",
+    "FirstDate": "2017\/09\/13",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "已簽呈中，將函送行政院報備。",
+    "ErrorMessage": ""
+}

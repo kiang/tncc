@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "50",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "呂維胤",
+    "OrgTitle2": "沈震東、劉米山、林志展",
+    "CaseCause": "要求衛生局公衛護理師及社區訪視員額。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"台南市府編制公衛護理師、社區關懷訪視員、心理衛生社工對於精神疾病患者及其家屬是很重要的第一線關懷照護人力，近年來相關員額的人力不足，使得市府無法全面照護社區精神病患及即時關懷家屬，為免造成憾事發生，建請市府逐年增編相關人員，促進市民福祉。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2021\/11\/24",
+    "CheckDesc": "函送市府研議。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/12\/09",
+    "SendNumber": "南議建設字第 1100012541號",
+    "DoDesc": "",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=38628829-f9cd-441b-a67a-60457df47694",
+            "FileName": "附件 .pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=dc3ec131-0051-4f0f-82ae-ae5fbbe81501&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

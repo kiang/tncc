@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "9",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡旺詮",
+    "OrgTitle2": "鄭佳欣、李偉智、許又仁、周麗津、李中岑、吳禹寰",
+    "CaseCause": "大同路路橋下應增設路燈。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"德安百貨旁的中華路橋下靠近大同路因無路燈太暗，居民出入危險希望能加裝路燈。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2021\/01\/21",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2021\/01\/26",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/01\/28",
+    "SendNumber": "南議工務字第 1100000677號",
+    "DoDesc": "本案經市府110年2月18日府工園一字第1100185957號函復：\r\n有關大同路路橋下應增設路燈一案，本府已於109年12月施工完畢(附上施工後照片1張)。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=15d9fb94-7065-4712-846b-9f28bb88f02f",
+            "FileName": "議提9附件.jpg",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=951811f2-909c-4143-b6a9-b168e7745b4a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/01\/05",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府110年2月18日府工園一字第1100185957號函復：\r\n有關大同路路橋下應增設路燈一案，本府已於109年12月施工完畢(附上施工後照片1張)。",
+    "ErrorMessage": ""
+}

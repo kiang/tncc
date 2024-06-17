@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第8次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "6",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2018\/08\/23",
+    "ComeNumber": "府都設字第1070957280號",
+    "OrgTitle": "臺南市政府都市發展局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市低碳城市自治條例」第二十六條之一、二十六條之二、三十四條之一及三十七條，提請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本府環保局為提昇餐飲業設置油煙防制設備及環保餐具提供管制，爰此提出「臺南市低碳城市自治條例」相關之條文修正，爰擬具本修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府107年8月22日第350次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市低碳城市自治條例」部分條文修正草案（含總說明及修正對照表）乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2018\/11\/27",
+    "DoneDesc": "照審查意見通過。\r\n備註：係經第2屆第12次臨時會第1次會（107年11月27日）決議通過。",
+    "SendDate": "2018\/12\/11",
+    "SendNumber": "南議法規字第 1070008224號",
+    "DoDesc": "本案業於108年1月8日以府都設字第1080052561號函陳報行政院核定。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1b715a12-e542-4a36-9ff2-a72516b6f138",
+            "FileName": "2-8定市提6-臺南市低碳城市自治條例部分條文修正草案(總說明、逐條說明、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1f0d5b76-227d-4ecb-8367-9c429228cf70&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。\r\n備註：係經第2屆第12次臨時會第1次會（107年11月27日）決議通過。",
+    "FirstDate": "2018\/07\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案業於108年1月8日以府都設字第1080052561號函陳報行政院核定。",
+    "ErrorMessage": ""
+}

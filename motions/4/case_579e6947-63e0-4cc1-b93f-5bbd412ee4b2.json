@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "15",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "陳怡珍、郭鴻儀、蔡育輝、蔡筱薇、鄭佳欣、蔡宗豪、Ingay Tali 穎艾達利",
+    "CaseCause": "建請市府規劃改善虎頭埤風景區步道手扶欄杆。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"此步道手扶欄杆多數為木頭材質，一定年限後容易損壞斷裂，為維護民眾安全及美觀，請市府全面檢查園區所有步道，並修復恢復原狀。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"附件為實拍圖，請參閱。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/11\/28",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2023\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "本府就「建請市府規劃改善虎頭埤風景區步道手扶欄杆」案，敬答覆如下：\r\n    1、 虎頭埤園區內環湖木棧道扶手係因10月5日小犬颱風侵襲，造成樹枝斷落壓毀，園區已於風災過後將破損扶手     拆除，並放置三角錐提醒遊客注意。\r\n    2、 目前園區正進行「虎頭埤風景特定區道路品質改善及人行步道系統優化工程」針對園區環湖木棧道的改善工作，將原本的南方松木棧道材質改善為鍍鋅材質，木製扶手改成鋁合金材質，預計完工後將能有效改善木板容易腐朽或遭段落樹枝砸毀斷裂之情形。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=efe0b5e3-14ef-42b5-8113-d001633e8493",
+            "FileName": "議提15附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=579e6947-63e0-4cc1-b93f-5bbd412ee4b2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/12\/19",
+    "ExecuteReNumber": "府觀虎字第 1121655632號",
+    "ExecuteReMemo": "本府就「建請市府規劃改善虎頭埤風景區步道手扶欄杆」案，敬答覆如下：\r\n    1、 虎頭埤園區內環湖木棧道扶手係因10月5日小犬颱風侵襲，造成樹枝斷落壓毀，園區已於風災過後將破損扶手     拆除，並放置三角錐提醒遊客注意。\r\n    2、 目前園區正進行「虎頭埤風景特定區道路品質改善及人行步道系統優化工程」針對園區環湖木棧道的改善工作，將原本的南方松木棧道材質改善為鍍鋅材質，木製扶手改成鋁合金材質，預計完工後將能有效改善木板容易腐朽或遭段落樹枝砸毀斷裂之情形。",
+    "ErrorMessage": ""
+}

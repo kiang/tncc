@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "32",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "曾之婕",
+    "OrgTitle2": "方一峰、陳怡珍、杜素吟、李偉智、陳碧玉、Ingay Tali 穎艾達利、林冠維、趙昆原、李中岑、陳秋萍、蔡育輝、陳皇宇",
+    "CaseCause": "建請市府對東區仁和路沿線，自東門路迄至崇善東路口段，實施路面平整維護。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"仁和路自東門路迄至崇善東路口段約1.3公里。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"已於112年3月9日上午11:30會勘完成。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"上述道路路面崎嶇不平，已會勘兩次以上，遲遲未能進行施作，應儘速實施路平整改維護。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請工務局儘速處置。\"}]",
+    "CheckDate": "2023\/03\/29",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/03\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/04\/10",
+    "SendNumber": "南議工務字第 1120002112號",
+    "DoDesc": "本府就「建請市府對東區仁和路沿線，自東門路迄至崇善東路口段，實施路面平整維護」案，敬答覆如下：\r\n 本案業於111年12月2日及112年3月9日完成會勘，建議改善路段面積為15,080平方公尺，所需瀝青混凝土粒料計約1,772噸，已納入本府工務局開口契約辦理路面改善，並俟排訂供料期程後辦理路面鋪設事宜。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=102bf038-f305-4a85-ba23-3415868e85a0",
+            "FileName": "(仁和路段)附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=da37228c-2788-41e3-9bc5-8909693252ca&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/05\/15",
+    "ExecuteReNumber": "府工務一字第 1120608311號",
+    "ExecuteReMemo": "本府就「建請市府對東區仁和路沿線，自東門路迄至崇善東路口段，實施路面平整維護」案，敬答覆如下：\r\n 本案業於111年12月2日及112年3月9日完成會勘，建議改善路段面積為15,080平方公尺，所需瀝青混凝土粒料計約1,772噸，已納入本府工務局開口契約辦理路面改善，並俟排訂供料期程後辦理路面鋪設事宜。",
+    "ErrorMessage": ""
+}

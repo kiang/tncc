@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "2",
+    "KidTitle": "查照\/備查案-法規查照案",
+    "ComeDate": "2020\/10\/07",
+    "ComeNumber": "府交綜字第1091212154B號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "訂定「臺南市共享自行車營運許可費及保證金收費辦法」。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據地方制度法第27條第3項規定辦理。\"},{\"tag\":\"p\",\"content\":\"二、檢附「臺南市共享自行車營運許可費及保證金收費辦法」1份。\"}]",
+    "Method": "[]",
+    "CheckDate": "2020\/11\/25",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2020\/12\/08",
+    "SendNumber": "南議法規字第 1090011791號",
+    "DoDesc": "109年09月29日府法制字第1091178655A號令實施，臺南市議會已於109年12月8日南議法規字第1090011791號函同意備查。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fa3f7ecd-5bee-4992-a93b-8017d8ed97b8",
+            "FileName": "臺南市共享自行車營運許可費及保證金收費辦法.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7d8ae986-5d11-4202-b208-b225a3bc7479",
+            "FileName": "法規報告案大會決議.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4a650e3a-ac53-43a4-b528-2a7ddb9bb971&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2020\/09\/28",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "109年09月29日府法制字第1091178655A號令實施，臺南市議會已於109年12月8日南議法規字第1090011791號函同意備查。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "21",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "黃麗招、沈震東、郭鴻儀、Ingay Tali穎艾達利",
+    "CaseCause": "建請檢討新市區大洲里、豐華里較低區域路側排水問題（水利局、工務局）。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、因應北外環道路、樹谷大道聯通道，通車在即，大洲里與豐華里社區交通需求也日益頻繁，原道路積水不退問題需即刻進行檢討改善，以維護雨季交通順暢，保護居家出入安全。\"},{\"tag\":\"p\",\"content\":\"二、目前社區道路兩側部份路段未設有路側排水，雨水只能順路面往排水系統漫流，造成「以路為河」現象，行經用路人險象環生，也易造成兩側居民淹水問題，建請水利局、工務局，即刻檢討規劃上開社區的排水系統，解決淹水問題。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/09\/07",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2020\/09\/09",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/09\/14",
+    "SendNumber": "南議工務字第 1090008138號",
+    "DoDesc": "本案經市府109年10月8日府水養字第1091174461號函復：\r\n一、經查新市區大洲里、豐華里社區內之排水系統收集均設有抽水站各1座。\r\n二、本府水利局亦將請水利專業工程顧問公司，因應北外環道路及樹谷大道聯通道通車後，針對新市區大洲里及豐華里之排水系統，可能造成之積淹水情形及影響，做全面性檢討改善，以符社區防汛需求，並維民眾居家出入安全。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4968fdf9-3772-4764-9255-4eba4679a7b6",
+            "FileName": "3-5臨(議提21)新市區大洲里、豐華里社區內鄰近抽水站及滯洪池設施詳圖.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=33e09ee0-af48-4503-a4aa-666eb38e9e65&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/08\/25",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府109年10月8日府水養字第1091174461號函復：\r\n一、經查新市區大洲里、豐華里社區內之排水系統收集均設有抽水站各1座。\r\n二、本府水利局亦將請水利專業工程顧問公司，因應北外環道路及樹谷大道聯通道通車後，針對新市區大洲里及豐華里之排水系統，可能造成之積淹水情形及影響，做全面性檢討改善，以符社區防汛需求，並維民眾居家出入安全。\r\n",
+    "ErrorMessage": ""
+}

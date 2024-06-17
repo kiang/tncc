@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第5次 定期會",
+    "PTypTitle": "會務",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "賴議長美惠",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市議會各種委員會設置辦法」第十六條第三項條文草案，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依本會101年12月5日第一屆第四次定期大會第37次會會議紀錄提出修正第十六條第三項。\"},undefined,{\"tag\":\"p\",\"content\":\"二、檢附「臺南市議會各種委員會設置辦法」修正草案總說明、條文修正草案對照表、修正後條文草案。\"},{\"tag\":\"p\",\"content\":\"----------------------\"},{\"tag\":\"p\",\"content\":\"臺南市議會各種委員會設置辦法修正草案總說明\"},undefined,{\"tag\":\"p\",\"content\":\"臺南市議會各種委員會設置辦法(以下簡稱本辦法)依本會101年12月5日第1屆第4次定期大會第37次會會議紀錄修正第十六條第三項，修正要點如下：\"},{\"tag\":\"p\",\"content\":\"第十六條各種委員會所議事項有與其他委員會相關連者，除由大會決議交付聯席審查者外，得由召集人報請大會決議與其他有關委員會召開聯席會議。\"},{\"tag\":\"p\",\"content\":\"預算審查由大會交付聯席會議逐條審議，聯席會議召開須有議員半數以上之出席，並由相關委員會召集人為主席。\"},undefined,{\"tag\":\"p\",\"content\":\"依前項規定審議過程，如遇有爭議，應即召開政黨協商，無法取得共識時，該局處預算延後審議。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"提請大會同意後報行政院備查，並函知市政府\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2013\/05\/20",
+    "DoneDesc": "照案通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f700fe56-3620-4244-ade7-00bf4489817e",
+            "FileName": "臺南市議會各種委員會設置辦法草案.doc",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=07abb9dc-8aea-44b9-9900-1066184be141&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照案通過。",
+    "FirstDate": "2013\/03\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第2屆 第5次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2017\/04\/12",
+    "ComeNumber": "府財務字第1060394383號",
+    "OrgTitle": "",
+    "OrgTitle2": "",
+    "CaseCause": "檢送「臺南市政府各機關105年12月27日至106年3月28日先行墊支案件彙整表」，計有臺南市善化區公所等16個機關，共27案計新台幣13億9,414萬7,000元。",
+    "Content": "[]",
+    "Method": "[]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2017\/04\/18",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2017\/04\/28",
+    "SendNumber": "南議財經字第 1060002706號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=efb68672-db35-4fbe-b432-bbc4d0a98f24",
+            "FileName": "報告事項1-先行墊支案明細.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e55942a9-49ab-4033-9d3d-f761d288384b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2017\/04\/12",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

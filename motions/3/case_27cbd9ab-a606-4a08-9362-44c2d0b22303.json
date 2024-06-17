@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第8次 臨時會",
+    "PTypTitle": "教育",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/02\/24",
+    "ComeNumber": "府文秘字第1100251935號",
+    "OrgTitle": "臺南市政府文化局所屬臺南市立圖書館",
+    "OrgTitle2": "",
+    "CaseCause": "國家人權博物館核定本市「王育德紀念館110年度人權故事教育推廣計畫」經費新臺幣142萬9,000元(補助款100萬元、市配合款42萬9,000元)乙案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟111年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據國家人權博物館110年2月3日人權展字第11030002995號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44條第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定，得支用墊付款。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"(一)國家人權博物館核定本市「王育德紀念館110年度人權故事教育推廣計畫」經費新臺幣142萬9,000元整(補助款100萬元整、市配合款42萬9,000元整)。\"},{\"tag\":\"p\",\"content\":\"(二)因未及納入本局110年度總預算，為爭取時效執行本案及配合中央列管時程，謹請貴會同意先行墊付142萬9,000元整。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年2月24日第479次市政會議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/03\/11",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/03\/19",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/03\/25",
+    "SendNumber": "南議教育字第 1100001918號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d5f85d7b-7e78-4cd1-858f-9a2381f32060",
+            "FileName": "3-8臨-市提1號案-核定函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e9de526a-f96a-4122-9766-4021c3432d04",
+            "FileName": "3-8臨-市提1號案-計畫書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=27cbd9ab-a606-4a08-9362-44c2d0b22303&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/03\/03",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

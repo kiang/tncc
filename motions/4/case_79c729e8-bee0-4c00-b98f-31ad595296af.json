@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "34",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林依婷",
+    "OrgTitle2": "周嘉韋、李宗霖、Ingay Tali 穎艾達利",
+    "CaseCause": "臺南市安平區安北路州平二街口之行人穿越道(俗稱斑馬線)上的「導盲型行穿線」，並無銜接之導盲磚步道及定位點，建議重新鋪設。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"有鑑於臺南市安平區安北路州平二街口之行人穿越道(俗稱斑馬線)上的「導盲型行穿線」，並無銜接之導盲磚步道及定位點，建議重新鋪設；相關實際狀況如附件照片，建請改善。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/05\/26",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/06\/07",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/06\/09",
+    "SendNumber": "南議保安字第 1120004061號",
+    "DoDesc": "本府就「臺南市安平區安北路州平二街口之行人穿越道(俗稱斑馬線)上的「導盲型行穿線」，並無銜接之導盲磚步道及定位點，建議重新鋪設」案，敬答覆如下：\r\n一、經查該路口係配合內政部營建署「行人穿越道設置視障引導設施試辦計畫」所繪設，用以測試視障者以何種視障引導線形式較可辨識並通過路口，目前已完成該試辦計畫，考量該路口迄今仍無人行道銜接，本府交通局將刨除該路口視障引導標線。\r\n二、 未來視障引導標線繪設將配合人行道及導盲磚並視視障者需求設置。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0714a86c-f7eb-4bb9-9dcd-1b267ca71f11",
+            "FileName": "林依婷議員提案-安平區安北路州平二街口導盲型穿越線.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=79c729e8-bee0-4c00-b98f-31ad595296af&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/07\/03",
+    "ExecuteReNumber": "府交交管字第 1120841578號",
+    "ExecuteReMemo": "本府就「臺南市安平區安北路州平二街口之行人穿越道(俗稱斑馬線)上的「導盲型行穿線」，並無銜接之導盲磚步道及定位點，建議重新鋪設」案，敬答覆如下：\r\n一、經查該路口係配合內政部營建署「行人穿越道設置視障引導設施試辦計畫」所繪設，用以測試視障者以何種視障引導線形式較可辨識並通過路口，目前已完成該試辦計畫，考量該路口迄今仍無人行道銜接，本府交通局將刨除該路口視障引導標線。\r\n二、 未來視障引導標線繪設將配合人行道及導盲磚並視視障者需求設置。",
+    "ErrorMessage": ""
+}

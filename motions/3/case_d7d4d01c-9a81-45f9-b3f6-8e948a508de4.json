@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "97",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "Ingay Tali穎艾達利",
+    "OrgTitle2": "林易瑩、蔡育輝、李鎮國、沈震東、郭鴻儀、陳怡珍",
+    "CaseCause": "建請修復永華國民運動中心停車場道路地磚。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、自2019年8月台南市多起豪雨災情後，永華運動中心室外停車場路面大量地磚出現破損、浮動情形，各磚面隨機搖晃高低不平，至今仍未妥善處理。\"},{\"tag\":\"p\",\"content\":\"二、搖晃的地磚可能絆倒長者，且易於雨後藏有積水，夏日將至，不利環境衛生。目前部分路面修復以隨意鋪設水泥方式，作為國民運動中心門面形象不佳，而且同樣有大面積破損。\"},{\"tag\":\"p\",\"content\":\"三、建請研議具有良好承重性能，足夠匹配排水量之停車場路面修復方案。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/05\/28",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2020\/06\/09",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/06\/17",
+    "SendNumber": "南議工務字第 1090003895號",
+    "DoDesc": "本案經市府109年6月23日府工建工字第1090741156號函復：\r\n經109年4月22日由洽辦機關體育處召開「永華國民運動中心停車場道鋪面地磚抗壓強度會議」決議，將原地磚更換為20*20*8公分，經設計監造單位石昭永建築師事務所，確認該強度符合良好承重性能，並於109年5月29日由承商永青營造工程股份有限公司，完成改善在案。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=925f9e06-fa5c-4501-80f3-5dd9824e9f64",
+            "FileName": "議提97-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d7d4d01c-9a81-45f9-b3f6-8e948a508de4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府109年6月23日府工建工字第1090741156號函復：\r\n經109年4月22日由洽辦機關體育處召開「永華國民運動中心停車場道鋪面地磚抗壓強度會議」決議，將原地磚更換為20*20*8公分，經設計監造單位石昭永建築師事務所，確認該強度符合良好承重性能，並於109年5月29日由承商永青營造工程股份有限公司，完成改善在案。",
+    "ErrorMessage": ""
+}

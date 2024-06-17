@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "17",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2022\/05\/05",
+    "ComeNumber": "府教體處設字第1110589770號",
+    "OrgTitle": "臺南市政府教育局",
+    "OrgTitle2": "",
+    "CaseCause": "教育部體育署核定補助本市大橋國民中學等4校辦理「修整建運動場地」案，新臺幣1,489萬元整(中央補助款計1,182萬3,000元，市配合款306萬7,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度總預算辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據教育部體育署111年4月14日臺教體署學（二）字第1110014307J號函暨111年4月19日臺教體署學（二）字第1110014970A號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案共核定大橋國中、金城國中、學甲國小、東陽國小4校，核定總經費計1,489萬元整；因未及納入本府111年度總預算，為利本案執行及配合中央列管時程，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府111年5月3日第540次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，於112年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2022\/06\/08",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2022\/06\/10",
+    "SendNumber": "南議民教字第 1110005642號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5b18497b-eafc-4be6-afcd-eda88e0ce4a2",
+            "FileName": "民教市提17-教育局墊付提案大橋國中等4校「修整建運動場地」相關附件.doc.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fc74af36-b1e0-4a67-92f7-a211af255eea&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/05\/31",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "2022\/06\/08",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

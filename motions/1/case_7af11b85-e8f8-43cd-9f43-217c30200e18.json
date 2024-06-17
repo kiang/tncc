@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第1屆 第2次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2011\/10\/17",
+    "ComeNumber": "府民自字第1000799147號",
+    "OrgTitle": "臺南市政府都市發展局",
+    "OrgTitle2": "",
+    "CaseCause": "擬制定「臺南市空地空屋管理自治條例」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據本府100年1月10日府法制字第1000007675號函發「臺南市政府及所屬各機關自治法規新訂及整併作業計畫」辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"查原臺南市制定之「臺南市空地空屋管理自治條例」因考量縣市城鄉發展差異甚大，原訂法規難以一體適用，故於縣市合併升格時，先予廢除，並整體考量大臺南市城鄉發展情形，重新檢討訂定「臺南市空地空屋管理自治條例」，現自治條例草案已研擬完成，爰提請貴會審議。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本自治條例主要內容，係針對空地、空屋閒置髒亂之情形，訂定管理維護之規定，並規範空地空屋之所有權人、管理人、使用人之義務，透過管理機制，改善閒置空地空屋之環境，並經由認養維護之制度，將閒置空地空屋之環境轉供社區公眾使用，以提昇整體都市環境品質。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請惠予審議\"}]",
+    "CheckDate": "",
+    "CheckDesc": "一、刪除第四條第一項第四款及第四條 第二項（修正內容詳附表）\r\n二、餘照案通過。",
+    "DoneDate": "2011\/12\/08",
+    "DoneDesc": "照審查意見修正通過。",
+    "SendDate": "2011\/12\/28",
+    "SendNumber": "南議法規字第 1000011663號",
+    "DoDesc": "本案業於101年1月11日以府都設字第1010006158號函送行政院辦理核定作業。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=631bc143-d805-45c7-8e5d-75c1260982cd",
+            "FileName": "1-2定市提5大會決議附表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7af11b85-e8f8-43cd-9f43-217c30200e18&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見修正通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案業於101年1月11日以府都設字第1010006158號函送行政院辦理核定作業。",
+    "ErrorMessage": ""
+}

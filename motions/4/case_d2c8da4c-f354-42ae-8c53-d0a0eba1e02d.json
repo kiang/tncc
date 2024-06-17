@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第1次 定期會",
+    "PTypTitle": "會務",
+    "CaseNumber": "6",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "周嘉韋、沈家鳳、李宗翰、蔡筱薇、林依婷、蔡蘇秋金",
+    "OrgTitle2": "林志展、黄肇輝、王宣貿、蔡麗青、邱昭勝、陳秋宏、李啓維、李宗霖、施余興望 Tjakumay Tagaw、謝舒凡、朱正軒、黃麗招",
+    "CaseCause": "「臺南市議會議事規則」第七十一條條文修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"友善職場由臺南市議會領銜做起，為提升議會之孩童照護空間，應放寬會議期間議員、列席人員及議會工作人員將其零至六歲孩童攜入議場就近照護。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"因孩童之發展關乎國家未來之安定，因此會場內有零至六歲孩童時，議場秩序必須有所約制。遂明文議員及列席人員不得有大聲喧嘩、謾罵、抗議、激烈言論、肢體衝突等行為。又因無法羅列所有情狀，故以避免影響孩童身心發展為軸，禁止所有類似行為造成孩童不良之影響。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"經大會決議通過後發布實施。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2023\/06\/07",
+    "DoneDesc": "一、會務1、2、3、6號案，均予撤銷。\r\n二、鑒於本會缺乏育兒親子空間，請各政黨黨團可推派代表討論，於一週內研議建置友善環境。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4d78e493-bd9a-408a-9023-17c2a8b15056",
+            "FileName": "4-1定會務6-「臺南市議會議事規則」第七十一條修正草案(總說明、逐條說明、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d2c8da4c-f354-42ae-8c53-d0a0eba1e02d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/05\/29",
+    "ReDesc": "一、會務1、2、3、6號案，均予撤銷。\r\n二、鑒於本會缺乏育兒親子空間，請各政黨黨團可推派代表討論，於一週內研議建置友善環境。",
+    "FirstDate": "2023\/06\/07",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "31",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "黄肇輝、陳皇宇、陳怡珍、李中岑、Ingay Tali 穎艾達利、蔡蘇秋金",
+    "CaseCause": "請市府規劃增加新化區綠16公車班次停靠「統一花園社區」。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"社區民眾陳情前往臺南醫院新化分院需搭乘綠16線轉搭綠幹線前往，因1天只有3個班次有停靠，其餘時段須自費搭乘計程車，對於當地居民搭乘造成不便。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請市府與客運公司協調此公車站設為必經點，以利民眾使用。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/11\/27",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/12\/06",
+    "SendNumber": "南議保安字第 1120011655號",
+    "DoDesc": "本府就「請市府規劃新化區綠16公車停靠統一花園社區」案，敬答覆如下：\r\n    本府交通局公共運輸處已協調興南客運公司自113年1月1日起綠16線每日增加3班次繞駛統一花園社區(每日共計9班次繞駛)，後續仍將依實際搭乘狀況持續滾動檢討班次適宜性，以符合地方搭乘需求。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c7743d6f-0a39-4ffc-a4a2-9a6b25b99188",
+            "FileName": "增加綠16新化統一花園班次-李偉智.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=048e66bb-4891-4c9e-ae8c-76a22eb053ae&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2024\/01\/03",
+    "ExecuteReNumber": "府交公運字第 1121677289號",
+    "ExecuteReMemo": "本府就「請市府規劃新化區綠16公車停靠統一花園社區」案，敬答覆如下：\r\n    本府交通局公共運輸處已協調興南客運公司自113年1月1日起綠16線每日增加3班次繞駛統一花園社區(每日共計9班次繞駛)，後續仍將依實際搭乘狀況持續滾動檢討班次適宜性，以符合地方搭乘需求。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第9次 臨時會",
+    "PTypTitle": "民政",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2021\/08\/17",
+    "ComeNumber": "府民自字第1100997045號",
+    "OrgTitle": "臺南市政府民政局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理讓售本府民政局經管坐落本市東區裕東段233地號1筆非公用市有土地，謹依土地法第25條規定之處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、市有土地承租人申請承購坐落本市東區裕東段233地號之市有土地，擬依「臺南市市有財產管理自治條例」第50條第1項第2款規定辦理讓售。\"},{\"tag\":\"p\",\"content\":\"二、本案經本府110年7月19日第500次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後辦理出售。\"}]",
+    "CheckDate": "2021\/09\/08",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2021\/09\/10",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/09\/15",
+    "SendNumber": "南議民政字第 1100007589號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2cac7083-8220-4a0f-ab0c-d0f9a91ae099",
+            "FileName": "處分清冊.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0acdc359-0def-4fac-b4b4-a06235ab830c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/01",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "9",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "吳禹寰",
+    "OrgTitle2": "李偉智、周麗津、李中岑、周奕齊、陳秋萍、陳怡珍、Ingay Tali穎艾達利",
+    "CaseCause": "建請市府儘速改善歸仁86橋下，凱旋路到底往關廟86旁便道整段路面，以保障人車安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"經民眾陳情因該路段已年久失修，路面老化龜裂破損影響行車。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"因應地方民眾經常使用的道路安全考量，請優先考量並加速改善此路段，以保障人車安全。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附改善位置圖。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2022\/08\/26",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2022\/08\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/09\/06",
+    "SendNumber": "南議工務字第 1110010076號",
+    "DoDesc": "本市「歸仁區台86側車道路面改善工程」，計畫改善長度774公尺、寬度13.5公尺，AC改善面積10,449平方公尺，已納入本府111年度路平專案辦理改善，預計111年9月底開工。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b946933d-7a5f-47fa-adf8-aab81019f981",
+            "FileName": "20220729161313.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d0897bfe-f751-4e1f-a161-d4e4f9e0194f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/09\/14",
+    "ExecuteReNumber": "府工養一字第 1111173190號",
+    "ExecuteReMemo": "本市「歸仁區台86側車道路面改善工程」，計畫改善長度774公尺、寬度13.5公尺，AC改善面積10,449平方公尺，已納入本府111年度路平專案辦理改善，預計111年9月底開工。",
+    "ErrorMessage": ""
+}

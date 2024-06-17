@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第3屆 第6次 臨時會",
+    "PTypTitle": "教育",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2020\/12\/15",
+    "ComeNumber": "府教永字第1091533519號",
+    "OrgTitle": "臺南市政府教育局",
+    "OrgTitle2": "",
+    "CaseCause": "教育部核定本市「公立高級中等以下學校電力系統改善計畫」增加經費新臺幣1億4,884萬元整(中央補助款)一案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據教育部109年10月21日臺教授國字第1090121744D號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"(一)本計畫109-111年度總經費7億2,194萬元，由中央特別統籌分配稅款全額補助。\"},{\"tag\":\"p\",\"content\":\"(二)110年度納編3億324萬元，其中已編1億5,440萬元，增加1億4,884萬元因未及納入本府110年度總預算，為爭取時效，請同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府109年12月15日第469次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2020\/12\/21",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2020\/12\/24",
+    "SendNumber": "南議教育字第 1090012984號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fadb5d91-c08c-4054-a733-f17bed00b75b",
+            "FileName": "3-6臨-市提1號案提案單.docx",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=27d97c4c-60e8-4e3d-8814-a0c91c196fa7",
+            "FileName": "3-6臨-市提1號案年度補助表.xlsx",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=86ed9f77-81f0-4f2b-957c-f317c22e4436",
+            "FileName": "3-6臨-市提1號案補助公文.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fcad518b-23b0-42e5-a658-1f89f4c4bdce&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "2020\/12\/14",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

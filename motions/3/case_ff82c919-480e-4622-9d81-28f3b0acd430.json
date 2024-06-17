@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第5次 臨時會",
+    "PTypTitle": "法規",
+    "CaseNumber": "3",
+    "KidTitle": "查照\/備查案-法規查照案",
+    "ComeDate": "2020\/06\/20",
+    "ComeNumber": "府消調字第1090747935B號",
+    "OrgTitle": "臺南市政府消防局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市政府火災鑑定小組設置及審議辦法」第二條，請查照。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據地方制度法第27條第3項辦理。\"},{\"tag\":\"p\",\"content\":\"二、檢送修正臺南市政府火災鑑定小組設置及審議辦法」及本府109年6月12日府法規字第1090685982A號令影本各1份。\"}]",
+    "Method": "[]",
+    "CheckDate": "2020\/09\/07",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "2020\/09\/09",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2020\/09\/14",
+    "SendNumber": "南議法規字第 1090008109號",
+    "DoDesc": "本府於109年6月12日府法規字第1090685982A號令修正發布。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=132de893-5084-424c-8149-0e156b80fe76",
+            "FileName": "修正「臺南市政府火災鑑定小組設置及審議辦法」第二條.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ff82c919-480e-4622-9d81-28f3b0acd430&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意備查。",
+    "FirstDate": "2020\/08\/25",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本府於109年6月12日府法規字第1090685982A號令修正發布。",
+    "ErrorMessage": ""
+}

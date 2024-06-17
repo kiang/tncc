@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "32",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡旺詮",
+    "OrgTitle2": "林阳乙、陳怡珍、蔡秋蘭、周麗津、杜素吟、許又仁、林易瑩",
+    "CaseCause": "鑒請市府盡速修復崇德路等路段的自行車站牌。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"東區崇德路等路段，設有自行車站牌，站牌上註明自行車行車路線與地圖。卻遭人塗鴉，並疑似有車禍撞擊痕跡，年久失修。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"一、請盡速修復崇德路等路段的自行車站牌。\"},{\"tag\":\"p\",\"content\":\"二、對未損毀之站牌也應進行定期清潔與保養。\"}]",
+    "CheckDate": "2021\/11\/23",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2021\/12\/09",
+    "SendNumber": "南議保安字第 1100012436號",
+    "DoDesc": "本案經臺南市政府111年1月4日府交交管字第1101582666號函復如下：\r\n經查案揭導覽牌位於林森路一段近崇德路(東側)交叉口，本市東區自行車道導覽牌均設置於林森路段上，本府交通局已錄案辦理全線巡查及清潔修復事宜。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d819e89d-5645-4391-8860-9b5a2c55523e",
+            "FileName": "修復崇德路等路段的自行車站牌-蔡旺詮.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2e3eb717-cd04-4655-882b-dc46e24d2eb0&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2021\/09\/23",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經臺南市政府111年1月4日府交交管字第1101582666號函復如下：\r\n經查案揭導覽牌位於林森路一段近崇德路(東側)交叉口，本市東區自行車道導覽牌均設置於林森路段上，本府交通局已錄案辦理全線巡查及清潔修復事宜。",
+    "ErrorMessage": ""
+}

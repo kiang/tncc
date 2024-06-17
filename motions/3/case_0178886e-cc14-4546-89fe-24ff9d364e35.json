@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第4次 定期會",
+    "PTypTitle": "民政",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2020\/10\/15",
+    "ComeNumber": "府民自字第1091243910號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "有關經濟部水利署南區水資源局補助本所辦理「楠西區公所老人文康活動中心廚房規劃設計」乙案，經費計新臺幣26萬4,000元整乙案（中央全額補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，並於俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據經濟部水利署南區水資源局109年8月20日水南曾字第10930038920號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款，所使用之支出。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：本案總經費新臺幣26萬4,000元整（中央全額補助），墊付金額為新臺幣26萬4,000元整，因未及納入本府110年度總預算，為爭取時效，謹請貴會同意先行墊付。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府109年10月15日第460次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2020\/11\/24",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2020\/12\/01",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2020\/12\/10",
+    "SendNumber": "南議民政字第 109012231號",
+    "DoDesc": "---------------決議案辦理情形--------------------------\r\n一、目前正在洽辦廠商提供建築設計細節規劃設計中。 \r\n二、本案將於110年完成作業，並於俟111年度總預算時辦理轉正。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fbf2be04-55d5-472e-bff1-5c4535ef22d9",
+            "FileName": "臺南市政府 附件1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a2eaf48f-5ba2-4977-acc1-fbb177b82c3a",
+            "FileName": "臺南市政府 附件2.docx",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0178886e-cc14-4546-89fe-24ff9d364e35&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2020\/09\/15",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "---------------決議案辦理情形--------------------------\r\n一、目前正在洽辦廠商提供建築設計細節規劃設計中。 \r\n二、本案將於110年完成作業，並於俟111年度總預算時辦理轉正。\r\n",
+    "ErrorMessage": ""
+}

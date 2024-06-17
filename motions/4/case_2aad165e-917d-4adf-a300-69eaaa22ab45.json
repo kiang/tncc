@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第4次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "7",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/11\/28",
+    "ComeNumber": "府環清字第1121563569號",
+    "OrgTitle": "臺南市政府環境保護局",
+    "OrgTitle2": "",
+    "CaseCause": "環境部環境管理署核定本市「臺南市南區申請環保設施有效管理與效能提升購置特種機具（2臺鏟裝機、1臺挖土機）補助計畫」經費新臺幣865萬3,000元整(中央補助623萬元，市配合款242萬3,000元)，為爭取時效，惠請同意先行辦理墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據依據環境部環境管理署112年11月14日環管廢字第1127118507號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費新臺幣865萬3,000元整(中央補助623萬元，市配合款242萬3,000元)，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俟113年度追加減預算辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年11月28日第622次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急理由:環境部環境管理署來函說明須依規定儘速納入預算，並於113年底完成結案，因應挖土機及鏟裝機打造及進口期間至少需10個月，如未能於113年1月完成招標決標，將無法於113年底完成交車，造成區隊為民服務作業困難，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度追加減預算辦理轉正，敬請審議。\"}]",
+    "CheckDate": "2023\/12\/13",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/12\/21",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/12\/27",
+    "SendNumber": "南議環衛字第 1120012917號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1c29479b-05ce-4cd7-9e51-41fa988d7937",
+            "FileName": "南區申請環保設施有效管理與效能提升購置特種機具補助計畫.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a09c22a4-d333-47eb-b4fb-8219d4d426fc",
+            "FileName": "南區申請環保設施有效管理與效能提升購置特種機具補助核定函.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2aad165e-917d-4adf-a300-69eaaa22ab45&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2023\/12\/04",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/12\/12",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

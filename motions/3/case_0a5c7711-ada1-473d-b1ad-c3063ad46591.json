@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第8次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "49",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡旺詮",
+    "OrgTitle2": "周麗津、陳怡珍、陳碧玉、蔡育輝",
+    "CaseCause": "請衛生局加強宣導，針對確診外籍人士，或無法順利使用中文溝通者，協助診所與患者溝通，完成療程與事後隔離、拿藥等手續。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"服務處曾接獲診所的求救電話，有一位日籍確診者，急需有人替他遞送藥物。由於確診者不會說中文，由其主治醫師代為求救。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"服務處隨即聯絡疾管科，衛生局同仁也立即處理，順利幫助該名外籍病患。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"然而診所在第一時間無法自行處理語言不通之病患，並求助民代，顯然衛生局在流程宣導上有所不足，令診所必須尋求市府以外之幫助。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"加強宣導，讓診所或醫院了解，在應對外籍病患或語言不通的確診者時，有何管道可以透過市府尋求協助。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"除看診外，隔離、拿藥甚至某些生活上的服務，相關單位亦需常備外語專長人員(至少英語，或是需求較大的越南與印尼語)，以協助外籍確診者。\",\"children\":[]}]}]",
+    "CheckDate": "2022\/09\/28",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2022\/10\/05",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2022\/10\/13",
+    "SendNumber": "南議環衛字第 1110011820號",
+    "DoDesc": "收文字號：111年10月28日1110013218號\r\n本案經臺南市政府111年10月27日府衛疾字第111164721號函復本會在案：\r\n本府就「請衛生局加強宣導，針對確診外籍人士，或無法順利使 用中文溝通者，協助診所與患者溝通，完成療程與事後隔離、拿 藥等手續」案，敬答覆如下：\r\n一、本府目前設有69家醫療院所可供外籍人士視訊看診或就醫(影 本如附)，該名單上附有各醫療院所中、英文名字及地址，民眾可於衛生福利部疾病管制署網站上查找 (https:\/\/www.cdc.gov.tw\/Category\/Page\/BI4BEaKnnAQipadwYkjpfQ)並撥打 名單所提供之醫療院所電話使用視訊看診或就醫。 \r\n二、本府另設有24小時防疫專線(06-2880180)及居家照護專線(06- 2880115)，民眾若在就醫上有其困難(語言溝通或其他事項)， 可即時來電尋求本府防疫人員協助。\r\n",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b7631c91-f4b6-401b-a50f-4c601dbdd6d0",
+            "FileName": "3-8定-巿提49號案附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0a5c7711-ada1-473d-b1ad-c3063ad46591&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2022\/10\/27",
+    "ExecuteReNumber": "府衛疾字第 111164721號",
+    "ExecuteReMemo": "收文字號：111年10月28日1110013218號\r\n本案經臺南市政府111年10月27日府衛疾字第111164721號函復本會在案：\r\n本府就「請衛生局加強宣導，針對確診外籍人士，或無法順利使 用中文溝通者，協助診所與患者溝通，完成療程與事後隔離、拿 藥等手續」案，敬答覆如下：\r\n一、本府目前設有69家醫療院所可供外籍人士視訊看診或就醫(影 本如附)，該名單上附有各醫療院所中、英文名字及地址，民眾可於衛生福利部疾病管制署網站上查找 (https:\/\/www.cdc.gov.tw\/Category\/Page\/BI4BEaKnnAQipadwYkjpfQ)並撥打 名單所提供之醫療院所電話使用視訊看診或就醫。 \r\n二、本府另設有24小時防疫專線(06-2880180)及居家照護專線(06- 2880115)，民眾若在就醫上有其困難(語言溝通或其他事項)， 可即時來電尋求本府防疫人員協助。\r\n",
+    "ErrorMessage": ""
+}

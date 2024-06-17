@@ -1,0 +1,66 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2021\/10\/13",
+    "ComeNumber": "府工企劃字第1101246638號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市道路挖掘管理自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本案業經本府110年10月12日第512次市政會議審議通過。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"檢附「臺南市道路挖掘管理自治條例」修正草案總說明、草案對照表、草案條文。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請　貴會審議\"}]",
+    "CheckDate": "2021\/11\/26",
+    "CheckDesc": "一、本案與第3屆第5次定期會法規議提第1號案併案審查。\r\n二、本案第12、14、23、24、26、28條修正通過，其餘條文照市府版本通過（修正情形詳見審查結果對照表)。\r\n三、「臺南市道路挖掘施工維護管理辦法」請工務局於下次定期會送本會備查。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "第3屆第6次定期會第38次會議(110年11月30日)大會決議(三讀通過)如下：照審查意見通過。",
+    "SendDate": "2021\/12\/06",
+    "SendNumber": "南議法規字第 1100012334號",
+    "DoDesc": "「臺南市道路挖掘管理自治條例」於111年2月7日方經行政院核定，臺南市政府111年3月11日府法制字第1110329396A號令修正公布；「臺南市道路挖掘施工維護管理辦法(草案)」於111年3月1日送市政會議審核，俟市政會議審核通過後立即送市議會備查。\r\n-----------------------------------------------------\r\n本案經臺南市政府111年3月21日以府工企劃字第1110364660號函復本會在案(列入本會第3屆第7次定期會查照第5號案，詳如附件)：\r\n主旨：檢送「臺南市道路挖掘施工維護管理辦法」總說明、逐條說明及條文1份，請查照。\r\n說明：\r\n一、依據本府111年3月11日府法制字第1110330288B號函、貴會110年12月6日南議法規字第1100012334號函及貴會110年12月 6日南議法規字第1100012339號函辦理。\r\n二、依貴會上揭函文審查意見三：「『臺南市道路挖掘施工維護管理辦法』請工務局於下次定期會送本會備查」。\r\n三、檢附辦法總說明、逐條說明、條文各1份。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e90524d6-905b-4ade-a4d7-c3ae46c54af7",
+            "FileName": "法規市提4-修正「臺南市道路挖掘管理自治條例」草案(含總說明、條文對照表、草案條文).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e755451a-7048-4610-9e96-38c4fc44f889",
+            "FileName": "3-6定市提4、3-5定法規議提1併案審查(市府版本、郭鴻儀議員)審查結果對照表(A4橫式).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4867f42b-162c-43b3-98f5-f2f64a387d36",
+            "FileName": "3-7定查照5-訂定「臺南市道路挖掘施工維護管理辦法」.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=df3fb05d-f7d6-4f9d-b177-fb3c3f43005a&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5ad2b616-3447-4b7f-9aea-338cfae353c8",
+            "FileName": "4.5-2.3-6定市提4、3-5定法規議提1併案審查(市府版本、郭鴻儀議員)審查結果對照表(A4橫式).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ad0ef4bc-c641-4931-9c45-aa08390e907f",
+            "FileName": "4.3-6定法規市提4大會決議案-修正「臺南市道路挖掘管理自治條例」草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "2021\/10\/19",
+    "ReDesc": "第3屆第6次定期會第38次會議(110年11月30日)大會決議(三讀通過)如下：照審查意見通過。",
+    "FirstDate": "2021\/10\/27",
+    "FirstDesc": "交付法規委員會審查。",
+    "SecondDate": "2021\/11\/30",
+    "SecondDesc": "照審查意見通過。",
+    "ThirdDate": "2021\/11\/30",
+    "ThirdDesc": "照二讀會決議通過。",
+    "ExecuteReDate": "2022\/03\/21",
+    "ExecuteReNumber": "府工企劃字第 1110364660號",
+    "ExecuteReMemo": "「臺南市道路挖掘管理自治條例」於111年2月7日方經行政院核定，臺南市政府111年3月11日府法制字第1110329396A號令修正公布；「臺南市道路挖掘施工維護管理辦法(草案)」於111年3月1日送市政會議審核，俟市政會議審核通過後立即送市議會備查。\r\n-----------------------------------------------------\r\n本案經臺南市政府111年3月21日以府工企劃字第1110364660號函復本會在案(列入本會第3屆第7次定期會查照第5號案，詳如附件)：\r\n主旨：檢送「臺南市道路挖掘施工維護管理辦法」總說明、逐條說明及條文1份，請查照。\r\n說明：\r\n一、依據本府111年3月11日府法制字第1110330288B號函、貴會110年12月6日南議法規字第1100012334號函及貴會110年12月 6日南議法規字第1100012339號函辦理。\r\n二、依貴會上揭函文審查意見三：「『臺南市道路挖掘施工維護管理辦法』請工務局於下次定期會送本會備查」。\r\n三、檢附辦法總說明、逐條說明、條文各1份。\r\n",
+    "ErrorMessage": ""
+}

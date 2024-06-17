@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "122",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡筱薇",
+    "OrgTitle2": "劉米山、陳秋宏、呂維胤、Ingay Tali穎艾達利",
+    "CaseCause": "建請住警器應納入透天厝的建照核發的標準。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"針對透天厝新建案，民眾申請建築使用執照，應檢附相關購買住警器等相關文件，才能核發建照。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2020\/05\/28",
+    "CheckDesc": "請市府研議辦理。",
+    "DoneDate": "2020\/06\/09",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2020\/06\/17",
+    "SendNumber": "南議工務字第 1090003920號",
+    "DoDesc": "本案經市府109年7月19日府工管一字第1090835418號函復：\r\n一、本府核發建造執照已加註「非供公眾使用住宅場所應依消防法第6條第5項規定設置住宅用火災警報器並維護之」，上述警報器，應由起造人自主設置並維護之。\r\n二、本市於109年7月1日起，申請使用執照(非供公眾使用5樓以下(含5樓)之住宅(公寓)建築物)案件，除原使照申請必備文件外，另需檢附住警器相關文件：1.切結書、2.出廠證明、3.型式認可文件及4.個別認可文件後，始得核發使用執照。(詳如附件)",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=586d4e20-5949-43bb-8693-3f4667fbb7ae",
+            "FileName": "3-2定(議提74)書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9bf97f6a-0f23-4a09-bea9-9c8c2c088a00&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2020\/04\/16",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "本案經市府109年7月19日府工管一字第1090835418號函復：\r\n一、本府核發建造執照已加註「非供公眾使用住宅場所應依消防法第6條第5項規定設置住宅用火災警報器並維護之」，上述警報器，應由起造人自主設置並維護之。\r\n二、本市於109年7月1日起，申請使用執照(非供公眾使用5樓以下(含5樓)之住宅(公寓)建築物)案件，除原使照申請必備文件外，另需檢附住警器相關文件：1.切結書、2.出廠證明、3.型式認可文件及4.個別認可文件後，始得核發使用執照。(詳如附件)",
+    "ErrorMessage": ""
+}

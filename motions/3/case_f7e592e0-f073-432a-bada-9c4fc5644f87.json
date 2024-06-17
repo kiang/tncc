@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第3屆 第8次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/02\/22",
+    "ComeNumber": "府交公運字第1100247631號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部公路總局核定本市「109年度公路公共運輸多元推升計畫『計程車駕駛關懷據點專案』（計畫編號：110TNY01）」經費新臺幣27萬元整一案(中央全額補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據交通部公路總局109年11月13日路運計字第1090140606號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第四十四點第四款之規定：「經上級政府核定之補助款，所使用之支出。」。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"(一)本案申請交通部公路總局「109年度公路公共運輸多元推升計畫」辦理本市「計程車駕駛關懷據點專案」，所需經費總計27萬元整，業經交通部公路總局核定補助27萬元，另毋須配合自籌款。\"},{\"tag\":\"p\",\"content\":\"(二)因本案未及納入本局所屬公共運輸處110年度預算，擬請准予辦理先行墊付，並於俟後編列預算時辦理轉正。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府109年12月8日第468次市政會議審議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/03\/11",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/03\/19",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/03\/25",
+    "SendNumber": "南議保安字第 1100002180號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a794c030-af46-44a8-aee9-18d8df4b87ac",
+            "FileName": "市提1-核定函.PDF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=31dfa2a9-3d19-490a-9871-f9c1b86a1162",
+            "FileName": "市提1-核定函附件.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2f8ed11e-f25e-4470-ade9-66c616669756",
+            "FileName": "保安1號-補充說明.docx",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f7e592e0-f073-432a-bada-9c4fc5644f87&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/03\/10",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

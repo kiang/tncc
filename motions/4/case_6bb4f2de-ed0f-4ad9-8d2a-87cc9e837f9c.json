@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "116",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "沈家鳳",
+    "OrgTitle2": "郭鴻儀、李宗霖、黄肇輝、陳秋宏、陳皇宇",
+    "CaseCause": "建請市府儘速辦理「白河區行泰橋起至野溪下游溪道疏濬工程(崁頭里排水)」，以利排水順暢。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"行泰橋起至野溪下游溪道(往河東里)，民眾陳情因溪道長滿竹林，導致附近居民土地當大雨來臨時易被淹沒，有溪道疏濬之需求。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為避免淹水，建請進行疏濬改善。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2023\/10\/23",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2023\/10\/27",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2023\/11\/03",
+    "SendNumber": "南議工務字第 1120010175號",
+    "DoDesc": "",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=361ceda3-abe1-42dc-ba7d-b35ba3f33b2e",
+            "FileName": "4-2定工務議提116號.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6bb4f2de-ed0f-4ad9-8d2a-87cc9e837f9c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2023\/11\/23",
+    "ExecuteReNumber": "府水行字第 1121490673號",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

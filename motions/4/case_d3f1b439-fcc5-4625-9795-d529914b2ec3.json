@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第4屆 第2次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "11",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2023\/10\/12",
+    "ComeNumber": "府原綜字第1121311262號",
+    "OrgTitle": "臺南市政府原住民族事務委員會",
+    "OrgTitle2": "",
+    "CaseCause": "原住民族委員會核定本府辦理「Tabe札哈木樂原」通路據點整合計畫，經費新臺幣500萬元(中央補助款200萬元、市配合款300萬元)未及納入113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據原住民族委員會112年9月4日原民經字第1120044714號函。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款「經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」規定及第45點第2、3款等規定辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費新臺幣2,724萬元整(中央補助款1,362萬元、市配合款1,362萬元)，其中500萬元(中央補助款200萬元、市配合款300萬元)未及納入本府113年度總預算案，謹請貴會同意先行辦理墊付，俟113年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府112年10月3日第614次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案計畫預計自113年1月起執行，須於112年底年先行辦理招標作業，故於本會期提出墊付案申請，以利計畫遂行。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟113年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2023\/11\/23",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2023\/11\/30",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2023\/12\/05",
+    "SendNumber": "南議民教字第 1120011755號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d69f5a0b-0763-4cb4-ba22-a64560d2c088",
+            "FileName": "民教11(原民會)--附件(核定函及計畫).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d3f1b439-fcc5-4625-9795-d529914b2ec3&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d2787f7e-0496-46f1-a7f8-89d2803d5fff",
+            "FileName": "112-12-12 民政教育市提11號案案由誤繕更正 函.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "2023\/10\/19",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2023\/10\/27",
+    "FirstDesc": "一、交付聯席審查。\r\n二、請原住民族事務委員會於聯席審查前提供如何爭取修繕札哈木公園kuba之經費等資料。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

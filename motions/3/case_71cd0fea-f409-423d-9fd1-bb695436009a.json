@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第3屆 第9次 臨時會",
+    "PTypTitle": "民政",
+    "CaseNumber": "6",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2021\/08\/17",
+    "ComeNumber": "府民自字第1100997045號",
+    "OrgTitle": "臺南市政府民政局",
+    "OrgTitle2": "",
+    "CaseCause": "台灣自來水股份有限公司第六區管理處核定本市辦理「110年度南化區北寮里小崙里北平里自來水公司睦鄰補助路面劣損預拌混凝土維護改善計畫」乙案，計新臺幣202萬9,200元整(中央全額補助)，為爭取時效，謹請貴會同意先行墊付203萬元，俾憑辦理後續相關作業事宜，俟111年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"一、依據台灣自來水股份有限公司第六區管理處110年6月7日台水六操字第1100007720號函辦理。\"},{\"tag\":\"p\",\"content\":\"二、本案符合「各機關單位預算執行要點」第44點第4款規定：「經上級政府核定之補助款，所使用之支出」。\"},{\"tag\":\"p\",\"content\":\"三、本案相關說明：\"},{\"tag\":\"p\",\"content\":\"本案自來水公司補助「110年度南化區北寮里小崙里北平里自來水公司睦鄰補助路面劣損預拌混凝土維護改善計畫書」，提供1,068立方公尺混凝土，核定經費202萬9,200元(中央全額補助)，因未及納入本府110年度總預算，為爭取時效，謹請貴會同意先行墊付203萬元。\"},{\"tag\":\"p\",\"content\":\"四、本案業經本府110年8月9日第503次市政會議通過。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟111年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2021\/09\/03",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2021\/09\/10",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2021\/09\/15",
+    "SendNumber": "南議民政字第 1100007585號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a0f040fe-26f1-4d08-95a1-eb1443434fa5",
+            "FileName": "核定函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=99e92ce8-9c7a-4afa-a38a-27e94d21f368",
+            "FileName": "計畫書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=71cd0fea-f409-423d-9fd1-bb695436009a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2021\/09\/01",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

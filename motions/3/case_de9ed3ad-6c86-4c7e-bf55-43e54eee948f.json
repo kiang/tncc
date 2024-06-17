@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第3屆 第7次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "12",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2022\/05\/04",
+    "ComeNumber": "府文秘字第1110579671號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本市「財團法人台南市文化基金會110年度決算書」乙案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"財團法人台南市文化基金會，為政府捐助之財團法人。依「財團法人依法決算須送臺南市議會之決算編製注意事項」規定，將該會110年度決算送請議會審議。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"110年度決算書業經財團法人台南市文化基金會於111年4月8日召開第13屆第2次董監事會議審核通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府111年5月3日第540次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "2022\/06\/30",
+    "CheckDesc": "聯席審查意見：照案通過。",
+    "DoneDate": "2022\/07\/04",
+    "DoneDesc": "照聯席審查意見通過。",
+    "SendDate": "2022\/07\/08",
+    "SendNumber": "南議建設字第 1110006828號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9834595d-0dbe-4be4-918a-137a02c28f08",
+            "FileName": "市提12-文化110決算附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=de9ed3ad-6c86-4c7e-bf55-43e54eee948f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2022\/05\/31",
+    "ReDesc": "照聯席審查意見通過。",
+    "FirstDate": "2022\/06\/08",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

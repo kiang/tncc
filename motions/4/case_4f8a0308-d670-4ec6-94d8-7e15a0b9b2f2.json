@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "13",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/04\/22",
+    "ComeNumber": "府農港字第1130564273號函",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院農業部漁業署核定「113年臺南市北門漁港西側及南側碼頭加高工程(不含設計)」案，總經費計新臺幣5,254萬元整（漁業署補助款4,098萬1,000元，市配合款1,155萬9,000元），因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院農業部漁業署113年4月2日漁六字第1131563156號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款及第45點，配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"本案係辦理改善本市北門漁港西側及北側碼頭加高工程案，為有效改善北門漁港因大潮或豪雨造成碼頭淹水情形，以改善漁港碼頭作業環境安全及保障漁村社區及漁民生命及財產安全。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本案漁業署核定總經費5,254萬元整(漁業署補助款4,098萬1,000元，市配合款1,155萬9,000元)，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案經本府113年4月16日第642次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由:本案係辦理北門漁港碼頭加高工程案，為考量改善漁港碼頭作業環境安全，及配合漁民日常捕魚作業之急迫性，故於本會期提出墊付申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時再予轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bed62832-5ba9-4868-a0d7-344824858b09",
+            "FileName": "財經13-附件1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b2152c75-82f5-4d07-bb3e-34861bbe45c8",
+            "FileName": "財經13-附件2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4f8a0308-d670-4ec6-94d8-7e15a0b9b2f2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/05\/21",
+    "ReDesc": "",
+    "FirstDate": "2024\/05\/29",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,49 @@
+{
+    "GradeTime": "第3屆 第6次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2021\/10\/12",
+    "ComeNumber": "府衛國健字第1101071153號",
+    "OrgTitle": "臺南市政府衛生局",
+    "OrgTitle2": "",
+    "CaseCause": "制定「臺南市新型菸品危害防制自治條例（草案）」，提請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為避免電子煙及加熱菸等新型菸品持續危害市民健康，並積極保護兒童、少年、孕婦及其胎兒，爰制定本自治條例。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府110年10月12日第512次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市新型菸品危害防制自治條例」草案（含總說明、逐條說明及條文內容）1份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "2021\/11\/25",
+    "CheckDesc": "本案先行退回，請衛生局備齊相關資料，再送本會審議。",
+    "DoneDate": "2021\/11\/30",
+    "DoneDesc": "第3屆第6次定期會第38次會議(110年11月30日)大會決議如下：\r\n照審查意見先行退回，請衛生局備齊相關資料，再送本會審議。",
+    "SendDate": "2021\/12\/06",
+    "SendNumber": "南議法規字第 1100012339號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=23326995-3a0c-42b7-95e2-260c52dd430f",
+            "FileName": "3-6定法規市提2-制定「臺南市新型菸品危害防制自治條例草案」(含總說明、逐條說明、草案條文).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=cce61b16-51ba-4707-b59d-fc0eb7892f0b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4ef99e06-0ade-412d-8127-572aa39315e9",
+            "FileName": "2.3-6定法規市提2大會決議案-制定「臺南市新型菸品危害防制自治條例草案」.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "2021\/10\/19",
+    "ReDesc": "第3屆第6次定期會第38次會議(110年11月30日)大會決議如下：\r\n照審查意見先行退回，請衛生局備齊相關資料，再送本會審議。",
+    "FirstDate": "2021\/10\/27",
+    "FirstDesc": "交付法規委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

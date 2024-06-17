@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-動支第二預備金",
+    "ComeDate": "2024\/02\/02",
+    "ComeNumber": "府主預字第1130182680號",
+    "OrgTitle": "臺南市政府主計處",
+    "OrgTitle2": "",
+    "CaseCause": "檢送112年度臺南市總預算第二預備金動支數額表，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據預算法第70條規定辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"112年度臺南市總預算第二預備金預算編列4億元，動支數4億元。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府113年1月23日第630次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會惠予審議。\"}]",
+    "CheckDate": "2024\/03\/06",
+    "CheckDesc": "聯席審查意見：\r\n一、補助社團法人台灣蘭花產銷發展協會辦理第23屆世界蘭花會議宣傳佈置計畫所需經費70萬元，不同意動支。餘照案通過。\r\n二、附帶意見：設置三座寵物友善專區等所需經費659萬6,000元，需與當地居民充分溝通同意後方得動工。",
+    "DoneDate": "2024\/03\/15",
+    "DoneDesc": "一、照聯席審查意見通過。\r\n二、請市府妥善處理蘭花生技園區硬體設備之充實與更新，並期望在本年度有所著落。另外，寵物友善專區為未來趨勢，請農業局再充分溝通。",
+    "SendDate": "2024\/03\/26",
+    "SendNumber": "南議財經字第 1130001703號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b9634d6e-d00f-4834-8619-4666ab4511b0",
+            "FileName": "二備金.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fc0fbc62-0676-48d9-b2e8-7b0719896eaf&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2024\/02\/23",
+    "ReDesc": "一、照聯席審查意見通過。\r\n二、請市府妥善處理蘭花生技園區硬體設備之充實與更新，並期望在本年度有所著落。另外，寵物友善專區為未來趨勢，請農業局再充分溝通。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
