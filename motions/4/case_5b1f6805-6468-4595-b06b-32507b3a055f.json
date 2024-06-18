@@ -19,13 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=daf97a04-d2b2-4cdc-9329-a548513424a6",
-            "FileName": "核定函.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bea8bbb5-2e31-4bc5-9e30-4687af210541",
+            "FileName": "計畫書.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bea8bbb5-2e31-4bc5-9e30-4687af210541",
-            "FileName": "計畫書.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=daf97a04-d2b2-4cdc-9329-a548513424a6",
+            "FileName": "核定函.pdf",
             "ErrorMessage": ""
         }
     ],

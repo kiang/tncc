@@ -19,13 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cfe1567c-be81-434f-b835-851173456d1c",
-            "FileName": "核定函.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=732c86b7-b836-43db-9c9a-72ad50896cd5",
+            "FileName": "112年臺南築角計畫書.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=732c86b7-b836-43db-9c9a-72ad50896cd5",
-            "FileName": "112年臺南築角計畫書.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cfe1567c-be81-434f-b835-851173456d1c",
+            "FileName": "核定函.pdf",
             "ErrorMessage": ""
         }
     ],

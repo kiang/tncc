@@ -19,18 +19,18 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c10c708e-3972-4296-891b-0e180d004198",
-            "FileName": "111年度辦理政策及業務宣導第三季季報-財經委員會.pdf",
-            "ErrorMessage": ""
-        },
-        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ea563eba-4913-4177-8969-3c72f1398a86",
             "FileName": "111年度辦理政策及業務宣導第三季季報-民政教育委員會.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a09ecad2-c59a-466a-900b-a10d3c6c0164",
-            "FileName": "111年度辦理政策及業務宣導第三季季報-環保衛生委員會.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c10c708e-3972-4296-891b-0e180d004198",
+            "FileName": "111年度辦理政策及業務宣導第三季季報-財經委員會.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=76efdaee-3019-4334-adc0-56ada76a0660",
+            "FileName": "111年度辦理政策及業務宣導第三季季報-保安委員會.pdf",
             "ErrorMessage": ""
         },
         {
@@ -39,8 +39,8 @@
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=76efdaee-3019-4334-adc0-56ada76a0660",
-            "FileName": "111年度辦理政策及業務宣導第三季季報-保安委員會.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a09ecad2-c59a-466a-900b-a10d3c6c0164",
+            "FileName": "111年度辦理政策及業務宣導第三季季報-環保衛生委員會.pdf",
             "ErrorMessage": ""
         },
         {
