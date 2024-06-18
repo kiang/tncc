@@ -16,7 +16,7 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/06\/05",
     "SendNumber": "南議工務字第 1130004133號",
-    "DoDesc": "",
+    "DoDesc": "本府就「麻豆區安業里\/麻豆區前班小排2排水路\/鄰近安西段526、530、531地號土地護岸崩壞，建請改善。」案，敬答覆如下：\r\n一、 旨揭排水係麻豆排水支流佳里排水支線上游段，集水區皆為農地，現況為砌石溝且結構尚穩定，未有立即危險，經會勘研討地方陳情改善為矩形溝(3.5m*1.5m)長約70公尺，施工需配合電桿遷移及道路修復，經費概估約350萬元。\r\n二、 鑑於施作範圍涉及私有地，爰請地方協助取得土地同意書，後續將研議籌編經費辦理。",
     "AttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e62edde7-a2bb-4216-a916-8fe198a44e92",
@@ -24,7 +24,13 @@
             "ErrorMessage": ""
         }
     ],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ade8b8ca-d778-4d08-aa2d-6d1e5818062b",
+            "FileName": "4-3定工務議提149市府回函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a859e8b4-e8aa-4f41-94ff-810adb770b1b&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -36,8 +42,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/06\/18",
+    "ExecuteReNumber": "府水工字第 1130835992號",
+    "ExecuteReMemo": "本府就「麻豆區安業里\/麻豆區前班小排2排水路\/鄰近安西段526、530、531地號土地護岸崩壞，建請改善。」案，敬答覆如下：\r\n一、 旨揭排水係麻豆排水支流佳里排水支線上游段，集水區皆為農地，現況為砌石溝且結構尚穩定，未有立即危險，經會勘研討地方陳情改善為矩形溝(3.5m*1.5m)長約70公尺，施工需配合電桿遷移及道路修復，經費概估約350萬元。\r\n二、 鑑於施作範圍涉及私有地，爰請地方協助取得土地同意書，後續將研議籌編經費辦理。",
     "ErrorMessage": ""
 }

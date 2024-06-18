@@ -19,13 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f2f64d45-e1c1-47ae-bf50-c160d5166d41",
-            "FileName": "通勤月票計畫說明.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=eeb91762-f3c8-428e-9994-3f2e06cbbb4d",
+            "FileName": "核定函.PDF",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=eeb91762-f3c8-428e-9994-3f2e06cbbb4d",
-            "FileName": "核定函.PDF",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f2f64d45-e1c1-47ae-bf50-c160d5166d41",
+            "FileName": "通勤月票計畫說明.pdf",
             "ErrorMessage": ""
         }
     ],

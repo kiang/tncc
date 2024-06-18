@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/06\/05",
     "SendNumber": "南議工務字第 1130003925號",
-    "DoDesc": "",
+    "DoDesc": "本府就「請辦理官田區官田溪支流排水改善工程，因目前土溝雜草叢生，妨礙排水，急需辦理改善，杜絕淹水」案，敬答覆如下：\r\n一、本案為中央管河川官田溪之支流排水路，現況兩岸為自然邊坡且土堤結構尚屬穩定良好，目前渠寬約8公尺，周邊無鄰近聚落，以農地使用為主。\r\n二、針對地方建議改善部分，渠道雜草叢生阻礙排水，預計近期盡速完成清疏。另地方希冀整建官田溪旁支流排水新建RC護岸，所需經費約2,688萬元，考量治理經費甚鉅，本府將提報中央相關治水計畫研議辦理。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=49a4e188-594c-4ce0-b545-fd0eef8800ba",
+            "FileName": "4-3定工務議提39市府回函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c4c0c1a9-22aa-46a2-805b-fc750ac4027a&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/06\/17",
+    "ExecuteReNumber": "府水工字第 1130838311號",
+    "ExecuteReMemo": "本府就「請辦理官田區官田溪支流排水改善工程，因目前土溝雜草叢生，妨礙排水，急需辦理改善，杜絕淹水」案，敬答覆如下：\r\n一、本案為中央管河川官田溪之支流排水路，現況兩岸為自然邊坡且土堤結構尚屬穩定良好，目前渠寬約8公尺，周邊無鄰近聚落，以農地使用為主。\r\n二、針對地方建議改善部分，渠道雜草叢生阻礙排水，預計近期盡速完成清疏。另地方希冀整建官田溪旁支流排水新建RC護岸，所需經費約2,688萬元，考量治理經費甚鉅，本府將提報中央相關治水計畫研議辦理。",
     "ErrorMessage": ""
 }

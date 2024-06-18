@@ -10,8 +10,8 @@
     "CaseCause": "內政部核定補助本府「113年協助地方政府建置交通科技執法設備經費需求計畫書」計畫經費新臺幣(以下同)5,100萬元(中央全額補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部113年3月26日內授警字第1130111809號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款之規定「經上級政府核定之補助款所使用之支出。」等相關規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費5,100萬元(中央全額補助)，因未及納入本府113年度總預算，擬請准予辦理先行墊付，俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年4月23日第643次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案係中央113年中央統籌分配稅款，須於113年度內檢附納入預算證明書及臺灣銀行交通科技執法共約下單內容等資料，方能陳報內政部及財政部國庫署據以核撥經費，且本案中央無法進行預算保留，故須於113年度內完成墊付案審議。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
-    "CheckDate": "",
-    "CheckDesc": "",
+    "CheckDate": "2024\/06\/18",
+    "CheckDesc": "一、附加條件:(一)每個科技執法設置地點應裝設固定式LED燈、警告標示牌。(二)在居民不反對情形下，每個科技執法設置地點設置爆閃燈，方得動支該筆經費。\r\n二、聯席審查意見:同意墊付。",
     "DoneDate": "",
     "DoneDesc": "",
     "SendDate": "",
@@ -31,7 +31,13 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b0284f13-99a9-4bd0-8d6b-0d1fa30345e0&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a9c94dcd-c426-43a7-b039-1433624c0018",
+            "FileName": "保安市提5補充資料.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "2024\/05\/21",
     "ReDesc": "",
