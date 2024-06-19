@@ -19,11 +19,6 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=46b14a4b-d1cb-4f55-a988-6c9b3bc2004f",
-            "FileName": "4-3定工務市提1附件說明.pdf",
-            "ErrorMessage": ""
-        },
-        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bb6905be-daef-4daa-975e-178a757f3e9a",
             "FileName": "31445_0436568A00_ATTCH3.PDF",
             "ErrorMessage": ""
@@ -31,6 +26,11 @@
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=430884a5-3933-4f65-8d55-aae122e1d0ce",
             "FileName": "31445_0436568A00_ATTCH4.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=46b14a4b-d1cb-4f55-a988-6c9b3bc2004f",
+            "FileName": "4-3定工務市提1附件說明.pdf",
             "ErrorMessage": ""
         }
     ],

@@ -19,13 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1dc002eb-f264-4e6f-b1a2-b23340636f34",
-            "FileName": "警政署核定函.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=46397555-dfef-49a9-b741-ce946beacaa4",
+            "FileName": "計畫附件.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=46397555-dfef-49a9-b741-ce946beacaa4",
-            "FileName": "計畫附件.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1dc002eb-f264-4e6f-b1a2-b23340636f34",
+            "FileName": "警政署核定函.pdf",
             "ErrorMessage": ""
         }
     ],

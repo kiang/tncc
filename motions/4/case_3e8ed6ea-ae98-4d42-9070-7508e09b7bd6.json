@@ -19,11 +19,6 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4c1f8c53-ca36-4d46-a0ad-0f6706bc530b",
-            "FileName": "核准函.pdf",
-            "ErrorMessage": ""
-        },
-        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e1c91506-280e-4773-9863-ba3b47688fe3",
             "FileName": "墊付案補充說明(工務5號).pdf",
             "ErrorMessage": ""
@@ -31,6 +26,11 @@
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=28920765-bf54-46a2-9e56-44cdaad799bf",
             "FileName": "審查意見表.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4c1f8c53-ca36-4d46-a0ad-0f6706bc530b",
+            "FileName": "核准函.pdf",
             "ErrorMessage": ""
         }
     ],

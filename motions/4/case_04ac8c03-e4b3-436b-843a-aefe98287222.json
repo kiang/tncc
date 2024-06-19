@@ -19,13 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=eaef148e-bb69-4116-a468-06fea299ed8a",
-            "FileName": "工務市提4-附件.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=39802e43-8ad3-45f0-82fd-97b9f79fd1c1",
+            "FileName": "工務市提4-補充資料.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=39802e43-8ad3-45f0-82fd-97b9f79fd1c1",
-            "FileName": "工務市提4-補充資料.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=eaef148e-bb69-4116-a468-06fea299ed8a",
+            "FileName": "工務市提4-附件.pdf",
             "ErrorMessage": ""
         }
     ],

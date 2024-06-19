@@ -28,13 +28,13 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8eefd1ad-ba4e-4f6a-8b1d-ddb5cbc01798&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=711e915e-771d-4f42-814f-073b95474258",
-            "FileName": "附件1(陳情人提供資料).pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a9395f05-36b7-4c1f-937a-8875ff177738",
+            "FileName": "4-1臨法規議提1-修正「臺南市外送平台業者管理自治條例」第十二條草案-審查結果對照表.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a9395f05-36b7-4c1f-937a-8875ff177738",
-            "FileName": "4-1臨法規議提1-修正「臺南市外送平台業者管理自治條例」第十二條草案-審查結果對照表.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=711e915e-771d-4f42-814f-073b95474258",
+            "FileName": "附件1(陳情人提供資料).pdf",
             "ErrorMessage": ""
         }
     ],

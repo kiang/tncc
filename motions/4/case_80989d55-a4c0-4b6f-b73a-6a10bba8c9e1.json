@@ -19,6 +19,11 @@
     "DoDesc": "",
     "AttList": [
         {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1c7620d9-1ecf-4257-867f-ca60424c44d4",
+            "FileName": "函文環保署請補助計畫.pdf",
+            "ErrorMessage": ""
+        },
+        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=243d6832-11f5-4d2d-bb60-efba3d70d431",
             "FileName": "核定函.pdf",
             "ErrorMessage": ""
@@ -26,11 +31,6 @@
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2859c056-f9ba-4a74-9ce8-7e01d283d3f3",
             "FileName": "計畫書.pdf",
-            "ErrorMessage": ""
-        },
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1c7620d9-1ecf-4257-867f-ca60424c44d4",
-            "FileName": "函文環保署請補助計畫.pdf",
             "ErrorMessage": ""
         }
     ],

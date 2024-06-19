@@ -19,13 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4c989715-45cd-4041-bc01-f1cfbd8de0f7",
-            "FileName": "警察局專案報告.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=14655225-7593-4d8c-b93d-d69c3902281c",
+            "FileName": "消防局專案報告.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=14655225-7593-4d8c-b93d-d69c3902281c",
-            "FileName": "消防局專案報告.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4c989715-45cd-4041-bc01-f1cfbd8de0f7",
+            "FileName": "警察局專案報告.pdf",
             "ErrorMessage": ""
         }
     ],

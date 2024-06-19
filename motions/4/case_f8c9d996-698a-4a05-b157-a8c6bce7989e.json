@@ -19,18 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a74604d2-90e0-4e67-ae3f-90d5c16ffdb3",
-            "FileName": "民政教育委員會-112年第1季.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1b51d5f7-d697-46c5-825e-7e6d1dbf67ba",
+            "FileName": "保安委員會-112年第1季.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=172f7bd4-6bc8-4522-aa79-610c6abf5981",
-            "FileName": "財經委員會-112年第1季.pdf",
-            "ErrorMessage": ""
-        },
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c6e87599-85bb-42b9-85ab-6d69ba932580",
-            "FileName": "環衛委員會-112年第1季.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0b5934c0-c867-4d61-a699-145ecfb65484",
+            "FileName": "工務委員會-112年第1季.pdf",
             "ErrorMessage": ""
         },
         {
@@ -39,13 +34,18 @@
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1b51d5f7-d697-46c5-825e-7e6d1dbf67ba",
-            "FileName": "保安委員會-112年第1季.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a74604d2-90e0-4e67-ae3f-90d5c16ffdb3",
+            "FileName": "民政教育委員會-112年第1季.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0b5934c0-c867-4d61-a699-145ecfb65484",
-            "FileName": "工務委員會-112年第1季.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c6e87599-85bb-42b9-85ab-6d69ba932580",
+            "FileName": "環衛委員會-112年第1季.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=172f7bd4-6bc8-4522-aa79-610c6abf5981",
+            "FileName": "財經委員會-112年第1季.pdf",
             "ErrorMessage": ""
         }
     ],

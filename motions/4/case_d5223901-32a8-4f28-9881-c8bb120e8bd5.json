@@ -20,13 +20,13 @@
     "AttList": [],
     "RAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cccbce81-4544-4529-bdc0-da3707cabcb2",
-            "FileName": "16號案回覆附件-02.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=595ce7af-3861-451b-a324-35926077c6e5",
+            "FileName": "16號案回覆附件-01.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=595ce7af-3861-451b-a324-35926077c6e5",
-            "FileName": "16號案回覆附件-01.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cccbce81-4544-4529-bdc0-da3707cabcb2",
+            "FileName": "16號案回覆附件-02.pdf",
             "ErrorMessage": ""
         }
     ],

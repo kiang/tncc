@@ -26,11 +26,6 @@
     ],
     "RAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=01016e8c-dde6-4a36-a22b-4c5ea45ca14e",
-            "FileName": "20240307騎樓自治條例預告公告.pdf",
-            "ErrorMessage": ""
-        },
-        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=238e3732-f1f2-4360-adbf-da2b828530b8",
             "FileName": "(逐字稿+簽到單)會議紀錄-113.03.26公廳會-臺南市騎樓管理使用自治條例草案公聽會.pdf",
             "ErrorMessage": ""
@@ -38,6 +33,11 @@
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8a80b13c-1e9c-47fa-bc86-214043530c16",
             "FileName": "1-4-1130517---4-3定-騎樓會議紀錄.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=01016e8c-dde6-4a36-a22b-4c5ea45ca14e",
+            "FileName": "20240307騎樓自治條例預告公告.pdf",
             "ErrorMessage": ""
         }
     ],

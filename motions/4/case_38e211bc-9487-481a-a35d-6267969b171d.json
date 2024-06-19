@@ -19,16 +19,6 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=91993a94-38c5-4f4f-b04d-97b6b44c9178",
-            "FileName": "4-3定--法規巿提1--制定「臺南市公債發行自治條例」草案.pdf",
-            "ErrorMessage": ""
-        },
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=702d4001-b204-4662-9452-9a56ed75a300",
-            "FileName": "4-3定附件-法規巿提02-1.各直轄市對照表-臺南市公債發行自治條例.pdf",
-            "ErrorMessage": ""
-        },
-        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=02eecc5f-653f-4dad-8d82-69d283c01b8d",
             "FileName": "01.補充資料_各縣市對照表-臺南市公債發行自治條例.pdf",
             "ErrorMessage": ""
@@ -51,6 +41,16 @@
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=23d3cef9-0686-41ce-9204-fd764fd7872c",
             "FileName": "05.高雄市公債發行自治條例.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=91993a94-38c5-4f4f-b04d-97b6b44c9178",
+            "FileName": "4-3定--法規巿提1--制定「臺南市公債發行自治條例」草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=702d4001-b204-4662-9452-9a56ed75a300",
+            "FileName": "4-3定附件-法規巿提02-1.各直轄市對照表-臺南市公債發行自治條例.pdf",
             "ErrorMessage": ""
         }
     ],
