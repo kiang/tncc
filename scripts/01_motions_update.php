@@ -30,13 +30,15 @@ while ($page <= $pageAll) {
         }
         $motionFile = $grdPath . '/case_' . $item['ProNo'] . '.json';
         $c = json_decode(file_get_contents("https://bill.tncc.gov.tw/NoPaperMeeting_TNCC/Api/WEB016_GetOneProposal.ashx?prono={$item['ProNo']}"), true);
-        foreach ($c as $k => $v) {
-            if (is_array($c[$k])) {
-                usort($c[$k], "cmp");
+        if (!empty($c['GradeTime'])) {
+            foreach ($c as $k => $v) {
+                if (is_array($c[$k])) {
+                    usort($c[$k], "cmp");
+                }
             }
-        }
 
-        file_put_contents($motionFile, json_encode($c, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+            file_put_contents($motionFile, json_encode($c, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+        }
     }
     $page++;
 }
