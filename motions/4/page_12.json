@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2023\/10\/27",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "120",
+        "OrgTitle": "陳昆和",
+        "CaseCause": "南34線西港區劉厝里十字路口往東至中山路道路改善工程。",
+        "ProNo": "49061ac7-d64b-4542-8125-2f7198288d41",
+        "PagesAll": "29"
+    },
+    {
         "DoneDate": "2023\/11\/30",
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "工務",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府民政局",
         "CaseCause": "修正「臺南市麻豆區公所編制表」。",
         "ProNo": "54846817-1442-4f64-8f30-7736369310c3",
-        "PagesAll": "29"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規查照案",
-        "CaseNumber": "4",
-        "OrgTitle": "臺南市政府社會局",
-        "CaseCause": "修正「臺南市老人福利機構履行營運擔保能力認定標準」。",
-        "ProNo": "ae4ab839-c98d-4e4a-8c00-7e93071c6c20",
         "PagesAll": "29"
     }
 ]

@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "91",
+        "OrgTitle": "陳秋萍",
+        "CaseCause": "建請市府工務局儘速完成永康區尚頂里南台街13巷等道路路面及排水改善工程，以保障人車通行安全及免於淹水之苦。",
+        "ProNo": "fcf9ece6-4a02-4398-b704-b5094aff3163",
+        "PagesAll": "29"
+    },
+    {
+        "DoneDate": "2024\/05\/29",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "92",
         "OrgTitle": "陳秋萍",
         "CaseCause": "建請市府工務局儘速完成永康區六合里中華二路266巷社區排水改善工程，以保障社區住戶免於淹水之苦。",
@@ -1062,7 +1073,7 @@
         "KidTitle": "查照\/備查案-法規查照案",
         "CaseNumber": "6",
         "OrgTitle": "臺南市政府體育局",
-        "CaseCause": "修正「臺南市政府體育局組織規程」部分修文及「臺南市政麗體育局編制表」。",
+        "CaseCause": "修正「臺南市政府體育局組織規程」部分修文及「臺南市政府體育局編制表」。",
         "ProNo": "b309ba14-b3d8-4d6b-877f-9ac7db2a782f",
         "PagesAll": "29"
     },
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府工務局",
         "CaseCause": "修正「臺南市臨接未完成闢建道路之建築基地建築執照申請辦法」。",
         "ProNo": "9a19ad7b-0642-4af7-b937-369af70872c6",
-        "PagesAll": "29"
-    },
-    {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規查照案",
-        "CaseNumber": "9",
-        "OrgTitle": "臺南市政府教育局",
-        "CaseCause": "修正「臺南市市立高級中等以下學校校園場地使用管理辦法」。",
-        "ProNo": "48738cba-6bba-4785-9817-b424f3e6f2fe",
         "PagesAll": "29"
     }
 ]
