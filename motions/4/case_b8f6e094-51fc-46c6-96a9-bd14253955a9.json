@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/06\/05",
     "SendNumber": "南議工務字第 1130003901號",
-    "DoDesc": "",
+    "DoDesc": "本府就「請辦理市道174線林鳳營陸橋改善工程，因道路年久失修，路面龜裂破損相當嚴重，急需辦理改善，以利行車安全。」案，敬答覆如下：\r\n本案已於112年11月3日會同臺南市議員尤榮智服務處辦理現勘，結果需改善路段為174線林鳳營陸橋長度共約680公尺、雙向車道寬度約15公尺，改善面積計約10,200平方公尺，瀝青混凝土計1,173噸，概估所需經費約450萬元，將先行錄案並視經費情形研議辦理。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4e19aaba-440d-4a98-8cfe-f05f18a6fee4",
+            "FileName": "4-3定工務議提32市府回函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b8f6e094-51fc-46c6-96a9-bd14253955a9&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/06\/21",
+    "ExecuteReNumber": "府工務二字第 1130843398號",
+    "ExecuteReMemo": "本府就「請辦理市道174線林鳳營陸橋改善工程，因道路年久失修，路面龜裂破損相當嚴重，急需辦理改善，以利行車安全。」案，敬答覆如下：\r\n本案已於112年11月3日會同臺南市議員尤榮智服務處辦理現勘，結果需改善路段為174線林鳳營陸橋長度共約680公尺、雙向車道寬度約15公尺，改善面積計約10,200平方公尺，瀝青混凝土計1,173噸，概估所需經費約450萬元，將先行錄案並視經費情形研議辦理。",
     "ErrorMessage": ""
 }

@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/06\/05",
     "SendNumber": "南議工務字第 1130003896號",
-    "DoDesc": "",
+    "DoDesc": "本府就「市道174線曾文街(中正路路口至菜寮橋止)因年久失修，路面破損龜裂，老化嚴重，急需辦理改善，以利交通。」案，敬答覆如下：\r\n本案已於111年9月29日會同臺南市議員尤榮智服務處辦理現勘，經現場勘查，結果需改善路段計2段，分別為174線29K+200~29K+500與165線共線段長約200公尺、寬約20公尺及174線29K+500~30K+200與165線部分共線段長約700公尺、寬約12公尺，計12,400平方公尺，瀝青混凝土計約1,426噸，由本府工務局開口契約於112年10月31日改善完畢。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=aa367b44-931e-408c-aa5e-95a8a63e6aec",
+            "FileName": "4-3定工務議提29市府回函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e6c04e40-ba03-4924-822c-92c068cbc642&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/06\/21",
+    "ExecuteReNumber": "府工務二字第 1130853123號",
+    "ExecuteReMemo": "本府就「市道174線曾文街(中正路路口至菜寮橋止)因年久失修，路面破損龜裂，老化嚴重，急需辦理改善，以利交通。」案，敬答覆如下：\r\n本案已於111年9月29日會同臺南市議員尤榮智服務處辦理現勘，經現場勘查，結果需改善路段計2段，分別為174線29K+200~29K+500與165線共線段長約200公尺、寬約20公尺及174線29K+500~30K+200與165線部分共線段長約700公尺、寬約12公尺，計12,400平方公尺，瀝青混凝土計約1,426噸，由本府工務局開口契約於112年10月31日改善完畢。",
     "ErrorMessage": ""
 }

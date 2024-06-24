@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "9",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "尤榮智、陳怡珍、周奕齊、林冠維、趙昆原、吳通龍、蔡秋蘭、李中岑、陳皇宇",
+    "CaseCause": "建請市府於公共設施地點，加強查察取締於圍牆上塗鴉之行為，並訂定清理通報標準程序。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為維護社區環境整齊清潔，環保局應於公共設施地點，加強查察取締行為人，若產生污染與破壞狀況應制定迅速清理完成的通報與標準作業程序，維護市容景觀。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"附件提供地點為善化區蓮潭南街與善新西路交叉口，請參閱。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"如案由。\",\"children\":[]}]}]",
+    "CheckDate": "2024\/06\/24",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ac4c3665-900e-4ae3-92e2-3f382c3e2e95",
+            "FileName": "9號案附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7b9050bc-c337-4bea-8f07-5e2d85368986&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
