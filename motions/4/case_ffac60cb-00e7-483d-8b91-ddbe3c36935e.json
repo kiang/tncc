@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "243",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳昆和",
+    "OrgTitle2": "吳禹寰、盧崑福、蔡秋蘭、林冠維、杜素吟",
+    "CaseCause": "學甲區秀昌里東盟實業前道路改善工程。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本案學甲區公所提報長度共1,090公尺、寬度13公尺，現況鋪面老舊，部分老舊管挖有下陷情形，請公所先行就坑洞處切割搶修，估算所需改善經費約590萬元整。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"已在111年向議會提案(第3屆第8次定期會)，議會已通過(南議工務字第11100110045號)，至今已過2年了，未有下文，路面已影響民眾安危了。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/06\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f1b104a8-c124-4761-b21f-ce41568d6a8e",
+            "FileName": "4-3定工務議提243號附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ffac60cb-00e7-483d-8b91-ddbe3c36935e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "221",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "李文俊、黃麗招、施余興望 Tjakumay Tagaw",
+    "CaseCause": "針對臺南市水溝蓋鄰路口與機車行駛動線重疊等區域容易產生機車打滑問題，建請市府全面進行檢視改善。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"近期多起陳情案件顯示，永康區的道路格欄式水溝蓋(如圖)，大多是横跨道路成一排狀，為的是能在雨季發揮功能不致淹水，但對於用路人來說有另一危險性，如遇路口機車騎士轉彎就能感覺打滑的危險，再遇下雨常有騎士因此打滑摔車，事故頻傳，是否有更好的方式既能防淹水又不會造成用路人的危險，建請市府進行檢討與改善。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/06\/21",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4a1f47ce-68eb-485c-b5a2-a27c460583d9",
+            "FileName": "4-3定工務議提221附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=184972eb-f92e-4dd7-bed8-c0253cffbf9a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

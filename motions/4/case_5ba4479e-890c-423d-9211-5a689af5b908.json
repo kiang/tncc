@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "84",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "蔡育輝、陳皇宇、方一峰、李鎮國、王宣貿",
+    "CaseCause": "為活化公墓土地效益及維護園區安全與美觀，請殯葬管理所確實對家屬課以取掘回填與恢復原狀之義務，亦請審酌高雄市政府相關管理及收費辦法，確實維持公墓園區之景觀及安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本市僅示範公墓要求家屬繳交保證金8000元，起掘回填後無息歸還，惟如非示範公墓，家屬起掘後是否回填，全無規範，致使回填不實處所，滋生安全疑慮，易使掃墓民眾或消防隊員前往救災時受傷。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"且本市所有公墓，其起掘回填之施作並無任何標準，亦未確實要求恢復原狀，致使起掘回填後之狀況如附件照片，極不美觀，將來欲再利用，仍需由以公務經費刨除墓基。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"依據殯葬管理條例第29條前段規定「公墓內之墳墓棺柩、屍體或骨灰（骸），非經直轄市、縣（市）、鄉（鎮、市）主管機關或其委託之機關核發起掘許可證明者，不得起掘」（違者依同法第78條規定，處新臺幣3萬元以上15萬元以下罰鍰）。且諸多鄉公所即已要求「起掘遷葬須會同本所公墓管理員現場查勘，拍攝起掘前、後照片，遷葬後應將墓碑毀壞，並將墓地回填整平，恢復原狀，始予核發起掘可許證明書。」，本市為直轄市，自應有恢復原狀之制度。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"故請擬定起掘回填之共同標準，確實執行以維護安全；或參考高雄市公立殯葬設施相關管理辦法，由本市殯葬管理所以招標方式，統一由廠商施做回填與恢復原狀工程，起掘後完成回填或恢復原狀前之造成危險之損害賠償責任，由家屬負擔。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2024\/06\/20",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8619a340-1d22-4851-a81e-4fb33ed1cad9",
+            "FileName": "附件-公墓毀損管理參考資料及圖片.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5ba4479e-890c-423d-9211-5a689af5b908&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

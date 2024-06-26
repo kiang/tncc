@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "49",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "蔡育輝、吳通龍、吳禹寰",
+    "CaseCause": "南區四鯤鯓碼頭狹小簡陋，為維護港區安全，請增設浮動碼頭。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"南區四鯤鯓碼頭位於清水路與鯤鯓路之小內港，為養蚵者之卸貨碼頭，惟年久失修，且過於狹小簡陋，吸收船舶碰撞產生之撞擊力之防舷材，已無法充分保證船體及碼頭結構的穩定和完整。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"故請利用港務公司之回饋，或編列經費，優先維護南區、安平區港灣使用者及船隻之安全，先行強化四鯤鯓碼頭之防舷材，再規劃增設浮動碼頭，以改善該區域之作業環境。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/06\/20",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9ba4e4b9-19ff-474d-915b-2e07a782f904",
+            "FileName": "附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=358d7fb0-ddac-48f4-803f-5cd8d2c52beb&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

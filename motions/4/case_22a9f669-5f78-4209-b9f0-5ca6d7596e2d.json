@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "117",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "曾之婕",
+    "OrgTitle2": "盧崑福、周麗津、蔡宗豪、陳怡珍、Ingay Tali 穎艾達利、鄭佳欣、吳禹寰、林冠維",
+    "CaseCause": "建請道路交通設施施工期間，於封閉區域範圍前路口提前引導車輛改道，封閉區域地面勿以鋼板覆蓋，避免車輛駛過發生巨大聲響，路面不平整影響市容及行車安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"頃接獲市民陳情反應，邇來因實施部份路段取消機車兩段式左轉，地面標誌進行重整，東門路三段、自由路口交通局於左轉專用道工程施工路段未提前引導車輛改道，造成車輛誤闖。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"施工路段放置鋼板影響市容，車輛駛過發生巨大聲響，地面凹凸不平更影響行車安全。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"請儘速會勘辦理。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如說明。\"}]",
+    "CheckDate": "2024\/06\/24",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=02cee1c9-0d83-418a-aadc-86865e76e06e",
+            "FileName": "曾之婕-道路施工期間封閉區域提前引導車輛改道.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=22a9f669-5f78-4209-b9f0-5ca6d7596e2d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "50",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "王宣貿、蔡育輝、施余興望 Tjakumay Tagaw",
+    "CaseCause": "請規劃中華東路右轉小東路、中華東路右轉平實路的汽車右轉專用道，並採人行道內縮增設車道方式。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"中華東路為市區主要道路且捷運藍線環評通過力拼2031年通車。以都市學而言，整體景觀勢必提升，觀察台中捷運施作過程，原本道路兩側皆為停車格，建置完成後因為中央安全島設置捷運立柱導致道路寬度受限，完工後所有路邊停車格取消，城市景觀提升邁進一步。\"},{\"tag\":\"p\",\"content\":\"目前除民眾大量陳情汽車右轉時常與直行機車交錯並引發衝突，也發現整條道路僅剩平實營區沿線仍有機會先期規劃汽車右轉專用道，以解決目前的交通問題，並呼應屆時捷運施作時的交通黑暗期與建置完成後的都市景觀提升。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/06\/24",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a97124c8-bb24-40cb-842f-07b3f26a9b30",
+            "FileName": "李鎮國-中華東路右轉小東路平實路汽車右轉專用道.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=efe81e87-c62e-44fa-90f5-afccc678c1a5&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

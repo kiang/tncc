@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "26",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "曾之婕",
+    "OrgTitle2": "陳皇宇、陳怡珍、陳秋萍、趙昆原、李偉智、吳禹寰、陳碧玉、周奕齊、林冠維、方一峰、鄭佳欣、盧崑福、Ingay Tali 穎艾達利",
+    "CaseCause": "建請於崇德公園設置微笑單車UBike站點。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"頃接獲當地市民朋友陳情辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"依市民朋友建議，崇德公園最佳設置地點在崇德七街33號對面、及公園轉彎處附近。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"請盡速會勘辦理。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/06\/24",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=682cd9fc-dbcf-4663-a5cc-54e6a740274b",
+            "FileName": "議員提案單-崇德公園設置UBike站點.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=aa1ae454-fee8-40c6-9fa5-615612cf6a91&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

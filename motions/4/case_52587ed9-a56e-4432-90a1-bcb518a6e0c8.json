@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "63",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "李文俊、黃麗招、施余興望 Tjakumay Tagaw",
+    "CaseCause": "建議臺南市永康區「厝邊公車」901、902重新調整大橋國中站之到站時間。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"永康區「厝邊公車」901、902都會到達大橋國中，是否可調整其一路線。901路由臺南市立圖書館至九份子國中小，串聯海佃國中、奇美醫院、大橋、東橋社區。902路則由臺南市立圖書館至香格里拉飯店，行經大橋國中、復華里、永康榮民醫院、大鵬新城、成大醫院、後火車站。\"},{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"其中902厝邊公車行駛來往(香格里拉-總圖書館)，途中一站是大橋國中，既然強調是厝邊公車，可否給予學生方便，於停靠大橋國中時，可否配合一下同學上下課時間呢?\",\"children\":[]},{\"order\":\"二、\",\"content\":\"早上第一班公車抵達大橋國中，是早上7:50分，可否提早20分鐘至半小時，讓同學可以坐公車上學，若小孩可以坐公車，(一)可以減低父母接送負擔(二)可降低大橋國中附近的車流量。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"大橋國中下午4:35分下課，結果公車下午4:30分從公車站發車，抵達大橋國中4:45分左右，可否再晚個20分出發，讓小朋友可以從容地走去搭公車?目前狀況是小朋友下課鐘一響，就要用衝的，碰撞跌倒都是常事，因為要趕上這班車。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/06\/24",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0cd7ca2d-f8c5-49d3-97df-b1178da5d355",
+            "FileName": "李鎮國-調整901及902公車大橋國中站到站時間.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=52587ed9-a56e-4432-90a1-bcb518a6e0c8&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

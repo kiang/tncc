@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "14",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "蔡育輝、施余興望 Tjakumay Tagaw",
+    "CaseCause": "建請市府增設永康忠孝運動公園棒球、壘球場照明設備及周邊設施完善。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"緣由是永信國小少棒隊經常性在永康忠孝運動公園內的棒球場練習，為求爭取更多練習的時間都會使用至傍晚，但場內只有部分有照明設備，造成在傍晚時練球視線不佳的狀態，表現也不盡理想。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"目前全臺南市教育提倡五育均衡發展，體育方面表現越來越好。永信國小自106年成立少棒，花了6年時間終於首度取得臺南市代表權，他們在市內賽擊退傳統名校崇學國小，獲得前進台東參加中華電信謝國城盃少棒賽的門票。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"建請市府增設永康忠孝運動公園棒球、壘球場照明及周邊運動場地設施完善。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/06\/20",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=00f2dfc5-c858-4221-ac0d-148929db357f",
+            "FileName": "定4-3議提附件-增設永康忠孝運動公園棒球、壘球場照明設備.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c36bcad2-abda-4f30-8cb5-500ea700d8ec&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
