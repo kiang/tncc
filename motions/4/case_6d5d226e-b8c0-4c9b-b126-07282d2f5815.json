@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "35",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "趙昆原",
+    "OrgTitle2": "陳皇宇、林美燕、林冠維、曾之婕、李偉智",
+    "CaseCause": "建請市府於台南市新營二二八公園周邊人行道增設照明系統及監視器，以維護使用市民安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"根據民眾向本席反應新營二二八公園周邊人行道照明不足，易形成治安死角，且嚴重影響通行安全。本席隨即請團隊於晚上至現場現勘(如附件一)，週遭確實相當昏暗，有增加照明及監視器需求，建請市府儘速規劃設置，以維護市民使用安全。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"另民眾也向本席反映體育場內有許多既有之照明燈具損壞多時都未看到市府修復(如附件二)，有鑑於此，建請體育局針對新營體育園區全區，進行照明設備總體檢，針對已損壞的燈具進行修復或更換。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/06\/20",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/06\/26",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7645df60-7516-4267-aacc-f326e305646a",
+            "FileName": "定4-3議提附件-新營體育公園及二二八公園照明及監視系統.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6d5d226e-b8c0-4c9b-b126-07282d2f5815&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

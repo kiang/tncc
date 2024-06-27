@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "71",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝",
+    "OrgTitle2": "邱莉莉、王宣貿、林冠維、李中岑",
+    "CaseCause": "建請台南市政府將後壁區新東國小視聽教室窗戶改成氣密窗，以達隔音效果，而不會受噪音所苦。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"後壁區新東國小因為靠近國道一號的緣故，一直以來都有噪音方面的問題，學校周邊的交通噪音，會對與學生學習及社交能力息息相關的專注力跟記憶力，造成負面影響。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"在學校的時間，也正是學生需要高度專注與儲存、處理訊息的學習高峰，噪音容易讓學童分散注意力無法集中精神專心聽講，為讓學童有安靜舒適的學習環境，建請台南市政府將後壁區新東國小視聽教室窗戶改成氣密窗，以達隔音效果，而不會受噪音所苦。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2024\/06\/20",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/06\/26",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ca48a2ae-58a4-4ae6-807b-b54734d0cd53",
+            "FileName": "定4-3議提附件-新營區新東國小視聽教室改成氣密窗.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e63ca6b5-473a-472b-9d1a-26f8f9b27574&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

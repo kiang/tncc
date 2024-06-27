@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "36",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "趙昆原",
+    "OrgTitle2": "陳皇宇、林美燕、林冠維、曾之婕、李偉智",
+    "CaseCause": "新營體育館及游泳池柱子\/牆壁多處有壁癌及漏水狀況，建請市府儘速修繕，以提供市民一個更好的運動空間。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"根據民眾向本席反映，新營體育館及游泳池有多處壁癌漏水，每逢降雨地板也有積水的情形。經本席團隊至現場現勘(如附件)，發現問題的確相當嚴重。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請市府儘速修繕，以提供市民一個更好的運動空間。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/06\/20",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/06\/26",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b33373c7-4c31-4243-bb47-2850e5d4bf04",
+            "FileName": "定4-3議提附件-新營體育館游泳池壁癌及漏水.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=96880e4c-9de4-412e-b19e-df3fc07e88ad&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

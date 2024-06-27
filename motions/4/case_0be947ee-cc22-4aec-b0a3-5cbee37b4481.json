@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第3次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "70",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝",
+    "OrgTitle2": "陳皇宇、林美燕、林冠維、尤榮智、方一峰、陳昆和、曾之婕、吳通龍",
+    "CaseCause": "建請台南市政府儘速興建新營區新泰國小活動中心。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"新泰國小地處新營區新東里人口約九仟人，屬重劃新社區，目前有國小26班、幼兒園3班，尚有增加學生的空間。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"惟現有風雨球場埸地太小無法辦大型全校性活動，例如：每次辦畢業典禮，因畢業季已入夏，天氣悶熱，又無冷氣設備，熱氣難退，參加畢業典禮人員汗流浹背讓人無法忍受，也讓原本應是感恩感動的畢業典禮失色不少。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"綜上，建請台南市政府儘速興建活動中心。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2024\/06\/20",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/06\/26",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=df3094d4-5d12-4297-abf9-2dfb5bf12ae6",
+            "FileName": "定4-3議提附件-興建新營區新泰國小活動中心.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0be947ee-cc22-4aec-b0a3-5cbee37b4481&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
