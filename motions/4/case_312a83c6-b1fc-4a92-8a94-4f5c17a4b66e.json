@@ -7,7 +7,7 @@
     "ComeNumber": "府民人字第1121360389號",
     "OrgTitle": "臺南市政府民政局",
     "OrgTitle2": "",
-    "CaseCause": "修正「各戶政事務所編制表」。",
+    "CaseCause": "修正「臺南市永康戶政事務所編制表」、「臺南市府東戶政事務所編制表」、「臺南市安南戶政事務所編制表」、「臺南市白河戶政事務所編制表」、「臺南市中西戶政事務所編制表」、「臺南市善化戶政事務所編制表」、「臺南市仁德戶政事務所編制表」、「臺南市麻豆戶政事務所編制表」、「臺南市安平戶政事務所編制表」、「臺南市新化戶政事務所編制表」、「臺南市學甲戶政事務所編制表」、「臺南市玉井戶政事務所編制表」、「臺南市官田戶政事務所編制表」。",
     "Content": "",
     "Method": "",
     "CheckDate": "2024\/06\/20",
@@ -19,8 +19,8 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1d7b00bd-6410-422b-8d94-47e53d205864",
-            "FileName": "4-3定法規查照3-修正「各戶政事務所編制表」.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=033d1e9c-a7fd-4fb0-bc01-fe052ac9633c",
+            "FileName": "4-3定法規查照3-修正「永康戶政事務所等13個戶政事務所編制表」.pdf",
             "ErrorMessage": ""
         }
     ],

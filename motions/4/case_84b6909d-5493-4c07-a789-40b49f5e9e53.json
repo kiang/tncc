@@ -54,8 +54,18 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=84b6909d-5493-4c07-a789-40b49f5e9e53&type=pdf",
     "CheckAttList": [
         {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5a65b239-ad34-423c-b209-f8939a95d3b9",
+            "FileName": "(025-大會)4屆3定0626第25次會紀錄(全).pdf",
+            "ErrorMessage": ""
+        },
+        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=92bcfe95-b81c-4b4c-b072-a5c7bf9d3e8c",
             "FileName": "4-3 定-寵物生命紀念業管理自治條例會議紀錄及審查意見報告書 (1130515).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7f2c4574-04d0-41e8-a01b-a8e21776184c",
+            "FileName": "4-3定審查結果對照表---寵物(1130515) 橫式.pdf",
             "ErrorMessage": ""
         }
     ],

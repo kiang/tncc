@@ -42,7 +42,13 @@
         }
     ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fc71a1ab-8d00-4145-952a-9e87a7e29c8d&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7ae0a6fd-9ce3-4d38-aabb-1a57ae79e0f9",
+            "FileName": "(025-大會)4屆3定0626第25次會紀錄(全).pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "2024\/02\/23",
     "ReDesc": "本案為市法規制定案，大會通過先行辦理草案預告及公聽會，於下會期再進行一讀會及付委。(註：依照第3 屆第4 次定期會第1 次會大會決議辦理)",
