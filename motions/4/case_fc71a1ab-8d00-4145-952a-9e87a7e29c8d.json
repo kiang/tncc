@@ -13,10 +13,10 @@
     "CheckDate": "",
     "CheckDesc": "",
     "DoneDate": "2024\/03\/06",
-    "DoneDesc": "本案為市法規制定案，大會通過先行辦理草案預告及公聽會，於下會期再進行一讀會及付委。(註：依照第3 屆第4 次定期會第1 次會大會決議辦理)",
+    "DoneDesc": "一、113年3月6日大會決議：本案為市法規制定案，大會通過先行辦理草案預告及公聽會，於下會期再進行一讀會及付委。(註：依照第3 屆第4 次定期會第1 次會大會決議辦理)\r\n二、113年6月26日第4屆第3次定期會26次會大會決議：照審查意見通過。(照113年5月17日審查結論通過)",
     "SendDate": "",
     "SendNumber": "",
-    "DoDesc": "1草案預告113.3.7南議法規字第1130001077號。\r\n2.公聽會於113.3.26辦理完成，會議紀錄詳附件。\r\n3.1130517辦理第4屆第3次議案審查，會議紀錄詳附件。",
+    "DoDesc": "\r\n",
     "AttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e2c57324-55e2-484b-ac72-f515c98fc25c",
@@ -24,34 +24,28 @@
             "ErrorMessage": ""
         }
     ],
-    "RAttList": [
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=238e3732-f1f2-4360-adbf-da2b828530b8",
-            "FileName": "(逐字稿+簽到單)會議紀錄-113.03.26公廳會-臺南市騎樓管理使用自治條例草案公聽會.pdf",
-            "ErrorMessage": ""
-        },
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8a80b13c-1e9c-47fa-bc86-214043530c16",
-            "FileName": "1-4-1130517---4-3定-騎樓會議紀錄.pdf",
-            "ErrorMessage": ""
-        },
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=01016e8c-dde6-4a36-a22b-4c5ea45ca14e",
-            "FileName": "20240307騎樓自治條例預告公告.pdf",
-            "ErrorMessage": ""
-        }
-    ],
+    "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fc71a1ab-8d00-4145-952a-9e87a7e29c8d&type=pdf",
     "CheckAttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7ae0a6fd-9ce3-4d38-aabb-1a57ae79e0f9",
             "FileName": "(025-大會)4屆3定0626第25次會紀錄(全).pdf",
             "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=dbe51c7e-7c39-4169-a875-6f441853a2dd",
+            "FileName": "1130307公告--騎樓管理條例.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=007c89cc-a87c-4b13-ab05-4017342d2324",
+            "FileName": "網版---騎樓會議紀錄.pdf",
+            "ErrorMessage": ""
         }
     ],
     "DoneAttList": [],
     "ReDate": "2024\/02\/23",
-    "ReDesc": "本案為市法規制定案，大會通過先行辦理草案預告及公聽會，於下會期再進行一讀會及付委。(註：依照第3 屆第4 次定期會第1 次會大會決議辦理)",
+    "ReDesc": "一、113年3月6日大會決議：本案為市法規制定案，大會通過先行辦理草案預告及公聽會，於下會期再進行一讀會及付委。(註：依照第3 屆第4 次定期會第1 次會大會決議辦理)\r\n二、113年6月26日第4屆第3次定期會26次會大會決議：照審查意見通過。(照113年5月17日審查結論通過)",
     "FirstDate": "",
     "FirstDesc": "",
     "SecondDate": "",
@@ -60,6 +54,6 @@
     "ThirdDesc": "",
     "ExecuteReDate": "",
     "ExecuteReNumber": "",
-    "ExecuteReMemo": "1草案預告113.3.7南議法規字第1130001077號。\r\n2.公聽會於113.3.26辦理完成，會議紀錄詳附件。\r\n3.1130517辦理第4屆第3次議案審查，會議紀錄詳附件。",
+    "ExecuteReMemo": "\r\n",
     "ErrorMessage": ""
 }
