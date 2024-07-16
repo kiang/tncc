@@ -14,11 +14,22 @@
     "CheckDesc": "函送市府研辦。",
     "DoneDate": "2024\/06\/26",
     "DoneDesc": "照審查意見通過。",
-    "SendDate": "",
-    "SendNumber": "",
-    "DoDesc": "",
+    "SendDate": "2024\/07\/05",
+    "SendNumber": "南議建設字第 1130005929號",
+    "DoDesc": "本府就「建請勞工局設置勞保諮詢櫃檯，減少民眾洽公的時間成本」決議案，敬答覆如下：\r\n一、有關於本府勞工局辦公處所內增設勞保諮詢櫃檯，因尚同時涉及中央主管機關勞工保險局之權責，為審慎辦理增設之評估作業，本局將會與勞工保險局共同研商討論，爰本府勞工局先以113年7月11日南市勞秘字第1130973285號函及113年7月12日南市勞秘字第1130989642號函發文給勞工保險局及其於本市之兩個辦公處，後續會與其共同評估設置之可行性，並再將評估結果回覆。\r\n二、檢附本府勞工局113年7月11日南市勞秘字第1130973285號函及113年7月12日南市勞秘字第1130989642號函供參。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0585e4ae-5313-4dbb-87f9-7905cba41904",
+            "FileName": "建設議提10號案附件1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bd3450ff-685c-4389-a416-b48410ff31a6",
+            "FileName": "建設議提10號案附件2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=303720ca-1b97-4ecb-89f5-fa42625bdda4&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +41,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/07\/12",
+    "ExecuteReNumber": "府勞秘字第 1130987328號",
+    "ExecuteReMemo": "本府就「建請勞工局設置勞保諮詢櫃檯，減少民眾洽公的時間成本」決議案，敬答覆如下：\r\n一、有關於本府勞工局辦公處所內增設勞保諮詢櫃檯，因尚同時涉及中央主管機關勞工保險局之權責，為審慎辦理增設之評估作業，本局將會與勞工保險局共同研商討論，爰本府勞工局先以113年7月11日南市勞秘字第1130973285號函及113年7月12日南市勞秘字第1130989642號函發文給勞工保險局及其於本市之兩個辦公處，後續會與其共同評估設置之可行性，並再將評估結果回覆。\r\n二、檢附本府勞工局113年7月11日南市勞秘字第1130973285號函及113年7月12日南市勞秘字第1130989642號函供參。",
     "ErrorMessage": ""
 }
