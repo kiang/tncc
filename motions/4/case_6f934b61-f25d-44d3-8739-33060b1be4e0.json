@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 臨時會",
+    "PTypTitle": "建設",
+    "CaseNumber": "7",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/07\/18",
+    "ComeNumber": "府文秘字第1131006944 號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "文化部文化資產局核定補助本市辦理「臺南市傳統匠師傳習計畫（第一期）」總經費910萬元(中央補助款728萬元、市配合款182萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據文化部文化資產局中華民國113年5月14日文資傳字第11330049772號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44條第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費910萬元(中央補助款728萬元、市配合款182萬元)，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年6月18日第651次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本案為保存技術知識性與技術性課程培訓，課程於案場實際操作，因三位匠師皆已高齡，於傳統技藝之傳承上有其急迫性，故有緊急執行之必要；另因課程施作須配合案場其它工程項目之進度，為使本案順利進行，減少因工程銜接造成施作進度延遲問題，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4dce843a-f1e9-49d9-9923-d08ec31aec6a",
+            "FileName": "市提7附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6f934b61-f25d-44d3-8739-33060b1be4e0&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

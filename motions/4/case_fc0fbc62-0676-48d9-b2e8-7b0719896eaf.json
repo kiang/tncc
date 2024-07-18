@@ -26,7 +26,13 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fc0fbc62-0676-48d9-b2e8-7b0719896eaf&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e03675fd-dd02-4af2-9950-9301a6d70e65",
+            "FileName": "審查意見報告書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "2024\/02\/23",
     "ReDesc": "一、照聯席審查意見通過。\r\n二、請市府妥善處理蘭花生技園區硬體設備之充實與更新，並期望在本年度有所著落。另外，寵物友善專區為未來趨勢，請農業局再充分溝通。",
