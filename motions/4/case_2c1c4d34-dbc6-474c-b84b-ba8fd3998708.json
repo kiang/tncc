@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 臨時會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/07\/22",
+    "ComeNumber": "府體綜字第1130736171號",
+    "OrgTitle": "臺南市政府體育局",
+    "OrgTitle2": "",
+    "CaseCause": "教育部核定永康區永仁高中辦理「改善校園運動環境─操場跑道整修工程」經費案，核定計畫總經費新臺幣（下同）980萬元整（全中央補助款），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據教育部113年5月16日臺教授體部字第1130020182E號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」；另依同要點45點規定，應敘明理由，報陳直轄市、縣(市)政府送請議會同意後，始得支用。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案核定計畫經費980萬元整（全中央補助款），因應時程緊迫，因未及納入本府113年度總預算，為利本案執行及配合中央列管時程，謹請貴會同意先行墊付，俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年6月4日第649次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本案係113年度教育部補助專案計畫，核定計畫總經費980萬元整，經費來源為中央特別統籌分配稅款，地方政府未編列相關預算，依規定須辦理預算墊付。另依據教育部補助作業規定，本案於核定日起即列管填報勞務及工程採購進度，須於113年8月2日前完成勞務發包及113年10月16日前工程發包，逾期未完成，須部份自籌款支應。因本府未編列預算，為使計畫順利完成務及工程發包，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，於114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=73516e31-8559-43b4-b90a-993899cea5e4",
+            "FileName": "臨4-6-民教墊付3-體育局-永仁高中改善校園運動環境操場跑道整修工程.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2c1c4d34-dbc6-474c-b84b-ba8fd3998708&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
