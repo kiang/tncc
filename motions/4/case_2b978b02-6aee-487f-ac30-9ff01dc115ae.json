@@ -28,6 +28,16 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2b978b02-6aee-487f-ac30-9ff01dc115ae&type=pdf",
     "CheckAttList": [
         {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bcfea7a0-5fd8-40ea-9217-67ae2e22d1c3",
+            "FileName": "1130715東山區東河里吉貝耍里民心聲及反映意見.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4d406705-2b2a-4430-82d9-6585031f06a9",
+            "FileName": "1130719函--吉貝耍里民心聲及反應意見.pdf",
+            "ErrorMessage": ""
+        },
+        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5a8e70f5-6a89-4f95-8fdc-9a3980617b14",
             "FileName": "公版---1130625公聽會--會議紀錄---臺南市新設置畜牧設施管理自治條例.pdf",
             "ErrorMessage": ""
