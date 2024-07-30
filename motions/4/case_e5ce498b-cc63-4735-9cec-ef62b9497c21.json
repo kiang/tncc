@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第4屆 第6次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/07\/23",
+    "ComeNumber": "府環廢字第1130991824號",
+    "OrgTitle": "臺南市政府環境保護局",
+    "OrgTitle2": "",
+    "CaseCause": "有關環境部資源循環署核定本市「112年度源頭減量及資源回收績效考核團體獎勵金運用計畫」經費新台幣150萬元整乙案（全額中央補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據環境部資源循環署113年5月24日環循永字第1136109096號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費新臺幣150萬元整（全額中央補助），因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年6月18日第651次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本案於113年5月24日經環境部資源循環署核定，應於113年11月30日前執行完畢，因時程緊迫且中央核定計畫日期較晚，未及於納入113年度總預算，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1f237d9c-901e-408b-9843-ef6ee0274378",
+            "FileName": "3號核定函-附件.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=44551186-0deb-40b6-a497-1ac452456ac4",
+            "FileName": "3號核定函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a51b418b-485c-4501-b254-01941c375aa4",
+            "FileName": "3號計劃書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e5ce498b-cc63-4735-9cec-ef62b9497c21&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

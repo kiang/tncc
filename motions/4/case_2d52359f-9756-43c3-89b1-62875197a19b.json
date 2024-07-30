@@ -17,7 +17,18 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0d01f1b9-2cc7-4899-be79-84e5ec7fea2b",
+            "FileName": "(計畫書)113年度楠西區照興里永興吊橋閒置空間整理計畫.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3e1190f7-4687-404c-b145-00c7e91659f0",
+            "FileName": "113地方創生核定函(內政部113年6月26日台內國字第1130806816號函).pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2d52359f-9756-43c3-89b1-62875197a19b&type=pdf",
     "CheckAttList": [],

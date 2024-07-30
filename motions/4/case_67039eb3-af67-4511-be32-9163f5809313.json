@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/07\/30",
+    "ComeNumber": "府警刑字第1131061091號",
+    "OrgTitle": "臺南市政府警察局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部警政署核定補助本府「113年度協助地方政府精進警察科技偵查設備經費需求計畫書」計畫經費新臺幣2,283萬6,000元(中央全額補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部警政署113年5月13日警署刑科字第11300060295號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款之規定「經上級政府核定之補助款所使用之支出。」等相關規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費新臺幣2,283萬6,000元(中央全額補助)，因未及納入本府113年度總預算，擬請准予辦理先行墊付，俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年3月7日第654次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本案係由內政部警政署統一採購配發科技偵查設備至全國各縣市警察局，屬全國性計畫，為配合中央統一採購期程辦理。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5995711d-05a2-4e8a-91c6-b87c6b2b674f",
+            "FileName": "市提2附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=67039eb3-af67-4511-be32-9163f5809313&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

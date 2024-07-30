@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第4屆 第6次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/07\/29",
+    "ComeNumber": "府農務字第1131034236號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "農業部農糧署核定本府「臺南市太康有機農業專區基礎環境改善工程委託規劃設計計畫」案，經費183萬元整(中央補助款)因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據農業部農糧署113年6月12日農糧資字第1131149029號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"所需總經費共計新臺幣204萬元(中央補助款183萬元，市配合款21萬元)，其中市配合款21萬元由本局113年總預算調整核實支應，另中央補助款183萬元整因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本案係補助太康有機農業專區基礎環境改善工程委託規劃設計，擴大現有專區生產規模。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府113年7月2日第653次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案為委託廠商辦理規劃及細部設計，並依農業部農糧署113年6月12日農糧資字第1131149029號函要求於113年12月31日前結案，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9871c2ec-76b7-47f9-9a80-d380ae59b04e",
+            "FileName": "提案5-中央核定公文-附件1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=25b1152f-89b2-4a54-a7a3-d160ab926cb3",
+            "FileName": "提案5-中央核定公文-附件2.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=443d6b15-1dad-487b-bd05-e155a404e07d",
+            "FileName": "提案5-說明-附件3.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9c128632-5755-431a-8749-7a8546a43134&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

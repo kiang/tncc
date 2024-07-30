@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第6次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/07\/29",
+    "ComeNumber": "府工園一字第1131021017號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部核定本府辦理「『城鎮風貌及創生環境營造計畫』競爭型第二階段─『臺南運河橋體燈光及周邊景觀重塑設計』」，經費共計新臺幣7,500萬元整(中央補助款5,610萬元、市配合款1,890萬元)乙案，為爭取時效，謹請貴會同意先行墊付114年度5,610萬元(中央補助款)，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部113年5月8日台內國字第1130804747號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本補助計畫係由中央核定補助款項5,610萬元及配合款1,890萬元，本次核定計畫經費共計新臺幣7,500萬元。(前次已核定500萬(中央補助款390萬元、市配合款110萬元)，總核定經費共8,000萬元)，本次擬申請中央核定補助款項5,610萬元，擬提請本市議會同意辦理後先行支應，以利創造富有完善機能都會水岸之相關業務推動，於114年度總預算辦理轉正，轉正科目為「工程建築及設備-工程建築及設備-公園及路燈設施-設備及投資-公共建設及設施費-其他營建工程」，為爭取時效，謹請貴會同意先行墊付，中央補助款5,610萬元俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案採一次發包分年編列預算方式辦理，分2年編列；\",\"children\":[{\"order\":\"(一)\",\"content\":\"114年度5,610萬元(中央補助款)\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"115年度1,890萬元(市配合款)\",\"children\":[]}]},{\"order\":\"五、\",\"content\":\"本案業經本府113年7月9日第654次市政會議審議通過。\",\"children\":[]},{\"order\":\"六、\",\"content\":\"提送墊付款案緊急性理由：本計畫屬行政院重大政策，且涉及國民權益、活化周邊生活圈，內政部要求各縣市政府應於核定後盡速辦理，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cc9c83a6-62b7-4f15-886a-562abfbe03f5",
+            "FileName": "34292_1021017A00_ATTCH2.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4fa56ba0-5d97-49d8-ae53-239b8d7041cf",
+            "FileName": "34292_1021017A00_ATTCH3.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=05b18211-1ed2-4176-9c81-22d32676f014&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

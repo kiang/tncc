@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第6次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/07\/30",
+    "ComeNumber": "府環水字第1131046781號",
+    "OrgTitle": "臺南市政府環境保護局",
+    "OrgTitle2": "",
+    "CaseCause": "海洋委員會海洋保育署本市核定「臺南市112年度海洋環境管理考核獎勵補助計畫」經費為新臺幣40萬元整乙案(中央補助30萬元、市配合款10萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據海洋委員會海洋保育署113年5月9日海保環字第1130004703號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費新臺幣40萬元整(中央補助款30萬元、市配合款10萬元)，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年6月25日第652次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：因本計畫執行期程至113年10月31日止，並應於執行完成後一個月內(至遲於113年11月30日)提報成果報告辦理結案及經費支用，不得辦理保留，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7db6c4fc-6636-4f02-b1a5-61d6062a57d2",
+            "FileName": "5號案核定函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=81049bad-1dbb-42cf-a319-7e4940512c69",
+            "FileName": "5號案計劃書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=07a9d2ec-d81e-43b8-bbd5-dde8c50bc317&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

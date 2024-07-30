@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/07\/29",
+    "ComeNumber": "府消救字第1131010184號",
+    "OrgTitle": "臺南市政府消防局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院核定「充實直轄市、縣（市）消防機關外勤消防人員個人救災裝備器材中程計畫」，為爭取時效，謹請貴會同意先行墊付新臺幣6,000萬元案（中央全額補助），俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部113年6月5日內授消字第1131602524號函轉行政院113年5月27日院臺忠字第1131012369號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總補助經費新臺幣6,000萬元，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年6月18日第651次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：為迅速補足消防人員完整防護裝備，以因應多元且危險之火災型態，確保救災人員安全，提送墊付案。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=67687dc0-d599-4a0d-9f7b-e063d419f232",
+            "FileName": "市提1-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2d758d91-0fc4-40a8-a9fd-d298af875694&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
