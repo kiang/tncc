@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "12",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/07\/29",
+    "ComeNumber": "府農銷字第1130985329號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "農業部農糧署同意本府辦理「2024年臺南鳳梨、芒果行銷推廣計畫」案，經費新臺幣200萬（中央補助款200萬元）因未及納入113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據農業部農糧署113年7月9日農糧果字第1131121565號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"所需經費新臺幣200萬元(中央補助款200萬元)，因未及納入本府113年度總預算案，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要工作項目為本市113年鳳梨、芒果推展活動及農產行銷相關工作。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府113年7月23日第656次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急理由：本案為增加臺南農產之曝光度及購買便利性，進而提高銷售量並拓展本市優質農產品牌，且農糧署要求須於113年12月31日結案，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a15be904-51aa-4b0e-b6b1-a8214ac619e5",
+            "FileName": "提案12-中央核定公文及說明.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6d84e40f-98bc-4389-b483-9313238dc432&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

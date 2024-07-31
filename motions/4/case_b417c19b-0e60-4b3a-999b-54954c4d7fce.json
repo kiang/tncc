@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "11",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/07\/29",
+    "ComeNumber": "府農輔字第1131050805號",
+    "OrgTitle": "臺南市政府經濟發展局",
+    "OrgTitle2": "",
+    "CaseCause": "農業部農村發展及水土保持署核定本府「113年度臺南市休閒農業區輔導計畫」案，經費為39萬元(中央補助款)，未納入113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據農業部農村發展及水土保持署113年6月25日農保休字第1132660580號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"經費為361萬元（中央補助款328萬元，本府配合款33萬元），其中中央補助款39萬、本府配合款26萬元，上開經費共計65萬元，未納入113年度總預算，為爭取時效，謹請貴會同意中央補助款39萬元辦理先行墊付，本府配合款26萬元由本局原編預算調整。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要工作項目為持續推動陪伴輔導制度，強化轄內休區農業旅遊服務功能及組織運作效能，整合在地新創團隊力量並搭配專業師資導入符合當地需求之專業教育訓練，並辦理特色農業旅遊場域認證推展及休閒農業場域輔導工作等作業。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府113年7月23日第656次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案係為持續推動臺南市休閒農業區陪伴輔導制度，強化轄內休區農業旅遊服務功能及組織運作效能，整合在地新創團隊力量並搭配專業師資導入符合當地需求之專業教育訓練，並辦理特色農業旅遊場域認證推展及休閒農業場域輔導工作等。因本計畫核定於113年6月25日，相關推動輔導作業及採購等需於113年12月31日前完成並報驗，時程緊迫且中央核定補助計畫日期較晚，為爭取時效，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5c2b7d7b-b317-4699-94b0-74b0bb88a02e",
+            "FileName": "提案11-中央核定公文及說明.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b417c19b-0e60-4b3a-999b-54954c4d7fce&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

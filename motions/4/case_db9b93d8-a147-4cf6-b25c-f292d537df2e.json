@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 臨時會",
+    "PTypTitle": "建設",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/07\/29",
+    "ComeNumber": "府觀業字第1131014242號",
+    "OrgTitle": "臺南市政府觀光旅遊局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部觀光署核定補助本市辦理「113年度補助臺南市政府辦理觀光遊樂業旅遊安全提升計畫」，總經費300萬元(中央補助款240萬元、市配合款60萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據交通部觀光署113年6月13日觀旅字第1135001099號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款及第6款，「經上級政府核定之補助款，所使用之支出」及「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費300萬元(中央補助款240萬元、市配合款60萬元)，因未及納入本府113年度總預算案，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年7月9日第654次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案為交通部觀光署要求於113年11月30日辦理完成後再向該署申請補助，為利計畫順利執行，故有於本會期提出墊付案申請之緊急性。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1a6d0724-eca3-4ddc-bf32-0a039d0b014b",
+            "FileName": "市提3附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=db9b93d8-a147-4cf6-b25c-f292d537df2e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

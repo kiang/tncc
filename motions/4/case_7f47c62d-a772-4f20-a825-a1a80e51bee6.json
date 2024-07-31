@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "9",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/07\/30",
+    "ComeNumber": "府水污養字第1131049501號",
+    "OrgTitle": "臺南市政府水利局",
+    "OrgTitle2": "",
+    "CaseCause": "環境部核定本市「臺南市竹溪水質淨化場第二期工程」總經費4億6,000萬元(中央補助款2億8,980萬元、市配合款1億7,020萬元)，為爭取時效，謹請貴會同意先行墊付113年度1億2,418萬6,000元(中央補助款7,823萬7,000元、市配合款4,594萬9,000元)，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據環境部113年7月4日環部水字第1131044518號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"本案總經費新台幣4億6,000萬元(中央補助款2億8,980萬元、市配合款1億7,020萬元)，執行期間自113年起至116年止，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付113年度1億2,418萬6,000元(中央補助款7,823萬7,000元、市配合款4,594萬9,000元)，俟114年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"上開總經費4億6,000萬元，採一次發包，分年編列預算辦理，113年編列1億2,418萬6,000元、114年編列1億581萬4000元、115年編列2億700萬元、116年編列2,300萬元。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府113年7月23日第656次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：環境部請本府儘速發包執行，務必於今(113)年度完成契約及請領第1期，爰亟需先行墊付辦理工程發包，故提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=073019e4-721d-4843-8ce2-d80ccc0ba0e9",
+            "FileName": "工務市提9-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7f47c62d-a772-4f20-a825-a1a80e51bee6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
