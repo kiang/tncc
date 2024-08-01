@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/07\/02",
     "SendNumber": "南議民教字第 1130005573號",
-    "DoDesc": "",
+    "DoDesc": "收文字號：113年8月1日1130006887號\r\n本府就「建請市府訂定『原住民族弱勢家庭資訊設備補助要點』，並編列年度預算支應所需經費。」決議案，敬答覆如下：\r\n一、 本市社會局自 104 年開辦「 臺南市弱勢家庭居家環境改善實施計畫」，已申請約1,000件，藉由補助購置傢俱、書桌椅、家電、電 腦、衛浴、其他居家設備及學習用品，以維護經濟弱勢家庭最基本之生活品質。\r\n二、前開申請資格為本市列冊之低收入戶及中低收入戶，或經社會局社 工員訪視評估確有需求者。如民眾有需求，可聯絡本會，將派社工 員前往族人家中訪視時，符合申請條件者，本會社工員即填寫轉介單送至該戶籍地社會福利服務中心進行後續評估。\r\n三、檢附「臺南市弱勢家庭居家環境改善實施計畫」1份供參。\r\n",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3288c777-0bf4-4b89-9419-adffd08c1fc0",
+            "FileName": "台南市弱勢家庭居家環境改善實施計畫.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5e91a1fd-baa4-40de-800b-1cab34169231&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/08\/01",
+    "ExecuteReNumber": "府原綜字第 1131057560號",
+    "ExecuteReMemo": "收文字號：113年8月1日1130006887號\r\n本府就「建請市府訂定『原住民族弱勢家庭資訊設備補助要點』，並編列年度預算支應所需經費。」決議案，敬答覆如下：\r\n一、 本市社會局自 104 年開辦「 臺南市弱勢家庭居家環境改善實施計畫」，已申請約1,000件，藉由補助購置傢俱、書桌椅、家電、電 腦、衛浴、其他居家設備及學習用品，以維護經濟弱勢家庭最基本之生活品質。\r\n二、前開申請資格為本市列冊之低收入戶及中低收入戶，或經社會局社 工員訪視評估確有需求者。如民眾有需求，可聯絡本會，將派社工 員前往族人家中訪視時，符合申請條件者，本會社工員即填寫轉介單送至該戶籍地社會福利服務中心進行後續評估。\r\n三、檢附「臺南市弱勢家庭居家環境改善實施計畫」1份供參。\r\n",
     "ErrorMessage": ""
 }

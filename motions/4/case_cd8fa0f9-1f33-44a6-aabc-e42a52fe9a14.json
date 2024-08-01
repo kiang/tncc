@@ -16,9 +16,20 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/07\/02",
     "SendNumber": "南議民教字第 1130005574號",
-    "DoDesc": "",
+    "DoDesc": "收文字號：113年8月1日1130006889號\r\n本府就「建請市府訂定『臺南市原住民族微型保險要點』，並編列年度 預算支應所需經費。」決議案，敬答覆如下： \r\n一、政府機關相關保險內容摘要如下：\r\n(一)本府社會局辦理「臺南市托嬰中心辦理兒童團體保險」，被保險對象為0-2歲送托嬰中心之嬰兒。\r\n(二)教育部辦理「高級中等以下學校學生及教保服務機構幼兒團體保險」，被保險對象為2-18歲就學年齡之學生。\r\n(三)本府社會局辦理臺南市脫貧自立計畫「微型保險」，被保險對象為 15-75歲符合特定條件者。\r\n(四)中央原民會辦理原住民團體保險，被保險對象為25-65歲符合特定條件資格者等。\r\n(五)上開保險之保險對象、保額及補助保費彙整如附件一、二。\r\n 二、承上所述，考量本市族人自0歲至65歲皆有相關保險進行保障，本府原住民族事務委員會評估暫無辦理微型保險之需求。\r\n",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=203a5646-720b-4f7e-b4c3-b6af48b94f95",
+            "FileName": "附件1-臺南市政府機關各式保險年齡及保額彙整表.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b2a61c00-d1dc-45e5-a08c-9bf29c5bf935",
+            "FileName": "附件2-臺南市政府機關相關保險內容彙整表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=cd8fa0f9-1f33-44a6-aabc-e42a52fe9a14&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +41,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/08\/01",
+    "ExecuteReNumber": "府原綜字第 1131057638號",
+    "ExecuteReMemo": "收文字號：113年8月1日1130006889號\r\n本府就「建請市府訂定『臺南市原住民族微型保險要點』，並編列年度 預算支應所需經費。」決議案，敬答覆如下： \r\n一、政府機關相關保險內容摘要如下：\r\n(一)本府社會局辦理「臺南市托嬰中心辦理兒童團體保險」，被保險對象為0-2歲送托嬰中心之嬰兒。\r\n(二)教育部辦理「高級中等以下學校學生及教保服務機構幼兒團體保險」，被保險對象為2-18歲就學年齡之學生。\r\n(三)本府社會局辦理臺南市脫貧自立計畫「微型保險」，被保險對象為 15-75歲符合特定條件者。\r\n(四)中央原民會辦理原住民團體保險，被保險對象為25-65歲符合特定條件資格者等。\r\n(五)上開保險之保險對象、保額及補助保費彙整如附件一、二。\r\n 二、承上所述，考量本市族人自0歲至65歲皆有相關保險進行保障，本府原住民族事務委員會評估暫無辦理微型保險之需求。\r\n",
     "ErrorMessage": ""
 }
