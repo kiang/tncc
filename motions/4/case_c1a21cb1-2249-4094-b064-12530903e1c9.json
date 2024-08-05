@@ -1,6 +1,6 @@
 {
     "GradeTime": "第4屆 第6次 臨時會",
-    "PTypTitle": "民政教育",
+    "PTypTitle": "財經",
     "CaseNumber": "1",
     "KidTitle": "有關機關提案-決算審核報告",
     "ComeDate": "2024\/07\/29",
@@ -17,7 +17,18 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1c111eff-3690-4869-8391-86069146b8aa",
+            "FileName": "112年度臺南市總決算暨附屬單位決算及綜計表審核報告.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ff3053df-09b0-4947-8f51-360815e75a65",
+            "FileName": "口頭報告.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c1a21cb1-2249-4094-b064-12530903e1c9&type=pdf",
     "CheckAttList": [],
