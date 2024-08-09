@@ -28,23 +28,13 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2b978b02-6aee-487f-ac30-9ff01dc115ae&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bcfea7a0-5fd8-40ea-9217-67ae2e22d1c3",
-            "FileName": "1130715東山區東河里吉貝耍里民心聲及反映意見.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=dc1a8758-491c-4d27-ae03-90b269a7ad2b",
+            "FileName": "附件1-1130625公聽會會議紀錄---台南巿新設置畜牧設施管理自治條例第5條條正草案.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4d406705-2b2a-4430-82d9-6585031f06a9",
-            "FileName": "1130719函--吉貝耍里民心聲及反應意見.pdf",
-            "ErrorMessage": ""
-        },
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5a8e70f5-6a89-4f95-8fdc-9a3980617b14",
-            "FileName": "公版---1130625公聽會--會議紀錄---臺南市新設置畜牧設施管理自治條例.pdf",
-            "ErrorMessage": ""
-        },
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=14bcd106-259a-4001-af81-b47a91726a65",
-            "FileName": "逐字稿---113.06.25公聽會-臺南市新設置畜牧設施管理自治條例第五條修正草案公聽會.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f7f99062-1059-45a3-b86a-c49beb196103",
+            "FileName": "附件2--1130719東河里里民心聲--台南巿新設置畜牧設施管理自治條例.pdf",
             "ErrorMessage": ""
         }
     ],
@@ -52,7 +42,7 @@
     "ReDate": "2024\/05\/21",
     "ReDesc": "",
     "FirstDate": "2024\/05\/29",
-    "FirstDesc": "本案涉及人民權利義務，召開公聽會後交付法規委員會審查。",
+    "FirstDesc": "本案涉及人民權利義務，召開公聽會後交付法規委員會審查。\r\n(一、本案於113年6月25日召開公聽會，詳如審查結果附件1。 二、113年7月19日東山區東河里里長提出東河里里民心聲申請書，詳如審查結果附件2。)",
     "SecondDate": "",
     "SecondDesc": "",
     "ThirdDate": "",

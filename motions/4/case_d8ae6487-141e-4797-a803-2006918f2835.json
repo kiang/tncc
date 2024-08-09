@@ -29,16 +29,16 @@
             "ErrorMessage": ""
         }
     ],
-    "RAttList": [
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d8ae6487-141e-4797-a803-2006918f2835&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8db7c95d-8d30-4b5e-abfa-9f31c7089495",
-            "FileName": "撤案+公聽會---(012-大會)4屆2定0529第12次會紀錄.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0a7eb8c3-3b1e-4664-913a-ecf5d92a4bbd",
+            "FileName": "附件1-1130529-4-3定第12次會--財稅局撤案.pdf",
             "ErrorMessage": ""
         }
     ],
-    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d8ae6487-141e-4797-a803-2006918f2835&type=pdf",
-    "CheckAttList": [],
-    "DoneAttList": [],
     "ReDate": "2024\/05\/21",
     "ReDesc": "一、同意市府撤回。\r\n二、請市府於下會期前召開公聽會或說明會，並排定專案報告後，再行審議。",
     "FirstDate": "",
