@@ -10,8 +10,8 @@
     "CaseCause": "交通局（捷運工程處）辦理「臺南市先進運輸系統紅線可行性研究」，為爭取儘速提至交通部審議，謹請貴會同意本案規劃成果及出具同意函，俾憑辦理後續相關作業事宜，敬請審議。",
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本案業已列於行政院「前瞻基礎建設計畫」軌道建設，依「大眾捷運系統建設及周邊土地開發計畫申請與審查作業要點」(以下簡稱作業要點)規定，考量都市發展、工程環境、運輸需求、財務經濟效益及民意需求等面向，綜合評析提出可行性研究規劃內容。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"本計畫路線自第一期藍線文化中心站起，於中華東路與大同路口向南沿臺1線布設，串接南臺南副都心、臺南航空站、奇美博物館，至仁德區嘉南藥理大學止，共6座車站，路線長度6.52公里。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫111年已完成沿線行政區2場民眾說明會，與會議員及民眾均相當支持，並要求加速規劃進度，本府已於113年7月12日通過推動小組審查。\",\"children\":[]},{\"order\":\"(三)\",\"content\":\"本案業完成民意溝通及本府審查程序，依作業要點地方議會須出具同意本計畫相關文件，爰請貴會同意可行性研究規劃成果出具同意函，後續本府將全力爭取中央核定，加速推動時程。\",\"children\":[]},{\"order\":\"(四)\",\"content\":\"檢附計畫摘要表及報告書摘要本供參。\",\"children\":[]}]},{\"order\":\"三、\",\"content\":\"本案業經本府113年7月23日第656次市政會議通過。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審查同意本案規劃成果並出具同意函，以利加速計畫推動時程。\"}]",
-    "CheckDate": "",
-    "CheckDesc": "",
+    "CheckDate": "2024\/08\/19",
+    "CheckDesc": "聯席審查意見：同意辦理。",
     "DoneDate": "",
     "DoneDesc": "",
     "SendDate": "",
@@ -36,7 +36,13 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c32173ce-8fe4-467a-a18a-654ef35411ca&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ab6b13be-0b0c-47d8-8db2-08425cc98961",
+            "FileName": "1130819紅線市議會審議簡報_Final.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "2024\/08\/05",
     "ReDesc": "",

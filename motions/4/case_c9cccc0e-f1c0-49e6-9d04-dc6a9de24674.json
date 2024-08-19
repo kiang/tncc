@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/07\/02",
     "SendNumber": "南議工務字第 1130005170號",
-    "DoDesc": "",
+    "DoDesc": "本府就「請設置六甲區西側外環道路綠工程(南段)第二期入口意象案，工程已接近完工階段，儘速設置以增加藝術空間。」案，敬答覆如下：\r\n一、有關本府工務局已於113年7月22日辦理「臺南市六甲西側外環道路工程(南段)」二期設置入口意象地標案會勘(如附-本府工務局113年8月6日南市工新一字第1131057741號書函-會勘紀錄)。\r\n二、本案已請本市六甲區公所提案申請，並後續檢討維護管理量能問題及在地里民意見討論納入考量。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c088d1d6-c940-42f8-81d9-fa5383cafe05",
+            "FileName": "4-3定工務議提190號附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c9cccc0e-f1c0-49e6-9d04-dc6a9de24674&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/08\/13",
+    "ExecuteReNumber": "府工新一字第 1131101466號",
+    "ExecuteReMemo": "本府就「請設置六甲區西側外環道路綠工程(南段)第二期入口意象案，工程已接近完工階段，儘速設置以增加藝術空間。」案，敬答覆如下：\r\n一、有關本府工務局已於113年7月22日辦理「臺南市六甲西側外環道路工程(南段)」二期設置入口意象地標案會勘(如附-本府工務局113年8月6日南市工新一字第1131057741號書函-會勘紀錄)。\r\n二、本案已請本市六甲區公所提案申請，並後續檢討維護管理量能問題及在地里民意見討論納入考量。",
     "ErrorMessage": ""
 }

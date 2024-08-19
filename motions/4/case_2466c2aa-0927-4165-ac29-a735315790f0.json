@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "1",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市政府水利局",
+    "OrgTitle2": "",
+    "CaseCause": "「凱米颱風天然災害市府因應對策」專案報告",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本次颱風造成道路、水利設施及農民損失相當嚴重，請市府秉持從寬、從簡、從速原則辦理勘災及復建。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為因應颱風及新型降雨型態，請市府加強治水策略並持續向中央積極爭取相關計畫及預算。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"建請市府逐年編列經費，改善全市165條土堤設施。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"建請市府針對災害期間救災物資發放統一流程訂定準則，並建議中央水災災害救助種類及標準予以修法，將公司、店家及工廠納入不以個人為限。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"請市府就今日專案報告所有議員質詢建議事項予以列管，並儘速查復或執行。\",\"children\":[]},{\"order\":\"六、\",\"content\":\"建請市府提高凱米颱風災害救助金補助。\",\"children\":[]}]}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2a4b84e2-63f4-44f9-9b5a-3feed2801402",
+            "FileName": "0816臺南市議會專案報告簡報-凱米颱風天然災害市府因應對策專案報告6.0.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2466c2aa-0927-4165-ac29-a735315790f0&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

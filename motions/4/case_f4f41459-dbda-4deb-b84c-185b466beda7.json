@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/07\/03",
     "SendNumber": "南議工務字第 1130005662號",
-    "DoDesc": "",
+    "DoDesc": "本府就「建請市政府應將「強制要求鄰房現況鑑定」納入法規」案，敬答覆如下：\r\n一、關於臺南市建築爭議事件處理及評審自治條例第12條檢討修正一案，說明如下：\r\n(一) 據本府工務局113年1月30日南市工管一字第1130139812號公告所示，臺南市建築爭議事件處理及評審自治條例第12條第1項、第5項所稱「一定規模」以上之建築物為「供公眾使用建築物申請開挖地下室者」，應於放樣勘驗前由起造人及承造人向鑑定單位申請鄰房現況鑑定。\r\n(二) 前開情形鄰房現況鑑定範圍，為基礎開挖深度，一倍距離內之建築物，其鑑定報告應於申報放樣勘驗時檢附。\r\n二、檢附本府工務局113年1月30日南市工管一字第1130139812號公告1份供參。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=646d40ff-c79c-4e93-a38a-429f32ded0a8",
+            "FileName": "4-3定工務議提218號案-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f4f41459-dbda-4deb-b84c-185b466beda7&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/08\/19",
+    "ExecuteReNumber": "府工管一字第 1131146863號",
+    "ExecuteReMemo": "本府就「建請市政府應將「強制要求鄰房現況鑑定」納入法規」案，敬答覆如下：\r\n一、關於臺南市建築爭議事件處理及評審自治條例第12條檢討修正一案，說明如下：\r\n(一) 據本府工務局113年1月30日南市工管一字第1130139812號公告所示，臺南市建築爭議事件處理及評審自治條例第12條第1項、第5項所稱「一定規模」以上之建築物為「供公眾使用建築物申請開挖地下室者」，應於放樣勘驗前由起造人及承造人向鑑定單位申請鄰房現況鑑定。\r\n(二) 前開情形鄰房現況鑑定範圍，為基礎開挖深度，一倍距離內之建築物，其鑑定報告應於申報放樣勘驗時檢附。\r\n二、檢附本府工務局113年1月30日南市工管一字第1130139812號公告1份供參。",
     "ErrorMessage": ""
 }

@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "85",
+        "OrgTitle": "李宗翰",
+        "CaseCause": "建請市府訂定標準，要求道路新設時交通局需要介入的工程標準。",
+        "ProNo": "e7b71b1f-d83a-484d-9a69-056b561240bb",
+        "PagesAll": "35"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "86",
         "OrgTitle": "李宗翰",
         "CaseCause": "建請市府重新評估Ubike設點。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "蔡淑惠",
         "CaseCause": "南區新建路13巷人行道破損，恐影響行人安全，建請市府編列預算予以整修，以維護行人的安全。",
         "ProNo": "3874696e-9a9d-4aca-9a9a-7ffbb74c619a",
-        "PagesAll": "35"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "56",
-        "OrgTitle": "蔡淑惠",
-        "CaseCause": "南區新建路15巷人行道破損，恐影響行人安全，建請市府編列預算予以整修，以維護行人的安全。",
-        "ProNo": "872ed4e9-7c5b-4fc6-8249-55325e33f857",
         "PagesAll": "35"
     }
 ]

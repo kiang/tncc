@@ -3,6 +3,17 @@
         "DoneDate": "2023\/03\/30",
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "12",
+        "OrgTitle": "林美燕、沈家鳳",
+        "CaseCause": "建請市府針對台南市的民間自組樂團每年舉辦一場比賽，透過比賽能夠增加彼此交流與學習，而且讓臺南市民了解這些樂團。",
+        "ProNo": "7e2d1325-d3f7-43b2-aa3d-4345b2b4534a",
+        "PagesAll": "35"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "建設",
         "KidTitle": "專案報告-專案報告",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府觀光旅遊局",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林美燕",
         "CaseCause": "建請臺南市政府急速修繕運河路上人行步道。",
         "ProNo": "d2e91176-e976-49f3-b567-2875ee273f19",
-        "PagesAll": "35"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "58",
-        "OrgTitle": "林美燕",
-        "CaseCause": "建請臺南市政府全面檢討行道樹植栽遮蔽轉角視野之問題並妥善規劃。",
-        "ProNo": "f553834f-c9c7-42db-af4a-a00d16d929e1",
         "PagesAll": "35"
     }
 ]

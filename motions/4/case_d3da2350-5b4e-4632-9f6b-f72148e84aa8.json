@@ -10,8 +10,8 @@
     "CaseCause": "臺南市政府推動「新市地區鐵路立體化可行性研究」，為利後續提報中央審議，謹請貴會同意本案規劃成果並出具同意函，敬請審議。",
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依「鐵路平交道與環境改善建設及周邊土地開發計畫審查作業要點」（以下簡稱作業要點）辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本府因應地方民意自110年重新啟動本案可行性研究，經綜整評估工程可行性、財務及經濟效益，以「新市地區鐵路短高架立體化並配合北移新市車站」為可行方案，鐵路高架路段南端起自高鐵橋下，北至南科站南側恢復平面，總長約4.6公里，車站北移約2公里，沿線可消除5處平交道及1處車行涵洞，總經費142.37億元。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案經費依相關規定初步計算，中央補助60.18%（85.68億元），地方配合款39.82%(56.7億元)（後續依行政院核定綜合規劃內容為準）。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案本府已完成可行性研究報告，依作業要點規定，可行性研究報告提送中央需出具議會同意函及允諾於相對應預算年度籌編相對比例之配合款，爰請貴會同意。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"本案業經本府113年7月23日第656次市政會議通過。\",\"children\":[]},{\"order\":\"六、\",\"content\":\"檢附本案計畫概述及精簡版報告供參。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意本案規劃成果及後續地方經費配合事宜，以利後續提報中央審議。\"}]",
-    "CheckDate": "",
-    "CheckDesc": "",
+    "CheckDate": "2024\/08\/19",
+    "CheckDesc": "聯席審查意見：同意辦理。",
     "DoneDate": "",
     "DoneDesc": "",
     "SendDate": "",
@@ -36,7 +36,13 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d3da2350-5b4e-4632-9f6b-f72148e84aa8&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4035e16d-c21e-4d00-b680-0a36fee54566",
+            "FileName": "113.0819臺南市新市地區鐵路立體化可行性研究-議會同意函說明簡報final.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "2024\/08\/05",
     "ReDesc": "",
