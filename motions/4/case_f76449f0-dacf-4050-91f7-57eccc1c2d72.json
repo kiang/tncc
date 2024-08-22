@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 臨時會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "16",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "周奕齊、陳皇宇、Ingay Tali 穎艾達利、陳怡珍、林冠維、李中岑、周麗津",
+    "CaseCause": "建請市府盡速完成新市區永就里永新活動中心地坪及樓梯修復工程。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據當地民眾陳情辦理，此建築物年久失修之前地震加上連日大雨造成活動中心後門地板凹陷易積水，連接停車場樓梯嚴重傾斜。活動中心前無障礙坡道既有車道地坪損壞，造成居民活動空間有安全疑慮。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請市府盡速修復，以保證民眾安全。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/08\/20",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2024\/08\/22",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c166f712-3146-4f70-bc1c-8e92cf738154",
+            "FileName": "4-6臨議提305(新市永新活動中心地坪及樓梯圖示).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f76449f0-dacf-4050-91f7-57eccc1c2d72&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "3",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "曾之婕",
+    "OrgTitle2": "周麗津、蔡宗豪、陳怡珍、李中岑、Ingay Tali 穎艾達利、李偉智",
+    "CaseCause": "建請將東區崇明路、原臺南榮譽國民之家舊址，所規劃之「停28」基地區域，興建多功能大樓，並納入立體停車場、東區運動中心、東區區公所、戶政事務所及忠孝里活動中心同時進駐，以利便民。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"原榮家遷移後舊址，交通局分配到「停28」區域，地坪4,605平方公尺，開發總樓板面積35,000平方公尺（10,578坪），多功能放寬比例可至45%，興建多功能大樓可提升土地使用效益。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"交通局目前規劃可畫設停車格位汽車450席、機車500席、商場、國民運動中心場館、機關辦公廳舍、及社教設施等公共服務樓層空間。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"經與都發局、地政局、交通局及體育局研議後會勘，認為興建多功能大樓為最合宜方式。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"東區區公所、戶政事務所及忠孝里活動中心可同時納入，以符合便民作為。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"請儘速規劃辦理。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如說明。\"}]",
+    "CheckDate": "2024\/08\/20",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2024\/08\/22",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2d1f0aa8-6353-4f10-a9a7-edac00054b29",
+            "FileName": "曾之婕-原榮家舊址改建停車場多功能大樓.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=47493925-7367-437b-99b1-4fa5481f329f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "13",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "周奕齊、陳怡珍、陳皇宇、林冠維、周麗津、Ingay Tali 穎艾達利、李中岑",
+    "CaseCause": "建請市府規劃新化區體育公園槌球場為寵物公園。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"新化區體育公園槌球場目前尚未建置其他運動場館，為了場地能充分利用，且讓居民能攜帶寵物做休閒、運動之用，請市府規劃為暫時遛狗場。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/08\/20",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2024\/08\/22",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=47a971e7-644b-4907-9367-0f1d29afbf30",
+            "FileName": "附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=16175745-2878-4ddb-acd2-af429996b4d5&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

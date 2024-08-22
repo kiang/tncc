@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "5",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡蘇秋金",
+    "OrgTitle2": "李宗霖、黄肇輝、陳秋宏、黃麗招、沈震東、楊中成、周嘉韋",
+    "CaseCause": "佳里區福松宮南方左側水利溝(佳化段983地號)，農田水利署完成矩型溝後補邊工程，夯實工序不確實，以至於道路多處坍塌。請地政局函轉農田水利署反應，請確實施工、避免二次施工浪費公帑。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"佳里區福松宮南方左側水利溝(佳化段983地號)，農田水利署完成矩型溝後補邊工程，夯實工序不確實，以至於道路多處坍塌(如圖所示)。影響民眾通行安全甚鉅，每每還須市府編列經費改善。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請地政局函轉農田水利署反應，請確實施工、避免二次施工浪費公帑。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/08\/20",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2024\/08\/22",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d193c7fb-02fb-4ea3-94e8-d1b7c978c33a",
+            "FileName": "附件..pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e23beb06-c27f-4bc1-b50b-5b1ada58c580&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
