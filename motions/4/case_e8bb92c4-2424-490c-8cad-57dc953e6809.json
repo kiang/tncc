@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "4",
+    "KidTitle": "查照\/備查案-法規查照案",
+    "ComeDate": "2024\/05\/23",
+    "ComeNumber": "府民人字第1130711304號",
+    "OrgTitle": "臺南市政府民政局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「台南巿東山區公所編制表」",
+    "Content": "",
+    "Method": "",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d50ec39a-066d-4e0d-8887-7b82e5107034",
+            "FileName": "4-4定-法規查照4-修正台南巿東山區公所編制表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e8bb92c4-2424-490c-8cad-57dc953e6809&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
