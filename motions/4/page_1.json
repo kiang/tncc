@@ -926,6 +926,83 @@
     {
         "DoneDate": "2024\/08\/22",
         "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "1",
+        "OrgTitle": "王家貞",
+        "CaseCause": "帶狀疱疹會產生終身神經痛，造成的傷害非常大，提供「帶狀疱疹」疫苗補助，以保障市民的健康，降低患病的傷害及其後遺症。",
+        "ProNo": "d7d750c7-227c-495f-8e01-cc478655be65",
+        "PagesAll": "36"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "王家貞",
+        "CaseCause": "建請市政府完善規劃做好防範自殺的措施及方案，以降低民眾自殺機率，減少憾事發生。",
+        "ProNo": "d3247c08-af36-4cc3-ba65-fdf33bfc2231",
+        "PagesAll": "36"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "3",
+        "OrgTitle": "王家貞",
+        "CaseCause": "市政府衛生局是否可進行協調各地醫療診所開放提供公費肺炎疫苗施打，以利年長者縮短排隊接種的時間，並降低因久候的不適感。",
+        "ProNo": "e5a16630-8887-494d-a18d-94635374cfbc",
+        "PagesAll": "36"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "4",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請市府苦民所苦，放寬補助標準及補助對象，讓一般住户及商家可申請屋內淹水補助，並調高補助金額，減少民眾財產損失。",
+        "ProNo": "1d467085-06e2-4883-8619-01eef123cd4b",
+        "PagesAll": "36"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "5",
+        "OrgTitle": "陳怡珍、Ingay Tali 穎艾達利、趙昆原、林冠維",
+        "CaseCause": "有關臺南市居家式托育人員準公共化托育服務收費規定到宅托育人員上限兩萬四千元不合理乙案，本席建請臺南市政府應儘速評估改善。",
+        "ProNo": "0bdad896-3d75-4eff-8dc1-38436a0e6dba",
+        "PagesAll": "36"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "6",
+        "OrgTitle": "余柷青、邱莉莉、林志展、李文俊",
+        "CaseCause": "建議新化舊果菜市場現址興建衛福大樓將3樓空間規劃為親子悠遊館。",
+        "ProNo": "788ea028-6edb-478b-bbdf-82c1cf658cf2",
+        "PagesAll": "36"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "7",
+        "OrgTitle": "吳通龍",
+        "CaseCause": "建請市府正視社區民眾福利，全額補助台南市官田區東西庄活動中心加裝冷氣機，落實台南成為社會福利友善的溫暖城市。",
+        "ProNo": "57c27517-3aff-4ffa-9a71-81a5e120f19a",
+        "PagesAll": "36"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
         "PTypTitle": "建設",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
@@ -1001,7 +1078,7 @@
         "PagesAll": "36"
     },
     {
-        "DoneDate": "2024\/08\/28",
+        "DoneDate": "2024\/08\/22",
         "GradeTime": "第4屆 第6次 臨時會",
         "PTypTitle": "建設",
         "KidTitle": "議員提案-一般提案",
@@ -1012,7 +1089,7 @@
         "PagesAll": "36"
     },
     {
-        "DoneDate": "2024\/08\/28",
+        "DoneDate": "2024\/08\/22",
         "GradeTime": "第4屆 第6次 臨時會",
         "PTypTitle": "建設",
         "KidTitle": "議員提案-一般提案",
@@ -1020,83 +1097,6 @@
         "OrgTitle": "王家貞",
         "CaseCause": "市府將台南東區平實公園內原設有玻璃屋項的長廊，文化局以「閒置空間」為由改建，並出租做為麵包店及咖啡廳使用。此長廊的改建，實則是將兒童玩耍、臨時避風避雨的空間給予消滅。",
         "ProNo": "5f0d48c6-00a4-40d2-8288-dfffe1406c32",
-        "PagesAll": "36"
-    },
-    {
-        "DoneDate": "2024\/08\/28",
-        "GradeTime": "第4屆 第6次 臨時會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "3",
-        "OrgTitle": "鄭佳欣",
-        "CaseCause": "建請市府於歸仁圖書館裝設室內中央空調，室內因地震造成牆壁龜裂盼請市府修繕。",
-        "ProNo": "ddd8c6db-7448-4314-b818-64e20608faf5",
-        "PagesAll": "36"
-    },
-    {
-        "DoneDate": "2024\/08\/28",
-        "GradeTime": "第4屆 第6次 臨時會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "4",
-        "OrgTitle": "鄭佳欣",
-        "CaseCause": "建請市府規劃仁德二空新村室内市集或設立遮陽。",
-        "ProNo": "9820fd2e-2f3a-4eac-af62-23d07353eff8",
-        "PagesAll": "36"
-    },
-    {
-        "DoneDate": "2024\/08\/28",
-        "GradeTime": "第4屆 第6次 臨時會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "5",
-        "OrgTitle": "郭鴻儀",
-        "CaseCause": "建請市府研議於歸仁區沙崙智慧綠能科學城區域內，設市立圖書館分館，以健全園區内生活機能，吸引人才遷入。",
-        "ProNo": "6e027281-7226-4bed-93e5-244a783e205f",
-        "PagesAll": "36"
-    },
-    {
-        "DoneDate": "2024\/08\/28",
-        "GradeTime": "第4屆 第6次 臨時會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "蔡麗青",
-        "CaseCause": "建請重建安南區圖書館，以利提升民眾閱讀空間品質。",
-        "ProNo": "b6cf4b91-c5eb-4b53-bcb2-134af1301f5b",
-        "PagesAll": "36"
-    },
-    {
-        "DoneDate": "2024\/08\/28",
-        "GradeTime": "第4屆 第6次 臨時會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "7",
-        "OrgTitle": "蔡麗青",
-        "CaseCause": "建請將「台南-小港機場快線」延伸至安南區，以利台南市未來發展。",
-        "ProNo": "ea4470e5-8c28-4ff9-a371-1ad55a0a9297",
-        "PagesAll": "36"
-    },
-    {
-        "DoneDate": "2024\/08\/28",
-        "GradeTime": "第4屆 第6次 臨時會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "8",
-        "OrgTitle": "陳怡珍",
-        "CaseCause": "有關臺南機場國際航班遲未復飛越南胡志明乙案，本席建請臺南市政府應儘速爭取復航。",
-        "ProNo": "202b81e0-7fa8-4628-b6a8-74f6a237241b",
-        "PagesAll": "36"
-    },
-    {
-        "DoneDate": "2024\/08\/22",
-        "GradeTime": "第4屆 第6次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府消防局",
-        "CaseCause": "行政院核定「充實直轄市、縣（市）消防機關外勤消防人員個人救災裝備器材中程計畫」，為爭取時效，謹請貴會同意先行墊付新臺幣6,000萬元案（中央全額補助），俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
-        "ProNo": "2d758d91-0fc4-40a8-a9fd-d298af875694",
         "PagesAll": "36"
     }
 ]
