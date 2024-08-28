@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "51",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "周奕齊、陳怡珍、陳皇宇、林冠維、周麗津、Ingay Tali 穎艾達利、李中岑",
+    "CaseCause": "建請市府規劃新化區正新路363巷京都大樓前大排改善計畫。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"依據新化區人民陳情辦理，此區域遇到強降雨，無法有效排出，導致此區域積水嚴重，建請市府重新規劃排水系統，以保障民眾安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/08\/20",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2024\/08\/22",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7bdd6b64-f366-43b6-a697-abf2a2485b67",
+            "FileName": "4-6臨工務議提51附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7e11e7ed-d198-4d44-bc0c-55f92925a864&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

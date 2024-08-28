@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "10",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "曾之婕、周奕齊",
+    "OrgTitle2": "李偉智、鄭佳欣、李中岑、蔡宗豪、Ingay Tali 穎艾達利、陳怡珍、盧崑福、趙昆原、周麗津、林冠維",
+    "CaseCause": "建請針對本市行道樹(路樹)進行全面巡檢及加固，以降低倒塌或斷枝釀成的風險顧慮。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本市今年7月24日至26日凱米颱風來襲期間，工務局統計接獲361件以上路樹倒塌與傾斜通報，因體積龐大壓毀附近車輛，並阻斷交通。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"目前本市行道樹普遍種植已年代久遠，由於種植地基長久沖刷、或不當修剪、或受病蟲害影響，隨時可能有倒塌的風險顧慮。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"另外本市百年樹齡的老樹，平時亦未進行普查體檢。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"建請市府相關局處邀請植樹及護樹專業單位人士，進行全面巡檢並加強固定維護。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"請儘速會勘規劃辦理。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/08\/20",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/08\/22",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=898da4e9-7e77-46d7-9607-9e83c45d04e1",
+            "FileName": "20240815092736.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fa763adf-e772-4ac5-9075-f89335457974&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
