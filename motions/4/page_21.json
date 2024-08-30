@@ -2,6 +2,50 @@
     {
         "DoneDate": "2023\/08\/17",
         "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "30",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "請市政府編列經費盡速辦理「後壁區侯伯里活動中心廁所整修工程」。",
+        "ProNo": "d328c9f8-2bd8-4c44-9d2f-9c2ef2c5a843",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "31",
+        "OrgTitle": "林美燕",
+        "CaseCause": "為加強彰南里活動中心安全維護，請加裝鐵門以策安全。",
+        "ProNo": "b36fe7f5-9a39-4740-8809-68b1bd5fde1f",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "32",
+        "OrgTitle": "郭鴻儀",
+        "CaseCause": "建請市府教育局於局內設置具工程背景之約用人員，以利教育局相關工程標案順利進行。",
+        "ProNo": "701e57a0-aa06-4593-a414-c9a502136439",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府經濟發展局",
+        "CaseCause": "經濟部能源局核定 「 112 年度經濟部補助直轄市及縣( 市 ) 政府辦理太陽光電申設案件審查計畫」經費新臺幣 400 萬元整一案（中央全額補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟 113 年度總預算時辦理轉正，敬請審議。",
+        "ProNo": "05f2d633-2669-4b9e-b042-1930d957842f",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
         "PTypTitle": "財經",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "3",
@@ -1053,50 +1097,6 @@
         "OrgTitle": "蔡麗青",
         "CaseCause": "建請於亞太棒球村周邊設置公車停靠站，以符未來需求。",
         "ProNo": "11660b09-bdcb-4ee4-8721-c07f51651e11",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/08\/17",
-        "GradeTime": "第4屆 第3次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "5",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "建請市府於永康區東橋地區試辦「彩色標記行穿線」，提早警示駕駛人通過路口減速慢行，提升路口整體安全。",
-        "ProNo": "91d27c9a-f5c3-45f0-9537-3e348d0e05eb",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/08\/17",
-        "GradeTime": "第4屆 第3次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "建請市府於永康區康橋段16地號用地設置立體停車場並於頂樓規劃風雨球場，做為多目標使用，發揮公有土地最大之利用價值。",
-        "ProNo": "c0e4f76d-1b9f-4e65-8240-b4fe2fecd9b2",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/08\/17",
-        "GradeTime": "第4屆 第3次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "7",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "建請市府交通局與交通部、台灣鐵路管理局協調於永康東橋里設置臨時轉運站。",
-        "ProNo": "f4078359-cf85-4977-ad0b-f4071e446d76",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/08\/17",
-        "GradeTime": "第4屆 第3次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "8",
-        "OrgTitle": "黄肇輝",
-        "CaseCause": "建請交通局於永康區育樂街180號開天宮前廣場，增設U-Bike站點。",
-        "ProNo": "f7015187-03b7-4967-9ddd-8506624e0ade",
         "PagesAll": "37"
     }
 ]

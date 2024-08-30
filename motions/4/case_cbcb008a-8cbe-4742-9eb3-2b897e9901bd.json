@@ -1,13 +1,13 @@
 {
     "GradeTime": "第4屆 第4次 定期會",
     "PTypTitle": "法規",
-    "CaseNumber": "28",
+    "CaseNumber": "30",
     "KidTitle": "查照\/備查案-法規查照案",
-    "ComeDate": "2024\/08\/27",
-    "ComeNumber": "府民生字第1131190074B號",
-    "OrgTitle": "臺南市政府民政局",
+    "ComeDate": "2024\/08\/29",
+    "ComeNumber": "府農務字第1131188959號",
+    "OrgTitle": "臺南市政府農業局",
     "OrgTitle2": "",
-    "CaseCause": "修正「臺南市墳墓遷葬補償費及救濟金發給辦法」。",
+    "CaseCause": "修正「臺南市農藥販賣業執照申請及核發辦法」。",
     "Content": "",
     "Method": "",
     "CheckDate": "",
@@ -19,13 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e2a0ec4f-2855-44b8-a267-80b813bcf89a",
-            "FileName": "4-4定-法規查照28---修正「臺南市墳墓遷葬補償費及救濟金發給辦法」.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c38eec5c-f7da-4df5-ab4a-d9ddbba2f214",
+            "FileName": "4-4定-法規查照30---修正「臺南市農藥販賣業執照申請及核發辦法」.pdf",
             "ErrorMessage": ""
         }
     ],
     "RAttList": [],
-    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4d31f323-128f-4f09-b4b3-aa861aeadb0a&type=pdf",
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=cbcb008a-8cbe-4742-9eb3-2b897e9901bd&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
     "ReDate": "",

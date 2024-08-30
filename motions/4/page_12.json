@@ -4,6 +4,50 @@
         "GradeTime": "第4屆 第5次 臨時會",
         "PTypTitle": "民政教育",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "24",
+        "OrgTitle": "黄肇輝",
+        "CaseCause": "建請市府辦理永康區成功里中華一路1巷巷道改善工程，以保障民眾通行之安全。",
+        "ProNo": "9ef9a69c-783f-4f3c-a6ab-ea03b7b6a13c",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "25",
+        "OrgTitle": "黄肇輝",
+        "CaseCause": "建請市府儘速規劃永康區西橋里、大灣里活動中心，以利該里里民有適當之活動與集會場所。",
+        "ProNo": "ac5bdfb7-141e-4fd5-9a11-856c5cd732d0",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "26",
+        "OrgTitle": "李偉智",
+        "CaseCause": "因目前新化區-護國、東榮兩里仍未有活動中心，建議於新化果菜市場舊址興建衛生、社會局聯合大樓時，共同辦理興建，供里民活動使用。",
+        "ProNo": "fffaa1d2-bdcb-4254-9356-c6cfce6678d4",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "27",
+        "OrgTitle": "李偉智",
+        "CaseCause": "建請市府擴增新化懷恩堂納骨塔櫃位，以利民眾安奉先人使用。",
+        "ProNo": "c7f3c2f7-0072-4468-9181-c87b32a280cf",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "28",
         "OrgTitle": "李宗霖",
         "CaseCause": "建請市府積極籌辦228、313紀念日之「轉型正義」系列活動，讓更多市民了解紀念日背後之實質意義，進而推動落實轉型正義。",
@@ -1053,50 +1097,6 @@
         "OrgTitle": "李宗霖",
         "CaseCause": "建請市府優先於本市東區東寧路（東寧路西段至裕農路）開放直接左轉，以減少左轉車與直行車輛衝突。",
         "ProNo": "578f3cce-1d3c-4210-9a2f-59eb25b05447",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "22",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府優先於本市東區大同路（東門圓環至中華南路）開放直接左轉，以減少左轉車與直行車輛衝突。",
-        "ProNo": "a4fd7b0e-a17a-4013-809a-2164c743fe9d",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "23",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府規劃研議從台南火車站到學甲區的直達公車路線，節省民眾等待與轉乘的時間。",
-        "ProNo": "49dc98a8-1022-489e-9f43-b16078e9d065",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "24",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府取消四維地下道及東寧地下道「禁行機慢車」，供機車直接通行，轉移原東寧路西段平面道路之車流至地下道行駛，並於平面道路增設人行空間，以增加道路效率、維護道路平權及行人安全。",
-        "ProNo": "3a341f6e-35c2-4453-831c-fffddeef2b06",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府工務局",
-        "CaseCause": "內政部核定本府辦理「兒童遊戲場環境設施改善計畫」總經費為新臺幣1億2,501萬6,000元(中央補助款為8,596萬9,000元，市配合款為3,904萬7,000元)乙案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年總預算時辦理轉正，敬請審議。",
-        "ProNo": "81311ddb-5a87-45f2-b9a1-cf67394b263f",
         "PagesAll": "37"
     }
 ]
