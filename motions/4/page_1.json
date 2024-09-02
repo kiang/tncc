@@ -13,6 +13,17 @@
     {
         "DoneDate": "",
         "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-總預算案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府主計處",
+        "CaseCause": "本市114年度總預算案及總預算案附屬單位預算及綜計表，業經編製完竣，敬請 審議。",
+        "ProNo": "c3d774ad-f899-4c97-b8b4-45060964f3be",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "環保衛生",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "陳怡珍、Ingay Tali 穎艾達利、趙昆原、林冠維",
         "CaseCause": "有關臺南市居家式托育人員準公共化托育服務收費規定到宅托育人員上限兩萬四千元不合理乙案，本席建請臺南市政府應儘速評估改善。",
         "ProNo": "0bdad896-3d75-4eff-8dc1-38436a0e6dba",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2024\/08\/22",
-        "GradeTime": "第4屆 第6次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "余柷青、邱莉莉、林志展、李文俊",
-        "CaseCause": "建議新化舊果菜市場現址興建衛福大樓將3樓空間規劃為親子悠遊館。",
-        "ProNo": "788ea028-6edb-478b-bbdf-82c1cf658cf2",
         "PagesAll": "37"
     }
 ]
