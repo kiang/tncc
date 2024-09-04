@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第5次 臨時會",
         "PTypTitle": "民政教育",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "16",
+        "OrgTitle": "王宣貿",
+        "CaseCause": "建請教育局研議加強宣導，提升學齡前後兒童正確握筆姿勢。",
+        "ProNo": "31f9e49f-edd8-4193-91e2-84f17f4d48ca",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "17",
+        "OrgTitle": "李偉智",
+        "CaseCause": "建請市府提升學生接送安全與車輛品質，應加速汰換年限久遠之學童接送車輛。",
+        "ProNo": "482f1ec6-63ab-4e22-9733-36c42b326ef9",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "18",
         "OrgTitle": "沈家鳳",
         "CaseCause": "建請市府將本市公立學校附幼之班級數應納入每校護理人員之員額計算。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "李宗霖",
         "CaseCause": "建請市府取消本市北區民德路（全段）內線禁行機車並開放直接左轉，以減少左轉車與直行車輛衝突。",
         "ProNo": "898b25f9-4e49-4da0-b0ea-eff8ce595e1a",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "14",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府優先於本市北區─中西區臨安路（全段）取消內線禁行機車並開放直接左轉，以減少左轉車與直行車輛衝突。",
-        "ProNo": "bdff6954-fa29-43aa-afd6-f90762719664",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "15",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府優先於本市東區裕農路（後甲圓環至裕農路979巷）取消內線禁行機車並開放直接左轉，以減少左轉車與直行車輛衝突。",
-        "ProNo": "4d959677-dfe1-44d5-9b3f-b0d4d9e3ab83",
         "PagesAll": "37"
     }
 ]

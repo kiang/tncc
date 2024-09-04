@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2024\/09\/03",
+    "ComeNumber": "府衛國健字第1132004413號",
+    "OrgTitle": "臺南市政府衛生局",
+    "OrgTitle2": "",
+    "CaseCause": "擬具「臺南市新型菸品危害防制自治條例」部分條文修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為因應菸害防制法112年2月15日修正公布，將禁止吸菸年齡提高至20歲，並有條件開放指定菸品，爰擬具本自治條例部分條文修正草案，修正重點如下：\",\"children\":[]}]},{\"tag\":\"p\",\"content\":\"(1)配合菸害防制法提高禁止吸菸年齡至20歲，修正禁菸年齡。（修正條文第三條、第五條、第六條、第八條、第九條及第十一條）。\"},{\"tag\":\"p\",\"content\":\"(2)配合菸害防制法有條件開放指定菸品，定明經同法第七條核定通過之指定菸品可開放使用。（修正條文第四條）。\"},{\"tag\":\"p\",\"content\":\"二、本案業經本府113年9月4日第662次市政會議審議通過。\"},{\"tag\":\"p\",\"content\":\"三、檢附「臺南市新型菸品危害防制自治條例」部分條文修正草案總說明、修正草案條文對照表及修正草案條文。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7113880c-0d17-4575-9266-7fc4205e98a0",
+            "FileName": "4-4定--法規市提1-「臺南市新型菸品危害防制自治條例」修正草案-總說明、修正對照表及修正條文.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=eee8418b-39bb-45c3-b1da-7b4096adc3aa&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

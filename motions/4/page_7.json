@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "建設",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "吳禹寰",
+        "CaseCause": "建請市府針對「臺南市空地空屋管理自治條例」第四條第一項雜草長度從100公分下修至50公分，並加強高罰金，減少飛火可能。",
+        "ProNo": "9183df6d-21b8-4f46-9249-f4cf850f97b4",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "3",
+        "OrgTitle": "吳禹寰",
+        "CaseCause": "建請市府提供關廟區尚未徵收都市計畫公共設施相關資訊如要徵收或土地歸還地主。",
+        "ProNo": "d23615c7-f1ec-436a-945d-bda040dd6864",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "4",
         "OrgTitle": "李鎮國",
         "CaseCause": "建議市府增加各區文化社教中心Wi-Fi設置。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府針對公車等候亭之照明設備全面檢復。",
         "ProNo": "daa4f06f-ff18-4d59-ab71-289dfc6c9f2d",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "67",
-        "OrgTitle": "楊中成",
-        "CaseCause": "增設臺南市南區殯葬所You-Bike設置點。",
-        "ProNo": "92ebeb8f-1794-48f9-93b6-f5a0517ad44f",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "68",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請交通局定期與交通領域相關的專家學者、公民團體開會聽取相關交通意見。",
-        "ProNo": "5147ac8b-ed44-49d5-b4f5-895c544b07e4",
         "PagesAll": "37"
     }
 ]

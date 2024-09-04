@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "104",
+        "OrgTitle": "黃麗招",
+        "CaseCause": "建請將台江大道至北外環慶和橋與安順大排三路路口號誌連線。",
+        "ProNo": "cb4726f1-5c30-49ac-b3b4-1e713fdbeefc",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "105",
+        "OrgTitle": "黃麗招",
+        "CaseCause": "建請調整黃金海岸附近的濱海公路限速。",
+        "ProNo": "2a4089e8-e5b6-4aab-af62-e9f2eeb1d8f1",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "106",
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府針對路面標線之工法更改為噴漆式。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "請改善市道165線官田區烏山頭至六甲市區道路，路面破損龜裂、凹凸不平，急須辦理改善，以利交通。(第3屆第7次定期會提案)",
         "ProNo": "598a29f1-6548-4d94-b6ce-4790ffd00d35",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "75",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請改善六甲工研路(自市道138線仙公廟口至市道174線臺南監獄止)，因路面年久失修，破損龜裂、凹凸不平，急須辦理改善，以利交通。(第3屆第7次定期會提案)",
-        "ProNo": "7e7acc86-fd39-4af6-9a21-763672645852",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "76",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請改善市道165線中正路(復興街路口至民族街路口)，因年久未修，路面破損龜裂、老化，急須辦理，以利交通。(第3屆第8次定期會提案)",
-        "ProNo": "cee01b4e-b4ff-48e8-a3eb-424834da0b83",
         "PagesAll": "37"
     }
 ]
