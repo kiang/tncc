@@ -17,7 +17,18 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4a2ac3bc-80b1-4516-a4cd-6977c725de52",
+            "FileName": "34752_2022202A00_ATTCH2.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e0f73336-2115-41ac-911d-3f4dc23b66ab",
+            "FileName": "34752_2022202A00_ATTCH3.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1236e35f-2e75-44b7-aa02-1b059687f7b8&type=pdf",
     "CheckAttList": [],

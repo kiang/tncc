@@ -17,7 +17,13 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=23a61846-5876-47f5-af1c-269f36326e5e",
+            "FileName": "4-4定 環衛市提1號案附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b51f21e8-c053-485b-bac8-ca527f7222bf&type=pdf",
     "CheckAttList": [],
