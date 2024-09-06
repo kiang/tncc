@@ -22,6 +22,11 @@
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0aacfae5-c233-4240-9a3e-6b19b340fd23",
             "FileName": "提案10-中央核定公文及說明.pdf",
             "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b5a803b6-218e-465a-9564-eb90a43fc645",
+            "FileName": "財經市提10-補充資料.pdf",
+            "ErrorMessage": ""
         }
     ],
     "RAttList": [],

@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第5次 臨時會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "6",
+        "OrgTitle": "黄肇輝",
+        "CaseCause": "建請市府交通局辦理永康區富強路二段278巷與298巷路口標線改善工程，以保障民眾通行之安全。",
+        "ProNo": "3dead3a3-d789-4116-b209-dffa7bf42dd6",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "7",
         "OrgTitle": "余柷青",
         "CaseCause": "建請臺南市政府辦理新化區「永新社區路外停車場柏油鋪面改善工程」，以確保停車場使用者的安全。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市議會本會",
         "CaseCause": "檢送本會112年第2季辦理政策及業務宣導之執行情形表，提請備查。",
         "ProNo": "2cbf25ac-7a2e-4e0f-aab3-fb88a45a77cb",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "查照\/備查案-一般備查案",
-        "CaseNumber": "2",
-        "OrgTitle": "臺南市議會本會",
-        "CaseCause": "檢送本會112年第3季辦理政策及業務宣導之執行情形表，提請備查。",
-        "ProNo": "8b2c6c17-1194-40ae-8c05-ab35c9759ffb",
         "PagesAll": "37"
     }
 ]

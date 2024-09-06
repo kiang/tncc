@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2024\/09\/05",
+    "ComeNumber": "府文秘字第1132004663號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送「臺南市美術館114年度預算書」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據臺南市美術館設置自治條例第二十八條第二項：「政府機關核撥之經費超過本館當年度預算收入來源百分之五十者，應由監督機關將本館年度預算書，送臺南市議會審查。」\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本預算書業於113年6月26日經臺南市美術館董監事聯席會審議。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府113年9月5日第662次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bc404a86-bde4-4d12-8fb7-0df25180c2d4",
+            "FileName": "市提5-美術館114年度預算書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=da390d94-901c-4018-a269-6b67133217c6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
