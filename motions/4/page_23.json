@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第3次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "59",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府工務局儘速在新市區民族路(新市分駐所起至省道台一線)，進行柏油路面改善工程，保障人車通行安全。",
+        "ProNo": "f14edfa9-41a1-4788-8e9a-44ff5f4b1f86",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "60",
+        "OrgTitle": "林依婷",
+        "CaseCause": "有鑑於交通部觀光局宣布2024臺灣燈會在臺南，周邊相關基礎建設如路面整平等作業，宜提早檢修與鋪整。",
+        "ProNo": "7f32565b-c41e-4869-ab27-448af57eb1bd",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "61",
         "OrgTitle": "林依婷",
         "CaseCause": "經查：8\/10(四)由於急降雨，時雨量達70mm，經民眾反映健康路三段側溝嚴重堵塞，排水不良(如附圖)，建請相關單位進行研擬改善。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府單位重視臺南市永華國民運動中心泳池更衣室地面之完善性。",
         "ProNo": "72ba0f6b-825d-40e0-bc30-2171dc144dfa",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "43",
-        "OrgTitle": "林燕祝、方一峰、尤榮智",
-        "CaseCause": "建請市府體育局規劃設計新建多功能室內綜合體育館。",
-        "ProNo": "34dafa80-ee52-4fba-94c1-cfe7446a5995",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "44",
-        "OrgTitle": "王宣貿",
-        "CaseCause": "建請市府於白河區增設風雨球場，以增加市民運動空間，提升市民運動風氣。",
-        "ProNo": "54306290-38c6-42ef-8a83-efe8fae1bb7b",
         "PagesAll": "37"
     }
 ]

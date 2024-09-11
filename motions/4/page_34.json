@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "7",
+        "OrgTitle": "李宗翰、周嘉韋、林依婷",
+        "CaseCause": "關於雜草火警，建請消防局能協助民政局鑑識，並調整招標規範。",
+        "ProNo": "8b4be1e9-595f-4089-b674-e2994a819d97",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "8",
+        "OrgTitle": "李宗翰、周嘉韋",
+        "CaseCause": "考量現況基層人力不足，建請將休息時間作為超勤時數。",
+        "ProNo": "1de1c5ef-d7fb-479a-8c70-c794c25008a5",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "9",
         "OrgTitle": "趙昆原",
         "CaseCause": "建請臺南市政府消防局增加義消訓練場所地點，並顧及區域平衡，讓山區的新進義消人員免於路途奔波辛苦。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "建請市府維護巴克禮公園夢湖生態。",
         "ProNo": "5ded2420-1f18-4fbf-ac42-b769a78503a0",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "67",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請市府重鋪東門路二段365巷路面。",
-        "ProNo": "4032cf25-04cd-4231-a2a6-d0ea18a8aebe",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "68",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請市府重新整頓東區忠孝公園。",
-        "ProNo": "3d0205ef-fe8e-4750-a206-d03c32b7754a",
         "PagesAll": "37"
     }
 ]

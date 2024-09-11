@@ -1,5 +1,27 @@
 [
     {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "專案報告-專案報告",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "「籌辦2024臺南400年期中報告」專案報告",
+        "ProNo": "b29c37a1-7056-445b-bb87-5f8d24ec9be4",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府交通局",
+        "CaseCause": "交通部核定院頒「道路交通秩序與交通安全改進方案」112年度道路交通安全工作執行計畫，總經費新臺幣880萬元整(中央補助款新臺幣440萬元整、市配合款新臺幣440萬元整)，因未及納入本局112年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+        "ProNo": "4bb3ece5-90ea-443f-b340-170c8a96cfe3",
+        "PagesAll": "37"
+    },
+    {
         "DoneDate": "2023\/07\/04",
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "保安",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "建請臺南市新設公車站牌-採太陽能智慧型站牌。",
         "ProNo": "8b396c3b-8864-494c-9c38-a9ad19fd857c",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "94",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "增設東區Youbike站點：1.大學路、長榮路口；2.大學路、林森路口；3.裕農路慈幼高工。",
-        "ProNo": "03583bcc-cdb0-4af2-a578-e0ead7facf99",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "95",
-        "OrgTitle": "朱正軒",
-        "CaseCause": "優化本市綠色低碳遊憩環境，建請交通局將奇美博物館與台灣歷史博物館間的雙館自行車道，串聯台南市總圖書館，升級為三館自行車道。",
-        "ProNo": "d6187e84-a331-43cf-945c-9e21b14b2ab6",
         "PagesAll": "37"
     }
 ]

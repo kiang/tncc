@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第6次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "42",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請辦理六甲區信義街349巷14弄道路側溝新建工程，該路段現況道路排水設施急需辦理改善，以利排水，杜絕淹水問題。",
+        "ProNo": "73f520e8-ecde-430b-8e94-a36894c80f2e",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "43",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請辦理六甲區甲東里裕農街及264巷路面改善工程，因年久失修，破損嚴重，急需辦理改善，以利行車安全。",
+        "ProNo": "2bce28fd-2707-4e0d-9d59-b722bddc1a67",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "44",
         "OrgTitle": "沈家鳳、沈震東、陳秋宏、朱正軒",
         "CaseCause": "凱米颱風侵襲本市，瞬間強降雨導致多處淹水災情慘重，擬請市府儘速研議防水閘門補助，保障人民生命財產安全。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "林美燕",
         "CaseCause": "建請教育局研擬全面補助本市國中小營養午餐，除可減輕家長負擔外，亦可避免經濟弱勢學生因免繳餐費被「標籤化」。",
         "ProNo": "895510de-1042-43db-9056-4ea07fa37bfe",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "44",
-        "OrgTitle": "王宣貿、余柷青、朱正軒、李宗霖",
-        "CaseCause": "建請臺南市政府編列經費於各學校增設新風換氣系統，保障學生於教室內的空氣品質。",
-        "ProNo": "a78870ee-ced9-43d2-87b4-ff594521f99a",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "45",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府教育局請各國中學校，加強宣導國中學生騎乘電動自行車安全須知，保障學童騎乘安全。",
-        "ProNo": "f01be427-a0c6-4978-b0c0-68a3195677f5",
         "PagesAll": "37"
     }
 ]

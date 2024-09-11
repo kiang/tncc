@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "72",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請市政府編列預算辦理白河區六溪里9鄰九重溪農路改善，以利農民農作安全。",
+        "ProNo": "297ab56e-dcdf-40c7-9a6e-d2742af70100",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "73",
+        "OrgTitle": "郭鴻儀",
+        "CaseCause": "建請市府研議修訂「臺南市珍貴樹木保護自治條例」，擴大珍貴樹木認定範圍。",
+        "ProNo": "8de734fb-9b54-4795-a338-fd30938ada99",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "74",
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府農業局儘速在新市區社內里新港社大道130號前，進行農路改善工程，保障人車通行安全。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "臺南市政府文化局",
         "CaseCause": "檢送「臺南市美術館113年度預算書」，敬請審議。",
         "ProNo": "2d8a8198-89c1-41c6-9372-d3678ea018f0",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/12\/21",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "建設",
-        "KidTitle": "市府提案-一般提案",
-        "CaseNumber": "3",
-        "OrgTitle": "臺南市政府文化局",
-        "CaseCause": "檢送本市「財團法人台南市文化基金會113年度預算書」敬請審議。",
-        "ProNo": "cd1a70ef-6d40-4d6b-bd28-19e11dbb2e2c",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/12\/21",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "建設",
-        "KidTitle": "市府提案-一般提案",
-        "CaseNumber": "4",
-        "OrgTitle": "臺南市政府文化局",
-        "CaseCause": "檢送財團法人臺南市孔廟文化基金會113年度預算書，敬請審議。",
-        "ProNo": "bdfc3f1b-c6c2-4d7d-9bf0-5ca742e420e3",
         "PagesAll": "37"
     }
 ]
