@@ -22,13 +22,18 @@
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4884d7a0-00d7-47b0-82d4-52a76d6f78df",
             "FileName": "民教2(原民會)-附件(核定函).pdf",
             "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ba4c73ba-2f73-461f-b99e-4031affd3ba5",
+            "FileName": "民教2(原民會)-附件2-補充資料.pdf",
+            "ErrorMessage": ""
         }
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ff067bc2-b874-40a6-925d-5c071d42560b&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
-    "ReDate": "",
+    "ReDate": "2024\/09\/11",
     "ReDesc": "",
     "FirstDate": "",
     "FirstDesc": "",
