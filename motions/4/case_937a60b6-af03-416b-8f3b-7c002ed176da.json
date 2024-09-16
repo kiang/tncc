@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/08\/28",
     "SendNumber": "南議工務字第 1130007574號",
-    "DoDesc": "",
+    "DoDesc": "建請市府與相關單位辦理後壁區八掌溪防汛道路（八掌二橋至菁寮堤防7K+200路段，長度約2.3公里）改善工程。說明如下：\r\n一、後壁區八掌溪防汛道路目前第五河川分署已依八掌溪治理計畫於崩埤排水2出水處（菁寮堤防7K+200）墊高至EL15m，墊高長度約30m，阻擋洪水進入新嘉社區，避免新嘉社區淹水。\r\n二、後壁區八掌溪防汛道路為水利署第五河川分署業管，屬中央管河川範園，貴會建議八掌溪防汛道路墊高，本局已於113年4月10日辦理會勘，第五河川分署表示該防汛道路可供防汛搶修正常使用尚無墊高需求。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=490d7f56-29a6-4135-8be8-69b958b4bede",
+            "FileName": "4-6臨工務議提45號案-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=937a60b6-af03-416b-8f3b-7c002ed176da&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/09\/10",
+    "ExecuteReNumber": "府水行字第 1132007793號",
+    "ExecuteReMemo": "建請市府與相關單位辦理後壁區八掌溪防汛道路（八掌二橋至菁寮堤防7K+200路段，長度約2.3公里）改善工程。說明如下：\r\n一、後壁區八掌溪防汛道路目前第五河川分署已依八掌溪治理計畫於崩埤排水2出水處（菁寮堤防7K+200）墊高至EL15m，墊高長度約30m，阻擋洪水進入新嘉社區，避免新嘉社區淹水。\r\n二、後壁區八掌溪防汛道路為水利署第五河川分署業管，屬中央管河川範園，貴會建議八掌溪防汛道路墊高，本局已於113年4月10日辦理會勘，第五河川分署表示該防汛道路可供防汛搶修正常使用尚無墊高需求。",
     "ErrorMessage": ""
 }
