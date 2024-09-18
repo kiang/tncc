@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/08\/28",
     "SendNumber": "南議工務字第 1130007579號",
-    "DoDesc": "",
+    "DoDesc": "本府就「北門區三寮灣排水溝擋土牆破損，影響排水，建請改善」案敬答覆如下：\r\n針對三光里辦公處反映三寮灣排水溝擋土牆破損，影響排水部分，經查此區段已於「112年7月杜蘇芮及8月卡努颱風北門區三寮灣排水災後復建工程」完成改善，現況無阻礙河道及影響通洪情形。\r\n另查6-1、6-2水門位於台61西濱快速道路側溝，防止將軍溪排水高漲倒灌，本局將再檢討側溝高程並考量極端氣候水文情況研議加高。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=751b3b5b-3d91-4de1-98ce-c6186e197815",
+            "FileName": "4-6臨工務議提25回函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=70bcf32d-70e6-410a-8a70-ca3612c68bb8&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/09\/16",
+    "ExecuteReNumber": "府水工字第 1132024616號",
+    "ExecuteReMemo": "本府就「北門區三寮灣排水溝擋土牆破損，影響排水，建請改善」案敬答覆如下：\r\n針對三光里辦公處反映三寮灣排水溝擋土牆破損，影響排水部分，經查此區段已於「112年7月杜蘇芮及8月卡努颱風北門區三寮灣排水災後復建工程」完成改善，現況無阻礙河道及影響通洪情形。\r\n另查6-1、6-2水門位於台61西濱快速道路側溝，防止將軍溪排水高漲倒灌，本局將再檢討側溝高程並考量極端氣候水文情況研議加高。",
     "ErrorMessage": ""
 }
