@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/08\/28",
     "SendNumber": "南議工務字第 1130007595號",
-    "DoDesc": "",
+    "DoDesc": "本府就「建請設置麻豆區蔥子寮排水港尾社區及姓陳寮社區抽水機及閘門，確保里民生命財產安全，以避免水患。」案，敬答覆如下：\r\n一、港尾及姓陳寮係位於蔥子寮排水左岸集水區，蔥子寮現況係依據麻豆排水治理計畫高採背水堤工法辦理。\r\n二、凱米期間外水高漲，社區排水無法重力排放，水利局113年8月1日委請顧問公司研議改善方案：\r\n(一)港尾社區排水主要由謝榜寮中排二向西北排入麻豆排水，研議於24號水門設置移動抽水機，並針對蔥子寮缺口-港尾社區東側橋樑護欄、麻豆排水堤後溝改善。\r\n(二)姓陳寮社區排水向東流入蔥子寮排水，研議於保玄橋設置集水井及抽水設備。\r\n三、將與地方溝通方案及協調用地後籌措經費改善。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ef3bc674-7c1a-4ff6-9cb5-104fff86f401",
+            "FileName": "4-6臨工務議提31回函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8887dc3c-e615-4b56-a953-8dbf345ecfb3&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/09\/19",
+    "ExecuteReNumber": "府水工字第 1132063480號",
+    "ExecuteReMemo": "本府就「建請設置麻豆區蔥子寮排水港尾社區及姓陳寮社區抽水機及閘門，確保里民生命財產安全，以避免水患。」案，敬答覆如下：\r\n一、港尾及姓陳寮係位於蔥子寮排水左岸集水區，蔥子寮現況係依據麻豆排水治理計畫高採背水堤工法辦理。\r\n二、凱米期間外水高漲，社區排水無法重力排放，水利局113年8月1日委請顧問公司研議改善方案：\r\n(一)港尾社區排水主要由謝榜寮中排二向西北排入麻豆排水，研議於24號水門設置移動抽水機，並針對蔥子寮缺口-港尾社區東側橋樑護欄、麻豆排水堤後溝改善。\r\n(二)姓陳寮社區排水向東流入蔥子寮排水，研議於保玄橋設置集水井及抽水設備。\r\n三、將與地方溝通方案及協調用地後籌措經費改善。",
     "ErrorMessage": ""
 }
