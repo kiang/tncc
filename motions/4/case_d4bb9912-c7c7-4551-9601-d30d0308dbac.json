@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/08\/28",
     "SendNumber": "南議工務字第 1130007604號",
-    "DoDesc": "",
+    "DoDesc": "本府就「建請於麻豆區港尾里大地莊園社區養魚排水沿線設置防洪閘門及抽水機組，以確保里民生命財產安全，以避免水患。」案，敬答覆如下：\r\n一、大地莊園位於養魚排水左岸集水區，主要透過北側道路側溝及南側聯外水路排放。\r\n二、凱米期間外水高漲，聯外水路無法重力排放，水利局已先完成大地莊園聯外水路清淤，並於113年8月1日委請顧問公司研議改善方案(養魚排水護岸缺口檢討、聯外水路及涵管設置水門、南側水路設置移抽等)，將與地方溝通後籌措經費辦理改善工程。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f997bf66-6ee6-4a5f-8581-bfc62932b5aa",
+            "FileName": "4-6臨工務議提34市府回函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d4bb9912-c7c7-4551-9601-d30d0308dbac&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/09\/20",
+    "ExecuteReNumber": "府水工字第 1132062154號",
+    "ExecuteReMemo": "本府就「建請於麻豆區港尾里大地莊園社區養魚排水沿線設置防洪閘門及抽水機組，以確保里民生命財產安全，以避免水患。」案，敬答覆如下：\r\n一、大地莊園位於養魚排水左岸集水區，主要透過北側道路側溝及南側聯外水路排放。\r\n二、凱米期間外水高漲，聯外水路無法重力排放，水利局已先完成大地莊園聯外水路清淤，並於113年8月1日委請顧問公司研議改善方案(養魚排水護岸缺口檢討、聯外水路及涵管設置水門、南側水路設置移抽等)，將與地方溝通後籌措經費辦理改善工程。",
     "ErrorMessage": ""
 }

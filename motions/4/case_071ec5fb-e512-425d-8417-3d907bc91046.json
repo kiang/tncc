@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/08\/28",
     "SendNumber": "南議工務字第 1130007591號",
-    "DoDesc": "",
+    "DoDesc": "本府就「建請增設下營區北頂中排大型抽水機組」案，敬答覆如下：\r\n一、北頂中排全長約1,650公尺，係屬麻豆排水系統上游支流，集水區範圍主要為下營區賀建里，保護標的多為農田。\r\n二、依規劃需拓寬渠寬至11公尺，鑒於全段治理經費龐大，水利局於109年完成應急簡易抽水站0.6CMS 及出口閘門，並持續分段治理渠道以加速退水。\r\n三、凱米颱風期間下營區總雨量約759毫米，超出設計防洪保護標準，水利局將檢討抽水量能防止積淹水事件發生。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fd45ebfb-4d74-409b-9b2d-47e3431f8598",
+            "FileName": "4-6臨工務議提30市府回函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=071ec5fb-e512-425d-8417-3d907bc91046&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/09\/19",
+    "ExecuteReNumber": "府水工字第 1131226630號",
+    "ExecuteReMemo": "本府就「建請增設下營區北頂中排大型抽水機組」案，敬答覆如下：\r\n一、北頂中排全長約1,650公尺，係屬麻豆排水系統上游支流，集水區範圍主要為下營區賀建里，保護標的多為農田。\r\n二、依規劃需拓寬渠寬至11公尺，鑒於全段治理經費龐大，水利局於109年完成應急簡易抽水站0.6CMS 及出口閘門，並持續分段治理渠道以加速退水。\r\n三、凱米颱風期間下營區總雨量約759毫米，超出設計防洪保護標準，水利局將檢討抽水量能防止積淹水事件發生。",
     "ErrorMessage": ""
 }

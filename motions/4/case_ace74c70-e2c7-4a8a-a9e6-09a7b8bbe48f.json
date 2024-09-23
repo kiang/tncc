@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/08\/28",
     "SendNumber": "南議工務字第 1130007608號",
-    "DoDesc": "",
+    "DoDesc": "本府就「建請增高麻豆區北勢里西平寮社區護岸高度、增設抽水機組，確保里民生命財產安全。」案，敬答覆如下：\r\n一、麻豆區北勢里西平寮社區業於98年依規劃報告完成社區防護並佈設0.5cms移動式抽水機，又111年12月增設0.3cms移動式抽水機，提升社區整體抽水量達0.8cms。\r\n二、凱米颱風期間極端降雨造成西平寮社區南側圍堤失守，水利局113年8月1日委請顧問公司研議社區圍堤加高至埤頭排水護岸高改善方案，惟圍堤加高影響住家進出，將與地方民眾溝通後研擬改善方案。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fa214745-5fb7-4a0d-a821-d7d0b9b42fe8",
+            "FileName": "4-6臨工務議提36回函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ace74c70-e2c7-4a8a-a9e6-09a7b8bbe48f&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/09\/20",
+    "ExecuteReNumber": "府水工字第 1132060421號",
+    "ExecuteReMemo": "本府就「建請增高麻豆區北勢里西平寮社區護岸高度、增設抽水機組，確保里民生命財產安全。」案，敬答覆如下：\r\n一、麻豆區北勢里西平寮社區業於98年依規劃報告完成社區防護並佈設0.5cms移動式抽水機，又111年12月增設0.3cms移動式抽水機，提升社區整體抽水量達0.8cms。\r\n二、凱米颱風期間極端降雨造成西平寮社區南側圍堤失守，水利局113年8月1日委請顧問公司研議社區圍堤加高至埤頭排水護岸高改善方案，惟圍堤加高影響住家進出，將與地方民眾溝通後研擬改善方案。",
     "ErrorMessage": ""
 }
