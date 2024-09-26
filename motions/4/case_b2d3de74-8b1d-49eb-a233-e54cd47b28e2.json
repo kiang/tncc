@@ -24,7 +24,13 @@
             "ErrorMessage": ""
         }
     ],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9a8b6a4a-ed94-4e79-ae7a-1e4f452e5818",
+            "FileName": "4-6臨工務議提50號案-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b2d3de74-8b1d-49eb-a233-e54cd47b28e2&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -36,8 +42,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
+    "ExecuteReDate": "2024\/09\/25",
+    "ExecuteReNumber": "府水養字第 1132087571號",
     "ExecuteReMemo": "",
     "ErrorMessage": ""
 }

@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/08\/28",
     "SendNumber": "南議工務字第 1130007609號",
-    "DoDesc": "",
+    "DoDesc": "本府就「建請擴寬下營區南59黑橋南、北兩側排水寬度、增設大型抽水機組」案，敬答覆如下：\r\n一、經查麻豆排水黑橋南北岸支流為農田排水，為協助區域加速排水，水利局業已於111年完成黑橋抽水平臺，設置0.3CMS移動式抽水機，目前黑橋南北岸各計1臺抽水機。\r\n二、水利局將檢討抽水機組量能，使發揮最佳抽排成效，另考量大型抽水設施需腹地設置集水井，將同步評估並與地方溝通土地同意使用。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f180ae70-6a66-4e03-91aa-0e70bba925ab",
+            "FileName": "4-6臨工務議提37回文附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=bde648f6-1567-494c-90e0-97df6743f8d0&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/09\/25",
+    "ExecuteReNumber": "府水工字第 1132105210號",
+    "ExecuteReMemo": "本府就「建請擴寬下營區南59黑橋南、北兩側排水寬度、增設大型抽水機組」案，敬答覆如下：\r\n一、經查麻豆排水黑橋南北岸支流為農田排水，為協助區域加速排水，水利局業已於111年完成黑橋抽水平臺，設置0.3CMS移動式抽水機，目前黑橋南北岸各計1臺抽水機。\r\n二、水利局將檢討抽水機組量能，使發揮最佳抽排成效，另考量大型抽水設施需腹地設置集水井，將同步評估並與地方溝通土地同意使用。",
     "ErrorMessage": ""
 }

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "8",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2024\/09\/26",
+    "ComeNumber": "府經資字第1132121549號",
+    "OrgTitle": "臺南市政府經濟發展局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理本府經管坐落本市歸仁區武東段232-3地號1筆非公用市有土地設定地上權，擬依土地法第25條規定完成處分程序，提請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據臺南市市有財產管理自治條例第45條第2項辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"市有土地設定地上權標的坐落本市歸仁區武東段232-3地號1筆市有土地，面積49,790.82平方公尺。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"地上權存續期間以50年為原則(經雙方同意得延長最多20年)。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年9月10日第663次市政會議審核通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後辦理地上權設定事宜。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=21575ec2-32f6-449a-8cdd-e2944128df71",
+            "FileName": "市提-8-說明.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3f14233b-f8ce-47b2-9694-f20f5f26a19c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

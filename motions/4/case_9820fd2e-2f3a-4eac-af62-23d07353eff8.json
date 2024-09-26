@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "",
     "SendNumber": "",
-    "DoDesc": "",
+    "DoDesc": "本局就「建設第 4 號案：建請市府規劃仁德二空新村室内市集或設立遮陽」案，敬答覆如下： \r\n一、 二空新村園區於113年7月20日開幕，除展覽與開幕活動外，目前也已\r\n規劃攤商於室內空間販售。 \r\n二、 園區營運規劃已完成委外招商程序，得標廠商為小火柴企業社。營運\r\n以生活、藝術或文化創意產業為主，希帶動地方經濟發展，建立共融式園區。 \r\n三、 園區將於本 (113) 年10月開始全園區委外營運，已請委外廠商規劃增設遮陽設施提供攤商使用，帶動參觀人潮，設施如圖示：",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8bdf5f1c-12e9-48ce-acb2-77acaf9847f1",
+            "FileName": "4-6臨市府回覆附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9820fd2e-2f3a-4eac-af62-23d07353eff8&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/09\/25",
+    "ExecuteReNumber": "府文園字第 1132117261號",
+    "ExecuteReMemo": "本局就「建設第 4 號案：建請市府規劃仁德二空新村室内市集或設立遮陽」案，敬答覆如下： \r\n一、 二空新村園區於113年7月20日開幕，除展覽與開幕活動外，目前也已\r\n規劃攤商於室內空間販售。 \r\n二、 園區營運規劃已完成委外招商程序，得標廠商為小火柴企業社。營運\r\n以生活、藝術或文化創意產業為主，希帶動地方經濟發展，建立共融式園區。 \r\n三、 園區將於本 (113) 年10月開始全園區委外營運，已請委外廠商規劃增設遮陽設施提供攤商使用，帶動參觀人潮，設施如圖示：",
     "ErrorMessage": ""
 }
