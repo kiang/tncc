@@ -2,6 +2,39 @@
     {
         "DoneDate": "2023\/02\/17",
         "GradeTime": "第4屆 第1次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "12",
+        "OrgTitle": "蔡育輝、方一峰、尤榮智",
+        "CaseCause": "建請水利局、農業局及經發局於「水利用地」申請設置太陽光電設施業者，能嚴格把關，應確保不影響灌溉蓄水池安全、蓄水功能、管理及不污染環境。",
+        "ProNo": "4d65d89d-38b3-49a9-9965-f48eae2caa61",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/02\/17",
+        "GradeTime": "第4屆 第1次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "13",
+        "OrgTitle": "王宣貿、蔡育輝",
+        "CaseCause": "建請市府112年臺灣國際蘭展，擴大優惠福利在地區域市民。",
+        "ProNo": "ddfaa1b5-09c0-4f7a-8a8f-79bb2eb7df4b",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/02\/17",
+        "GradeTime": "第4屆 第1次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府社會局",
+        "CaseCause": "有關本府申請衛生福利部112年度公益彩券回饋金補助辦理臺南市政府社會局112年度社工人員執業安全保障計畫(編號1121BU161B)，經核定經費補助新臺幣100萬元整(中央全額補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度追加減預算時辦理轉正，敬請審議。",
+        "ProNo": "263be704-b06f-4d45-94ce-7940493dc9b0",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/02\/17",
+        "GradeTime": "第4屆 第1次 臨時會",
         "PTypTitle": "環保衛生",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "2",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "林燕祝",
         "CaseCause": "建請市府將永康區王行路866巷29弄柏油路面重新翻修，以保障民眾往來通行之安全。",
         "ProNo": "f6738cb7-e544-4ae6-a9aa-c220d5ccfc19",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "37",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "建請市府將永康區中山北路164巷160弄前路面重新翻修，以保障用路民眾往來通行之安全。",
-        "ProNo": "dd2d6a8b-34af-4588-8455-46b3b19426cc",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "38",
-        "OrgTitle": "蔡麗青",
-        "CaseCause": "建請編列預算將安南區青砂街一段(城西街至城安路)兩側水溝重新翻修。",
-        "ProNo": "9af20156-1c81-4167-9b11-4f50d9d4709b",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "39",
-        "OrgTitle": "蔡麗青",
-        "CaseCause": "建請規劃安南區特色公園，並增加既有公園內遮陽設施。",
-        "ProNo": "cdb90948-b0c0-44df-9a54-cb354082e083",
         "PagesAll": "37"
     }
 ]

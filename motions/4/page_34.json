@@ -4,6 +4,39 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "蔡育輝、方一峰、尤榮智",
+        "CaseCause": "請市政府警察局於新營市三民路與民生路十字路口旁邊之三民路停車場附近設置監視器。",
+        "ProNo": "c15d44ea-08da-400f-a8a2-b810e9212a28",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "3",
+        "OrgTitle": "曾培雅",
+        "CaseCause": "建請市府增設東區裕信路與裕孝三街路口監視器、測速器。",
+        "ProNo": "1fc97236-a6fd-40ad-b07f-7be0ca339391",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "4",
+        "OrgTitle": "李宗翰、周嘉韋",
+        "CaseCause": "因分駐所及派出所整併導致空間不足，關於「後壁分駐所」之空間規劃，提請警察局進行相關設置規劃。",
+        "ProNo": "daf0a361-5383-4513-a5fc-4d4fc1b35da4",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "5",
         "OrgTitle": "李宗霖",
         "CaseCause": "建請市府汰換本市義警消舊有不堪使用之裝備並添購新裝備給新進人員，以讓義警消擁有安全配備安心值勤。",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "吳通龍",
         "CaseCause": "建請市府辦理官田區二鎮里南113線道路拓寬工程。",
         "ProNo": "e99c4ea7-8443-42a5-85c6-ddd5fcf7dc23",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "62",
-        "OrgTitle": "吳通龍",
-        "CaseCause": "建請市府辦理擴建麻豆區興農里位於新生南路173線道路排水系統，重新整合排水系統俾利排水順暢。",
-        "ProNo": "5062c0a9-1d4c-4107-9e0e-a9629eaa40cb",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "63",
-        "OrgTitle": "吳通龍",
-        "CaseCause": "建請市府於國道三號(烏山頭段)高架橋下設置休憩樂活園區。",
-        "ProNo": "f4d60a25-ccf2-4df1-bd9e-97d04aecf676",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "64",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請市府重新評估LED路燈照明範圍及設置距離。",
-        "ProNo": "a3fbf516-896b-43df-9449-bcdec512c7ea",
         "PagesAll": "37"
     }
 ]

@@ -4,6 +4,39 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "52",
+        "OrgTitle": "林志展、沈家鳳",
+        "CaseCause": "建請市政府辦理公共自行車採購案納入第三人責任險。",
+        "ProNo": "81f15bf5-8cca-45ab-9cf7-4b293c1e20cf",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "53",
+        "OrgTitle": "林志展、沈家鳳",
+        "CaseCause": "建請市政府盤點可供自行車行駛之人行道及相關道路設施的改善。",
+        "ProNo": "ff495471-7dc2-444a-915c-759a80def0ee",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "54",
+        "OrgTitle": "林志展",
+        "CaseCause": "建請市政府於善化區建國路劃設停車格。",
+        "ProNo": "3023662f-8c0a-4b51-80dc-1e4460dad7ed",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "55",
         "OrgTitle": "林志展",
         "CaseCause": "實踐友善人本交通環境，建請市政府設置跨局處之道路設施及交通規劃整合機制。",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "請辦理大內區頭社里28之1號旁路面改善工程，因年久失修，路面龜裂破損嚴重，急需辦理改善，以利行車安全。",
         "ProNo": "6c535dd9-1f7d-4330-a35d-0546f22b109c",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "54",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府工務局儘速在新市區新和里可口街51號前，進行道路側溝改善工程，保障人車通行安全。",
-        "ProNo": "8090f492-3959-41be-8620-5b96c53210c6",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "55",
-        "OrgTitle": "李鎮國",
-        "CaseCause": "建議市府進行永康區正南五街458巷道路改善工程。",
-        "ProNo": "c1012dec-d655-4bba-aa90-c182d7797327",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "56",
-        "OrgTitle": "李鎮國",
-        "CaseCause": "建議永康區東橋一路延伸連結至亞太工業區中正路之道路新闢工程。",
-        "ProNo": "077ebd51-4a6d-4291-9edf-7c59815d2e18",
         "PagesAll": "37"
     }
 ]
