@@ -4,6 +4,39 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "59",
+        "OrgTitle": "沈家鳳",
+        "CaseCause": "建請市府進行新營區民生路(民治路至復興路段)道路改善工程，以維護民眾使用安全。",
+        "ProNo": "246139bf-acd9-4f7c-bb3c-117179b312a4",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "60",
+        "OrgTitle": "吳通龍",
+        "CaseCause": "建請市府辦理六甲區市道165線及174線路面改善工程。",
+        "ProNo": "b02f301f-9fc3-490b-ae6b-2defb352a984",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "61",
+        "OrgTitle": "吳通龍",
+        "CaseCause": "建請市府辦理官田區二鎮里南113線道路拓寬工程。",
+        "ProNo": "e99c4ea7-8443-42a5-85c6-ddd5fcf7dc23",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "62",
         "OrgTitle": "吳通龍",
         "CaseCause": "建請市府辦理擴建麻豆區興農里位於新生南路173線道路排水系統，重新整合排水系統俾利排水順暢。",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "蔡秋蘭",
         "CaseCause": "建請市府改善北門區錦湖里白米地區漁產道路路面改善工程。",
         "ProNo": "5584eec6-3b83-46e2-9cea-757b2a1c9e9d",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "9",
-        "OrgTitle": "蔡秋蘭",
-        "CaseCause": "西港區永樂里曾文溪內河川地農路改善工程。",
-        "ProNo": "1f7c7ece-bd61-4b14-b0f6-9da8e1d8566b",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "10",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府農業局補助養雞場設置水濂密閉式設施。",
-        "ProNo": "2bc9b475-b336-4feb-8685-4669544e1948",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "11",
-        "OrgTitle": "邱昭勝",
-        "CaseCause": "九崴天然氣發電廠建蓋選址不當，建請市府不予同意本開發案。",
-        "ProNo": "20edcec3-53ae-48d8-964a-03335521ef99",
         "PagesAll": "37"
     }
 ]

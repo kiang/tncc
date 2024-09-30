@@ -1,0 +1,73 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "2",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2024\/09\/30",
+    "ComeNumber": "府主預字第1132132137B號",
+    "OrgTitle": "臺南市政府主計處",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本府113年第2季辦理政策及業務宣導之執行情形表，提請貴會備查，請查照。",
+    "Content": "",
+    "Method": "",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3c27d100-f0cf-4740-957d-1e875490de11",
+            "FileName": "2-113年第2季-市府來文.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=908e3031-5a07-4ba0-9ed8-aaff72396c07",
+            "FileName": "2.1-113年第2季-民政教育.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9d09b6d4-6cf8-4bc3-8e07-266378c3f228",
+            "FileName": "2.2-113年第2季-財經.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ba19bea0-3dad-4260-9dc9-f6d349845ce8",
+            "FileName": "2.3-113年第2季-環衛.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=90698f39-6788-4b00-b0e2-8d58437c64a1",
+            "FileName": "2.4-113年第2季-建設.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=96e14c61-3a59-4a64-a3c5-08dc27fcfcfe",
+            "FileName": "2.5-113年第2季-保安.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=af855d05-bda6-4608-a1bf-180851a0fd82",
+            "FileName": "2.6-113年第2季-工務.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=90674754-79a0-4c75-8c4f-5804f52da434&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

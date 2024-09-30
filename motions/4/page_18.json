@@ -4,6 +4,39 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "49",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請市府改善平實路、凱旋路、中華東路一段路口之相關交通問題。",
+        "ProNo": "56dee570-4a19-42bf-8f94-c2d1bcee3527",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "50",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請市府於德高公園周邊設置機車停車空間，以供市民使用，解決該地區停車亂象。",
+        "ProNo": "f791cce6-1295-421e-a912-d5e8682091d5",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "51",
+        "OrgTitle": "蔡宗豪",
+        "CaseCause": "因應臨安橋改建工程及當地居民搭乘公車需求，建請交通局於中西區大涼里內新增公車臨時停靠站。",
+        "ProNo": "eeb8c8cd-214d-4e44-9ee0-bf5c79b3d26a",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "52",
         "OrgTitle": "林志展、沈家鳳",
         "CaseCause": "建請市政府辦理公共自行車採購案納入第三人責任險。",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "請辦理大內區頭社里觀音亭旁路面改善工程，因年久失修，路面破損嚴重，急需辦理改善，以利行車安全。",
         "ProNo": "c1c200ef-1c5d-471b-a805-93da2b91b208",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "51",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理麻豆區安正里前班37號旁至前後班段1147地號道路改善工程，因年久失修，路面破損嚴重，急需辦理改善，以利行車安全。",
-        "ProNo": "6107bb97-6544-4274-8384-15618238da65",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "52",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理麻豆區安正里南48道路前社高幹17至興國路道路改善工程，因年久失修，路面破損嚴重，急需辦理改善，以利行車安全。",
-        "ProNo": "442f748d-3f84-4948-9c75-7d777e5b7c9a",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "53",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理大內區頭社里28之1號旁路面改善工程，因年久失修，路面龜裂破損嚴重，急需辦理改善，以利行車安全。",
-        "ProNo": "6c535dd9-1f7d-4330-a35d-0546f22b109c",
         "PagesAll": "37"
     }
 ]

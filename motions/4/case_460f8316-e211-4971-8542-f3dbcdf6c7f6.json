@@ -18,7 +18,13 @@
     "SendNumber": "南議工務字第 1130007616號",
     "DoDesc": "",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=473d8532-64ec-46f3-ba12-d8450576b674",
+            "FileName": "4-6臨工務議提68號案-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=460f8316-e211-4971-8542-f3dbcdf6c7f6&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
+    "ExecuteReDate": "2024\/09\/27",
+    "ExecuteReNumber": "南市水污養字第 1132155553號",
     "ExecuteReMemo": "",
     "ErrorMessage": ""
 }
