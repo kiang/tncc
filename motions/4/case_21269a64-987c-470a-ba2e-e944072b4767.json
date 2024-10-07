@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "6",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2024\/10\/07",
+    "ComeNumber": "府文秘字第1132170776 號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本市「財團法人台南市文化基金會114年度預算書」敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"財團法人台南市文化基金會，為政府捐助之財團法人。依預算法第41條第4項規定，將該會114年度預算送請議會審議。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"114年度預算書業經財團法人台南市文化基金會於112年9月6日召開第14屆第1次董監事會議審核通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府113年9月24日第665次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e41a05f2-6d48-4eb6-b4f6-54a488ea020a",
+            "FileName": "市提6附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=21269a64-987c-470a-ba2e-e944072b4767&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

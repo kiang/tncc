@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "7",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2024\/10\/07",
+    "ComeNumber": "府文秘字第 1132170776 號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本市「財團法人臺南市孔廟文化基金會114年度預算書」敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"財團法人臺南市孔廟文化基金會因董事長由市長擔任，市府多位首長及議員擔任董監事，該會決算依往例送市議會審議。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"預算書於113年9月12日業經財團法人臺南市孔廟文化基金會113年第二次董監事會議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府113年9月24日第665次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=15574eca-71fa-4e88-bf43-806f52e18438",
+            "FileName": "市提7附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d0b0f271-ec89-4097-a72b-0112a8fa07cf&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
