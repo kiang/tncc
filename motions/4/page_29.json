@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "78",
+        "OrgTitle": "李宗翰、周嘉韋、陳秋宏",
+        "CaseCause": "建請市府於柳營奇美醫院周邊增設機車停車場。",
+        "ProNo": "2d2656ea-a516-45ea-a042-8a740218d37b",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "79",
+        "OrgTitle": "李宗翰",
+        "CaseCause": "建請市府增設白河木棉花節場地之停車場。",
+        "ProNo": "e6678214-6db0-4c95-9b1a-633c2fa66a29",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "80",
         "OrgTitle": "李宗翰、蔡筱薇",
         "CaseCause": "建請市府爭取經費，擴增小黃公車路線。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府工務局儘速在新市區潭頂里228號前道路，進行柏油路面改善工程，保障人車通行安全。",
         "ProNo": "2b9ab5f8-687e-47ba-8194-9f69af964a87",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "49",
-        "OrgTitle": "盧崑福",
-        "CaseCause": "建請重新鋪設建平十一街(府前四街至建平路路段)路面柏油。",
-        "ProNo": "fb9cfa96-8e71-4781-bf97-8582ed92f81f",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "50",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請市政府辦理鹽水區三和里大豐10號旁排水溝改善工程，以利排水順暢。",
-        "ProNo": "d15d2306-b78c-4a5c-8ca3-4ec27c7ff316",
         "PagesAll": "37"
     }
 ]

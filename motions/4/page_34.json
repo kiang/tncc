@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "建設",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "5",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請市府盤點目前本市存在之實體書店，並積極輔導協助業者妥善運用書店空間，讓實體書店成為能孕育本市文化重要之處，更使其能永續經營。",
+        "ProNo": "f24f3ac2-c51a-4f96-bd13-692a499fe85b",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "6",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請市府未來訂定社宅租金的計算標準應與市價脫鉤，以家戶生活基本需求來設定，方為合理。",
+        "ProNo": "b0b5e713-2414-4d6f-9a71-5cc6c800ab8f",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "7",
         "OrgTitle": "黄肇輝",
         "CaseCause": "建請市府針對永康區東橋安居社會住宅之規劃重新進行評估，以解鄰近居民之疑慮。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "吳通龍",
         "CaseCause": "建請市府辦理麻豆區南49-2線(道安公路)安正里方厝寮永安宮旁往安業里里界處道路改善工程，因年久失修，路面破損嚴重，急需辦理改善，以利交通。",
         "ProNo": "a51db396-a980-42a8-bc39-4f237543106e",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "51",
-        "OrgTitle": "李鎮國",
-        "CaseCause": "建請拓寬永康區鹽水溪河堤道路（中央路中華路至永安路段)。",
-        "ProNo": "cde67885-3c95-4a66-8f35-9c169504c1ca",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "52",
-        "OrgTitle": "李鎮國",
-        "CaseCause": "建請市府重鋪永康區大仁街107巷道路。",
-        "ProNo": "c67d51da-f445-4d62-b51e-6c071cf46943",
         "PagesAll": "37"
     }
 ]

@@ -1,13 +1,13 @@
 {
     "GradeTime": "第4屆 第4次 定期會",
     "PTypTitle": "法規",
-    "CaseNumber": "35",
+    "CaseNumber": "36",
     "KidTitle": "查照\/備查案-法規查照案",
-    "ComeDate": "2024\/09\/26",
-    "ComeNumber": "府教安(一)字第1132126982B號",
-    "OrgTitle": "臺南市政府教育局",
+    "ComeDate": "2024\/10\/07",
+    "ComeNumber": "府地人字第1132141574號",
+    "OrgTitle": "臺南市政府地政局",
     "OrgTitle2": "",
-    "CaseCause": "訂定「臺南市政府性別平等教育委員會設置及運作辦法」。",
+    "CaseCause": "修正「臺南市歸仁地政事務所編制表」、「臺南市新化地政事務所編制表」。",
     "Content": "",
     "Method": "",
     "CheckDate": "",
@@ -19,13 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2e7a0881-dc25-4aec-9432-e62381db6e6d",
-            "FileName": "4-4定-法規查照35-訂定「臺南市政府性別平等教育委員會設置及運作辦法」.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=27cb352c-af49-47d0-a9f6-4e3eb08d6e71",
+            "FileName": "4-4定-法規查照36號案---臺南市歸仁及新化地政事務所編制表修正案.pdf",
             "ErrorMessage": ""
         }
     ],
     "RAttList": [],
-    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d89b0f62-57f4-4313-95cb-d5100082d799&type=pdf",
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=43dfcf39-5c0e-46c3-9dc1-eab7fa033c30&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
     "ReDate": "",
