@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/10\/08",
+    "ComeNumber": "府社秘字第1132163588號",
+    "OrgTitle": "臺南市政府社會局",
+    "OrgTitle2": "",
+    "CaseCause": "衛生福利部核定補助本市113年度長照2.0整合型計畫增補經費新臺幣6億9,358萬5,000元整乙案（中央補助6億8,176萬元；市配合款1,182萬5,000元），因未及納入本府114年度總預算，為爭取時效，謹請貴會同意墊付，俾憑辦理後續相關作業事宜，俟114年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據衛生福利部113年9月4日衛部顧字第1131962316號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案核定總經費新臺幣60億6,477萬元整（中央補助款58億7,673萬3,000元、市配合款1億8,803萬7,000元），其中已納入113年度預算編列53億7,118萬5,000元（中央補助款51億9,497萬3,000元、市配合款1億7,621萬2,000元），餘6億9,358萬5,000元（中央補助6億8,176萬元；市配合款1,182萬5,000元）未及納入本府114年度總預算，為爭取時效，謹請貴會同意先行墊付，俟114年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年10月1日第666次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本案經費為獎補助費，補助長照服務使用者服務費，倘墊付案未能於定期會通過，將中斷本市長照服務使用者使用服務，影響長照業務之推動。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ea75c30a-766d-4891-9f88-ebf7451ad355",
+            "FileName": "4-4定-環保衛生4號案-附件-社會局-113年度長照2.0整合型計畫增補經費(照管中心).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d4764ced-a046-4eb8-8d40-3f535ab9e8ac&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
