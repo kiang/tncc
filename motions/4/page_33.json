@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "會務",
         "KidTitle": "議員提案-會務案",
+        "CaseNumber": "1",
+        "OrgTitle": "蔡育輝、周麗津、林美燕、林燕祝、陳怡珍、余柷青、曾之婕、黃麗招、王家貞、蔡淑惠",
+        "CaseCause": "修正「臺南市議會議事規則」第七十一條條文草案，敬請審議。",
+        "ProNo": "47fcdff1-3fae-4186-9198-79bdb29daa1c",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "會務",
+        "KidTitle": "議員提案-會務案",
         "CaseNumber": "2",
         "OrgTitle": "邱議長莉莉",
         "CaseCause": "「臺南市議會議事規則」第71條修正草案，敬請審議。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "李宗霖",
         "CaseCause": "建請巿府提供70歲以上長者免費施打帶狀疱疹疫苗，而50歳至69歲給予部分補助。\r\n",
         "ProNo": "d7194e05-c25e-470a-8bc5-fcee78c99b12",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "7",
-        "OrgTitle": "吳通龍",
-        "CaseCause": "建請市政府落實打造友善城市政策，於台南市六甲區設置多元長照資源中心住宿式長照機構，提供長輩照護服務。",
-        "ProNo": "85ca31b0-6589-437e-9f4c-0c7ca1523fbc",
         "PagesAll": "37"
     }
 ]
