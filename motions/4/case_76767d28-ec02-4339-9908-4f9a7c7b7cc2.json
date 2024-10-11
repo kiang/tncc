@@ -19,6 +19,11 @@
     "DoDesc": "",
     "AttList": [
         {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2362507d-b900-4583-a9de-971ec739923f",
+            "FileName": "114年度換購低污染資源回收車補助計畫補充資料.pdf",
+            "ErrorMessage": ""
+        },
+        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=68a96777-129f-40fd-8fe8-083dd7fa4367",
             "FileName": "核定函.pdf",
             "ErrorMessage": ""

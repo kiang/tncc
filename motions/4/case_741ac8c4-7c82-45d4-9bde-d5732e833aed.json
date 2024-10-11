@@ -3,7 +3,7 @@
     "PTypTitle": "工務",
     "CaseNumber": "8",
     "KidTitle": "市府提案-墊付款案",
-    "ComeDate": "2024\/10\/07",
+    "ComeDate": "2024\/10\/09",
     "ComeNumber": "府水工字第1132181773號",
     "OrgTitle": "臺南市政府水利局",
     "OrgTitle2": "",
@@ -17,7 +17,13 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=25cee14b-213b-448e-86d9-0d1af46e7081",
+            "FileName": "工務市提8-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=741ac8c4-7c82-45d4-9bde-d5732e833aed&type=pdf",
     "CheckAttList": [],
