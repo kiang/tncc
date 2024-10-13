@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "建設",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "14",
+        "OrgTitle": "李宗霖、鄭佳欣、陳秋宏、沈家鳳",
+        "CaseCause": "建請市府補助台南市勞工育嬰留職停薪之勞健保費用。",
+        "ProNo": "acb07ead-b29f-487b-98b0-6581c99d7647",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "15",
+        "OrgTitle": "沈震東、余柷青",
+        "CaseCause": "建請勞工局將勞工育樂中心儘速完成評估，以利未來整體規畫。",
+        "ProNo": "27d98076-d2b7-4747-a0f2-c5ba7e009991",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "16",
         "OrgTitle": "沈震東",
         "CaseCause": "建請都市發展局針對北區自強新村之社會住宅規劃進行鄰近居民規劃及說明。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "林志展",
         "CaseCause": "為方便報案人掌握相關資訊，建請市政府設置安心簡訊。",
         "ProNo": "3674060b-a558-4e4e-b914-184564bfc33c",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "59",
-        "OrgTitle": "鄭佳欣",
-        "CaseCause": "建請市府儘速成立龍崎區消防分隊。",
-        "ProNo": "65fefe43-2c38-4dc6-8bcc-dc557398b7e4",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "60",
-        "OrgTitle": "沈震東",
-        "CaseCause": "建請交通局增設健康路及中華西路之偏心式左轉。",
-        "ProNo": "c3f4b466-43ea-43e3-b6bd-879f2c6c8246",
         "PagesAll": "37"
     }
 ]
