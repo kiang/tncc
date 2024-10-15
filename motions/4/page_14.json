@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第5次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "37",
+        "OrgTitle": "林燕祝、黄肇輝",
+        "CaseCause": "建請市府將永康區王行路道路拓寬，以避免交通壅塞及保障往來民眾通行之安全。",
+        "ProNo": "6ac3d8b2-33ea-4154-adc2-1747536f85fc",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "38",
+        "OrgTitle": "林燕祝",
+        "CaseCause": "建請市府將永康區三合里南工街185巷道路柏油重新翻修，以保障往來通行民眾之安全。",
+        "ProNo": "4647d1f4-a7f8-4747-80f1-e385523bdfaa",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "39",
         "OrgTitle": "林燕祝",
         "CaseCause": "建請市府將永康區西灣里國光八街87巷26號至80號前之柏油路面重新翻修，以保障民眾往來通行之安全。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "王宣貿",
         "CaseCause": "建請市府改善新進國小校內多處地磚不平整，避免學生發生跌倒情形。",
         "ProNo": "c9dca684-0a75-4e79-ae36-7ad52ee44c6b",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "42",
-        "OrgTitle": "王宣貿、周麗津、余柷青、朱正軒、郭鴻儀、周嘉韋、林冠維、沈震東",
-        "CaseCause": "建請教育局加強宣導國中、小學，關於蘿蔔刀玩具及其餘相關危險物品之認知及觀念。",
-        "ProNo": "60796bb7-5614-4241-877e-a8934361459d",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "43",
-        "OrgTitle": "王宣貿、余柷青、朱正軒、沈震東、林冠維",
-        "CaseCause": "建請市府加強推動國中小學之自行車騎乘教育，讓本市中、小學生能加以學習了解並增加安全騎乘經驗。",
-        "ProNo": "3f7d4f52-8c02-4374-8e32-b95097eb3b01",
         "PagesAll": "37"
     }
 ]

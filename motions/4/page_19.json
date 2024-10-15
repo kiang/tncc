@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "22",
+        "OrgTitle": "林冠維、周奕齊",
+        "CaseCause": "請市府辦理永康區永大二路等道路改善工程。",
+        "ProNo": "56b6989d-dcde-4fd3-a1fb-c1d31b22dc35",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/10\/27",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "23",
+        "OrgTitle": "林冠維、周奕齊",
+        "CaseCause": "請市府辦理永康區復華里國華街等道路改善工程。",
+        "ProNo": "be43c473-a5b7-4ae9-b9e7-c16468b2aece",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/10\/27",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "24",
         "OrgTitle": "林冠維、周奕齊",
         "CaseCause": "請市府辦理永康區西灣里國光八街11巷道路側溝排水改善工程。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "蔡筱薇、謝舒凡",
         "CaseCause": "建請針對1999市民服務專線加強業務交辦能力。",
         "ProNo": "1d07fe3a-27bb-44c3-a41f-ac7fea0e03cc",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "122",
-        "OrgTitle": "林志展、沈家鳳",
-        "CaseCause": "建請市政府規劃輔導青年國際參賽補助，提升臺南青年就業競爭力。",
-        "ProNo": "057c8958-378b-4de9-aabe-5885dae9c5b9",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "123",
-        "OrgTitle": "林志展、周嘉韋",
-        "CaseCause": "建議「臺南市民服務平台」導入生成式AI，以提高公務運作效率。",
-        "ProNo": "b3b299ca-2a5c-4e18-9ae5-4ee01fa4e5e3",
         "PagesAll": "37"
     }
 ]

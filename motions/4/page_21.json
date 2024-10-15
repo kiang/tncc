@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "6",
+        "OrgTitle": "臺南市政府教育局",
+        "CaseCause": "廢止「臺南市高級中等以下學校學生申訴評議委員會組織及運作辦法」。",
+        "ProNo": "fff0a2ba-7ed3-4327-8754-60af82abdaae",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "7",
+        "OrgTitle": "臺南市政府教育局",
+        "CaseCause": "修正「臺南市公私立幼兒園家長會設置辦法」第一條、第二條。",
+        "ProNo": "81f047a9-2df3-437a-844a-d05b6977fa82",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
         "CaseNumber": "8",
         "OrgTitle": "臺南市政府財政稅務局",
         "CaseCause": "訂定「臺南市納稅義務人申請加計利息分期繳納稅捐辦法」",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "陳昆和、周奕齊、方一峰",
         "CaseCause": "學甲區「秀昌里下溪洲中排農路路面年久失修」一案。",
         "ProNo": "e7b68b85-79f1-4dbd-af6e-a6c421375d33",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/08\/17",
-        "GradeTime": "第4屆 第3次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "21",
-        "OrgTitle": "陳昆和、周奕齊、方一峰",
-        "CaseCause": "學甲區「光華里白新排水旁魚塭道路路面年久失修」一案。",
-        "ProNo": "ab486c82-590a-4b18-9587-e3aba0c0e074",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/08\/17",
-        "GradeTime": "第4屆 第3次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "22",
-        "OrgTitle": "陳昆和、周奕齊、方一峰",
-        "CaseCause": "學甲區「平和里西平寮67-45號旁魚塭道路」一案。",
-        "ProNo": "a7282c98-e84c-476e-8314-be577f8624a9",
         "PagesAll": "37"
     }
 ]

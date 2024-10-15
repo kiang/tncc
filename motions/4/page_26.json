@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "23",
+        "OrgTitle": "沈震東",
+        "CaseCause": "建請經濟發展局市場處爭取城市美學計畫，以利永樂市場展現新風貌。",
+        "ProNo": "b9896df6-411c-494f-9c2a-6a62e8fcdbdc",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "24",
+        "OrgTitle": "沈震東",
+        "CaseCause": "建請經濟發展局市場處整修永樂市場水溝。",
+        "ProNo": "96a51b45-efbf-42b1-93de-11448f46d649",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "25",
         "OrgTitle": "郭鴻儀",
         "CaseCause": "建請市府研議補助本市老屋電氣線路更新補助，並協助媒合業者提供透明估價平台。\r\n\r\n",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "吳禹寰",
         "CaseCause": "建請市府協助仁德區仁和里納入臺南機場航空噪音防制區。",
         "ProNo": "4069165c-8e46-4e9b-b997-05f3b158d492",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "2",
-        "OrgTitle": "鄭佳欣、余柷青",
-        "CaseCause": "建請市府補助社區關懷據點成立之試辦費用或增購健康醫療器材。",
-        "ProNo": "7fb3f2ad-a7ae-4cbe-971c-ec8f82b3b2ee",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "3",
-        "OrgTitle": "蔡蘇秋金、鄭佳欣",
-        "CaseCause": "針對台南市事業廢棄物去化不易，主管機關又無法協助，建請環保局考量當下時空背景，以輔導、改善方式代替罰鍰。",
-        "ProNo": "be5a69d2-572b-4c6a-bab7-d029aa42dcc1",
         "PagesAll": "37"
     }
 ]

@@ -3,6 +3,28 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "民政教育",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市議會本會",
+        "CaseCause": "檢送本會113年第2季辦理政策及業務宣導之執行情形表，提請備查。",
+        "ProNo": "ba72acad-02e6-46bd-8432-42fb79d5eb63",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市議會本會",
+        "CaseCause": "檢送本會113年第3季辦理政策及業務宣導之執行情形表，提請備查。",
+        "ProNo": "46e81f6e-8af9-43cf-9eeb-d9295363f1bb",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "民政教育",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府各區公所",
@@ -94,7 +116,7 @@
         "KidTitle": "查照\/備查案-一般備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府主計處",
-        "CaseCause": "檢送本府113年第1季辦理政策及業務宣導之執行情形表，提請貴會備查，請查照。",
+        "CaseCause": "檢送本府113年第1季辦理政策及業務宣導之執行情形表，提請貴會備查。",
         "ProNo": "2cda2a6f-b0b2-49ba-8e09-b840dfc45cc3",
         "PagesAll": "37"
     },
@@ -105,7 +127,7 @@
         "KidTitle": "查照\/備查案-一般備查案",
         "CaseNumber": "2",
         "OrgTitle": "臺南市政府主計處",
-        "CaseCause": "檢送本府113年第2季辦理政策及業務宣導之執行情形表，提請貴會備查，請查照。",
+        "CaseCause": "檢送本府113年第2季辦理政策及業務宣導之執行情形表，提請貴會備查。",
         "ProNo": "90674754-79a0-4c75-8c4f-5804f52da434",
         "PagesAll": "37"
     },
@@ -1075,28 +1097,6 @@
         "OrgTitle": "蔡麗青",
         "CaseCause": "建請更新安慶國小棒球練習場相關設備，以維學童練習安全，並提升訓練效率與品質。",
         "ProNo": "ecb0ab39-a53f-4a5d-b6c4-ab0ca3d08c1d",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2024\/08\/22",
-        "GradeTime": "第4屆 第6次 臨時會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "4",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府積極維護本市運動場館設備與各項設施，除主動巡檢外，並建立民眾可回報場館問題之管道，俾提供民眾良好完善的運動及觀賽環境。",
-        "ProNo": "12ecd223-d7ae-4dbb-bc5f-70d07ffc0001",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2024\/08\/22",
-        "GradeTime": "第4屆 第6次 臨時會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "5",
-        "OrgTitle": "郭鴻儀、黃麗招、邱昭勝、陳昆和、沈家鳳",
-        "CaseCause": "建請市府體育局盡速提出都市計畫變更計畫，放寬亞太棒球場(公39)的多目標使用及使用管制的作業，以滿足亞太棒球訓練中心需求並帶動周邊區域發展。",
-        "ProNo": "a8b7d891-9850-4659-9f38-36e364dd24c8",
         "PagesAll": "37"
     }
 ]
