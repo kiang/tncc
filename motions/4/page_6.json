@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "62",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "麻豆區麻口里麻口段1229地號至前後班段1189地號及麻口段1285地號農路改善。",
+        "ProNo": "32ac1b42-22b8-4f6b-a251-b18ea35b65b8",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "63",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "麻豆客子寮段1184、1180等地農路改善工程會勘。",
+        "ProNo": "9fba9da7-4429-4ee9-961d-43d102b94cd4",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "64",
         "OrgTitle": "陳秋宏",
         "CaseCause": "麻豆區井東里磚子井139-11號宅前至安業高幹9左16電桿農路改善。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "朱正軒、沈家鳳、陳秋宏、李宗霖",
         "CaseCause": "為串聯社會安全網之各節點，建請社會局增聘社工師人力及調升薪資福利，改善社工師之服務環境。",
         "ProNo": "64fe00a5-c93e-4dd6-8370-0856de76a86b",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "62",
-        "OrgTitle": "沈家鳳、陳秋宏",
-        "CaseCause": "建請市政府針對每一棄置案（含髒亂點）在第一時間皆要裝設移動式監視器，避免被持續棄置及監控現場狀況。",
-        "ProNo": "af3da33a-849a-40e7-88ef-2dd21451c996",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "63",
-        "OrgTitle": "朱正軒",
-        "CaseCause": "為打擊高爆噪音車輛，配合2025年替換用排氣管認證新制，建請環保局增加改管車輛檢測認證量能，使民眾能在新法緩衝期內完成檢測認證。",
-        "ProNo": "c846c9c2-e52b-49bc-92e3-b6b214f508e9",
         "PagesAll": "37"
     }
 ]

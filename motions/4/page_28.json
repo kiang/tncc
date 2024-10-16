@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "建設",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "10",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請市府將市區內所有博物館、古蹟等做橫向串聯，同時藉由「台南400」發行市民版博物館卡，以及觀光版博物館卡。",
+        "ProNo": "ebb507dd-a213-4446-987b-dc75173a1a36",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "11",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府儘速完成台南高鐵前站「花魁車地景公園」成為高鐵台南站的新亮點。",
+        "ProNo": "bf995347-908c-4e79-88ce-12a5d32a25b8",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "12",
         "OrgTitle": "郭鴻儀、Ingay Tali 穎艾達利",
         "CaseCause": "建請市府研議擴大開放本市可申請設立民宿區域，集全市之力拓展觀光。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "請臺南市政府警察局曾文區(六甲、官田、麻豆、下營)派出所收編入分駐所聯合辦公造成服務品質不佳問題，請恢復原來派出所洽公。",
         "ProNo": "98732436-eea2-456a-b555-1515d480b874",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "55",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請臺南市消防局官田分隊遷建二鎮森林公園內事宜，盡速辦理，以利消防人員辦公空間。",
-        "ProNo": "13562cff-45ec-4ba8-a7e7-f9e951c40e7f",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "56",
-        "OrgTitle": "林燕祝、尤榮智、方一峰",
-        "CaseCause": "建請市府消防局針對人為故意或過失造成火災涉及刑責之案件應予列管至偵查終結。",
-        "ProNo": "f28da61c-01e2-43f9-b702-3e691898da28",
         "PagesAll": "37"
     }
 ]

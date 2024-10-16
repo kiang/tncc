@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "28",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請市府重視資訊安全，落實資訊安全分級與確實控管作業流程，以保障民眾個資與國家機密資料。",
+        "ProNo": "c77065ff-ef9a-4946-8e16-a5c0ba55b42a",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "29",
+        "OrgTitle": "陳昆和",
+        "CaseCause": "請辦理七股區三股里道路改善工程等6案。",
+        "ProNo": "57de1500-cf75-4fca-ab45-8a9e939cbefd",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "30",
         "OrgTitle": "陳昆和",
         "CaseCause": "請辦理佳里區多摩市社區側溝改善工程乙案。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "沈家鳳",
         "CaseCause": "建請市府興建新營區民權里里民活動中心，以提供市民休閒聚會及社區活動之用。",
         "ProNo": "926d421c-1fde-45a4-b255-96a09e8bff00",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "11",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請改善六甲區菁埔里菁埔段2943、417、449-7及1515地號路面改善工程，因年久失修，路面破損嚴重，急需改善，以利行車安全。",
-        "ProNo": "f73dabed-b7c4-4ad0-8fe3-525634a1c502",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "12",
-        "OrgTitle": "林燕祝、方一峰",
-        "CaseCause": "建請本市殯葬管理所儘速增設遺體冰櫃數量，提升本市殯葬量能。",
-        "ProNo": "94300067-5f6a-42b7-b36a-692adec97e78",
         "PagesAll": "37"
     }
 ]
