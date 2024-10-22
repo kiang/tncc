@@ -17,7 +17,18 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=239a2a55-0759-4784-9bf2-9fe8c2a703b5",
+            "FileName": "1131025-114年度總預算案編列情形-議會簡報用10211040.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b72775bf-18c4-453b-8784-19bdd7402962",
+            "FileName": "1131025-114年預算報告(列印版).pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c3d774ad-f899-4c97-b8b4-45060964f3be&type=pdf",
     "CheckAttList": [],
