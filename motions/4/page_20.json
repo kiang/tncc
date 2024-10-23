@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "119",
+        "OrgTitle": "陳昆和",
+        "CaseCause": "南37線佳里區佳南路往南至外渡頭十字路口(南34)改善工程。",
+        "ProNo": "4dd00125-dfb8-4239-97b8-b243e067443e",
+        "PagesAll": "37"
+    },
+    {
+        "DoneDate": "2023\/10\/27",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "120",
         "OrgTitle": "陳昆和",
         "CaseCause": "南34線西港區劉厝里十字路口往東至中山路道路改善工程。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府環境保護局",
         "CaseCause": "修正「臺南市民眾檢舉違反廢棄物清理案件獎勵辦法」。",
         "ProNo": "34a6639c-de9f-43a3-b957-98fb15650b6e",
-        "PagesAll": "37"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規查照案",
-        "CaseNumber": "3",
-        "OrgTitle": "臺南市政府民政局",
-        "CaseCause": "修正「臺南市麻豆區公所編制表」。",
-        "ProNo": "54846817-1442-4f64-8f30-7736369310c3",
         "PagesAll": "37"
     }
 ]
