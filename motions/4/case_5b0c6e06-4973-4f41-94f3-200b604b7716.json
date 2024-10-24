@@ -12,12 +12,17 @@
     "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，於114年度總預算時辦理轉正。\"}]",
     "CheckDate": "2024\/10\/22",
     "CheckDesc": "聯席審查意見：同意墊付。",
-    "DoneDate": "",
-    "DoneDesc": "",
+    "DoneDate": "2024\/10\/24",
+    "DoneDesc": "照聯席審查意見同意墊付。",
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
     "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=65fc565b-2b10-42ec-9da6-00c3a9862a06",
+            "FileName": "定4-4民教墊付4-體育局-114全中運各組經費補充資料2-1131023.pdf",
+            "ErrorMessage": ""
+        },
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b429b0d6-2211-4bc6-8b81-c2c48c4efb7a",
             "FileName": "定4-4民教墊付4-體育局-補助114年全國中等學校運動會-.pdf",
@@ -34,7 +39,7 @@
     "CheckAttList": [],
     "DoneAttList": [],
     "ReDate": "2024\/09\/11",
-    "ReDesc": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
     "FirstDate": "2024\/09\/19",
     "FirstDesc": "交付聯席審查。",
     "SecondDate": "",

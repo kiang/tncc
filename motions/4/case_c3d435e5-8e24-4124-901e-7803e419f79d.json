@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "57",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林冠維",
+    "OrgTitle2": "方一峰、郭信良、盧崑福、杜素吟、周奕齊、曾之婕、陳怡珍、尤榮智、陳昆和、周麗津",
+    "CaseCause": "請市府工務局辦理本市地號鹽水區鹽水段第1612、1612-1、1612-4及1612-5之既成道路土地徵收。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"都市計畫實施後，私人擁有之土地被迫劃成道路用地，於多次向市府反映後，仍遲不辦理土地徵收，且無任何補償，讓市民土地免費供公眾使用，無法行使所有權，造成不公平情形。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請市府規劃辦理如案由及附件所示地號之徵收，使市民長年供公眾使用之私人土地，能獲得補償，以符合公平正義。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/10\/18",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2024\/10\/24",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5bc9fc16-3706-467b-b269-4f5eb3ae52d2",
+            "FileName": "4-4定工務議提11附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c3d435e5-8e24-4124-901e-7803e419f79d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

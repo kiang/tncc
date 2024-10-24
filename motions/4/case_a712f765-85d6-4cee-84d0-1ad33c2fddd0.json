@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "3",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "施余興望 Tjakumay Tagaw、李文俊、楊中成、黃麗招、周嘉韋",
+    "CaseCause": "工務局公園管理科納管的永康公園羽毛球場東南側，有排水溝損壞與補植樹木需求。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"永康公園內羽毛球場東南側，排水溝有崩塌現象，請予以修復；且原有兩棵大樹枯死倒塌，雖已移除，但也直接影響羽球隊早上訓練時，面臨陽光直射練習受阻狀況，請予補植樹木或設立遮蔽之措施。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府編列預算辦理。\"}]",
+    "CheckDate": "2024\/10\/18",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/10\/24",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d5373124-e1f0-47bc-b6d7-42dedf64bc78",
+            "FileName": "4-4定工務議提10附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a712f765-85d6-4cee-84d0-1ad33c2fddd0&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

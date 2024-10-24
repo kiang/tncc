@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "82",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳昆和、周奕齊",
+    "OrgTitle2": "曾之婕、盧崑福、杜素吟、林冠維、吳禹寰、李中岑、趙昆原",
+    "CaseCause": "北門區保吉里辦公處反映頭港排水3K+900至約4K+920護岸高度不足。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"頭港排水旁皆是魚塭，因護岸掏空影響很大，希望加高護岸。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/10\/18",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2024\/10\/24",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f4a7ed6d-be5e-424e-9255-9cee54e7e78e",
+            "FileName": "4-4臨工務議提82附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d551d9b1-5ab5-495a-9746-d70bd5d22609&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

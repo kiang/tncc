@@ -24,6 +24,11 @@
             "ErrorMessage": ""
         },
         {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7e24e15f-6fb5-49d5-901c-c67081ae1c02",
+            "FileName": "墊付案補充資料(4-4定期會工務市提15).pdf",
+            "ErrorMessage": ""
+        },
+        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ba9d8870-1f81-40bd-ac04-85e64f00e169",
             "FileName": "鐵道局核定經費函.PDF",
             "ErrorMessage": ""
@@ -33,10 +38,10 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9f8653c5-1f50-4650-9eb5-da6baee3cee5&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
-    "ReDate": "",
+    "ReDate": "2024\/10\/16",
     "ReDesc": "",
-    "FirstDate": "",
-    "FirstDesc": "",
+    "FirstDate": "2024\/10\/24",
+    "FirstDesc": "交付聯席審查。",
     "SecondDate": "",
     "SecondDesc": "",
     "ThirdDate": "",

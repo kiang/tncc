@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "16",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "施余興望 Tjakumay Tagaw、李文俊、楊中成、黃麗招、周嘉韋",
+    "CaseCause": "建請交通局、工務局於永康奇美醫院旁甲頂路規劃行人專用道，以保障行人安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"奇美醫院周邊停車場林立，有醫院與非醫院等停車場，但行人或停放車後往返於甲頂路上（兩側皆無人行空間），兩側路邊雖已劃設禁停紅線，但大量看診、取藥等短時間停放車輛，司機選擇留置車上並暫停路邊等待，導致行人必需跨出行走於車道上，導致險象環生，不能等到發生行人被撞，再來亡羊補牢。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府編列預算辦理。\"}]",
+    "CheckDate": "2024\/10\/18",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2024\/10\/24",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3a199591-5f8f-4830-8081-80527ac56d06",
+            "FileName": "4-4定工務議提9附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=cf287cf0-7f1b-4f85-b99c-4d6b27375fdd&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
