@@ -18,7 +18,13 @@
     "SendNumber": "南議工務字第 1130009271號",
     "DoDesc": "",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b2279a78-15f3-4e6a-8587-fe75061856f1",
+            "FileName": "府水工字第1132335538號-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8fd54930-0cda-422b-8a7c-2ce9da9018e1&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
+    "ExecuteReDate": "2024\/11\/14",
+    "ExecuteReNumber": "府水工字第 1132335538號",
     "ExecuteReMemo": "",
     "ErrorMessage": ""
 }
