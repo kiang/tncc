@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "1",
+        "OrgTitle": "陳怡珍、周奕齊",
+        "CaseCause": "有關臺南市北區中華北路二段252巷、西門路四段逢雨必淹乙案，本席建請臺南市政府儘速檢討周遭排水系統。",
+        "ProNo": "5a498ba7-bfdc-4801-9f76-8c4dc9e7fb59",
+        "PagesAll": "36"
+    },
+    {
+        "DoneDate": "2023\/10\/27",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "2",
         "OrgTitle": "陳怡珍、周奕齊",
         "CaseCause": "有關臺南市北區公園北路與西門路交叉口、公園路與長榮路交叉口逢雨必淹乙案，本席建請臺南市政府儘速檢討周遭排水系統。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "請改善下營區營前南橋拓寬工程，該排水係屬急水溪大排，屬市政府管理，橋面寬度狹窄，亟需辦理改善以利交通。",
         "ProNo": "0d353da6-10b4-4bb4-a5ad-eb9b5385900e",
-        "PagesAll": "36"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "101",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理六甲區中社里南109-1線路面改善工程，因年久失修，路面破損嚴重，龜裂老化現象，路面亟需辦理改善，以利行車安全。",
-        "ProNo": "bad9f5e6-330b-4f4c-bc96-f94e0e892a7d",
         "PagesAll": "36"
     }
 ]

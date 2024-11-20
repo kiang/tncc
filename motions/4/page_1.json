@@ -495,6 +495,17 @@
         "PagesAll": "36"
     },
     {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "專案報告-專案報告",
+        "CaseNumber": "",
+        "OrgTitle": "",
+        "CaseCause": "「臺南市大眾運輸系統含臺鐵及捷運系統高架、地下化財務規劃及經費來源」專案報告",
+        "ProNo": "c7923a19-9879-4517-81e6-84e4d881777b",
+        "PagesAll": "36"
+    },
+    {
         "DoneDate": "2024\/10\/24",
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "工務",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "李宗翰",
         "CaseCause": "建請工務局編列預算，作為天然災害造成公寓大廈公共設施損壞補助經費。",
         "ProNo": "a4ccae3f-d818-432c-b962-c2aa4472dc29",
-        "PagesAll": "36"
-    },
-    {
-        "DoneDate": "2024\/10\/24",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "40",
-        "OrgTitle": "林依婷",
-        "CaseCause": "建請市府加強宣導防火間隔(防火巷)淨空，維護市容及守護民眾安全。",
-        "ProNo": "13127a14-312d-4489-9ad5-f9e13bcbc543",
         "PagesAll": "36"
     }
 ]

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南市大眾運輸系統含臺鐵及捷運系統高架、地下化財務規劃及經費來源」專案報告",
+    "Content": "",
+    "Method": "[{\"tag\":\"p\",\"content\":\"專案報告-「臺南市大眾運輸系統含臺鐵及捷運系統高架、地下化財務規劃及經費來源」（內容詳本會議事錄-專案報告質詢紀錄）\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9877114c-ff7d-4d35-8727-f4dbfdfd3084",
+            "FileName": "1131125議會財務報告_ok.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c7923a19-9879-4517-81e6-84e4d881777b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
