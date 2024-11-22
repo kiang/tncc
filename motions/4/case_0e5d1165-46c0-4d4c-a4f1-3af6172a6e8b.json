@@ -10,14 +10,25 @@
     "CaseCause": "請修正「臺南市爆竹煙火施放管制自治條例」。",
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"煙火種類繁多，不管是高空煙火還是一般煙火，依爆竹煙火管理條例皆屬消防機關管轄，煙火於施放時必定產生火源、噪音、煙塵，造成民眾困擾及失火風險。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"臺南市爆竹煙火施放管制自治條例只有規定「國有林班地、森林遊樂區、醫療機構區等基地內及經本局公告易生危害公共安全之區域內，不得施放爆竹煙火。」，消防局亦於102年2月6日公告高(台)鐵站及古蹟週邊十公尺內禁止施放升空類、飛行類爆竹煙火。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"前述規範對於維護公共安寧及安全顯有不足，且台南目前住宅密集，巷道狹窄消防車救援不易，又新建很多長照機構，未來更有捷運規劃，建請修正相關規定，以維公共安全。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"建請參酌外縣市爆竹煙火管制相關規定，於自治條例或消防局公告內增列以下規定：\"},{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"不得施放未附加認可標示或其他經本局公告之爆竹煙火。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"一般爆竹煙火之升空類及飛行類，非經本局許可不得於每日下午十時至次日上午六時施放。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"下列場所及其基地內，非經主管機關許可不得施放爆竹煙火：\",\"children\":[{\"order\":\"(一)\",\"content\":\"學校、圖書館、加油(氣)站。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"醫院、養護中心、護理之家、老人福利機構、產後護理機構。\",\"children\":[]},{\"order\":\"(三)\",\"content\":\"漁港、碼頭。\",\"children\":[]},{\"order\":\"(四)\",\"content\":\"高速公路、捷運、高（臺）鐵車站高架道路及路權範圍內。\",\"children\":[]},{\"order\":\"(五)\",\"content\":\"古蹟。\",\"children\":[]},{\"order\":\"(六)\",\"content\":\"其他經本局公告者。\",\"children\":[]}]}]}]",
-    "CheckDate": "",
-    "CheckDesc": "",
+    "CheckDate": "2024\/11\/22",
+    "CheckDesc": "函送市府研辦。",
     "DoneDate": "",
     "DoneDesc": "",
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c0d4cde7-342e-4db9-afd7-c52cc6753f64",
+            "FileName": "相關法規.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b1d1f728-15c9-4280-820a-f70a37f0c405",
+            "FileName": "補充說明.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0e5d1165-46c0-4d4c-a4f1-3af6172a6e8b&type=pdf",
     "CheckAttList": [],

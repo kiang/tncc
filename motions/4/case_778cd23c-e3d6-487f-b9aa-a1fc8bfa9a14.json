@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第7次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/11\/21",
+    "ComeNumber": "府工新一字第1132427366號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部國土管理署南區都市基礎工程分署同意「113年度臺南生活圈道路交通系統建設計畫（市區道路）」經費調增需求新臺幣3億2,981萬8,000元(補償費中央補助款1億7,434萬2,000元、地方配合款1億5,547萬6,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部國土管理署南區都市基礎工程分署113年10月25日國署南道一字第1131035737號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"「113年度臺南生活圈道路交通系統建設計畫(市區道路)」之「南121線溪埔中路拓寬暨新闢道路銜接烏橋中路工程」用地補償費用經內政部國土管理署南區都市基礎工程分署同意由原計畫核定1億18萬3,000元(中央款7,914萬4,570元、地方配合款2,103萬8,430元)調整為4億3000萬元(中央補助款2億5,348萬6,510元、地方配合款1億7,651萬3,490元)，爰此配合提列增加新臺幣3億2,981萬8,000元(補償費中央補助款1億7,434萬2,000元、地方配合款1億5,547萬6,000元)，因未及納入本府114年度總預算案，為爭取時效，謹請貴會同意先行墊付，俟114年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年11月19日第673次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案為配合內政部國土管理署生活圈道路交通系統建設計畫（市區道路）案件為配合工程發包進度，需於113年底前完成協議價購，並依中央要求於年底前完成補助經費請撥作業。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=71bd2860-37dc-40cb-8ccb-7d17eb293fbd",
+            "FileName": "36563_2427366A00_ATTCH2.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=dde239c9-6a74-447b-9d67-e27e67b9f10c",
+            "FileName": "36563_2427366A00_ATTCH3.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=778cd23c-e3d6-487f-b9aa-a1fc8bfa9a14&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
