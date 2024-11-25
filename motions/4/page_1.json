@@ -464,6 +464,17 @@
     {
         "DoneDate": "",
         "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "專案報告-專案報告",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "「2024 臺南400 期中成果報告暨2025府城建城300規劃報告」專案報告",
+        "ProNo": "4533b6d5-32e0-487e-ab36-d63ed5f3a2d6",
+        "PagesAll": "36"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "王家貞",
         "CaseCause": "建請市府全面進行體檢臺南市内各大樓騎樓行走通暢情形，以維護用路人行經騎樓時有絕對的安全及便利。",
         "ProNo": "dfaa9348-657a-4ddc-80ce-df477907e43c",
-        "PagesAll": "36"
-    },
-    {
-        "DoneDate": "2024\/10\/24",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "39",
-        "OrgTitle": "李宗翰",
-        "CaseCause": "建請工務局編列預算，作為天然災害造成公寓大廈公共設施損壞補助經費。",
-        "ProNo": "a4ccae3f-d818-432c-b962-c2aa4472dc29",
         "PagesAll": "36"
     }
 ]

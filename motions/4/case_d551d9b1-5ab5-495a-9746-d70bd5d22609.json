@@ -24,7 +24,13 @@
             "ErrorMessage": ""
         }
     ],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5891b4f8-a4d2-42e1-b834-eaeb0d13103c",
+            "FileName": "府水工字第1132352255號-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d551d9b1-5ab5-495a-9746-d70bd5d22609&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -36,8 +42,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
+    "ExecuteReDate": "2024\/11\/22",
+    "ExecuteReNumber": "府水工字第 1132352255號",
     "ExecuteReMemo": "",
     "ErrorMessage": ""
 }
