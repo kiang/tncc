@@ -17,7 +17,18 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e541fb62-d4c5-423b-937a-c43c8e4c2f6d",
+            "FileName": "大內二期垃圾衛生掩埋場補助改善計畫書.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9ee72a55-51df-493c-b484-5bce4ed7b9c2",
+            "FileName": "大內二期垃圾衛生掩埋場補助改善計畫核定函.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=46a6af3d-3af5-499b-8f97-1d400f8b6219&type=pdf",
     "CheckAttList": [],
