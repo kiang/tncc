@@ -352,6 +352,17 @@
         "PagesAll": "36"
     },
     {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "檢送本府擬具之「112年臺南市美術館績效評鑑分析報告」，請准予備查。",
+        "ProNo": "339ba579-be4d-4537-a537-b9cda8a23b49",
+        "PagesAll": "36"
+    },
+    {
         "DoneDate": "2024\/10\/24",
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "建設",
@@ -511,7 +522,7 @@
         "PTypTitle": "保安",
         "KidTitle": "專案報告-專案報告",
         "CaseNumber": "1",
-        "OrgTitle": "臺南市議會",
+        "OrgTitle": "臺南市政府交通局",
         "CaseCause": "「臺南市大眾運輸系統含臺鐵及捷運系統高架、地下化財務規劃及經費來源」專案報告",
         "ProNo": "c7923a19-9879-4517-81e6-84e4d881777b",
         "PagesAll": "36"
@@ -1086,17 +1097,6 @@
         "OrgTitle": "蔡秋蘭",
         "CaseCause": "建請臺南市政府辦理佳里區復興路(仁愛路口至佳西路)路面改善工程。",
         "ProNo": "a0688bdf-808a-4c70-b0a7-7e000250cea1",
-        "PagesAll": "36"
-    },
-    {
-        "DoneDate": "2024\/10\/24",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "38",
-        "OrgTitle": "王家貞",
-        "CaseCause": "建請市府全面進行體檢臺南市内各大樓騎樓行走通暢情形，以維護用路人行經騎樓時有絕對的安全及便利。",
-        "ProNo": "dfaa9348-657a-4ddc-80ce-df477907e43c",
         "PagesAll": "36"
     }
 ]

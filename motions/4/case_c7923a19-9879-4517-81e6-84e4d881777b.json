@@ -5,7 +5,7 @@
     "KidTitle": "專案報告-專案報告",
     "ComeDate": "",
     "ComeNumber": "",
-    "OrgTitle": "臺南市議會",
+    "OrgTitle": "臺南市政府交通局",
     "OrgTitle2": "",
     "CaseCause": "「臺南市大眾運輸系統含臺鐵及捷運系統高架、地下化財務規劃及經費來源」專案報告",
     "Content": "[]",
@@ -21,6 +21,11 @@
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9877114c-ff7d-4d35-8727-f4dbfdfd3084",
             "FileName": "1131125議會財務報告_ok.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=44e511c7-8859-45c8-96b2-5e10e7ec420e",
+            "FileName": "本市鐵路及捷運財源籌措規劃-1131125(財稅局).pdf",
             "ErrorMessage": ""
         }
     ],

@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/11\/04",
     "SendNumber": "南議工務字第 1130009474號",
-    "DoDesc": "",
+    "DoDesc": "本府就「建請工務局編列預算，作為天然災害造成公寓大廈公共設施損壞補助經費。」案，敬答覆如下：\r\n一、有關天然災害造成損害之經費救助，本府社會局訂有臺南市災害救助辦法，相關救助應依該辦法就全市之災害狀況統一辦理。\r\n二、另本府工務局於111年度起編列補助預算辦理公寓大廈共用設施補助修繕計畫，113年度編列980萬元預算，補助項目涵蓋：公共環境清潔衛生維持、公共消防滅火器材維護、公共通道及溝系修繕、外牆磁磚或裝飾材修繕、其他相關設施修繕。倘公寓大廈公共設施損壞得由管委會依本計畫申請修繕補助。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=aaf0a622-7095-4923-bda5-40279317bb70",
+            "FileName": "4-4定工務議提39回函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a4ccae3f-d818-432c-b962-c2aa4472dc29&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/11\/28",
+    "ExecuteReNumber": "府工使一字第 1132352990號",
+    "ExecuteReMemo": "本府就「建請工務局編列預算，作為天然災害造成公寓大廈公共設施損壞補助經費。」案，敬答覆如下：\r\n一、有關天然災害造成損害之經費救助，本府社會局訂有臺南市災害救助辦法，相關救助應依該辦法就全市之災害狀況統一辦理。\r\n二、另本府工務局於111年度起編列補助預算辦理公寓大廈共用設施補助修繕計畫，113年度編列980萬元預算，補助項目涵蓋：公共環境清潔衛生維持、公共消防滅火器材維護、公共通道及溝系修繕、外牆磁磚或裝飾材修繕、其他相關設施修繕。倘公寓大廈公共設施損壞得由管委會依本計畫申請修繕補助。",
     "ErrorMessage": ""
 }
