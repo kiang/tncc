@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "12",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王宣貿、沈震東、余柷青",
+    "OrgTitle2": "朱正軒、李中岑、Ingay Tali 穎艾達利",
+    "CaseCause": "建請臺南市政府評估運用較無運用之警察局派出所。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"警察局執行聯合執勤已有段期間，本市有許多派出所已較無使用或使用率較低等狀況。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"舉後壁區菁寮派出所為例，目前該派出所較無使用，但該里缺乏里活動中心以及觀光區域運用，若運用較無使用的菁寮派出所，則得以解決該狀況。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"建請臺南市政府盤點警察局較無使用之警察派出所，評估多方能夠多功能運用。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2024\/11\/22",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=055121f1-3176-4697-96d2-db86495189f9",
+            "FileName": "王宣貿議員-盤點警察局較無使用之警察派出所.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=34413b17-b619-45f5-b662-64ce7b410d99&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

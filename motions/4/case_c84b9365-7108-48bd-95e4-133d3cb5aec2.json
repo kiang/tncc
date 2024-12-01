@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "61",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "李文俊、周嘉韋、陳秋宏、楊中成、施余興望 Tjakumay Tagaw、黃麗招",
+    "CaseCause": "建請市府善用活化永康區20M計畫道路支道，忠孝一路國防部閒置土地(附圖)。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"利用20M計畫道路開闢期間於神洲里原精忠九村國防部所屬閒餘空地，因道路拓寬路邊常有丟棄物，使得代管單位疲於處理，何不思考利用現有資源設置任務型停車場。\"},{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"紓解忠孝路拓寬期間，大量民眾苦無停車位的窘境。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"紓解中華里騎樓違停、攤販等遭大量檢舉，導致停車位嚴重不足的窘境。\",\"children\":[]}]},{\"tag\":\"p\",\"content\":\"建請市府納入規劃實施，以解民憂。\"},{\"tag\":\"ol\",\"children\":[]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/22",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1e38d82b-be45-4c54-b0a7-9a0541bf5aba",
+            "FileName": "李鎮國議員-忠孝一路國防部閒置土地設置任務型停車場.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c84b9365-7108-48bd-95e4-133d3cb5aec2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "37",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "李文俊、楊中成、施余興望 Tjakumay Tagaw、郭鴻儀",
+    "CaseCause": "建請交通局增設永康區忠孝一路春福采采社區週邊YouBike據點。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"永康區忠孝一路為新闢建道路，主要疏通往返高速公路的交通問題，同時帶動忠孝一路的城市發展(如圖)，目前已知新建大樓春福采采、春上春福、三發夢世代等有6個社區，且已完工入住，西接平實轉運站，東接大灣交流道，實為交通需求大增，藉由YouBike的增設提供市民更多的便捷性。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府編列預算辦理。\"}]",
+    "CheckDate": "2024\/11\/22",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7e2d8eff-7e47-42a6-80f3-9427b09da061",
+            "FileName": "李鎮國議員-增設永康忠孝一路春福采采週邊youbike據點.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=80f5d3b4-0264-452d-9c86-4fd41252fef7&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

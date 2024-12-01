@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "70",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "Ingay Tali 穎艾達利",
+    "OrgTitle2": "陳昆和、盧崑福、王宣貿、周麗津、蔡宗豪、陳皇宇、余柷青、李宗霖、陳怡珍、施余興望 Tjakumay Tagaw、李中岑、蔡筱薇、王家貞、陳碧玉、周奕齊、蔡育輝、方一峰",
+    "CaseCause": "建請市府研議於健康路\/大同路叉口規劃汽車左彎待轉區線可行性，以利往來車流順暢。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"按大同路二段上行往一段方向，行經健康路林森路口處欲左轉西行往健康路一段逢紅燈停等時，雖本處設有左轉專用道、同時設有左轉時向號誌，惟因此處未設左轉待轉區線而路距較長，在左轉時向秒數較短情形下得順利自現時車道停止線(約於大同路二段100巷口)左轉通行至健康路車輛有限，常致車輛搶時穿行風險或大同路二段車行遲滯。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"按《道路交通標誌標線號誌設置規則》第184條規定，於設有「左彎專用車道」及「左轉時相」時，可劃設「左彎待轉區線」，用以指示左彎車輛在直行時相時段進入待轉區等候左轉。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"爰此建請市府斟酌損益、研議於此路口劃設左彎待轉區線之可行與必要性，俾利車輛通行安全。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2024\/11\/22",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c8421d34-e181-4b2a-bf02-84f55b37a686",
+            "FileName": "Ingay Tali議員-健康路大同路叉口規劃汽車左彎待轉區線可行性.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=99fafda7-5479-480e-9671-a270d900d3ec&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "101",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "趙昆原、Ingay Tali 穎艾達利",
+    "OrgTitle2": "陳昆和、周麗津、陳皇宇、林美燕、李啓維、陳怡珍、李偉智、吳禹寰",
+    "CaseCause": "建請市府針對民治市政中心週邊道路設置停車動態導引系統牌面，以利民眾洽公停車。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"民治市政中心路外停車場已於2023年8月1日開放民眾收費停車，但經民眾反映因停車場分為四區並分布在市府四周，沒有即時停車資訊，洽公時需不斷找尋停車格，對於民眾洽公相當不便，故本席建請市府針對民治市政中心周邊道路設置停車動態導引系統牌面（如附件）。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/22",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7a1a072e-9d29-4295-b4fc-6975d0ec439f",
+            "FileName": "趙昆原議員等-民治市府周邊道路設置停車看板.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5292b71b-c0fc-49f0-8b50-fea9574aa37f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

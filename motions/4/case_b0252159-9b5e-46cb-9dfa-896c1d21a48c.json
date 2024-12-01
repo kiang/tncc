@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "73",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "李文俊、施余興望 Tjakumay Tagaw、黃麗招",
+    "CaseCause": "「建請市府規劃各學校、公園、醫院、活動中心等公家機關週邊區域原白色斑馬線改變為綠白雙色斑馬線(如附圖)及改善行人友善空間之預算。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"隨著臺南市區域發展與公共設施的逐步完善，為了提升市民的生活品質和行人安全，市政府計劃在學校、醫院、公園、活動中心及公家機關等重點區域設置雙色斑馬線(綠白版本)，以提高行人的可見度並改善交通安全。然而，像永康區東橋里這樣的區域，雖擁有學校、公園及新建的臺南圖書新總館等多項重要公共設施，但在行人安全和交通設施的規劃上，仍有改善的空間。\"},{\"tag\":\"p\",\"content\":\"因此，本提案建議市政府在東橋里及其他類似區域，增設更多行人友善設施，尤其是加強公園，活動中心等公家機關、公共設施周邊的交通標示，並設置醒目的綠白雙色斑馬線，以進一步提升行人的安全性，並改善整體交通環境。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/22",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b92b56c8-2543-41d3-bf58-ca9e4e22d08b",
+            "FileName": "李鎮國議員-綠白雙色人行斑馬線.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b0252159-9b5e-46cb-9dfa-896c1d21a48c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
