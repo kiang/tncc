@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "121",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "李文俊、黃麗招、周嘉韋、施余興望 Tjakumay Tagaw、林美燕",
+    "CaseCause": "建請市府將永康區復國一路120巷至復國一路150巷口及復國一路210巷至復華二街口柏油路面重新翻修，以保障民眾往來通行之安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"原復國一路120巷至復華二街口已有『錄案辦理重鋪』事宜，但水利局涵管工程完畢會重鋪設工程範圍雙側車道(如圖)，屆時從復國一錄120巷至復華二街口，中間因工程重鋪，造成整條道路前、中、後道路鋪面不同更容易造成交通上的安全問題，現提案2段希望與中段能聯結，不至於一條道路崎嶇不平。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=93fba051-9c1a-427c-80ba-3f1df2f9729b",
+            "FileName": "4-4工務議提121附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d6b1f830-2b5f-4f4f-b68c-85724e5e34c4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

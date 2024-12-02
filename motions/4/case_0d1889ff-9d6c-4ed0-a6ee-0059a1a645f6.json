@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "137",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "周嘉韋",
+    "OrgTitle2": "林志展、鄭佳欣、謝舒凡、沈家鳳、陳秋宏、李宗翰、李宗霖、林依婷",
+    "CaseCause": "建請市府針對北區東興路二段路面柏油重新鋪設。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"東興路二段現況路面殘破顛簸，容易使用路人造成騎乘上的不適及徒增風險。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請市府針對北區東興路二段路面重新鋪設。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"附圖一、二為現況。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如說明。\"}]",
+    "CheckDate": "2024\/11\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e153d8e9-55c8-4915-a47b-e430b6bea0bf",
+            "FileName": "北區東興路二段 137.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0d1889ff-9d6c-4ed0-a6ee-0059a1a645f6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "108",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "黃麗招、李文俊、朱正軒、邱昭勝",
+    "CaseCause": "建請市府將永康區中華西街127巷30弄連鎖磚及中華西街與大橋一街路口至中華西街127巷口柏油路面重新翻修，以保障用路人往來通行之安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"建請將永康區中華西街127巷30弄連鎖磚重新翻修，將連鎖磚更改為柏油路面，因連鎖磚易鬆動造成用路人安全疑慮，且遇大雨易有積水問題。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"中華西街與大橋一街路口至中華西街127巷口，柏油路面需重新翻修，因年久失修導致AC路面有磨光老化、龜裂破損且粒料剝離的狀況，造成行經該處用路人通行之安全疑慮。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"建請臺南市政府編列預算辦理\"}]",
+    "CheckDate": "2024\/11\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5f732f75-b387-49a4-8122-94c0d8d81faf",
+            "FileName": "4-4定工務議提108附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=88202155-900a-4b4d-a694-60e75f3eab96&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

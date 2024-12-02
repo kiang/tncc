@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "203",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "李文俊、楊中成、林美燕、施余興望 Tjakumay Tagaw",
+    "CaseCause": "建請市府重新全面討論關於集合住宅大廈除防火門外加裝防盜門因阻礙安全梯出入口面臨全拆之改善方案。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"大臺南地區集合式大廈住宅，大多屋齡20年以上，市民除原建商之防火門(如圖)另加裝防盜門(其中精忠新城是10年屋建商於房屋完工即已兩者安裝完畢)，新舊屋與現行法規不符，同時也造成市民的困擾，且目前拆除費用有管委會的得開住戶大會商議，如無則由住戶自行處理，造成市民極大的反彈，是否參考臺北市與臺中市的作法。\",\"children\":[{\"order\":\"(一)\",\"content\":\"建造當時即已設置門艦者，尚可依當時核准狀態使用，但為避免妨害人員避難逃生，或可接受切除門檻處再輔以遮煙條設置方式辦理。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"安全梯出入口之防火門設有門檻者，可於門檻處貼反光條。\",\"children\":[]},{\"order\":\"(三)\",\"content\":\"安全梯出入口之防火門設有門檻者，得於門檻通往避難層方向處輔以設置不限材質之坡道，並應符合建築物無障礙設施設計規範之坡道作順平改善。另考量住宅類場所無須檢討設置屋頂避難平台，屋突層之安全門倘設置門檻得不納入應改善範圍(附件)。\",\"children\":[]},{\"order\":\"(四)\",\"content\":\"是否編列經費預算補助於市民拆裝費用，利於執行法規。\",\"children\":[]}]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/21",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2499ad79-daa3-4e8e-9c2a-0817f7e6991e",
+            "FileName": "4-4定工務議提203附件1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c607d051-9fc0-4a1c-9752-6d4e9f04cacd",
+            "FileName": "4-4定工務議提203附件2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=759e7a67-9c44-4a26-ba56-83655be7f40c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

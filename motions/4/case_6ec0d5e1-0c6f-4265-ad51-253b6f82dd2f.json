@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "15",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "趙昆原、吳通龍、陳怡珍、李中岑、周麗津",
+    "CaseCause": "建請市府徵收新化區公有市場旁市場用地，設置為市場附屬設施-停車場用地，以利民眾停車使用。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據民眾陳情辦理，新化區公有市場因停車位不足導致民眾採買不便，影響攤商生計。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請市府徵收新化區新安段944〜946、948〜950、952~953-1、959、962、884-3多筆地號，闢建停車場以供民停放。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/22",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4d927c69-8c13-44f6-bc83-83295779206a",
+            "FileName": "經發-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6ec0d5e1-0c6f-4265-ad51-253b6f82dd2f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

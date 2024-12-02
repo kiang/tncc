@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "202",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "黃麗招、李文俊、林美燕、施余興望 Tjakumay Tagaw",
+    "CaseCause": "建請市府工務局增設永康區永明里永明街與國民路往南之照明設備。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"針對永明里永明街與國民路往南(永康區西勢新灣橋旁西勢中排一、西勢小給1-3線(屬永明里區已完成無燈如圖)，社區營造成績卓越成為民眾散步休閒的好去處，請市府請工務局增加其預算並檢討是否改為其他能源，例如太陽能燈。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2f0d13c7-f3e4-4ae8-bb57-95219042d3bb",
+            "FileName": "4-4定工務議提202附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=423630d3-26cc-42c3-be8f-7a9716074880&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

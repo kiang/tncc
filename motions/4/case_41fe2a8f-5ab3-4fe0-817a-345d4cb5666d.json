@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "198",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "Ingay Tali 穎艾達利、尤榮智、吳通龍、李鎮國、蔡淑惠、林冠維、曾培雅、蔡育輝",
+    "CaseCause": "建請重新鋪設本市南區彰南里活動中心前柏油路面。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"該路段(如附件所示)之柏油路面嚴重龜裂，管線挖埋後之回補亦不美觀，斑馬線遭挖除後迄未補畫，路面之高低差亦對行車安全造成危險，請排程鋪設該處柏油路面。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=544ba319-1cfc-44c0-9668-5c914cbbffc8",
+            "FileName": "4-4定工務議提198附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=41fe2a8f-5ab3-4fe0-817a-345d4cb5666d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

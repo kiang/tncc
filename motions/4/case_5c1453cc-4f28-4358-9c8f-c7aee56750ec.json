@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "144",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "周嘉韋",
+    "OrgTitle2": "林志展、鄭佳欣、沈家鳳、謝舒凡、李宗翰、陳秋宏、李宗霖、林依婷",
+    "CaseCause": "建請市府針對北區實踐街39巷路面柏油重新鋪設。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"實踐街39巷現況路面殘破顛簸，容易使用路人造成騎乘上的不適及徒增風險。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請市府針對北區實踐街39巷路面重新鋪設。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"附圖一、二為現況。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如說明。\"}]",
+    "CheckDate": "2024\/11\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=81d4e634-188a-4107-ac44-9c2e6ea3829a",
+            "FileName": "北區實踐街39巷144.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5c1453cc-4f28-4358-9c8f-c7aee56750ec&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

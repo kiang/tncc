@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "88",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳昆和、周奕齊",
+    "OrgTitle2": "杜素吟、盧崑福、方一峰、蔡秋蘭、曾之婕、周麗津、尤榮智",
+    "CaseCause": "北門區錦湖里渡子頭段470-6漁產道路改善工程。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"路面損壞，坑坑巴巴的，幾處有坑洞，行駛上危險，以提升地區居民居住品質，請惠予補助經費。\"},{\"tag\":\"p\",\"content\":\"經費:四百一十六萬九千元整。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/22",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fce137bf-bbc8-493b-83d8-6851151e19c5",
+            "FileName": "編號88.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fa053565-c6e4-4dc7-92ad-177b197c9c54&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

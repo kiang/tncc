@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "102",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "沈震東",
+    "OrgTitle2": "李鎮國、黄肇輝、余柷青",
+    "CaseCause": "建請臺南市政府經發局及財稅局進行西門商場及西市場古蹟介面之防火巷之水溝蓋板設置。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"因西門商場及西市場兩處之權責單位不同，為防止火災逃生造成更多危險，建請儘速設置。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2024\/11\/22",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fde7ff35-2944-4bf1-95d7-0635f171dc4d",
+            "FileName": "102-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=124af14d-fee7-42df-9bdf-f0bf0d147b5c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

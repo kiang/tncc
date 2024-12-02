@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "63",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳昆和、周奕齊",
+    "OrgTitle2": "曾之婕、盧崑福、杜素吟、林冠維、吳禹寰、李中岑、趙昆原",
+    "CaseCause": "北門區鯤江段834-1護岸改善工程。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"現地於南興養殖生產區內，因凱米颱風期間大雨造成大面積淹水。經會勘，該地地勢低窪，且大雨期間第五河川局管理之水閘門為確保堤內安全，將維持關閉，進而導致該區無法排水至急水溪，故除了考慮加高護岸減緩道內水溢出至道路外，另請農業局提報至漁業署，爭取2座移動式抽水機組，屆時可委託水利局協助代為管理。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/22",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d87dafa2-91a6-4b9b-a62d-7117a2df07e9",
+            "FileName": "編號63.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=657c4b3f-cddc-41bf-808f-1dc1c6371164&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

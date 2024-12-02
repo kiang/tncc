@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "229",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "黃麗招、李文俊、朱正軒、邱昭勝",
+    "CaseCause": "建請市府重新評估新興地區社區營造地區景觀燈裝設支出之預算。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"社區營造係臺南市最引以為傲的成績，但現有水利局用地或其他局處用地，包括中央農田水利會也有意願順應時勢，附合民意，皆因地區發展與社區營造已擴及許多河濱道路(永康區西勢新灣橋旁西勢中排一、西勢小給1-3線(已完成，無燈如圖)、塩行河邊春夢(已完成)、大灣中排，社區營造成績卓越，成為民眾散步休閒的好去處，所以有晚上照明需求，相對永康區公所路燈經費並無因照明需求增加而增加預算編列，請市府增加其預算並檢討是否改為其他能源，例如太陽能燈。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=db92f48f-3f00-4a7b-9e66-16d03b1b71ed",
+            "FileName": "4-4定工務議提229附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7056ed01-4d55-4a1c-bd64-21578c7f1c0d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "228",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "李文俊、施余興望 Tjakumay Tagaw、黃麗招、邱昭勝",
+    "CaseCause": "建請臺南市政府水利局改善機動抽水機自動檢測系統，於大雨及急降雨時的操作時間不會延遲。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"永康區高速一街正強里及高速二街東橋里(如圖)皆裝置有機動抽水機，機動抽水機係委外經營，而外包廠商習慣委託當地住户代為操作並給予少許工資，因為就近方便，但住戶操作上因非專業，過程會卡卡且要肩負疏失與淹水責任，導致許多地方民眾參與意願度不足，就只能靠包商技師來回奔波而影響即時救災時效。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"可以檢討自動檢測系統來克服此類狀況。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府編列預算辦理。\"}]",
+    "CheckDate": "2024\/11\/21",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8644bed9-5409-4b84-8566-e4ec5073800f",
+            "FileName": "4-4定工務議提228附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=03ec065a-fc57-49c8-840d-afda51cd2242&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

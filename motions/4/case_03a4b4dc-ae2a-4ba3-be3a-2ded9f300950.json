@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "197",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "Ingay Tali 穎艾達利、尤榮智、李鎮國、蔡淑惠、曾培雅、林冠維、蔡育輝、吳通龍",
+    "CaseCause": "建請重新鋪設本市南區新興路與新建路及碳佐麻里園區周邊柏油路面。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"該路段為本市指標商業區，除有南臺灣最大誠品商場外，更有全球最大燒肉店「碳佐麻里」，為本市最新開幕之商場。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為該園區附近柏油路面嚴重龜裂(如附件所示)，管線挖埋後之回補亦不美觀，斑馬線遭挖除後迄未補畫，路面之高低差亦對行車安全造成危險，亦損及本市門面形象，請排程鋪設該處柏油路面。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=726516f4-c2a7-4332-9556-68b8ccc1e11d",
+            "FileName": "4-4定工務議提197附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=03a4b4dc-ae2a-4ba3-be3a-2ded9f300950&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
