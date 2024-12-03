@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "4",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林冠維",
+    "OrgTitle2": "方一峰、吳禹寰、曾之婕、杜素吟、盧崑福",
+    "CaseCause": "請市府確實依據行政院主計總處「114年度共同性費用編列基準」，編列文康活動經費為每人每年新臺幣3,000元。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"近來旅宿、餐飲、交通等費用連年上漲，原各級政府編列文康活動費編列基準為每人每年1,000元已不合時宜，故行政院主計總處頒定「114年度共同性費用編列基準」已調整至每人每年為3,000元，以維持文康活動之品質。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"惟市府竟未依據前揭編列基準調整，仍固守在既有之每人每年1,000元，將使往後辦理文康活動時限於窘迫，恐使參與者產生不良體驗。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"且本市以外之六都以及諸多縣(市)多已於114年預算上遵守該編列基準調整到位(詳如附件所載)，本市已淪為末段班，故請確實依據共同性費用編列基準辦理。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=51c6b193-ea9b-4f1c-a7e8-e5639806e3ee",
+            "FileName": "定4-4議提附件-人事處-增加文康活動經費編列.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=85bdd3b1-d446-473c-a3cd-0a38f6ecb678&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

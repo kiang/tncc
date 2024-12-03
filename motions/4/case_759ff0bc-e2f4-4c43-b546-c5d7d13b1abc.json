@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "44",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "施余興望 Tjakumay Tagaw、郭鴻儀、楊中成、李文俊、黃麗招",
+    "CaseCause": "建請臺南市政府開放各級學校後門、側門提供給市民方便進出運動。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"學校與社區為共生共存關係，多處學校於學生下課放學後，皆有讓社區民眾親近校園讓大家能入校園操場運動，減少在馬路上運動健走等交通危險性。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"疫情過後至今觀察許多學校卻仍規定只能由正門進入，後門、側門皆關閉長期上鎖，但觀察多處學校校地地形確實複雜，由正門進入其實皆需繞行甚遠，導致最常見的是民眾爬牆、爬側門欄杆進入學校，已經產生相當危險性，導致各議員服務處也常接獲里長、民眾等建議其社區需求，但往往常被一個校園安全顧慮、保全人手不足等理由回覆，例附件：永仁高中。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"回顧2009「無圍牆校園」發展歷程至今，民眾認為綠圍籬校園不僅讓學校變得更美麗，也拉近社區與學校的距離，營造友善校園。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"學校安全重點在於防護措施是否到位是否執行徹底，建議針對各校後門、側門可訂定開放時間，能讓學校保全於關門時間前巡視校園安全外，亦能讓民眾知悉校方的友善行為，甚至也能順勢讓晚間運動民眾參與「校園巡守隊」等型態來協助校園安全。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請臺南市政府編列預算辦理。\"}]",
+    "CheckDate": "2024\/11\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=14d22456-013d-443e-b502-a63712112de3",
+            "FileName": "定4-4-議提附件-教育局-開放學校出入供民眾運動.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=759ff0bc-e2f4-4c43-b546-c5d7d13b1abc&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

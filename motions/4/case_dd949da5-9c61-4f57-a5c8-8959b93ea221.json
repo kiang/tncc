@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "108",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡宗豪",
+    "OrgTitle2": "李中岑、王家貞、周麗津、盧崑福、Ingay Tali 穎艾達利、蔡育輝",
+    "CaseCause": "建請市府重新整修中西區南門里活動中心內部及外部重新整修。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"中西區南門里活動中心於民國79年至今己完工多年，且長期供里民及社區活動使用，該址己多處及眾多設施、安全設備己不堪使用，建請市府撥允經費以供整修，給里民及社區一個安全無慮的休閒場地。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=904e3a80-530d-4efc-873f-ab80e4fc4b94",
+            "FileName": "民教(民政局)-南門里活動中心整修圖.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=dd949da5-9c61-4f57-a5c8-8959b93ea221&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

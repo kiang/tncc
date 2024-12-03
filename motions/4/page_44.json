@@ -1,0 +1,35 @@
+[
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 臨時會",
+        "PTypTitle": "法規",
+        "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府財政稅務局",
+        "CaseCause": "修正「臺南市房屋稅徵收率自治條例」草案，敬請審議。",
+        "ProNo": "5e230b77-44a1-4d5d-a95b-74043063d239",
+        "PagesAll": "44"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "",
+        "PTypTitle": "民政教育",
+        "KidTitle": "查照\/備查案-法規備查案",
+        "CaseNumber": "33",
+        "OrgTitle": "臺南市政府教育局",
+        "CaseCause": "TEST",
+        "ProNo": "b4ee853d-05e5-4a06-997b-e5918c5310bd",
+        "PagesAll": "44"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "30",
+        "OrgTitle": "臺南市政府教育局",
+        "CaseCause": "修正「臺南市高級中等以下學校身心障礙學生獎補助辦法」.",
+        "ProNo": "786ef834-e7a6-4174-aa21-cdd6f1619468",
+        "PagesAll": "44"
+    }
+]

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "105",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "尤榮智、Ingay Tali 穎艾達利、李鎮國、蔡淑惠、曾培雅、林冠維、蔡育輝、吳通龍",
+    "CaseCause": "請確實改善南區竹溪里活動中心之座椅，以維護使用者安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本市南區竹溪里活動中心供民眾使用之座椅(如附件所示)約50把，除逾使用年限外，結構及支架變形，且椅面磨損產生擦痕，已生危安疑慮，並經造成多位長者摔跤及割傷。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請盡速採購穩定度較高，承重結構較好之新座椅，避免因公務員怠於行使職務，致使用者受傷，滋生國家賠償責任。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=47e7f108-dad0-4df6-8ae0-964649866c15",
+            "FileName": "南區竹溪里活動中心座椅圖.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=cf973a87-0428-4f12-8bbc-4d6fd6c04416&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

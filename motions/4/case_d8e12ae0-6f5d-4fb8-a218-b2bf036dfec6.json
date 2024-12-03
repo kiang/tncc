@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "100",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "吳禹寰",
+    "OrgTitle2": "曾之婕、盧崑福、杜素吟、郭信良、林冠維、尤榮智、李中岑、周麗津、周奕齊",
+    "CaseCause": "建請市府盡速規畫於關廟區興建第二座納骨堂。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"有關關廟區立第一納骨堂是一座3層樓建築，座北朝南，佔地約125,985平方公尺，設有階梯式4層停車場、管理室、土地公及金銀爐、男女廁所；一樓主祀地藏王菩薩、二樓阿彌陀佛、三樓觀世音菩薩，塔內現設有234個骨骸櫃、15,570個骨灰櫃、693個神主牌位。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"關廟區公所第一納骨堂專區，塔位使用情形（每月更新，塔位使用現況-至113年4月30日為止）骨骸區已不出售(設施統計表如附件)。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"目前剩骨灰櫃為數不多，在多次遷葬後，還有塔位數量所剩不多，民政局是否要提前部屬增設塔位，若塔位不足是否要在關廟區另尋新建第二座納骨堂。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2024\/11\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=700b74d9-243c-4518-8bd9-426180e60705",
+            "FileName": "關廟區第一座納骨堂設施統計表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d8e12ae0-6f5d-4fb8-a218-b2bf036dfec6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "5",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "Ingay Tali 穎艾達利、余柷青、曾之婕、王宣貿、吳通龍、蔡育輝",
+    "CaseCause": "請原民會跨域整合工務局資源，將Tabe札哈木樂原園區整體規劃，並將整合成果以參賽金質獎為目標。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"目前安平區Tabe札哈木樂原園區之原住民族創意中心主體建築興建中，預計114年6月間完工，擬作為品牌行銷、育成推廣、產品研發及創意市集之多功能用途。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"惟緊鄰原住民族創意中心主體建築工地旁之人行道，忽狹忽寬，地磚破落，路樹死亡亦未補足，聽任雜草叢生，影響園區整體景觀。(如附件圖示)\",\"children\":[]},{\"order\":\"三、\",\"content\":\"為將該園區打造為安平地標景點，提供市民良好休憩環境，請原住民族事務委員會整合工務局資源，整建人行步道現況，將園區建置成果報請參加金質獎之競賽。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=38f0c709-5362-4e95-9651-7c0727746937",
+            "FileName": "附件圖示-Tabe札哈木樂園園區地磚破損圖.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a5aea148-e77b-46a6-aafa-bea5ca6650e4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

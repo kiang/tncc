@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 臨時會",
+    "PTypTitle": "建設",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2024\/12\/03",
+    "ComeNumber": "府觀業字第1132492460號",
+    "OrgTitle": "臺南市政府觀光旅遊局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部觀光署核定本府辦理114年度「交通部觀光署協助地方政府執行違法旅宿管理工作」補助計畫，總經費431萬1,000元(全額中央補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據交通部觀光署113年11月20日觀宿字第1130601187號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，「經上級政府核定之補助款，所使用之支出」規定辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明:交通部觀光署核定本府辦理114年度「交通部觀光署協助地方政府執行違法旅宿管理工作」補助計畫，補助經費含「聘用旅宿管理工作人員」、「租賃稽查車輛」等費用，總經費431萬1,000元(全額中央補助)，因未及納入本府114年度總預算案，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府113年12月3日第675次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案為持續執行違法旅宿勤務作業能不間斷，以維護旅客住宿安全，提升本府旅宿業品質；又因涉及執行違法旅宿聘用管理工作人員每月薪資發放，故有於本會期提出墊付案申請之緊急性。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟114年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=af975e54-2e49-4cbc-a8ed-c3eb04e13c93",
+            "FileName": "市提3附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d9bf35fc-c938-4120-8e87-c5b704cc5631&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

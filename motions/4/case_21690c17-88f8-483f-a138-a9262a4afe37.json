@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "86",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林冠維",
+    "OrgTitle2": "盧崑福、杜素吟、曾之婕、周奕齊、陳怡珍、尤榮智、郭信良、周麗津、陳昆和、方一峰",
+    "CaseCause": "請市府協助將永康區龍潭、永明里聯合活動中心前方等鄰近地區之電纜及電氣設施地下化。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"電纜與電氣設施地下化可以減少天然災害對配電線路的危害，同時也有助於改善道路品質和美化景觀，尤其是人口密集與活動頻繁之處所，如永康區之龍潭、永明里聯合活動中心前方(如附件照片所示)尚未完成，其密臨之處所多已完成地下化，僅餘該聯合活動中心尚未完成，故應加強該處所電纜及電氣設施地下化之推動。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"雖電纜地下化非單屬市府權責，建請該聯合活動中心之主管機關，應積極與台電公司協調，共同尋覓足夠之空間安排，和孔蓋掩埋方式，避免電纜及配電設備與行人爭道的情況，故請積極和相關單位協作，促進環境美化及市民安全。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c1c4139f-b4c6-40bd-a16f-06a3ca6745f6",
+            "FileName": "永康龍潭、永明里聯合活動中心前方設施圖.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=21690c17-88f8-483f-a138-a9262a4afe37&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

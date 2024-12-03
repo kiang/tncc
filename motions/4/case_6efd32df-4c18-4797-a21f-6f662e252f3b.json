@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "68",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "鄭佳欣",
+    "OrgTitle2": "邱莉莉、林志展、蔡麗青、沈家鳳、沈震東、杜素吟、陳秋宏、余柷青、謝舒凡、林依婷、林美燕、尤榮智、邱昭勝、林冠維、王宣貿、蔡育輝、朱正軒、曾之婕、施余興望 Tjakumay Tagaw",
+    "CaseCause": "建請市府儘速在新豐區公私立幼兒園内增設集中式特教班，幫助慢飛的孩子迎頭趕上，有助於孩子進入國民教育義務，增加孩子融入社會的能力和機會。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"目前新豐區公私立幼兒園內皆無學齡前集中式特教班，特殊幼兒只能勞於奔波往中西區、北區、新營區尋找適合的特教班，路途更遠的孩子也只能放棄適合的環境。讓特殊幼兒進入不適合的校園，更容易錯失良好、適合的學習機會。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請市府儘速在新豐區公私立幼兒園内增設集中式特教班，幫助慢飛的孩子子迎頭趕上，有助於孩子進入國民教育義務，增加孩子融入社會的能力和機會。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8b2ce45b-fcda-43b2-9060-b5c258c379be",
+            "FileName": "定4-4議提附件-教育局-新豐區幼兒園增設集中式特教班.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6efd32df-4c18-4797-a21f-6f662e252f3b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

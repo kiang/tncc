@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "31",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "邱莉莉、王宣貿、鄭佳欣、施余興望 Tjakumay Tagaw",
+    "CaseCause": "請重新檢視並修建補強體育公園內蒸汽火車頭展覽場之遮雨棚結構安全，並採修建補強措施。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"兩部退休蒸氣老火車頭自民國72年自高雄及嘉義搬移至體育公園至今，吸引相當多市民前往參觀。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"但遮雨棚之支撐鋼架因年久失修，生鏽鬆動，支柱已無法併攏，影響遮雨棚結構完整，有必要重新檢視並修建補強，以維護參觀民眾安全。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2b8847ab-39dd-4e6e-8875-25bb727ec4ca",
+            "FileName": "定4-4議提附件-體育局-體育公園火車頭遮棚.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fcf0af05-5541-4b83-ae53-f7a0c440dd7c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

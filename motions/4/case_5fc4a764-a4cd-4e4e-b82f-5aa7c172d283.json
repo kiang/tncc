@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "32",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "邱莉莉、方一峰、林冠維、Ingay Tali 穎艾達利、吳通龍",
+    "CaseCause": "體育公園內橄欖球場旁變電箱之覆蓋木板已鬆動，請重新架設。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"覆蓋體育公園橄欖球場旁變電箱之木板已完全鬆動脫落，僅以幾根鐵絲綑綁，且門鎖已無任何作用，除不美觀之外，亦已使變電箱失去保護功能。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請即重新架設覆蓋該變電箱之設施，以確實隔離變電箱，排除一般民眾或兒童接觸到，以保障市民生命安全。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=038853eb-e0ff-41ba-9266-1b92c6a4f4c1",
+            "FileName": "定4-4議提附件-體育局-體育公園橄欖球場變電箱木板.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5fc4a764-a4cd-4e4e-b82f-5aa7c172d283&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
