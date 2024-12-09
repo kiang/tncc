@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "44",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "鄭佳欣、邱莉莉、林志展、Ingay Tali 穎艾達利、謝舒凡、蔡筱薇、周嘉韋、陳怡珍、林依婷、沈家鳳、王宣貿、林冠維、朱正軒、余柷青、周奕齊",
+    "OrgTitle2": "蔡蘇秋金、陳秋宏、周麗津、陳皇宇、蔡宗豪、蔡育輝、方一峰、曾之婕、吳通龍、曾培雅、施余興望 Tjakumay Tagaw、李啓維、蔡淑惠、尤榮智、李偉智、許至椿、林燕祝、李鎮國",
+    "CaseCause": "建請市府盡速將兒童早期療育補助計畫放寬至18歲，並評估補助額是否提高(單次補助不設上限)。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"目前政府實施兒童早期療育補助計畫(0-6歲孩童)，在6歲以前發現兒童有發育遲緩並幫助孩子迎頭趕上，有助於孩子進入國民教育義務，增加孩子融入社會的能力和機會與減輕家庭負擔。但這些孩子並不是6歲以後就會好。目前六都其中有四都針對6歲以上，皆有療育補助政策。(目前臺南市、高雄市未有政策補助6歲以上早療兒童補助)\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請市府盡速將兒童早期療育補助計畫放寬至18歲，並評估補助計畫金額是否提高(單次補助不設上限)，讓需要長期復健的孩子們能受到更妥善的安排、更有力量的往前走，減輕弱勢家庭的經濟重擔。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/22",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a4184b43-d520-4951-a188-a0313e1ceb82",
+            "FileName": "議提附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c6420407-71a7-48aa-af61-389a60a914a4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
