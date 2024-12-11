@@ -19,6 +19,11 @@
     "DoDesc": "",
     "AttList": [
         {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=694758c5-2292-4659-917b-030028dc3c9b",
+            "FileName": "臺南市議會第4屆第7次臨時會提案墊付財經4號案補充資料v1.pdf",
+            "ErrorMessage": ""
+        },
+        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=63aafce0-a5cd-4b98-9158-2a93c51cb9ae",
             "FileName": "財經4.pdf",
             "ErrorMessage": ""

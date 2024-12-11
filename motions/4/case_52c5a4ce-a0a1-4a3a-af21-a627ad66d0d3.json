@@ -7,9 +7,9 @@
     "ComeNumber": "",
     "OrgTitle": "臺南市政府財政稅務局",
     "OrgTitle2": "",
-    "CaseCause": "修正「臺南市房屋稅收率自治條例」草案",
+    "CaseCause": "「修正臺南市房屋稅徵收率自治條例草案」",
     "Content": "[{\"tag\":\"p\",\"content\":\"\"}]",
-    "Method": "[{\"tag\":\"p\",\"content\":\"\"}]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"請財政稅務局再精算，以不大幅增稅爲準則，以免影響民生物價。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請考量多元成家及現行婚姻形式轉變，實質上有住家的事實，建請向中央反映務實檢討。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"對於現行房屋稅，針對大小宅，不因面積差異而有差別稅率核課，應有檢討空間。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"針對包租代管及公益多屋出租，應有鼓勵機制。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"請市府遵照協商版本，併送法規委員會三讀議案審查會議審查。\",\"children\":[]}]}]",
     "CheckDate": "",
     "CheckDesc": "",
     "DoneDate": "",
@@ -17,7 +17,13 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=70a2c7ff-8ad0-4931-b1e8-f07147dbc3b2",
+            "FileName": "1131211V2專案報告修正臺南市房屋稅徵收率自治條例草案 .pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=52c5a4ce-a0a1-4a3a-af21-a627ad66d0d3&type=pdf",
     "CheckAttList": [],

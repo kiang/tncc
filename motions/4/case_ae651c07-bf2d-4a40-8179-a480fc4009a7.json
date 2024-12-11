@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第7次 臨時會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市議會",
+    "OrgTitle2": "",
+    "CaseCause": "「制定臺南市公債發行自治條例草案」",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"會議結論：\"},{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"乙類債券發行上限，不能超過公共債務舉債上限的1\/2。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"議員同仁各方建言，也請市府未來制定施行細則或管理辦法納入參考。                                                  以上建議提請法規委員會三讀議案審查會議參考。\",\"children\":[]}]}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3760cc77-2a34-42b6-b5f5-671e37b9f0fb",
+            "FileName": "01.公債發行自治條例簡報.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e3a8f499-49f5-48cd-8672-8cf26c138466",
+            "FileName": "02.公債發行自治條例補充資料-2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ae651c07-bf2d-4a40-8179-a480fc4009a7&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

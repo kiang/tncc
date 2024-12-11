@@ -12,15 +12,15 @@
     "Method": "",
     "CheckDate": "",
     "CheckDesc": "",
-    "DoneDate": "",
-    "DoneDesc": "",
-    "SendDate": "",
-    "SendNumber": "",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "同意備查。",
+    "SendDate": "2024\/12\/10",
+    "SendNumber": "南議法規字第 1130011627號",
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6db540b4-dab8-4048-a85d-264f9371e25f",
-            "FileName": "4-4定-法規查照2-修正「臺南巿國民中學學生學籍管理辦法」名稱並修正為「臺南巿國民中.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=00dcb14a-d6c9-4151-9096-7533978efe11",
+            "FileName": "4-4定-法規查照2-修正「臺南巿國民中學學生學籍管理辦法」名稱並修正為「臺南巿國民中小學學生學籍管理辦法」.pdf",
             "ErrorMessage": ""
         }
     ],
@@ -29,7 +29,7 @@
     "CheckAttList": [],
     "DoneAttList": [],
     "ReDate": "",
-    "ReDesc": "",
+    "ReDesc": "同意備查。",
     "FirstDate": "",
     "FirstDesc": "",
     "SecondDate": "",

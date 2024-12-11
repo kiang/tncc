@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "119",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "曾之婕",
+    "OrgTitle2": "李中岑、陳怡珍、周麗津、周奕齊、盧崑福、Ingay Tali 穎艾達利、趙昆原、李偉智",
+    "CaseCause": "建請將東區裕農路1036號旁市有空地(慕十里燒肉餐廳旁)，規劃興建為南聖里活動中心，以利南聖里民使用。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"南聖里目前與後甲社區發展協會共用活動場域，並不符合市長「一里一活動中心」施政目標。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"工務局原研議裕農路1036號旁市市有空地闢建公有收費停車場，但會勘後認不符法令規定，交通局亦認恐影響交通。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"南聖里長建議規劃劃興建為南聖里活動中心。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"請盡速會勘辦理。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2024\/11\/21",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=99a8c4f5-5fab-4cf2-9e47-ef7bc9a0c474",
+            "FileName": "20241120175523.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=abdeadf9-5c8e-4c08-9eee-8b5b71840043&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

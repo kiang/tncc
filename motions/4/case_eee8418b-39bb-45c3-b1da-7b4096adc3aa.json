@@ -13,9 +13,9 @@
     "CheckDate": "2024\/10\/15",
     "CheckDesc": "一、原案退回。\r\n二、請衛生局研議廢止原制訂之自治條例，遵中央法規辦理。\r\n三、如局處研議修法，請局處提供國際菸害防制的作法及年齡限制資料。",
     "DoneDate": "2024\/12\/02",
-    "DoneDesc": "照審查意見通過。",
-    "SendDate": "2024\/12\/04",
-    "SendNumber": "",
+    "DoneDesc": "一、113年12月2日第4屆第5次定期會第27次會大會決議：照審查意見通過。(詳如大會決議附件1。)",
+    "SendDate": "2024\/12\/10",
+    "SendNumber": "南議法規字第 1130011663號",
     "DoDesc": "",
     "AttList": [
         {
@@ -33,9 +33,15 @@
             "ErrorMessage": ""
         }
     ],
-    "DoneAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=df8b723c-f465-40f0-89f8-98cbc7b5f8be",
+            "FileName": "大會決議附件1---4-4定菸品--1202第27次會記錄C.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "ReDate": "2024\/09\/11",
-    "ReDesc": "照審查意見通過。",
+    "ReDesc": "一、113年12月2日第4屆第5次定期會第27次會大會決議：照審查意見通過。(詳如大會決議附件1。)",
     "FirstDate": "2024\/09\/19",
     "FirstDesc": "交付法規委員會審查。",
     "SecondDate": "2024\/12\/02",

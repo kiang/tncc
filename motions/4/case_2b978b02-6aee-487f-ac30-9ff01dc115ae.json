@@ -14,8 +14,8 @@
     "CheckDesc": "113年10月21日第4屆第4次定期會法規委員會第3次議案審查，如審查結果附件4：\r\n一、本條文新增第八款修正通過，送政黨協商。\r\n二、詳審查結果對照表。",
     "DoneDate": "2024\/10\/21",
     "DoneDesc": "113年10月21日第4屆第4次定期會第10次會大會決議：詳如大會決議附件1。\r\n大會決議：\r\n一、通過。\r\n二、「臺南市新設置畜牧設施管理自治條例」修正提案係就整體考量，如遇古蹟遺址或重要民俗場所、場域之最短距離修正，東河里吉貝耍情形為個案，其相關資料請臺南市政府農業局於政黨黨團協商時提送供參。\r\n-------------------\r\n113年12月2日第4屆第4次定期會第27次會大會決議：詳如大會決議附件2。\r\n一、本條文新增第八款修正通過。\r\n二條文修訂為：本巿轄內經目的事業主管機關指定為重要民俗之場所或核心儀式空間周界最短距離一千五百公尺以上，不適用第五款之規定。",
-    "SendDate": "",
-    "SendNumber": "",
+    "SendDate": "2024\/12\/10",
+    "SendNumber": "南議法規字第 1130011664號",
     "DoDesc": "",
     "AttList": [
         {
@@ -52,6 +52,11 @@
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2d9b79ee-a1fb-4b19-89b0-251c406d7cd5",
             "FileName": "大會決議附件1、1131024--4-4定-大會決議(騎樓、畜牧).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f52fa50b-6016-4cc0-b34b-3c757b2514f7",
+            "FileName": "大會決議附件2---4-4定畜牧--1202第27次會記錄C.pdf",
             "ErrorMessage": ""
         }
     ],
