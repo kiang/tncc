@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南市新設置畜牧設施管理自治條例之執行現況與檢討」專案報告",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"請農業局明確化新設畜牧設施申請者之溝通對象及範圍，避免畜牧業者無所適從，請於下次定期會提出自治條例的修正。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"居民有對於居住環境品質的權益,畜牧場也有經營畜禽生產的權益，業者在尋找設置畜牧場地點時，應事先了解在地民情，尋求民眾生活權益與畜牧產業發展的平衡，仍請業者與地方民眾妥善溝通，避免未來有衝突及阻力，以取得雙赢。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"如申請業者或居民在溝通過程遇到不法的要求或暴力介入，可尋求司法或警察機關協助排除。\",\"children\":[]}]}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=280016cd-18b3-4412-bd0e-aa9b6eb2250f",
+            "FileName": "1131212議會專案報告-新設置畜牧設施自治條例(修).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8245d481-76eb-459b-b74d-dfa3192d3406&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

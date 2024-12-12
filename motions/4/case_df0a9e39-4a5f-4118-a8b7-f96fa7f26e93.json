@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "36",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王宣貿",
+    "OrgTitle2": "沈震東、Ingay Tali 穎艾達利、余柷青、李中岑",
+    "CaseCause": "請台南市政府儘速改善鹽水區月津港的浮動碼頭，以利後續相關政策推動。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"鹽水月津港之浮動碼頭為鹽水區熱門打卡熱點，也是月津港燈節的最佳拍攝點及燈節開幕之主要區域，浮動碼頭更是近期推動水上遊憩等相關活動的重要設施。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"月津港的浮動碼頭因使用率高且已修繕多次，近期又再次損壞，建請台南市政府儘速修繕及更新，以利相關政策及活動推動。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2024\/11\/22",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7aceea95-e3c3-46fc-b2f7-89ce53c452f8",
+            "FileName": "附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=df0a9e39-4a5f-4118-a8b7-f96fa7f26e93&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

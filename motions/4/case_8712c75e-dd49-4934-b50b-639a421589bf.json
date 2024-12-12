@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第4次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "35",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王宣貿",
+    "OrgTitle2": "沈震東、余柷青、李中岑、Ingay Tali 穎艾達利",
+    "CaseCause": "建請台南市政府活化岸內影視基地周邊環境，並評估利用舊有鹽水糖鐵路線，打造地方觀光連結。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"岸內國小的門口亦是岸內影視基地的大門，為活化門面及對外的連結，建請台南市政府評估活化舊有糖鐵道路(如附件圖示區域，岸內國小門口至鹽水火車站)，以利未來園區與地方的串聯。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"評估鐵路周邊綠美化及相關等設施，以利推動觀光串聯。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如主旨及說明。\"}]",
+    "CheckDate": "2024\/11\/22",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2024\/12\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9c0696e7-1b13-472e-a1d3-f06fa37de159",
+            "FileName": "議提35附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8712c75e-dd49-4934-b50b-639a421589bf&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

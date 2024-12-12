@@ -16,9 +16,30 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/11\/04",
     "SendNumber": "南議工務字第 1130009500號",
-    "DoDesc": "",
+    "DoDesc": "本府就「六甲區王爺里市道174線(自六甲公墓前至六甲柳營聯合垃圾場止)道路，因年久失修，路面龜裂破損嚴重，亟需辦理修復，以利行車安全」案，敬答覆如下：\r\n本案於113年11月19日經本府工務局派員巡查，將就目前路面狀況嚴重不平整之路段先行改善，改善範圍為174線32K+000~33K+600左側車道，改善面積7,200M^2，預計於113年底前刨鋪完成，其餘路段本府將視年度預算情形，適時辦理改善作業。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b50d5938-4bc7-4609-9f05-c4358899667b",
+            "FileName": "37070_2483506A00_ATTCH2.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8080a000-a5b0-41f9-a5bb-eff2e3caf070",
+            "FileName": "37070_2483506A00_ATTCH3.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0af7a70f-5c3a-439d-9c79-f81dd3b04b4c",
+            "FileName": "37070_2483506A00_ATTCH4.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=53e736bc-989b-45c1-9372-e730f3d6a7e8",
+            "FileName": "37070_2483506A00_ATTCH5.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0810a9b9-fa38-4c08-92c5-2c153722d79f&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +51,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/12\/11",
+    "ExecuteReNumber": "府工務二字第 1132483506號",
+    "ExecuteReMemo": "本府就「六甲區王爺里市道174線(自六甲公墓前至六甲柳營聯合垃圾場止)道路，因年久失修，路面龜裂破損嚴重，亟需辦理修復，以利行車安全」案，敬答覆如下：\r\n本案於113年11月19日經本府工務局派員巡查，將就目前路面狀況嚴重不平整之路段先行改善，改善範圍為174線32K+000~33K+600左側車道，改善面積7,200M^2，預計於113年底前刨鋪完成，其餘路段本府將視年度預算情形，適時辦理改善作業。",
     "ErrorMessage": ""
 }
