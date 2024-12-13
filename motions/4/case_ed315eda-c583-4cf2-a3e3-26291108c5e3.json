@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/11\/04",
     "SendNumber": "南議工務字第 1130009502號",
-    "DoDesc": "",
+    "DoDesc": "本府就「請儘速辦理六甲區甲東里市道174線（自中正略與曾文街岔路口至真聖宮廟前道路）改善工程， 因年久失修，路面龜裂破損嚴重，亟需辦理修復，以利行車安全」案，敬答覆如下：\r\n六甲區曾文街已納入本府水利局辦理「臺南市官田區污水下水道系統（六甲分區）第三期分文管網及用戶接管工程第二標」計畫範園，預計施作期程（114年3月1日至116年12月31日止），建議暫緩刨鋪，俟汙水下水道施作完成後再配合辦理路面改善。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6f13dc1a-fbfc-4fd7-8fcd-0b62d4568502",
+            "FileName": "4-4定工務議提48回函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ed315eda-c583-4cf2-a3e3-26291108c5e3&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/12\/12",
+    "ExecuteReNumber": "府工務二字第 1132504235號",
+    "ExecuteReMemo": "本府就「請儘速辦理六甲區甲東里市道174線（自中正略與曾文街岔路口至真聖宮廟前道路）改善工程， 因年久失修，路面龜裂破損嚴重，亟需辦理修復，以利行車安全」案，敬答覆如下：\r\n六甲區曾文街已納入本府水利局辦理「臺南市官田區污水下水道系統（六甲分區）第三期分文管網及用戶接管工程第二標」計畫範園，預計施作期程（114年3月1日至116年12月31日止），建議暫緩刨鋪，俟汙水下水道施作完成後再配合辦理路面改善。",
     "ErrorMessage": ""
 }
