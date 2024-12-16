@@ -16,9 +16,25 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/12\/10",
     "SendNumber": "南議環衛字第 1130011481號",
-    "DoDesc": "",
+    "DoDesc": "本府就「盤整市府具標籤化、刻板印象之自治法規並檢討修改，減少對立誤解或污名化刻板影響」決議案，敬答覆如下：\r\n一、本府於113年10月9日以府法規字第1132158121號函，請本府各機關單位及區公所通盤檢討業管法令(詳附件一)。其中檢核表重點即包含歧視性用語，以避免產生標籤化及刻板印象等不當結果，致喪失原先立法之美意。\r\n二、另為加速本府各機關單位之檢討作業，業於113年11月12日本府第590次局處業務協調連繫會議提案，促請各機關單位儘速檢核業管法令(詳附件二)。\r\n三、經業務機關單位及本處檢視後，截至113年12月10日止，本府主管法令涉有標籤性用語者，計有15筆(詳附件三)。\r\n四、本府通盤檢討主管法令之情形，將由法制處復核各機關單位之檢核情形後，按其預計修正或廢止期程列管辦理進度，俾利與時俱進，以減少誤解對立，充分落實立法政策，避免影響立法背後之良善初衷。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4ebbb5db-605c-4e57-ba44-db11485597be",
+            "FileName": "附件1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=aac35200-1222-4829-a4a7-39f9770a384c",
+            "FileName": "附件2.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=205a16c2-00da-4372-84f1-993d57d5c3fa",
+            "FileName": "附件3.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b99ffad1-10bb-4ddb-a5c2-22763f10b900&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +46,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/12\/12",
+    "ExecuteReNumber": "府法規字第 1132537068號",
+    "ExecuteReMemo": "本府就「盤整市府具標籤化、刻板印象之自治法規並檢討修改，減少對立誤解或污名化刻板影響」決議案，敬答覆如下：\r\n一、本府於113年10月9日以府法規字第1132158121號函，請本府各機關單位及區公所通盤檢討業管法令(詳附件一)。其中檢核表重點即包含歧視性用語，以避免產生標籤化及刻板印象等不當結果，致喪失原先立法之美意。\r\n二、另為加速本府各機關單位之檢討作業，業於113年11月12日本府第590次局處業務協調連繫會議提案，促請各機關單位儘速檢核業管法令(詳附件二)。\r\n三、經業務機關單位及本處檢視後，截至113年12月10日止，本府主管法令涉有標籤性用語者，計有15筆(詳附件三)。\r\n四、本府通盤檢討主管法令之情形，將由法制處復核各機關單位之檢核情形後，按其預計修正或廢止期程列管辦理進度，俾利與時俱進，以減少誤解對立，充分落實立法政策，避免影響立法背後之良善初衷。",
     "ErrorMessage": ""
 }

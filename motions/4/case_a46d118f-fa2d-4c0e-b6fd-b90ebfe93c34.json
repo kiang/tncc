@@ -14,11 +14,17 @@
     "CheckDesc": "照案通過。",
     "DoneDate": "2024\/12\/02",
     "DoneDesc": "照審查意見通過。",
-    "SendDate": "",
-    "SendNumber": "",
-    "DoDesc": "",
+    "SendDate": "2024\/12\/09",
+    "SendNumber": "南議保安字第 1130011322號",
+    "DoDesc": "本府就「建請僅速統整完成太陽能光電發電設備設置場所搶救計畫及圖資資訊」案，敬答復如下：\r\n一、 本府消防局於針對「太陽能光電發電設備」係依據經濟發展局提供清冊及本府消防局113年光電及儲能系統火災搶救效能實施計畫列管學校及行政機關並製作搶救計畫及圖資。\r\n二、 截至113年8月31日止皆已完成本市太陽能光電發電設備場所搶救計畫及圖資資訊。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c7df9ac9-83ae-44ca-baaa-d04cb90bf568",
+            "FileName": "4-4定議提23書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a46d118f-fa2d-4c0e-b6fd-b90ebfe93c34&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/12\/13",
+    "ExecuteReNumber": "府消救字第 1132530694號",
+    "ExecuteReMemo": "本府就「建請僅速統整完成太陽能光電發電設備設置場所搶救計畫及圖資資訊」案，敬答復如下：\r\n一、 本府消防局於針對「太陽能光電發電設備」係依據經濟發展局提供清冊及本府消防局113年光電及儲能系統火災搶救效能實施計畫列管學校及行政機關並製作搶救計畫及圖資。\r\n二、 截至113年8月31日止皆已完成本市太陽能光電發電設備場所搶救計畫及圖資資訊。",
     "ErrorMessage": ""
 }
