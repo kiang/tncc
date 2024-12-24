@@ -14,8 +14,8 @@
     "CheckDesc": "詳如各委員會聯席審查意見報告書。",
     "DoneDate": "2024\/12\/19",
     "DoneDesc": "一、經第4屆第7次臨時會第2次會（113年12月19日）審議通過（內容如大會決議表）。\r\n二、於同次會（113年12月19日）經復議討論通過（如大會復議後決議）。",
-    "SendDate": "",
-    "SendNumber": "",
+    "SendDate": "2024\/12\/24",
+    "SendNumber": "南議財經字第 1130012620號",
     "DoDesc": "",
     "AttList": [
         {
@@ -38,7 +38,23 @@
             "ErrorMessage": ""
         }
     ],
-    "DoneAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3ab127f3-a70d-4308-9820-ad44f1343db6",
+            "FileName": "01大會決議.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f50487b3-dd57-4bc2-9323-abc41d258e91",
+            "FileName": "02復議動議案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ce213576-d444-48c6-9c54-324baf4a6b49",
+            "FileName": "03大會復議後決議.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "ReDate": "2024\/09\/11",
     "ReDesc": "一、經第4屆第7次臨時會第2次會（113年12月19日）審議通過（內容如大會決議表）。\r\n二、於同次會（113年12月19日）經復議討論通過（如大會復議後決議）。",
     "FirstDate": "2024\/09\/19",
