@@ -17,7 +17,13 @@
     "SendDate": "2024\/10\/29",
     "SendNumber": "南議財經字字第 1130009239號",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=da84b7a8-f65b-4a51-9aab-c3291549c22c",
+            "FileName": "5-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b2689cde-0913-4b9e-9fdc-fb2fd03f9cb7&type=pdf",
     "CheckAttList": [],
