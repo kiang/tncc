@@ -16,9 +16,30 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/12\/12",
     "SendNumber": "南議工務字第 1130011811號",
-    "DoDesc": "",
+    "DoDesc": "本府就「建請市府工務局儘速在六甲區174線30K~41K+500進行柏油路面改善工程，保障人車通行安全」案，敬答覆如下：\r\n本案於113年11月19日經本府工務局派員巡查，巡查結果路面狀況嚴重不平整之路段共6處路段，分別為\r\n一、32K+000~33K+600(順樁號左半側)。\r\n二、36K+200~36K+500。\r\n三、38K+100~38K+700。\r\n四、39K+500~40K+000(區間約250米)。\r\n五、40K+000~40K+300(區間約250米)。\r\n六、40K+500~41K+000(區間約220米)。\r\n預計於113年底前先行刨鋪上揭32K+000~33K+600(順樁號左半側)及38K+100~38K+700等2處破損嚴重路段，其餘路段本府工務局將視114年度預算情形研議辦理改善。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=27efa514-d1da-48c9-9e26-4183b39693e8",
+            "FileName": "37705_2590177A00_ATTCH2.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=086a313a-c59b-44c7-b612-22db4d81fba3",
+            "FileName": "37705_2590177A00_ATTCH3.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5c1ece0d-bc61-4eec-9294-b8b18beb1ea9",
+            "FileName": "37705_2590177A00_ATTCH4.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6968cc04-16b4-44b7-858b-40b00c8f492d",
+            "FileName": "37705_2590177A00_ATTCH5.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e9e80c4e-21db-4aae-be1d-b3491f2ccc50&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +51,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/12\/31",
+    "ExecuteReNumber": "府工務二字第 1132590177號",
+    "ExecuteReMemo": "本府就「建請市府工務局儘速在六甲區174線30K~41K+500進行柏油路面改善工程，保障人車通行安全」案，敬答覆如下：\r\n本案於113年11月19日經本府工務局派員巡查，巡查結果路面狀況嚴重不平整之路段共6處路段，分別為\r\n一、32K+000~33K+600(順樁號左半側)。\r\n二、36K+200~36K+500。\r\n三、38K+100~38K+700。\r\n四、39K+500~40K+000(區間約250米)。\r\n五、40K+000~40K+300(區間約250米)。\r\n六、40K+500~41K+000(區間約220米)。\r\n預計於113年底前先行刨鋪上揭32K+000~33K+600(順樁號左半側)及38K+100~38K+700等2處破損嚴重路段，其餘路段本府工務局將視114年度預算情形研議辦理改善。",
     "ErrorMessage": ""
 }
