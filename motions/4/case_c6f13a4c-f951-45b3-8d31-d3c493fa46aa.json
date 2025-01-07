@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/12\/11",
     "SendNumber": "南議民教字第 1130011359號",
-    "DoDesc": "",
+    "DoDesc": "本府就「建請市府於永康區全民運動館旁之籃球場預定地規劃設置風雨球場，提供民眾舒適運動空間」案，敬答覆如下:\r\n一、永康區全民運動館興建工程，規劃地上2層空間，設置含作為羽球、籃球使用的綜合球場等多項運動空間，原籃球場配合本案工程拆除並與戶外景觀結合規劃共融遊戲場。\r\n二、本府體育局將與相關單位研討於永康區全民運動館旁之籃球場預定地規劃設置風雨球場，提供市民舒適的休憩運動環境。\r\n三、承蒙貴會暨議席對於市政之關切及熱忱，本府至為感謝，尚請不吝賜教。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=17f6c026-cff2-4a6b-85ed-a82b65982539",
+            "FileName": "定4-4-民教議提37-體育局覆文附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c6f13a4c-f951-45b3-8d31-d3c493fa46aa&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/01\/07",
+    "ExecuteReNumber": "府體設字第 1140071762號",
+    "ExecuteReMemo": "本府就「建請市府於永康區全民運動館旁之籃球場預定地規劃設置風雨球場，提供民眾舒適運動空間」案，敬答覆如下:\r\n一、永康區全民運動館興建工程，規劃地上2層空間，設置含作為羽球、籃球使用的綜合球場等多項運動空間，原籃球場配合本案工程拆除並與戶外景觀結合規劃共融遊戲場。\r\n二、本府體育局將與相關單位研討於永康區全民運動館旁之籃球場預定地規劃設置風雨球場，提供市民舒適的休憩運動環境。\r\n三、承蒙貴會暨議席對於市政之關切及熱忱，本府至為感謝，尚請不吝賜教。",
     "ErrorMessage": ""
 }
