@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/12\/11",
     "SendNumber": "南議民教字第 1130011670號",
-    "DoDesc": "",
+    "DoDesc": "收文字號：114年1月9日1140000284號\r\n市府回覆執行情形如附件。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=03804534-a45d-45a2-b6a3-a9c3346f9bbe",
+            "FileName": "民教9(原民會)-議提市府回覆資料.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=78a70a17-7ff0-4781-bee3-5f73f1062cfb&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/01\/09",
+    "ExecuteReNumber": "府原綜字第 1140118990號",
+    "ExecuteReMemo": "收文字號：114年1月9日1140000284號\r\n市府回覆執行情形如附件。",
     "ErrorMessage": ""
 }
