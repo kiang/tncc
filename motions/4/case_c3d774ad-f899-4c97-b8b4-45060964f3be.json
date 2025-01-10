@@ -16,7 +16,7 @@
     "DoneDesc": "一、經第4屆第7次臨時會第2次會（113年12月19日）審議通過（內容如大會決議表）。\r\n二、於同次會（113年12月19日）經復議討論通過（如大會復議後決議）。",
     "SendDate": "2024\/12\/24",
     "SendNumber": "南議財經字第 1130012620號",
-    "DoDesc": "",
+    "DoDesc": "臺南市政府114年1月7日府秘廳字第1132642379號函覆詳附件1。",
     "AttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=239a2a55-0759-4784-9bf2-9fe8c2a703b5",
@@ -29,7 +29,13 @@
             "ErrorMessage": ""
         }
     ],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9bb34d24-3c97-43bd-878d-cd7d648444c5",
+            "FileName": "1.秘書處-覆114年度預算案附加條件公有宿舍歲入.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c3d774ad-f899-4c97-b8b4-45060964f3be&type=pdf",
     "CheckAttList": [
         {
@@ -63,8 +69,8 @@
     "SecondDesc": "照聯席審查意見通過。",
     "ThirdDate": "2024\/12\/19",
     "ThirdDesc": "照二讀會決議通過。",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/01\/07",
+    "ExecuteReNumber": " 府秘廳字第 1132642379號",
+    "ExecuteReMemo": "臺南市政府114年1月7日府秘廳字第1132642379號函覆詳附件1。",
     "ErrorMessage": ""
 }
