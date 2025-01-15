@@ -16,11 +16,23 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2024\/12\/10",
     "SendNumber": "南議環衛字第 1130011031號",
-    "DoDesc": "",
+    "DoDesc": "本府就「建請市府修改市定長者假牙裝置計畫名稱，回歸政策目的初衷，避免無必要刻板或政策誤解。」案，敬答覆如下：\r\n一、有關本計畫115年後之名稱是否需再調整，如為「臺南市長者免費裝置全口活動假牙計畫」，不在特別強調年齡或身份別，本府會再與公會進行討論，將身份資格修訂為直接列於計畫申請資格中，避免造成誤解或刻板印象。\r\n二、另114年度計畫及相關預算均已訂定及並依計畫名稱編列相關執行預算，特此說明。\r\n三、自105年起至113年，歷年55至64歲原住民身份裝置補助人數均未滿10案，相關成果如下表：",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a5bda838-8125-4897-9c40-0a2d22633b87",
+            "FileName": "議提第64號案之市府回文.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c353f316-2042-4254-bd13-5fa293a6243c&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c514edb2-e73d-4870-bd16-3c09db5cdc0b",
+            "FileName": "議提第64號案之市府回文.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "",
     "ReDesc": "照審查意見通過。",
@@ -30,8 +42,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/01\/10",
+    "ExecuteReNumber": "府衛國健字第 1140070776號",
+    "ExecuteReMemo": "本府就「建請市府修改市定長者假牙裝置計畫名稱，回歸政策目的初衷，避免無必要刻板或政策誤解。」案，敬答覆如下：\r\n一、有關本計畫115年後之名稱是否需再調整，如為「臺南市長者免費裝置全口活動假牙計畫」，不在特別強調年齡或身份別，本府會再與公會進行討論，將身份資格修訂為直接列於計畫申請資格中，避免造成誤解或刻板印象。\r\n二、另114年度計畫及相關預算均已訂定及並依計畫名稱編列相關執行預算，特此說明。\r\n三、自105年起至113年，歷年55至64歲原住民身份裝置補助人數均未滿10案，相關成果如下表：",
     "ErrorMessage": ""
 }
