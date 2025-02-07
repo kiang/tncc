@@ -16,7 +16,7 @@
     "DoneDesc": "一、經第4屆第7次臨時會第2次會（113年12月19日）審議通過（內容如大會決議表）。\r\n二、於同次會（113年12月19日）經復議討論通過（如大會復議後決議）。",
     "SendDate": "2024\/12\/24",
     "SendNumber": "南議財經字第 1130012620號",
-    "DoDesc": "臺南市政府114年1月7日府秘廳字第1132642379號函覆詳附件1。",
+    "DoDesc": "臺南市政府114年1月7日府秘廳字第1132642379號函覆詳附件1。\r\n臺南市政府114年1月23日府民自字第1140141532號函覆詳附件2。",
     "AttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=239a2a55-0759-4784-9bf2-9fe8c2a703b5",
@@ -33,6 +33,11 @@
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9bb34d24-3c97-43bd-878d-cd7d648444c5",
             "FileName": "1.秘書處-覆114年度預算案附加條件公有宿舍歲入.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=536af619-c736-44e9-83b2-38caf75acab1",
+            "FileName": "2民政局-覆114年度預算案附帶決議新營區新北新南里活動中心及東山區文教多功能活動中心音響設備迴音問題 .pdf.pdf",
             "ErrorMessage": ""
         }
     ],
@@ -71,6 +76,6 @@
     "ThirdDesc": "照二讀會決議通過。",
     "ExecuteReDate": "2025\/01\/07",
     "ExecuteReNumber": " 府秘廳字第 1132642379號",
-    "ExecuteReMemo": "臺南市政府114年1月7日府秘廳字第1132642379號函覆詳附件1。",
+    "ExecuteReMemo": "臺南市政府114年1月7日府秘廳字第1132642379號函覆詳附件1。\r\n臺南市政府114年1月23日府民自字第1140141532號函覆詳附件2。",
     "ErrorMessage": ""
 }
