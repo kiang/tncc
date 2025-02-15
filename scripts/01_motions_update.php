@@ -21,6 +21,10 @@ while ($page <= $pageAll) {
     $pageFile = $grdPath . '/page_' . $page . '.json';
     $url = "https://bill.tncc.gov.tw/NoPaperMeeting_TNCC/api/WEB014_GetProposalList.ashx?topage={$page}&pagerow=100&grdno={$grdno}";
     $c = json_decode(file_get_contents($url));
+    if(empty($c[0]['ProNo'])){
+        $page++;
+        continue;
+    }
     file_put_contents($pageFile, json_encode($c, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
     $json = json_decode(file_get_contents($pageFile), true);
     foreach ($json as $item) {
