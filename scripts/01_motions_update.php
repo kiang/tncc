@@ -20,7 +20,7 @@ function cmp($a, $b)
 while ($page <= $pageAll) {
     $pageFile = $grdPath . '/page_' . $page . '.json';
     $url = "https://bill.tncc.gov.tw/NoPaperMeeting_TNCC/api/WEB014_GetProposalList.ashx?topage={$page}&pagerow=100&grdno={$grdno}";
-    $c = json_decode(file_get_contents($url));
+    $c = json_decode(file_get_contents($url), true);
     if(empty($c[0]['ProNo'])){
         $page++;
         continue;
