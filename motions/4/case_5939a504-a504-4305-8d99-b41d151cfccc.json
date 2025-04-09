@@ -10,12 +10,12 @@
     "CaseCause": "「臺南市騎樓地使用管理自治條例」草案，敬請審議。",
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"案係本市議會為明確規範騎樓之停車及商業使用，以衡平民眾財產權及供公眾通行之利益，於113年3月26日召開「臺南市騎樓管理使用自治條例」草案公聽會，依會議紀錄主席裁示請臺南市政府提出一版本與該自治條例併案審查，爰擬具「臺南市騎樓地使用管理自治條例」草案。全文共計八條。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府113年5月7日第645次市政會議審議通過。檢附「臺南市騎樓地使用管理自治條例」草案總說明、草案逐條說明、草案條文。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
-    "CheckDate": "2024\/06\/26",
-    "CheckDesc": "113年6月26日大會決議：照審查意見通過。",
-    "DoneDate": "",
-    "DoneDesc": "",
-    "SendDate": "",
-    "SendNumber": "",
+    "CheckDate": "2024\/05\/17",
+    "CheckDesc": "法規委員會審查意見： 1、 請巿府針對本自治條例內容， 將議員提案版及巿府版本在溪南、溪北各辧一場公聽會，並將公聽會會議紀錄在下次定期會前，函送本會及全體議員，作為下次審查的參考資料。 2、 公聽會應廣為宣傳民眾週知，並邀請本會全體議員、相關社團法人、各區公所(含里長)共同參與，並請巿府考量合適之場地及報名機制。 3、 擇定公聽會召開日期，請避開本會臨時會及第10 屆台日國際交流高峰會會議期間。",
+    "DoneDate": "2024\/06\/26",
+    "DoneDesc": "113年6月26日大會決議：照審查意見通過。",
+    "SendDate": "2024\/07\/01",
+    "SendNumber": "南議法規字第 1130005484號",
     "DoDesc": "",
     "AttList": [
         {
@@ -36,18 +36,19 @@
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f5cbca16-01d3-4913-9855-484d37948d63",
             "FileName": "附件1---1130517---4-3 定騎樓會議紀錄.pdf",
             "ErrorMessage": ""
-        },
+        }
+    ],
+    "DoneAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3d9705ec-0cbd-4511-82e3-d7b73e231643",
-            "FileName": "附件2-1130626-請巿府另提一版本--騎樓自治條例.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a59ff010-e5dc-47a7-b54c-aca79c0807e4",
+            "FileName": "(025-大會)4屆3定0626第25次會紀錄(全).pdf",
             "ErrorMessage": ""
         }
     ],
-    "DoneAttList": [],
     "ReDate": "2024\/04\/08",
-    "ReDesc": "",
-    "FirstDate": "2024\/05\/17",
-    "FirstDesc": "113年5月17日法規委員會審查意見： 1、 請巿府針對本自治條例內容， 將議員提案版及巿府版本在溪南、溪北各辧一場公聽會，並將公聽會會議紀錄在下次定期會前，函送本會及全體議員，作為下次審查的參考資料。 2、 公聽會應廣為宣傳民眾週知，並邀請本會全體議員、相關社團法人、各區公所(含里長)共同參與，並請巿府考量合適之場地及報名機制。 3、 擇定公聽會召開日期，請避開本會臨時會及第10 屆台日國際交流高峰會會議期間。",
+    "ReDesc": "113年6月26日大會決議：照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
     "SecondDate": "",
     "SecondDesc": "",
     "ThirdDate": "",
