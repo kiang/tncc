@@ -1,0 +1,70 @@
+{
+    "GradeTime": "第4屆 第8次 臨時會",
+    "PTypTitle": "法規",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2025\/02\/17",
+    "ComeNumber": "府財稅字第1140262930號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市促進民間機構參與重大公共建設減免地價稅房屋稅及契稅自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為配合房屋稅條例於113年1月3日修正公布，修正房屋稅改為按年計徵、房屋使用情形變更，納稅義務人申報期限之規定。另修正｢臺南市房屋稅徵收率自治條例」草案業經貴會113年12月19日三讀通過，並經本府114年1月9日修正公布，爰擬具本修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經114年1月14日第681次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市促進民間機構參與重大公共建設減免地價稅房屋稅及契稅自治條例」修正草案(含總說明、條文對照表及草案條文)1份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "2025\/03\/18",
+    "CheckDesc": "一、本次修正條文為第1~9條，均照修正條文通過，詳審查結果對照表。\r\n二、其他意見：為鼓勵私人企業對於公部門公共設施(例如：公園、公廁等)冠名經營或維護，建請財政稅務局研擬相關稅捐減免，增益大眾參與。",
+    "DoneDate": "2025\/03\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2025\/03\/26",
+    "SendNumber": "南議法規字第 1140001860號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ac9d8dc6-f83e-487f-8915-3bda3cb5a9c9",
+            "FileName": "4-8臨-法規巿提2---修正「臺南市促進民間機構參與重大公共建設減免地價稅房屋.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7b05010e-0d42-4321-98ba-be550ea76095",
+            "FileName": "補充資料---4-8臨-法規巿提2---修正「臺南市促進民間機構參與重大公共建設減免地價稅房屋.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f585e6c0-eb4c-4eaa-aa8d-053bbc0da9ec&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b4feb349-6c4f-4d5d-a87c-a14c5101fa5e",
+            "FileName": "4-8 臨-1140318促參會議紀錄.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5188af4b-9538-4fdf-a7dc-c6ad25b6b33e",
+            "FileName": "※4-8臨巿提2---審查意見報告書--促參.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=40fd01b3-61ef-417e-baad-037533bf4ba2",
+            "FileName": "審查結果報告書---4-8臨-法規巿提2--修正「臺南市促進民間機構參與重大公共建設減免地價稅房屋稅及契稅自治條例」草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a999486a-7e9f-41e6-97c3-7baaf6094314",
+            "FileName": "1140320-4-8臨-第2次大會會議紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "2025\/03\/03",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2025\/03\/11",
+    "FirstDesc": "交付法規委員會審查。",
+    "SecondDate": "2025\/03\/20",
+    "SecondDesc": "照委員會結論通過。",
+    "ThirdDate": "2025\/03\/20",
+    "ThirdDesc": "照二讀會決議通過。",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

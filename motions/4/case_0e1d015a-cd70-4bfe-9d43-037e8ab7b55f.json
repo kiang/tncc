@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "39",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "吳禹寰",
+    "OrgTitle2": "李中岑、趙昆原、Ingay Tali 穎艾達利、蔡育輝、周奕齊、陳怡珍",
+    "CaseCause": "建請市府工務局儘速處理龍崎區182市道道路兩側與中央分隔島洩水孔排水不彰問題，避免雨季道路積水，影響用路人行車安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"龍崎區182市道路段，道路兩側與中央分隔島設有洩水孔，用意在於大雨過後，迅速排除路面積水，以維行車安全。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"接受民眾陳情，182市道20.5K西行車道路側洩水孔遭竹葉或樹葉堵塞(畫紅色圈)，詳如附圖一，部分洩水孔高於路面，排水功能不彰(畫粉紅色圈)，詳如附圖二。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"地方民眾反映龍崎區182市道兩側與中央分隔島洩水孔，類似前揭洩水孔遭堵塞與洩水孔高於路面情形屢見不鮮。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"建請市府於龍崎區182市道兩側與中央分隔島洩水孔全面檢視，逐步改善，以維用路人行車安全。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/03\/18",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2025\/03\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2025\/03\/28",
+    "SendNumber": "南議工務字第 1140001801號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d2aaa8d2-a99b-477b-91d4-aa8d1c91ba96",
+            "FileName": "4-8臨工務議提39附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0e1d015a-cd70-4bfe-9d43-037e8ab7b55f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 臨時會",
+    "PTypTitle": "臨時動議",
+    "CaseNumber": "1",
+    "KidTitle": "臨時動議-臨時動議",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "邱議長莉莉、林副議長志展、陳昆和、李文俊、周嘉韋、盧崑福、郭信良、吳通龍、黄肇輝、蔡秋蘭、許至椿、王宣貿、蔡麗青、周麗津、蔡宗豪、邱昭勝、沈家鳳、陳秋宏、陳皇宇、郭清華、沈震東、余柷青、林美燕、林燕祝、李鎮國、楊中成、李啓維、李宗霖、曾之婕、陳怡珍、李宗翰、施余興望 Tjakumay Tagaw、謝舒凡、朱正軒、李中岑、Ingay Tali 穎艾達利、陳秋萍、黃麗招、趙昆原、李偉智、蔡筱薇、林依婷、鄭佳欣、蔡蘇秋金、吳禹寰、王家貞、陳碧玉、杜素吟、周奕齊、林冠維、郭鴻儀、尤榮智、蔡育輝、蔡淑惠、曾培雅、方一峰",
+    "OrgTitle2": "",
+    "CaseCause": "為爭取災民重建之時間效率，避免申請重建時非議會開議期間，以致延宕臺南市政府出具土地使用同意書之速度，提請預先同意楠西地震災民申請重建之市有土地使用同意書，並授權議長於114年4月25日定期會召開前市府來函時，儘速回覆本會之同意。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"有關楠西地震災民申請重建時，涉及臺南市政府所有之土地需由臺南市政府出具土地使用同意書。惟依土地法第25條之規定，直轄市對於其所管公有土地，非經該管區內民意機關同意，並經行政院核准，不得處分或設定負擔或為超過十年期間之租賃。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為爭取災民重建之時間效率，避免申請重建時非議會開議期間，以致延宕臺南市政府出具土地使用同意書之速度，提請預先同意楠西地震災民申請重建之市有土地使用同意書，並授權議長於市府來函時，儘速回覆本會之同意。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2025\/03\/20",
+    "DoneDesc": "一、修正通過。\r\n二、本會於市府送件後將立即召開政黨黨團協商會議，利於每位議員知悉各筆土地使用內容，並於取得各黨團同意後回覆，定期會再予追認。",
+    "SendDate": "2025\/04\/01",
+    "SendNumber": "南議議事字第 1140001985號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6035368e-b7e1-4105-a444-d6f1829ada22",
+            "FileName": "臨時動議1提案單.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c1ef4b35-33de-4a65-aa62-fa98f7d673a1&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "一、修正通過。\r\n二、本會於市府送件後將立即召開政黨黨團協商會議，利於每位議員知悉各筆土地使用內容，並於取得各黨團同意後回覆，定期會再予追認。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,70 @@
+{
+    "GradeTime": "第4屆 第8次 臨時會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2025\/02\/17",
+    "ComeNumber": "府財稅字第1140262410號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市社會住宅與公益出租人地價稅及房屋稅優惠自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"因應住宅法於112年12月6日修正，本自治條例之授權依據修正為第16條第3項及第22條第2項；另因房屋稅條例於113年1月3日修正房屋稅改為按年計徵，且房屋使用情形變更致稅額減少者，自當期開始適用；房屋使用情形變更致稅額增加者，自變更次期開始適用。另修正｢臺南市房屋稅徵收率自治條例」草案業經貴會113年12月19日三讀通過，並經本府114年1月9日修正公布，爰擬具本修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經114年1月14日第681次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市社會住宅與公益出租人地價稅及房屋稅優惠自治條例」修正草案(含總說明、條文對照表及草案條文)1份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "2025\/03\/18",
+    "CheckDesc": "本次修正條文為第1、4、5、7、8條，均照修正條文通過，詳部分修正條文審查結果對照表。",
+    "DoneDate": "2025\/03\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2025\/03\/26",
+    "SendNumber": "南議法規字第 1140001859號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=649c0993-b591-4571-b75e-23ae8494d047",
+            "FileName": "4-8臨-法規巿提1號案----修正「臺南市社會住宅與公益出租人地價稅及房屋稅優惠自治.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c463201d-2b21-4b3c-97a9-02dfd96dae37",
+            "FileName": "補充資料4-8臨-法規巿提1號案----修正「臺南市社會住宅與公益出租人地價稅及房屋稅優惠自治.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b77ea548-4bdd-4fd9-9a32-aa6d640ae2c1&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b8d2fc71-f8c6-4325-935f-f62675074fa7",
+            "FileName": "4-8 臨-1140318社宅會議紀錄.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a0318cac-1d7f-49c4-a4e7-d28f8e89599d",
+            "FileName": "※4-8臨巿提1---審查意見報告書--社宅地價稅.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4c5fdbf7-56f3-4058-8a2e-fc51db5fbaf7",
+            "FileName": "審查結果對照表---4-8臨-法規巿提1號案----修正「臺南市社會住宅與公益出租人地價稅及房屋稅優惠自治.pdf.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0f78053f-d4fe-40e8-8e20-b144308b6f5f",
+            "FileName": "1140320-4-8臨-第2次大會會議紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "2025\/03\/03",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2025\/03\/11",
+    "FirstDesc": "交付法規委員會審查。",
+    "SecondDate": "2025\/03\/20",
+    "SecondDesc": "照委員會結論通過。",
+    "ThirdDate": "2025\/03\/20",
+    "ThirdDesc": "照二讀會決議通過。",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

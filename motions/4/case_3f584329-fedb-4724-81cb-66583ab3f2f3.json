@@ -1,0 +1,64 @@
+{
+    "GradeTime": "第4屆 第8次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "1",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "「0121地震因應對策及處理情形」專案報告",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"0121地震因應對策及處理情形報告結論：\"},{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"請市府於114年3月25日將目前已申請損壞評估(1,956件)報告書全部完成寄發，後續申請案件，亦請儘速進行評估及寄送。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請市府於114年3月20日前針對未貼單部分向議會提出補助方案。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本次地震造成寺廟損壞部分，建議研議補助辦法並向中央申請經費。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"受災戶租金補貼專案內政部已報請行政院核定，請市府加速核撥進度。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"請市府積極向各方勸募捐款，俾協助災民災後重建。\",\"children\":[]},{\"order\":\"六、\",\"content\":\"請市府研議臺南市114年度追加減預算追加獎補助費5億，挹注臺南市社會救助金專戶，解決楠西地震災民問題。\",\"children\":[]},{\"order\":\"七、\",\"content\":\"其他議員建議事項，請自行管考和答復。\",\"children\":[]}]}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2025\/03\/20",
+    "DoneDesc": "照委員會結論通過。",
+    "SendDate": "2025\/03\/27",
+    "SendNumber": "南議工務字第 1140001804號",
+    "DoDesc": "臺南市政府114年3月19日府社助字第1140452768號函覆詳附件1。\r\n臺南市政府114年3月25日府都住字第1140478017號函覆詳附件2。\r\n臺南市政府114年4月1日府主預字第1140455312號函覆詳附件3。\r\n",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1cfb1d23-3081-462b-b01b-14895eba0466",
+            "FileName": "專案報告-0121震災復原重建_彙整0313v20(定稿列印).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3aed7ca6-c47a-43d9-ad5e-d1ff1ebaf887",
+            "FileName": "專案報告-0121震災復原重建_彙整0313v20(定稿列印).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=245c9a4f-a18e-4326-86a4-8007d32735bf",
+            "FileName": "一、0121地震專案報告結論第五點社會局回覆.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6d579e28-0400-45b4-abfc-2d32ca626b24",
+            "FileName": "三、0121地震專案報告結論第六點主計處回覆.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fe53c578-70ba-41c5-8f36-d11d2315526c",
+            "FileName": "二、0121地震專案報告結論第四點都發局回覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3f584329-fedb-4724-81cb-66583ab3f2f3&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照委員會結論通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2025\/03\/19",
+    "ExecuteReNumber": "字第 號",
+    "ExecuteReMemo": "臺南市政府114年3月19日府社助字第1140452768號函覆詳附件1。\r\n臺南市政府114年3月25日府都住字第1140478017號函覆詳附件2。\r\n臺南市政府114年4月1日府主預字第1140455312號函覆詳附件3。\r\n",
+    "ErrorMessage": ""
+}

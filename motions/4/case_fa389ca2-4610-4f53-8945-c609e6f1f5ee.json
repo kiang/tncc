@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "3",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "楊中成、黃麗招、施余興望 Tjakumay Tagaw",
+    "CaseCause": "有關臺南市永康鹽行都市計畫區鄰近國道一號高速公路，隨著區域發展交通流量增加，車輛行駛產生的噪音對周邊居民生活品質造成影響。為維護居民健康及居住環境安寧，建請市府於該區域鄰近高速公路側建議高公局設置隔音牆，以降低噪音污染。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"鹽行重劃區位於臺灣臺南市永康區，是近年來臺南市政府積極推動的重大都市計畫之一。噪音來源目前主要為國道一號高速公路行駛車輛產生的交通噪音，包括引擎聲、輪胎摩擦聲等，居民反映夜間難以入眠，日常生活受到噪音干擾，影響身心健康。設置隔音牆是改善永康鹽行都市計畫區噪音問題的有效方案，設置位置沿國道一號高速公路至交流道(鹽行重劃區附圖)，以維護居民住的權益。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/03\/19",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2025\/03\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2025\/03\/31",
+    "SendNumber": "南議環衛字第 1140001964號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ed2f24d6-e957-4d30-8e26-14a87fc6193a",
+            "FileName": "4-8臨環保衛生議提3提案單-附圖.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fa389ca2-4610-4f53-8945-c609e6f1f5ee&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

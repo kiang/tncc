@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/02\/21",
+    "ComeNumber": "府農工字第1140304317號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "農業部農村發展及水土保持署核定本府「114年臺南市社區農村再生輔導計畫」案，經費117萬7000元(中央補助款100萬元、市配合款17萬7000元)因未及納入114年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據農業部農村發展及水土保持署114年1月22日農保建字第1142658328號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案核定補助總經費新臺幣706萬元整(中央補助款600萬元、市配合款106萬元)，其中588萬3000元(中央補助款500萬元、市配合款88萬3000元)已納入本府農業局114年農業管理與輔導業務─農業業務─農村規劃及農地管理項下，尚須增列117萬7000元整(中央補助款100萬元、市配合款17萬7000元)，未及納入本府114年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年2月18日第685次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性事由:旨案計畫係本市農村再生業務專管計畫，輔導社區辦理農村再生相關作業，須盡早開始執行，時程緊迫且中央補助計畫核定日期較晚，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2025\/03\/12",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2025\/03\/20",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2025\/03\/28",
+    "SendNumber": "南議財經字第 1140001959號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=48fa308c-b324-41b3-8d5b-0e3843fc1782",
+            "FileName": "04-財經5號.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=773a5522-18ae-497c-8c96-540da61338f1&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2025\/03\/03",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/02\/24",
+    "ComeNumber": "府交智安字第1140329375號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部核定本市「114年度智慧運輸系統發展建設計畫」補助計畫案經費5,080萬元(中央補助4,022萬元，市配合款1,058萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據交通部114年1月7日交科字第1135018494號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款之規定：「經上級政府核定之補助款，所使用之支出。」及第6款之規定：「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"114年臺南市東區裕農路運輸走廊暨多叉路口交通改善計畫：本案同意補助2,019萬元為上限，市配合款481萬元，總預算金額2,500萬元。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"AI道安分析暨路口改善專家支援系統建置計畫：本案同意補助646萬元為上限，市配合款154萬元，總預算金額800萬元。\",\"children\":[]},{\"order\":\"(三)\",\"content\":\"114年臺南市視障與弱勢行人對車告警系統計畫：本案同意補助323萬元為上限，市配合款77萬元，總預算金額400萬元。\",\"children\":[]},{\"order\":\"(四)\",\"content\":\"114年臺南市緊急車輛優先號誌計畫：本案同意補助1,034萬元為上限，市配合款346萬元，總預算金額1,380萬元。\",\"children\":[]},{\"order\":\"(五)\",\"content\":\"因上列案件未及納入114年度總預算，為爭取時效，謹請貴會同意先行墊付，俟115年度總預算辦理轉正。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府114年2月18日第685次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本次核定案件依中央期程規定，需於114年3月底前完成採購簽訂契約，有時效上之急迫性，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2025\/03\/12",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2025\/03\/20",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2025\/03\/26",
+    "SendNumber": "南議保安字第 1140001639號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0f631855-3631-4bb6-a5a2-77c8aa066945",
+            "FileName": "市提2-附件(含核定函及計畫).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6cb30ee9-e2ad-4563-a6f2-a46658c98a04&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2025\/03\/03",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

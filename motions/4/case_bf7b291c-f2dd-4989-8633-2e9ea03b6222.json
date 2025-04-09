@@ -1,0 +1,55 @@
+{
+    "GradeTime": "第4屆 第8次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-追加減預算",
+    "ComeDate": "2025\/02\/20",
+    "ComeNumber": "府主預字第1140302111號",
+    "OrgTitle": "臺南市政府主計處",
+    "OrgTitle2": "",
+    "CaseCause": "本市114年度總預算第一次追加(減)預算案業經編製完竣，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據地方制度法及一百十四年度中央及地方政府預算籌編原則規定辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"依據本府111年3月24日府主預字第1110358140號函答覆貴會之決議，將中央政府於113年12月31日前核定之補助款與因應其他市政需增加相關業務經費，編具完成追加(減)預算案。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本市114年度總預算歲入由原編預算數1,202億4,795萬6千元，淨追加52億4,932萬2千元，追加後歲入預算數1,254億9,727萬8千元；歲出由原編預算數1,246億8,865萬5千元，淨追加50億7,091萬8千元，追加後歲出預算數1,297億5,957萬3千元；歲入歲出差短原編預算數44億4,069萬9千元，加計追加減賸餘1億7,840萬4千元，追加減後歲入歲出差短42億6,229萬5千元，債務舉借並同減少1億7,840萬4千元。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年2月11日第684次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會惠予審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "詳如各委員會聯席審查意見報告書。",
+    "DoneDate": "2025\/03\/20",
+    "DoneDesc": "照聯席審查意見修正通過(內容如大會決議表)。",
+    "SendDate": "2025\/03\/31",
+    "SendNumber": "南議財經字第 1140001952號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ea5782f7-6cd9-4da2-a99f-967502f7b71a",
+            "FileName": "臺南市總預算114年度第一次追加(減)預算案補充資料.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=bf7b291c-f2dd-4989-8633-2e9ea03b6222&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3a37fdf4-4367-4103-bd3d-4b086bcfb3a5",
+            "FileName": "114年度臺南市總預算第一次追加（減）預算案 - 各委員會聯席審查意見報告書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d727ae70-e73b-48a1-a5cd-603346462fbc",
+            "FileName": "大會決議表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "2025\/03\/03",
+    "ReDesc": "照聯席審查意見修正通過(內容如大會決議表)。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "2025\/03\/20",
+    "SecondDesc": "照聯席審查意見修正通過。",
+    "ThirdDate": "2025\/03\/20",
+    "ThirdDesc": "照二讀會決議通過。",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

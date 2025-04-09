@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 臨時會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/02\/25",
+    "ComeNumber": "府民自字第1140325915號",
+    "OrgTitle": "臺南市政府各區公所",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部水利署補助本市楠西區公所辦理「114年度水源保育與回饋計畫」，經費計新臺幣80萬1,000元整（中央全額補助），因未及納入本府114年度總預算，為爭取時效，謹請貴會同意先行墊付，俟115年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據經濟部114年2月11日經授水字第11460002171號函、嘉義縣政府114年2月12日府水政字第1140039371號函暨楠西區公所113年7月29日所農建字第1130602835號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」規定辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費新臺幣80萬1,000元整，由中央全額補助，因未及納入本府114年度總預算，為爭取時效，謹請貴會同意先行辦理墊付，俟115年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年2月25日第686次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本次核定經費依計畫規定須於本(114)年12月底前辦理核銷，不得辦理保留，故於本會期提出墊付案申請，以利於本年度辦竣並向中央核結。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，並於115年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2025\/03\/12",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2025\/03\/20",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=43565066-ce71-4676-9ec1-65a02e46b51b",
+            "FileName": "民教2(楠西區公所)-附件(核定函及計畫等資料).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c755e5af-296f-42b0-81fb-1f94cf561e3d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2025\/03\/03",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

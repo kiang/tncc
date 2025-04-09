@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第8次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/02\/13",
+    "ComeNumber": "府交綜字第1140245650號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部核定「臺鐵隆田車站跨站式站房改建先期作業」，為爭取時效，謹請貴會同意先行墊付114年度經費20萬元（中央補助16萬8,000元，市配合款3萬2,000元），俾憑辦理後續相關作業事宜，並於115年度總預算辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據交通部114年1月20日交路(一)字第1147900013號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4項、第6項，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"本案總經費520萬元（中央補助436萬8,000元，市配合款83萬2,000元）。114年度經費20萬元（中央補助16萬8,000元，市配合款3萬2,000元）因未及納入本府114年度總預算，為爭取時效，謹請貴會同意先行墊付，並於115年度總預算辦理轉正。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本案總經費採分年編列預算，114年度20萬元、115年度450萬元、116年度50萬元。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府114年2月11日第684次市政會議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：交通部核定函載明，受補助地方政府於接獲申請補助核定通知日起，半年內須完成發包作業，倘半年內未完成發包，將予註銷或中止補助經費。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，並於115年度總預算辦理轉正。\"}]",
+    "CheckDate": "2025\/03\/12",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2025\/03\/20",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2025\/03\/26",
+    "SendNumber": "南議保安字第 1140001638號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ec143c4a-6d95-4cdf-a1a7-d90e39778a7c",
+            "FileName": "市提1-核定函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ca0b2d2b-69e9-4399-995b-8697e52852db",
+            "FileName": "市提1補充說明1140304.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5cd14bf8-8eb2-49a9-a71b-7bb48644bf17&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2025\/03\/03",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

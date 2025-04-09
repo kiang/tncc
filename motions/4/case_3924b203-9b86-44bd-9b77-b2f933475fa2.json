@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 臨時會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "23",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王宣貿",
+    "OrgTitle2": "鄭佳欣、沈震東、余柷青、朱正軒、郭鴻儀、Ingay Tali 穎艾達利",
+    "CaseCause": "關於新營福園電力設備增加乙案，請市府研擬改善方案。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據民俗禮儀需求，告別式會場通常需進行樂器演奏，然因新營福園守靈室場地有限，樂器演奏需另行搭設帳篷，並額外架設電線，以提供電力支援，非常不便。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為便利民俗儀式進行，請貴單位評估於雨遮區增設電力設備及插座，以提升場地使用之便利性。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2025\/03\/19",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2025\/03\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2025\/03\/28",
+    "SendNumber": "南議民教字第 1140001821號",
+    "DoDesc": "收文字號：本會114年4月2日1140002089號\r\n本府就「關於新營福園電力設備增加乙案，請市府研擬改善方案。」案，敬答覆如下：\r\n本案經本市殯管所評估，已於新營福園殯葬專區守靈室遮雨棚柱增設插座，並以114年3月25日南市殯二字第1140477560號函轉知各相關單位在案。裝設位置照片如附件。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=dcca8d26-2f8d-46c7-aaff-3437a2f8cb5c",
+            "FileName": "民教23-新營福園電力設備裝設位置照片.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3924b203-9b86-44bd-9b77-b2f933475fa2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2025\/04\/02",
+    "ExecuteReNumber": "府民生字第 1140506390號",
+    "ExecuteReMemo": "收文字號：本會114年4月2日1140002089號\r\n本府就「關於新營福園電力設備增加乙案，請市府研擬改善方案。」案，敬答覆如下：\r\n本案經本市殯管所評估，已於新營福園殯葬專區守靈室遮雨棚柱增設插座，並以114年3月25日南市殯二字第1140477560號函轉知各相關單位在案。裝設位置照片如附件。",
+    "ErrorMessage": ""
+}

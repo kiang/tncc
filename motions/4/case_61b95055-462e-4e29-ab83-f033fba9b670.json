@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "8",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "Ingay Tali 穎艾達利、陳怡珍、周奕齊",
+    "OrgTitle2": "邱莉莉、盧崑福、王宣貿、周麗津、陳秋宏、陳皇宇、李中岑、陳秋萍、王家貞、陳碧玉、杜素吟、郭鴻儀、蔡育輝、蔡淑惠、曾培雅",
+    "CaseCause": "建請市府重新檢視並改善立體停車場無障礙設施，並請統整工務單位與社會局各無障礙小組，於公共設施之設計規劃階段即納入無障礙意見，俾便落實長幼無障礙友善政策精神。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"按近日先後有青年路立體停車場與文化中心立體停車場兩處場所完工啟用，各為當地停車空間與多元活動場所提供更為寬裕能量，合先敘明。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"經現場檢視，兩案雖皆設有無障礙相關設施，惟查：\",\"children\":[{\"order\":\"(一)\",\"content\":\"青年路立體停車場：\",\"children\":[{\"order\":\"１、\",\"content\":\"車道入口處雖有剩餘車位顯示，但因為特殊車位（如婦幼、無障礙、電動車位）位於特定樓層，對入場者言僅諭知車位剩餘量而非樓層，仍不利於停車效益，建議改善（參圖一）。\",\"children\":[]}]},{\"order\":\"(二)\",\"content\":\"文化中心立體停車場：\",\"children\":[{\"order\":\"１、\",\"content\":\"身障車位分於3\/4\/5樓（各2席），惟本建物兩部升降梯僅其一進行低位控制盤設置（無障礙電梯），查改裝經費不高，建議宜兩部皆能通用為宜（參圖二）；\",\"children\":[]},{\"order\":\"２、\",\"content\":\"自電梯下行至一樓平面後，該樓平面有西北（往崇明十街）與東南（往崇明路）兩處出入口，惟僅東南出口有無障礙坡道（卻指標不明確），西北出入口僅有階梯卻無坡道（且無扶手）。建議明確標示引導無障礙通行方向，並於西北出口增設高低扶手，以便長幼往來通行（參圖三）。\",\"children\":[]},{\"order\":\"３、\",\"content\":\"另查，一樓往地下樓階梯雖設有扶手並依規定可標示為「無障礙通道」，實則使用輪椅或助行器者完全無法上下樓。為免誤會爭議，建議移除或調整，並建請中央調整現行法規內容，以符實際（參圖四-1、四-2）。\",\"children\":[]}]}]},{\"order\":\"三、\",\"content\":\"按是類工程未及周延事例，恐因於設計規劃之初並未廣納市府相關無障礙空間推動審查組織之意見，而僅於工程驗收階段方邀集渠等委員，則對已完成之硬體或木已成舟或調整需另耗費用、或驗收查察時因引導路線致審查者未能通盤檢視而疏漏。此節本席早已建請市府宜統整工務單位與社會局各無障礙小組，並於市府各公共設施於「設計規劃階段」即納無障礙委員意見，迄今仍未見市府正視，實應糾正檢討著及改善之！\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2025\/03\/18",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2025\/03\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2025\/03\/26",
+    "SendNumber": "南議保安字第 1140001650號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=90cead59-034e-4258-9734-4802dc015c65",
+            "FileName": "Ingay Tali議員等-停車場無障礙設施改善.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=61b95055-462e-4e29-ab83-f033fba9b670&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 臨時會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "4",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "陳秋萍、周麗津、盧崑福、Ingay Tali 穎艾達利、陳皇宇、尤榮智、方一峰",
+    "CaseCause": "新化區體育公園設施完善，使用人數眾多，考量到高齡化社會需求，應於出入口設置無障礙坡道。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"新化體育公園，各項設施逐年完善，使用居民逐漸增加。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"目前社區居民集中在體育公園的北側，而北側開設通道並無無障礙設施，無法提供高齡長輩使用。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"敬請管理單位，增設無障礙坡道設施，提供長輩使用。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/03\/19",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2025\/03\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2025\/03\/28",
+    "SendNumber": "南議民教字第 1140001924號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8efc72a3-6e72-49bd-8f1a-367a45f71962",
+            "FileName": "臨4-8議提附件-體育局-新化體育公園無障礙坡道.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b1078ab3-d703-4a1c-8438-79a0896b433b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

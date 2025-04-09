@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "18",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "楊中成、施余興望 Tjakumay Tagaw、黃麗招",
+    "CaseCause": "建議將永大二路的拖吊場改建為立體停車場，以提升土地使用效率，解決停車問題，並促進區域發展。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"臺南市永康區為人口稠密、商業活動蓬勃發展的區域，永大二路周邊更是住宅、學校、商家與工業區聚集之地。隨著都市發展加速，交通壓力與停車需求日益增加，原有平面拖吊場佔地廣闊，但使用效益有限，附近住宅區與商業區大樓林立，停車位供不應求，常造成違規停車與交通阻塞，引起民怨。因此，將拖吊場改建為多層立體停車場，提供足夠停車空間，以提升土地使用效率，解決停車問題，並促進區域發展。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/03\/18",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2025\/03\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2025\/03\/26",
+    "SendNumber": "南議保安字第 1140001660號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d30be897-32ba-4bfd-af36-7ece0088b343",
+            "FileName": "李鎮國議員-永康區永大路拖吊場改建立體停車場.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=695fde4d-89a3-4803-bd21-68767fbba702&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

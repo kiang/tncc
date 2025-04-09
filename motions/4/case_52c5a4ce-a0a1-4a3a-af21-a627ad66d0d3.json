@@ -13,10 +13,10 @@
     "CheckDate": "",
     "CheckDesc": "",
     "DoneDate": "2024\/12\/19",
-    "DoneDesc": "本案照委員會結論1至4點通過。",
+    "DoneDesc": "一、本案照委員會結論1至4點通過。\r\n二、結論中房屋稅相關意見須請中央重視，請財政稅務局如實向財政部反映。",
     "SendDate": "",
     "SendNumber": "",
-    "DoDesc": "",
+    "DoDesc": "巿府就議決事項函轉財政部，詳如附件1。",
     "AttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=70a2c7ff-8ad0-4931-b1e8-f07147dbc3b2",
@@ -34,20 +34,26 @@
             "ErrorMessage": ""
         }
     ],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1bf7dc51-ef75-4699-b025-775f9195a52e",
+            "FileName": "附件1：1140212房屋稅函送財政部函文.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=52c5a4ce-a0a1-4a3a-af21-a627ad66d0d3&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
     "ReDate": "",
-    "ReDesc": "本案照委員會結論1至4點通過。",
+    "ReDesc": "一、本案照委員會結論1至4點通過。\r\n二、結論中房屋稅相關意見須請中央重視，請財政稅務局如實向財政部反映。",
     "FirstDate": "",
     "FirstDesc": "",
     "SecondDate": "",
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/02\/12",
+    "ExecuteReNumber": "府財稅字第 11402605688號",
+    "ExecuteReMemo": "巿府就議決事項函轉財政部，詳如附件1。",
     "ErrorMessage": ""
 }

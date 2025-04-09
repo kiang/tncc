@@ -13,7 +13,7 @@
     "CheckDate": "2024\/12\/17",
     "CheckDesc": "一、法規名稱修正為:制定「臺南市建設公債發行自治條例」草案。\r\n二、本案條文除第一條修正通過，其餘照案通過，詳如審查結果對照表。\r\n三、其他意見：\r\n(一) 乙類債券發行上限，不能超過公共債務舉債上限的1\/2。\r\n(二)請巿府確認：目前巿庫代理銀行委託內容是否涵蓋公債發行、償還及付息等相關服務內容，並向大會報告。",
     "DoneDate": "2024\/12\/19",
-    "DoneDesc": "本案照委員會結論通過。",
+    "DoneDesc": "一、修正通過。\r\n二、法規名稱修正為：「臺南市建設公債發行自治條例」。\r\n三、本案條文除第一條修正通過，其餘照案通過，詳如大會決議對照表。",
     "SendDate": "2024\/12\/31",
     "SendNumber": "南議法規字第 1130012890號",
     "DoDesc": "",
@@ -48,10 +48,15 @@
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3d265cae-5514-42e5-8caa-8d9fe1beb4ee",
             "FileName": "(02-大會)4屆7臨1219第2次會紀錄C.pdf",
             "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e9fc34a5-f1e2-475a-8dff-08fcffea3ef0",
+            "FileName": "大會決議對照表.pdf",
+            "ErrorMessage": ""
         }
     ],
     "ReDate": "2024\/12\/04",
-    "ReDesc": "本案照委員會結論通過。",
+    "ReDesc": "一、修正通過。\r\n二、法規名稱修正為：「臺南市建設公債發行自治條例」。\r\n三、本案條文除第一條修正通過，其餘照案通過，詳如大會決議對照表。",
     "FirstDate": "2024\/12\/10",
     "FirstDesc": "交付法規委員會審查。",
     "SecondDate": "2024\/12\/19",

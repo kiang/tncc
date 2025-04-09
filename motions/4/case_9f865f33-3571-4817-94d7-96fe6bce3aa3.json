@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "7",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "黄肇輝",
+    "OrgTitle2": "許至椿、王宣貿、陳皇宇、沈震東、郭鴻儀",
+    "CaseCause": "建請消防局儘速設置火場管制相關標準作業程序。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依《消防法施行細則》第12條、15條規定，火災現場應受消防及警察機關管制，民眾未經許可不得進入。消防署並訂有「消防機關火場指揮及搶救作業要點」，要求直轄市消防機關應制定作業規範。然而，經查本市尚未訂定相關規則，導致消防人員執行困難。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"此外，消防單位反映，民眾擅闖火場情況時有發生，不僅危險，亦影響秩序，故建請消防局儘速制定指揮要點，尤其是針對前開情況的處理程序，以明確規範執行依據。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/03\/18",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2025\/03\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2025\/03\/26",
+    "SendNumber": "南議保安字第 1140001649號",
+    "DoDesc": "本府就「建請消防局儘速設置火場管制相關標準作業程序」案，敬答復如下：\r\n一、本府消防局於106年10月31日函頒「臺南市政府消防局火場指揮及搶救作業規範」，並於112年2月9日修訂。\r\n二、依上揭規範火場指揮官區分為:火場總指揮官、火場副總指揮官、救火指揮官、警戒指揮官、偵查指揮官。\r\n三、警戒指揮官為協調轄區警察局派員擔任，任務如下：\r\n(一) 指揮火場警戒及維持治安勤務。\r\n(二) 指揮火場週邊道路交通管制及疏導勤務。\r\n(三) 指揮強制疏散警戒區之人車，維持火場秩序。\r\n(四) 必要時由消防局通知協助保持火場現場完整，以利火場勘查及鑑定。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fcd399ce-a167-4e29-88d8-b9bc75716d30",
+            "FileName": "南市消防局火場指揮及搶救作業規範.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9f865f33-3571-4817-94d7-96fe6bce3aa3&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2025\/03\/28",
+    "ExecuteReNumber": "府消救字第 1140487186號",
+    "ExecuteReMemo": "本府就「建請消防局儘速設置火場管制相關標準作業程序」案，敬答復如下：\r\n一、本府消防局於106年10月31日函頒「臺南市政府消防局火場指揮及搶救作業規範」，並於112年2月9日修訂。\r\n二、依上揭規範火場指揮官區分為:火場總指揮官、火場副總指揮官、救火指揮官、警戒指揮官、偵查指揮官。\r\n三、警戒指揮官為協調轄區警察局派員擔任，任務如下：\r\n(一) 指揮火場警戒及維持治安勤務。\r\n(二) 指揮火場週邊道路交通管制及疏導勤務。\r\n(三) 指揮強制疏散警戒區之人車，維持火場秩序。\r\n(四) 必要時由消防局通知協助保持火場現場完整，以利火場勘查及鑑定。",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 臨時會",
+    "PTypTitle": "建設",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/02\/25",
+    "ComeNumber": "府觀銷廣字第1140318273號",
+    "OrgTitle": "臺南市政府觀光旅遊局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部觀光署核定補助本市辦理114年度「借問站」創新旅遊服務推廣計畫總經費34萬元（中央補助款30萬6,000元、市配合款3萬4,000元)，其中30萬6,000元因未及納入本市114年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據交通部觀光署114年2月18日觀旅字第1145000324G號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款及第6款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費34萬元（中央補助款30萬6,000元、市配合款3萬4,000元)，其中30萬6,000元，因未及納入本市114年度總預算，為爭取時效，謹請貴會同意先行墊付，俟115年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本市114年2月25日第686次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由:為使核定案件各項里程碑達成期限原則，需依交通部觀光署規定期程辦理，以避免補助經費流失。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2025\/03\/12",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2025\/03\/20",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2025\/03\/26",
+    "SendNumber": "南議建設字第 1140001831號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7c010719-84c0-44c7-b4e3-16f74310d475",
+            "FileName": "市提4附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a63f0699-d9c6-4391-8354-b0fdf72be7d4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2025\/03\/03",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
