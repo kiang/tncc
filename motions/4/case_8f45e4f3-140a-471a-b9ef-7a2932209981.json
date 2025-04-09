@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/04\/07",
+    "ComeNumber": "府衛疾字第1140318994號",
+    "OrgTitle": "臺南市政府衛生局",
+    "OrgTitle2": "",
+    "CaseCause": "衛生福利部疾病管制署補助本市辦理114年度「傳染病防治計畫-疫苗冷運冷藏設備汰購及校正」，增加經費新臺幣284萬3,000元整(中央補助227萬4,000元、市配合款56萬9,000元)，因未及納入114年度總預算案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，於115年度總預算時辦理轉正。敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據衛生福利部疾病管制署114年3月7日疾管防字第1140200163號函及各機關單位預算執行要點第44點第4款及第6款辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款：經上級政府核定之補助款，所使用之支出及第6款：配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本計畫工作項目增加補助後，尚有284萬3,000元(中央補助227萬4,000元；市配合款56萬9,000元)，因未及納入114年度總預算案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，於115年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年4月1日第691次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"墊付案緊急性理由：因應3M冷凍監視片全國停產，為確保公費疫苗合約院所冷運冷藏溫度監控管理、保障疫苗品質監測及民眾接種安全，該計畫需於114年6月30日前完成採購發包且檢具採購契約書及相關資料：因此經費今年初急需使用，因未及納入114年度總預算，且相關合約院所需求、教育訓練及採購規劃考量，爰需此經費以利本局業務推動。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=965731b4-7ac4-4e76-a362-a2bc4e0ec8e3",
+            "FileName": "4-5定 環衛市提第5號案-市府來文.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bfdbe04c-4f20-4a8f-8115-95da59c91223",
+            "FileName": "4-5定 環衛市提第5號案-市府來文附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8f45e4f3-140a-471a-b9ef-7a2932209981&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

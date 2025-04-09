@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/04\/08",
+    "ComeNumber": "府衛食藥字第1140306174號",
+    "OrgTitle": "臺南市政府衛生局",
+    "OrgTitle2": "",
+    "CaseCause": "衛生福利部核配本市辦理「113年精進地方政府關鍵食安管理計畫-精進補強方案-有效降低餐盒食品製造業者食品中毒發生率計畫」第一期獎勵金總計新臺幣250萬元整(中央全額補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，於納入115年度預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據衛生福利部114年2月26日衛授食字第1149012540M號函及各機關單位預算執行要點第44點第4款辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款：經上級政府核定之補助款，所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案核配獎勵金總計新臺幣250萬元(中央全額補助)，因未及納入本府衛生局114年度總預算，請准予先行墊付，俟納入115年度預算再行轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年4月1日第691次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本計畫自114年1月1日開始執行，需新增聘3名人力協助推動113年精進地方政府關鍵食安管理計畫，包括協助食品業者稽查輔導及食品中毒防治等相關工作，因衛生福利部核准時間未及納入本府衛生局114年度追加減預算，爰於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=90865862-3dde-4609-8008-3a13403f762c",
+            "FileName": "4-5定 環衛市提第3號案-市府來文.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4d6ca7a9-1790-4463-9f45-65bdc7f6f0a1",
+            "FileName": "4-5定 環衛市提第3號案-市府來文附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=729fe3f2-39ae-4649-9a55-3c652972bc8e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

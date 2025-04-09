@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "8",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/04\/08",
+    "ComeNumber": "府衛檢字第1140306175號",
+    "OrgTitle": "臺南市政府衛生局",
+    "OrgTitle2": "",
+    "CaseCause": "衛生福利部核定本市「113年精進地方政府關鍵食安管理計畫-檢驗強化方案-提升檢驗品質」，114年度所需經費新臺幣200萬元整(中央全額補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，於納入115年度預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院113年11月5日院臺食安字第1135016639號函、衛生福利部113年11月7日衛授食字第1139080876號函及各機關單位預算執行要點第44點第4款辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款：經上級政府核定之補助款，所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"衛生福利部審議核定本計畫第一期獎勵金新臺幣1,100萬元及第二期獎勵金新臺幣500萬元，共計新臺幣1,600萬元(中央全額補助)，本案獎勵金需挹注於本府衛生局執行「檢驗強化方案-提升檢驗品質」之強化檢驗品質及提升檢驗量能等相關業務114年度所需經費新臺幣200萬元整，因未及納入本府衛生局114年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年4月1日第691次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案之辦理期程為114年9月1日起執行，為使本計畫之檢驗人力能順利銜接衛生福利部於8月31日終止之「前瞻基礎建設計畫-食品安全建設-強化衛生單位食安治理檢驗效能及品質計畫」，擬運用獲配獎勵金辦理強化檢驗品質及提升檢驗量能等相關工作，爰需此經費以利本府衛生局業務推動。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fb47ffd3-7bae-48f9-91d4-501bef68dc77",
+            "FileName": "4-5定 環衛市提第8號案-市府來文.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6ed6d049-0c22-4d77-a8fa-b1940722ab5f",
+            "FileName": "4-5定 環衛市提第8號案-市府來文附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=28eca839-e191-43d5-80cc-21c030a3756e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
