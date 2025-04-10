@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/04\/09",
+    "ComeNumber": "府文秘字第1140530389號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "教育部核定補助本市辦理114年度「補助公共圖書館耐震能力改善實施計畫」第4階段總經費2,104萬元（中央補助款1,788萬4,000元、市配合款315萬6,000元），其中1,319萬2,000元（中央補助款1,121萬3,000元、市配合款197萬9,000元）未及納入本府114年度總預算，為爭取時效，謹請貴會同意先行墊付，俟115年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據教育部114年2月25日臺教社(四)字第1140003554A號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費2,104萬元（中央補助款1,788萬4,000元、市配合款315萬6,000元）係補助七股區圖書館及佳里區圖書館辦理建築物結構補強工程。其中784萬8,000元整(資本門)已匡列114年度預算，惟部分經費1,319萬2,000元（中央補助款1,121萬3,000元、市配合款197萬9,000元）因未及納入本府114年度總預算，為爭取時效，謹請貴會同意先行墊付，俟115年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年4月1日第691次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案係進行七股區圖書館及佳里區圖書館建築物結構補強工程，因近來地震頻仍，為增加抗震能力，以維護閱讀環境安全，急需爭取時效，儘早完成，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8dc644e2-2f7c-46be-9145-810a823fbe30",
+            "FileName": "市提3附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ecf830e3-5006-4a6d-876e-32ef03c2a414&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

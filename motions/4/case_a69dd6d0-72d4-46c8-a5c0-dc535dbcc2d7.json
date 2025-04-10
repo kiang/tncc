@@ -17,7 +17,13 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=174d7530-1341-40f8-915f-182086804612",
+            "FileName": "4-5定法規市提2附件-修正「臺南市促進科技與新創產業發展自治條例」草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a69dd6d0-72d4-46c8-a5c0-dc535dbcc2d7&type=pdf",
     "CheckAttList": [],

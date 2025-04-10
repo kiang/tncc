@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/04\/09",
+    "ComeNumber": "府文秘字第1140530389號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "教育部核定補助本市辦理「114年推動公共圖書館資源整合發展補助專案計畫」總經費52萬元（中央補助款30萬7,000元、市配合款21萬3,000元），其中17萬4,000元（中央補助款4萬7,000元、市配合款12萬7,000元）未及納入114年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據教育部114年3月19日臺教社(四)字第1140023048G號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費52萬元（中央補助款30萬7,000元、市配合款21萬3,000元），係補助本市臺南分區資源中心辦理閱讀推廣等相關活動。其中，34萬6,000元（中央補助款26萬元、市配合款8萬6,000元）已匡列於114年預算，惟部份經費17萬4,000元（中央補助款4萬7,000元、市配合款12萬7,000元）因未及納入114年度總預算，為爭取時效，謹請貴會同意先行墊付，俟115年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年4月9日第692次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案辦理數位資源課程、多元文化串聯及南區縣市聯合行銷等閱讀推廣活動，前置規劃作業聯繫項目繁多，並受國家圖書館列管進度，須於本年度7月份執行達50%，並於本年度執行完畢。本案倘未及執行，恐影響臺南分區資源中心之執行績效及閱讀推廣成效，並進而影響爾後教育部經費補助額度。為於前開期程內達成列管進度執行，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度總預算時辧理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=afe3d551-c5d4-41cc-bc64-5f92c19de6bc",
+            "FileName": "市提4附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a112fe66-2d84-4aa8-9443-a1734bceb9b6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,13 +1,13 @@
 {
     "GradeTime": "第4屆 第5次 定期會",
     "PTypTitle": "法規",
-    "CaseNumber": "7",
+    "CaseNumber": "8",
     "KidTitle": "查照\/備查案-法規查照案",
-    "ComeDate": "2025\/03\/03",
-    "ComeNumber": "府環廢字第1140331219號",
-    "OrgTitle": "臺南市政府環境保護局",
+    "ComeDate": "2025\/03\/31",
+    "ComeNumber": "府水人字第1140445112號",
+    "OrgTitle": "臺南市政府水利局",
     "OrgTitle2": "",
-    "CaseCause": "修正「臺南市垃圾焚化廠及掩埋場營運階段提供回饋金辦法」。",
+    "CaseCause": "修正「臺南市政府水利局編制表」。",
     "Content": "",
     "Method": "",
     "CheckDate": "",
@@ -19,13 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cc57a137-eddd-40e3-bd5c-6df41c92a43b",
-            "FileName": "4-5定-法規查照7---修正「臺南市垃圾焚化廠及掩埋場營運階段提供回饋金辦法」.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0900938a-e398-4439-8701-69116ee24f6c",
+            "FileName": "4-5定-法規查照8---修正「臺南市政府水利局編制表」.pdf",
             "ErrorMessage": ""
         }
     ],
     "RAttList": [],
-    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=90aaf6ae-e7be-4d2f-9682-3e25cefd9d8d&type=pdf",
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f2a91c2f-42a1-4bcb-9606-98b0f7e32d55&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
     "ReDate": "",

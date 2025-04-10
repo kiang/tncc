@@ -17,7 +17,18 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=37f5f4ec-8dd5-4c4f-890d-afcdd71acfe0",
+            "FileName": "4-5定 環衛市提第1號案-市府來文.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b82b31a6-d25a-47f1-972b-bb0ce6191f46",
+            "FileName": "4-5定 環衛市提第1號案-市府來文附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=77d3a6f8-fe63-45ca-a81c-3e41a8cbfd06&type=pdf",
     "CheckAttList": [],
