@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/04\/10",
+    "ComeNumber": "府地用字第1140553787號 ",
+    "OrgTitle": "臺南市政府地政局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部核定本市114年度「國土計畫土地使用管制事項」計畫案經費新臺幣116萬元整（全額中央補助），因未及納入114年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部114年3月5日內授國計字第1140801910號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款所使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本計畫核定經費新臺幣116萬元整（全額中央補助），因未及納入本府114年度總預算，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年4月9日第692次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由:為辦理114年度非都市土地使用管制作業，加速清查未辦結變異點案件及提升違規案件處理效率，利銜接國土計畫土地使用管制，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=927a5638-f330-4bc3-be11-48147e0a2c85",
+            "FileName": "財經4號.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c13bbf16-da77-49ae-b2ba-7c5ce7b5f240&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

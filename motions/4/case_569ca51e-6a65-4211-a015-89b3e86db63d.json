@@ -3,8 +3,8 @@
     "PTypTitle": "財經",
     "CaseNumber": "1",
     "KidTitle": "市府提案-墊付款案",
-    "ComeDate": "",
-    "ComeNumber": "",
+    "ComeDate": "2025\/04\/10",
+    "ComeNumber": "府經區字第1140541313號",
     "OrgTitle": "臺南市政府經濟發展局",
     "OrgTitle2": "",
     "CaseCause": "經濟部產業園區管理局核定本市「直轄市都市計畫內未設污水廠工業區污水處理可行性評估補助計畫」經費新臺幣4,000萬元整(中央補助款3,600萬元，市配合款400萬元)為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度總預算辦理轉正，敬請審議。",
@@ -17,7 +17,13 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a1282c21-c602-43cd-ab26-e5d17c86a4b6",
+            "FileName": "中央核定文及附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=569ca51e-6a65-4211-a015-89b3e86db63d&type=pdf",
     "CheckAttList": [],
