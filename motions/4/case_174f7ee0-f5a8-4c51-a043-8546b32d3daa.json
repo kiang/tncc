@@ -16,9 +16,15 @@
     "DoneDesc": "請農業局向農業部反映。",
     "SendDate": "2024\/12\/16",
     "SendNumber": "南議議事字第 1130012178號",
-    "DoDesc": "",
+    "DoDesc": "本府就「請農業部將綠鬣蜥排除在「野生動物保育法」適用範圍之外」案，敬答覆如下：\r\n一、貴會請本府函請農業部將綠鬣蜥排除在「野生動物保育法」適用範圍之外，經查本府已於113年12月4日府農森字第1132473713函報農業部在案（如附件）。\r\n二、承蒙貴席對於農政業務之關切，本局至為感謝，尚請不吝賜教。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=874e6964-77c3-449d-99cc-73650a2f345b",
+            "FileName": "1132473713號函.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=174f7ee0-f5a8-4c51-a043-8546b32d3daa&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/12\/31",
+    "ExecuteReNumber": "府農森字第 1132564954號",
+    "ExecuteReMemo": "本府就「請農業部將綠鬣蜥排除在「野生動物保育法」適用範圍之外」案，敬答覆如下：\r\n一、貴會請本府函請農業部將綠鬣蜥排除在「野生動物保育法」適用範圍之外，經查本府已於113年12月4日府農森字第1132473713函報農業部在案（如附件）。\r\n二、承蒙貴席對於農政業務之關切，本局至為感謝，尚請不吝賜教。",
     "ErrorMessage": ""
 }
