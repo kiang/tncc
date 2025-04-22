@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2024\/05\/29",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "專案報告-專案報告",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府環境保護局",
+        "CaseCause": "「本市非法廢棄物堆置場址處置」專案報告",
+        "ProNo": "38ce3893-f2cc-40a5-92e5-0409d0b2583d",
+        "PagesAll": "47"
+    },
+    {
         "DoneDate": "2024\/06\/26",
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "建設",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "王家貞",
         "CaseCause": "建請市政府針對現行道路路口有直行及左轉交通標線改善。",
         "ProNo": "d82edb80-bb75-457f-ab73-61e2f08cbe69",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "30",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "請市政府增設新營火車站至新營市福園殯葬區公車路線在福園長榮路入口處設公車站以方便居住於外縣市或本市其他區之眷屬至新營福園祭拜。",
-        "ProNo": "e7cf88bb-91c3-46c6-862d-27c290704e08",
         "PagesAll": "47"
     }
 ]

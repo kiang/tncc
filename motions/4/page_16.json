@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "74",
+        "OrgTitle": "余柷青",
+        "CaseCause": "澄山里九福農路(摔猿121右38)下邊坡改善工程。",
+        "ProNo": "1e9bf613-11cc-4654-9b39-253ed1d8aa35",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "75",
         "OrgTitle": "余柷青",
         "CaseCause": "新化區大坑里2-5號前農路改善工程。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "陳怡珍",
         "CaseCause": "有關帶狀疱疹疫苗要價不斐，弱勢族群難以負擔乙案，本席建請臺南市政府應儘速評估提供免費接種。",
         "ProNo": "bcaae8e9-ce84-4ff8-882c-da52855d672c",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/05\/29",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "專案報告-專案報告",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府環境保護局",
-        "CaseCause": "「本市非法廢棄物堆置場址處置」專案報告",
-        "ProNo": "38ce3893-f2cc-40a5-92e5-0409d0b2583d",
         "PagesAll": "47"
     }
 ]

@@ -451,6 +451,17 @@
         "PagesAll": "47"
     },
     {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "4",
+        "OrgTitle": "臺南市政府民政局",
+        "CaseCause": "修訂「臺南市公民投票自治條例」草案，敬請審議。\r\n",
+        "ProNo": "79c19d87-e317-43dd-ab46-b418aaa92ba8",
+        "PagesAll": "47"
+    },
+    {
         "DoneDate": "2025\/03\/20",
         "GradeTime": "第4屆 第8次 臨時會",
         "PTypTitle": "民政教育",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "余柷青、沈家鳳",
         "CaseCause": "建請社會局積極争取於新化區設立親子悠遊館。",
         "ProNo": "d2b0eb46-7ad4-41de-a772-7edc00be74e0",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "12",
-        "OrgTitle": "沈家鳳",
-        "CaseCause": "本市身心障礙者爬梯機服務預約等待時間過長，建請市府新增爬梯機專案服務人力及輔具數量。",
-        "ProNo": "13f213df-bf59-4bc9-a8eb-a69e945c4bc3",
         "PagesAll": "47"
     }
 ]

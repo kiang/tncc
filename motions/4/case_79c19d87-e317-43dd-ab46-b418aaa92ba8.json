@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2025\/04\/22",
+    "ComeNumber": "府民自字第1140612806號",
+    "OrgTitle": "臺南市政府民政局",
+    "OrgTitle2": "",
+    "CaseCause": "修訂「臺南市公民投票自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為配合修正後之公民投票法，並使本自治條例更臻完善，爰擬具本修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府114年4月15日第693次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市公民投票自治條例」修正草案（含總說明、條文對照表及草案條文）1份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=273f3069-ab57-485d-ae86-79fc3985a5cc",
+            "FileName": "附件---4-5定法規巿提4-修訂「臺南市公民投票自治條例」草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=79c19d87-e317-43dd-ab46-b418aaa92ba8&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

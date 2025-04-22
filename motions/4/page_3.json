@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第8次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "43",
+        "OrgTitle": "林燕祝",
+        "CaseCause": "建請市府於永康區永勝街106巷增設排水側溝，保障來往民眾通行之安全。",
+        "ProNo": "003e4e11-3c7b-408c-9041-d7cc9e33ca87",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "44",
         "OrgTitle": "林美燕",
         "CaseCause": "請修繕臺南市南區德興路130巷之水溝面。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林美燕",
         "CaseCause": "請重新整理南區體育公園園區人行道地磚。",
         "ProNo": "06163b0c-9591-4cee-a178-5d1f0e2ba73e",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "31",
-        "OrgTitle": "林美燕",
-        "CaseCause": "請重新檢視並修建補強體育公園內蒸汽火車頭展覽場之遮雨棚結構安全，並採修建補強措施。",
-        "ProNo": "fcf0af05-5541-4b83-ae53-f7a0c440dd7c",
         "PagesAll": "47"
     }
 ]
