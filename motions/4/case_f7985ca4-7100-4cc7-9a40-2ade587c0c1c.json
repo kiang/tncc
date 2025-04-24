@@ -19,6 +19,11 @@
     "DoDesc": "",
     "AttList": [
         {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c1b59c51-2530-46eb-b774-a75e88234a4c",
+            "FileName": "1.墊付案補充資料全-工務市提3號案.pdf",
+            "ErrorMessage": ""
+        },
+        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b28dbc1a-e34d-4484-9b20-b7b56cf90cfc",
             "FileName": "38487_0511656A00_ATTCH5.pdf",
             "ErrorMessage": ""
