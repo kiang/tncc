@@ -16,7 +16,7 @@
     "DoneDesc": "照委員會結論通過。",
     "SendDate": "2025\/03\/27",
     "SendNumber": "南議工務字第 1140001804號",
-    "DoDesc": "臺南市政府114年3月19日府社助字第1140452768號函覆詳附件1。\r\n臺南市政府114年3月25日府都住字第1140478017號函覆詳附件2。\r\n臺南市政府114年4月1日府主預字第1140455312號函覆詳附件3。\r\n",
+    "DoDesc": "臺南市政府114年3月19日府社助字第1140452768號函覆詳附件1。\r\n臺南市政府114年3月25日府都住字第1140478017號函覆詳附件2。\r\n臺南市政府114年4月1日府主預字第1140455312號函覆詳附件3。\r\n臺南市政府114年4月24日府工使一字第1140565179A號函覆詳附件4。\r\n",
     "AttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1cfb1d23-3081-462b-b01b-14895eba0466",
@@ -44,6 +44,11 @@
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fe53c578-70ba-41c5-8f36-d11d2315526c",
             "FileName": "二、0121地震專案報告結論第四點都發局回覆.pdf",
             "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=318ca416-fc28-42d6-8ca6-c24f6bbc29f9",
+            "FileName": "四、0121地震專案報告結論第一、二點工務局回覆.pdf",
+            "ErrorMessage": ""
         }
     ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3f584329-fedb-4724-81cb-66583ab3f2f3&type=pdf",
@@ -57,8 +62,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "2025\/03\/19",
-    "ExecuteReNumber": "字第 號",
-    "ExecuteReMemo": "臺南市政府114年3月19日府社助字第1140452768號函覆詳附件1。\r\n臺南市政府114年3月25日府都住字第1140478017號函覆詳附件2。\r\n臺南市政府114年4月1日府主預字第1140455312號函覆詳附件3。\r\n",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "臺南市政府114年3月19日府社助字第1140452768號函覆詳附件1。\r\n臺南市政府114年3月25日府都住字第1140478017號函覆詳附件2。\r\n臺南市政府114年4月1日府主預字第1140455312號函覆詳附件3。\r\n臺南市政府114年4月24日府工使一字第1140565179A號函覆詳附件4。\r\n",
     "ErrorMessage": ""
 }
