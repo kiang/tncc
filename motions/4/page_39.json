@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "66",
+        "OrgTitle": "沈震東",
+        "CaseCause": "建請交通局於光賢里文中用地設置停車空間，以利市民朋友使用。",
+        "ProNo": "9d9a74e8-0149-408a-bfd0-4d5cf74d580b",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "67",
         "OrgTitle": "沈震東",
         "CaseCause": "建請交通局評估及協調長榮路五段及大武街交叉路口之閒置空間進行活化。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林依婷",
         "CaseCause": "臺南市南區明興路路面老舊，建議重新鋪設。",
         "ProNo": "ba8aa477-18ce-492e-b557-8d2267d4bb82",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "37",
-        "OrgTitle": "林依婷",
-        "CaseCause": "臺南市安平區文平路(自永華路二段路口起至健康路三段路口迄)路面老舊，建議重新鋪設。",
-        "ProNo": "12440cdf-f9f0-4139-8986-e5d53624e87d",
         "PagesAll": "47"
     }
 ]

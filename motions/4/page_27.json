@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "環保衛生",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "29",
+        "OrgTitle": "曾培雅",
+        "CaseCause": "因應登革熱疫情，每年度水溝、公共場所空間噴藥，建請改為每年兩次，加強環境衛生。",
+        "ProNo": "568c2e2b-5099-442c-af3f-87ad910409e6",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "30",
         "OrgTitle": "曾培雅",
         "CaseCause": "因登革熱疫情嚴峻，噴藥通知距離執行噴藥時間過短，建請噴藥通知時間能考量民眾預備時間。",
@@ -214,7 +225,7 @@
         "PTypTitle": "環保衛生",
         "KidTitle": "專案報告-專案報告",
         "CaseNumber": "1",
-        "OrgTitle": "臺南市議會",
+        "OrgTitle": "臺南市政府衛生局",
         "CaseCause": "「登革熱防治」專案報告",
         "ProNo": "aeca1fbf-ae7b-4b71-9cdb-47b3163bfebb",
         "PagesAll": "47"
@@ -1086,17 +1097,6 @@
         "OrgTitle": "陳秋萍",
         "CaseCause": "建議市區公車於需求較小之路線或時段改採9人巴或小型車行駛。",
         "ProNo": "3f9b6811-3f07-4bc0-8570-6780a9ff191e",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "29",
-        "OrgTitle": "余柷青",
-        "CaseCause": "臺南市新化老街周邊商圈停車格不足，建請市府評估新化區廣停7，作為立體停車場的可行性。",
-        "ProNo": "f802ead3-7ee1-4a41-bddc-51c84ad8b3c0",
         "PagesAll": "47"
     }
 ]

@@ -5,11 +5,11 @@
     "KidTitle": "專案報告-專案報告",
     "ComeDate": "",
     "ComeNumber": "",
-    "OrgTitle": "臺南市議會",
+    "OrgTitle": "臺南市政府衛生局",
     "OrgTitle2": "",
     "CaseCause": "「登革熱防治」專案報告",
     "Content": "[]",
-    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"請臺南市政府針對造成社區髒亂點，未配合登革熱防治的空地空屋累犯所有權人，研擬強制的作業規則。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請臺南市政府多輔導醫療院所加入NS1快篩工作，並公開及更新NS1快篩的醫療院所資訊。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"打造AI登革熱防疫平台、設立防疫專線及建立完善登革熱噴藥及就醫SOP，以便即時回應民眾需求。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"落實巡、倒、清、刷工作，拍攝防疫短片以傳達正確防疫訊息，提供全民共同監督防範。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"會議結論：\"},{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"請臺南市政府針對造成社區髒亂點，未配合登革熱防治的空地空屋累犯所有權人，研擬強制的作業規則。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請臺南市政府多輔導醫療院所加入NS1快篩工作，並公開及更新NS1快篩的醫療院所資訊。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"打造AI登革熱防疫平台、設立防疫專線及建立完善登革熱噴藥及就醫SOP，以便即時回應民眾需求。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"落實巡、倒、清、刷工作，拍攝防疫短片以傳達正確防疫訊息，提供全民共同監督防範。\",\"children\":[]}]}]",
     "CheckDate": "",
     "CheckDesc": "",
     "DoneDate": "2023\/10\/27",
@@ -20,6 +20,16 @@
     "AttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=db38ec52-306e-450a-8d95-aa9ecabd0cbf",
+            "FileName": "1120923_議會專案報告登革熱防治(定稿).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d28e41cd-d146-4e4e-b0eb-04a44844b4ab",
+            "FileName": "1120923_議會專案報告登革熱防治(定稿).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a3a8d59f-d0ec-42e0-a8e1-0cc6787dfe1e",
             "FileName": "1120923_議會專案報告登革熱防治(定稿).pdf",
             "ErrorMessage": ""
         },

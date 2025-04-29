@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "會務",
+        "KidTitle": "議員提案-會務案",
+        "CaseNumber": "6",
+        "OrgTitle": "周嘉韋、沈家鳳、李宗翰、蔡筱薇、林依婷、蔡蘇秋金",
+        "CaseCause": "「臺南市議會議事規則」第七十一條條文修正草案，敬請審議。",
+        "ProNo": "d2c8da4c-f354-42ae-8c53-d0a0eba1e02d",
+        "PagesAll": "47"
+    },
+    {
         "DoneDate": "2023\/03\/30",
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "民政教育",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "沈震東、李宗霖、余柷青、陳皇宇、王宣貿、沈家鳳",
         "CaseCause": "建請環境保護局將臺南市推廣社區環境教育增能培訓及掃街實作補助計畫之補助經費重新進行研議。",
         "ProNo": "a2ce8dda-18ee-460b-b064-674c35a2f3c9",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "12",
-        "OrgTitle": "沈震東、余柷青",
-        "CaseCause": "建請環境保護局藏金閣2.0附近周圍整修，以利整體愛麗絲夢遊仙境主題公園完整性提高。",
-        "ProNo": "6a73444f-76ba-468b-a5de-fdea27cb79e5",
         "PagesAll": "47"
     }
 ]
