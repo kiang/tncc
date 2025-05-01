@@ -28,6 +28,11 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a69ed85e-34f0-4210-857f-c16dec317245&type=pdf",
     "CheckAttList": [
         {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bb3a0c24-f3d0-462d-9ae7-e854304a63ab",
+            "FileName": "附件1、大會決議-1140525第4屆第5次定期會第1次會會議紀錄.pdf",
+            "ErrorMessage": ""
+        },
+        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c87397ac-ea3f-49dd-91c6-af10e6fadcee",
             "FileName": "附件1：經發局來函--休閒娛樂1140416公聽會議紀錄.pdf",
             "ErrorMessage": ""
@@ -36,8 +41,8 @@
     "DoneAttList": [],
     "ReDate": "2025\/04\/17",
     "ReDesc": "",
-    "FirstDate": "",
-    "FirstDesc": "",
+    "FirstDate": "2025\/04\/25",
+    "FirstDesc": "1.大會決議-1140525第4屆第5次定期會第1次會會議紀錄：詳附件1\r\n(一)經討論，本案之立法有其必要性，其中麻將、德州撲克等雖屬娛樂類，但休閒娛樂類範疇廣泛，未來亦可能增加許多品項，本草案將自助選物販賣機與經營棋牌、麻將、德州撲克等營利事業含括一起規範，顯然不夠理想，加以針對營業場所距離及容留年齡之限制等亦未充分反映管理需要，內容不甚完備。\r\n (二)大會決議：先予撤案，待修訂完備後再行提送。",
     "SecondDate": "",
     "SecondDesc": "",
     "ThirdDate": "",
