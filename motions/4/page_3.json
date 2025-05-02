@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第8次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "40",
+        "OrgTitle": "林燕祝",
+        "CaseCause": "建請市府將永康區復華七街39巷等道路重新改善，以保障民眾往來通行之安全。",
+        "ProNo": "501d8ee4-2264-4251-b65e-14e4ef2a3230",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "41",
         "OrgTitle": "林燕祝",
         "CaseCause": "建請市府將永康區建國里公園人行步道改善，以提供里民安全之活動空間。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "王宣貿",
         "CaseCause": "請臺南市政府儘速編列預算規劃白河區綜合運動球場之相關先期經費。",
         "ProNo": "8c2e613f-75a0-4abf-ae10-9a030e6ad5b9",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "28",
-        "OrgTitle": "陳秋宏",
-        "CaseCause": "建請整修下營區東興國小學生活動中心地板。",
-        "ProNo": "31a83331-dbeb-4f21-a0e2-62554270d1cd",
         "PagesAll": "47"
     }
 ]

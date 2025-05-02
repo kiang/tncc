@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "129",
+        "OrgTitle": "黄肇輝",
+        "CaseCause": "建請市府辦理永康區南灣里大灣二街道路改善工程，以保障民眾通行之安全。",
+        "ProNo": "438787c7-27bc-409d-82cb-5119c48135a6",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "130",
         "OrgTitle": "黄肇輝",
         "CaseCause": "建請市府辦理永康區南灣里大灣路537巷道路改善工程，以保障民眾通行之安全。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府都市發展局",
         "CaseCause": "修正「臺南市社會住宅出租辦法」部分條文。",
         "ProNo": "e7e8291b-84b0-46af-b8e4-c653388b7515",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規查照案",
-        "CaseNumber": "13",
-        "OrgTitle": "臺南市政府教育局",
-        "CaseCause": "修正「臺南市國民中小學學生申訴案件處理辦法」。",
-        "ProNo": "8ca43927-16c5-4958-9002-753eb4bb19fd",
         "PagesAll": "47"
     }
 ]

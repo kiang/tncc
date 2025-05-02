@@ -123,6 +123,17 @@
     {
         "DoneDate": "",
         "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "專案報告-專案報告",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府經濟發展局",
+        "CaseCause": "「因應美國關稅臺南市政府之對策」專案報告",
+        "ProNo": "538a2c18-7b78-42b6-a1ea-cc11956fb9d0",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "環保衛生",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
@@ -440,7 +451,7 @@
         "PagesAll": "47"
     },
     {
-        "DoneDate": "",
+        "DoneDate": "2025\/04\/25",
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "法規",
         "KidTitle": "市府提案-市法規案",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "王家貞",
         "CaseCause": "因應臺南市市民敢生敢養，建請市政府給予月子補助津貼，以減輕年輕爸媽生、養育負擔。",
         "ProNo": "403ae7a4-d23c-4961-884b-d433fbb9b963",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "9",
-        "OrgTitle": "王家貞",
-        "CaseCause": "建請市府對發展遲緩或身心障礙兒童的家長，增設家庭照顧者支持服務據點，以利提供家庭照顧者可以獲得政府資源的支持與服務。",
-        "ProNo": "e0136591-8032-45c6-af86-ddbf61499977",
         "PagesAll": "47"
     }
 ]

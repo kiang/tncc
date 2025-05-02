@@ -17,7 +17,13 @@
     "SendDate": "2025\/04\/02",
     "SendNumber": "南議議事字第 1140001987號",
     "DoDesc": "本府就｢臺南市山區果樹受極端氣候影響產量大減案｣案，敬答覆如下：\r\n一、旨案本府農業局業於114年3月25日南市農務字第1140482271號函提醒本市各區公所持續關注所轄作物生長情形，倘有災情顯現，即刻依「農業天然災害救助辦法」及「農產業天然災害救助作業要點」辦理災情查報工作。\r\n二、又114年3月31日農業部陳駿季部長至本市南化、玉井、楠西等產區勘災並與農民座談，本府農業局亦建請部長倘確認產區作物災損情形嚴重，得依「農業天然災害救助辦法」邀集相關領域專家研商後，逕行公告產區為辦理現金救助及低利貸款地區，以加速農災救助金審查流程並幫助農民盡速復耕。\r\n三、承蒙貴席對於農政業務之關切，本府至為感謝，尚請不吝賜教。",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fe308a97-3f33-429d-b815-13355006ac12",
+            "FileName": "4-8臨時時動議2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=760717a3-cbc0-48e9-b1b7-96d8833fffb7&type=pdf",
     "CheckAttList": [],

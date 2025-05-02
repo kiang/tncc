@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市政府經濟發展局",
+    "OrgTitle2": "",
+    "CaseCause": "「因應美國關稅臺南市政府之對策」專案報告",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為因應臺美關稅的衝擊，建請臺南市政府暫緩調整農業部農業科技園區管理中心蘭花園區的公告地價以減少蘭花業者營業費用及協助處理業者向臺糖租地搭設屋頂型太陽能板發電，發電收益需繳交一半予臺糖之問題。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請臺南市政府，在協助業者因應關稅衝擊的同時，應更加重視勞工的權益保障，如有勞工因此遭裁員而失業、減薪、放無薪假等，請提供更全面的就業、補助、紓困等協助及強化社會安全網。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"針對美對等關稅的衝擊，後續因應措施一定要讓民眾與產業有感，已規劃之單一服務窗口應廣為宣傳週知及製作補助SOP圖卡，整合中央與各局處資源提供服務，協助受關稅影響中小微企業渡過難關。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"請臺南市政府對各企業加強宣導，為防杜他國貨品藉由轉運至我國後，違規標誌MIT貨品再運至美國銷售等洗產地弊端，應確保產地屬實。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"今日專案報告，本會議員建議事項，請各局處詳加研議並於一星期內回復本會，做為日後改進的依據。\",\"children\":[]}]}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=aca82241-d490-422f-a234-84a9c060f54d",
+            "FileName": "因應美國關稅台南市政府之對策.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=538a2c18-7b78-42b6-a1ea-cc11956fb9d0&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
