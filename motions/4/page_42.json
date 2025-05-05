@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "234",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "請改善官田區二鎮里瓦瑤埤下游(北岸)護岸。",
+        "ProNo": "19eb8f60-a908-41c3-bd64-3275f7d91e09",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "235",
         "OrgTitle": "朱正軒",
         "CaseCause": "建請工務局加速推動八德街與永大路口新闢道路，並規劃偏心式左轉車道，改善該路口上下班交通壅塞回堵之情況。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "邱議長莉莉",
         "CaseCause": "「臺南市議會議事規則」第71條修正草案，敬請審議。",
         "ProNo": "3efed7f2-160d-4a1e-a777-7f97d27193c1",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "會務",
-        "KidTitle": "議員提案-會務案",
-        "CaseNumber": "3",
-        "OrgTitle": "邱議長莉莉",
-        "CaseCause": "「臺南市議會旁聽規則」第3條修正草案，敬請審議。",
-        "ProNo": "f7883609-39af-4d3f-a4ac-5af30db9fba2",
         "PagesAll": "47"
     }
 ]

@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "197",
+        "OrgTitle": "曾培雅",
+        "CaseCause": "中華東路三段336巷43弄、中華東路三段380巷與中華東路452巷8弄紅磚道破損嚴重，建請修復。",
+        "ProNo": "cdef2d72-cb27-45c7-9015-75c0b17dbe7c",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "198",
         "OrgTitle": "曾培雅",
         "CaseCause": "東區崇德20街、21街路面重鋪。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府教育局",
         "CaseCause": "修正「臺南市社區大學學習成就證書授予辦法」。",
         "ProNo": "677e0b13-8b9d-4d56-9ff7-b10c2421bb7e",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規查照案",
-        "CaseNumber": "20",
-        "OrgTitle": "臺南市政府社會局",
-        "CaseCause": "修正「臺南市家庭暴力事件未成年子女會面交往與交付處所設置辦法」。",
-        "ProNo": "e5c79866-dc9c-4581-813b-8438dc32a117",
         "PagesAll": "47"
     }
 ]

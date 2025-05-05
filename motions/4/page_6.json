@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "94",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "建請整修大內青果市場，提供符合安全需求的經營環境。",
+        "ProNo": "87aaebb0-7c50-4474-96fa-e58ac7f1e492",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "95",
         "OrgTitle": "余柷青",
         "CaseCause": "新化區山腳里頂山腳段1228地號等3筆農路改善工程。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府文化局",
         "CaseCause": "檢送本市「財團法人臺南市孔廟文化基金會114年度預算書」敬請審議。",
         "ProNo": "d0b0f271-ec89-4097-a72b-0112a8fa07cf",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "1",
-        "OrgTitle": "林志展、李宗翰、沈家鳳",
-        "CaseCause": "增建關仔嶺雞籠山遊客休息觀景平台，提升登山民眾遊客休憩品質。",
-        "ProNo": "0020cf82-0a37-4261-a223-8cfc7f6c3df6",
         "PagesAll": "47"
     }
 ]
