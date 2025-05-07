@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "93",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "建請改善官田區大崎里三層崎農路路面。",
+        "ProNo": "3674eaaf-39bb-429e-bce6-4c42728eaf60",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "94",
         "OrgTitle": "陳秋宏",
         "CaseCause": "建請整修大內青果市場，提供符合安全需求的經營環境。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府文化局",
         "CaseCause": "檢送本市「財團法人台南市文化基金會114年度預算書」敬請審議。",
         "ProNo": "21269a64-987c-470a-ba2e-e944072b4767",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "建設",
-        "KidTitle": "市府提案-一般提案",
-        "CaseNumber": "7",
-        "OrgTitle": "臺南市政府文化局",
-        "CaseCause": "檢送本市「財團法人臺南市孔廟文化基金會114年度預算書」敬請審議。",
-        "ProNo": "d0b0f271-ec89-4097-a72b-0112a8fa07cf",
         "PagesAll": "47"
     }
 ]

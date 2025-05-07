@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "會務",
         "KidTitle": "議員提案-會務案",
+        "CaseNumber": "2",
+        "OrgTitle": "邱議長莉莉",
+        "CaseCause": "「臺南市議會議事規則」第71條修正草案，敬請審議。",
+        "ProNo": "3efed7f2-160d-4a1e-a777-7f97d27193c1",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "會務",
+        "KidTitle": "議員提案-會務案",
         "CaseNumber": "3",
         "OrgTitle": "邱議長莉莉",
         "CaseCause": "「臺南市議會旁聽規則」第3條修正草案，敬請審議。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "吳通龍",
         "CaseCause": "建請市政府落實打造友善城市政策，於台南市六甲區設置多元長照資源中心住宿式長照機構，提供長輩照護服務。",
         "ProNo": "85ca31b0-6589-437e-9f4c-0c7ca1523fbc",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "8",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府落實建置「性別友善廁所」於本市行政機關、各級學校與重要公共空間之公廁。",
-        "ProNo": "7909b498-45e0-4952-b9ab-dc5b02790abb",
         "PagesAll": "47"
     }
 ]

@@ -3,6 +3,17 @@
         "DoneDate": "2024\/12\/02",
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "建設",
+        "KidTitle": "市府提案-一般提案",
+        "CaseNumber": "7",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "檢送本市「財團法人臺南市孔廟文化基金會114年度預算書」敬請審議。",
+        "ProNo": "d0b0f271-ec89-4097-a72b-0112a8fa07cf",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "建設",
         "KidTitle": "議員提案-一般提案",
         "CaseNumber": "1",
         "OrgTitle": "林志展、李宗翰、沈家鳳",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "蔡育輝",
         "CaseCause": "建請市政府編列預算辦理「白河區河東國小六溪分校大客車停車迴轉改善工程」，以利大客車停車及迴轉並維護校園安全。",
         "ProNo": "7aff8beb-d463-456d-a105-89c4e7fad279",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "61",
-        "OrgTitle": "李鎮國",
-        "CaseCause": "建請市府善用活化永康區20M計畫道路支道，忠孝一路國防部閒置土地(附圖)。",
-        "ProNo": "c84b9365-7108-48bd-95e4-133d3cb5aec2",
         "PagesAll": "47"
     }
 ]

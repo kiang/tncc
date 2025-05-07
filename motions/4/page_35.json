@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "民政教育",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "111",
+        "OrgTitle": "沈震東、余柷青、王宣貿、沈家鳳",
+        "CaseCause": "建請民政局重新檢視社區型監視器設置之方針。",
+        "ProNo": "f1a0857c-4db0-4791-9347-88e8a254a52b",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "112",
         "OrgTitle": "沈震東",
         "CaseCause": "建請民政局設置西湖里民活動中心。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林志展",
         "CaseCause": "有鑒於本市產業用地價格持續尚在高峰，產業用地市場宜需審慎檢視觀察，建請市政府制定有關措施，促使市場透明與售價合理。",
         "ProNo": "445a2ceb-035e-4e4a-9791-69277e2794c9",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "28",
-        "OrgTitle": "朱正軒、蔡蘇秋金",
-        "CaseCause": "面臨垃圾大戰危機，加以外縣市焚化爐收費坐地起價連年抬升，建請經發局儘速推動工業區內設置事業廢棄物焚化爐。",
-        "ProNo": "1a5c403f-97e2-4b1c-b6d9-4673cfb92d1e",
         "PagesAll": "47"
     }
 ]

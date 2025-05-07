@@ -343,6 +343,17 @@
     {
         "DoneDate": "",
         "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "市府提案-一般提案",
+        "CaseNumber": "5",
+        "OrgTitle": "臺南市政府水利局",
+        "CaseCause": "依「臺南市污水下水道使用費徵收自治條例」第三條規定開徵污水下水道使用費，謹請貴會同意本府於114年9月1日起針對本市污水下水道(機關、學校、軍方)以外之一般用戶開徵污水下水道使用費，敬請審議。",
+        "ProNo": "420055fa-a7e9-48ee-ab2c-598731d646ee",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規查照案",
         "CaseNumber": "1",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "鄭佳欣、謝舒凡",
         "CaseCause": "為提升垃圾分類與資源回收效率，減少環境污染，建請市府廣設回收島，提供市民更便利的回收管道，以落實環保政策。",
         "ProNo": "c17e74d2-cddf-4689-a2f3-1c2eb4404db2",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "7",
-        "OrgTitle": "吳通龍",
-        "CaseCause": "建請臺南市政府推動「家用廚餘機補助計畫」。",
-        "ProNo": "37d8de6f-4b5a-4511-9519-dfe597051549",
         "PagesAll": "47"
     }
 ]

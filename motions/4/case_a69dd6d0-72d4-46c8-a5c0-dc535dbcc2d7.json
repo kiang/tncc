@@ -26,7 +26,18 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a69dd6d0-72d4-46c8-a5c0-dc535dbcc2d7&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8ef2acaa-9f38-4282-8155-55a703de40aa",
+            "FileName": "附件1：1140422---召開「臺南市促進科技與新創產業發展自治條例」修正草案第1場公聽會會議紀錄.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=89bcc784-06c8-42fc-9777-5867de8a7bbd",
+            "FileName": "附件2：1140424-召開「臺南市促進科技與新創產業發展自治條例」修正草案第2場公聽會會議紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "2025\/04\/17",
     "ReDesc": "",

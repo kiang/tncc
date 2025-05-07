@@ -2,6 +2,17 @@
     {
         "DoneDate": "2024\/03\/15",
         "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "14",
+        "OrgTitle": "林燕祝",
+        "CaseCause": "建請市府針對本市清潔隊隊長之清潔獎金調升至1萬元。",
+        "ProNo": "4989cd17-0869-4229-b228-756a4b7191af",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
         "PTypTitle": "建設",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林燕祝",
         "CaseCause": "建請市府將永康區勝利里勝學路269巷之柏油路面重新翻修，以保障民眾往來通行之安全。",
         "ProNo": "007da9d9-cfdb-4756-8303-c3623d563d3b",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "42",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "建請市府將永康區三合里南工街267巷至中山東路105巷口道路柏油重新翻修，以保障往來通行民眾之安全。",
-        "ProNo": "d8a0f9c9-a96b-43d8-b224-dbcf043ddec9",
         "PagesAll": "47"
     }
 ]

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2025\/05\/28",
+    "ComeNumber": "府水污養字第1140579808號",
+    "OrgTitle": "臺南市政府水利局",
+    "OrgTitle2": "",
+    "CaseCause": "依「臺南市污水下水道使用費徵收自治條例」第三條規定開徵污水下水道使用費，謹請貴會同意本府於114年9月1日起針對本市污水下水道(機關、學校、軍方)以外之一般用戶開徵污水下水道使用費，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據下水道法第二十六條、臺南市污水下水道使用費徵收自治條例(以下簡稱自治條例)第三條規定辦理。(附件1)\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為使污水下水道系統營運得以永續經營，本府依據下水道法第二十六條規定略以：「用戶使用下水道，應繳納使用費」，故於民國101年10月31日公布「臺南市污水下水道使用費徵收自治條例」。依自治條例第三條第二項規定：「污水下水道使用費之開徵日期，應報經本市議會審議通過後，由水利局配合水污染防治費開徵日期公告之。」先予敘明。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"由於污水使用費全面開徵作業影響污水下水道建設中央補助款比例(未全面開徵縣市-補助87%，全面開徵縣市-補助92%)以及府庫財源收入等問題，全面開徵污水使用費可減低本府污水下水道建設支出，另可利用徵收之費用辦理污水下水道營繕作業，進而提升本府污水下水道系統設施之健全度。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"爰建議全面開徵本市污水下水道(機關、學校、軍方)以外之一般用戶，擬訂於114年7月1日公告，並配合本府環保局發布「本市家戶水污染防治費收費辦法」時程，訂於114年9月1日開徵本市家戶污水下水道使用費，以期提升本市污水下水道建設及設施健全度。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"本案業經本府114年4月22日第694次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意本府自114年9月1日起針對本市污水下水道(機關、學校、軍方)以外之一般用戶開徵污水下水道使用費，俟審議通過後辦理公告作業。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f74e4f0b-9d5e-4b11-8eef-7cafa740597f",
+            "FileName": "工務市提5-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=420055fa-a7e9-48ee-ab2c-598731d646ee&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
