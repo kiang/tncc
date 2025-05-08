@@ -1,5 +1,27 @@
 [
     {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府主計處",
+        "CaseCause": "檢送本府113年第2季辦理政策及業務宣導之執行情形表，提請貴會備查。",
+        "ProNo": "90674754-79a0-4c75-8c4f-5804f52da434",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/10\/24",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "農業部林業及自然保育署同意本府辦理「山海圳國家綠道楠西段區域小旅行計畫」案，經費新臺幣150萬（中央補助款）因未及納入113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+        "ProNo": "1ce7c0f7-ce16-4413-917c-34db38294f41",
+        "PagesAll": "47"
+    },
+    {
         "DoneDate": "2024\/10\/24",
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "財經",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "李偉智",
         "CaseCause": "建請市府儘速完成新化區那拔里那拔林89-2號周邊排水改善工程，以利民眾使用。",
         "ProNo": "52ca29a2-f20a-4426-9d68-d9a5c2669cf4",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "91",
-        "OrgTitle": "林志展",
-        "CaseCause": "建請市政府研擬增加多元農作物保險。",
-        "ProNo": "cb96937c-e93c-4b29-9edf-5a58387f7e08",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "92",
-        "OrgTitle": "陳秋宏",
-        "CaseCause": "建請台南市推廣國產虱目魚標章。",
-        "ProNo": "76d54436-49f8-4a06-97e8-4f6e5b457da1",
         "PagesAll": "47"
     }
 ]
