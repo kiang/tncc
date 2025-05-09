@@ -4,28 +4,6 @@
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "建設",
         "KidTitle": "市府提案-一般提案",
-        "CaseNumber": "5",
-        "OrgTitle": "臺南市政府文化局",
-        "CaseCause": "檢送「臺南市美術館114年度預算書」，敬請審議。",
-        "ProNo": "da390d94-901c-4018-a269-6b67133217c6",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "建設",
-        "KidTitle": "市府提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "臺南市政府文化局",
-        "CaseCause": "檢送本市「財團法人台南市文化基金會114年度預算書」敬請審議。",
-        "ProNo": "21269a64-987c-470a-ba2e-e944072b4767",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "建設",
-        "KidTitle": "市府提案-一般提案",
         "CaseNumber": "7",
         "OrgTitle": "臺南市政府文化局",
         "CaseCause": "檢送本市「財團法人臺南市孔廟文化基金會114年度預算書」敬請審議。",
@@ -1097,6 +1075,28 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "建請盤點校園門口停車格，改善學校接送環境，保障兒童交通安全。",
         "ProNo": "38e847c5-35cb-4b40-85b4-c6839afab869",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "59",
+        "OrgTitle": "周嘉韋、林依婷",
+        "CaseCause": "建請市府針對交通局所研發之軟體「臺南好停」適時進行優化，並多加推廣。",
+        "ProNo": "7c6e29c9-ce09-482b-b633-2cd4781b841b",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "60",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請市政府編列預算辦理「白河區河東國小六溪分校大客車停車迴轉改善工程」，以利大客車停車及迴轉並維護校園安全。",
+        "ProNo": "7aff8beb-d463-456d-a105-89c4e7fad279",
         "PagesAll": "47"
     }
 ]

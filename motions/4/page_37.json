@@ -4,28 +4,6 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "環保衛生",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "5",
-        "OrgTitle": "陳昆和、周奕齊、林冠維、尤榮智、方一峰、吳通龍",
-        "CaseCause": "建請巿府增加清潔隊長與同仁之福利獎金。",
-        "ProNo": "346f13f9-b091-4e82-b30e-21144c9fe5c7",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府環保局儘速在新市區潭頂段403地號，善盡所有權人管理之責，進行邊坡擋土牆改善工程，以維護鄰近地主權益。",
-        "ProNo": "f2e70026-5146-4ef6-b48b-e34942bae54f",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "7",
         "OrgTitle": "蔡育輝、李中岑、林冠維",
         "CaseCause": "建請市政府重視本巿褓姆的福利，提高褓姆費，以符合物價上漲。",
@@ -1097,6 +1075,28 @@
         "OrgTitle": "李宗霖、鄭佳欣、陳秋宏、沈家鳳",
         "CaseCause": "建請市府補助台南市勞工育嬰留職停薪之勞健保費用。",
         "ProNo": "acb07ead-b29f-487b-98b0-6581c99d7647",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "15",
+        "OrgTitle": "沈震東、余柷青",
+        "CaseCause": "建請勞工局將勞工育樂中心儘速完成評估，以利未來整體規畫。",
+        "ProNo": "27d98076-d2b7-4747-a0f2-c5ba7e009991",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "16",
+        "OrgTitle": "沈震東",
+        "CaseCause": "建請都市發展局針對北區自強新村之社會住宅規劃進行鄰近居民規劃及說明。",
+        "ProNo": "49f1f8bc-a884-4074-8883-a0f6508157e0",
         "PagesAll": "47"
     }
 ]

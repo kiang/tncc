@@ -4,28 +4,6 @@
         "GradeTime": "第4屆 第8次 臨時會",
         "PTypTitle": "環保衛生",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "5",
-        "OrgTitle": "林美燕",
-        "CaseCause": "請臺南市政府環境保護局增購子母車，並增進垃圾清運效率。",
-        "ProNo": "6ac81862-6554-4a42-952a-2f88a6b72c2c",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "鄭佳欣、謝舒凡",
-        "CaseCause": "為提升垃圾分類與資源回收效率，減少環境污染，建請市府廣設回收島，提供市民更便利的回收管道，以落實環保政策。",
-        "ProNo": "c17e74d2-cddf-4689-a2f3-1c2eb4404db2",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "7",
         "OrgTitle": "吳通龍",
         "CaseCause": "建請臺南市政府推動「家用廚餘機補助計畫」。",
@@ -1097,6 +1075,28 @@
         "OrgTitle": "林燕祝",
         "CaseCause": "建請市府將永康區復國一路436號至582號前路段之柏油路面重新翻修，以保障民眾往來通行之安全。",
         "ProNo": "be12621d-5f2a-4396-a508-360b607faddc",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "36",
+        "OrgTitle": "林燕祝",
+        "CaseCause": "建請市府將永康區中華路155巷34弄7號前之柏油路面重新翻修，以保障民眾往來通行之安全。",
+        "ProNo": "639ff688-3379-4e2c-aa73-33ef3d3632f1",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "37",
+        "OrgTitle": "吳禹寰",
+        "CaseCause": "建請市府於關廟區大潭埤旺萊公園與五甲公園設置維修通道。",
+        "ProNo": "dc4cd5f2-6194-4330-b01f-9c29cb9a96f8",
         "PagesAll": "47"
     }
 ]

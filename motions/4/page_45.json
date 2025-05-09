@@ -4,28 +4,6 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "33",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理六甲區港仔頭防汛排水道路改善工程，因年久失修，防汛道路雜草叢生，急需辦理改善，以利日後維護管理需要，並作為通行使用。",
-        "ProNo": "bad16be7-578a-4436-8c2d-cc642ff1d3e3",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "34",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理麻豆區埤頭里小埤普天宮前排水溝改善工程，因早期水路雜草叢生，急需辦理改善，以杜絕淹水。",
-        "ProNo": "16ada40b-f8f1-4f55-bdde-ef58a77b86a1",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "35",
         "OrgTitle": "尤榮智",
         "CaseCause": "請辦理改善官田區南119線社子往六雙AC路面改善工程，因年久失修，柏油路面龜裂，破損嚴重，急需辦理改善，以利行車安全。",
@@ -1097,6 +1075,28 @@
         "OrgTitle": "余柷青",
         "CaseCause": "建請市府辦理山上區第三公墓旁道路改善工程。",
         "ProNo": "89c726b4-ade4-475f-928a-edead8733d09",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/02\/17",
+        "GradeTime": "第4屆 第1次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "16",
+        "OrgTitle": "Ingay Tali 穎艾達利",
+        "CaseCause": "建請臺南市議會採用《你是我的眼》做為議會會歌，於巡迴各區進行市民會議時帶動氣氛，營造愛民親民形象。",
+        "ProNo": "c2023f1c-191e-4199-ac8f-16692d81de6c",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/02\/17",
+        "GradeTime": "第4屆 第1次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "17",
+        "OrgTitle": "蔡育輝、方一峰",
+        "CaseCause": "臺南市議會地下停車場進出口電動柵欄感應不良，請儘速修復。",
+        "ProNo": "524efeca-734b-49a6-8322-b2862ae7ec02",
         "PagesAll": "47"
     }
 ]

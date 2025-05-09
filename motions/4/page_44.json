@@ -4,28 +4,6 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "環保衛生",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請巿府提供70歲以上長者免費施打帶狀疱疹疫苗，而50歳至69歲給予部分補助。\r\n",
-        "ProNo": "d7194e05-c25e-470a-8bc5-fcee78c99b12",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "7",
-        "OrgTitle": "吳通龍",
-        "CaseCause": "建請市政府落實打造友善城市政策，於台南市六甲區設置多元長照資源中心住宿式長照機構，提供長輩照護服務。",
-        "ProNo": "85ca31b0-6589-437e-9f4c-0c7ca1523fbc",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "8",
         "OrgTitle": "李宗霖",
         "CaseCause": "建請市府落實建置「性別友善廁所」於本市行政機關、各級學校與重要公共空間之公廁。",
@@ -1097,6 +1075,28 @@
         "OrgTitle": "曾之婕",
         "CaseCause": "建請市府對東區仁和路沿線，自東門路迄至崇善東路口段，實施路面平整維護。",
         "ProNo": "da37228c-2788-41e3-9bc5-8909693252ca",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "33",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請辦理六甲區港仔頭防汛排水道路改善工程，因年久失修，防汛道路雜草叢生，急需辦理改善，以利日後維護管理需要，並作為通行使用。",
+        "ProNo": "bad16be7-578a-4436-8c2d-cc642ff1d3e3",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "34",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請辦理麻豆區埤頭里小埤普天宮前排水溝改善工程，因早期水路雜草叢生，急需辦理改善，以杜絕淹水。",
+        "ProNo": "16ada40b-f8f1-4f55-bdde-ef58a77b86a1",
         "PagesAll": "47"
     }
 ]

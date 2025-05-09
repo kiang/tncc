@@ -4,28 +4,6 @@
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "139",
-        "OrgTitle": "周嘉韋",
-        "CaseCause": "建請市府針對北區長勝路路面柏油重新鋪設。",
-        "ProNo": "c8ca3de4-722b-44cd-bdbe-745418252f1e",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "140",
-        "OrgTitle": "周嘉韋",
-        "CaseCause": "建請市府針對北區長榮路五段102巷路面柏油重新鋪設。",
-        "ProNo": "ccf6cf97-d8af-4596-a4bf-8c3723c69c58",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "141",
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府針對北區開元路333巷16弄路面柏油重新鋪設。",
@@ -1097,6 +1075,28 @@
         "OrgTitle": "陳秋宏、沈家鳳",
         "CaseCause": "建請定期檢查抽水機組之正常運作，做好安全防竊設施。",
         "ProNo": "325e6f0c-496d-47f3-8010-88dc1f5b3ca9",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "239",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "建議急水溪排水於台19甲東側規劃分流及抽水站工程，降低下游處下營排水負擔。",
+        "ProNo": "d0c6d45c-fed9-4ad7-af87-01fed3549fa6",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "240",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "建請提升下營區下營大排旁蘭花園抽水機量能。",
+        "ProNo": "c92be031-4dca-4cd5-9d48-36f31441b1ec",
         "PagesAll": "47"
     }
 ]

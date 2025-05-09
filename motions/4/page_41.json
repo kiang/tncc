@@ -4,28 +4,6 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "131",
-        "OrgTitle": "林美燕",
-        "CaseCause": "南區新慶街33巷因路面高低差，導致水溝排水有問題，每逢下雨必淹水，請改善。",
-        "ProNo": "0fb38285-cdd1-4f69-95f5-ab2212cd4e2d",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "132",
-        "OrgTitle": "曾之婕",
-        "CaseCause": "建請翻修平實公園籃球場地板。",
-        "ProNo": "d7fd0c48-2926-4667-a06e-eb4cbc709578",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "133",
         "OrgTitle": "尤榮智",
         "CaseCause": "請辦理麻豆區區道南49、南50線與客子寮道路改善工程，因年久失修，路面破損嚴重，急需辦理改善，以利行車安全。",
@@ -1097,6 +1075,28 @@
         "OrgTitle": "陳秋宏",
         "CaseCause": "請改善官田區橋頭港埤排水護岸。",
         "ProNo": "844ff4f1-7569-4595-a02f-cad8fe163d63",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "231",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "請改善官田區湖山大排(八田段873地號)護岸。",
+        "ProNo": "d2b04f41-40d2-4e7a-9c09-855e0ccf657d",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "232",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "請改善麻豆區海埔里海埔中排2K+055至2K+100北側護岸。",
+        "ProNo": "4354bbaa-a108-4af0-b1bc-3946d1d9211f",
         "PagesAll": "47"
     }
 ]

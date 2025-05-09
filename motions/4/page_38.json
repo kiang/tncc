@@ -4,28 +4,6 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "建設",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "15",
-        "OrgTitle": "沈震東、余柷青",
-        "CaseCause": "建請勞工局將勞工育樂中心儘速完成評估，以利未來整體規畫。",
-        "ProNo": "27d98076-d2b7-4747-a0f2-c5ba7e009991",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "16",
-        "OrgTitle": "沈震東",
-        "CaseCause": "建請都市發展局針對北區自強新村之社會住宅規劃進行鄰近居民規劃及說明。",
-        "ProNo": "49f1f8bc-a884-4074-8883-a0f6508157e0",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "17",
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府都發局儘速進行新市區社內圍堤城鄉景觀風貌改造工程，將社內豐富的在地人文及自然景觀有系統的串接起來，打造出步行的城市空間。",
@@ -1097,6 +1075,28 @@
         "OrgTitle": "鄭佳欣",
         "CaseCause": "建請市府儘速成立龍崎區消防分隊。",
         "ProNo": "65fefe43-2c38-4dc6-8bcc-dc557398b7e4",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "60",
+        "OrgTitle": "沈震東",
+        "CaseCause": "建請交通局增設健康路及中華西路之偏心式左轉。",
+        "ProNo": "c3f4b466-43ea-43e3-b6bd-879f2c6c8246",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "61",
+        "OrgTitle": "沈震東",
+        "CaseCause": "建請交通局在和緯路三段及文賢路路口評估設置偏心式左轉。",
+        "ProNo": "1ff0429a-d72c-4864-acec-36b2a12a22e9",
         "PagesAll": "47"
     }
 ]
