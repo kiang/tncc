@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "231",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "請改善官田區湖山大排(八田段873地號)護岸。",
+        "ProNo": "d2b04f41-40d2-4e7a-9c09-855e0ccf657d",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "232",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "請改善麻豆區海埔里海埔中排2K+055至2K+100北側護岸。",
+        "ProNo": "4354bbaa-a108-4af0-b1bc-3946d1d9211f",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "233",
         "OrgTitle": "陳秋宏",
         "CaseCause": "請改善麻豆區謝厝寮排水護岸。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "郭鴻儀",
         "CaseCause": "針對臺南市登革熱的熱區，尤其是新豐區之三個區域，要儘快執行噴藥工作，特別是仁德三爺溪水質淨化場，要儘快進場施作，防止孳生源擴大。",
         "ProNo": "40ea9ac8-072d-45b1-bd73-2d376dea9294",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "臨時動議",
-        "KidTitle": "臨時動議-臨時動議",
-        "CaseNumber": "10",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請市府針對臺南市90歲至99歲長輩發予1,000元紅包、100歲以上發予2,000元紅包。",
-        "ProNo": "54e96661-d659-44ba-9117-f3a22b9c2477",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "會務",
-        "KidTitle": "議員提案-會務案",
-        "CaseNumber": "1",
-        "OrgTitle": "蔡育輝、周麗津、林美燕、林燕祝、陳怡珍、余柷青、曾之婕、黃麗招、王家貞、蔡淑惠",
-        "CaseCause": "修正「臺南市議會議事規則」第七十一條條文草案，敬請審議。",
-        "ProNo": "47fcdff1-3fae-4186-9198-79bdb29daa1c",
         "PagesAll": "47"
     }
 ]

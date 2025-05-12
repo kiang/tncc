@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "6",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2025\/05\/12",
+    "ComeNumber": "府文秘字第1140698239 號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送「財團法人臺南市孔廟文化基金會113年度決算書」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"附財團法人臺南市孔廟文化基金會113年度決算書。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"113年度決算書業經財團法人臺南市孔廟文化基金會114年4月2日第5屆第1次董監事會議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府114年5月6日第696次市政會議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=40bc9d65-b881-4282-98f3-a121b7260ea0",
+            "FileName": "市提6附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f901f1ec-8ebe-4ae2-9c98-e478c87fd257&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

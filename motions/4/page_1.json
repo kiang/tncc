@@ -277,6 +277,28 @@
     {
         "DoneDate": "",
         "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "市府提案-一般提案",
+        "CaseNumber": "5",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "檢送本市「財團法人台南市文化基金會113年度決算書」，敬請審議。",
+        "ProNo": "266ea4c3-8312-4514-b6c3-001b4b893645",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "市府提案-一般提案",
+        "CaseNumber": "6",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "檢送「財團法人臺南市孔廟文化基金會113年度決算書」，敬請審議。",
+        "ProNo": "f901f1ec-8ebe-4ae2-9c98-e478c87fd257",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "2",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "余柷青",
         "CaseCause": "新化區極限運動場(臺南市新化區中興路104巷112號；新化段王公廟小段1099-8)場内設施年久失修且雜草叢生，恐成為地方安全死角徒增風險，建請規劃發展資源回收永續推廣園區(藏金閣進階版)。",
         "ProNo": "446046e9-782e-4197-8ca0-9b9045e9f07c",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "5",
-        "OrgTitle": "林美燕",
-        "CaseCause": "請臺南市政府環境保護局增購子母車，並增進垃圾清運效率。",
-        "ProNo": "6ac81862-6554-4a42-952a-2f88a6b72c2c",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "鄭佳欣、謝舒凡",
-        "CaseCause": "為提升垃圾分類與資源回收效率，減少環境污染，建請市府廣設回收島，提供市民更便利的回收管道，以落實環保政策。",
-        "ProNo": "c17e74d2-cddf-4689-a2f3-1c2eb4404db2",
         "PagesAll": "47"
     }
 ]

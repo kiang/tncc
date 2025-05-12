@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 臨時會",
         "PTypTitle": "民政教育",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "16",
+        "OrgTitle": "Ingay Tali 穎艾達利",
+        "CaseCause": "建請臺南市議會採用《你是我的眼》做為議會會歌，於巡迴各區進行市民會議時帶動氣氛，營造愛民親民形象。",
+        "ProNo": "c2023f1c-191e-4199-ac8f-16692d81de6c",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/02\/17",
+        "GradeTime": "第4屆 第1次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "17",
+        "OrgTitle": "蔡育輝、方一峰",
+        "CaseCause": "臺南市議會地下停車場進出口電動柵欄感應不良，請儘速修復。",
+        "ProNo": "524efeca-734b-49a6-8322-b2862ae7ec02",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/02\/17",
+        "GradeTime": "第4屆 第1次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "18",
         "OrgTitle": "林冠維",
         "CaseCause": "請市府辦理永康區大灣路37巷6弄及文賢街136巷改善工程。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "蔡育輝、尤榮智",
         "CaseCause": "建請臺南市政府辦理「鹽水區義中里轄內道路(金和路段)改善工程」。",
         "ProNo": "1f8467f1-3925-4775-b122-c2decc003196",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "8",
-        "OrgTitle": "郭鴻儀",
-        "CaseCause": "建請市府整體規劃仁德滯洪池休閒遊憩軟硬體設施，打造水利設施整合休閒遊憩示範場域，整合治水、利水、親水、活水政策方針。",
-        "ProNo": "6c7e1325-8fa8-4e9d-8efc-9cbf2e1e0d09",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "9",
-        "OrgTitle": "鄭佳欣、謝舒凡、朱正軒、林依婷、周奕齊",
-        "CaseCause": "建請市府修正臺南市道路挖掘管理自治條例，落實相關規範。",
-        "ProNo": "4a31a281-1855-4e75-b6ed-c9e4c26d9adf",
         "PagesAll": "47"
     }
 ]
