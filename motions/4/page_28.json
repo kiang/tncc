@@ -4,6 +4,39 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "16",
+        "OrgTitle": "李偉智",
+        "CaseCause": "請市府規劃於新化區護東路1130巷靠近護東路1060巷設置消防栓。",
+        "ProNo": "04d71c86-4799-4b2f-b18f-6b717be27546",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "17",
+        "OrgTitle": "林志展",
+        "CaseCause": "建請市政府研議補助公寓大廈「提升消防安全設備」費用，杜絕集合住宅火警。",
+        "ProNo": "b6539faf-cfab-4a36-a8b6-5f27d58d0867",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "18",
+        "OrgTitle": "蔡筱薇",
+        "CaseCause": "建請消防局提高光電案場防災演練。",
+        "ProNo": "2c3973d4-7b81-41d0-a084-b5e549f5dbf2",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "19",
         "OrgTitle": "沈震東",
         "CaseCause": "建請警察局及交通局評估和緯路五段延伸段路段加強標示與盡快標示路名。",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "林冠維、周奕齊",
         "CaseCause": "請市府辦理永康區勝利街95巷路面改善工程。",
         "ProNo": "ded15738-7a96-4f69-8e98-ad9543c381f0",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "18",
-        "OrgTitle": "林冠維、周奕齊",
-        "CaseCause": "請市府辦理永康區勝利街及勝利街107巷路面改善工程。",
-        "ProNo": "20ff705b-83a9-4ca6-ad31-59413aba05f3",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "19",
-        "OrgTitle": "林冠維、周奕齊",
-        "CaseCause": "請市府辦理永康區二王里忠孝路及忠孝路380巷等道路改善工程。",
-        "ProNo": "8257548e-ed2f-437d-8832-5f3dfc996dac",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "20",
-        "OrgTitle": "林冠維、周奕齊",
-        "CaseCause": "請市府辦理永康區西灣里公園路117巷等三條路面改善工程。",
-        "ProNo": "ed15a8f7-1506-4f01-9afc-f9440f3e2d8e",
         "PagesAll": "47"
     }
 ]

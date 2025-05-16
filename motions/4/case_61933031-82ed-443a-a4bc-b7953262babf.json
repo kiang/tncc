@@ -17,7 +17,13 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=06b71ef8-3cf0-4a22-84f8-18d37659f1be",
+            "FileName": "4-5定-環保衛生9號案-附件-114長青學苑整合型計畫.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=61933031-82ed-443a-a4bc-b7953262babf&type=pdf",
     "CheckAttList": [],

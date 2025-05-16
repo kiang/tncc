@@ -17,7 +17,13 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=928af091-9534-4dfd-ae32-2b06bc5698e2",
+            "FileName": "4-5定-環保衛生11號案-附件-114年度長照2.0整合型計畫-強化整備長照行政人力資源.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4c637d59-9f42-42a8-91bb-e02077cebcc3&type=pdf",
     "CheckAttList": [],

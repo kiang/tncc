@@ -17,7 +17,13 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fc5095e7-777b-45bd-8618-21a1d9a74937",
+            "FileName": "4-5定-環保衛生10號案-附件-113年度住宿式服務機構使用者補助方案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=769224f3-6392-4823-a509-fa8862d24367&type=pdf",
     "CheckAttList": [],
