@@ -2,6 +2,94 @@
     {
         "DoneDate": "2023\/07\/04",
         "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規備查案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "修正「臺南市公有古蹟參觀及停車場收費標準」。",
+        "ProNo": "94670c64-37aa-4bf5-844d-d6cbbf7d484e",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規備查案",
+        "CaseNumber": "3",
+        "OrgTitle": "臺南市政府交通局",
+        "CaseCause": "訂定「臺南市軌道建設發展基金收支保管及運用辦法」。",
+        "ProNo": "dfe95e01-0fb2-4022-bbb7-bb1ca00a73ee",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規備查案",
+        "CaseNumber": "4",
+        "OrgTitle": "臺南市政府警察局",
+        "CaseCause": "修正「臺南市關子嶺警光山莊清潔維護費收費標準」。",
+        "ProNo": "9c2f6bb6-c287-4daa-832d-62729203a0dd",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "制定「臺南市寵物生命紀念業管理自治條例」草案，敬請審議。",
+        "ProNo": "84b6909d-5493-4c07-a789-40b49f5e9e53",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府工務局",
+        "CaseCause": "擬具「臺南市營建工程賸餘土石方處理及資源堆置處理場設置管理自治條例」修正草案，敬請審議。",
+        "ProNo": "11ae9fb0-10bc-4413-b3bd-0767fca9e37e",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "議員提案-市法規案",
+        "CaseNumber": "1",
+        "OrgTitle": "周嘉韋",
+        "CaseCause": "修正「臺南市公有停車場收費及管理自治條例」第六條草案，敬請審議。",
+        "ProNo": "07189bf0-7f39-467b-ada8-928fbbc56416",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "臨時動議",
+        "KidTitle": "臨時動議-臨時動議",
+        "CaseNumber": "1",
+        "OrgTitle": "林美燕、林依婷、蔡淑惠、盧崑福、李啓維、周麗津",
+        "CaseCause": "請市府儘速規劃大台南智慧交通中心一樓停車管理處變更做為安平區怡平里活動中心使用，以民意及市民權益為優先考量，創造三贏。",
+        "ProNo": "8f41b79d-8824-4e3a-97a1-b85755344b93",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "臨時動議",
+        "KidTitle": "臨時動議-臨時動議",
+        "CaseNumber": "2",
+        "OrgTitle": "蔡宗豪",
+        "CaseCause": "建請儘速提撥北區和順里活動中心電動鐵捲門修復之相關費用。",
+        "ProNo": "4c448ef3-9004-4af6-89c5-cb3b3c21a010",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "臨時動議",
         "KidTitle": "臨時動議-臨時動議",
         "CaseNumber": "3",
@@ -1009,94 +1097,6 @@
         "OrgTitle": "張世賢",
         "CaseCause": "建請市府儘速改善白河區汴頭里「埤仔頭段五汴頭小段281-11地號」農路，該路面老舊年久失修，多處破損龜裂，影響行車安全甚鉅。",
         "ProNo": "bcdc3236-0a1d-45a2-82f9-bf7ce7405a86",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "22",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府盡速完成新化區那拔高分26旁農路修繕工程，以利民眾使用。",
-        "ProNo": "602ed988-4d56-4d64-9757-941d1a3d8756",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "23",
-        "OrgTitle": "陳昆和、周奕齊",
-        "CaseCause": "保障本國生產蒜頭收購價格。",
-        "ProNo": "a967c580-714f-42fc-be6f-ffb296c52f18",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "24",
-        "OrgTitle": "陳昆和、周奕齊",
-        "CaseCause": "台南市大北門區沿海區域文蛤水產等無法正常生長，建請提早研擬對策。",
-        "ProNo": "d5d451bb-c3ab-40fe-9858-7e09ca050b2a",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府環境保護局",
-        "CaseCause": "行政院環境保護署核定補助本市辦理「112年健全稽查專精能力及專業跨域支援量能-臺南市公害陳情重點查核計畫」新臺幣385萬元(中央補助300萬元(78%)，地方配合款85萬元(22%))墊付款事宜，為爭取時效，敬請同意先行辦理墊付，俟113年度總預算時再予轉正，提請審議。",
-        "ProNo": "da50b66d-d159-4fe3-b000-adc58b70ed55",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "2",
-        "OrgTitle": "臺南市政府環境保護局",
-        "CaseCause": "行政院環境保護署核定補助本市辦理「112年度臺南市推動固體再生燃料（SRF）、無機再生粒料等物料資源循環計畫」新臺幣800萬元(中央補助600萬(75%)，地方配合款200萬元(25%)墊付事宜，為爭取時效，敬請同意先行辦理墊付，俟113年度總預算時再予轉正，提請審議。",
-        "ProNo": "0f33bd75-9ea1-494e-a469-1f8ef9b2cbd4",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "3",
-        "OrgTitle": "臺南市政府衛生局",
-        "CaseCause": "衛生福利部國民健康署核定本市112年銀髮健身俱樂部補助計畫(第一次公告)總經費新臺幣341萬元整(中央補助300萬，市配合款41萬)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，提請審議。",
-        "ProNo": "3ccc16bd-7cf8-4807-8a54-7e4fa319b465",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "4",
-        "OrgTitle": "臺南市政府衛生局",
-        "CaseCause": "衛生福利部核定本市112年度整合型口腔健康促進計畫總經費新臺幣175萬元整(中央補助款140萬元，市配合款35萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
-        "ProNo": "24708f0a-a96d-4f48-bb49-907493e85843",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "5",
-        "OrgTitle": "臺南市政府社會局",
-        "CaseCause": "衛生福利部社會及家庭署核定本市辦理「112年度社區式身心障礙服務整合型計畫」，經費新臺幣729萬8,000元整(中央補助款648萬8,000元；市配合款81萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
-        "ProNo": "106af10d-fcbe-4e97-8d2d-26006bd40aec",
         "PagesAll": "47"
     }
 ]
