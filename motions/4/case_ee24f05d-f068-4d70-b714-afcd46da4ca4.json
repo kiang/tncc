@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "10",
+    "KidTitle": "查照\/備查案-法規查照案",
+    "ComeDate": "2025\/05\/08",
+    "ComeNumber": "府民人字第1140670313號",
+    "OrgTitle": "臺南市政府民政局",
+    "OrgTitle2": "",
+    "CaseCause": "俢正「臺南市將軍區公所編制表」。",
+    "Content": "",
+    "Method": "",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a3645cf7-fbf1-47f7-8f0d-8b9c2164779e",
+            "FileName": "4-5定-法規查照10---俢正臺南市將軍區公所編制表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ee24f05d-f068-4d70-b714-afcd46da4ca4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

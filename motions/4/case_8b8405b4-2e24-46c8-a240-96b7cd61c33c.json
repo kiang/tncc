@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "8",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/05\/20",
+    "ComeNumber": "府農工字第1140752406號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "農業部農村發展及水土保持署核定「114年臺南市政府金牌農村推廣計畫」，計畫經費經常門235萬3,000元整(中央補助款200萬元及地方政府配合款35萬3,000元)，因未納入本府114年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據農業部農村發展及水土保持署114年4月2日農保建字第1142658750號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案核定補助總經費新臺幣235萬3,000元整(中央補助款200萬元及地方政府配合款35萬3,000元)，查本案經常門未納入本府農業局114年農業管理與輔導業務─農業業務─農村規劃及農地管理項下，尚需增列235萬3,000元整，未納入本府114年度總預算，本案符合上開執行要點規定，擬先行辦理墊付，俟115年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年4月22日第694次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：旨案計畫因農業部農村發展及水土保持署訂定辦理內容需具多樣性，又須於114年底前辦理完成，惟該署於114年4月2日始核定，為爭取時效，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度總預算時辦理轉正\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a843436a-9fc7-4bb7-9436-29229566d3b4",
+            "FileName": "02-財經8號.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8b8405b4-2e24-46c8-a240-96b7cd61c33c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

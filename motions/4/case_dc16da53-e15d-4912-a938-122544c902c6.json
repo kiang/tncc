@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "7",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2025\/05\/21",
+    "ComeNumber": "府財產字第1140680270號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理標售本府經管坐落本市鹽水區仁愛段174地號非公用市有土地謹依土地法第25條規定之處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"坐落本市鹽水區仁愛段174地號市有土地，擬依「臺南市市有財產管理自治條例」第50條第1項第1款規定辦理標售。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府114年5月20日第698次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=96c7e865-0d63-4bba-bfa0-41557c94c89f",
+            "FileName": "2清冊財政稅務局(提案7).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e6d66123-e23c-42ef-8b40-d4a03e86d94f",
+            "FileName": "3提案7標售-地籍圖.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=dc16da53-e15d-4912-a938-122544c902c6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

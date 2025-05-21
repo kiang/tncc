@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "6",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2025\/05\/21",
+    "ComeNumber": "府財產字第1140680270號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理讓售本府經管坐落本市東區仁和段1123地號等7筆非公用市有土地謹依土地法第25條規定之處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"市有土地鄰地所有權人檢附畸零地合併使用證明書申請承購坐落本市東區仁和段1123地號等7筆市有土地，擬依「臺南市市有財產管理自治條例」第51條規定辦理讓售。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府114年5月20日第698次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=26f0b81b-f3c8-49af-a65c-d9565ab528b3",
+            "FileName": "2清冊(提案6).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c274192d-cac7-47dd-94f0-e84fa95453fa",
+            "FileName": "3提案6讓售-地籍圖.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=76925475-69a5-429c-8b38-4138fd9574ac&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
