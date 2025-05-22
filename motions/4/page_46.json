@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "臨時動議",
         "KidTitle": "臨時動議-臨時動議",
+        "CaseNumber": "4",
+        "OrgTitle": "趙昆原",
+        "CaseCause": "有關媒體報導本市無米樂故鄉後壁區將設置光電場一案，請市府加以詳查。",
+        "ProNo": "dccd80df-ca0a-479a-86cc-ed25cfa6ecc3",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "臨時動議",
+        "KidTitle": "臨時動議-臨時動議",
         "CaseNumber": "5",
         "OrgTitle": "蔡育輝",
         "CaseCause": "有關平實營區大旺夜市非法營業一案，請臺南市政府依法取締及開罰。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "陳秋萍",
         "CaseCause": "建請加速增設永康U-BIKE站點，以串聯相關公共服務。",
         "ProNo": "9949e247-66fb-40f9-8769-14f888a4aa61",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "13",
-        "OrgTitle": "蔡麗青",
-        "CaseCause": "建請加強增設安南區Youbike站點，以符合地方市民期待。",
-        "ProNo": "7b8253ae-dcbc-44eb-a04e-cb6125a8b652",
         "PagesAll": "47"
     }
 ]

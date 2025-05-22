@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "8",
+        "OrgTitle": "盧崑福",
+        "CaseCause": "請在安平區建平路228紀念公園進行改善工程，避免公園內的土丘砂土流出到街道，造成水溝阻塞。",
+        "ProNo": "9870ecb9-6030-4acd-b339-c2e60dd24401",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "9",
         "OrgTitle": "鄭佳欣",
         "CaseCause": "建請市府辦理歸仁區大武路一、二段等高鐵特定區聯外道路路面改善。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "曾之婕、陳怡珍",
         "CaseCause": "建請市府於東區泉南段497號及685地號（泉南里府連路344巷48號旁），興建泉南里活動中心。",
         "ProNo": "20d4f279-caad-4541-8d73-7a978dfd7bad",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "臨時動議",
-        "KidTitle": "臨時動議-臨時動議",
-        "CaseNumber": "4",
-        "OrgTitle": "趙昆原",
-        "CaseCause": "有關媒體報導本市無米樂故鄉後壁區將設置光電場一案，請市府加以詳查。",
-        "ProNo": "dccd80df-ca0a-479a-86cc-ed25cfa6ecc3",
         "PagesAll": "47"
     }
 ]
