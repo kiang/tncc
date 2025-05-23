@@ -4,6 +4,50 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "8",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府地政局儘速在新市區大營段1714地號，進行農地溝渠改善工程，俾利農耕。",
+        "ProNo": "1cf58414-9c17-4088-8947-04bd73c24417",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "9",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府地政局儘速在大營農地重劃區大社段1534地號前農路，進行路面改善工程，以利民眾通行安全。",
+        "ProNo": "4a811a69-cb36-4125-b493-dccacdedf4a2",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "10",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請臺南市政府辦理「鹽水農地重劃區北路6-7改善工程」，以利農機及行人通行。",
+        "ProNo": "487d360c-3edb-47da-a4c1-46daa6c33985",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "11",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請臺南市政府辦理「柳營農地重劃區東路21農路改善工程」，以確保用路人安全。",
+        "ProNo": "a70e5cce-c83c-4bb8-9277-2d58fc8db79e",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "12",
         "OrgTitle": "曾之婕",
         "CaseCause": "建請加速推動東區榮譽國民之家遷建後市地重劃作業，並多目標使用市有土地，引入公共服務並帶動地區發展。",
@@ -1053,50 +1097,6 @@
         "OrgTitle": "蔡育輝",
         "CaseCause": "建請市政府對新營區東學段660、666、669、743、777、778、778-1、779、780、781-1、782、783等地號15米計畫道路用地優先開闢，以創造新營火車站周邊商圈，嘉惠地區民眾通行之便利。",
         "ProNo": "4aa4e004-d44d-465a-a645-3b872e91865e",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "4",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請市政府辦理「鹽水區橋南里南門路1號至197號道路改善工程」，以確保用路人安全。",
-        "ProNo": "6244e2f3-e1b7-412d-bea2-2a3599e8ecd2",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "5",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "請工務局說明新營區大宏里三民路8巷、新東街41巷及新營國小東側道路改善工程進度。",
-        "ProNo": "44c8ae67-efa1-4290-acc4-ba012670995b",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "請辦理新營區健康路(長榮路~金華路)路面改善工程。",
-        "ProNo": "d05841c4-ef20-4016-b0c7-242a1a7a8741",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "7",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府工務局儘速在新市區大社段1235~1232旁道路，進行柏油路面改善工程，保障人車通行安全。",
-        "ProNo": "70045c4d-eed8-452a-8ca8-87e84b6a469e",
         "PagesAll": "47"
     }
 ]

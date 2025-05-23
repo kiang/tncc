@@ -4,6 +4,50 @@
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "30",
+        "OrgTitle": "鄭佳欣",
+        "CaseCause": "建請市府儘速研議縮短紅燈秒數周期。",
+        "ProNo": "42690cde-7e8c-4f3e-be93-0af2746c9c70",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "31",
+        "OrgTitle": "蔡筱薇",
+        "CaseCause": "建請公運處加強公車輔助系統的安裝措施。",
+        "ProNo": "58810b37-e999-4bff-8ca0-cc86d53b030e",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "32",
+        "OrgTitle": "蔡筱薇",
+        "CaseCause": "建請針對東區裕農路及裕農路345巷交叉路口設置行穿線。",
+        "ProNo": "300fb56b-7b38-4736-b03d-c72a45724216",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "33",
+        "OrgTitle": "林依婷",
+        "CaseCause": "建請重鋪郡平路口路外停車場場地。",
+        "ProNo": "702af980-063f-4cea-8229-b8a21744c45c",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "34",
         "OrgTitle": "盧崑福",
         "CaseCause": "安平區建平十七街由建平路往西至文平路之路段，路邊停車格往運河旁邊的公園內縮案。",
@@ -1053,50 +1097,6 @@
         "OrgTitle": "王家貞",
         "CaseCause": "建請市府全面進行檢查臺南市各巷弄内紅磚道間的平穩牢固狀況，以維護用路人行走及車輛行駛的安全性。",
         "ProNo": "0fc043f5-e6cc-4c7d-8c53-114a3ef47ef0",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/10\/24",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "10",
-        "OrgTitle": "曾之婕",
-        "CaseCause": "建請翻新東區崇德路110號至114號老舊水溝蓋。",
-        "ProNo": "b28d1cdb-d033-408d-b6b8-fd1477682978",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/10\/24",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "11",
-        "OrgTitle": "曾之婕",
-        "CaseCause": "建請修補東區崇善路25巷與崇仁街口至龍山街口之人行道路面。",
-        "ProNo": "70857e2d-2b1e-4baf-a7af-e288318653b7",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/10\/24",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "12",
-        "OrgTitle": "曾之婕",
-        "CaseCause": "建請修補東區崇仁街與龍山街口至龍山街87號之人行道路面。",
-        "ProNo": "7435d21a-aa4f-430d-b770-1eaa48a81c26",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/10\/24",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "13",
-        "OrgTitle": "曾之婕",
-        "CaseCause": "建請修補東區龍山街87號至龍山街與崇善路口之人行道路面。",
-        "ProNo": "792a23c8-2f59-4e56-b514-1de8ee555c4b",
         "PagesAll": "47"
     }
 ]

@@ -4,6 +4,50 @@
         "GradeTime": "第4屆 第5次 臨時會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "3",
+        "OrgTitle": "李偉智",
+        "CaseCause": "建請市府協助善化區圳西段562地號(乙種工業用地)自來水管線設置。",
+        "ProNo": "9f9ff7bb-b3f6-43f1-892e-9ceb237f265b",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "4",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府地政局儘速在新市區東大社段772、773地號土地施作版橋，以利農耕。",
+        "ProNo": "1c030cd3-f398-4891-9712-d162e59e5123",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "5",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府地政局儘速在大社重劃區東大社段774地號前進行溝渠改善工程，俾利農耕。",
+        "ProNo": "82e5d7bb-e64b-4162-860c-81f5d455bd2f",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "6",
+        "OrgTitle": "蔡秋蘭",
+        "CaseCause": "建請臺南市政府辦理：佳里區塭子內農地重劃區東十二路(港墘段86地號)農路改善工程。",
+        "ProNo": "0c61d14a-6e36-4e4e-8144-a23de656ff18",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "7",
         "OrgTitle": "沈家鳳",
         "CaseCause": "建請市政府編列預算辦理鹽水區「農地重劃區北路4-4改善工程第二期工程」，以利民眾通行安全。",
@@ -1053,50 +1097,6 @@
         "OrgTitle": "李鎮國",
         "CaseCause": "建請市府儘速規劃永二街於中山南路出口處，進行道路拓寬或台電電桿地下化，以符合地區民眾期待與需求。",
         "ProNo": "5417a9d0-1150-4f0b-ab6e-286b6e6a3f6d",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "11",
-        "OrgTitle": "鄭佳欣",
-        "CaseCause": "建請修正臺南市政府廣告物管理自治條例內容，以改善本市市容景觀，並維護市民安全。",
-        "ProNo": "8e76d08b-e1f1-44e8-a128-19f147ae450b",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "12",
-        "OrgTitle": "黄肇輝",
-        "CaseCause": "有關永康區探索公園照明不足，建請市府改善照明設備，以維護市民安全。",
-        "ProNo": "1b4e65b4-4a22-4228-afd5-46ebc3e59d70",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "13",
-        "OrgTitle": "黄肇輝",
-        "CaseCause": "建請市府辦理永康區成功里中華路88號及96號巷道3處道路改善工程，以保障民眾通行之安全。",
-        "ProNo": "4a4ca681-285e-4b7c-aa3b-bd0564cd27cf",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "14",
-        "OrgTitle": "黄肇輝",
-        "CaseCause": "建請市府辦理永康區勝利里勝利街97巷道路改善工程，以保障民眾通行之安全。",
-        "ProNo": "f9b94d97-94e0-4b90-a55f-c36da1f99634",
         "PagesAll": "47"
     }
 ]
