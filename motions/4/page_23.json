@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第5次 臨時會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "林美燕",
+        "CaseCause": "建請市府暫緩審議南區濱海公路以西之太陽光電開發案。",
+        "ProNo": "2a511c6e-9636-424a-938a-dec2c81ba94d",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "3",
         "OrgTitle": "李偉智",
         "CaseCause": "建請市府協助善化區圳西段562地號(乙種工業用地)自來水管線設置。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "沈家鳳",
         "CaseCause": "建請市府拓寬新營區東山路平交道南北兩側道路，避免上下班時間交通壅塞以及增加平交道安全。",
         "ProNo": "3a0996a8-8755-4581-91f0-308c0eed11f9",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "10",
-        "OrgTitle": "李鎮國",
-        "CaseCause": "建請市府儘速規劃永二街於中山南路出口處，進行道路拓寬或台電電桿地下化，以符合地區民眾期待與需求。",
-        "ProNo": "5417a9d0-1150-4f0b-ab6e-286b6e6a3f6d",
         "PagesAll": "47"
     }
 ]

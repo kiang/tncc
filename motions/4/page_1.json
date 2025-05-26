@@ -721,7 +721,7 @@
         "KidTitle": "查照\/備查案-法規查照案",
         "CaseNumber": "10",
         "OrgTitle": "臺南市政府民政局",
-        "CaseCause": "俢正「臺南市將軍區公所編制表」。",
+        "CaseCause": "修正「臺南市將軍區公所編制表」。",
         "ProNo": "ee24f05d-f068-4d70-b714-afcd46da4ca4",
         "PagesAll": "47"
     },
@@ -754,7 +754,7 @@
         "KidTitle": "查照\/備查案-法規查照案",
         "CaseNumber": "13",
         "OrgTitle": "臺南市政府衛生局",
-        "CaseCause": "俢正「臺南市政府衛生局組織規程第三條、第四條、十三條及編制表」。",
+        "CaseCause": "修正「臺南市政府衛生局組織規程第三條、第四條、十三條及編制表」。",
         "ProNo": "cf700ba6-484e-4788-8dc6-18aedfc6c6b0",
         "PagesAll": "47"
     },
@@ -765,7 +765,7 @@
         "KidTitle": "查照\/備查案-法規查照案",
         "CaseNumber": "14",
         "OrgTitle": "臺南市政府衛生局",
-        "CaseCause": "俢正「臺南市左鎮區衛生所編制表」。",
+        "CaseCause": "修正「臺南市左鎮區衛生所編制表」。",
         "ProNo": "c57f5da1-718f-49d7-89d6-6b08062197a0",
         "PagesAll": "47"
     },
@@ -789,6 +789,17 @@
         "OrgTitle": "臺南市政府水利局",
         "CaseCause": "為市府依「臺南市污水下水道使用費徵收自治條例」規定訂定(機關、學校、軍方)以外之一般用戶污水下水道使用費費率為5元\/立方公尺。",
         "ProNo": "a8eee6f0-9ac6-4d9a-9a1a-acaf288b90fd",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規備查案",
+        "CaseNumber": "3",
+        "OrgTitle": "臺南市政府工務局",
+        "CaseCause": "公告修正「臺南市興辦公共工程土地改良物補償自治條例」附表一(合法房屋之重建單價補償標準表)、附表二(雜項工作物及設施查估標準表)、附表三(修復單㑺標準表)及附表四(人口遷移費計算標準表)。",
+        "ProNo": "a2a42280-dc5e-451e-aedd-a0bb486f2750",
         "PagesAll": "47"
     },
     {
@@ -1086,17 +1097,6 @@
         "OrgTitle": "李偉智",
         "CaseCause": "敬請新化區公所增設新化體育公園維護人力，讓環境更加整潔。",
         "ProNo": "a6a66845-c590-45fc-b3cc-bcabd493de74",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "20",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請改善六甲區中社里36、37及40巷道路改善工程，因年久失修，破損嚴重，急需辦理改善，以利行車安全。",
-        "ProNo": "adb4be43-7a19-439d-8a69-c9d471e3331f",
         "PagesAll": "47"
     }
 ]

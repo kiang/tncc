@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "28",
+        "OrgTitle": "李啓維",
+        "CaseCause": "規劃社會住宅資源進行沒有電梯老舊公寓國宅都更。",
+        "ProNo": "966ac6ef-c2d8-45f2-8c50-f2dec1281ec8",
+        "PagesAll": "47"
+    },
+    {
         "DoneDate": "2024\/05\/29",
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "保安",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "蔡麗青",
         "CaseCause": "建請增加臺南市捷工處人員及經費，以利推動大眾捷運相關作業。",
         "ProNo": "f146c81c-7ae0-4c1c-89f8-2fca756d7651",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "93",
-        "OrgTitle": "蔡麗青",
-        "CaseCause": "建請將安南區大眾捷運列入先期規劃，與其他五線並行，以利臺南市未來發展。",
-        "ProNo": "1b6de2fa-1870-4991-b41c-50eeaff7d421",
         "PagesAll": "47"
     }
 ]
