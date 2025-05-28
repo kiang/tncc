@@ -377,6 +377,17 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "建設",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "檢送「財團法人臺南市台日文化友好交流基金會」114年度營運及資金運用計畫乙份，請查照。",
+        "ProNo": "0998796c-0868-4034-bf26-ae8f0fc18317",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "建設",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府文化局",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "李鎮國",
         "CaseCause": "有關臺南市永康區忠孝路 20M 與忠孝一路口計畫道路所涵蓋的精忠九村眷改基地，請市府與國防部協商並規劃該區神洲里活動中心用地取得或保留原有活動中心的建築物及用地。",
         "ProNo": "07c906e4-48d4-4ab7-a71a-2549b5c8e107",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "19",
-        "OrgTitle": "李偉智",
-        "CaseCause": "敬請新化區公所增設新化體育公園維護人力，讓環境更加整潔。",
-        "ProNo": "a6a66845-c590-45fc-b3cc-bcabd493de74",
         "PagesAll": "47"
     }
 ]

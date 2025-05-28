@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "92",
+        "OrgTitle": "朱正軒、沈家鳳、陳秋宏、余柷青、林依婷、鄭佳欣",
+        "CaseCause": "建請交通局加速更新路口號誌控制器，以利智慧交控中心依據實際車流即時遠端調控路口號誌，力求緩解交通壅塞。",
+        "ProNo": "1a1a71e3-15d2-4590-bdd5-f508ab6b66b8",
+        "PagesAll": "47"
+    },
+    {
         "DoneDate": "2023\/10\/27",
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "工務",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "余柷青",
         "CaseCause": "建請市府將新化區南173線道路路面改善工程列入113年路平專案改善。",
         "ProNo": "11333da5-ef00-4688-a7e2-3c5dd57b1384",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "94",
-        "OrgTitle": "吳禹寰",
-        "CaseCause": "建請市府儘速改善歸仁區市道182線182-9K+500西向車道，以維護用路人安全。",
-        "ProNo": "f854d6a5-8494-4172-bdc8-fc6e321be254",
         "PagesAll": "47"
     }
 ]

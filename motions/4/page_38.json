@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "檢送「財團法人臺南市台日文化友好交流基金會」112年度營運及基金運用計畫乙份，請查照。",
+        "ProNo": "f71030f4-7a4d-4469-a4aa-06a32f35a45b",
+        "PagesAll": "47"
+    },
+    {
         "DoneDate": "2023\/06\/07",
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "建設",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林依婷",
         "CaseCause": "建請重新劃設臺南市南區永華國民小學周圍通學步道\/人行道。",
         "ProNo": "1de04531-b241-488e-a95e-5c3322500f31",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "29",
-        "OrgTitle": "蔡育輝、方一峰",
-        "CaseCause": "建請市政府交通局於各校門口設置宣導標語「未禮讓行人罰款3,600元」。",
-        "ProNo": "ec2f5e32-c3a8-4110-ae12-5ed8f57b4a33",
         "PagesAll": "47"
     }
 ]

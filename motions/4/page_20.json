@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "63",
+        "OrgTitle": "林冠維",
+        "CaseCause": "請辦理永康區東灣里大灣一街(大灣二街71巷至大灣二街)路面改善工程。",
+        "ProNo": "047fccfa-6c3b-412b-a962-18392aafeeed",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/05\/29",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "64",
         "OrgTitle": "林冠維",
         "CaseCause": "請辦理永康區中興里中興街(忠孝路至中華二路)路面改善工程。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "陳秋宏",
         "CaseCause": "麻豆區大埕里文學路(平等路至中正路段)路面改善。",
         "ProNo": "99dbeb7f-8545-4f8e-946c-84e890ccc021",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/05\/29",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "163",
-        "OrgTitle": "陳秋宏",
-        "CaseCause": "麻豆區安正里社子3-7號至牌樓道路改善。",
-        "ProNo": "d46e3f74-6041-405e-b303-9ef509f22cdf",
         "PagesAll": "47"
     }
 ]

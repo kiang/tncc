@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "200",
+        "OrgTitle": "黄肇輝",
+        "CaseCause": "建請工務局儘速與台糖公司協商，完成三崁店公園之開闢，以利該地諸羅樹蛙之保育以及神社古蹟保存。",
+        "ProNo": "2ee49398-0f63-4b94-aa09-ea392c9f6435",
+        "PagesAll": "47"
+    },
+    {
         "DoneDate": "2023\/07\/04",
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "工務",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "李偉智",
         "CaseCause": "建請市府儘速完成善化區南123線六分寮段2257地號旁側溝增設工程，以利民眾使用。",
         "ProNo": "89f5c943-ac34-4321-a2d7-777d03c58b8a",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "300",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府儘速完成山上區南洲里13號道路AC路面改善工程，以利民眾使用。",
-        "ProNo": "1acb7fb5-8704-4ffe-bc97-cd2931c7e99b",
         "PagesAll": "47"
     }
 ]
