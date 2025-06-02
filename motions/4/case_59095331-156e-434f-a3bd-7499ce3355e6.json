@@ -31,7 +31,18 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=59095331-156e-434f-a3bd-7499ce3355e6&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=faa60e65-db95-4fa6-b4bd-f10a9ffea1d8",
+            "FileName": "1140529補件之1-1130820修法公聽會會議紀錄.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d8d20ee7-717a-4d40-b091-a952ddddc286",
+            "FileName": "1140529補件之2-牡蠣自治條例全部(原法規).pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "2025\/05\/27",
     "ReDesc": "",
