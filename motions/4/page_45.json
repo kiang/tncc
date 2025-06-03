@@ -3,6 +3,28 @@
         "DoneDate": "2023\/03\/30",
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "工務",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府水利局",
+        "CaseCause": "經濟部水利署同意本市「二仁溪鯽魚橋改建工程」增加112年度經費新臺幣194萬7,000元(中央補助款151萬8,000元、地方配合款42萬9,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+        "ProNo": "b91e0d5d-4d97-4c73-a2f5-a2bffb1bbb72",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "1",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請市政府工務局、新營區公所等單位能優先認養或代管新營區長勝段13、15、28、70、70-1、71、71-1等地號(長勝營區)之台糖、國防部土地，開設為多功能融合公園，讓市民有更多的兒童休憩運動設施等場地使用。",
+        "ProNo": "e9a523f7-4666-4cec-a4b3-7ec5b23dac22",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
         "CaseNumber": "2",
         "OrgTitle": "蔡育輝",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "謝舒凡",
         "CaseCause": "建請市府對「學甲區東西向快速公路北門玉井線橋下道路P65至學甲與北門交界處路面凹陷」一案，儘速辦理改善。",
         "ProNo": "96c2edab-7f2c-4d8c-981e-c1875717a27b",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "100",
-        "OrgTitle": "謝舒凡",
-        "CaseCause": "建請市府辦理將軍區南24線至台17十字路口處路面改善工程，路面老化龜裂，亟須辦理改善，以保障民眾用路安全。",
-        "ProNo": "ee7c9ab2-5b9c-4851-956e-171b1b9eb713",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "101",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "建請市府及各局處簡化回覆民眾陳情案件之流程及格式。",
-        "ProNo": "3cc795c7-2ddd-4fd2-9e7f-d57e6b9021f2",
         "PagesAll": "47"
     }
 ]

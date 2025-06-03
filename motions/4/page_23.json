@@ -3,6 +3,28 @@
         "DoneDate": "2024\/03\/15",
         "GradeTime": "第4屆 第5次 臨時會",
         "PTypTitle": "財經",
+        "KidTitle": "市府提案-追加減預算",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府",
+        "CaseCause": "本市113年度總預算第一次追加(減)預算案業經編製完竣，敬請  審議。",
+        "ProNo": "4f4308dc-a3ed-4a20-aeb6-740268e115fa",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-動支第二預備金",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府主計處",
+        "CaseCause": "檢送112年度臺南市總預算第二預備金動支數額表，敬請審議。",
+        "ProNo": "fc0fbc62-0676-48d9-b2e8-7b0719896eaf",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
         "CaseNumber": "1",
         "OrgTitle": "李宗霖、沈家鳳",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府工務局儘速在新市區豐華里21-1號前道路，進行柏油路面改善工程，保障人車通行安全。",
         "ProNo": "0c0dc225-d96e-4814-9a09-ee455a968649",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "7",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府工務局儘速在新市區南134線(民生路消防隊到環東路一段)，進行柏油路面改善工程，保障人車通行安全。",
-        "ProNo": "a1bf9f4e-b897-49a7-b556-fdc9e8447aea",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "8",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府工務局儘速在新市區豐華里47-71號旁道路，進行柏油路面改善工程，保障人車通行安全。",
-        "ProNo": "9be59585-f450-410b-b72d-66ff1620c04d",
         "PagesAll": "47"
     }
 ]

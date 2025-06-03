@@ -14,6 +14,28 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "民政教育",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市議會本會",
+        "CaseCause": "檢送本會113年第4季辦理政策及業務宣導之執行情形表，提請備查。",
+        "ProNo": "e483fe7a-44ac-452d-8d1b-d322ba877e72",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "3",
+        "OrgTitle": "臺南市議會本會",
+        "CaseCause": "檢送本會114年第1季辦理政策及業務宣導之執行情形表，提請備查。",
+        "ProNo": "188ea9de-6971-4467-b44a-9690ff137762",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "民政教育",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府各區公所",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "王家貞",
         "CaseCause": "建請市政府相關單位在各里辦公室內購置緊急急救箱。",
         "ProNo": "6576701d-87f8-4e8c-81b8-22678a0d24aa",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "17",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請臺南市政府就無主骨灰(骸)辦理一場莊嚴肅穆的追思儀式，藉由特定之宗教轉魂儀式後，進行環保樹葬，讓納骨塔減壓，達到櫃位空間再活化，將使環境及櫃位永續經營。",
-        "ProNo": "d1c62b05-5e84-405c-92dd-2cb15dc3482e",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "18",
-        "OrgTitle": "李鎮國",
-        "CaseCause": "有關臺南市永康區忠孝路 20M 與忠孝一路口計畫道路所涵蓋的精忠九村眷改基地，請市府與國防部協商並規劃該區神洲里活動中心用地取得或保留原有活動中心的建築物及用地。",
-        "ProNo": "07c906e4-48d4-4ab7-a71a-2549b5c8e107",
         "PagesAll": "47"
     }
 ]

@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "90",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府交通局在新市區大營里豐榮59號前路口，將閃黃燈改為三色號誌燈，保障人車通行安全。",
+        "ProNo": "a104b810-68fa-462c-af4f-ec23f09048d0",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "91",
+        "OrgTitle": "朱正軒、陳秋宏、蔡蘇秋金、余柷青",
+        "CaseCause": "建請交通局加強標誌標線及號誌調整之執行效率。",
+        "ProNo": "adf3efd6-db63-44ab-8dfa-458d3e3ccce6",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "92",
         "OrgTitle": "朱正軒、沈家鳳、陳秋宏、余柷青、林依婷、鄭佳欣",
         "CaseCause": "建請交通局加速更新路口號誌控制器，以利智慧交控中心依據實際車流即時遠端調控路口號誌，力求緩解交通壅塞。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "李偉智",
         "CaseCause": "建請市府儘速完成新化區知義里南168-1口埤55-1號旁排水改善工程。",
         "ProNo": "29a2f45b-631a-4a6e-a309-712ff8d33358",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "92",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府儘速完成新化區東榮里復興路187巷路面改善工程。",
-        "ProNo": "2d7fcaf4-ab85-40f8-9a88-ef7f8386c32d",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "93",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府將新化區南173線道路路面改善工程列入113年路平專案改善。",
-        "ProNo": "11333da5-ef00-4688-a7e2-3c5dd57b1384",
         "PagesAll": "47"
     }
 ]

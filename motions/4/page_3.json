@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第8次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "3",
+        "OrgTitle": "陳怡珍",
+        "CaseCause": "有關臺南市北區文賢路502巷40號處道路工程尚未開闢乙案，本席建請臺南市政府應儘速辦理徵收土地等相關作業。",
+        "ProNo": "6fa43f36-2afc-4561-bc1b-ccd648879b76",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "4",
+        "OrgTitle": "周奕齊、陳昆和、王宣貿、林冠維、趙昆原、Ingay Tali 穎艾達利、杜素吟、蔡育輝",
+        "CaseCause": "建請臺南市政府訂定未貼單但確定為0121地震受災户補助辦法。",
+        "ProNo": "c605ba5c-c751-4344-86e8-d254369fef8e",
+        "PagesAll": "47"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "5",
         "OrgTitle": "盧崑福",
         "CaseCause": "南區府南里金華路一段484巷99弄路面破損老舊，影響來往車輛行人安全性。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "臺南市議會本會",
         "CaseCause": "檢送本會113年第2季辦理政策及業務宣導之執行情形表，提請備查。",
         "ProNo": "ba72acad-02e6-46bd-8432-42fb79d5eb63",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "查照\/備查案-一般備查案",
-        "CaseNumber": "2",
-        "OrgTitle": "臺南市議會本會",
-        "CaseCause": "檢送本會113年第3季辦理政策及業務宣導之執行情形表，提請備查。",
-        "ProNo": "46e81f6e-8af9-43cf-9eeb-d9295363f1bb",
-        "PagesAll": "47"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "查照\/備查案-一般備查案",
-        "CaseNumber": "3",
-        "OrgTitle": "臺南市政府各區公所",
-        "CaseCause": "檢送本市後壁區公所辦理「112年度輸變電促協金（施工中）-161kV新營~太鐵線#26~#34(開工及完工) 」及「112年度輸變電促協金（施工中）-161kv新營~太鐵線#35~#36(開工及完工) 」之結算明細表共2份，請貴會同意備查，請查照。",
-        "ProNo": "26752e7f-3b76-4bd2-899e-a2fb4e165bf0",
         "PagesAll": "47"
     }
 ]
