@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "18",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡宗豪",
+    "OrgTitle2": "Ingay Tali 穎艾達利、周麗津、林燕祝、方一峰、林美燕、陳碧玉、杜素吟、李中岑、周奕齊",
+    "CaseCause": "建請市府改善本市和緯路五段左轉行經中華北路，上下班車流量過多導致直行車壅塞一案。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"和緯路五段左轉行經中華北路，左轉專用車道過短，上下班時段車流量密集，導致直行車無法通過，間接影響道路使用上汽車與機車的行車安全。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"中間分隔島縮小，建議拉長左轉專用道，改善行車通暢問題。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/05\/29",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fb9b12db-945a-4c87-97eb-e7798ee3151f",
+            "FileName": "4-5定工務議提18附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ed6a320e-f629-4bdf-9cea-da3a5c41287e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

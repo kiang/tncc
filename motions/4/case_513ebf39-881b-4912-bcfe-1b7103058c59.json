@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "17",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡宗豪",
+    "OrgTitle2": "Ingay Tali 穎艾達利、周麗津、周奕齊、方一峰、林美燕、陳碧玉、杜素吟、林燕祝、李中岑",
+    "CaseCause": "建請工務局將長榮路四段上中間分隔島開出2.5米，行人穿越線往後移，使用路人能更安全的穿越。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"由於長榮路四段上的行人穿越線與汽機車行駛過於接近，造成用路人行走上有壓力，怕被擦撞，此路口經常發生車禍。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"若中間分隔島開出2.5米，行人穿越線往後移，用路人將能更安全的穿越。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/05\/29",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7375d8b2-e5b6-4d66-847c-f5cf1b585dc2",
+            "FileName": "4-5定工務議提17附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=513ebf39-881b-4912-bcfe-1b7103058c59&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

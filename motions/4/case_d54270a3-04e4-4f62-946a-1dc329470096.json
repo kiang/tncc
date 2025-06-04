@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡宗豪",
+    "OrgTitle2": "李中岑、蔡育輝、曾培雅",
+    "CaseCause": "建請市府將本市北區和順公園改建為特色公園。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"以地方特色為核心，融合「遊戲、學習、想像、探險」的特色公園提案，旨在打造一個適合親子共遊、社區融合的户外空間，讓孩子們在這裡探索、學習，激發他們的好奇心和學習動機。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請市府設計以當地特色為靈感的遊樂設施,，如溜滑梯、攀爬網、繩橋與探險通道等，並加入聲音效果(例如自然風聲、水流聲等)，讓孩子們在遊玩中感受大自然的氛圍，增強沉浸感。同時設置互動牆，展示與地方文化、動植物或自然景觀相關的知識，讓孩子在遊戲中學習，將「寓教於樂」發揮到極致。利用旋轉、翻板、拼圖等方式，讓孩子們動手動腦，並透過QRCode連結到線上遊戲或教育資源，延伸學習的內容。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"現代兒童面臨螢幕依賴與户外活動不足的問題，特色公園將提供豐富的感官刺激與動態學習場域，有助於孩子發展感覺統合、空間認知與肢體協調。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"園區設計融合當地的自然景觀與文化背景，搭配主題情境任務，激發孩子的想像力、社交能力與問題解決能力。這樣的設計不僅能讓孩子們在這裡玩中學、學中玩，還能讓公園成為親子與社區居民享受的公共空間，促進社區的互動與連結。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/05\/29",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bc8df75c-b1e4-4e8f-96d5-de1ad49df90d",
+            "FileName": "4-5定工務議提1附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d54270a3-04e4-4f62-946a-1dc329470096&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

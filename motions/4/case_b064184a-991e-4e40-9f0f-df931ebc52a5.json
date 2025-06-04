@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "64",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "許至椿、吳通龍、鄭佳欣、蔡育輝、陳皇宇",
+    "CaseCause": "建請市府增加南區郡南二號公園(公兒S47)遊戲場之遮陽設施。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"南區郡南二號公園(公兒S47)位於新都路329巷旁，除供鄰近市民運動休閒之需求外，亦為兒童玩耍之重要空間。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"惟該處所為戶外空間，幾乎全無遮陽設施抵擋豔陽(照片一)，而溽暑將至，建請增設遮陽棚網等(照片二)設施，保護在該處所活動之市民，避免因在酷熱烈陽下活動而中暑或受傷。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/05\/29",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=43bacac6-0425-445d-a7cc-3f8a1177f809",
+            "FileName": "4-5定工務議提64附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b064184a-991e-4e40-9f0f-df931ebc52a5&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "23",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "施余興望 Tjakumay Tagaw、黃麗招、李文俊、楊中成、沈家鳳、林美燕、陳秋宏",
+    "CaseCause": "建請市府重鋪永康區永大路二段道路之路面柏油及路面斑馬線、停止線等標線模糊重繪。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"永大路二段的路面建設是民國85年（1996年），當時兩側人行道是一併闢建，至今已29年。該路段位於永康區，呈南北走向，連接中山北路與民族路，國道一號、大灣、仁德及永康市區，交通位置重要，並且是區內主要的幹道之一。由於長年使用，該路段年久失修，路面柏油龜裂，部分路段出現損壞(永大路二段432前後如附圖)，需進行維護與改善，更因當地居民反映夜間或雨天機車行駛於該路段易造成摔車事故，請市府儘速重鋪該路段之路面柏油，及路面斑馬線、停止線等標線模糊重繪，以維護人車安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/05\/29",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e3e0f0f4-3ba8-48f8-954b-f5def377e17f",
+            "FileName": "4-5定工務議提23附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b9480f7d-4237-4ac4-bb5e-b6be0874df95&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

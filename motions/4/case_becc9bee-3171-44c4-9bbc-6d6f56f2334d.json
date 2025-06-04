@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "24",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "施余興望 Tjakumay Tagaw、黃麗招、楊中成、林美燕、陳秋宏、沈家鳳",
+    "CaseCause": "永康區三民里鹽水溪5月為防汛期，大雨橋面封閉，使得原防汛道路車輛的壅塞情形更為嚴重，且周邊地區已都市化，建請市府重視及評估改為一般道路。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"因都市化發展，本路段車流趨多，長期以來民眾實際已作為通行要道，惟道路屬防汛設施，受限法規無法畫設標線與號誌，導致車禍事故接二連三發生(113年4月-114年4月累計共19件)，卻無明確責任歸屬與解決方案，極不利於公共安全與交通秩序。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"爰此，建請本府相關單位積極研議，將本路段納入生活圈道路整理考量，明確責任歸屬，並比照臺北市河濱公園綠美化與人行環境之規劃方向，兼顧景觀與通行機能，提升地方交通品質與都市景觀，未來亦有潛力成為結合防災、交通與人本空間的市政亮點，展現城市發展的多元面貌。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"請市府專案立案，向中央提案爭取經費，將該路段改做一般道路使用，以回應地方民意，完善永康都市交通發展。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/05\/29",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=102d3706-8b30-4a98-b36d-67b6c30fc121",
+            "FileName": "4-5定工務議提24附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=becc9bee-3171-44c4-9bbc-6d6f56f2334d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
