@@ -10,8 +10,8 @@
     "CaseCause": "臺南市政府擬具「臺南市法規標準自治條例」第十一條修正草案，提請審議。",
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"鑑於現行條文就自治規則報中央機關備查及地方立法機關查照之程序與地方制度法第二十七條第三項規定有別，爰擬具本修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府114年4月9日第692次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市法規標準自治條例」第十一條修正草案總說明、條文對照表、修正條文、市政會議審議紀錄及自治規則報備查相關規定比較表各1份。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
-    "CheckDate": "",
-    "CheckDesc": "",
+    "CheckDate": "2025\/05\/20",
+    "CheckDesc": "一、附件1、會議紀錄：臺南市政府擬具「臺南市法規標準自治條例」第十一條修正草案(4-5定-法規巿提3)，審查結論：照案通過，詳審查結果對照表。\r\n二、附件2，審查結果報告書。\r\n三、附件3，審查結果對照表。",
     "DoneDate": "",
     "DoneDesc": "",
     "SendDate": "",
@@ -31,12 +31,28 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=88d54a60-3bd1-43ec-9c5b-a9c0354702fd&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7c729b0a-5dcf-49af-aa9b-3cd52d8c5cd5",
+            "FileName": "附件1---1140520會議紀錄-4-5定-法規巿提2~3號案--修正「臺南市促進科技與新創產業發展自治條例」草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b8cff511-8dbb-4868-bbb4-ad698e098c31",
+            "FileName": "附件2--4-5定-法規巿提2~3號案審查意見報告書.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=08667ccb-6b25-4350-8bdf-422471ff5649",
+            "FileName": "附件3--審查結果對照表-4-5定法規巿提3-「臺南市法規標準自治條例」第十一條修正草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "2025\/04\/17",
     "ReDesc": "",
-    "FirstDate": "",
-    "FirstDesc": "",
+    "FirstDate": "2025\/04\/25",
+    "FirstDesc": "交付法規委員會審查。",
     "SecondDate": "",
     "SecondDesc": "",
     "ThirdDate": "",
