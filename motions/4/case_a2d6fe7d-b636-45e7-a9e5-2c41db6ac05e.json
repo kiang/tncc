@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "會務",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-會務案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "邱議長莉莉",
+    "OrgTitle2": "林志展、陳昆和、李文俊、周嘉韋、盧崑福、郭信良、吳通龍、黄肇輝、蔡秋蘭、許至椿、王宣貿、蔡麗青、周麗津、蔡宗豪、邱昭勝、沈家鳳、陳秋宏、陳皇宇、郭清華、沈震東、余柷青、林美燕、林燕祝、李鎮國、楊中成、李啓維、李宗霖、曾之婕、陳怡珍、李宗翰、施余興望 Tjakumay Tagaw、謝舒凡、朱正軒、李中岑、Ingay Tali 穎艾達利、陳秋萍、黃麗招、李偉智、蔡筱薇、林依婷、鄭佳欣、蔡蘇秋金、吳禹寰、王家貞、陳碧玉、杜素吟、周奕齊、林冠維、郭鴻儀、尤榮智、蔡育輝、蔡淑惠、曾培雅、方一峰",
+    "CaseCause": "本會擬與澎湖縣議會締結姐妹會，以持續推動雙方議會交流，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"114年議員國內經建考察活動與澎湖縣議會交流，本會提議與澎湖縣議會締結姐妹會，澎湖縣議會陳毓仁議長與多位議員皆表示樂意促成。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本會與澎湖縣議會長期皆保持穩定之聯繫合作，如能締結姐妹會，除持續推動兩議會交流與相關事務推展，期能建立彼此密切友誼外，更進一步擴展本市與澎湖縣兩城市間之觀光、建設及文教等多方面永續發展。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2025\/06\/04",
+    "DoneDesc": "照案通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e7714174-cb9a-461d-abaf-ab7fcab5ba01",
+            "FileName": "4-5定會務案1提案單(第1次).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e40870b7-a839-4410-ae43-423a68b5f3ae",
+            "FileName": "4-5定會務案1提案單.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a2d6fe7d-b636-45e7-a9e5-2c41db6ac05e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照案通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
