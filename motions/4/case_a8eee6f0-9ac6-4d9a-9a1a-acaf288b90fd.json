@@ -14,8 +14,8 @@
     "CheckDesc": "",
     "DoneDate": "",
     "DoneDesc": "",
-    "SendDate": "",
-    "SendNumber": "",
+    "SendDate": "2025\/06\/13",
+    "SendNumber": "南議法規字第 1140004547號",
     "DoDesc": "",
     "AttList": [
         {
@@ -26,9 +26,15 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a8eee6f0-9ac6-4d9a-9a1a-acaf288b90fd&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a3678b3b-7b95-4d58-84e6-4c74ff28e9f2",
+            "FileName": "4-5定--0604第11次會會議紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
-    "ReDate": "",
+    "ReDate": "2025\/06\/04",
     "ReDesc": "",
     "FirstDate": "",
     "FirstDesc": "",
