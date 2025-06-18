@@ -7,11 +7,11 @@
     "ComeNumber": "府民自字第1140612806號",
     "OrgTitle": "臺南市政府民政局",
     "OrgTitle2": "",
-    "CaseCause": "修訂「臺南市公民投票自治條例」草案，敬請審議。",
+    "CaseCause": "修正「臺南市公民投票自治條例」草案，敬請審議。",
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為配合修正後之公民投票法，並使本自治條例更臻完善，爰擬具本修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府114年4月15日第693次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市公民投票自治條例」修正草案（含總說明、條文對照表及草案條文）1份。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
     "CheckDate": "2025\/06\/17",
-    "CheckDesc": "",
+    "CheckDesc": "114年6月17日審查結果如下：詳附件1會議紀錄、附件2審查意見報告書。\r\n一、修正通過，詳審查結果對照表(附件3)。\r\n二、法規委員會修正第八條第一項本文增加文字：「主管機關於收到公民投票提案或補正之提案後，應於三十日內完成審核。經審核有下列情事之一者，應敍明理由，通知提案人之領銜人於三十日内補正，並以一次為限，屆期未補正或經補正仍不符規定者，應予駁回:…」；\r\n第八條第一項第六款後段刪除文字：「六、提案內容相互矛盾、顯有錯誤或不能瞭解其提案真意者，經主管機關通知限期補正，屆期未補正或補正不完全。」\r\n法規委員會修正條文如下：\r\n第八條   主管機關於收到公民投票提案或補正之提案後，應於三十日內完成審核。經審核有下列情事之一者，應敍明理由，通知提案人之領銜人於三十日内補正，並以一次為限，屆期未補正或經補正仍不符規定者，應予駁回:\r\n一、提案非第三條規定之公民投票適用事項。 \r\n二、提案不合前二條規定。\r\n三、提案人未簽名或蓋章，或未填具本人國民身分證統一編號及戶籍地址，經刪除後致提案人數不足。\r\n四、提案人有第十二條第四項規定之情事，經刪除後致提案人數不足。\r\n五、提案有公投法第三十二條規定之情事。\r\n六、提案內容相互矛盾、顯有錯誤或不能瞭解其提案真意者。\r\n公民投票案經審核無前項各款情事者，主管機關應函請戶政機關於十五日內完成查對提案人。",
     "DoneDate": "",
     "DoneDesc": "",
     "SendDate": "",
@@ -26,7 +26,23 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=79c19d87-e317-43dd-ab46-b418aaa92ba8&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5d75eaf2-540c-40a6-9719-8f110b6d7149",
+            "FileName": "附件1---1140617會議紀錄-4-5定-法規巿提4-6號案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c6ac72d9-ea1f-4498-82e6-9208b1716e42",
+            "FileName": "附件2---4-5定--第2次巿提4案--審查意見報告書.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=70856aaa-9e97-4497-aebf-ccf1c79c6818",
+            "FileName": "附件3---審查結果對照表---4-5定法規巿提4-修訂「臺南市公民投票自治條例」草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "2025\/05\/27",
     "ReDesc": "",

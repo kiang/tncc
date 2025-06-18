@@ -11,7 +11,7 @@
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為確保本市畜牧產業永續發展，同時兼顧環境品質並增進民眾參與及促進溝通討論，爰擬具本修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經114年5月20日第698次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市新設置畜牧設施管理自治條例」第三條、第五條、第六條修正草案（含總說明、條文對照表及草案條文）乙份。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
     "CheckDate": "2025\/06\/17",
-    "CheckDesc": "",
+    "CheckDesc": "一、本案照案通過，詳如附件2會議紀錄、附件3審查意見報告書、附件4審查結果對照表。",
     "DoneDate": "",
     "DoneDesc": "",
     "SendDate": "",
@@ -28,8 +28,23 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=970c0fbd-7016-4399-9367-c34e0ea7da27&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f10a09c3-76ee-4ecd-b21e-f123cc726d73",
-            "FileName": "1140519召開「臺南市新設置畜牧設施管理自治條例」第三條、第五條、第六條修正草案公聽會會議紀錄（逐字稿）.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=795771d4-96bf-4c95-bbe3-5d7e7bf46b49",
+            "FileName": "附件1---1140519召開「臺南市新設置畜牧設施管理自治條例」第三條、第五條、第六條修正草案公聽會會議紀錄（逐字稿）.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=317c5007-4af6-4a9a-a6f7-51f77f8afa28",
+            "FileName": "附件2---1140617會議紀錄-4-5定-法規巿提4-6號案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=de45cc8b-b3ed-4b83-8186-a70b5666b8b2",
+            "FileName": "附件3---4-5定--第2次巿提6號案--審查意見報告書.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=708564d4-9883-4cfe-90b7-d6a1c340ee8a",
+            "FileName": "附件4---審查結果對照表---4-5定法規巿提6---臺南市新設置畜牧設施管理自治條例第三條、第五條、第六條修正草案.pdf",
             "ErrorMessage": ""
         }
     ],
