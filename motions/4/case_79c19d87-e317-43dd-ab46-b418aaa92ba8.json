@@ -28,7 +28,7 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=79c19d87-e317-43dd-ab46-b418aaa92ba8&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=33acf41a-18f9-4b1d-9439-2334a46bfa68",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b8b39559-c31b-4604-942c-8014c231ac79",
             "FileName": "附件1---1140617會議紀錄-4-5定-法規巿提4-6號案.pdf",
             "ErrorMessage": ""
         },

@@ -11,7 +11,7 @@
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為確保本市畜牧產業永續發展，同時兼顧環境品質並增進民眾參與及促進溝通討論，爰擬具本修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經114年5月20日第698次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市新設置畜牧設施管理自治條例」第三條、第五條、第六條修正草案（含總說明、條文對照表及草案條文）乙份。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
     "CheckDate": "2025\/06\/17",
-    "CheckDesc": "一、本案照案通過，詳如附件2會議紀錄、附件3審查意見報告書、附件4審查結果對照表。",
+    "CheckDesc": "本案照案通過，詳如附件2會議紀錄、附件3審查意見報告書、附件4審查結果對照表。",
     "DoneDate": "",
     "DoneDesc": "",
     "SendDate": "",
@@ -33,7 +33,7 @@
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8307d28a-683e-48d4-b039-b4f790c63349",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fa68b49a-d407-4b26-b85e-fc1b5a00fe48",
             "FileName": "附件2---1140617會議紀錄-4-5定-法規巿提4-6號案.pdf",
             "ErrorMessage": ""
         },
