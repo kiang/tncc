@@ -11,7 +11,7 @@
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為使投資獎勵項目、資格及條件，更加符合目前產業發展之實際現況，協助本市產業轉型，爰擬具「臺南市促進科技與新創產業發展自治條例」修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經114年4月9日第692次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市促進科技與新創產業發展自治條例」修正草案(含總說明、逐條說明及草案條文)1份。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
     "CheckDate": "2025\/05\/20",
-    "CheckDesc": "一、審查結論：詳附件3會議紀錄、附件4審查意見報告書、附件5審查結果對照表。\r\n1.修正通過。\r\n2.第1~19、第21~22條，照修正條文通過，現行條文第11、15條刪除。\r\n3.第20條法規委員會修正條文詳審查結果對照表。\r\n二、其他意見：法規巿提2號案，有關第12~13條投資人僱用本巿員工之認定及補助標準等相關資料，請在大會審查前送交本會。",
+    "CheckDesc": "一、審查結論：詳附件5會議紀錄、附件5-1審查意見報告書、附件5-2審查結果對照表。\r\n1.修正通過。\r\n2.第1~19、第21~22條，照修正條文通過，現行條文第11、15條刪除。\r\n3.第20條依照法規委員會修正通過，詳審查結果對照表。\r\n二、其他意見：法規巿提2號案，有關第12~13條投資人僱用本巿員工之認定及補助標準等相關資料，請在大會審查前送交本會。",
     "DoneDate": "",
     "DoneDesc": "",
     "SendDate": "",
@@ -19,8 +19,23 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=174d7530-1341-40f8-915f-182086804612",
-            "FileName": "4-5定法規市提2附件-修正「臺南市促進科技與新創產業發展自治條例」草案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=114c6ee5-9d5a-4cf8-8067-253d242c660d",
+            "FileName": "附件1--4-5定法規市提2附件-修正「臺南市促進科技與新創產業發展自治條例」草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7015ae9c-6f97-4e9e-ac57-a8200e75d7d0",
+            "FileName": "附件2--1140422公聽會會議紀錄--4-5定法規市提2.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=94b60d56-8f0d-4621-b888-28065d86f5c5",
+            "FileName": "附件3--1140424公聽會會議紀錄--4-5定法規市提2.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8b42a89f-b62b-414a-892b-dd478154f4ec",
+            "FileName": "附件4--1140616臺南巿促進科技與新創產業發展補助申請須知初稿、原公告文及申請須知.pdf",
             "ErrorMessage": ""
         }
     ],
@@ -28,33 +43,18 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a69dd6d0-72d4-46c8-a5c0-dc535dbcc2d7&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8ef2acaa-9f38-4282-8155-55a703de40aa",
-            "FileName": "附件1：1140422---召開「臺南市促進科技與新創產業發展自治條例」修正草案第1場公聽會會議紀錄.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=db1b6525-ebc5-4a0a-a01b-4cc98d7de20c",
+            "FileName": "附件5---1140520法規委員會第1次議案審查會議紀錄.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=89bcc784-06c8-42fc-9777-5867de8a7bbd",
-            "FileName": "附件2：1140424-召開「臺南市促進科技與新創產業發展自治條例」修正草案第2場公聽會會議紀錄.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9048630e-a911-4a0b-b27d-3cce294499da",
+            "FileName": "附件5-1---審查意見報告書--4-5定-法規巿提2~3號案.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9f61624c-89e0-42b6-8220-bbb45a0736c9",
-            "FileName": "附件3---1140520會議紀錄-4-5定-法規巿提2~3號案--修正「臺南市促進科技與新創產業發展自治條例」草案.pdf",
-            "ErrorMessage": ""
-        },
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=24a7ba51-d8af-4cf9-a596-24032d9c716e",
-            "FileName": "附件4--4-5定-法規巿提2~3號案審查意見報告書.pdf",
-            "ErrorMessage": ""
-        },
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=965c1efe-fdf5-4c05-9294-7bb5f652b636",
-            "FileName": "附件5---審查結果對照表-4-5定-法規巿提2--修正「臺南市促進科技與新創產業發展自治條例」草案.pdf",
-            "ErrorMessage": ""
-        },
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=85aaf05c-96c6-4a90-b4be-02999392b1d9",
-            "FileName": "附件6---1140616經發局函--產促補助申請須知、初稿、公告文及申請須知.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=26395ee4-4af3-42bc-bdb3-d88c1689a943",
+            "FileName": "附件5-2--審查結果對照表-4-5定法規巿提3-「臺南市法規標準自治條例」第十一條修正草案.pdf",
             "ErrorMessage": ""
         }
     ],

@@ -11,7 +11,7 @@
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為確保本市畜牧產業永續發展，同時兼顧環境品質並增進民眾參與及促進溝通討論，爰擬具本修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經114年5月20日第698次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市新設置畜牧設施管理自治條例」第三條、第五條、第六條修正草案（含總說明、條文對照表及草案條文）乙份。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
     "CheckDate": "2025\/06\/17",
-    "CheckDesc": "本案照案通過，詳如附件2會議紀錄、附件3審查意見報告書、附件4審查結果對照表。",
+    "CheckDesc": "本案照案通過，詳如附件32會議紀錄、附件3-1審查意見報告書、附件3-2審查結果對照表。",
     "DoneDate": "",
     "DoneDesc": "",
     "SendDate": "",
@@ -19,8 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3fc0be83-6959-4479-aeeb-8542b5ab4045",
-            "FileName": "4-5定法規巿提6號案總說明-擬具「臺南市新設置畜牧設施管理自治條例」第三條、第五條、第六條修正草案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=471985fb-9949-4471-aa72-5efa13f4505b",
+            "FileName": "附件1--4-5定法規巿提6號案總說明-擬具「臺南市新設置畜牧設施管理自治條例」第三條、第五條、第六條修正草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=dbaf397d-91c4-4635-97ce-7da8ef7a7cbb",
+            "FileName": "附件2---1140519召開「臺南市新設置畜牧設施管理自治條例」第三條、第五條、第六條修正草案公聽會會議紀錄（逐字稿）.pdf",
             "ErrorMessage": ""
         }
     ],
@@ -28,23 +33,18 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=970c0fbd-7016-4399-9367-c34e0ea7da27&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=795771d4-96bf-4c95-bbe3-5d7e7bf46b49",
-            "FileName": "附件1---1140519召開「臺南市新設置畜牧設施管理自治條例」第三條、第五條、第六條修正草案公聽會會議紀錄（逐字稿）.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=507e0a56-43e0-4f8b-9491-e0021ede7da7",
+            "FileName": "附件3---4-5定-1140617法規委員會第2次議案審查會議紀錄.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fa68b49a-d407-4b26-b85e-fc1b5a00fe48",
-            "FileName": "附件2---1140617會議紀錄-4-5定-法規巿提4-6號案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=84466c28-0ef7-4759-b2e2-5349f3295d56",
+            "FileName": "附件3-1----審查意見報告書---4-5定--巿提6號案.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b9315b37-b51a-4fa8-8345-ca72ea3c4ad4",
-            "FileName": "附件3---4-5定--第2次巿提6號案--審查意見報告書.pdf",
-            "ErrorMessage": ""
-        },
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=75df964e-f9c6-4e0b-8fa5-b27dff40b980",
-            "FileName": "附件4---審查結果對照表---4-5定法規巿提6---臺南市新設置畜牧設施管理自治條例第三條、第五條、第六條修正草案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2de10a26-5830-4371-b334-172ca9ab3cfa",
+            "FileName": "附件3-2---審查結果對照表---4-5定法規巿提6號案.pdf",
             "ErrorMessage": ""
         }
     ],
