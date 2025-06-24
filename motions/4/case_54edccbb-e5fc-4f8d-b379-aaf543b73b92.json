@@ -16,9 +16,25 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2025\/06\/16",
     "SendNumber": "南議工務字第 1140004606號",
-    "DoDesc": "",
+    "DoDesc": "本府就「建議臺南市政府推出防水閘門(板)補助計畫，以降低因暴雨引發的積淹水風險，保護市民的生命財產安全。」敬答覆如以下附件。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d6207573-17c9-427f-94aa-264218158575",
+            "FileName": "40267_0890215A00_ATTCH1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5a13c45a-7bb6-43a1-b1be-f8652b749286",
+            "FileName": "40267_0890215A00_ATTCH2.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=951d15de-dc3b-4514-8cf6-4b30c23e076b",
+            "FileName": "40267_0890215A00_ATTCH3.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=54edccbb-e5fc-4f8d-b379-aaf543b73b92&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +46,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/06\/24",
+    "ExecuteReNumber": "府水綜字第 1140890215號",
+    "ExecuteReMemo": "本府就「建議臺南市政府推出防水閘門(板)補助計畫，以降低因暴雨引發的積淹水風險，保護市民的生命財產安全。」敬答覆如以下附件。",
     "ErrorMessage": ""
 }
