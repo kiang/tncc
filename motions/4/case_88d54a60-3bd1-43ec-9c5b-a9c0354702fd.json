@@ -11,7 +11,7 @@
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"鑑於現行條文就自治規則報中央機關備查及地方立法機關查照之程序與地方制度法第二十七條第三項規定有別，爰擬具本修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府114年4月9日第692次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市法規標準自治條例」第十一條修正草案總說明、條文對照表、修正條文、市政會議審議紀錄及自治規則報備查相關規定比較表各1份。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
     "CheckDate": "2025\/05\/20",
-    "CheckDesc": "一、附件1、會議紀錄：臺南市政府擬具「臺南市法規標準自治條例」第十一條修正草案(4-5定-法規巿提3)，審查結論：照案通過，詳審查結果對照表。\r\n二、附件2，審查意見報告書。\r\n三、附件3，審查結果對照表。",
+    "CheckDesc": "照案通過，詳會議紀錄。",
     "DoneDate": "",
     "DoneDesc": "",
     "SendDate": "",
@@ -33,8 +33,8 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=88d54a60-3bd1-43ec-9c5b-a9c0354702fd&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7c729b0a-5dcf-49af-aa9b-3cd52d8c5cd5",
-            "FileName": "附件1---1140520會議紀錄-4-5定-法規巿提2~3號案--修正「臺南市促進科技與新創產業發展自治條例」草案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6b255e49-9e81-45cf-b422-dc159625f8d6",
+            "FileName": "1140425-4-5定-第1次會會議紀錄.pdf",
             "ErrorMessage": ""
         },
         {
