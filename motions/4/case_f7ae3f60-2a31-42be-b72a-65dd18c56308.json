@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "4",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李宗翰、郭鴻儀、林依婷、周嘉韋、蔡筱薇、余柷青、李鎮國、陳皇宇",
+    "OrgTitle2": "邱莉莉、林志展、蔡蘇秋金、蔡麗青、鄭佳欣、謝舒凡、朱正軒、黃麗招、陳秋宏、楊中成、李文俊、李啓維、王宣貿、黄肇輝、沈家鳳、邱昭勝、李宗霖、施余興望 Tjakumay Tagaw、沈震東",
+    "CaseCause": "鑒於已故張世賢議員生前關心白河區關子嶺大凍山、雞籠山登山步道環境維護，並有設置臨時停車場與公共廁所之遺願，為便利登山民眾及降低環境污染，建請市府儘速規劃於關子嶺登山步道入口設置臨時停車場及流動式或簡易公共廁所設施。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"關子嶺為臺南市著名風景區，登山客眾多，惟登山步道口周邊欠缺足夠停車空間及公共廁所，常造成民眾停車不便與如廁困擾，亦衍生環境衛生問題。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"已故張世賢議員生前長期耕耘白河區，對地方發展懐抱熱忱，尤重視登山環境與遊憩品質，曾明確表示希望市府能儘速設置便民設施，改善現況。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"為延續張議員對家鄉的關愛與承諾，亦為提升觀光品質、維護環境衛生，請市府重視此案，納入優先規劃與執行。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"建議市府相關局處（如觀光旅遊局、工務局、環保局）協同會勘評估，並於可行範圍內先行設置臨時停車空間與流動廁所，後續視使用情形評估永久設施之可行性。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/06\/27",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9da1a8e8-63d5-41c9-863a-e9e3b8a2a068",
+            "FileName": "議提4附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f7ae3f60-2a31-42be-b72a-65dd18c56308&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

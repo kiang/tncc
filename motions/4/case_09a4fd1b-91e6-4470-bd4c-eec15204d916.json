@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "214",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王宣貿",
+    "OrgTitle2": "邱莉莉、陳皇宇、陳怡珍、蔡育輝、李宗霖、蔡淑惠、楊中成、吳通龍、林冠維、Ingay Tali 穎艾達利、蔡筱薇、李啓維、施余興望 Tjakumay Tagaw",
+    "CaseCause": "建請儘速辦理下營區水池街排水設施及道路改善工程，以保障用路安全及提升居民生活品質。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"下營區水池街自174線道轉入之路段，缺乏排水溝設施，遇雨易有積水情形，且水池街102號前路面破損嚴重，嚴重影響通行安全與交通順暢。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"經里長會同住戶實地會勘，並已取得相關住戶之同意書，同意配合改善工程辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"為提升道路安全與環境品質，建請下營區公所儘速提案，並請市府工務局納入年度預算，辦理排水系統及道路整修等相關工程，以利早日改善現況，保障居民通行安全及生活品質。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2025\/06\/27",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a63c1bf7-fd27-423c-9a68-079ca8620047",
+            "FileName": "4-5定工務議提214附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=09a4fd1b-91e6-4470-bd4c-eec15204d916&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

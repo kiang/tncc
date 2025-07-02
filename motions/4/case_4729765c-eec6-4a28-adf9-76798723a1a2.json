@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "36",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "邱莉莉、吳通龍、李鎮國、林冠維、蔡淑惠",
+    "CaseCause": "請規劃南區新都路及新都路329巷附近停車場。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"郡南里活動中心啟用後，將有諸多活動在該場所舉辦，亦可出租場地供婚禮節慶之宴客使用，故將產生極大停車需求，惟目前鄰近之停車空間顯然不足以因應將來之大量交通。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為顧及郡南里活動中心鄰近之停車需求及地主權益，請規劃徵收鹽埕段3099-36及3105-45地號之土地，作為停車用地，以達成該活動中心之整體效用。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/06\/26",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1c232d56-e6b2-4dc0-b15d-393ead729b5f",
+            "FileName": "林美燕議員-規劃南區新都路及新都路329巷附近停車場.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4729765c-eec6-4a28-adf9-76798723a1a2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

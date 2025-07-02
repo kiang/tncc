@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "208",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王宣貿",
+    "OrgTitle2": "許至椿、陳皇宇、蔡育輝、Ingay Tali 穎艾達利、林冠維、李啓維、林美燕、周嘉韋、施余興望 Tjakumay Tagaw",
+    "CaseCause": "建請市府儘速修繕新營區隋唐路綠地邊坡，確保整體安全與景觀一致性。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"位於新營區隋唐路380號前之綠地，部分邊坡雖已完成修繕，惟周邊其他區段邊坡仍多處破損不堪，且整體修繕呈現前後不一致，影響視覺美觀及安全疑慮。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為維護公共設施整體性與安全性，建請市政府儘速派員會勘並全面修繕，完善綠地邊坡整體設施，確保市容整潔與通行安全。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2025\/06\/27",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3feee899-5cee-4577-98c7-d0acdec3f830",
+            "FileName": "4-5定工務議提208附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1cfe0176-20ec-4107-846f-f4c4cd4dee17&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

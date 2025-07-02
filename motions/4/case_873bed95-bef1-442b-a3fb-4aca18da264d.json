@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "78",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "Ingay Tali 穎艾達利、吳禹寰、周奕齊",
+    "OrgTitle2": "邱莉莉、周嘉韋、許至椿、周麗津、沈家鳳、李啓維、蔡筱薇、陳碧玉、杜素吟、方一峰",
+    "CaseCause": "建請市府積極更新低底盤公車普及率（尤以高齡化區域路線優先）及具棚座之候車站亭、併擴大隨招即停服務路線。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"按臺南市2025年5月底65歲以上市民人口計370,244人，已佔全市1857,639之19.93％，將屆WHO定義之超高齡化社會。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本市37區個別65歲以上人口佔比逾全市平均19.93％者計28區，已佔全市75.68％。其中>30％者計有龍崎區（34.89％）、左鎮區（33.32％）、大內區（30.53％）；>28％者計有後壁區、楠西區、白河區、南化區、東山區、玉井區等6區（詳如附表）。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"按臺南市交通局公開資料集「臺南市市區汽車客運業營運概況（https:\/\/reurl.cc\/9D2Dgv）」2024年7月最後更新資料，臺南市公車營運計有158條路線、488營運車輛中，低底盤車輛僅有280輛佔全數之57.38％。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"為便利長幼利用大眾運輸載具，尤以非城區高比例長者，實有全面普及低底盤公車率（並改善配套之乘車處候車區\/人行道緣石高度調整，以便與車門開闔處貼合）。復以前揭區域長者不克久站、且站點周邊不必然有遮日避雨處，宜優先改善候車環境；並為候車不便，建請研議持續擴大隨招即停路線與班車適用。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2025\/06\/26",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=71dbef82-b112-4837-b7a3-b61ed4e0c265",
+            "FileName": "Ingay Tali議員等-建請市府更新低底盤公車普及率_附表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=873bed95-bef1-442b-a3fb-4aca18da264d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

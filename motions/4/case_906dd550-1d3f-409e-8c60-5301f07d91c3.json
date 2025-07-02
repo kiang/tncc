@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "185",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "陳秋萍、趙昆原、周麗津、陳怡珍、李中岑",
+    "CaseCause": "建請市府規劃改善容易有棉絮之行道樹，如木棉樹、掌葉蘋婆、黑板樹及火焰木，其棉絮期已影響環境及民眾身體健康。(如附件)",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"請市府工務局針對容易影響環境及民眾健康之行道樹，加以管理，並規劃更換成影響環境及民眾健康最少之路樹，以維護民眾身體健康。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"日前為木棉花開季節，於住宅密度高社區，種植路樹所飄落之木棉，嚴重影響市民居家環境、衣物植裁，不勝其擾，建請已裁種路樹規劃移植，未種植部份儘量避免。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/06\/27",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c94a8f14-ebde-4299-84ae-71ad2b67d827",
+            "FileName": "4-5定工務議提185附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=906dd550-1d3f-409e-8c60-5301f07d91c3&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

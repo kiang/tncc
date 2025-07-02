@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "209",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王宣貿",
+    "OrgTitle2": "許至椿、余柷青、蔡育輝、Ingay Tali 穎艾達利、陳皇宇、李啓維、林冠維、林美燕、周嘉韋、施余興望 Tjakumay Tagaw",
+    "CaseCause": "建請市府儘速修繕鹽水區橋南里興隆橋人行鋪面，確保觀光安全與用路安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"位於鹽水區橋南里之「興隆橋」為月津港燈節重要通行橋樑，燈節期間人潮眾多，為當地觀光核心動線之一，該橋人行鋪面目前出現多處隆起不平情形，且欄杆底座亦有損壞情況，不僅影響市容整潔，亦有安全疑慮。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"據悉今年燈節期間，已發生遊客因人行道不平而絆倒受傷事件，顯見鋪面狀況對於觀光活動及行人安全造成實質影響。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"為保障民眾通行安全，並提升燈節整體觀光形象，建請市政府儘速派員會勘，針對鋪面與欄杆進行全面檢修與改善，以維護公共安全及鹽水觀光品質。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2025\/06\/27",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=95cf5559-29f8-4d2b-81f7-fae702530d09",
+            "FileName": "4-5定工務議提209附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fec90c5f-4bc5-4b68-8a51-81daa3524e06&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "33",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "Ingay Tali 穎艾達利",
+    "OrgTitle2": "邱莉莉、吳通龍、李宗霖、沈震東、李偉智、蔡淑惠、林美燕、許至椿、方一峰、陳怡珍、蔡育輝、沈家鳳、李鎮國、施余興望 Tjakumay Tagaw、李啓維、王宣貿、林冠維、蔡筱薇",
+    "CaseCause": "建請市府改善湯德章紀念公園周邊標示，避免資訊錯雜情形。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"第自1907年11月3日置日治時期臺灣第四任總督兒玉源太郎塑像、1916年改制大正公園、1945年後改名民生綠園、1998年改名湯德章紀念公園並置塑像迄今，合先敘明。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"惟於周邊指標未做一致化標示(參附圖位置於公園路西側與圓環交會處)，建請儘速改善或移置。(因該說明牌周圍有電箱、慢車道，恐不易達成解說之預設效益)\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2025\/06\/27",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7340faa1-472b-41d3-95c6-9b0f45bafa98",
+            "FileName": "議提33附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4f2f15ba-91ee-4295-a32b-f0b98350e0f3&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

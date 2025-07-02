@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "68",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "林冠維、吳禹寰、蔡宗豪、曾培雅、陳皇宇、蔡育輝",
+    "CaseCause": "請評估增設南區親水公園出入口之紅綠燈及斑馬線等",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本市南區濱南路（台17）是重要南境門戶道路與景觀要道，為除高速公路外，連接高雄之幹道，雖限速70公里，惟路況良好常導致駕駛疏忽而車速過快。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"南區親水公園則為本市親子活動聚集之處，然比鄰濱南路之出入口，須面對往來車速過快之車輛，該處亦無紅綠燈號及斑馬線等減速號誌，恐滋生交通安全之疑慮。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"故請評估在該處設置紅綠燈及斑馬線等號誌，促請經過之車輛減速，以利人車安全。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/06\/26",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9e57fe87-3e33-49d3-9128-936eceec6747",
+            "FileName": "林美燕議員-評估增設親水公園出入口號誌標線.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b7d8fd2f-c62f-4418-b64c-34fcc78d44b3&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

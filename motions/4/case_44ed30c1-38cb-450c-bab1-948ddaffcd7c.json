@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "81",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "吳通龍、許至椿、蔡麗青、蔡宗豪、李鎮國、楊中成、周奕齊、林冠維、方一峰",
+    "CaseCause": "請增設臺南航空站(奇美幸福工廠)之公車候車亭。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"南區臺南航空站為本市之門面，有許多搭乘公車接駁市區之民眾，且奇美幸福工廠亦為近年來市民及觀光客時常造訪之處所，但該處所之公車候車處竟無任何遮蔭之設施。(如附圖所示)\",\"children\":[]},{\"order\":\"二、\",\"content\":\"故為提供搭乘公車之民眾，以及拖持笨重行李之旅客良好之候車處所，請在該處增設遮蔭避雨之候車亭，給予友善之搭乘公車舒適設施及環境。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/06\/26",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1390d3f5-098d-43ac-a44f-ab3d9b05cba3",
+            "FileName": "林美燕議員-臺南航空站候車亭_附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=44ed30c1-38cb-450c-bab1-948ddaffcd7c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
