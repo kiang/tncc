@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "11",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "陳秋萍、Ingay Tali 穎艾達利、周麗津、趙昆原、陳怡珍、李中岑",
+    "CaseCause": "建請市府規劃在容易有棉絮之行道樹，像是木棉樹、掌葉蘋婆、黑板樹及火焰木，增加清潔人員清掃以維護民眾身體健康。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"日前依民眾陳情案件所述，木棉樹正值木棉季節，但其飄落之木棉已嚴重影響環境，也造成民眾維護環境負擔，其飄落木棉於晾曬的衣物、屋頂、花園、車道、通道地板到處都是，建請環保局研擬有效清理做法，宣導並協助清理社區公共區域，以維護環境整潔。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請市府環保局針對木棉嚴重影響民眾環境之區域，加強環境清潔，以降低環境髒亂及減少對民眾身體之傷害。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/06\/26",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5e473eea-ef9c-4f45-afe6-ef6ad87a72e1",
+            "FileName": "20250606104553.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f0584501-b5da-4eaa-99ad-3b3b01cc7bf8&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

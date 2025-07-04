@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "37",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡宗豪",
+    "OrgTitle2": "尤榮智、余柷青、林燕祝、盧崑福、林冠維",
+    "CaseCause": "建請市府儘速辦理更新協進國小協進館木質地板與兩側磨石地板，全面改使用PVC運動地板。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"協進國小長期培養籃球體育發展，協進館為小選手訓練之主要場地，先前設計1.2cm實木地板鋪設水泥基礎上，完全無緩衝彈性，對於學生膝踝衝擊極大。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"場地將近20年未更新木質地板因長期磨損，完全光滑止滑效果差，以致學生訓練或是舉辦臺南市籃球賽事學生因地滑造成骨折、骨裂、扭傷、拉傷不斷，磨石地板也容易造成擦傷、挫傷。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"建請市府針對協進國小協進館全面檢視，儘速辦理場地全面更新成PVC運動地板。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/06\/26",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8954e08a-c664-411d-bad5-ca4758c44dc7",
+            "FileName": "定4-5議提附件-體育局-協進國小協進管改PVC地板.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=89c499a9-6d52-4a8d-9124-158498e4533f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

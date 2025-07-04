@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "44",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林冠維",
+    "OrgTitle2": "吳禹寰、蔡宗豪",
+    "CaseCause": "建請臺南市政府敬老卡交通優惠增加搭乘計程車之補助。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"現行臺南市敬老卡市內交通優惠僅提供持卡長者憑卡免費乘坐本市公車。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"惟臺北市、新北市、桃園市、臺中市及高雄市敬老卡更擴及搭乘計程車一定金額之補助，以高雄市為例，每月最高有1,200點額度可供使用。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"臺南市幅員廣大，偏鄉交通網路建置不足，為照顧長者就醫需求及鼓勵外出社交參與，建請市府敬老卡交通優惠增加搭乘計程車之補助，提供長者更便利且全面的關照。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/06\/26",
+    "CheckDesc": "函送市府研議。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9442911c-2184-49a7-ad47-c26fc1045292",
+            "FileName": "六都敬老卡福利比較.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2cd88b10-123c-4640-8f91-6cd369b5ca0d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

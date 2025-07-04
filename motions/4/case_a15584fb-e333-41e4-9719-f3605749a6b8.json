@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "21",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝",
+    "OrgTitle2": "方一峰、李中岑、林美燕、陳皇宇、吳禹寰、鄭佳欣、吳通龍、蔡淑惠、周奕齊、林冠維",
+    "CaseCause": "建議臺南市政府經發局行文中央，協助將柳營太康段622地號等27筆台糖特定農業區(詳附件)，同意變更為一般農業用地，以利日後規劃為柳營科技園區第四期用地，延續園區發展動能，強化地方產業競爭力。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"柳營科技園區自設立以來，已陸續推動三期330.7公頃產業用地，成功吸引多家優質企業進駐，對地方產業發展及就業機會創造貢獻良多。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"今年5月15日在院會上宣布智慧機器人產業聚落確定落腳在柳營，柳營科技工業區第3期將成為台灣最大的機器人量產基地。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"鑑於柳營科技園區目前用地即將飽和，應前瞻規劃未來產業用地需求，建議臺南市政府積極推動本案變更作業，並儘早行文中央爭取支持，共同打造南臺灣產業發展新引擎。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/06\/27",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=04b190b0-d8d8-4a55-ba84-cb429c4772d3",
+            "FileName": "定4-5-柳科-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a15584fb-e333-41e4-9719-f3605749a6b8&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

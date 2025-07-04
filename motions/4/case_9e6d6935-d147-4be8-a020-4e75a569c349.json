@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "68",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王宣貿",
+    "OrgTitle2": "邱莉莉、蔡育輝、蔡淑惠、楊中成、陳怡珍、李宗霖、陳皇宇、林冠維、李啓維、Ingay Tali 穎艾達利、蔡筱薇、吳通龍、施余興望 Tjakumay Tagaw",
+    "CaseCause": "建請市政府儘速改善新營區新民國小地墊設施，以維護學生安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"新營區新民國小校內地墊設施已嚴重損壞，恐影響學生上課活動與休閒時間之安全。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為避免學生發生跌倒、擦傷等意外情形，建請市府相關單位儘速勘查，並整體改善及其周邊連貫區域，確保校園安全無虞。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2025\/06\/26",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6eee8769-0eb0-40b3-877f-6e6408d160e5",
+            "FileName": "定4-5議提附件-教育局-新營區新民國小地墊.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9e6d6935-d147-4be8-a020-4e75a569c349&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

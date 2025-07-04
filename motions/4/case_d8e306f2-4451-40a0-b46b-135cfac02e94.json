@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "71",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王宣貿",
+    "OrgTitle2": "Ingay Tali 穎艾達利、蔡育輝、蔡筱薇",
+    "CaseCause": "建請臺南市政府協助改善新營國小活動中心前地磚積水問題。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"新營國小活動中心前鋪設地磚區域，每逢下雨即發生嚴重積水情形，影響師生通行安全及校園環境品質。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"經查係因地勢低及排水系統不良所致，亟需進行地磚重鋪及排水改善作業。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"為維護學生安全與活動空間之使用效能，建請臺南市政府儘速協助改善，並研議編列相關預算辦理。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2025\/06\/26",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=93a6e8b6-978a-409c-ac0d-c50cb5e9b0d1",
+            "FileName": "定4-5議提附件-教育局-新營國小地磚積水.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d8e306f2-4451-40a0-b46b-135cfac02e94&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

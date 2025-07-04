@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "35",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王宣貿",
+    "OrgTitle2": "邱莉莉、蔡育輝、蔡淑惠、楊中成、陳怡珍、李宗霖、陳皇宇、林冠維、吳通龍、Ingay Tali 穎艾達利、李啓維、蔡筱薇、施余興望 Tjakumay Tagaw",
+    "CaseCause": "建請臺南市政府協助改善白河國小校園草地設施，確保學生運動安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"白河國小草地為校園體育課程及各項運動訓練（如棒球）之重要場域，使用頻率高，為學生主要活動空間。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"惟該草地目前有高低不平及草皮耗損情形，易造成學生運動時跌倒受傷，影響安全與教學品質。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"請市府儘速研擬草地整平及草皮更新之可行辦法，並列入改善計畫，以提升校園環境品質與學生使用安全。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2025\/06\/26",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c6ab3d02-0c17-4e94-b275-f19eb3b28687",
+            "FileName": "定4-5議提附件-體育局-白河國小草皮改善.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b3f0cbd5-0a00-4e06-9e69-86e2f07db2f2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

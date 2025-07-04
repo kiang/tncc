@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "64",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "黃麗招、施余興望 Tjakumay Tagaw、楊中成、林美燕、陳秋宏、沈家鳳",
+    "CaseCause": "建請市府增設衛福部臺南醫院配備的血壓測量機（血壓計）數量。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"衛福部臺南醫院前身為日治時期的「臺南病院」，至今已有超過128年的歷史，1945年臺灣光復後，改名為「省立臺南醫院」目前為衛生福利部所屬的綜合教學醫院，總院位於臺南市中西區中山路125號，致力於提供全面的醫療服務，近年來配備多項先進的醫療儀器。也正因為是臺南區域內重要的醫院卻連基本配置的血壓測量機都引起民怨(如附件)，如何致力於優良醫療體系之內。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/06\/26",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=223e94df-8d93-4945-a887-e88b71e03237",
+            "FileName": "20250502122200.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=dee2db43-9fc9-486c-ae59-7b615a37a881&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

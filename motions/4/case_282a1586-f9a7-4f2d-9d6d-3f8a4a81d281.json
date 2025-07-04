@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "Ingay Tali 穎艾達利、施余興望 Tjakumay Tagaw",
+    "OrgTitle2": "邱莉莉、李宗霖、朱正軒、蔡育輝、沈震東、林美燕、趙昆原、許至椿、沈家鳳、陳怡珍、李啓維、李偉智、吳通龍、方一峰、蔡淑惠、王宣貿、李鎮國、林冠維",
+    "CaseCause": "建請市府精進曾文市政願景園區之空調環境、無障礙設施與防鳥措施，俾便行政辦公與市民利用之安全與衛生友善環境。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"按2025年臺南市政府正式接管麻豆區首府大學校區，並規劃以「曾文市政願景園區」為名之第三市政中心，以提供公共多元服務，便利曾文地區市民就近洽公之便，合先敘明。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"然曾文園區前為校園，並未設置中央空調系統，致以遷入或規劃遷入機關單位含辦公空間與規劃公共使用處所皆不利於人員利用，恐有失公共環境之設置初衷效益，亟待改善。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"又原校園樓層雖設有緩解段差坡道，惟並無扶手、醒目提醒、指標，乃至坡道地面為光滑地磚(參附圖一)，於建築設施供年輕師生使用時代雖尚有餘，但於開放供曾文區市民使用時恐有致險之安全疑慮，亟待改善。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"另按環境周邊安宜、生態豐富，故園區高樓層露台多有鳥類棲息。然亦同時造成糞尿落羽堆積，恐有衍生環境衛生疑慮(參附圖二)。建請規劃友善對應處置、適宜清理頻度，並規劃高樓層防鳥撞擊作為(防窗殺)，惟應注意禁止使用有害餌藥、禁用防鳥膠等違反生態友善作為。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2025\/06\/26",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ef56af59-bd0b-4dd6-beaa-3be81e437752",
+            "FileName": "定4-5議提附件-秘書處-曾文市政園區環境改善.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=282a1586-f9a7-4f2d-9d6d-3f8a4a81d281&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

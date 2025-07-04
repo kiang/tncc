@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "15",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "吳通龍、蔡育輝、余柷青、鄭佳欣、陳皇宇、許至椿",
+    "CaseCause": "請重新購置體育園區内之推手館運動設施及場地重整。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市立極限運動場後方之推手館啟用迄今已逾70年，各項運動設施均已鏽蝕而陳舊不堪，除無法正常使用外，亦隱藏易使使用者受傷之危險。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"該處所並因年久失修，地板高低不平，屋頂常有漏水，柱體油漆亦已脫落斑駁，嚴重影響該處所之美觀，故請確實投入資源，整建該處所之軟硬體設備。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/06\/26",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3052d377-400b-4225-8ee5-0c511b71fb2d",
+            "FileName": "定4-5議提附件-體育局-體育園區推手館運動設施.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2c568e84-4ee7-4164-ba50-ff8307dd611e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
