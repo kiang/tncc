@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "254",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "陳秋萍、周麗津、Ingay Tali 穎艾達利、趙昆原、陳怡珍、李中岑",
+    "CaseCause": "安定區港口滯洪池區内道路旁土方崩塌，為避免破損坡面擴大，應儘速確認其損害情況，進行修復，並應儘速清淤，維持滯洪池納水功能。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"港口滯洪池區中，部分坡面土基流失嚴重，似有影響本區道路或坡面安全狀況。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案件依民眾陳情案件，如附件圖示，某些土方疑似大雨沖刷，導致崩塌情況發生，為維護其安全性，請市府儘速處理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"另本滯洪池內土方長期缺水，已被植物長期生長，嚴重影響集水區的納水容量，應即刻安排清淤，維持滯洪池納水功能。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/06\/27",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0179fffb-6c29-48be-900e-d8746c34e937",
+            "FileName": "4-5定工務議提254附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=02b31960-ea66-4c57-98f0-343b199a4229&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

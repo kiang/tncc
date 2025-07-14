@@ -17,13 +17,7 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=06685192-92e6-4e55-a7fe-d7cddc4b1072",
-            "FileName": "建設第7號案附件.pdf",
-            "ErrorMessage": ""
-        }
-    ],
+    "AttList": [],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fe88ed7c-0d74-49c8-a6af-3e6f3b9ee7ad&type=pdf",
     "CheckAttList": [],

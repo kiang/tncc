@@ -616,6 +616,28 @@
         "PagesAll": "55"
     },
     {
+        "DoneDate": "2025\/04\/25",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府經濟發展局",
+        "CaseCause": "制定「臺南市休閒娛樂事業管理自治條例」草案，敬請審議。",
+        "ProNo": "a69ed85e-34f0-4210-857f-c16dec317245",
+        "PagesAll": "55"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "6",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "擬具「臺南市新設置畜牧設施管理自治條例」第三條、第五條、第六條修正草案，敬請審議。\r\n",
+        "ProNo": "970c0fbd-7016-4399-9367-c34e0ea7da27",
+        "PagesAll": "55"
+    },
+    {
         "DoneDate": "2025\/07\/02",
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "財經",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "余柷青",
         "CaseCause": "建請市府積極辦理新化區新化農地重劃區 E82 農路改善工程。",
         "ProNo": "fb0691ed-90a8-4382-8264-fc52fc93cc9b",
-        "PagesAll": "55"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "43",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請市政府編列預算辦理柳營區「篤農農地重劃區東幹一路(補邊)改善工程」，以維護農民人車通行安全。",
-        "ProNo": "e709fab0-217e-4409-bd2e-5dad645bebae",
-        "PagesAll": "55"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "44",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請市政府編列預算辦理「鹽水區農地重劃區東路6-36改善工程」，以維護農民人車通行安全。",
-        "ProNo": "5a889828-9b27-4b98-96ae-6b9bdf9baebb",
         "PagesAll": "55"
     }
 ]

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第5次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "258",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳秋宏",
+    "OrgTitle2": "王宣貿、林依婷、陳皇宇、蔡蘇秋金、謝舒凡、黄肇輝、楊中成、沈家鳳",
+    "CaseCause": "麻豆區北勢里尪祖廟段174-1地號排水為老舊鵝卵砌石護岸、並有破損掏空情形，建請整治改善，以提升東北勢排水支流防洪效能。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/06\/27",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2025\/07\/02",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f06b6221-69fa-4827-b4e7-06b13c4a1be7",
+            "FileName": "4-5定工務議提258附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c37b378b-fcdf-4dcf-898d-b50a31f4b428&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
