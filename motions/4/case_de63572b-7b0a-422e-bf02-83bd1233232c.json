@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2025\/06\/13",
     "SendNumber": "南議工務字第 1140004361號",
-    "DoDesc": "",
+    "DoDesc": "本府就「建請市府儘速辦理歸仁區民權六街161巷、中山路三段138巷及文化街三段18巷路面改善工程，以利民眾通行安全。」案，敬答覆如下：\r\n本案本府工務局於114年4月24日與議員及區公所等相關人員會勘會勘，刨鋪長度共計271公尺，面積1597平方公尺，金額共新臺幣88萬7,000元，全案已改善完成。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e84d2756-df0c-4c81-a179-e5b838701417",
+            "FileName": "4-5定工務議提20回函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=de63572b-7b0a-422e-bf02-83bd1233232c&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/07\/15",
+    "ExecuteReNumber": "府工務三字第 1140963648號",
+    "ExecuteReMemo": "本府就「建請市府儘速辦理歸仁區民權六街161巷、中山路三段138巷及文化街三段18巷路面改善工程，以利民眾通行安全。」案，敬答覆如下：\r\n本案本府工務局於114年4月24日與議員及區公所等相關人員會勘會勘，刨鋪長度共計271公尺，面積1597平方公尺，金額共新臺幣88萬7,000元，全案已改善完成。",
     "ErrorMessage": ""
 }
