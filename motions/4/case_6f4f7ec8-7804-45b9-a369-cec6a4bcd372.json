@@ -18,7 +18,13 @@
     "SendNumber": "南議工務字第 1140004528號",
     "DoDesc": "",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7ea1b9ca-8e4f-41f3-9d69-4a4fbb8943b4",
+            "FileName": "府工務二字第1140948358號-公文.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6f4f7ec8-7804-45b9-a369-cec6a4bcd372&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
+    "ExecuteReDate": "2025\/07\/14",
+    "ExecuteReNumber": "府工務二字第 1140948358號",
     "ExecuteReMemo": "",
     "ErrorMessage": ""
 }

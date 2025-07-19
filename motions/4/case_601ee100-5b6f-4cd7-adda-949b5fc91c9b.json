@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第9次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "8",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "",
+    "ComeNumber": "府農輔字第 1141024676 號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "農業部農村發展及水土保持署核定「臺南市0121地震受災地區休閒農業產業紓困計畫」案，經費564萬元(全額中央補助款)，因未及納入本府114年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據農業部農村發展及水土保持署114年7月4日農保休字第1142661555號函及114年7月10日農保休字第1142661563號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款及第45點，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"本案係辦理「臺南市0121地震受災地區休閒農業產業紓困計畫」，為紓解本市因0121震災造成休閒農業經營困難，獎勵轄內已公告受災地區內之休閒農業場域之場域環境整頓、產品及料理服務優化及推廣行銷，以穩定業者生計、維持市場能見度。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本案農業部農村發展及水土保持署核定經費564萬元(全額中央補助款)，因未及納入本府114年度總預算，為爭取時效，謹請貴會同意先行墊付，俟115年度總預算時再予轉正。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案經本府114年7月22日第707次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案係紓解本市因0121震災造成休閒農業經營困難，以穩定業者生計、維持市場能見度，故於本會期提出墊付申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度總預算時再予轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=627773d5-ef12-40d9-aca3-34e7c57911f4",
+            "FileName": "04-財經8號.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=601ee100-5b6f-4cd7-adda-949b5fc91c9b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
