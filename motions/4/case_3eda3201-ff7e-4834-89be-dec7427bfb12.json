@@ -3,8 +3,8 @@
     "PTypTitle": "財經",
     "CaseNumber": "4",
     "KidTitle": "市府提案-墊付款案",
-    "ComeDate": "",
-    "ComeNumber": "",
+    "ComeDate": "2025\/07\/17",
+    "ComeNumber": "府經場工字第1141022284號",
     "OrgTitle": "臺南市政府經濟發展局",
     "OrgTitle2": "",
     "CaseCause": "經濟部核定114年度「臺南市楠西公有零售市場建築物耐震能力拆除重建工程計畫」，為爭取時效，謹請貴會同意先行墊付1,155萬1,000元（含中央補助款981萬8,000元及市配合款173萬3,000元），俾憑辦理後續相關作業事宜，俟115年度總預算時再予轉正，敬請審議。",
@@ -17,7 +17,23 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3db8bd02-073c-46eb-a670-b92c4d7af32d",
+            "FileName": "財經4-工程計畫書.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7eac6bc4-1a5f-424f-b6e5-ad9dd1df3f6c",
+            "FileName": "財經4-附件.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=33327b1c-47b4-4dd0-890f-b41f4e70fed5",
+            "FileName": "財經4中央核定文.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3eda3201-ff7e-4834-89be-dec7427bfb12&type=pdf",
     "CheckAttList": [],
