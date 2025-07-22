@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2025\/07\/08",
     "SendNumber": "南議民教字第 1140005814號",
-    "DoDesc": "",
+    "DoDesc": "本府就「新營區南瀛綠都心公園內之全民運動館硬體建築即將完成，建請盡快重建原有設置於公園內之體健設施與兒童遊樂設施，以嘉惠新營區市民。」，敬答覆如下：\r\n1. 本府體育局辦理新營區全民運動館新建工程，拆除原有體健與兒童遊樂設施，並以經費新臺幣1,000萬元規劃全新之共融遊戲場及體健設施，預計於115年7月完工，完工後將提供民眾免費、安全且多元之嶄新設備。\r\n2. 因應民眾於工程施工期間仍有使用需求，本府工務局已協助於鄰近區域新購置全新8座體健設施，其中數座與原有設施功能性相同，提供民眾免費使用。\r\n3. 承蒙貴會暨議席對於市政之關切及熱忱，本府至為感謝，尚請不吝賜教。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=641e7749-40c2-4b53-9eac-644625c366f1",
+            "FileName": "定4-5-議提13-體育局覆南瀛綠都心公園體建設施.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3aa53907-983d-4b8e-82ec-627b379793b9&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/07\/18",
+    "ExecuteReNumber": "府體設字第 1141013037號",
+    "ExecuteReMemo": "本府就「新營區南瀛綠都心公園內之全民運動館硬體建築即將完成，建請盡快重建原有設置於公園內之體健設施與兒童遊樂設施，以嘉惠新營區市民。」，敬答覆如下：\r\n1. 本府體育局辦理新營區全民運動館新建工程，拆除原有體健與兒童遊樂設施，並以經費新臺幣1,000萬元規劃全新之共融遊戲場及體健設施，預計於115年7月完工，完工後將提供民眾免費、安全且多元之嶄新設備。\r\n2. 因應民眾於工程施工期間仍有使用需求，本府工務局已協助於鄰近區域新購置全新8座體健設施，其中數座與原有設施功能性相同，提供民眾免費使用。\r\n3. 承蒙貴會暨議席對於市政之關切及熱忱，本府至為感謝，尚請不吝賜教。",
     "ErrorMessage": ""
 }

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第9次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "13",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市政府社會局",
+    "OrgTitle2": "",
+    "CaseCause": "衛生福利部核定補助本市「114年度強化社會安全網第二期計畫─策略二保護性人力」增加經費新臺幣451萬3,000元整乙案（中央全額補助），因未及納入本府114年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據衛生福利部114年6月30日衛部護字第1141460631號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費9,879萬8,000元整，其中已納入114年度預算編列9,428萬5,000元，增加經費451萬3,000元整（中央全額補助），因未及納入本府114年度總預算，為爭取時效，謹請貴會同意先行墊付，俟115年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年7月22日第707次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：配合行政院調增114年度軍公教員工待遇，衛生福利部調整核定金額，另為積極辦理本局家庭暴力暨性侵害防治業務推展，倘墊付案未能及時通過，將影響本市保護性社工人力進用。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2488c643-6ee8-4e4d-a2e5-02851fc7a68c",
+            "FileName": "附件-114年度強化社會安全網第二期計畫─策略二保護性人力.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=20c22937-6c18-4ca9-ba9a-28776fa0a4a1&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
