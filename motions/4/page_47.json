@@ -4,6 +4,39 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "13",
+        "OrgTitle": "周嘉韋、沈家鳳",
+        "CaseCause": "建請評估「雙層觀光公車巴士」繼續行駛之必要性。",
+        "ProNo": "2af2fdf9-0a48-4c03-be05-decc20a4b2f4",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "14",
+        "OrgTitle": "周嘉韋",
+        "CaseCause": "建請評估「西門路三段禁止機慢車」之存在必要性。",
+        "ProNo": "c2b9782b-a1c0-41fb-82cd-220ba57725f4",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "15",
+        "OrgTitle": "周嘉韋、沈家鳳",
+        "CaseCause": "舊式公車站牌汰換。",
+        "ProNo": "5a343822-b9bc-43fe-b8c5-0e745acb9c7a",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "16",
         "OrgTitle": "周嘉韋、沈家鳳",
         "CaseCause": "共享電動機車長期占用路邊停車格之問題。",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "黄肇輝",
         "CaseCause": "建請交通局於永康區龍潭派出所前、五王國小前、安康里長億城公園附近增設U-Bike站點。",
         "ProNo": "b363b057-342d-4011-a4ae-9101d9f7b336",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "113",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "建請市府研議增加公車路線，由新化站直達奇美醫院，以利民眾就醫搭乘。",
-        "ProNo": "01f1b006-dbbf-4777-93c3-d1b4d2ff0f12",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "114",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "永康區永興路目前無公車路線行經，請市府規劃公車路線服務永康里及網寮里市民。",
-        "ProNo": "90f7836d-bd30-4c78-a751-dba60ec779ce",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "115",
-        "OrgTitle": "林燕祝、尤榮智、方一峰",
-        "CaseCause": "建請市府交通局於說明四之地點規劃設置YouBike站點。",
-        "ProNo": "29c4505d-336e-4222-9486-f3ee5e5e85a9",
         "PagesAll": "56"
     }
 ]

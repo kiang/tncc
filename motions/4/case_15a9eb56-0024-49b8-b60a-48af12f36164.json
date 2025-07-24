@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第9次 臨時會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/07\/16",
+    "ComeNumber": "府原綜字第1141029997號",
+    "OrgTitle": "臺南市政府原住民族事務委員會",
+    "OrgTitle2": "",
+    "CaseCause": "文化部核定本府114年「博物館及地方文化館深耕計畫」，其中「臺南市原住民文物館搬遷暨空間優化裝修工程」114年度計畫經費，市配款資本門新臺幣(以下同)171萬5,000元未及納入本(114)年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度編列總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據文化部114年5月27日文源字第1143014905號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款「經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」及第45點第2、3款規定辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"旨揭計畫獲文化部核定，總經費614萬4,000元(中央補助款430萬元，市配合款184萬4,000元)，中央補助款由本市市立博物館納入預算委由本會代辦。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"上開市配合款184萬4,000元，其中經常門12萬9,000元擬以114年度預算支應；資本門171萬5,000元未及納入本(114)年度總預算，為利計畫執行時效，擬請先行辦理墊付，俟115年度總預算時辦理轉正。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府114年7月15日第706次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案係原住民文物館搬遷及空間裝修工程經費，為配合永康社教中心圖書館優化工程期程，預計自114年度下半年辦理發包，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ce808275-b3a9-4b40-a0c0-7caff4e5c05e",
+            "FileName": "民教(原民會)-附件(核定函及計畫書)修正.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=15a9eb56-0024-49b8-b60a-48af12f36164&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
