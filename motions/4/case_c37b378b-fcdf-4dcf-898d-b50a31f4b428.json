@@ -16,7 +16,7 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2025\/07\/16",
     "SendNumber": "南議工務字第 1140006315號",
-    "DoDesc": "",
+    "DoDesc": "本府就「麻豆區北勢里尪祖廟段174-1地號排水為老舊鵝卵砌石護岸、並有破損掏空情形，建請整治改善，以提升東北勢排水支流防洪效能。」案，敬答覆如下：\r\n一、旨揭地號水路現況為2.5~3m 寬砌石溝，長度約50m，其上下游已依下水道規劃報告改善為WxH=3.5x2.4m 矩形溝。\r\n二、為推動改善工程，113年7月17日本府水利局召開用地協調說明會，邀集地主協調用地及地上物(果樹、造景樹、池)，因未取得共識且砌石溝尚穩定不予改建。\r\n三、丹娜絲颱風過後，本府水利局114年7月21日勘查砌石溝妥善性仍屬完好。",
     "AttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f06b6221-69fa-4827-b4e7-06b13c4a1be7",
@@ -24,7 +24,13 @@
             "ErrorMessage": ""
         }
     ],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=dbc7df34-a281-4cbb-86af-58babbcb7cf5",
+            "FileName": "4-5定工務議提258回函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c37b378b-fcdf-4dcf-898d-b50a31f4b428&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -36,8 +42,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/07\/23",
+    "ExecuteReNumber": "府水工字第 1141052313號",
+    "ExecuteReMemo": "本府就「麻豆區北勢里尪祖廟段174-1地號排水為老舊鵝卵砌石護岸、並有破損掏空情形，建請整治改善，以提升東北勢排水支流防洪效能。」案，敬答覆如下：\r\n一、旨揭地號水路現況為2.5~3m 寬砌石溝，長度約50m，其上下游已依下水道規劃報告改善為WxH=3.5x2.4m 矩形溝。\r\n二、為推動改善工程，113年7月17日本府水利局召開用地協調說明會，邀集地主協調用地及地上物(果樹、造景樹、池)，因未取得共識且砌石溝尚穩定不予改建。\r\n三、丹娜絲颱風過後，本府水利局114年7月21日勘查砌石溝妥善性仍屬完好。",
     "ErrorMessage": ""
 }

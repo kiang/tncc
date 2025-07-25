@@ -17,13 +17,7 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2488c643-6ee8-4e4d-a2e5-02851fc7a68c",
-            "FileName": "附件-114年度強化社會安全網第二期計畫─策略二保護性人力.pdf",
-            "ErrorMessage": ""
-        }
-    ],
+    "AttList": [],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=20c22937-6c18-4ca9-ba9a-28776fa0a4a1&type=pdf",
     "CheckAttList": [],
