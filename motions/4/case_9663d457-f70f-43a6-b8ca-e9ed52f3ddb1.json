@@ -17,7 +17,18 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fdd1f6bd-9e5f-4afa-ac04-5e40ac001edb",
+            "FileName": "113年審核報告-口頭報告.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ea2302e3-9025-41ff-9113-4c206f70fa40",
+            "FileName": "113年度臺南市總決算暨附屬單位決算及綜計表審核報告.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9663d457-f70f-43a6-b8ca-e9ed52f3ddb1&type=pdf",
     "CheckAttList": [],

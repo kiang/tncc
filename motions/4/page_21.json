@@ -2,6 +2,17 @@
     {
         "DoneDate": "2024\/08\/22",
         "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "7",
+        "OrgTitle": "吳通龍",
+        "CaseCause": "建請市府正視社區民眾福利，全額補助台南市官田區東西庄活動中心加裝冷氣機，落實台南成為社會福利友善的溫暖城市。",
+        "ProNo": "57c27517-3aff-4ffa-9a71-81a5e120f19a",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
         "PTypTitle": "建設",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "沈家鳳",
         "CaseCause": "建請臺南市政府水利局全面檢修抽水機、抽水站及所屬設備，並定期進行試運轉，確保需要時能正常運作。",
         "ProNo": "9bc42056-bb62-4150-b90d-96759fadd6d4",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2024\/08\/22",
-        "GradeTime": "第4屆 第6次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "60",
-        "OrgTitle": "沈家鳳",
-        "CaseCause": "為解決鹽水區岸內里、文昌里、歡雅里每遇大雨或颱風的淹水問題，建請水利局對岸內排水主流進行整治，並在岸內排水與田寮排水低地規劃滯洪池及加強抽水機佈設。",
-        "ProNo": "ff9119ea-9447-40da-9942-88ef97d9096f",
         "PagesAll": "56"
     }
 ]

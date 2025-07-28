@@ -473,6 +473,17 @@
         "PagesAll": "56"
     },
     {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "法規",
+        "KidTitle": "議員提案-市法規案",
+        "CaseNumber": "1",
+        "OrgTitle": "周嘉韋、林依婷、謝舒凡、李宗翰",
+        "CaseCause": "修正「臺南市市區道路管理自治條例」第四條、第七條、第九條、第十八條、第二十八條等條文。",
+        "ProNo": "57052312-a10a-46b9-b8d0-656ff22f07c9",
+        "PagesAll": "56"
+    },
+    {
         "DoneDate": "2025\/07\/02",
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "民政教育",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "蔡育輝",
         "CaseCause": "請市政府編列預算改善「新營國小活動中心冷氣空調設備」，以優化教學環境品質。",
         "ProNo": "b13fa64e-699a-4bf3-8ee4-b52de7c263fd",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "48",
-        "OrgTitle": "余柷青",
-        "CaseCause": "因應114學年度取消自由學區，建請教育局更積極查訪居住事實，落實在地就學之目標，讓真正在地學生不因寄戶口(寄居)的狀況而被排擠。",
-        "ProNo": "bacfe5d5-1bc2-4df7-9e9e-2692dd31c993",
         "PagesAll": "56"
     }
 ]
