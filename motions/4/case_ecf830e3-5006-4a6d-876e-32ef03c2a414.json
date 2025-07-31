@@ -19,6 +19,11 @@
     "DoDesc": "",
     "AttList": [
         {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=13d65b51-9072-437b-8f16-ef45eb1c4591",
+            "FileName": "3號案-補充說明.pdf",
+            "ErrorMessage": ""
+        },
+        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8dc644e2-2f7c-46be-9145-810a823fbe30",
             "FileName": "市提3附件.pdf",
             "ErrorMessage": ""

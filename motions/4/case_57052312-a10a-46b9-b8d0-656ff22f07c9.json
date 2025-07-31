@@ -26,9 +26,15 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=57052312-a10a-46b9-b8d0-656ff22f07c9&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=361e9010-96ff-41d8-8dc3-94a6107b10ba",
+            "FileName": "1140728--4-9臨第1次程委會會議紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
-    "ReDate": "",
+    "ReDate": "2025\/07\/28",
     "ReDesc": "",
     "FirstDate": "",
     "FirstDesc": "",

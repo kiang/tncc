@@ -19,7 +19,12 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ebd9b6f0-8359-47c9-8992-3270ec3dee14",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1039109c-bf32-4c97-9163-6ad3a30c01f4",
+            "FileName": "4-5定 環衛市提第12號案-補充資料.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8f3465aa-6598-4acf-b5cd-182385e49b21",
             "FileName": "4-5定-環保衛生12號案-附件-無障礙福利之家A棟耐震補強工程.pdf",
             "ErrorMessage": ""
         }

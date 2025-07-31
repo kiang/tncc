@@ -27,6 +27,11 @@
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b82b31a6-d25a-47f1-972b-bb0ce6191f46",
             "FileName": "4-5定 環衛市提第1號案-市府來文附件.pdf",
             "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a713ba6e-37cd-4ed2-9acf-6488ad0f35af",
+            "FileName": "4-5定 環衛市提第1號案-補充資料.pdf",
+            "ErrorMessage": ""
         }
     ],
     "RAttList": [],
