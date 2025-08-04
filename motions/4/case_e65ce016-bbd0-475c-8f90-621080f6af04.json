@@ -19,6 +19,11 @@
     "DoDesc": "",
     "AttList": [
         {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=83f5d540-a315-4fc0-8b73-90f97185fb04",
+            "FileName": "4-9臨 環衛市提第11號案 補充資料.pdf",
+            "ErrorMessage": ""
+        },
+        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a67cbaf2-bad4-4ef3-8d57-61bf537d64a9",
             "FileName": "4-9臨 環衛市提第11號案-附件.pdf",
             "ErrorMessage": ""
@@ -28,7 +33,7 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e65ce016-bbd0-475c-8f90-621080f6af04&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
-    "ReDate": "",
+    "ReDate": "2025\/07\/28",
     "ReDesc": "",
     "FirstDate": "",
     "FirstDesc": "",
