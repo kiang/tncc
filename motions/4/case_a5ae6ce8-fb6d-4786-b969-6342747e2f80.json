@@ -26,7 +26,18 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a5ae6ce8-fb6d-4786-b969-6342747e2f80&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bea88578-411b-4fd9-b64c-35a627798810",
+            "FileName": "「提升高科技廠房救災量能暨建構區域聯防機制五年中程計畫墊付案」補充資料.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a19ea2c4-93d0-4c80-becf-9e5a17683105",
+            "FileName": "市府來函.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "2025\/04\/17",
     "ReDesc": "照聯席審查意見同意墊付。",
