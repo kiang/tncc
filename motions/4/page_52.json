@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "民政教育",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "43",
+        "OrgTitle": "蔡麗青",
+        "CaseCause": "建請於本市安南區淵東里活動中心四樓設置冷氣空調。",
+        "ProNo": "6b075d1f-b68c-4f9c-a2af-2f8719e4f107",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "44",
+        "OrgTitle": "黃麗招",
+        "CaseCause": "建請台南市政府針對安南區公所編列預算原地重建。",
+        "ProNo": "db681c8c-e982-4196-8492-d0a94da4046f",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "45",
         "OrgTitle": "王宣貿",
         "CaseCause": "建請民政局將柳營祿園殯儀館前方景觀池評估改建成停車場或其他設施。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "鄭佳欣",
         "CaseCause": "建請市府協助仁德區中華醫事大學公車亭之建置。",
         "ProNo": "f4f9a5f3-e7e1-49cf-bc9c-bcedc024d5d4",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "23",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府規劃新化區北勢里公車路線，以利民眾使用。",
-        "ProNo": "07503476-8808-4c71-a7b9-9bf70fe8b264",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "24",
-        "OrgTitle": "吳通龍",
-        "CaseCause": "建請市府規劃南瀛天文館周邊新增設停車場，以解決入園參觀民眾停車需求。",
-        "ProNo": "33566411-7ee9-4693-9aab-da237be3cbd3",
         "PagesAll": "56"
     }
 ]

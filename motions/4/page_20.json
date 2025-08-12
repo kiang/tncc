@@ -2,6 +2,28 @@
     {
         "DoneDate": "2024\/12\/02",
         "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "289",
+        "OrgTitle": "王宣貿",
+        "CaseCause": "建請臺南市政府於鹽水火車站周圍或步道周邊設置體健設施。",
+        "ProNo": "da9d1920-18af-4b79-b9c1-7195e2b51277",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "人民請願案-人民請願案",
+        "CaseNumber": "1",
+        "OrgTitle": "",
+        "CaseCause": "請求儘速訂定違章建築強制拆除收費標準自治條例或轉請市府以法規命令訂定收費標準。",
+        "ProNo": "71706048-2129-4e03-a968-1ce61ef54c84",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規查照案",
         "CaseNumber": "1",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "蔡育輝",
         "CaseCause": "建請市府苦民所苦，放寬補助標準及補助對象，讓一般住户及商家可申請屋內淹水補助，並調高補助金額，減少民眾財產損失。",
         "ProNo": "1d467085-06e2-4883-8619-01eef123cd4b",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2024\/08\/22",
-        "GradeTime": "第4屆 第6次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "5",
-        "OrgTitle": "陳怡珍、Ingay Tali 穎艾達利、趙昆原、林冠維",
-        "CaseCause": "有關臺南市居家式托育人員準公共化托育服務收費規定到宅托育人員上限兩萬四千元不合理乙案，本席建請臺南市政府應儘速評估改善。",
-        "ProNo": "0bdad896-3d75-4eff-8dc1-38436a0e6dba",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2024\/08\/22",
-        "GradeTime": "第4屆 第6次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "余柷青、邱莉莉、林志展、李文俊",
-        "CaseCause": "建議新化舊果菜市場現址興建衛福大樓將3樓空間規劃為親子悠遊館。",
-        "ProNo": "788ea028-6edb-478b-bbdf-82c1cf658cf2",
         "PagesAll": "56"
     }
 ]

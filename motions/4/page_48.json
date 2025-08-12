@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "110",
+        "OrgTitle": "黄肇輝",
+        "CaseCause": "建請交通局於永康區三村國小大門前、臺南應用科技大學大門前或後門增設U-Bike站點。",
+        "ProNo": "fee17e89-31df-4f14-b968-88f58417472e",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "111",
+        "OrgTitle": "黄肇輝",
+        "CaseCause": "建請交通局於永康區武龍宮廟埕、崑山公園內、崑山科技大學大門前增設U-Bike站點。",
+        "ProNo": "284cfeb1-d1cc-46ec-a2fa-d39044545f1b",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "112",
         "OrgTitle": "黄肇輝",
         "CaseCause": "建請交通局於永康區龍潭派出所前、五王國小前、安康里長億城公園附近增設U-Bike站點。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "請辦理麻豆區北勢里南59線部分道路改善工程，因年久失修，路面龜裂，破損嚴重，影響交通，急須辦理改善，以利交通。",
         "ProNo": "4059e82f-f025-43aa-a85d-bd72967ac65f",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "81",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理麻豆區海埔里南49區道側溝改善工程，因年久失修，砌石溝破損嚴重，影響排水，急須辦理改善，以利杜絕淹水問題。",
-        "ProNo": "ab324ae8-2490-4de1-8916-dfd52a8f4d72",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "82",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請改善市道318線自南廍(台一線)至二鎮工業區南113線路止，因年久失修，破損嚴重，急須辦理改善，以利行車安全",
-        "ProNo": "50d249a4-06e6-43b5-91c1-f83dd004b7c6",
         "PagesAll": "56"
     }
 ]

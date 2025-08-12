@@ -299,6 +299,28 @@
     {
         "DoneDate": "",
         "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "6",
+        "OrgTitle": "林冠維、周奕齊",
+        "CaseCause": "建請市府編列補助「設籍本市嬰幼兒免費口服輪狀病毒疫苗接種」經費。",
+        "ProNo": "32970aaf-a4ff-4c23-bb8e-5f9d1daadc0d",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "11",
+        "OrgTitle": "林冠維、周奕齊",
+        "CaseCause": "建請市府編列預算，推辦「好孕專車」，以減輕孕婦產檢及就醫的交通負擔，確保孕期照護品質。",
+        "ProNo": "700bb8d4-0b0e-48aa-82e8-3d2fd99d256f",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第9次 臨時會",
         "PTypTitle": "建設",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "蔡育輝",
         "CaseCause": "請市政府編列預算裝設「新進國小校園通學步道四周圍牆警監視器設備」，以維護校園師生安全。",
         "ProNo": "6aa27511-25d5-4e4a-a9de-13874ed38e66",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "46",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "請市政府編列預算合理調高特殊教育職務加給，以利於吸引與留任優秀的特教師資。",
-        "ProNo": "61fb6dc9-f815-47c0-941b-4a250e1836c6",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "47",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "請市政府編列預算改善「新營國小活動中心冷氣空調設備」，以優化教學環境品質。",
-        "ProNo": "b13fa64e-699a-4bf3-8ee4-b52de7c263fd",
         "PagesAll": "56"
     }
 ]

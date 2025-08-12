@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "99",
+        "OrgTitle": "李宗翰",
+        "CaseCause": "山區農路因山陀兒颱風侵襲損壞，建請市府編列預算修復。",
+        "ProNo": "9c7dbaf7-9710-44e9-838d-724988e4b1ff",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "100",
+        "OrgTitle": "鄭佳欣",
+        "CaseCause": "近期農民反映釋迦與竹筍因氣候異常受災嚴重，建請市府針對釋迦與竹筍受損情形進行全面性勘災評估，研擬補助或協助措施。",
+        "ProNo": "4f70544b-7e27-4ffa-9334-473966b6f058",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "101",
         "OrgTitle": "陳秋宏",
         "CaseCause": "麻豆區海埔里大山段804地號因未設置擋土牆，造成柏油路面坍塌，建請改善。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "林志展、陳秋宏、周嘉韋",
         "CaseCause": "建請市政府檢討並改善居家服務派案制度，強化居服員安全與權益保障，建立透明、公平且有效的派案與申訴機制，確保居服員的工作尊嚴與安全。",
         "ProNo": "fc1602b1-248a-4d67-a0a7-24101a91423d",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "55",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府研議提升府內社工人員之相關福利，積極保障其勞動權益。",
-        "ProNo": "96ed4a4f-2b34-4bce-895f-a9d9e5142d33",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "56",
-        "OrgTitle": "蔡筱薇",
-        "CaseCause": "建請社會局提供身障教保員公費投保意外險。",
-        "ProNo": "d3cd8153-c45c-4b69-b5e1-5652cf13e583",
         "PagesAll": "56"
     }
 ]

@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第5次 臨時會",
         "PTypTitle": "民政教育",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "22",
+        "OrgTitle": "蔡秋蘭",
+        "CaseCause": "建請臺南市政府辦理佳里區鎮山里延平路59巷、59巷13弄柏油路重新整治工程。",
+        "ProNo": "a35acb82-c8a3-4d37-a3c2-bec5dbf59f3f",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "23",
+        "OrgTitle": "黄肇輝",
+        "CaseCause": "建請市府辦理永康區網寮里永和街282巷道改善工程，以保障民眾通行之安全。",
+        "ProNo": "52616ca1-eb9b-43e2-badf-4357e1613209",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "24",
         "OrgTitle": "黄肇輝",
         "CaseCause": "建請市府辦理永康區成功里中華一路1巷巷道改善工程，以保障民眾通行之安全。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "李宗霖",
         "CaseCause": "建請市府優先於本市東區東門路（東門圓環至崇學路）開放直接左轉，以減少左轉車與直行車輛衝突。",
         "ProNo": "d1eba007-21e7-43da-96a1-89dbb62450b8",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "20",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府優先於本市東區崇德路（全段）開放直接左轉，以減少左轉車與直行車輛衝突。",
-        "ProNo": "917fdd46-3586-42f6-b6ec-8d8ee4fac702",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "21",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府優先於本市東區東寧路（東寧路西段至裕農路）開放直接左轉，以減少左轉車與直行車輛衝突。",
-        "ProNo": "578f3cce-1d3c-4210-9a2f-59eb25b05447",
         "PagesAll": "56"
     }
 ]
