@@ -1,5 +1,115 @@
 [
     {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府經濟發展局",
+        "CaseCause": "修正「臺南市促進科技與新創產業發展自治條例」草案，敬請審議。",
+        "ProNo": "a69dd6d0-72d4-46c8-a5c0-dc535dbcc2d7",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "3",
+        "OrgTitle": "臺南市政府法制處",
+        "CaseCause": "臺南市政府擬具「臺南市法規標準自治條例」第十一條修正草案，提請審議。",
+        "ProNo": "88d54a60-3bd1-43ec-9c5b-a9c0354702fd",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "4",
+        "OrgTitle": "臺南市政府民政局",
+        "CaseCause": "修正「臺南市公民投票自治條例」草案，敬請審議。\r\n",
+        "ProNo": "79c19d87-e317-43dd-ab46-b418aaa92ba8",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "5",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "擬具「臺南市淺海牡蠣養殖管理自治條例」第六條、第十七條修正草案，敬請審議。",
+        "ProNo": "59095331-156e-434f-a3bd-7499ce3355e6",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "6",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "擬具「臺南市新設置畜牧設施管理自治條例」第三條、第五條、第六條修正草案，敬請審議。\r\n",
+        "ProNo": "970c0fbd-7016-4399-9367-c34e0ea7da27",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2025\/06\/04",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "議員提案-市法規案",
+        "CaseNumber": "1",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "臺南市房屋稅徵收率自治條例第三條修正草案，敬請審議。",
+        "ProNo": "ade65369-35b6-4fc6-9b35-ac9370cb14d7",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "臨時動議",
+        "KidTitle": "臨時動議-臨時動議",
+        "CaseNumber": "1",
+        "OrgTitle": "余柷青",
+        "CaseCause": "面臨教育人力不足之狀況，臺南市政府應保障代理教師合理待遇，參酌教育部114年6月27日正式公告「臺教授國部字第1145502437A號」，修正之《高級中等以下學校兼任代課及代理教師聘任辦法》，建請市府積極研擬建立代理教師之年資提敘制度，用以完善臺南市師資人力網絡，避免因制定辦法不彰導致人才外流至其他縣市，也避免徒增未來教育人才招聘之困難。",
+        "ProNo": "c6bed131-26b8-43f0-9105-4235c5dfb423",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "臨時動議",
+        "KidTitle": "臨時動議-臨時動議",
+        "CaseNumber": "2",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請臺南市政府儘速檢討修正「臺南市新設置畜牧設施管理自治條例」，對公告列入易淹水地區之農牧用地應禁止新設置畜牧設施之申請及刪除第五條第一項第五款但書一併納入規範，以免影響周邊居民、農作物及禽畜安全。",
+        "ProNo": "a2978ff3-b494-4bc5-9eaa-536798cc4d64",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2025\/06\/04",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "會務",
+        "KidTitle": "議員提案-會務案",
+        "CaseNumber": "1",
+        "OrgTitle": "邱議長莉莉",
+        "CaseCause": "本會擬與澎湖縣議會締結姐妹會，以持續推動雙方議會交流，敬請審議。",
+        "ProNo": "a2d6fe7d-b636-45e7-a9e5-2c41db6ac05e",
+        "PagesAll": "56"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府各區公所",
+        "CaseCause": "農業部農田水利署補助本市永康區公所辦理「114年度蜈蜞潭分線健走活動」計畫，總經費計新臺幣58萬元整（中央補助50萬元、市配合款8萬元），中央補助50萬元部分，因未及納入本府114年度總預算，為爭取時效，謹請貴會同意先行墊付，俟115年度總預算時辦理轉正，敬請審議。",
+        "ProNo": "0bab6e79-304f-4c36-a5e9-13458134ed7e",
+        "PagesAll": "56"
+    },
+    {
         "DoneDate": "2025\/03\/20",
         "GradeTime": "第4屆 第8次 臨時會",
         "PTypTitle": "民政教育",
@@ -987,116 +1097,6 @@
         "OrgTitle": "林美燕",
         "CaseCause": "請臺南市政府警察局將進修人員職缺調整至直屬單位，原缺額以補實或由直屬隊派員支援。",
         "ProNo": "2f8b393f-b275-4070-af25-9d41f4863b35",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "5",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請市府於勝利路與懷恩街口增設監視器，以提升社區安全與交通管理效能。",
-        "ProNo": "4180d589-4be6-4229-9a32-b2938c57b482",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "黄肇輝",
-        "CaseCause": "建請消防局於本市各分隊人員執勤致訴訟時，應提供相關法律上協助。",
-        "ProNo": "64cd7579-ba17-4e26-a0d7-99a85dce5060",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "7",
-        "OrgTitle": "黄肇輝",
-        "CaseCause": "建請消防局儘速設置火場管制相關標準作業程序。",
-        "ProNo": "9f865f33-3571-4817-94d7-96fe6bce3aa3",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "8",
-        "OrgTitle": "Ingay Tali 穎艾達利、陳怡珍、周奕齊",
-        "CaseCause": "建請市府重新檢視並改善立體停車場無障礙設施，並請統整工務單位與社會局各無障礙小組，於公共設施之設計規劃階段即納入無障礙意見，俾便落實長幼無障礙友善政策精神。",
-        "ProNo": "61b95055-462e-4e29-ab83-f033fba9b670",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "9",
-        "OrgTitle": "王家貞",
-        "CaseCause": "建請市政府在東區各地公車停靠站，建置公車等候亭。",
-        "ProNo": "73bdd26c-4ff0-46cf-89d2-b5e1790e39fc",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "10",
-        "OrgTitle": "陳怡珍",
-        "CaseCause": "有關增設臺南市公車路線，由海東國小、海尾起始，途經喜樹至臺南高鐵站乙案，本席建請臺南市政府應儘速評估。",
-        "ProNo": "d7c0436f-1175-4971-ad8d-5c18d67f0769",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "11",
-        "OrgTitle": "林依婷",
-        "CaseCause": "建請市府配合交通部，擴大機車駕訓補助計畫。",
-        "ProNo": "d4d2b254-652b-427a-b535-5fad23b2edf0",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "12",
-        "OrgTitle": "林依婷",
-        "CaseCause": "建請市府優先於學區附近無號誌、閃光號誌路口，規劃減速平台抬升行穿線，並加強燈光照明。",
-        "ProNo": "aba7ecb5-5fb4-4572-875f-516d727775b2",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "13",
-        "OrgTitle": "林冠維、周奕齊",
-        "CaseCause": "請市府盤點永康區重要路口增設偏心式左轉車道，避免左轉車輛因停等紅燈造成塞車。",
-        "ProNo": "145e66bf-b715-4501-ac23-4c3f881fe5f7",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "14",
-        "OrgTitle": "黄肇輝",
-        "CaseCause": "建請市府於永康區龍潭里中山北路499巷與中山北路461巷8弄路口增設減速標線及停等標誌，以維護行人權益，增進交通效率。",
-        "ProNo": "132003c4-d6c7-4273-81f2-d14ecc9af8ea",
         "PagesAll": "56"
     }
 ]

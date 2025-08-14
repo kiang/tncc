@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第9次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "2",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "李文俊、陳秋宏、楊中成",
+    "CaseCause": "建請市府為因應捷運藍線與地方發展需求，加速永康區中華路成功里「停五」、「停六」、「細公(兒)四」、「細兒八」等公有設施預定地規劃，以接軌地方快速發展下，預期之交通風險及公園使用需求。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"如附圖，永康中華路交通壅塞，有兵仔市、中華路商圈等大量人口與交通流量，現捷運藍線可望於2026年開始動工，勢必增加此區域整體總負荷能量，市府勢必須加速此區域公有設施預定地規劃，完善並解決地方困境。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6236f210-aa11-4c6b-8298-40a42909df76",
+            "FileName": "李鎮國議員-捷運藍線規劃加速發展永康區中華路周邊，因應交通風險及公園需求.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fa307eb7-3bc8-4d79-8680-73a1d6feff2f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
