@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2025\/08\/15",
+    "ComeNumber": "府都設字第1140988019號",
+    "OrgTitle": "臺南市政府都市發展局",
+    "OrgTitle2": "",
+    "CaseCause": "為修正「臺南市空地空屋管理自治條例」部分條文，擬具本修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為修正明定本自治條例其主管機關及各目的事業主管機關之管轄權、因應防疫需求且配合相關稅務減免酌作文字修正、另為利查報及違規事實之認定管理，並使本自治條例更臻完善，爰擬具本修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本草案業經本府114年7月8日第705次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市空地空屋管理自治條例」部分條文修正草案（含草案總說明、草案條文對照表及草案條文）1份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=af1cecb0-bd25-4038-9142-c100cbeae265",
+            "FileName": "4-6定-法規巿提1-空地屋管理自治條例(都發局).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=497d0a03-b1dc-4ecd-8552-24c95651624c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
