@@ -1,5 +1,852 @@
 [
     {
+        "DoneDate": "2023\/10\/27",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "5",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "行政院農業委員會核定本府112年度「疫後增進畜牧業經濟韌性協助措施-禽舍改建升級計畫」案，經費2,708萬元整(中央全額補助款)，因未及納入112年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時再予轉正，敬請審議。",
+        "ProNo": "9a28ca4b-4525-4983-90ed-5baa3a81a957",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/10\/27",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "6",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "農業部林業及自然保育署核定本府「112年度臺南市推動竹材產業新興發展計畫」案，經費68萬9,000元(中央補助款61萬2,000元，市配合款7萬7,000元)，因未及納入112年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時再予轉正，敬請審議。",
+        "ProNo": "8eb0bd02-b701-4a35-a9a0-c11ce402f6e8",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/10\/27",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "7",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "農業部漁業署同意補助辦理113年度「養殖漁業振興計畫」工程需求案，總經費新台幣245萬6,000元(中央補助款122萬8,000元、市配合款122萬8,000元)，因未及納入112年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時再予轉正，敬請審議。",
+        "ProNo": "bfcb63f6-7c40-40dc-ba75-48c9a6655fc7",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/10\/27",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "8",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "農業部動植物防疫檢疫署核定本府「112年度臺南市荔枝椿象成蟲防治計畫」案，經費110萬元整(中央補助款100萬元，市配合款10萬元)因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加(減)預算時辦理轉正，敬請審議。",
+        "ProNo": "544c71a7-49bd-49f3-8a12-d9187eab2399",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/10\/27",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "9",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "農業部農糧署南區分署核定本府112年「臺南市果樹產業生產設施與設備-示範溫網室設施計畫」案，經費411萬元(全額中央補助款)因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加(減)預算時再予轉正，敬請審議。",
+        "ProNo": "f8efb77e-6760-4ea7-bbf7-8b4a783157fb",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/10\/27",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "10",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "農業部農糧署南區分署核定本府「臺南市112年芒果多元循環經濟利用計畫」案，經費82萬5,000元(全額中央補助款)，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加(減)預算時再予轉正，敬請審議。",
+        "ProNo": "608c9be4-1b28-4519-bad9-94f9af0bfc29",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "13",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "農業部農糧署南區分署核定本府「112年度臺南市有機及友善農業生產及加工設備計畫(第2階段)」案，經費187萬3,000元整(全額中央補助款)因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加(減)預算時辦理轉正，敬請審議。",
+        "ProNo": "fda5547b-550d-4358-941d-8a8322d84b4f",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "14",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "農業部農糧署核定本府「112年度臺南芒果青果市場收購加工計畫」案，經費11萬2,000元(中央全額補助)，因未及納入113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時再予轉正，敬請審議。",
+        "ProNo": "a588081b-fe49-418e-abc0-c73eec324bdd",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "15",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "農業部同意本府辦理「2023年臺南文旦暨農產海外拓銷計畫」案，經費新臺幣300萬(中央全額補助款)因未及納入113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請審議。",
+        "ProNo": "feea0262-97ed-445d-bed9-ff59b91aef08",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "16",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "農業部漁業署核定本府「臺南市北門漁港西側及南側碼頭加高工程設計工作」案，經費200萬元整(中央補助款100萬元、市配合款100萬元)，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加(減)預算時辦理轉正，敬請審議。",
+        "ProNo": "7515fdbd-a488-416b-95eb-ddc978b31ec2",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "17",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "農業部動植物防疫檢疫署核定本府「112年友善環境植物保護資材推廣計畫」案，經費追加231萬8,000元(全額中央補助款)因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請審議。",
+        "ProNo": "21f31af8-64ba-4baa-8956-4da74e31a03e",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "18",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "農業部農糧署同意本府112年「國產有機質肥料推廣計畫(南區分署)」案，經費追加5,121萬7,000元(全額中央補助款)，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請審議。",
+        "ProNo": "8d2c4b39-8039-47bb-9a02-635e6612e7d4",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "19",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "農業部農糧署核定本府112年「國產微生物肥料及農田地力肥料推廣計畫(南區分署)」案，經費追加20萬1,000元(全額中央補助款)因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請審議。",
+        "ProNo": "1b03022f-c0f2-4718-9068-b9f27603b512",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "20",
+        "OrgTitle": "臺南市政府地政局",
+        "CaseCause": "農業部農田水利署核定本市112年度「農地重劃區緊急農水路改善-地方政府執行」計畫案經費增加新台幣68萬3,000元(中央補助款53萬9,000元、本市配合款14萬4,000元)，因未及納入112年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請審議。",
+        "ProNo": "28cd92cb-dd93-49a0-be1e-8efbc25bce13",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "21",
+        "OrgTitle": "臺南市政府地政局",
+        "CaseCause": "農業部農田水利署核定本市112年度「農地重劃區緊急農水路改善-地方政府執行」計畫案經費增加新台幣784萬8,000元(中央補助款620萬1,000元、本市配合款164萬7,000元)，因未及納入112年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請審議。",
+        "ProNo": "e938e591-6d6d-46d2-8128-3bb9ac2647b0",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-一般提案",
+        "CaseNumber": "11",
+        "OrgTitle": "臺南市政府財政稅務局",
+        "CaseCause": "為辦理讓售本府經管坐落本市官田區二鎮段二鎮小段 441 地號等 8 筆非公用市有土地，謹依土地法第 25 條規定之處分程序，敬請審議。",
+        "ProNo": "9eb6abd5-1628-4980-a599-94891daeeee3",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-一般提案",
+        "CaseNumber": "12",
+        "OrgTitle": "臺南市政府財政稅務局",
+        "CaseCause": "為辦理標售本府經管坐落本市歸仁區歸仁北段1044-57地號非公用市有土地，謹依土地法第25條規定之處分程序，敬請審議。",
+        "ProNo": "1c909828-4b56-448b-ae02-14898c35c71c",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/12\/21",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-總預算案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府主計處",
+        "CaseCause": "本市 113 年度總預算案及總預算案附屬單位預算及綜計表，業經編製完竣，敬請 審議。",
+        "ProNo": "8ed1edd9-9389-4b2e-ac24-b13589e2632a",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "1",
+        "OrgTitle": "蔡筱薇",
+        "CaseCause": "建請設置台南小巨蛋專案推動小組。",
+        "ProNo": "5b1d24ed-ca62-4aeb-869a-75391e62f2f5",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "沈震東",
+        "CaseCause": "建請財稅局審慎評估星鑽地區開發規劃與星鑽段2411地號及地政局星鑽段2410地號共同開發之可行性。",
+        "ProNo": "4b8ec2b3-e73e-4693-9456-4677dffdb833",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "3",
+        "OrgTitle": "王宣貿、沈震東、余柷青、郭鴻儀",
+        "CaseCause": "請市府統籌盤點各局處管理之土地，加以活化運用或招商開發，以獲取穩健財源挹注市政建設。",
+        "ProNo": "2b951ec6-eb16-45ff-9a00-3ba37cd8c3d3",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "4",
+        "OrgTitle": "林美燕",
+        "CaseCause": "建請臺南市政府市場處儘速改善安平市場之廢汙水處理系統。",
+        "ProNo": "d888f748-dca2-49bf-ae4f-ba740fe05a4f",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "5",
+        "OrgTitle": "林美燕",
+        "CaseCause": "建請臺南市政府市場處儘速落實安平市場電梯設備汰換更新工程。",
+        "ProNo": "60ec6ee7-390d-400b-af80-6e1681c41fdf",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "6",
+        "OrgTitle": "陳秋萍",
+        "CaseCause": "建請檢討森霸電廠回饋金機制，評估將永康納入回饋範圍。",
+        "ProNo": "5b22da05-e6a0-445f-b328-e0ab42860d0d",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "7",
+        "OrgTitle": "林冠維、周奕齊",
+        "CaseCause": "為進行本市污水下水道到達公告區域內｢公有市場內部汙水管線銜接至本府水利局汙下水道接管｣改善環境衛生乙案，懇請市府編列年度預算施作。",
+        "ProNo": "a86a180c-f12c-4a62-8c78-5129a2b5b5d0",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "8",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請辦理六甲市場二樓閒置空間規劃作六甲羽球館，提供六甲區老人青少年運動場所，以增進社會祥和。",
+        "ProNo": "67c9dfbb-cdc4-47b1-88d4-3e4c20577f2b",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "9",
+        "OrgTitle": "郭鴻儀",
+        "CaseCause": "建請市府跨局處整合，建置工廠危險物品留置存放即時系統，便於救災時判斷救災方式等依據。",
+        "ProNo": "f9b19f43-4e7d-422a-83e3-c9c020a9db12",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "10",
+        "OrgTitle": "蔡筱薇",
+        "CaseCause": "危險物品管理多頭馬車，無一統合機制。",
+        "ProNo": "90bbdbab-ae2e-47c8-8027-82f17ad6b187",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "11",
+        "OrgTitle": "郭鴻儀",
+        "CaseCause": "建請市府專案辦理仁德公有零售市場振興，活絡市場買氣提升攤位進駐率。",
+        "ProNo": "929e23e9-eeef-45a9-ba68-284b9dfafd8a",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "12",
+        "OrgTitle": "蔡宗豪、方一峰",
+        "CaseCause": "建請經發局市場處偕同環保局，於各市場增設資源循環箱。",
+        "ProNo": "f5876df4-844a-486c-a1c0-e5b3f13deb79",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "13",
+        "OrgTitle": "蔡宗豪",
+        "CaseCause": "請臺南市政府向中央建議，將符合特定工廠登記辦法第2條條件而未申請納管的工廠，再放寬接受納管期限。",
+        "ProNo": "eecf74e2-6311-4013-b554-ffb01ca5bdf4",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "14",
+        "OrgTitle": "蔡筱薇、蔡蘇秋金、陳秋宏、謝舒凡",
+        "CaseCause": "建請相關單位加強協助業者媒合工業區土地。",
+        "ProNo": "7c7a087c-af47-46e8-a780-cea5a92466d9",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "15",
+        "OrgTitle": "蔡筱薇",
+        "CaseCause": "建請相關單位提升屋頂型太陽能光電補助。",
+        "ProNo": "6e8e4595-f52d-480c-b006-66f084ee078f",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "16",
+        "OrgTitle": "周嘉韋",
+        "CaseCause": "建請臺南市政府針對高風險工廠進行聯合稽查，降低潛在風險。",
+        "ProNo": "010b210d-120e-4d80-a0d0-8f79fe93a83e",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "17",
+        "OrgTitle": "杜素吟",
+        "CaseCause": "建請市府建立危險物品檢查、覆查機制並積極爭取經費制訂獎勵制度。",
+        "ProNo": "3017a970-ebdf-4157-b9f5-a0c65d221aab",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "18",
+        "OrgTitle": "林志展",
+        "CaseCause": "因應能源轉型，佈建能源設施時，市政府應強化社會風險溝通及用地規劃。",
+        "ProNo": "926d736f-58fa-481a-aafc-e4eb7d3d6be0",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "19",
+        "OrgTitle": "林志展",
+        "CaseCause": "建請市政府積極提出善化區及山上區之地方創生專案計畫。",
+        "ProNo": "1207aeca-5a5f-489a-8ec3-f71387f3d688",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "20",
+        "OrgTitle": "盧崑福、王家貞、蔡淑惠",
+        "CaseCause": "建請市政府審慎評估安平區安平公有零售市場的觀光價值，重整市場活絡，創造令人流連忘返的休閒購物「好去處」，締造更加分的觀光價值及產業收入。",
+        "ProNo": "788a2f10-9269-40af-a0bc-45a077a52298",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "21",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請市府加強崇德市場內部與周遭環境改善，並針對市場建物做好耐震補強工程，以維護攤商與民眾安全。",
+        "ProNo": "4d477cdc-2984-4d26-aae0-0ef3009a9462",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "22",
+        "OrgTitle": "林美燕、盧崑福、蔡淑惠、王家貞",
+        "CaseCause": "安平市場汙水系統更換處理及汰換冷氣機冷卻水塔。",
+        "ProNo": "fd9721a1-c87f-4709-b883-c33a62bfd99a",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "23",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請市政府編列預算辦理「柳營區太康段1123-2地號農路路面老舊破損修繕」、「柳營區五軍營段1388-2地號農路路面老舊破損修繕」、「柳營區五軍營段1359-4地號農路路面老舊破損修繕」，以利農民農作安全。 ",
+        "ProNo": "2e47b18d-d1ae-46ab-8468-aabf868fa164",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "24",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請市政府編列預算辦理柳營區小腳腿段1187-2地號農路路面拓寬，以利農民農作安全。",
+        "ProNo": "5fd4386a-13f7-4c6b-b2fa-2517545c5b15",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "25",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請改善下營區茅港尾重劃區茅港尾段3669地號農路改善工程，因年久失修，路面破損嚴重，急需辦理改善，以利農產品運搬。",
+        "ProNo": "4615fae1-7d8b-4018-b635-4f5d5ea0b461",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "26",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請改善下營區茅港尾重劃區茅港尾段3586地號農路改善工程，因年久失修，路面破損嚴重，急需辦理改善，以利農產品運搬。",
+        "ProNo": "7fa58cef-ef26-45d5-8980-ae395c04a8e0",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "27",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府地政局儘速在大社重劃區東大社段894地號前進行溝渠改善工程，俾利農耕。",
+        "ProNo": "e444f890-d4f6-4b5d-8d0d-5723ee15e89a",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "28",
+        "OrgTitle": "陳秋萍",
+        "CaseCause": "有關永康區竹行段664等2筆地號農路改善工程，道路老舊破損乙案，本席建請市府地政局儘速完成農路路面改善工程，以保障人車通行安全。",
+        "ProNo": "763acba4-1496-4722-ba0d-13576964189d",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "29",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請改善下營區西連里茅營尾段4781地號道路改善工程，因道路年久失修，道路出現柏油脫落龜裂之現象，急需辦理改善，以利行車安全。",
+        "ProNo": "2fcc6b61-0b98-477a-a386-4fc45ce14dd6",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "30",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請改善東豐農地重劃區N3農路改善工程，因道路年久失修，道路龜裂破損嚴重，急需辦理改善，以利農產品運搬及行車安全。",
+        "ProNo": "fd267bc9-805d-4210-a793-5c8e1c40f03c",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "31",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請改善六甲中脇重劃區西二十路(岩埤段91地號)農路改善工程，因年久失修，影響農作物運搬，急需辦理改善，以利行車安全。",
+        "ProNo": "7a6f7a7f-992d-428b-9da1-330a903a8832",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "32",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請改善六甲賀建重劃區龜子港段560-4地號農路改善工程，因道路年久失修，有柏油脫落龜裂之現象，急需辦理改善，以利行車安全。",
+        "ProNo": "41112825-02c2-427c-aed9-dc9017bfeb3f",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "33",
+        "OrgTitle": "張世賢",
+        "CaseCause": "建請市府儘速改善白河區蓮潭里「詔安農地重劃區農路九十二」，農路路面年久失修、顛頗難行，影響行車安全暨農民農機器進出安全甚鉅。",
+        "ProNo": "5ea7f9ff-1275-4363-8b76-10f1bf968b4a",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "34",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請市政府編列預算辦理柳營區柳營一路336巷路面龜裂改善，以維護人車通行安全。 ",
+        "ProNo": "7aac1d60-1c90-4983-b791-1a192823d227",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "35",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請市政府編列預算辦理柳營區農地重劃區溫厝廍小段1582-2地號東路27農路改善工程，以維護農民人車通行安全。",
+        "ProNo": "401d32ea-b6bf-45cb-93b4-bf0998c42a02",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "36",
+        "OrgTitle": "蔡蘇秋金",
+        "CaseCause": "將軍區漚汪段西甲小段1551地號路段，亟需辦理改善。",
+        "ProNo": "f0cddf4b-260d-4cfd-8d8e-5a4dc1d23a61",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "37",
+        "OrgTitle": "蔡蘇秋金",
+        "CaseCause": "將軍區漚汪重劃區N-12農路，亟需辦理改善。",
+        "ProNo": "9c82cd7c-4d12-4fd6-a687-6ad84172e0e8",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "38",
+        "OrgTitle": "蔡蘇秋金",
+        "CaseCause": "西港區西港農地重劃區第三工區北路一之二後段農路，亟需辦理改善。",
+        "ProNo": "78601b51-6759-4450-b526-ea459a1bfb61",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "39",
+        "OrgTitle": "蔡蘇秋金",
+        "CaseCause": "佳里區佳里農地重劃區佳化段594、623地號E-19農路，亟需辦理改善。",
+        "ProNo": "fa0f0b08-1b65-43df-a545-cbab8eba6cf3",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "40",
+        "OrgTitle": "蔡蘇秋金",
+        "CaseCause": "七股區塭子內農地重劃區東28及北4路道路破損，亟需辦理改善。",
+        "ProNo": "4443085d-94c8-43e7-ba80-d8e87503e842",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "41",
+        "OrgTitle": "蔡蘇秋金",
+        "CaseCause": "佳里區佳里農地重劃區永昌段345地號N-57、E-39農路，亟需辦理改善。",
+        "ProNo": "83fe606f-f681-465a-97c6-c6f9804cf32d",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "42",
+        "OrgTitle": "蔡筱薇",
+        "CaseCause": "南台南副都心區域開發排水箱涵急需建置，建請相關單位儘速規劃，完整東區崇明里排水系統。",
+        "ProNo": "f37f243f-e708-42ab-8192-a30383d9aaee",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "43",
+        "OrgTitle": "蔡蘇秋金",
+        "CaseCause": "佳里區子龍里蔥子寮排水旁既有版橋拓寬。",
+        "ProNo": "60068616-6eeb-4d43-a0c2-906c85306760",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "44",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請市政府編列預算辦理白河區詔安農地重劃區農路二十、農地重劃區農路七十一路面損壞及小排二之八水路崩塌路基滑落等農路改善工程，以維護農民人車通行安全。",
+        "ProNo": "afb26267-3eb2-4763-bd24-0b79f6493e45",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "45",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請市政府編列預算辦理新營區農地重劃區鐵線橋段975地號、新橋段1地號、鐵線橋段974地號等農路改善工程，以維護農民人車通行安全。",
+        "ProNo": "d74a9768-88df-4672-818b-ad0e6f3b49c7",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "46",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府地政局儘速在大社重劃區東大社段80地號前，進行農路改善工程，俾利農耕。",
+        "ProNo": "644a8693-c549-4387-85ee-1ece3f446b82",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "47",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府地政局儘速在大社里綠水廊道旁道路，進行農路改善工程，保障人車通行安全。",
+        "ProNo": "0e7b2e91-bc4e-430d-9498-6f98cd63db84",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "48",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請市政府編列預算辦理柳營區果毅農地重劃區E47農路改善工程，以維護農民人車通行安全。",
+        "ProNo": "04937ddb-9dce-41bf-96ee-98772741d331",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "49",
+        "OrgTitle": "蔡秋蘭",
+        "CaseCause": "建請臺南市政府辦理「佳里區佳里農地重劃區三協段325地號N-63農路改善工程」。",
+        "ProNo": "966ff6ad-f0dc-4c37-b4f0-c1cb03f1d5b7",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "50",
+        "OrgTitle": "余柷青",
+        "CaseCause": "建請市府辦理「安定區港口農地重劃區幹二路農路改善工程」。",
+        "ProNo": "95d17f7e-80bf-4c66-b916-44a1ca559aee",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "51",
+        "OrgTitle": "沈家鳳",
+        "CaseCause": "建請市府儘速辦理「柳營農地重劃區東路4農路改善工程」，以利農民使用。",
+        "ProNo": "746fac95-ed24-41d8-9c35-ac39cca5f482",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "52",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "六甲重劃區第四工區港子頭段976-2農路道路鋪面龜裂破損嚴重，提請改善。",
+        "ProNo": "e514e078-9961-4c98-8f63-6731c92b6800",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "53",
+        "OrgTitle": "林燕祝",
+        "CaseCause": "建請市府進行新市區永就農地重劃區東西幹路四農路(永新段236地號)旁道路改善，以保障民眾往來通行之安全。",
+        "ProNo": "ef173d14-e23a-4aa6-b9ef-2b075c42667d",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "54",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請市政府編列預算辦理後壁區「白沙屯(十)重劃區東西9路改善工程」，以利農民農作安全。",
+        "ProNo": "5cd129c5-9d06-4eb8-b120-3e7299d25028",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "55",
+        "OrgTitle": "吳禹寰",
+        "CaseCause": "建請市府儘速改善歸仁區成功路一段27巷60弄農路改善工程。",
+        "ProNo": "6d7dba0e-0ce5-447b-8ae1-4a04779d685d",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "56",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請改善官田區社子里六雙九路農路延續工程，因年久失修，路面龜裂破損嚴重，急需辦理改善，以利農產品運搬行車安全。",
+        "ProNo": "64335302-0712-4221-b143-ae7293e8fb28",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "57",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府農業局儘速在新市區永就里中華路53巷60弄前，進行農路改善工程，保障人車通行安全。",
+        "ProNo": "ab3237e6-bf22-41c3-b51a-4f680ad4aacf",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "58",
+        "OrgTitle": "曾之婕、周奕齊",
+        "CaseCause": "建請於崇賢公61(崇聖路一段與崇賢一路口)，闢建「寵物友善專區」，以符合本市民眾飼養寵物的趨勢及需求。",
+        "ProNo": "1134d71c-1987-4e5a-9d88-9d929448b281",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "59",
+        "OrgTitle": "杜素吟",
+        "CaseCause": "建請市府儘速辦理「臺南市關廟區布袋里深坑子段840-3地號旁排水改善工程」，以確保人民生命財產安全。",
+        "ProNo": "8dc93722-266c-47c6-aa41-d8b67a2659d0",
+        "PagesAll": "57"
+    },
+    {
         "DoneDate": "2023\/11\/30",
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "財經",
@@ -8,7 +855,7 @@
         "OrgTitle": "杜素吟",
         "CaseCause": "建請市府儘速辦理「關廟區布袋里深坑子段884地號旁農路改善工程」，以利人車通行安全。",
         "ProNo": "ef027d88-0aeb-4e21-8be2-bad89d27c4c5",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -19,7 +866,7 @@
         "OrgTitle": "杜素吟",
         "CaseCause": "建請市府儘速辦理「新光里新埔段587-33地號前農路改善工程」，以利人車通行安全。",
         "ProNo": "ffff944e-a2ca-4f69-88a1-1ff6bb93f2ac",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -30,7 +877,7 @@
         "OrgTitle": "杜素吟",
         "CaseCause": "建請市府儘速辦理「關廟區五甲里檀林精舍前農路改善工程」，以利人車通行安全。",
         "ProNo": "75001176-f994-470b-87d4-d8ae501f2407",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -41,7 +888,7 @@
         "OrgTitle": "林冠維、周奕齊",
         "CaseCause": "本市永康區忠孝路運動公園流浪狗眾多，形成路過民眾行的危險，請市府農業局動保處即時處理，降低民眾受流浪狗侵襲危害，莫等重大傷害發生，緩不濟急。",
         "ProNo": "9089c4b7-1686-4cc9-8708-26b623e9549b",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -52,7 +899,7 @@
         "OrgTitle": "余柷青",
         "CaseCause": "有關臺南市缺乏寵物運動公園乙案，建請臺南市政府於新化區合適場域設置寵物運動公園。",
         "ProNo": "c4c8e066-795f-42c5-8b45-2de2093d3b2c",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -63,7 +910,7 @@
         "OrgTitle": "余柷青",
         "CaseCause": "建請市府儘快增設寵物殯葬專區。",
         "ProNo": "5f0b9737-365a-4941-b41b-8d6e7eaf32d8",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -74,7 +921,7 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "請改善六甲區菁埔里974地號(六官北側)路面改善工程，因年久失修、路面破損嚴重，急需辦理改善，以利行車安全。",
         "ProNo": "13a77137-ea10-4bad-9583-1502eb6d6052",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -85,7 +932,7 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "請改善麻豆區興農里新生南路358巷68號前產業道路改善工程，因道路年久失修、道路龜裂破損嚴重，急需辦理改善，以利農產品運搬及行車安全。",
         "ProNo": "794d8d22-bc99-416b-b35f-85124135c25a",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -96,7 +943,7 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "請改善麻豆區興農里新生南路218巷西側往南358巷道路改善工程，因年久失修、路面破損嚴重，急需辦理改善，以利農產品運搬及行車安全。",
         "ProNo": "2cff2cdf-7332-4312-bcd3-e44fc163fd46",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -107,7 +954,7 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "請改善官田區南廍段78-14地號周邊農路改善工程，因年久失修、路面破損嚴重，急需辦理改善，以利行車安全。",
         "ProNo": "b348de81-01db-4e1c-8e76-914a7bef7aa3",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -118,7 +965,7 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "請改善大內區頭社里台84旁北側便道農路改善工程，因道路年久失修、道路龜裂破損嚴重，急需辦理改善，以利農產品運搬及行車安全。",
         "ProNo": "54adb2fd-5605-4398-a8e5-0506e0f02cb0",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -129,7 +976,7 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "請改善大內區頭社里井仔下東側農路改善工程，因道路年久失修、道路龜裂破損嚴重，急需辦理改善，以利行車安全。",
         "ProNo": "85c364e7-18fe-472f-8db8-bd8bd7027f3b",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -140,7 +987,7 @@
         "OrgTitle": "蔡育輝",
         "CaseCause": "建請市政府編列預算辦理白河區六溪里9鄰九重溪農路改善，以利農民農作安全。",
         "ProNo": "297ab56e-dcdf-40c7-9a6e-d2742af70100",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -151,7 +998,7 @@
         "OrgTitle": "郭鴻儀",
         "CaseCause": "建請市府研議修訂「臺南市珍貴樹木保護自治條例」，擴大珍貴樹木認定範圍。",
         "ProNo": "8de734fb-9b54-4795-a338-fd30938ada99",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -162,7 +1009,7 @@
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府農業局儘速在新市區社內里新港社大道130號前，進行農路改善工程，保障人車通行安全。",
         "ProNo": "13de6a22-c7e5-4a57-91de-f13025eb20b3",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -173,7 +1020,7 @@
         "OrgTitle": "張世賢",
         "CaseCause": "建請市府儘速維修東山區高原里鹿坪(東原高幹216左18左1)農路改善，以利用路人行車安全。",
         "ProNo": "ff913171-a318-4e05-b876-15a869143436",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -184,7 +1031,7 @@
         "OrgTitle": "林志展、沈家鳳",
         "CaseCause": "建請市政府建構電子化共通寵物病歷。",
         "ProNo": "25d779d5-3d15-4ae8-bad8-71f7dee978b1",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -195,7 +1042,7 @@
         "OrgTitle": "林志展",
         "CaseCause": "建請市政府爭取農業博覽會在臺南。",
         "ProNo": "16413bdc-5468-41b4-b5bd-21db390bd87a",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -206,7 +1053,7 @@
         "OrgTitle": "蔡宗豪、曾之婕、周奕齊",
         "CaseCause": "建請市府於北區開元振興公園規劃寵物友善專區，提供民眾一個能與自家毛小孩活動的安全、舒適休閒環境。",
         "ProNo": "9d67cc4b-0a48-4f68-a512-d2acf69f80fe",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -217,7 +1064,7 @@
         "OrgTitle": "Ingay Tali 穎艾達利、周奕齊、趙昆原、陳昆和",
         "CaseCause": "建請市府研議遊蕩動物餵食相關管理制度，降低市民或社區安全衛生疑慮，同時確保遊蕩動物健康與族群管理可能，平衡本市友善動物策略方向。",
         "ProNo": "2d9e3675-a52e-421c-9805-0ac31737346b",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -228,7 +1075,7 @@
         "OrgTitle": "Ingay Tali 穎艾達利、周奕齊、趙昆原、陳昆和",
         "CaseCause": "建請市府研議精進本市漁港「漁貨\/漁獲不落地」推動政策，改善漁港作業環境、保障漁民生計、促成漁業產銷升級、增加地區觀光產業發展機會。 ",
         "ProNo": "e4461343-0a0f-416f-839c-41694a04218f",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -239,7 +1086,7 @@
         "OrgTitle": "余柷青",
         "CaseCause": "建請市府儘速辦理「新化區礁坑里礁坑子段1595農路改善工程」。",
         "ProNo": "93a7abe2-c097-4297-b069-f59a34ff1c08",
-        "PagesAll": "56"
+        "PagesAll": "57"
     },
     {
         "DoneDate": "2023\/11\/30",
@@ -250,853 +1097,6 @@
         "OrgTitle": "余柷青",
         "CaseCause": "建請市府儘速辦理「新化區大坑里中興段538地號農路改善工程」。",
         "ProNo": "cf9229d9-fbe8-47c4-8597-8c0e8b1a4660",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "83",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府儘速辦理「山上區平陽里112-卓猴農路路面改善工程」。",
-        "ProNo": "37af2bf5-5ded-4980-969b-cbda61cc9323",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "84",
-        "OrgTitle": "沈家鳳",
-        "CaseCause": "建請市府儘速辦理「柳營區旭山里果毅後段1543-378地號農路改善工程」，以利農民使用。",
-        "ProNo": "881bdd17-8628-4311-ad01-e2072b36ba98",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "85",
-        "OrgTitle": "周奕齊、陳昆和、Ingay Tali 穎艾達利",
-        "CaseCause": "南化區玉山里羌黃坑逃生路線年久失修、破損不堪、難以通行，建請儘速處理。",
-        "ProNo": "7c32b2cb-846f-4059-aa3c-8edecbc1d497",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "86",
-        "OrgTitle": "陳秋宏",
-        "CaseCause": "請改善麻豆區安正里社子天后宮至社子9-29號農路。",
-        "ProNo": "9a573f3f-9198-4900-8782-637efb074863",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "87",
-        "OrgTitle": "陳秋宏",
-        "CaseCause": "請改善麻豆區安正里南49-2區道至方府千歲廟旁農路。",
-        "ProNo": "c8a1ef5d-fbdf-4f6e-9c06-a9a95a7eba5e",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "88",
-        "OrgTitle": "陳秋宏",
-        "CaseCause": "大丘里產業道路路面年久失修，道路鋪面龜裂破損嚴重，危及農民通行安全，提請改善。",
-        "ProNo": "9dd34bd8-3684-4033-ba32-06bdbe2e520f",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "89",
-        "OrgTitle": "鄭佳欣",
-        "CaseCause": "有關龍崎牛埔惡地「地質公園」生態研究，建請市府函請中央管理單位研議申請之方法。",
-        "ProNo": "0198263a-338e-4bfd-9de7-e1d96efe919b",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "90",
-        "OrgTitle": "鄭佳欣、林冠維、朱正軒",
-        "CaseCause": "建請市府積極與林業署建置聯絡窗口，於石虎出沒地等相互配合建置保護野生動物措施。",
-        "ProNo": "fcf29c6b-2b75-4449-8518-0adb3017162a",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "91",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "建請市府針對毛豬供銷及拍賣制度訂定實施要點，以避免承銷商及拍賣人員刻意壓低毛豬拍賣價格，導致價賤傷農情況發生。",
-        "ProNo": "7d539d24-6313-4198-a7b6-892c893efd3f",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "92",
-        "OrgTitle": "沈家鳳",
-        "CaseCause": "建請市府儘速辦理「東山區東原里子龍廳(山原235右9)農路改善工程」，以利農民使用。",
-        "ProNo": "a2a60fe7-876e-47f8-8cdc-53a0ccdf15ab",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "93",
-        "OrgTitle": "沈家鳳",
-        "CaseCause": "建請市府儘速辦理「東山區南勢里後坑頭(86右11右9右1)農路改善工程」，以利農民使用。",
-        "ProNo": "ff6c9732-6693-4fd4-9b3d-ebff836ca124",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "94",
-        "OrgTitle": "沈家鳳",
-        "CaseCause": "建請市府儘速辦理「白河區仙草里白水溪段389-3地號農路改善工程」，以利農民使用。",
-        "ProNo": "c5f51994-6354-45cf-9f4b-217bedbf10c0",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "95",
-        "OrgTitle": "沈家鳳",
-        "CaseCause": "建請市府儘速辦理「白河區仙草里糞箕湖段木屐寮小段45-5地號農路改善工程」，以利農民使用。",
-        "ProNo": "8d8f5de1-2d59-4c21-813a-002564d304dd",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "專案報告-專案報告",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府經濟發展局",
-        "CaseCause": "「森霸電廠二期建廠工程及儲能廠設置」專案報告",
-        "ProNo": "54b1b2ef-fa10-45e1-bae1-a75f681498e2",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府衛生局",
-        "CaseCause": "衛生福利部核定本市 112 年度「住宿式機構強化感染管制獎勵計畫」(一般護理之家)，經費新臺幣 3,031 萬 3,000 元整乙案(中央全額補助)，為爭取時效，謹請貴會同意先行墊付俾憑辦理後續相關作業事宜，113 年度總預算時辦理轉正，敬請 審議。",
-        "ProNo": "92b1d693-fcc3-4a26-b0ad-4781e03dc1f4",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "2",
-        "OrgTitle": "臺南市政府衛生局",
-        "CaseCause": "衛生福利部核定本市 112 年度「住宿式機構強化感染管制獎勵計畫」(精神護理之家)，經費新臺幣 147 萬元整一案(中央全額補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟 113 年度追加減預算時辦理轉正，敬請 審議。",
-        "ProNo": "cc865653-41ee-4f1a-a666-6eea5c7dc10c",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "3",
-        "OrgTitle": "臺南市政府衛生局",
-        "CaseCause": "衛生福利部獎助本市辦理 113 年度「住宿式機構強化感染管制獎勵計畫」(一般護理之家)，經費新臺幣 3,109 萬 1,000 元整乙案(中央全額補助)，為爭取時效，謹請貴會同意先行墊付， 俾憑辦理後續相關作業事宜，俟 113 年度追加減預算時辦理轉正，敬請 審議。",
-        "ProNo": "7b2b98ea-8aa1-4472-a103-0c68616bd4cb",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "4",
-        "OrgTitle": "臺南市政府衛生局",
-        "CaseCause": "衛生福利部國民健康署補助本市辦理113年度「綜合保健工作計畫」經費新臺幣27萬5,000元整（中央全額補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，於113年度追加減預算時辦理轉正，敬請審議。",
-        "ProNo": "29f7cf04-d4ad-40a5-a833-bb713a1c19bf",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "5",
-        "OrgTitle": "臺南市政府社會局",
-        "CaseCause": "衛生福利部社會及家庭署核定增加本市辦理「112年度未滿2歲(含延長2至3歲)兒童托育公共化及準公共服務經費、托嬰中心照顧比優化獎助暨居家托育人員提升托育品質獎助」計畫經費新臺幣4,481萬2,000元(中央全額補助)，因未及納入本府112年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請 審議。",
-        "ProNo": "6c9a90d6-3b4a-4ab6-9b73-26317d085e49",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "6",
-        "OrgTitle": "臺南市政府環境保護局",
-        "CaseCause": "行政院環境保護署核定本市「112年度清潔隊備勤室環境改善及優化計畫-永康區」經費新臺幣20萬元整(中央補助16萬8,000元，市配合款3萬2,000元)，為爭取時效，謹請貴會同意先行辦理墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
-        "ProNo": "dfab8810-48ad-4347-9fea-41de37204ccd",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "7",
-        "OrgTitle": "臺南市政府環境保護局",
-        "CaseCause": "行政院環境保護署核定本市112年度「優質公廁及美質環境推動計畫」-「抓斗車」機具專案計畫經費新臺幣520萬元整(中央補助300萬元，市配合款220萬元)，為爭取時效，謹請貴會同意先行辦理墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請 審議。",
-        "ProNo": "7b7d9d77-acf9-4af8-a95c-ad324a15239b",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "8",
-        "OrgTitle": "臺南市政府社會局",
-        "CaseCause": "衛生福利部社會及家庭署核定本市112年度住宿式機構強化感染管制獎勵計畫(老人福利機構)，經費新臺幣1,838萬5,000元（中央全額補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請 審議。",
-        "ProNo": "76bbc5e9-674f-4418-8c64-8ef47912b63b",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "9",
-        "OrgTitle": "臺南市政府社會局",
-        "CaseCause": "衛生福利部社會及家庭署核定本市辦理112年度住宿式機構強化感染管制獎勵計畫（身心障礙福利機構）經費新臺幣420萬元整（中央全額補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請 審議。",
-        "ProNo": "ab6ffccf-3f08-4f9b-881e-4296f1c0c28b",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "10",
-        "OrgTitle": "臺南市政府社會局",
-        "CaseCause": "衛生福利部核定本市112年度住宿式機構強化感染管制獎勵計畫(依長服法設立住宿式長照機構)，經費新臺幣18萬9,000元（中央全額補助），因未及納入本府113年度總預算，為爭取時效，謹請貴會同意墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請 審議。",
-        "ProNo": "39ad0091-ed37-4a03-9efc-8f4fe2b94d8a",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "11",
-        "OrgTitle": "臺南市政府社會局",
-        "CaseCause": "衛生福利部核定補助本市112年度長照2.0整合型計畫增補經費新臺幣16億1,157萬3,000元整乙案（中央補助15億6,290萬元；市配合款4,867萬3,000元），因未及納入本府113年度總預算，為爭取時效，謹請貴會同意墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請審議。",
-        "ProNo": "a1bb4bab-ea5b-41fe-a382-b0027c9a2a9b",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "12",
-        "OrgTitle": "臺南市政府社會局",
-        "CaseCause": "有關衛生福利部社會及家庭署核定本市「112年獎勵私立小型老人及身心障礙福利機構改善公共安全設施設備費整合型計畫」增列經費新臺幣1,391萬9,000元整(中央全額補助)一案，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請審議。",
-        "ProNo": "43f5067e-1531-4f62-82fc-4f368b94298b",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "13",
-        "OrgTitle": "臺南市政府社會局",
-        "CaseCause": "衛生福利部社會及家庭署核定本市「113年度臺南市政府社會局身心障礙福利機構融合社區之調適計畫」經費新臺幣178萬元整乙案（中央全額補助），因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請 審議。",
-        "ProNo": "73afe13c-6810-4c55-b600-307b6809acac",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "14",
-        "OrgTitle": "臺南市政府社會局",
-        "CaseCause": "衛生福利部社會及家庭署公益彩券回饋金核定本市113年度「溪南區及溪北區身心障礙者主動關懷服務暨資源整合管理服務方案」等2案，增加經費總計新臺幣36萬元(中央補助22萬8,000元、配合款13萬2,000元)，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請 審議。",
-        "ProNo": "3f1c163b-e29f-4ed6-98c5-a0dcecdb964d",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "15",
-        "OrgTitle": "臺南市政府社會局",
-        "CaseCause": "衛生福利部社會及家庭署公益彩券回饋金核定本市「113年度身心障礙者家庭照顧者支持服務計畫」經費增加新臺幣65萬9,000元整（中央全額補助）乙案，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請 審議。",
-        "ProNo": "d0e2fe68-8357-4844-88b8-fc450a34bc1b",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "16",
-        "OrgTitle": "臺南市政府社會局",
-        "CaseCause": "衛生福利部社會及家庭署公彩回饋金核定本市「113年度身心障礙者權利公約教育訓練及意識提升計畫」經費增加新臺幣21萬7,000元整一案（中央補助20萬元、市配合款1萬7,000元），因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請 審議。",
-        "ProNo": "f693e0e7-434c-4a7e-811b-cd829bff2704",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "17",
-        "OrgTitle": "臺南市政府社會局",
-        "CaseCause": "衛生福利部社會及家庭署公彩回饋金核定本市「113年度提升復康巴士服務能量計畫」經費增加新臺幣68萬3,000元整乙案（中央全額補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請 審議。",
-        "ProNo": "c5ca8665-44ea-49c3-987a-72d64792851a",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "18",
-        "OrgTitle": "臺南市政府社會局",
-        "CaseCause": "衛生福利部核定補助本市113年「臺南市政府性別暴力防治社區服務方案」增補經費新臺幣44萬8,000元整案（中央全額補助），因未及納入本府113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請審議。",
-        "ProNo": "94638fe7-31dd-41d7-a2be-77e4954af57c",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "19",
-        "OrgTitle": "臺南市政府社會局",
-        "CaseCause": "衛生福利部核定補助本市辦理「113年度充實保護性社工人力所需設施設備計畫」增加經費新臺幣35萬3,000元整(中央補助24萬7,000元整、市配合款10萬6,000元整)，因未及納入本府113年度總預算，為爭取時效，謹請貴會同意墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請審議。",
-        "ProNo": "d46f0d2f-04c9-4518-9ecc-e19104fae412",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "1",
-        "OrgTitle": "吳禹寰",
-        "CaseCause": "建請市府建設淨圓滿紙錢專爐於新豐區，以供周邊各區使用，達愛護地球、維護環境。",
-        "ProNo": "bd669d8d-48a0-4836-88f0-3169df485828",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "2",
-        "OrgTitle": "鄭佳欣、林冠維、謝舒凡、朱正軒",
-        "CaseCause": "有關腸病毒71型自費疫苗接種問題，建請市府優先補助低收入戶、中低收或單親家庭等提高本市腸病毒保護率。",
-        "ProNo": "64608f41-452f-4cef-8315-71d6a9d4e97c",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "3",
-        "OrgTitle": "蔡育輝、方一峰",
-        "CaseCause": "建請市政府，提高未受補助健保費的長者重陽節敬老金，重視本巿老人的福利。",
-        "ProNo": "8e2a50ff-72be-4208-b82d-b7501c9842a8",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "4",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請衛生局在善化區社區心理衛生中心提供新住民心理諮商等關懷服務，並安排有心理衛生知能之通譯員即時翻譯。",
-        "ProNo": "279760d4-2d3f-4998-8911-88c7a60f7a7a",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "5",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府加強登革熱防治宣導與相關配套措施，以維護市民健康。",
-        "ProNo": "8b083934-3461-49d5-a8d4-0a4eb3a9ac44",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府補助50歲以上低收、中低收民眾「帶狀疱疹」疫苗接種補助，以維護市民健康。\r\n",
-        "ProNo": "d1237a16-2703-4877-ab4c-8e9a78a15f1c",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "7",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府汛期及颱風季節期間，加強巡本市溝渠並定時清理，避免排水溝渠淤積，引發水患。",
-        "ProNo": "c3c17851-df6d-405d-ab0d-9742996fce95",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "8",
-        "OrgTitle": "李鎮國",
-        "CaseCause": "建議永康區清潔隊要增購多組移動式攝影機組，以有效防制髒亂點擴散及病媒蚊孳生。",
-        "ProNo": "3df30d71-4c9a-49ba-83b5-e2ba9f50b777",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "9",
-        "OrgTitle": "林冠維",
-        "CaseCause": "請市府增加噴藥次數，加強生態防蚊及環境噴藥消毒。",
-        "ProNo": "0bb8df51-d061-4bf0-ab71-7d5af11b4c7f",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "10",
-        "OrgTitle": "吳禹寰",
-        "CaseCause": "建請市府將國中男生納入公費接種施打HPV疫苗範圍。",
-        "ProNo": "60b8243c-d121-45e2-8cb8-03e75d9efb4c",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "11",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "建請臺南市政府社會局設置六甲區托嬰中心，以利家長托育。",
-        "ProNo": "6782d66b-d7db-4826-8f87-4877bfcc99dd",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "12",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "建請臺南市政府社會局設置六甲親子悠遊館，並以不同特色來規劃(一區一特色)。",
-        "ProNo": "ff645dfe-b607-43eb-8355-7e059ff89952",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "13",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "臺南市政府自112年7月開始辦理「老人健保費自付額補助」，建請社會局能寄發通知函，通知符合資格的長輩，並研議補助款項是否能直接滙入受補助長輩或扣款人帳戶。",
-        "ProNo": "c1b54579-2e9d-4bb2-b3a0-ad053167d607",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "14",
-        "OrgTitle": "尤榮智、方一峰",
-        "CaseCause": "建請臺南市政府規劃排水溝造冊列管，每年防汛前應清淤工作事項，以維持水溝暢通改善環境衛生。",
-        "ProNo": "4a02165c-9e18-42a6-8673-f59984b963a0",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "15",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "爭取辦理六甲營區閒置空地活用作為曾文區重要聚落起點，規劃長照、青草藥草園區等觀光園區，帶動六甲經濟活絡等多元化優勢。",
-        "ProNo": "b5e72954-ad99-42d1-9e24-4d9bab299e31",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "16",
-        "OrgTitle": "李偉智",
-        "CaseCause": "請市府規劃於新化區設立親子館，以利民眾使用。",
-        "ProNo": "e04532c1-1809-4f5a-bb18-baaf258be5c4",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "17",
-        "OrgTitle": "郭鴻儀",
-        "CaseCause": "建請市府研議補助市民接受心理諮商費用。",
-        "ProNo": "6c4abfe6-5724-44c0-9a4b-677af9763df1",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "18",
-        "OrgTitle": "郭鴻儀",
-        "CaseCause": "建請市府研議補助高齡產婦加高齡孕婦第一、第二孕期唐氏症篩檢，子癲前症(妊娠毒血症)及補助高層次超音波方案。",
-        "ProNo": "7b39a68f-63b8-42fc-8806-1d0bd0ca746c",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "19",
-        "OrgTitle": "郭鴻儀",
-        "CaseCause": "建請市府提升失智照顧服務量能，媒合業者增加失智社區服務據點，落實失智症照顧。",
-        "ProNo": "12bcfa2a-67ac-43ba-9c92-ebe143005093",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "20",
-        "OrgTitle": "郭鴻儀",
-        "CaseCause": "建請市府補足各區清潔隊人力缺口，並提出統一性的排班休假標準。",
-        "ProNo": "54ab8bf1-6c71-4f23-b127-f6f743481f35",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "21",
-        "OrgTitle": "郭鴻儀",
-        "CaseCause": "建請市府研議辦理紙錢集中燒之「環保運鈔專車」。",
-        "ProNo": "03cb3f94-91dc-459a-a41c-a841ffe6caf0",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "22",
-        "OrgTitle": "李鎮國",
-        "CaseCause": "建議市府架設登革熱防治噴藥區域及日期相關網站，以供市民查詢。",
-        "ProNo": "b5d971a4-0d04-4caf-a0fb-3ecd43f2a238",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "23",
-        "OrgTitle": "李偉智、沈家鳳、Ingay Tali 穎艾達利",
-        "CaseCause": "請市府規劃簡化殘障手冊審查發放之流程，以減輕民眾往返各審查機關之不便。",
-        "ProNo": "c13fdceb-aaaf-4567-9fe8-111e5cce0ab6",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "24",
-        "OrgTitle": "蔡育輝、蔡宗豪、李中岑、林冠維、尤榮智、李偉智",
-        "CaseCause": "建請市政府環保局設置夜間定點垃圾車方便上夜班之民眾下班後丟棄垃圾。",
-        "ProNo": "97d35872-3de4-4ae2-961d-0ffa60c651d0",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "25",
-        "OrgTitle": "蔡筱薇、陳秋宏",
-        "CaseCause": "針對65歲以上長者自縊比例提高，相關單位應提出方案因應。",
-        "ProNo": "2b8492ef-4bb2-4c94-9bd1-732567667e62",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "26",
-        "OrgTitle": "蔡筱薇",
-        "CaseCause": "建請提高復康巴士之司機量能。",
-        "ProNo": "afd11172-ada9-43a1-b705-d6dc3a93fcd1",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "27",
-        "OrgTitle": "蔡宗豪",
-        "CaseCause": "恰逢台南400，弔念不容泯滅的悲劇史實，記取歷史教訓-台灣慰安婦事件，建請臺南市政府將全台唯一的慰安婦銅像，遷移至適當地點，以供全民追思憑弔。",
-        "ProNo": "9e9a3c4b-30fc-4fbb-9f7d-bf116c3c1010",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "28",
-        "OrgTitle": "林美燕",
-        "CaseCause": "建請市府官網總體檢，將消費申訴與爭議調解案例分類系統性整理，於官網中主動公布充分揭露，加強消費者保護教育與宣導，提升消費者保護意識。",
-        "ProNo": "1fe19e13-612f-4b63-8104-b57db312eb75",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "29",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "因應登革熱疫情，每年度水溝、公共場所空間噴藥，建請改為每年兩次，加強環境衛生。",
-        "ProNo": "568c2e2b-5099-442c-af3f-87ad910409e6",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "30",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "因登革熱疫情嚴峻，噴藥通知距離執行噴藥時間過短，建請噴藥通知時間能考量民眾預備時間。",
-        "ProNo": "519e2d4f-e0f9-440c-b7ff-940b51d2c7ee",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "31",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府於東區東門路三段(文化路至東成街)附近架設固定式聲音照相，積極改善環境噪音，以維附近住戶安寧。",
-        "ProNo": "6f93beed-fc00-41a8-8ae7-57b2cb5a9f4f",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "32",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請社會局擴大敬老卡的使用範圍，可免費使用You-Bike國民運動館、全民運動中心，以提高敬老卡申辦率及使用率。",
-        "ProNo": "e98c72ae-3532-4a3d-a44b-b7eda7272a6b",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "33",
-        "OrgTitle": "李宗霖、朱正軒、沈家鳳、陳秋宏",
-        "CaseCause": "建請社會局提高人民團體辦理活動之餐費補助，早餐每人100元、午晚餐每人150元，以因應社會變遷與近年通貨膨脹。",
-        "ProNo": "33ecfaf6-7c6f-4ccb-850f-aef6c5d5976a",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "34",
-        "OrgTitle": "李宗霖、朱正軒",
-        "CaseCause": "建請市府修正本市各機關之行政表單針對性別、家長之題項，以尊重不同性別與同志家庭。",
-        "ProNo": "f2f1e8e2-2b07-4d5f-899f-789f56b0bb9e",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "35",
-        "OrgTitle": "林志展",
-        "CaseCause": "建請市政府依據地方自治法權限，針對非農地使用除草劑訂定明確規範。",
-        "ProNo": "80be75e5-8392-4391-b7f7-a47ff6f125e5",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "36",
-        "OrgTitle": "林志展",
-        "CaseCause": "建請市政府檢視各社會福利據點之公共使用設施，必要時做汰換。",
-        "ProNo": "38b21d7c-52ab-452d-9fd3-988d4f064026",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "37",
-        "OrgTitle": "林志展",
-        "CaseCause": "建請市政府專案運用科技執法執行查緝非法棄置（含髒亂點），杜絕外縣市廢棄物棄置於本市，同時能提升都市環境。",
-        "ProNo": "188716e2-1334-4060-a2b5-65386ba0e084",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "38",
-        "OrgTitle": "林志展",
-        "CaseCause": "建請市政府舉辦大型活動如演唱會、節慶活動等時，完整規劃身心障礙者參與所需無障礙交通、手語等措施。",
-        "ProNo": "f11ec68f-bf7c-42ea-8852-384a526d7e29",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "39",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府在東區林森立體停車場竣工後，於四樓與五樓空間規劃為「婦幼綜合服務中心」， 打造完善的婦幼空間。",
-        "ProNo": "793d1f9f-7216-40be-8ed4-519345f7e9a9",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "40",
-        "OrgTitle": "沈震東、朱正軒、沈家鳳",
-        "CaseCause": "建請社會局推動「時間銀行」，提供老人照顧人力資源，並達成一個互惠互利的養老機制。",
-        "ProNo": "81a7882f-483b-406b-a567-ad8f81192a0b",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "41",
-        "OrgTitle": "黄肇輝、陳皇宇、蔡筱薇、余柷青、沈震東",
-        "CaseCause": "建請市府針對轄區內自中國進口之鋁蓋紙碗容器之稽查，以確保市民食的安全。",
-        "ProNo": "66a05878-da48-4ddf-84ea-1e4b3ca57404",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "42",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "建請市府針對永康資源回收場所在之土地予以重新規劃籌辦，活化土地以達最大之利用效益。",
-        "ProNo": "dce2141e-5eab-4b0f-8fbc-170159672c96",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "43",
-        "OrgTitle": "鄭佳欣、余柷青",
-        "CaseCause": "有關本市公共托育家園，建請市府朝向與鄰近校園結合，擴大服務對象。",
-        "ProNo": "76bb8fd0-21b0-4fee-a550-a22ba1389e1c",
-        "PagesAll": "56"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "44",
-        "OrgTitle": "朱正軒、余柷青",
-        "CaseCause": "為因應高齡化社會長照需求，並應處少子化社會學校空間閒置，建請社會局與教育局盤點轄內校園閒置空間，媒合促參設引進長照單位，就近提供長照服務，優化高齡者之友善照顧。",
-        "ProNo": "2985aecc-672d-43a5-9049-26edcd03ac3c",
-        "PagesAll": "56"
+        "PagesAll": "57"
     }
 ]
