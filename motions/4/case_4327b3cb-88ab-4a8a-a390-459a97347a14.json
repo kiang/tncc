@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2025\/07\/16",
     "SendNumber": "南議工務字第 1140006306號",
-    "DoDesc": "",
+    "DoDesc": "本府就「建請完善清淤資訊電子化，俾利民眾了解清淤(疏)進度」案，敬答覆如下：\r\n 一、本府水利局每月召開防汛會議管控側溝(環境保護局)、區域排水(水利局及公所)、雨水下水道(水利局及公所)之清淤長度及數量。\r\n 二、為利民眾了解所在行政區清淤情形，已於清淤後次月在水利局官網公布各行政區清淤長度，亦可透過台南水情即時通APP功能選單查詢。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9d912844-a02e-44dc-815b-5b4064b7279b",
+            "FileName": "4-5定工務議提253回文附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4327b3cb-88ab-4a8a-a390-459a97347a14&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/08\/20",
+    "ExecuteReNumber": "府水綜字第 1141080609號",
+    "ExecuteReMemo": "本府就「建請完善清淤資訊電子化，俾利民眾了解清淤(疏)進度」案，敬答覆如下：\r\n 一、本府水利局每月召開防汛會議管控側溝(環境保護局)、區域排水(水利局及公所)、雨水下水道(水利局及公所)之清淤長度及數量。\r\n 二、為利民眾了解所在行政區清淤情形，已於清淤後次月在水利局官網公布各行政區清淤長度，亦可透過台南水情即時通APP功能選單查詢。",
     "ErrorMessage": ""
 }

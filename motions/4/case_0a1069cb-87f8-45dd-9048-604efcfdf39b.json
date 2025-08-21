@@ -14,12 +14,12 @@
     "CheckDesc": "聯席審查意見：同意墊付。",
     "DoneDate": "2025\/08\/18",
     "DoneDesc": "照聯席審查意見同意墊付。",
-    "SendDate": "",
-    "SendNumber": "",
+    "SendDate": "2025\/08\/21",
+    "SendNumber": "南議環衛字第 1140007914號",
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d63a5c2e-3bcc-4572-af6a-bc239b01a97f",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2e17e0f4-9da2-47e2-9f3e-20395747bb32",
             "FileName": "4-9臨 環衛市提第1號案-附件.pdf",
             "ErrorMessage": ""
         }
