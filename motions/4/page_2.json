@@ -2,6 +2,39 @@
     {
         "DoneDate": "2025\/08\/18",
         "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "9",
+        "OrgTitle": "余柷青",
+        "CaseCause": "鑒於偏鄉地區短期無法規畫設置親子悠遊館等「公共托育資源綜合中心」相關設施，建請豐富至偏鄉地區活動與資訊觸及，以平衡城鄉育兒資源。",
+        "ProNo": "f06387d7-3639-457d-847f-20be0c2885aa",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2025\/08\/18",
+        "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "10",
+        "OrgTitle": "余柷青",
+        "CaseCause": "建請市府積極設置新化親子悠遊館於新化衛福園區，豐富與整合育兒資源中心量能，平衡偏鄉育兒資源。",
+        "ProNo": "6cb984f8-1db6-4503-ab44-8e42ca514bea",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2025\/08\/18",
+        "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "11",
+        "OrgTitle": "林冠維、周奕齊",
+        "CaseCause": "建請市府編列預算，推辦「好孕專車」，以減輕孕婦產檢及就醫的交通負擔，確保孕期照護品質。",
+        "ProNo": "700bb8d4-0b0e-48aa-82e8-3d2fd99d256f",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2025\/08\/18",
+        "GradeTime": "第4屆 第9次 臨時會",
         "PTypTitle": "建設",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "蔡育輝",
         "CaseCause": "新營區南瀛綠都心公園內之全民運動館硬體建築即將完成，建請盡快重建原有設置於公園內之體健設施與兒童遊樂設施，以嘉惠新營區市民。",
         "ProNo": "3aa53907-983d-4b8e-82ec-627b379793b9",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "14",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府規劃於新化區體育公園内建置室內羽球及桌球場館，以提升室内運動便利性，俾利市民使用。",
-        "ProNo": "c6cd798d-2091-44b6-8b2e-35caaa44b9d1",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "15",
-        "OrgTitle": "林美燕",
-        "CaseCause": "請重新購置體育園區内之推手館運動設施及場地重整。",
-        "ProNo": "2c568e84-4ee7-4164-ba50-ff8307dd611e",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "16",
-        "OrgTitle": "蔡筱薇",
-        "CaseCause": "建請體育局改善亞太棒球場缺失。",
-        "ProNo": "18dba084-eb19-4394-86ca-d62e62cf52a5",
         "PagesAll": "57"
     }
 ]
