@@ -14,10 +14,16 @@
     "CheckDesc": "函送市府研辦。",
     "DoneDate": "2025\/08\/18",
     "DoneDesc": "照審查意見通過。",
-    "SendDate": "",
-    "SendNumber": "",
+    "SendDate": "2025\/08\/25",
+    "SendNumber": "南議工務字第 1140007994號",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=436fc9d1-9aaa-4c18-ace7-99f6f138a6cb",
+            "FileName": "4-9臨工務議提4附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=41ac46b2-3806-4d4e-8c16-b8d954bcad24&type=pdf",
     "CheckAttList": [],

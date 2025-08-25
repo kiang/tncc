@@ -16,9 +16,20 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2025\/07\/15",
     "SendNumber": "南議工務字第 1140006339號",
-    "DoDesc": "",
+    "DoDesc": "本府就「建請市府儘速改善龍崎區市道182線崎頂里段西行車道20.5K附近路面沉陷、道路護欄水泥結構剝離，以維用路人行車安全。」案，敬答覆如下：\r\n一、本府工務局114年8月1日會同吳禹寰議員、陳皇宇服務處、郭鴻儀服務處、龍崎區公所、進億工程顧問有限公司及戴竹工程有限公司至現地辦理會勘(詳附件一)。\r\n二、市道182線20.5K\r\n(一)西向路面明顯龜裂下陷，且外側護欄底部洩水孔多處被植物生根侵入並延伸至路面，疑似進而造成邊界AC隆起。\r\n(二)東向路面明顯龜裂但下陷較西向輕微，外側護欄底部洩水孔亦有西向之情形，但較少。\r\n三、本府工務局先請廠商將護欄外側植物清除，避免入侵路底情況加劇(詳附件二)。經量測路面有長100公尺、寬17.4公尺(兩向合計)呈現龜裂下陷，約需經費66萬元，本府工務局擬於9月份辦理改善。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c6be00a6-929e-4e6f-92bf-889db14ee618",
+            "FileName": "府工務三字第1141161635號-附件(會勘紀錄).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=42410472-3d56-45a7-9aa6-c617ed502d88",
+            "FileName": "府工務三字第1141161635號-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=37fb37f4-f5a4-48ac-82a3-f0bcb731b0fe&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +41,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/08\/19",
+    "ExecuteReNumber": "府工務三字第 1141161635號",
+    "ExecuteReMemo": "本府就「建請市府儘速改善龍崎區市道182線崎頂里段西行車道20.5K附近路面沉陷、道路護欄水泥結構剝離，以維用路人行車安全。」案，敬答覆如下：\r\n一、本府工務局114年8月1日會同吳禹寰議員、陳皇宇服務處、郭鴻儀服務處、龍崎區公所、進億工程顧問有限公司及戴竹工程有限公司至現地辦理會勘(詳附件一)。\r\n二、市道182線20.5K\r\n(一)西向路面明顯龜裂下陷，且外側護欄底部洩水孔多處被植物生根侵入並延伸至路面，疑似進而造成邊界AC隆起。\r\n(二)東向路面明顯龜裂但下陷較西向輕微，外側護欄底部洩水孔亦有西向之情形，但較少。\r\n三、本府工務局先請廠商將護欄外側植物清除，避免入侵路底情況加劇(詳附件二)。經量測路面有長100公尺、寬17.4公尺(兩向合計)呈現龜裂下陷，約需經費66萬元，本府工務局擬於9月份辦理改善。",
     "ErrorMessage": ""
 }
