@@ -2,6 +2,50 @@
     {
         "DoneDate": "2025\/03\/20",
         "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "19",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請督促改善本市各醫院護士荒問題，並因應對本市流行性感冒急診室就醫問題，應提因應對策。",
+        "ProNo": "af00b5e3-d655-4bb5-9497-98931fc00465",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "20",
+        "OrgTitle": "鄭佳欣",
+        "CaseCause": "為加速推動虛擬健保卡的落實，確保長者及行動不便者能順利使用，建請市府督促各地衛生所儘速跟進，完善醫療服務。",
+        "ProNo": "d246ff0c-6eb7-4f77-b41e-7f9d1c224187",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "21",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請市府編列經費補助孕婦及嬰幼兒施打RSV疫苗，透過預防接種以減少感染風險，確保市民健康。",
+        "ProNo": "bb6a53ba-6f8e-45a7-ba20-ca6e4a690408",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "建設",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府觀光旅遊局",
+        "CaseCause": "交通部觀光署核定補助本市辦理「114年度臺南市政府執行露營場管理作業補助計畫(修正版)」總經費95萬元(全額中央補助)為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度總預算時辦理轉正，敬請審議。",
+        "ProNo": "a6ca1dc3-8454-489a-8126-27d2a1005cce",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
         "PTypTitle": "建設",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "2",
@@ -1053,50 +1097,6 @@
         "OrgTitle": "蔡育輝",
         "CaseCause": "請市府研考會能協調工務局、交通局、民政局、農業局(含動保處)、都市發展局、經濟發展局、教育局等局處能成立line服務官網，於第一時間服務臺南市民，也利於研考成效管控。",
         "ProNo": "efb3320b-3afc-4fc6-87b2-caa79389d68d",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "50",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府研議於巴克禮公園增設公廁，以解決民眾如廁困擾，同時友善年長者之需求。",
-        "ProNo": "51409e8d-090a-47d4-b69a-e2cca54a6416",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "51",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府遷移或拆除人行道上之變電箱，以落實行人通行安全，為終結行人地獄再往前邁進一大步。",
-        "ProNo": "32a7e3f0-9eb9-4a8f-b91b-ce6769c973c5",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "52",
-        "OrgTitle": "吳通龍",
-        "CaseCause": "建請市府辦理麻豆區南48區道麻善橋道路往磚子井T字路段道路改善工程。",
-        "ProNo": "e084095e-dcac-49ad-984a-50d793b0ea47",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "53",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請市府整修裕聖公園、裕華公園、裕敬公園之土壤流失問題，補土防止樹根裸露，並清除裸露磚石、加強小黑蚊防治，以維護公園環境安全與提升民眾遊憩品質。",
-        "ProNo": "719960d4-0923-4d0f-9db8-0f9c172681d7",
         "PagesAll": "57"
     }
 ]

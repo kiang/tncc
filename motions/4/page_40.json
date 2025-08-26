@@ -4,6 +4,50 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "139",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請市府於巴克禮公園加裝灑水器或善用木料銀行資源，以減少揚塵、增進草皮復育。",
+        "ProNo": "5d80bbb4-a978-4ebe-86ab-b8cbfdb76d39",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "140",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請市府於中華陸橋南側行人樓梯增設自行車牽引道，並設置夜間及路面提醒，以維用路人安全。",
+        "ProNo": "fa1951e6-a1b3-45bd-9619-5602d0567700",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "141",
+        "OrgTitle": "林美燕",
+        "CaseCause": "建請市府交通局與工務局研議移除安平區國平里健康路三段329-335號前綠帶並增設機車停車格位之可能性。",
+        "ProNo": "1e9f2b49-89eb-4055-bca0-581f2ff4d511",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "142",
+        "OrgTitle": "周嘉韋",
+        "CaseCause": "建請市府提高海安商圈分隔島之維護頻率。",
+        "ProNo": "236dc9ec-2189-49c2-9e75-26de8af323c2",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "143",
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府增加公園草皮之維護頻率。",
@@ -1053,50 +1097,6 @@
         "OrgTitle": "臺南市政府警察局",
         "CaseCause": "修正「臺南市關子嶺警光山莊基金收支保管及運用辦法」第三條。",
         "ProNo": "58096bd0-daff-4080-bf32-14b94eec5967",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規備查案",
-        "CaseNumber": "5",
-        "OrgTitle": "臺南市政府觀光旅遊局",
-        "CaseCause": "廢止「臺南市左鎮世界生態學園場使用收費標準」。",
-        "ProNo": "45b8476d-398f-4295-ae8c-f8589a772abf",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規備查案",
-        "CaseNumber": "6",
-        "OrgTitle": "臺南市政府工務局",
-        "CaseCause": "訂定「臺南市補發建築執照圖說及文件資料收費標準」。",
-        "ProNo": "c7399b94-5e2d-4d9c-b7ab-046b1a78bcef",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "市府提案-市法規案",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府環境保護局",
-        "CaseCause": "擬具「臺南市低碳城市自治條例」第三條修正草案，敬請審議。",
-        "ProNo": "2dcd2484-71e3-4b66-bfe6-4c941c62169e",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "市府提案-市法規案",
-        "CaseNumber": "2",
-        "OrgTitle": "臺南市政府環境保護局",
-        "CaseCause": "擬具「臺南市淨零永續城市管理自治條例」草案，敬請審議。",
-        "ProNo": "755eed00-af85-4e85-a2c8-c2c15ffb31d2",
         "PagesAll": "57"
     }
 ]

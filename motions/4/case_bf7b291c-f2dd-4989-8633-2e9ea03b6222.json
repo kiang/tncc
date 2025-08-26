@@ -19,8 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ea5782f7-6cd9-4da2-a99f-967502f7b71a",
-            "FileName": "臺南市總預算114年度第一次追加(減)預算案補充資料.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1dd322c4-0c0c-4e09-b272-7637aff58c9f",
+            "FileName": "臺南市114年度總預算第一次追加(減)預算案補充資料1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2b43f732-4fb3-4250-9eec-211422ac18d3",
+            "FileName": "臺南市114年度總預算第一次追加(減)預算案補充資料2.pdf",
             "ErrorMessage": ""
         }
     ],
