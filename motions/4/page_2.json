@@ -896,9 +896,20 @@
         "PTypTitle": "市長專案報告",
         "KidTitle": "專案報告-專案報告",
         "CaseNumber": "1",
-        "OrgTitle": "臺南市議會",
-        "CaseCause": "「丹娜絲颱風天然災害市府因應對策及處理情形」市長專案報告",
+        "OrgTitle": "臺南市政府",
+        "CaseCause": "丹娜絲颱風天然災害市府因應對策及處理情形(第2天)",
         "ProNo": "1a997bc5-71b8-4f29-81f3-7db0f1d7ccef",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "市長專案報告",
+        "KidTitle": "專案報告-專案報告",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府",
+        "CaseCause": "丹娜絲颱風天然災害市府因應對策及處理情形(第1天)",
+        "ProNo": "a8bba4fc-ebb5-4df6-9b09-a317cb8d81bf",
         "PagesAll": "57"
     },
     {
@@ -1086,17 +1097,6 @@
         "OrgTitle": "余柷青、周嘉韋、郭鴻儀",
         "CaseCause": "為留住台南優秀原住民、身心障礙運動選手，建請市府針對全國原住民族運動會、全國身心障礙國民運動會事等全國性賽事獎勵金進行滾動式調整。",
         "ProNo": "bd34a1bf-67b8-4d0d-8d71-f7b696274c3c",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "9",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府體育局在新市區壘球場，強化內外野防護網，保障球場外圍人車安全。",
-        "ProNo": "2ff1e3e9-4ae6-4c3e-be4d-16b85eb680d5",
         "PagesAll": "57"
     }
 ]

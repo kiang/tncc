@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府主計處",
+        "CaseCause": "檢送本府112年第4季辦理政策及業務宣導之執行情形表，提請貴會備查。",
+        "ProNo": "094b2a61-669e-4f0e-a722-9b2a0ab8dbf3",
+        "PagesAll": "57"
+    },
+    {
         "DoneDate": "2024\/05\/29",
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "財經",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "陳皇宇、余柷青",
         "CaseCause": "建請台南市政府於龍崎區龍崎國小龍船分校，建置生態教育園區及動物緊急救援中心。 ",
         "ProNo": "2c7a5bdc-bfc5-4bd9-8a10-f7f7c53258dc",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "80",
-        "OrgTitle": "陳秋宏",
-        "CaseCause": "建請相關單位修正「臺南市犬貓管理及福利促進自治條例」並增設:「飼主攜帶寵物出入公共場所或公眾得出入場所，應使用鏈繩、箱籠或採取主管機關公告之適當防護措施。」之條例，以保障市民安全。",
-        "ProNo": "8f0445b1-622d-4062-aadb-02f5ceb30042",
         "PagesAll": "57"
     }
 ]

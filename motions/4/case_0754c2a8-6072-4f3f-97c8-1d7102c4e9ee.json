@@ -1,13 +1,13 @@
 {
     "GradeTime": "第4屆 第6次 定期會",
     "PTypTitle": "法規",
-    "CaseNumber": "1",
+    "CaseNumber": "2",
     "KidTitle": "查照\/備查案-法規備查案",
-    "ComeDate": "2025\/05\/28",
-    "ComeNumber": "府勞資字第1140595853號",
-    "OrgTitle": "臺南市政府勞工局",
+    "ComeDate": "2025\/06\/24",
+    "ComeNumber": "府法制字第1140895785B號",
+    "OrgTitle": "臺南市政府法制處",
     "OrgTitle2": "",
-    "CaseCause": "修正「臺南市勞動安全基金收支保管及運用辦法」第一條、第四條。",
+    "CaseCause": "修正「臺南市政府及所屬機關學校提供政府資訊收費標準」。",
     "Content": "",
     "Method": "",
     "CheckDate": "",
@@ -19,13 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=03bb0416-1fd3-4ad5-99fe-69874bc971bc",
-            "FileName": "4-6定-法規備查1-修正「臺南市勞動安全基金收支保管及運用辦法」第一條、第四條.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cd1faa85-cd0b-4a39-ac9b-fc068cf0141c",
+            "FileName": "4-6定-法規備查2--修正「臺南市政府及所屬機關學校提供政府資訊收費標準」.pdf",
             "ErrorMessage": ""
         }
     ],
     "RAttList": [],
-    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ad1956c9-73d6-4164-9df7-648aa2accaab&type=pdf",
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0754c2a8-6072-4f3f-97c8-1d7102c4e9ee&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
     "ReDate": "",
