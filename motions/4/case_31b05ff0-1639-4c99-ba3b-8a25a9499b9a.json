@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2025\/07\/16",
     "SendNumber": "南議工務字第 1140006388號",
-    "DoDesc": "",
+    "DoDesc": "本府就「請辦理新化區那拔里南177區道旁崩溝溪擋土牆(那拔段2019地號)護岸工程。」案，敬答覆如下：\r\n本府水利局業於114年3月26日會同陳情人辦理現地會勘，了解排水現況與問題情形，新化區公所已於114年5月28日提送提案單，預計辦理護岸擋土牆50m，固床工2座，以保護排水護岸邊坡，減少人民生命財產滅失，案件總經費約300萬元，本案已錄案辦理，後續將視市府整體財源狀況辦理。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b96813c9-a116-4e45-b8b7-0b1eabd0e921",
+            "FileName": "4-5定工務議提290號回函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=31b05ff0-1639-4c99-ba3b-8a25a9499b9a&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/08\/26",
+    "ExecuteReNumber": "府水養字第 1141190570號",
+    "ExecuteReMemo": "本府就「請辦理新化區那拔里南177區道旁崩溝溪擋土牆(那拔段2019地號)護岸工程。」案，敬答覆如下：\r\n本府水利局業於114年3月26日會同陳情人辦理現地會勘，了解排水現況與問題情形，新化區公所已於114年5月28日提送提案單，預計辦理護岸擋土牆50m，固床工2座，以保護排水護岸邊坡，減少人民生命財產滅失，案件總經費約300萬元，本案已錄案辦理，後續將視市府整體財源狀況辦理。",
     "ErrorMessage": ""
 }

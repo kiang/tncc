@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2025\/07\/16",
     "SendNumber": "南議工務字第 1140006385號",
-    "DoDesc": "",
+    "DoDesc": "本府就「請辦理新化區東榮里冷水埤溢洪道下游護岸改善工程。」案，敬答覆如下：\r\n本府水利局業於113 年11 月6 日會同陳情人等相關單位至現地辦理會勘，了解排水現況與問題情形，新化區公所已於114 年6 月11 日提送提案單，預計辦理護岸擋土牆74m，以保護排水護岸邊坡，增加排水效益，案件總經費約943萬4,500 元，本案已錄案辦理，後續將視市府整體財源狀況辦理。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e5a16feb-ef72-46de-b205-f0389de73f0e",
+            "FileName": "4-5定工務議提288號回函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=bf38661d-a5fd-4c85-9e8e-a720219275d6&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/08\/26",
+    "ExecuteReNumber": "府水養字第 1141190825號",
+    "ExecuteReMemo": "本府就「請辦理新化區東榮里冷水埤溢洪道下游護岸改善工程。」案，敬答覆如下：\r\n本府水利局業於113 年11 月6 日會同陳情人等相關單位至現地辦理會勘，了解排水現況與問題情形，新化區公所已於114 年6 月11 日提送提案單，預計辦理護岸擋土牆74m，以保護排水護岸邊坡，增加排水效益，案件總經費約943萬4,500 元，本案已錄案辦理，後續將視市府整體財源狀況辦理。",
     "ErrorMessage": ""
 }
