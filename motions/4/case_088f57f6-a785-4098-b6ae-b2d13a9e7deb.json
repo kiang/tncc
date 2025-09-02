@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-市法規案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝",
+    "OrgTitle2": "邱議長莉莉、林燕祝、李中岑、林冠維、周奕齊、林美燕、許至椿、吳通龍、陳秋宏、郭鴻儀、鄭佳欣、杜素吟、陳皇宇、方一峰、陳怡珍、尤榮智、周麗津、蔡宗豪、陳昆和、王家貞、謝舒凡、蔡淑惠、陳碧玉、曾培雅、余柷青、吳禹寰、曾之婕、蔡蘇秋金、蔡秋蘭、邱昭勝、王宣貿、陳秋萍、郭信良、郭清華",
+    "CaseCause": "臺南市房屋稅徵收率自治條例第三條修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市房屋稅徵收率自治條例（下稱本自治條例）於一百十四年一月九日修正公布，並溯自一百十三年七月一日施行，本自治條例第三條第一項第一款第四目修正規定其他住家用房屋課徵稅率，持有二戶以內者，稅率為百分之三點二；三戶至四戶者，為百分之三點八；五戶至六戶者，為百分之四點二；七戶以上者，為百分之四點八，合先敘明。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"前揭修法及施行期程過於倉促，且依房屋稅條例第五條第六項授權財政部訂定之「全國單一自住房屋現值一定金額基準與房屋稅差別稅率之級距、級距數及各級距稅率基準」，僅供直轄市及縣（市）政府參考尚無拘束力，因此，本自治條例修正公布施行對本市市民於全國未設籍之其他自家用房屋未進行整體全盤考量，僅以其他合理需要之理由增加課徵高於以往數倍之房屋稅稅率，對市民財產權之保障影響至鉅，容有重新檢討修正之必要。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"爰依房屋稅條例第五條第二項規定，並於同條例第一項第一款第四目範圍內，再修正本自治條例第一項第一款第四目之其他住家用課徵稅率為持有二戶以內者，稅率調整為百分之二；三戶至四戶者，為百分之二點二；五戶至六戶者，為百分之二點四；七戶以上者，為百分之二點八。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"檢附臺南市房屋稅徵收率自治條例第三條修正草案總說明、條文修正草案對照表、修正草案條文。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"經大會決議通過後，送市府公布施行。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=171634bf-a81a-41aa-995e-0231c0f6504e",
+            "FileName": "附件---4-6定-法規議提1---南市房屋稅徵收率自治條例第三條修正草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b608c4fc-2d4a-44f8-9b5c-75a4a4945d3a",
+            "FileName": "附件4-6定-房屋稅差別稅率.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=088f57f6-a785-4098-b6ae-b2d13a9e7deb&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

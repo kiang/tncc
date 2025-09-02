@@ -17,7 +17,13 @@
     "SendDate": "2025\/08\/21",
     "SendNumber": "南議環衛字第 1140007926號",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9df1dfe6-1399-471b-883b-2ed04c0f7086",
+            "FileName": "4-9臨 環衛市提第13號案-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=20c22937-6c18-4ca9-ba9a-28776fa0a4a1&type=pdf",
     "CheckAttList": [],
