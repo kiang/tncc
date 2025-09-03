@@ -17,7 +17,18 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=04eadbb6-ef6c-444d-a6f6-a7eb804ec03f",
+            "FileName": "專案報告-丹娜絲颱風簡報資料.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a54e3709-13fd-445d-96da-fb53377d45ae",
+            "FileName": "專案報告-丹娜絲颱風補充資料.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a8bba4fc-ebb5-4df6-9b09-a317cb8d81bf&type=pdf",
     "CheckAttList": [],

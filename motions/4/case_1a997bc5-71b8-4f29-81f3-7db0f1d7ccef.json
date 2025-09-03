@@ -14,10 +14,21 @@
     "CheckDesc": "",
     "DoneDate": "2025\/08\/18",
     "DoneDesc": "照市長專案報告結論通過。",
-    "SendDate": "",
-    "SendNumber": "",
-    "DoDesc": "",
-    "AttList": [],
+    "SendDate": "2025\/08\/22",
+    "SendNumber": "南議議事字第 1140007820號",
+    "DoDesc": "中華民國114年8月14日府新影字第1141163070號函覆：本府就「請市府協調有線電視及中華電信提出費用減免方案，針對受災地區用戶減免及緩繳3個月費用，減輕及體恤受災戶之經濟負擔。」案，敬答覆如下：經本府與南天有線電視股份有限公司協調後，該公司基於整體營運考量，無法擴大提供減免3個月方案。另該公司將加強宣導政府其他可能的援救\/補助方式，努力媒合公益相關資源或補助，協力減輕受災戶負擔。",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=197f4cdb-a3b0-416b-bdce-5464aa94b721",
+            "FileName": "專案報告-丹娜絲颱風簡報資料.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c672406b-811f-43bc-af1d-8c185b9305ea",
+            "FileName": "專案報告-丹娜絲颱風補充資料.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1a997bc5-71b8-4f29-81f3-7db0f1d7ccef&type=pdf",
     "CheckAttList": [],
@@ -30,8 +41,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/08\/14",
+    "ExecuteReNumber": "府新影字第 1141163070號",
+    "ExecuteReMemo": "中華民國114年8月14日府新影字第1141163070號函覆：本府就「請市府協調有線電視及中華電信提出費用減免方案，針對受災地區用戶減免及緩繳3個月費用，減輕及體恤受災戶之經濟負擔。」案，敬答覆如下：經本府與南天有線電視股份有限公司協調後，該公司基於整體營運考量，無法擴大提供減免3個月方案。另該公司將加強宣導政府其他可能的援救\/補助方式，努力媒合公益相關資源或補助，協力減輕受災戶負擔。",
     "ErrorMessage": ""
 }

@@ -32,7 +32,13 @@
         }
     ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e7764646-f9f9-4dcd-8f4a-a5613e5d94bd&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=81214a49-1c61-4d52-90bf-771a08b6c364",
+            "FileName": "(4-9臨工務市提3)墊付案補充資料v.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "2025\/07\/28",
     "ReDesc": "一、照聯席審查意見同意墊付。\r\n二、研究發展考核委員會提供之臺南市歷屆青年事務委員會委員名單，請補列各委員之專才及青年事務上主要關心參與之議題予本會全體議員。",
