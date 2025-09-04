@@ -22,6 +22,11 @@
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=14197dbf-f671-4f7d-b830-1f8f4bc3cf7e",
             "FileName": "04-財經6號.pdf",
             "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6494baee-0cf3-4cd5-af13-2d688cfad25b",
+            "FileName": "財經6號補充資料-財政能力分級補助表(1).pdf",
+            "ErrorMessage": ""
         }
     ],
     "RAttList": [],

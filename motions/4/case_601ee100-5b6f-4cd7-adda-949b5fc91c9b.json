@@ -22,6 +22,11 @@
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=627773d5-ef12-40d9-aca3-34e7c57911f4",
             "FileName": "04-財經8號.pdf",
             "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8afa92ec-9713-4809-81fe-f3215564227d",
+            "FileName": "財經8號補充資料-補助的對象及如何支用.pdf",
+            "ErrorMessage": ""
         }
     ],
     "RAttList": [],

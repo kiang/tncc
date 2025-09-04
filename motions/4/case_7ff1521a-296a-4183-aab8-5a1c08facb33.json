@@ -27,6 +27,11 @@
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c2588efb-d865-4b0e-8cc8-295eafa3caae",
             "FileName": "財經10計畫書.pdf",
             "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f9b63b27-6621-4ec2-a1fc-4c3f6de40590",
+            "FileName": "財經第10號案-補充資料.pdf",
+            "ErrorMessage": ""
         }
     ],
     "RAttList": [],
