@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "農業部動植物防疫檢疫署核定本市「114年度豬瘟及口蹄疫防治強化工作計畫」經費新臺幣70萬元（中央補助款63萬元、市配合款7萬元)，因未及納入115年度總預算案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度追加減預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據農業部動植物防疫檢疫署114年7月11日防檢一字第1141862414號函及7月25日防檢一字第1141842048號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：(一)本案總經費新臺幣70萬元(中央補助款63萬元、市配合款7萬元)，因未及納入本府115年度總預算案，為爭取時效，謹請貴會同意先行墊付，俟115年度追加減預算辦理轉正。(二)本計畫主要工作項目為購置防疫相關資材，提供所轄配合落實防疫之養畜戶，以維持豬瘟及口蹄疫非疫區之目標。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年9月2日第713次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案係為獎勵本市獲全國口蹄疫防疫執行成效評比第一組第三名，藉由實質獎勵建立產業界自主防疫概念，以提升國內豬瘟及口蹄疫防疫效能，以維持重要豬病非疫區之目標，且本計畫工作需於114年12月31日前完成，故提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度追加減預算辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6cddd628-0308-4d44-934c-5ec6a25fd680",
+            "FileName": "04-財經5號.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0def6c68-decc-4cc5-8d63-c17910a31404&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

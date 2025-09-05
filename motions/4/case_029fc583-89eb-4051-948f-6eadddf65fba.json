@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2025\/08\/21",
     "SendNumber": "南議環衛字第 1140007947號",
-    "DoDesc": "",
+    "DoDesc": "本府就「建請市府環保局制定並公告「災後垃圾清運標準作業流程(SOP)」,統一各區公所及相關單位作法,確保災後廢棄物清運快速、有序且安全。」案，敬答覆如下：\r\n一、目前針對風災後各類廢棄物，經各單位討論後權責分工如附件。  \r\n二、 針對一般家戶風災廢棄物，已請區公所及里長協助向民眾說明宣導；農損廢棄物則由農業局及農會協助說明宣導，環保局將持續加強宣導周知。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c7a72d7e-89b1-436a-9c7e-d41b9867d3d1",
+            "FileName": "市府回復-4-9臨 議提第3號案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=029fc583-89eb-4051-948f-6eadddf65fba&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/09\/04",
+    "ExecuteReNumber": "府環清字第 1141199028號",
+    "ExecuteReMemo": "本府就「建請市府環保局制定並公告「災後垃圾清運標準作業流程(SOP)」,統一各區公所及相關單位作法,確保災後廢棄物清運快速、有序且安全。」案，敬答覆如下：\r\n一、目前針對風災後各類廢棄物，經各單位討論後權責分工如附件。  \r\n二、 針對一般家戶風災廢棄物，已請區公所及里長協助向民眾說明宣導；農損廢棄物則由農業局及農會協助說明宣導，環保局將持續加強宣導周知。",
     "ErrorMessage": ""
 }
