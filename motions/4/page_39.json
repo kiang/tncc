@@ -4,39 +4,6 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "28",
-        "OrgTitle": "林冠維、周奕齊",
-        "CaseCause": "請市府辦理永康區中興里中興路(忠孝路至中華二路)路面改善工程。",
-        "ProNo": "57c8f9e8-9a09-47e4-8449-f210c4a8a779",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "29",
-        "OrgTitle": "林冠維、周奕齊",
-        "CaseCause": "請市府辦理永康區勝學路(中華一路至勝學路248號段)路面改善工程。",
-        "ProNo": "798cf17d-c6e9-4db5-adbb-cc03027bd2c0",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "30",
-        "OrgTitle": "林冠維、周奕齊",
-        "CaseCause": "請市府辦理永康區東灣里大灣一街(大灣路至民族路)路面改善工程。",
-        "ProNo": "60a1a0b2-5d2d-4ed5-a1e3-b19c2b6fecbc",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "31",
         "OrgTitle": "林冠維、周奕齊",
         "CaseCause": "請市府辦理永康區永明里國民路(中山北路164巷至永明街)路面改善工程。",
@@ -1097,6 +1064,39 @@
         "OrgTitle": "黄肇輝",
         "CaseCause": "建請市府辦理永康區南灣里南興路112巷道路改善工程，以保障民眾通行之安全。",
         "ProNo": "17a02fb6-4d72-4a29-9879-50ffe4435239",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "128",
+        "OrgTitle": "黄肇輝",
+        "CaseCause": "建請市府辦理永康區南灣里南興路道路改善工程，以保障民眾通行之安全。",
+        "ProNo": "d6569bee-b7ce-4178-b082-051ee79fefdc",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "129",
+        "OrgTitle": "黄肇輝",
+        "CaseCause": "建請市府辦理永康區南灣里大灣二街道路改善工程，以保障民眾通行之安全。",
+        "ProNo": "438787c7-27bc-409d-82cb-5119c48135a6",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "130",
+        "OrgTitle": "黄肇輝",
+        "CaseCause": "建請市府辦理永康區南灣里大灣路537巷道路改善工程，以保障民眾通行之安全。",
+        "ProNo": "331ab00c-dbfc-47e4-a26d-887d2671db1f",
         "PagesAll": "57"
     }
 ]

@@ -4,39 +4,6 @@
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "94",
-        "OrgTitle": "陳秋宏",
-        "CaseCause": "建請整修大內青果市場，提供符合安全需求的經營環境。",
-        "ProNo": "87aaebb0-7c50-4474-96fa-e58ac7f1e492",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "95",
-        "OrgTitle": "余柷青",
-        "CaseCause": "新化區山腳里頂山腳段1228地號等3筆農路改善工程。",
-        "ProNo": "89d3b63c-8bfc-4ac5-a574-9d53ed40b08a",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "96",
-        "OrgTitle": "余柷青、陳秋宏",
-        "CaseCause": "大内區二溪里24陵農路排水改善工程。",
-        "ProNo": "d0a57331-8b20-4b1e-a7c7-b40b6963ffee",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "97",
         "OrgTitle": "余柷青",
         "CaseCause": "新化區頂山脚段1890-2地號農路改善工程。",
@@ -1097,6 +1064,39 @@
         "OrgTitle": "臺南市政府文化局",
         "CaseCause": "檢送本市「財團法人臺南市孔廟文化基金會114年度預算書」敬請審議。",
         "ProNo": "d0b0f271-ec89-4097-a72b-0112a8fa07cf",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "1",
+        "OrgTitle": "林志展、李宗翰、沈家鳳",
+        "CaseCause": "增建關仔嶺雞籠山遊客休息觀景平台，提升登山民眾遊客休憩品質。",
+        "ProNo": "0020cf82-0a37-4261-a223-8cfc7f6c3df6",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "王家貞",
+        "CaseCause": "建請市政府對於社會住宅房型配置規劃，能保留10%以上的無障礙房型數量，而該房型內部的環境設施，應以便於身障者其生活需求動線設計為主，以強化此無障礙房型的功能，以期達成身障者真正的良善居家生活便利。",
+        "ProNo": "833734c7-ce53-450f-bfe1-458b544cc45a",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "3",
+        "OrgTitle": "蔡筱薇",
+        "CaseCause": "針對社會住宅政策，建請參考研擬「長者換居社會住宅隨到隨辦專案」。",
+        "ProNo": "9a497dc3-e311-4f09-8682-784bd70e1f61",
         "PagesAll": "57"
     }
 ]

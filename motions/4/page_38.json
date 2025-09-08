@@ -4,39 +4,6 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "26",
-        "OrgTitle": "曾之婕、周奕齊",
-        "CaseCause": "建請於平實公園停車場公車站設置候車亭，以免民眾候車時遭受日曬雨淋。",
-        "ProNo": "a166f10b-e62c-41d3-809c-bebde57c8bda",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "27",
-        "OrgTitle": "吳禹寰、杜素吟",
-        "CaseCause": "建請市府將仁德區文華路二段速限50公里調至60公里，避免速限影響車流順暢，造成民怨。",
-        "ProNo": "e917c6e1-2aa5-463e-ab4c-f24dc6699d81",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "28",
-        "OrgTitle": "陳秋萍",
-        "CaseCause": "建議市區公車於需求較小之路線或時段改採9人巴或小型車行駛。",
-        "ProNo": "3f9b6811-3f07-4bc0-8570-6780a9ff191e",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "29",
         "OrgTitle": "余柷青",
         "CaseCause": "臺南市新化老街周邊商圈停車格不足，建請市府評估新化區廣停7，作為立體停車場的可行性。",
@@ -1097,6 +1064,39 @@
         "OrgTitle": "林冠維、周奕齊",
         "CaseCause": "請市府辦理新化區武安里健康路60巷道路改善工程。",
         "ProNo": "7cf4cde1-e16e-418d-9a9a-7c6927c4add0",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/10\/27",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "28",
+        "OrgTitle": "林冠維、周奕齊",
+        "CaseCause": "請市府辦理永康區中興里中興路(忠孝路至中華二路)路面改善工程。",
+        "ProNo": "57c8f9e8-9a09-47e4-8449-f210c4a8a779",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/10\/27",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "29",
+        "OrgTitle": "林冠維、周奕齊",
+        "CaseCause": "請市府辦理永康區勝學路(中華一路至勝學路248號段)路面改善工程。",
+        "ProNo": "798cf17d-c6e9-4db5-adbb-cc03027bd2c0",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/10\/27",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "30",
+        "OrgTitle": "林冠維、周奕齊",
+        "CaseCause": "請市府辦理永康區東灣里大灣一街(大灣路至民族路)路面改善工程。",
+        "ProNo": "60a1a0b2-5d2d-4ed5-a1e3-b19c2b6fecbc",
         "PagesAll": "57"
     }
 ]

@@ -4,39 +4,6 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "環保衛生",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "9",
-        "OrgTitle": "李鎮國",
-        "CaseCause": "請環保局依法儘速處理永康區中正路 542 巷及中正五街 53 巷有毒廢棄物，還給民眾健康友善的生活空間。",
-        "ProNo": "27cee262-d03f-46eb-9ef0-daf09334ea6f",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "10",
-        "OrgTitle": "蔡麗青",
-        "CaseCause": "建請更新環保局監視器設備，以增進環保局稽查作業效率。\r\n",
-        "ProNo": "e7950276-b55a-4754-9fce-b3b2220a55f5",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "11",
-        "OrgTitle": "沈震東、李宗霖、余柷青、陳皇宇、王宣貿、沈家鳳",
-        "CaseCause": "建請環境保護局將臺南市推廣社區環境教育增能培訓及掃街實作補助計畫之補助經費重新進行研議。",
-        "ProNo": "a2ce8dda-18ee-460b-b064-674c35a2f3c9",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "12",
         "OrgTitle": "沈震東、余柷青",
         "CaseCause": "建請環境保護局藏金閣2.0附近周圍整修，以利整體愛麗絲夢遊仙境主題公園完整性提高。",
@@ -1097,6 +1064,39 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "請辦理改善官田區南119線社子往六雙AC路面改善工程，因年久失修，柏油路面龜裂，破損嚴重，急需辦理改善，以利行車安全。",
         "ProNo": "5d9ca32e-9b13-4ce5-882b-0f7cac12b0f3",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "36",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請辦理下營區營前里健康路221巷周邊巷道改善工程，因年久失修，柏油路面龜裂，破損嚴重，急需辦理改善，以利行車安全。",
+        "ProNo": "f91cc8a8-b396-4957-b1b6-1ebe523f8715",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "37",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請辦理下營區茅營里茅港尾段984號(中營慶福宮前)道路改善工程，因年久失修，柏油路面龜裂，破損嚴重，急需辦理改善，以利行車安全。",
+        "ProNo": "c9661d79-2c4b-40b1-97d7-cf357b44c09a",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "38",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請辦理六甲區六甲里中山路32巷排水改善工程，因地勢低窪，每遇豪雨，現有排水溝無法宣洩，造成該路段淹水，急辦理改善，以杜絕淹水問題。",
+        "ProNo": "84380e68-ba17-46e9-81b4-f4478af5f204",
         "PagesAll": "57"
     }
 ]

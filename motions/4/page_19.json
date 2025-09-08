@@ -4,39 +4,6 @@
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "42",
-        "OrgTitle": "曾之婕",
-        "CaseCause": "建請對崇善里崇善12街柏油路進行刨鋪。",
-        "ProNo": "65671e96-6693-4cad-a01d-de7639e9303b",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/10\/24",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "43",
-        "OrgTitle": "蔡筱薇",
-        "CaseCause": "建請市府重新鋪設中華東路二段41巷道路。",
-        "ProNo": "68e8be32-82f5-45cd-b84b-9e949b5476d6",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/10\/24",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "44",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "六甲區市道165線自六甲郵局前至官田區烏山頭止，因年久失修，路面龜裂破損嚴重，亟需辦理修復，以利行車安全。",
-        "ProNo": "dc5c7cc6-439a-495a-b2d3-ddc871cd8bb6",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/10\/24",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "45",
         "OrgTitle": "尤榮智",
         "CaseCause": "請儘速辦理麻豆區北勢里南59線綠園牧場前道路改善工程，因年久失修，路面龜裂破損嚴重，亟需辦理修復，以利行車安全。",
@@ -1097,6 +1064,39 @@
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府針對北區開元路333巷16弄路面柏油重新鋪設。",
         "ProNo": "663e7138-dd10-4ee9-aa72-d6c14ccc95a8",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "142",
+        "OrgTitle": "周嘉韋",
+        "CaseCause": "建請市府針對北區開元路442巷51弄路面柏油重新鋪設。",
+        "ProNo": "cfd85ccf-5412-4b88-91e3-24d244140b36",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "143",
+        "OrgTitle": "周嘉韋",
+        "CaseCause": "建請市府針對北區實踐街路面柏油重新鋪設。",
+        "ProNo": "14f5922f-5ea0-4c6a-b0b7-7337469dba05",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "144",
+        "OrgTitle": "周嘉韋",
+        "CaseCause": "建請市府針對北區實踐街39巷路面柏油重新鋪設。",
+        "ProNo": "5c1453cc-4f28-4358-9c8f-c7aee56750ec",
         "PagesAll": "57"
     }
 ]
