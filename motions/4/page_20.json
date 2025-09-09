@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "143",
+        "OrgTitle": "周嘉韋",
+        "CaseCause": "建請市府針對北區實踐街路面柏油重新鋪設。",
+        "ProNo": "14f5922f-5ea0-4c6a-b0b7-7337469dba05",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "144",
+        "OrgTitle": "周嘉韋",
+        "CaseCause": "建請市府針對北區實踐街39巷路面柏油重新鋪設。",
+        "ProNo": "5c1453cc-4f28-4358-9c8f-c7aee56750ec",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "145",
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府針對中西區正興街路面柏油重新鋪設。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "陳秋宏",
         "CaseCause": "大丘里中坑(大丘園段121地號)野溪邊坡未設護岸，建請改善。",
         "ProNo": "308edd14-7956-4fed-9af6-bc6f7d011c27",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "243",
-        "OrgTitle": "陳秋宏",
-        "CaseCause": "六甲區大丘里北勢坑(九重橋段43-2地號)野溪邊坡未設護岸，建請改善。",
-        "ProNo": "c67ecc59-b0db-4de6-bb99-28e9715774ea",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "244",
-        "OrgTitle": "沈家鳳、陳秋宏",
-        "CaseCause": "建請市府於南市污水下水道系統分支管線工程完工後，於8米以上道路應一律重新刨除鋪設新路面。",
-        "ProNo": "b49b06b7-d2ff-4726-a3a6-6774c1e15851",
         "PagesAll": "57"
     }
 ]

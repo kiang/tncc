@@ -16,9 +16,15 @@
     "DoneDesc": "送市府研議辦理。",
     "SendDate": "2025\/07\/14",
     "SendNumber": "南議議事字第 1140006256號",
-    "DoDesc": "",
+    "DoDesc": "本府就「建請臺南市政府儘速檢討修正「臺南市新設置畜牧設施管理自治條例」，對公告列入易淹水地區之農牧用地應禁止新設置畜牧設施之申請及刪除第五條第一項第五款但書一併納入規範，以免影響周邊居民、農作物及禽畜安全。」案，敬答覆如下：\r\n一、就本市易淹水地區之農牧用地應禁止新設置畜牧設施之申請案，如申請業者評估設置區位較低漥，可經由填土方式來提高場內之地基高度，若禁止業者申請恐有違其從事畜牧生產之權利及財產權之使用。\r\n二、臺南市新設置畜牧設施管理自治條例第五條第一項第五款，…「但上列建物總數在三戶以下並設置一年以上者，不在此限。」本府再行研議。\r\n三、承蒙貴席對於農政業務之關切，本府至為感謝，尚請不吝賜教。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ec064e58-6df3-4ac1-a0df-8d42cee9d864",
+            "FileName": "府農畜字第1141223068號.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a2978ff3-b494-4bc5-9eaa-536798cc4d64&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/09\/09",
+    "ExecuteReNumber": "府農畜字第 1141223068號",
+    "ExecuteReMemo": "本府就「建請臺南市政府儘速檢討修正「臺南市新設置畜牧設施管理自治條例」，對公告列入易淹水地區之農牧用地應禁止新設置畜牧設施之申請及刪除第五條第一項第五款但書一併納入規範，以免影響周邊居民、農作物及禽畜安全。」案，敬答覆如下：\r\n一、就本市易淹水地區之農牧用地應禁止新設置畜牧設施之申請案，如申請業者評估設置區位較低漥，可經由填土方式來提高場內之地基高度，若禁止業者申請恐有違其從事畜牧生產之權利及財產權之使用。\r\n二、臺南市新設置畜牧設施管理自治條例第五條第一項第五款，…「但上列建物總數在三戶以下並設置一年以上者，不在此限。」本府再行研議。\r\n三、承蒙貴席對於農政業務之關切，本府至為感謝，尚請不吝賜教。",
     "ErrorMessage": ""
 }
