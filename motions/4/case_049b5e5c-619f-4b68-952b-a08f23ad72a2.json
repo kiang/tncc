@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "7",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2025\/09\/09",
+    "ComeNumber": "府文秘字第1141266503號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送「臺南市美術館115年度預算書」，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據臺南市美術館設置自治條例第二十八條第二項：「政府機關核撥之經費超過本館當年度預算收入來源百分之五十者，應由監督機關將本館年度預算書，送臺南市議會審查。」\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本預算書業於114年7月11日經臺南市美術館董監事聯席會審議。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府114年8月19日第711次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9da4f391-119a-4dd8-93ee-87067938f153",
+            "FileName": "市提7附件-南美館預算書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=049b5e5c-619f-4b68-952b-a08f23ad72a2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
