@@ -2,6 +2,83 @@
     {
         "DoneDate": "2025\/08\/18",
         "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "41",
+        "OrgTitle": "朱正軒",
+        "CaseCause": "為改善鹽洲里鹽行路段每逢大雨積淹水問題，建請市府新建截流分洪設施，將雨水有效導引至鹽洲抽水站。",
+        "ProNo": "6915d865-d453-4c35-9117-5199c70d220a",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2025\/08\/18",
+        "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "42",
+        "OrgTitle": "方一峰",
+        "CaseCause": "西港區中洲庄内排水不良，建請改善。",
+        "ProNo": "5478868c-5778-43dc-9802-259467d9f75d",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2025\/08\/18",
+        "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "43",
+        "OrgTitle": "李鎮國",
+        "CaseCause": "因為近期中度丹娜絲颱風、0728、0802西南氣流導致各地區皆淹水，氣候多變，強降雨已成常態，建議市府將簡易輕型防水閘門補助再次納入救災工作補助項目，以減少民眾淹水風險、提升建築安全及減少財物損失。",
+        "ProNo": "9e55f083-2bf1-4a3e-aa4c-2ed6007b074b",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2025\/08\/18",
+        "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "44",
+        "OrgTitle": "沈家鳳",
+        "CaseCause": "建請市府儘速進行東山區聖賢里田尾51號至61號門前道路改善工程，以利人車通行安全。",
+        "ProNo": "7e9519ab-c407-467c-b427-9af4e6d5a094",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2025\/08\/18",
+        "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "45",
+        "OrgTitle": "楊中成",
+        "CaseCause": "請市府儘速依公告都市計畫道路寬度範圍辦理「永康區王行路246巷（北側東西向部分路段）都市計畫道路拓寬工程」以解決道路寬度不足造成民眾通行不便及財損等民怨，俾利民眾通行安全。",
+        "ProNo": "568e0426-0877-4277-b4ee-3c420c91a971",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2025\/08\/18",
+        "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "法規",
+        "KidTitle": "議員提案-市法規案",
+        "CaseNumber": "1",
+        "OrgTitle": "周嘉韋、林依婷、謝舒凡、李宗翰",
+        "CaseCause": "修正「臺南市市區道路管理自治條例」第四條、第七條、第九條、第十八條、第二十八條等條文。",
+        "ProNo": "57052312-a10a-46b9-b8d0-656ff22f07c9",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2025\/08\/18",
+        "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "臨時動議",
+        "KidTitle": "臨時動議-臨時動議",
+        "CaseNumber": "1",
+        "OrgTitle": "邱議長莉莉、林副議長志展、周嘉韋、郭鴻儀、黃麗招、鄭佳欣、陳秋宏、沈家鳳、沈震東、林依婷、蔡筱薇、謝舒凡、李宗翰、余柷青、黄肇輝、杜素吟、陳碧玉",
+        "CaseCause": "為體恤臺南市民近日面對天然災害之辛苦，建請臺南市政府將超收稅額及超收交通違規之罰款，以現金普發還予臺南市民。",
+        "ProNo": "62a9aa92-1522-4ab8-9ef1-e386ea100ff4",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2025\/08\/18",
+        "GradeTime": "第4屆 第9次 臨時會",
         "PTypTitle": "市長專案報告",
         "KidTitle": "專案報告-專案報告",
         "CaseNumber": "1",
@@ -1020,83 +1097,6 @@
         "OrgTitle": "蔡育輝",
         "CaseCause": "建請市政府編列預算辦理「白河區昇安里廣播設備改善工程」，以利政令宣導。",
         "ProNo": "507c346a-a6f3-4d6b-918c-c06837f44974",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "83",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "本市東山區東興一街、東興二街道路名與該路兩邊住戶門牌不一，請統一路名、 戶籍門牌。",
-        "ProNo": "ae9e0406-1dc2-4823-bfb7-64191e21464f",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "84",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府活化活動中心使用效益，並設置模範活動中心遴選、獎勵制度。",
-        "ProNo": "b825119c-1aad-45d8-818e-c647d178cae7",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "85",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府再優化里社區活動中心線上租借網站，建立一致性的資訊露出、增設線上繳費系統、確認手續完成後的即時資訊揭示。",
-        "ProNo": "ea90b49a-b674-47ec-8566-44b3c1d7c2bf",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "86",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請臺南市政府提高「臺南市區域發展及行銷跨區實地研習活動實施計劃」每人補助由3,500元增至3,800元。",
-        "ProNo": "f7d4a77c-18f2-4896-9422-80a5934aab26",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "87",
-        "OrgTitle": "沈家鳳、余柷青",
-        "CaseCause": "建議市府每年舉辦兩場集體結婚活動，分別於溪南與溪北地區舉行，鼓勵市民踴躍參加並擴大政策效益。",
-        "ProNo": "a4952127-2d52-47b0-838a-c71f89127178",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "88",
-        "OrgTitle": "余柷青",
-        "CaseCause": "新化納骨塔(懷恩堂)現有塔位已近飽和，建請市府評估新建規劃以及內部櫃位改裝。",
-        "ProNo": "2f9f6909-624b-43b5-9509-3ffd8109b572",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "89",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請臺南市政府於各團體辦理「推展里政業務宣導活動曁父(母)親節表揚大會」時，得比照特殊節慶(春節、端午節、中秋節及重陽節)宣導活動，得以桌餐(每桌新臺幣四千元)支應，俾利活動順利舉辦，提升民眾參與感與節日儀式感。",
-        "ProNo": "b3d4afe8-eb8b-4161-804c-4e244df4f591",
         "PagesAll": "57"
     }
 ]
