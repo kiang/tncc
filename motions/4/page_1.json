@@ -13,6 +13,17 @@
     {
         "DoneDate": "",
         "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府原住民族事務委員會",
+        "CaseCause": "原住民族委員會核定本府「114年度建置原住民族群主流化友善公共空間計畫-建置kasa'opoan聚會所興建工程」案，規劃設計經費新臺幣（以下同）300萬元整（中央補助款219萬元，市配合款81萬元）未及納入115年度總預算案，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度追加減預算時辦理轉正，敬請審議。",
+        "ProNo": "dc4a02ba-9e26-4dd5-871f-1d0ed8391ee1",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "2",
@@ -498,6 +509,17 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "21",
+        "OrgTitle": "臺南市政府消防局",
+        "CaseCause": "修正「臺南市舉發違反消防法第十五條案件獎勵辦法」。",
+        "ProNo": "db53f982-13c2-44e5-a1c5-f777e1cca889",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府勞工局",
@@ -536,6 +558,17 @@
         "OrgTitle": "臺南市政府社會局",
         "CaseCause": "廢止「臺南市社會福利基金收支保管及運用辦法」。",
         "ProNo": "b53333e8-8961-4d34-aed3-f142a69a458f",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規備查案",
+        "CaseNumber": "5",
+        "OrgTitle": "臺南市政府法制處",
+        "CaseCause": "訂定「臺南市虎頭埤風景區收費標準」。",
+        "ProNo": "8e361f09-9cf9-4b71-83ed-1b9fd029d7ca",
         "PagesAll": "57"
     },
     {
@@ -1064,39 +1097,6 @@
         "OrgTitle": "李偉智",
         "CaseCause": "建請市府儘速改善新化區礁坑里礁坑子段890-1農路，以利民眾使用。",
         "ProNo": "3bfaeb5d-294e-4e2a-8d36-8b9d905fbfd6",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "19",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府儘速改善山上區平陽里仙控麻農路擋土牆，以利民眾使用。",
-        "ProNo": "4a42d6d8-87b6-4125-8da6-3e506bda9bfa",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "20",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府儘速改善新化區羊林里那拔林段750及2326地號旁AC農路往接天寺路面，以利民眾使用。",
-        "ProNo": "3f6505b8-662b-40d2-b326-2a503606969b",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "21",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請台南市政府農業局針對114年丹娜絲颱風畜牧場受損嚴重，因早期傳統式設備，產業升級設備復養以簡化流程變更，容許使用案補照等畜牧場申請，以便畜牧場業主復養。",
-        "ProNo": "4fc4272c-415f-41f9-8e36-23c930e5fc2e",
         "PagesAll": "57"
     }
 ]

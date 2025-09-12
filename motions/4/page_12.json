@@ -4,6 +4,39 @@
         "GradeTime": "第4屆 第8次 臨時會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "3",
+        "OrgTitle": "王家貞",
+        "CaseCause": "本市東區平實公園經常有成群流浪犬出沒，為維護民眾安全，市政府應儘速進行捕捉安置。",
+        "ProNo": "94a785f9-cb52-4b36-b9e6-5de51b56a5fd",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "4",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請改善麻豆區埤頭里廟後段963至654地號農路改善工程，因年久失修，路面龜裂破損嚴重，急需辦理改善，以利行車安全。",
+        "ProNo": "31683842-f3f3-48eb-95be-8469c2590cfa",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "5",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請改善六甲區大丘里匏仔寮(九重橋段20地號)農路邊坡改善工程，因年久失修，道路破損路面滑動，急辦理改善，以利行車安全。",
+        "ProNo": "8a5bca2d-f047-4c7d-b1cf-e9a6aea8b816",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "6",
         "OrgTitle": "尤榮智",
         "CaseCause": "請改善六甲區港子頭段24-1、25-1、17-5及25-4等地號路面改善工程，因年久失修，路面破損嚴重，急辦理改善，以利農產品運搬。",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "黄肇輝",
         "CaseCause": "建請市府辦理永康區鹽行里中正六街道路改善工程，以保障民眾通行之安全。",
         "ProNo": "2387c57a-40de-4ef9-9362-11ed266b7204",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "20",
-        "OrgTitle": "黄肇輝",
-        "CaseCause": "建請市府辦理永康區龍潭里育樂街104巷67弄道路改善工程，以保障民眾通行之安全。",
-        "ProNo": "69e975fb-3ee8-4151-9ff0-9c09d830a773",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "21",
-        "OrgTitle": "黄肇輝",
-        "CaseCause": "建請市府辦理永康區南灣里立興街道路改善工程，以保障民眾通行之安全。",
-        "ProNo": "73d9c97d-eb65-4f23-b0af-d8659ffca6c5",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "22",
-        "OrgTitle": "曾之婕",
-        "CaseCause": "建請對巴克禮公園竹溪流域進行清淤及整治，以維護周邊生態環境。",
-        "ProNo": "e34b983c-5696-4bc5-9417-a2097ce3ec68",
         "PagesAll": "57"
     }
 ]

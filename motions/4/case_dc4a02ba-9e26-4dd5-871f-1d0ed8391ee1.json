@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/09\/02",
+    "ComeNumber": "府原綜字第1141237971號",
+    "OrgTitle": "臺南市政府原住民族事務委員會",
+    "OrgTitle2": "",
+    "CaseCause": "原住民族委員會核定本府「114年度建置原住民族群主流化友善公共空間計畫-建置kasa'opoan聚會所興建工程」案，規劃設計經費新臺幣（以下同）300萬元整（中央補助款219萬元，市配合款81萬元）未及納入115年度總預算案，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據原住民族委員會114年7月24日原民建字第11400366083號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款「經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」及第45點第2、3款規定辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：該會114年度同意補助本案規劃設計費300萬元整（中央補助款219萬元，市配合款81萬元），因未及納入115年度總預算案，謹請貴會同意先行辦理墊付，俟115年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年8月19日第711次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：為配合「114年度建置原住民族群主流化友善公共空間計畫」經費執行期程，須於114年11月30日前完成發包，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=661f5ec8-167a-44e9-8a31-b39f67260fe9",
+            "FileName": "民教市提2(原民會)-附件(核定函及計畫).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=dc4a02ba-9e26-4dd5-871f-1d0ed8391ee1&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
