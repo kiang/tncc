@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "2",
+    "KidTitle": "議員提案-市法規案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "周嘉韋、謝舒凡、林依婷、李宗翰",
+    "OrgTitle2": "邱議長莉莉、林副議長志展、李宗霖、陳秋宏、陳皇宇、黄肇輝、楊中成、郭鴻儀、黃麗招、蔡筱薇、朱正軒、沈家鳳、蔡蘇秋金、李文俊、王宣貿、鄭佳欣",
+    "CaseCause": "修正「臺南市市區道路管理自治條例」第四條、第七條、第九條、第十八條、第二十八條等條文。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為維護市區道路之使用安全，保障用路人權益，並給予管理機關合理之權限，使其具備一定程度之執法依據，遂擬具「臺南市市區道路管理自治條例」部分條文修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"市區道路之養護，應針對其結構之安全性應設置檢測年限，明確規範管理機關之責任。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"將現有巷道之名稱定義明確，並將現有巷道之改善、養護權責劃分清楚，由市區道路之管理機關負責。且對已成立公用地役關係之市區道路，亦賦予管理機關設置排水系統、埋設公共設施管線等權限。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"對於人行道之管理維護，明訂人行道管理維護之責，應由行政機關為之，並明文管理機關所需負擔之範圍，使人行道之管理得以權責分明。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=18500ce2-a93c-40ee-b1af-b60c9a585163",
+            "FileName": "4-6定-法規議提2--附件-總說明、對照表及修正條文---臺南市市區道路管理自治條例部分條文修正草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a934b788-7d96-4cb7-9684-fdccaaa58fd1&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -3,6 +3,17 @@
         "DoneDate": "2025\/07\/02",
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "建設",
+        "KidTitle": "市府提案-一般提案",
+        "CaseNumber": "6",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "檢送「財團法人臺南市孔廟文化基金會113年度決算書」，敬請審議。",
+        "ProNo": "f901f1ec-8ebe-4ae2-9c98-e478c87fd257",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "建設",
         "KidTitle": "議員提案-一般提案",
         "CaseNumber": "1",
         "OrgTitle": "鄭佳欣、李宗霖",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林志展",
         "CaseCause": "建請市政府設立交通改革回應區，主動說明政策目的，並開放民眾表達意見，提升公民參與，積極回應民意。",
         "ProNo": "d95d6c75-1cf5-4440-9879-4fbb6e0ff763",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "55",
-        "OrgTitle": "林志展",
-        "CaseCause": "建請市政府於易淹水地區設置防災型停車場。",
-        "ProNo": "001d567b-f18f-477f-ba85-0051fc535ec2",
         "PagesAll": "57"
     }
 ]
