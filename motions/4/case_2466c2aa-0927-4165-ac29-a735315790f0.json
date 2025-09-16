@@ -14,9 +14,9 @@
     "CheckDesc": "",
     "DoneDate": "2024\/08\/22",
     "DoneDesc": "照委員會結論通過。",
-    "SendDate": "",
-    "SendNumber": "",
-    "DoDesc": "",
+    "SendDate": "2024\/09\/19",
+    "SendNumber": "南議工務字第 1130008090號",
+    "DoDesc": "如附件。",
     "AttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2a4b84e2-63f4-44f9-9b5a-3feed2801402",
@@ -24,7 +24,13 @@
             "ErrorMessage": ""
         }
     ],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=45936da4-7fd2-4e15-bf08-248d27fa302f",
+            "FileName": "「凱米颱風天然災害市府因應對策」專案報告結論之書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2466c2aa-0927-4165-ac29-a735315790f0&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -36,8 +42,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2024\/11\/05",
+    "ExecuteReNumber": "府水綜字第 1132306715號",
+    "ExecuteReMemo": "如附件。",
     "ErrorMessage": ""
 }
