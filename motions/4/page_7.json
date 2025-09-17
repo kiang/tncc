@@ -484,6 +484,17 @@
         "PagesAll": "57"
     },
     {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "11",
+        "OrgTitle": "臺南市政府消防局",
+        "CaseCause": "修正「臺南市政府火災鑑定會設置及審議辦法」，名稱並修正為「臺南市政府火災鑑定會設置及審議辦法」。",
+        "ProNo": "6204ad66-1d22-4571-8a18-ab6fe4c0ba95",
+        "PagesAll": "57"
+    },
+    {
         "DoneDate": "2025\/06\/04",
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "保安",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府加強水萍塭公園地下停車場入口意象及標示。",
         "ProNo": "097ac5c2-c232-436e-8aa3-4f678797a02b",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "54",
-        "OrgTitle": "林志展",
-        "CaseCause": "建請市政府設立交通改革回應區，主動說明政策目的，並開放民眾表達意見，提升公民參與，積極回應民意。",
-        "ProNo": "d95d6c75-1cf5-4440-9879-4fbb6e0ff763",
         "PagesAll": "57"
     }
 ]

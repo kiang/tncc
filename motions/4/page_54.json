@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "18",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請貴局盤點本市長期依賴中國市場之農漁產品，積極開發外銷至其他國家，並研擬適當的內銷方案。",
+        "ProNo": "22e6a64e-fc90-44c6-9bbb-b5b6092b7849",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "19",
+        "OrgTitle": "曾之婕、林冠維、陳秋萍、陳怡珍",
+        "CaseCause": "建請於平實公園區域範圍內，闢建「寵物友善公園」，以符合本市民眾飼養寵物的趨勢及需求。",
+        "ProNo": "4fc32d26-e7c7-441b-9485-389b06551183",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "20",
         "OrgTitle": "林燕祝",
         "CaseCause": "建請市府於永康砲校遷建後之「永康砲校遷建暨創意設計園區」規劃一寵物公園，打造友善動物城市。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "吳禹寰",
         "CaseCause": "建請市府開闢關廟區關廟里關廟消防隊往五甲里鎮安宮旁道路，解決關廟市區嚴重塞車問題。該道路編號為Ⅱ-13、寬15米、長1243米。",
         "ProNo": "2fc35acf-4dbf-4a22-9f7b-f6ccd8584868",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "14",
-        "OrgTitle": "吳禹寰",
-        "CaseCause": "建請市府改善仁德區三甲一街道路問題，因年久失修，路面破損嚴重，急需改善。",
-        "ProNo": "6db9be24-53f8-42e2-b8f6-8b3212d5daa2",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "15",
-        "OrgTitle": "吳禹寰、郭鴻儀",
-        "CaseCause": "建請市府儘速進行仁德區春風壘球場旁閒置空地路面改善工程。",
-        "ProNo": "55ac478a-9fd9-4796-8f32-47b3832553bd",
         "PagesAll": "57"
     }
 ]
