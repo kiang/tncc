@@ -19,6 +19,11 @@
     "DoDesc": "",
     "AttList": [
         {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=90812a08-308b-4b60-9ad4-79e7889dd700",
+            "FileName": "4-5定民政教育4號案補充資料.pdf",
+            "ErrorMessage": ""
+        },
+        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6f13b700-a647-418f-b003-68eb34e073eb",
             "FileName": "定4-5-民教市提4-113年度台南市體育發展基金會決算書.pdf",
             "ErrorMessage": ""
