@@ -31,7 +31,18 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d5e7d3d5-d74b-4324-a13b-8a917c90db71&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7f22a124-14b7-4712-b812-4ccc4df2ee56",
+            "FileName": "補充資料-交通局公文.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=247fb268-eeab-400f-a52f-e5a5b692529a",
+            "FileName": "補充資料-歷次提請議會出具同意函之交通建設計畫經費及進度資料.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "2025\/09\/17",
     "ReDesc": "",
