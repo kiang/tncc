@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "建設",
         "KidTitle": "市府提案-一般提案",
+        "CaseNumber": "5",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "檢送本市「財團法人台南市文化基金會113年度決算書」，敬請審議。",
+        "ProNo": "266ea4c3-8312-4514-b6c3-001b4b893645",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "市府提案-一般提案",
         "CaseNumber": "6",
         "OrgTitle": "臺南市政府文化局",
         "CaseCause": "檢送「財團法人臺南市孔廟文化基金會113年度決算書」，敬請審議。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府提升公車量能，增加熱點班次，實現公車捷運化之願景。",
         "ProNo": "49b80bcd-fc30-4d4d-bc63-855abfed4c10",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "53",
-        "OrgTitle": "周嘉韋",
-        "CaseCause": "建請市府加強水萍塭公園地下停車場入口意象及標示。",
-        "ProNo": "097ac5c2-c232-436e-8aa3-4f678797a02b",
         "PagesAll": "57"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "40",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請市府編列預算，規劃遷移新樓醫院旁消防栓(新樓街、前鋒路口轉角)，以利人車通行安全。",
+        "ProNo": "cc7ea8be-fbee-4cb3-af52-9aaaa2f2280f",
+        "PagesAll": "57"
+    },
+    {
         "DoneDate": "2023\/07\/04",
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "保安",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "王家貞",
         "CaseCause": "建請工務局全面清查市區大型道路中央安全島內所種植的路樹其安全穩健之情況，以確保行經車輛及用路人的安全。",
         "ProNo": "887f8a64-d3ba-4d5c-b4d6-b62bfc5e7487",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "11",
-        "OrgTitle": "王家貞",
-        "CaseCause": "市區內目前現有的人行道，因長期高使用情形下，使其路面破損、不平處的比例甚高，為保障行人用路的安全，建請市府研議成立「路平專案」，進行全市人行道總體檢，積極加強維護人行步道的安全。",
-        "ProNo": "de6740d9-ffa7-4e7a-bbf4-62d027cab91d",
         "PagesAll": "57"
     }
 ]
