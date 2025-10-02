@@ -90,6 +90,17 @@
     {
         "DoneDate": "",
         "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "專案報告-專案報告",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府財政稅務局",
+        "CaseCause": "「房屋稅徵收率修正實施後徵收情形與影響」專案報告",
+        "ProNo": "7ac91a48-e47b-4a2d-9ed5-2dba9c15a099",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "環保衛生",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
@@ -525,6 +536,50 @@
         "OrgTitle": "臺南市政府消防局",
         "CaseCause": "修正「臺南市舉發違反消防法第十五條案件獎勵辦法」。",
         "ProNo": "db53f982-13c2-44e5-a1c5-f777e1cca889",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "22",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "修正「臺南市立博物館組織規程」部分條文及「臺南市立博物館編制表」。",
+        "ProNo": "7f5b6890-b52e-43eb-841f-6f11e26e3674",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "23",
+        "OrgTitle": "臺南市政府教育局",
+        "CaseCause": "廢止「臺南市南瀛科學教育館組織規程」及「臺南市南瀛科學教育館編制表」。",
+        "ProNo": "878fee4e-01d3-473d-9948-d7426a021508",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "24",
+        "OrgTitle": "臺南市政府教育局",
+        "CaseCause": "修正「臺南市家庭教育中心編制表」。",
+        "ProNo": "f72f02f6-d85d-472b-b404-6858797cb658",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "25",
+        "OrgTitle": "臺南市政府教育局",
+        "CaseCause": "修正「臺南市政府教育局組織規程」部分條文及「臺南市政府教育局編制」。",
+        "ProNo": "208a5907-a86f-4c60-94e3-36013dce0592",
         "PagesAll": "57"
     },
     {
@@ -1042,61 +1097,6 @@
         "OrgTitle": "余柷青",
         "CaseCause": "建請市府積極辦理新化區(北勢里)農地重劃區E24農路改善工程(第二期)。",
         "ProNo": "392a8d8f-a70d-4553-a758-ad90d4f4b66a",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "12",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府積極辦理新化區(北勢里)農地重劃區E26及E29農路改善工程。",
-        "ProNo": "7b650ef3-4a3c-453c-a1a7-0c49cb92bc5d",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "13",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府積極辦理新化區(北勢里)農地重劃區E29既有路面及擋土牆改善工程。",
-        "ProNo": "cca260b5-d51e-4f01-bce9-ea412feaf45e",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "14",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府積極辦理新化區(崙頂里)農地重劃區E77農路改善工程。",
-        "ProNo": "b03da49c-b7e1-495c-b53f-0030274cc306",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "15",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府積極盤查並補登沒有地號之土地，並依法辦理補登記為國有土地。",
-        "ProNo": "26549076-a0eb-4ffd-8915-1dbbc9d9436d",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "16",
-        "OrgTitle": "郭鴻儀、謝舒凡",
-        "CaseCause": "請市府強化私有農地之管理責任，以防範災害並減輕公部門負擔。",
-        "ProNo": "9ccb56c3-63f6-44ff-9f18-b2a92692911b",
         "PagesAll": "57"
     }
 ]
