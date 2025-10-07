@@ -586,6 +586,17 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "26",
+        "OrgTitle": "臺南市政府經濟發展局",
+        "CaseCause": "修正「臺南市市場處組織規程」第一條。",
+        "ProNo": "bfc88f23-4083-48c1-986b-5d5252602915",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府勞工局",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "余柷青",
         "CaseCause": "建請市府積極辦理新化區(山腳里)知義農地重劃區大埤十九路農路改善工程。",
         "ProNo": "69183519-0175-4ea8-a732-d44d7fc8a614",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "11",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府積極辦理新化區(北勢里)農地重劃區E24農路改善工程(第二期)。",
-        "ProNo": "392a8d8f-a70d-4553-a758-ad90d4f4b66a",
         "PagesAll": "57"
     }
 ]

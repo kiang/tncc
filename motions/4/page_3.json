@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第9次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "30",
+        "OrgTitle": "李偉智",
+        "CaseCause": "建請市府儘速改善新化區北勢路與台39線交叉路口排水系統。",
+        "ProNo": "ff8c043d-3e5a-43ae-9f23-86652b38cc18",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2025\/08\/18",
+        "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "31",
         "OrgTitle": "李偉智",
         "CaseCause": "建請市府儘速改善新化區唪口里南144-1大德路面，以利民眾使用。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "王宣貿",
         "CaseCause": "建請臺南市政府協助改善新營國小活動中心前地磚積水問題。",
         "ProNo": "d8e306f2-4451-40a0-b46b-135cfac02e94",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "72",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "建請市府研議將永康區勝利里納入本市後甲國中之學區，以保障里內學生之受教權。",
-        "ProNo": "b519e1ac-e873-4553-bec1-c06bbe10d541",
         "PagesAll": "57"
     }
 ]

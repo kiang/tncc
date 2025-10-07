@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2025\/08\/22",
     "SendNumber": "南議工務字第 1140007971號",
-    "DoDesc": "",
+    "DoDesc": "本府就「西港區中洲庄內排水不良，建請改善」案，敬答覆如下：\r\n西港區中洲社區位於西港排水流域，屬劉厝排水系統上游，查該處西港排水斷面已符合十年洪水頻率通洪，惟因地勢平緩及受外水感潮高漲影響，颱風豪雨期間不易重力排水，形成局部短時積水情形。\r\n本府水利局刻正辦理劉厝排水系統渠道治理，並針對主支流水路定期清疏維持順暢，為因應強降雨再提升社區防洪保護，將研討中洲社區側溝匯入出口予增設自動水門，藉此建立第二道防線，降低外水倒灌風險，視年度預算及財源情形儘速辦理改善，短期將密切監控水情緊急時調度中央機組支援排洪。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b40c0c1a-dffc-4b3a-9e22-5ac62966e07a",
+            "FileName": "4-9臨工務議提42附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5478868c-5778-43dc-9802-259467d9f75d&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/10\/02",
+    "ExecuteReNumber": "府水工字第 1141331932號",
+    "ExecuteReMemo": "本府就「西港區中洲庄內排水不良，建請改善」案，敬答覆如下：\r\n西港區中洲社區位於西港排水流域，屬劉厝排水系統上游，查該處西港排水斷面已符合十年洪水頻率通洪，惟因地勢平緩及受外水感潮高漲影響，颱風豪雨期間不易重力排水，形成局部短時積水情形。\r\n本府水利局刻正辦理劉厝排水系統渠道治理，並針對主支流水路定期清疏維持順暢，為因應強降雨再提升社區防洪保護，將研討中洲社區側溝匯入出口予增設自動水門，藉此建立第二道防線，降低外水倒灌風險，視年度預算及財源情形儘速辦理改善，短期將密切監控水情緊急時調度中央機組支援排洪。",
     "ErrorMessage": ""
 }

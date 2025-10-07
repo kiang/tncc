@@ -3,6 +3,17 @@
         "DoneDate": "2023\/07\/04",
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "財經",
+        "KidTitle": "市府提案-一般提案",
+        "CaseNumber": "28",
+        "OrgTitle": "臺南市政府財政稅務局",
+        "CaseCause": "為辦理標售本府經管坐落本市南區省躬段324地號等5筆非公用市有土地，謹依土地法第25條規定之處分程序，敬請審議。",
+        "ProNo": "a4170c8d-a7e4-4503-89f6-e822793ee376",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
         "CaseNumber": "1",
         "OrgTitle": "盧崑福",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "陳秋宏",
         "CaseCause": "請增設麻豆區謝厝寮段980-1、980-11及983-12等3筆地號擋土牆。",
         "ProNo": "9bd3220c-cca4-4cd1-9919-15e2de9c98c5",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "100",
-        "OrgTitle": "曾培雅、林美燕",
-        "CaseCause": "建請市府於東區、南區、安平區各建設一座合格寵物公園。",
-        "ProNo": "2a9e801d-09e7-4737-abe3-b9995ae0d31e",
         "PagesAll": "57"
     }
 ]
