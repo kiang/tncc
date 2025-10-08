@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2025\/10\/07",
+    "ComeNumber": "府經場攤字第1141397562號",
+    "OrgTitle": "臺南市政府經濟發展局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市攤販管理自治條例第六條」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"考量本府列管之集合攤販多為本市攤販管理自治條例施行前已營業之集合攤販，自治組織已經營許久且營業範圍固定，且基於近年來自治組織反映申請許可程序繁瑣，對長期穩定經營之集合攤販帶來負擔，爰擬具本修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經114年10月7日第718次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市攤販管理自治條例第六條」修正草案(含總說明、逐條說明及草案條文)1份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d635068b-8e43-4c60-a9b9-d6154590caf4",
+            "FileName": "4-6定-法規巿提2-修訂「臺南市攤販管理自治條例第六條」草案--總說明、修正條文對照表等.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=48754679-9865-4126-b279-d958f3213294&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第5次 臨時會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "5",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府地政局儘速在大社重劃區東大社段774地號前進行溝渠改善工程，俾利農耕。",
+        "ProNo": "82e5d7bb-e64b-4162-860c-81f5d455bd2f",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "6",
         "OrgTitle": "蔡秋蘭",
         "CaseCause": "建請臺南市政府辦理：佳里區塭子內農地重劃區東十二路(港墘段86地號)農路改善工程。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "黄肇輝",
         "CaseCause": "有關永康區探索公園照明不足，建請市府改善照明設備，以維護市民安全。",
         "ProNo": "1b4e65b4-4a22-4228-afd5-46ebc3e59d70",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "13",
-        "OrgTitle": "黄肇輝",
-        "CaseCause": "建請市府辦理永康區成功里中華路88號及96號巷道3處道路改善工程，以保障民眾通行之安全。",
-        "ProNo": "4a4ca681-285e-4b7c-aa3b-bd0564cd27cf",
         "PagesAll": "57"
     }
 ]

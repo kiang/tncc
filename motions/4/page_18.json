@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "33",
+        "OrgTitle": "林依婷",
+        "CaseCause": "建請重鋪郡平路口路外停車場場地。",
+        "ProNo": "702af980-063f-4cea-8229-b8a21744c45c",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "34",
         "OrgTitle": "盧崑福",
         "CaseCause": "安平區建平十七街由建平路往西至文平路之路段，路邊停車格往運河旁邊的公園內縮案。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "曾之婕",
         "CaseCause": "建請修補東區崇仁街與龍山街口至龍山街87號之人行道路面。",
         "ProNo": "7435d21a-aa4f-430d-b770-1eaa48a81c26",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/10\/24",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "13",
-        "OrgTitle": "曾之婕",
-        "CaseCause": "建請修補東區龍山街87號至龍山街與崇善路口之人行道路面。",
-        "ProNo": "792a23c8-2f59-4e56-b514-1de8ee555c4b",
         "PagesAll": "57"
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "臨時動議",
+        "KidTitle": "臨時動議-臨時動議",
+        "CaseNumber": "7",
+        "OrgTitle": "余柷青",
+        "CaseCause": "新化果菜市場東面及南面無遮蔽物，致使太陽直射攤位及潑雨，情況嚴重，影響攤商營運；地面濕滑，造成消費者和攤商時常滑倒受傷，建請施作遮雨棚改善。",
+        "ProNo": "e2b71558-e6f1-4a56-ab06-dc62883e049d",
+        "PagesAll": "57"
+    },
+    {
         "DoneDate": "2023\/07\/04",
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "民政教育",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林美燕",
         "CaseCause": "南區永華國小正校門內廣場東側連鎖磚鋪面破損不堪，請市府儘速改善。",
         "ProNo": "6173216a-393b-487c-b7be-8ce0d26a5d1f",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "82",
-        "OrgTitle": "周嘉韋、林依婷、沈家鳳",
-        "CaseCause": "建請市府定期針對教師安排心理健康測驗及抗壓能力評估。",
-        "ProNo": "50f3ac9f-f685-4eb4-8aa6-1813734fe079",
         "PagesAll": "57"
     }
 ]
