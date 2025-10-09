@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第5次 臨時會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "4",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府地政局儘速在新市區東大社段772、773地號土地施作版橋，以利農耕。",
+        "ProNo": "1c030cd3-f398-4891-9712-d162e59e5123",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "5",
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府地政局儘速在大社重劃區東大社段774地號前進行溝渠改善工程，俾利農耕。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "鄭佳欣",
         "CaseCause": "建請修正臺南市政府廣告物管理自治條例內容，以改善本市市容景觀，並維護市民安全。",
         "ProNo": "8e76d08b-e1f1-44e8-a128-19f147ae450b",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "12",
-        "OrgTitle": "黄肇輝",
-        "CaseCause": "有關永康區探索公園照明不足，建請市府改善照明設備，以維護市民安全。",
-        "ProNo": "1b4e65b4-4a22-4228-afd5-46ebc3e59d70",
         "PagesAll": "57"
     }
 ]

@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第6次 臨時會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請市府加速本市公車路網檢討改善，提升本市公共運輸使用率。",
+        "ProNo": "80f982e9-d3cf-43fd-a990-78c7c7870e92",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "3",
         "OrgTitle": "曾之婕",
         "CaseCause": "建請將東區崇明路、原臺南榮譽國民之家舊址，所規劃之「停28」基地區域，興建多功能大樓，並納入立體停車場、東區運動中心、東區區公所、戶政事務所及忠孝里活動中心同時進駐，以利便民。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市議會本會",
         "CaseCause": "檢送本會112年第4季辦理政策及業務宣導之執行情形表，提請備查。",
         "ProNo": "d571131f-005e-4bba-bc2d-d56b21a573d3",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "查照\/備查案-一般備查案",
-        "CaseNumber": "3",
-        "OrgTitle": "臺南市議會本會",
-        "CaseCause": "檢送本會113年第1季辦理政策及業務宣導之執行情形表，提請備查。",
-        "ProNo": "82b1a469-f160-4a90-8619-139f2ca16bd3",
         "PagesAll": "57"
     }
 ]

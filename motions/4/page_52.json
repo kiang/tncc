@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "203",
+        "OrgTitle": "蔡秋蘭",
+        "CaseCause": "建請市府辦理學甲區三慶里頂洲178號前等4處路面改善工程。",
+        "ProNo": "ef055a95-4258-4e42-ba35-fe5fbae2383b",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "204",
         "OrgTitle": "蔡秋蘭",
         "CaseCause": "建請市府辦理西港區竹林排水(近州海段360-1地號)護岸改善工程。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府民政局",
         "CaseCause": "修正「臺南市歸仁美學館場地使用管理辦法」。",
         "ProNo": "0595691b-66ae-4c79-a6cb-3f82c9e9b5f3",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規查照案",
-        "CaseNumber": "2",
-        "OrgTitle": "臺南市政府環境保護局",
-        "CaseCause": "修正「臺南市廢棄物轉運處理設施營運階段提供回饋金辦法」。",
-        "ProNo": "d57dd8e0-cb49-41e2-83bc-e3ac65bf01b0",
         "PagesAll": "57"
     }
 ]

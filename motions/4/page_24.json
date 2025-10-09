@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "3",
+        "OrgTitle": "臺南市議會本會",
+        "CaseCause": "檢送本會113年第1季辦理政策及業務宣導之執行情形表，提請備查。",
+        "ProNo": "82b1a469-f160-4a90-8619-139f2ca16bd3",
+        "PagesAll": "57"
+    },
+    {
         "DoneDate": "2024\/05\/29",
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "民政教育",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "李偉智",
         "CaseCause": "本市新住民日益增加，為使新住民快速融入在地文化、語言，應加強規劃相關技能培訓課程。",
         "ProNo": "c4779b99-0e55-44ae-a26d-bc2e4992bc05",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "82",
-        "OrgTitle": "蔡宗豪",
-        "CaseCause": "建請市府提升鄰長工作慰勞金，感念基層鄰長在地服務的辛勞。",
-        "ProNo": "f4af8f37-6d38-4135-948e-baeb09e67f1f",
         "PagesAll": "57"
     }
 ]

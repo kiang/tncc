@@ -664,6 +664,17 @@
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "法規",
         "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "制定「臺南市歷史文化場域經理平台設置自治條例」草案，敬請審議。",
+        "ProNo": "32cc5f6c-a542-4101-a1fe-40d1c15f193c",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "市府提案-市法規案",
         "CaseNumber": "3",
         "OrgTitle": "臺南市政府經濟發展局",
         "CaseCause": "修正「臺南市攤販管理自治條例第六條」草案，敬請審議。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "余柷青",
         "CaseCause": "建請市府積極辦理新化區知義農地重劃區知義新路37農路改善工程。",
         "ProNo": "079a6ae5-c205-4237-b5ce-63561f0c467e",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "9",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府積極辦理新化區(山腳里)知義農地重劃區大埤三十路農路改善工程。",
-        "ProNo": "698d4c88-3366-4593-874f-97693c02bdc4",
         "PagesAll": "57"
     }
 ]
