@@ -2,6 +2,83 @@
     {
         "DoneDate": "2023\/08\/17",
         "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "90",
+        "OrgTitle": "李鎮國、余柷青",
+        "CaseCause": "請檢討新興地區社區營造地區景觀燈裝設與滾動式增加電費支出之預算。",
+        "ProNo": "4554becf-7f8a-443d-8a61-be6cae7fd995",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "91",
+        "OrgTitle": "蔡麗青",
+        "CaseCause": "建請市府在安南區土城設置抽水站，以解決淹水問題。",
+        "ProNo": "ec6e85e9-1253-4bfd-ab6a-287c44eddd9d",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "臨時動議",
+        "KidTitle": "臨時動議-臨時動議",
+        "CaseNumber": "1",
+        "OrgTitle": "陳秋萍",
+        "CaseCause": "建請市府就經濟發展局所收取之納管輔導金與營運管理金於特定工廠周邊增設消防栓，應考量公益性，對於申請條件、經費補助及申辦方式等，訂定審查辦法。",
+        "ProNo": "768b9076-c231-4135-a9f9-6646be90c85c",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "臨時動議",
+        "KidTitle": "臨時動議-臨時動議",
+        "CaseNumber": "2",
+        "OrgTitle": "林依婷、蔡筱薇、周嘉韋、黃麗招",
+        "CaseCause": "安平區金城段多處土地宜納入都市計畫通盤檢討，以維健全漁港及水上遊憩及觀光活動等發展願景。",
+        "ProNo": "32b7d836-8677-484c-a794-82761327d141",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "臨時動議",
+        "KidTitle": "臨時動議-臨時動議",
+        "CaseNumber": "3",
+        "OrgTitle": "周嘉韋、蔡筱薇、林依婷",
+        "CaseCause": "有鑒於2024年臺南市將主辦台日交流高峰會，此為第3屆臺南市議會承接，第4屆辦理之盛事。因此，今年（2023）在日本仙台市舉辦，本會應派同仁一同前往觀摩及接棒，建請第二次定期會，於會期中休息11\/15到11\/17三日，以利議會同仁前往邀請日本各級府會一同於明年到臺南參與此活動。",
+        "ProNo": "417f7672-b0ae-480d-b95f-d47b12af47b4",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "臨時動議",
+        "KidTitle": "臨時動議-臨時動議",
+        "CaseNumber": "4",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請善化肉品市場全面檢測廠區機電系統，並請於上班時間安排機電保全人員待命，以維護肉品品質及友善的工作環境。",
+        "ProNo": "8a031792-5047-4f80-ab9b-bd2865b89c48",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "臨時動議",
+        "KidTitle": "臨時動議-臨時動議",
+        "CaseNumber": "5",
+        "OrgTitle": "李啓維",
+        "CaseCause": "建請開闢南區白雪段SB-29-6m計畫道路。",
+        "ProNo": "a82e2c26-556a-4ac7-931b-0fad6fca8037",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
         "PTypTitle": "臨時動議",
         "KidTitle": "臨時動議-臨時動議",
         "CaseNumber": "6",
@@ -1020,83 +1097,6 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "建請增設臺南市公托幼兒園的幼幼班（2-3歲）開設。",
         "ProNo": "e365910d-5ac1-4a01-9dca-fb8736c0e8e2",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "74",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請國小一、二年級及國中三年級建置75吋觸控電視。",
-        "ProNo": "8fa04805-7c42-4bef-b2a4-d24ccb144416",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "75",
-        "OrgTitle": "朱正軒、沈家鳳、蔡筱薇",
-        "CaseCause": "搶救瀕危語言，深耕母語學習，建請教育局針對20人以上大校，優先聘請正式專任台語教師。",
-        "ProNo": "d2fe2de7-b78e-4c46-8bd7-45702f9bb3c0",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "76",
-        "OrgTitle": "朱正軒、陳秋宏",
-        "CaseCause": "掙脫行人地獄惡名，建請教育局輔助所轄學校，積極提報通學步道改善，爭取中央預算改善城市交通。",
-        "ProNo": "2ca06453-e3c7-464d-a605-609546034be9",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "77",
-        "OrgTitle": "朱正軒、周嘉韋",
-        "CaseCause": "推動雙語教育有許多策略，建請教育局檢討課室英語的教學模式，增加英語課程時數取代課室英語，讓英語教育回歸英語專業。",
-        "ProNo": "db090f4e-dc80-4273-aa96-a82947bd9dda",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "78",
-        "OrgTitle": "朱正軒",
-        "CaseCause": "建請教育局審慎評估於大橋國中校內新設國小部之必要性。",
-        "ProNo": "f7f1d770-8bff-424c-a08c-00d01c5dd257",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "79",
-        "OrgTitle": "朱正軒",
-        "CaseCause": "建請教育局重視視障生求學環境，設置視障生重點學校並增聘視障生助理員。",
-        "ProNo": "872870f5-6c6e-463d-9f48-83a56d7448f0",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "80",
-        "OrgTitle": "陳秋宏",
-        "CaseCause": "請增設下營區中營國小通學步道。",
-        "ProNo": "47f3e69e-e6c2-44c0-983a-bd61b5245813",
         "PagesAll": "57"
     }
 ]

@@ -4,6 +4,83 @@
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "259",
+        "OrgTitle": "林燕祝",
+        "CaseCause": "建請市府將永康區中山北路461巷7弄道路排水做改善，以保障往來人車之安全。",
+        "ProNo": "5f4e3965-e56b-44bb-b8a2-1ca41fcce81c",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "260",
+        "OrgTitle": "林燕祝",
+        "CaseCause": "建請市府於永康區小橋公園旁之生態池增設圍籬安全措施，保障孩童休閒育樂安全。",
+        "ProNo": "e86a9759-862e-4572-9192-2a60f9a3eb69",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "261",
+        "OrgTitle": "郭鴻儀",
+        "CaseCause": "請市府正視民眾通行安全，儘速辦理本市仁德區四維街計畫道路用地取得作業，以解決中正路三段與四維街交岔路口交通瓶頸，降低該路口肇事率，提升市民生活品質。",
+        "ProNo": "64321e98-74ac-4f0f-b29c-936deb381524",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "262",
+        "OrgTitle": "林燕祝",
+        "CaseCause": "建請市府儘速研議辦理永康區文化路(永忠路至永信路段)道路排水重新改善以利排水。",
+        "ProNo": "9df3e2a7-083f-447c-899c-24d67c5c2004",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "263",
+        "OrgTitle": "林燕祝",
+        "CaseCause": "建請市府將永康區龍中街777巷(近永大路三段555巷路段)之柏油路面重新翻修，以保障往來民眾通行之安全。",
+        "ProNo": "aecc3f22-2d05-4389-83bc-4102b8d8b6d0",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "264",
+        "OrgTitle": "陳昆和",
+        "CaseCause": "建請市府儘速辦理臺南市佳里區市道176線大潤發前往西至進學路8號前道路改善工程。",
+        "ProNo": "03414410-5583-48d4-af58-70cc9b56159e",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "265",
+        "OrgTitle": "蔡宗豪",
+        "CaseCause": "建請市府儘速改善光武公園籃球場。",
+        "ProNo": "60feb533-35e1-4deb-a587-74259768993b",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "266",
         "OrgTitle": "趙昆原",
         "CaseCause": "本市新營區南76線(臺1線至土庫五分站)因年久失修，嚴重龜裂破損，影響通行民眾安全，建請市府儘速辦理路面改善工\r\n程。",
@@ -1020,83 +1097,6 @@
         "OrgTitle": "臺南市政府農業局",
         "CaseCause": "農業部核定本府「2024年臺南農漁產品海外拓銷計畫」案，經費800萬元(中央全額補助)，因未及納入113年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時再予轉正，敬請審議。",
         "ProNo": "53266984-85cf-4bce-a284-3a375a4f0784",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "11",
-        "OrgTitle": "臺南市政府農業局",
-        "CaseCause": "經濟部水利署核定本市113年度中央管流域整體改善與調適計畫之「曾文溪排水（9K+185）橋梁改建工程」案總經費7,692萬3,000元（中央補助款6,000萬元，本市配合款1,692萬3,000元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
-        "ProNo": "195211ed-6912-4753-a093-2110a954ff61",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "市府提案-一般提案",
-        "CaseNumber": "3",
-        "OrgTitle": "臺南市政府農業局",
-        "CaseCause": "為促進將軍漁港市有土地有效利用，增加收益，辦理將軍區山子脚段3535-114地號等20筆市有土地公開標租案及核發土地使用權同意書，敬請審議。",
-        "ProNo": "21579dc4-bfdd-4bc9-a8a3-eba54274517b",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "市府提案-追加減預算",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府",
-        "CaseCause": "本市113年度總預算第一次追加(減)預算案業經編製完竣，敬請  審議。",
-        "ProNo": "4f4308dc-a3ed-4a20-aeb6-740268e115fa",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "市府提案-動支第二預備金",
-        "CaseNumber": "2",
-        "OrgTitle": "臺南市政府主計處",
-        "CaseCause": "檢送112年度臺南市總預算第二預備金動支數額表，敬請審議。",
-        "ProNo": "fc0fbc62-0676-48d9-b2e8-7b0719896eaf",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "1",
-        "OrgTitle": "李宗霖、沈家鳳",
-        "CaseCause": "建請市府盤點本市閒置空間，與民間合作，研議作為緊急救難、槍枝訓練、戰術戰傷救護等民防訓練場地，增加市民民防知識且能具備基礎技能，未雨綢繆。",
-        "ProNo": "5227c1a3-6548-438e-9878-24c837e99c58",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "2",
-        "OrgTitle": "林美燕",
-        "CaseCause": "建請市府暫緩審議南區濱海公路以西之太陽光電開發案。",
-        "ProNo": "2a511c6e-9636-424a-938a-dec2c81ba94d",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "3",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府協助善化區圳西段562地號(乙種工業用地)自來水管線設置。",
-        "ProNo": "9f9ff7bb-b3f6-43f1-892e-9ceb237f265b",
         "PagesAll": "57"
     }
 ]

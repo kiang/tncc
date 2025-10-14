@@ -2,6 +2,83 @@
     {
         "DoneDate": "2023\/03\/30",
         "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "38",
+        "OrgTitle": "林燕祝",
+        "CaseCause": "建請市府於永康區永興路(南大附中段)增設公車停靠站，以提升大眾運輸系統之使用率與便利性。",
+        "ProNo": "7a2ac5e9-c99d-407b-bc25-3e22e3e5d443",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "保安",
+        "KidTitle": "專案報告-專案報告",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府警察局",
+        "CaseCause": "「司法院釋字785號解釋（外勤警消人員勤休方式與超勤補償）市府之因應作為」專案報告",
+        "ProNo": "27256858-c85a-4523-ac91-4133ff5422ed",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府水利局",
+        "CaseCause": "經濟部水利署同意本市「二仁溪鯽魚橋改建工程」增加112年度經費新臺幣194萬7,000元(中央補助款151萬8,000元、地方配合款42萬9,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+        "ProNo": "b91e0d5d-4d97-4c73-a2f5-a2bffb1bbb72",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "1",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請市政府工務局、新營區公所等單位能優先認養或代管新營區長勝段13、15、28、70、70-1、71、71-1等地號(長勝營區)之台糖、國防部土地，開設為多功能融合公園，讓市民有更多的兒童休憩運動設施等場地使用。",
+        "ProNo": "e9a523f7-4666-4cec-a4b3-7ec5b23dac22",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請市政府對鹽水區天保厝段129-1道路用地進行開闢，以嘉惠地區民眾通行之便利。",
+        "ProNo": "fde8225b-644b-4d6e-ac67-8fd408d1c041",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "3",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請市政府對新營區東學段660、666、669、743、777、778、778-1、779、780、781-1、782、783等地號15米計畫道路用地優先開闢，以創造新營火車站周邊商圈，嘉惠地區民眾通行之便利。",
+        "ProNo": "4aa4e004-d44d-465a-a645-3b872e91865e",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "4",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請市政府辦理「鹽水區橋南里南門路1號至197號道路改善工程」，以確保用路人安全。",
+        "ProNo": "6244e2f3-e1b7-412d-bea2-2a3599e8ecd2",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
         "CaseNumber": "5",
@@ -1020,83 +1097,6 @@
         "OrgTitle": "朱正軒、沈家鳳",
         "CaseCause": "建請工務局擘劃步行友善示範區，並優先針對學校、商業區及大眾運輸節點等步行熱點，系統性地落實步行友善空間。",
         "ProNo": "65785a11-326c-499c-bdd6-187bd044287f",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "98",
-        "OrgTitle": "朱正軒",
-        "CaseCause": "建請工務局儘速完成永康區柴頭港溪（北園橋至鐵路前）路面改善工程。",
-        "ProNo": "899162ab-c6ba-4e62-8555-9fa718ded814",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "99",
-        "OrgTitle": "謝舒凡",
-        "CaseCause": "建請市府對「學甲區東西向快速公路北門玉井線橋下道路P65至學甲與北門交界處路面凹陷」一案，儘速辦理改善。",
-        "ProNo": "96c2edab-7f2c-4d8c-981e-c1875717a27b",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "100",
-        "OrgTitle": "謝舒凡",
-        "CaseCause": "建請市府辦理將軍區南24線至台17十字路口處路面改善工程，路面老化龜裂，亟須辦理改善，以保障民眾用路安全。",
-        "ProNo": "ee7c9ab2-5b9c-4851-956e-171b1b9eb713",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "101",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "建請市府及各局處簡化回覆民眾陳情案件之流程及格式。",
-        "ProNo": "3cc795c7-2ddd-4fd2-9e7f-d57e6b9021f2",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "102",
-        "OrgTitle": "李鎮國、尤榮智",
-        "CaseCause": "永康區「永康公園兒童遊戲區及健身器材區」延宕問題。",
-        "ProNo": "9a42c35e-6263-47b3-b6f3-9a8fece23743",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "103",
-        "OrgTitle": "陳怡珍、陳秋萍",
-        "CaseCause": "有關臺南市北區北門路二段、三段（大光國小前）路面柏油因老舊導致破損不堪，影響行車安全乙案，本席建請臺南市政府應儘速進行鋪面改善工程，以維護市民交通環境。",
-        "ProNo": "4286fdd9-a405-48c8-a1e0-37a7d60ac5ce",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "104",
-        "OrgTitle": "林冠維",
-        "CaseCause": "永康區鹽行國中附近區域為新興開發區域，預期將有相當多的人口遷入，惟鄰近公園都兼作滯洪池使用，無供兒童遊戲區域，建議在既有公園用地開闢特色遊戲場。",
-        "ProNo": "e870fd4a-995c-4cd8-8f74-ece2324e36fc",
         "PagesAll": "57"
     }
 ]

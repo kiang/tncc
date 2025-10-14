@@ -4,6 +4,83 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "蔡麗青",
+        "CaseCause": "建請增設和順工業區服務中心二樓廁所。",
+        "ProNo": "79e066dd-d627-43a4-93ca-669e7d2efe88",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "3",
+        "OrgTitle": "郭鴻儀",
+        "CaseCause": "建請加速辦理仁德區中正路電纜地下化作業。",
+        "ProNo": "b7ba5567-c2b3-4541-9b38-99b7b5286716",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "4",
+        "OrgTitle": "朱正軒",
+        "CaseCause": "建請經發局加速辦理鹽行市場遷建案。",
+        "ProNo": "8605817f-2782-4205-b23d-95007c716e88",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "5",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府地政局儘速在新市區東大社段1482地號，進行農地溝渠改善工程，俾利農耕。",
+        "ProNo": "96cd47be-6662-4337-acd3-5cd9468570a5",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "6",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府地政局儘速在大社重劃區東大社段1046地號旁進行擋土牆改善工程，俾利農耕。",
+        "ProNo": "3775af27-c001-4d0a-b9a0-be6a6dac9b83",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "7",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府地政局儘速在新市區東大社段69地號，進行農地溝渠改善工程，俾利農耕。",
+        "ProNo": "f7d3d3fc-ae92-4ea4-8737-d3c92b22743a",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "8",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府地政局儘速在新市區大營段1714地號，進行農地溝渠改善工程，俾利農耕。",
+        "ProNo": "1cf58414-9c17-4088-8947-04bd73c24417",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "9",
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府地政局儘速在大營農地重劃區大社段1534地號前農路，進行路面改善工程，以利民眾通行安全。",
@@ -1020,83 +1097,6 @@
         "OrgTitle": "林燕祝",
         "CaseCause": "建請市府於永康區勝華街98巷口設置交通號誌燈，以保障用路人通行往來之安全。",
         "ProNo": "7c513c83-d760-442a-aba7-95bd1de01024",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "38",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "建請市府於永康區永興路(南大附中段)增設公車停靠站，以提升大眾運輸系統之使用率與便利性。",
-        "ProNo": "7a2ac5e9-c99d-407b-bc25-3e22e3e5d443",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "專案報告-專案報告",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府警察局",
-        "CaseCause": "「司法院釋字785號解釋（外勤警消人員勤休方式與超勤補償）市府之因應作為」專案報告",
-        "ProNo": "27256858-c85a-4523-ac91-4133ff5422ed",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府水利局",
-        "CaseCause": "經濟部水利署同意本市「二仁溪鯽魚橋改建工程」增加112年度經費新臺幣194萬7,000元(中央補助款151萬8,000元、地方配合款42萬9,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
-        "ProNo": "b91e0d5d-4d97-4c73-a2f5-a2bffb1bbb72",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "1",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請市政府工務局、新營區公所等單位能優先認養或代管新營區長勝段13、15、28、70、70-1、71、71-1等地號(長勝營區)之台糖、國防部土地，開設為多功能融合公園，讓市民有更多的兒童休憩運動設施等場地使用。",
-        "ProNo": "e9a523f7-4666-4cec-a4b3-7ec5b23dac22",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "2",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請市政府對鹽水區天保厝段129-1道路用地進行開闢，以嘉惠地區民眾通行之便利。",
-        "ProNo": "fde8225b-644b-4d6e-ac67-8fd408d1c041",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "3",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請市政府對新營區東學段660、666、669、743、777、778、778-1、779、780、781-1、782、783等地號15米計畫道路用地優先開闢，以創造新營火車站周邊商圈，嘉惠地區民眾通行之便利。",
-        "ProNo": "4aa4e004-d44d-465a-a645-3b872e91865e",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "4",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請市政府辦理「鹽水區橋南里南門路1號至197號道路改善工程」，以確保用路人安全。",
-        "ProNo": "6244e2f3-e1b7-412d-bea2-2a3599e8ecd2",
         "PagesAll": "57"
     }
 ]

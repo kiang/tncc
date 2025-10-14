@@ -2,6 +2,83 @@
     {
         "DoneDate": "2023\/07\/04",
         "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "296",
+        "OrgTitle": "林燕祝",
+        "CaseCause": "建請市府將永康區八德街230巷與八德街230巷28弄前柏油路面重新翻修，以保障民眾往來通行之安全。",
+        "ProNo": "b80984e3-5035-49ed-bfea-6dc501a23c5a",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "297",
+        "OrgTitle": "林燕祝",
+        "CaseCause": "建請市府將永康區西灣里民族路(大安街至永大路二段)路面重新翻修，以保障民眾往來通行之安全。",
+        "ProNo": "c896b04e-dff1-4331-a495-e90650e76903",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "298",
+        "OrgTitle": "李鎮國",
+        "CaseCause": "有關於永運一街與平道十六街口公園設施體健器材區，爭取安裝遮蔽陽光帆布。",
+        "ProNo": "36aa213c-5c18-4dae-97f2-a7b24fec5c7e",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "299",
+        "OrgTitle": "李偉智",
+        "CaseCause": "建請市府儘速完成善化區南123線六分寮段2257地號旁側溝增設工程，以利民眾使用。",
+        "ProNo": "89f5c943-ac34-4321-a2d7-777d03c58b8a",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "300",
+        "OrgTitle": "李偉智",
+        "CaseCause": "建請市府儘速完成山上區南洲里13號道路AC路面改善工程，以利民眾使用。",
+        "ProNo": "1acb7fb5-8704-4ffe-bc97-cd2931c7e99b",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "301",
+        "OrgTitle": "李偉智",
+        "CaseCause": "建請市府儘速完成新化區太平里唪口段1377地號前排水溝修繕工程，以利民眾使用。",
+        "ProNo": "a8928b3b-972f-47e4-ba2d-6478ec8fb443",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府民政局",
+        "CaseCause": "修正「臺南市歸仁美學館場地使用管理辦法」。",
+        "ProNo": "0595691b-66ae-4c79-a6cb-3f82c9e9b5f3",
+        "PagesAll": "57"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規查照案",
         "CaseNumber": "2",
@@ -1020,83 +1097,6 @@
         "OrgTitle": "李鎮國",
         "CaseCause": "建請協助永康區地勢最高區域自來水、水壓改善問題。\r\n",
         "ProNo": "ea7c3510-aba7-4422-b125-55bac72968f9",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "2",
-        "OrgTitle": "蔡麗青",
-        "CaseCause": "建請增設和順工業區服務中心二樓廁所。",
-        "ProNo": "79e066dd-d627-43a4-93ca-669e7d2efe88",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "3",
-        "OrgTitle": "郭鴻儀",
-        "CaseCause": "建請加速辦理仁德區中正路電纜地下化作業。",
-        "ProNo": "b7ba5567-c2b3-4541-9b38-99b7b5286716",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "4",
-        "OrgTitle": "朱正軒",
-        "CaseCause": "建請經發局加速辦理鹽行市場遷建案。",
-        "ProNo": "8605817f-2782-4205-b23d-95007c716e88",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "5",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府地政局儘速在新市區東大社段1482地號，進行農地溝渠改善工程，俾利農耕。",
-        "ProNo": "96cd47be-6662-4337-acd3-5cd9468570a5",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府地政局儘速在大社重劃區東大社段1046地號旁進行擋土牆改善工程，俾利農耕。",
-        "ProNo": "3775af27-c001-4d0a-b9a0-be6a6dac9b83",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "7",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府地政局儘速在新市區東大社段69地號，進行農地溝渠改善工程，俾利農耕。",
-        "ProNo": "f7d3d3fc-ae92-4ea4-8737-d3c92b22743a",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "8",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府地政局儘速在新市區大營段1714地號，進行農地溝渠改善工程，俾利農耕。",
-        "ProNo": "1cf58414-9c17-4088-8947-04bd73c24417",
         "PagesAll": "57"
     }
 ]
