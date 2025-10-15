@@ -4,11 +4,55 @@
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "建設",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "19",
+        "OrgTitle": "林志展",
+        "CaseCause": "建請市政府開設綠領工作相關職訓課程。",
+        "ProNo": "a77412d3-9bd4-493f-9f4b-3a646a52ca08",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "20",
+        "OrgTitle": "林志展",
+        "CaseCause": "建請市政府研議增設職安問題處理機制，須經主管機關調處後達相關條件才能申請復工。",
+        "ProNo": "fecf3c26-2356-459f-97b3-fa5d56b5f7ab",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "21",
+        "OrgTitle": "林志展",
+        "CaseCause": "建請市政府研議中高齡職務再設計企業案例參訪與合辦職訓課程。",
+        "ProNo": "23e5ae67-4817-4943-8d7e-5ac6fd15fbd8",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "22",
+        "OrgTitle": "蔡麗青",
+        "CaseCause": "建請台南市民宿範圍區域擴大，以利本市觀光業發展。",
+        "ProNo": "64a70008-c13c-41ff-b30f-8631a79baf42",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "23",
         "OrgTitle": "朱正軒",
         "CaseCause": "台南擁有豐富山林資源，為增進市民親近山林旅遊及保育之意識，建請觀旅局新闢山林步道及改善公廁等必要之公共服務。",
         "ProNo": "be5b9994-4b5f-4c01-bec4-12b7aab7eb15",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -19,7 +63,7 @@
         "OrgTitle": "朱正軒",
         "CaseCause": "建請市府把握全球彩虹經濟，盤點性平友善旅宿並整合既有觀光遊程，推出台南彩虹友善地圖，持續推廣本市觀光旅遊。",
         "ProNo": "23608cc0-389d-47c0-b964-c4116beff578",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -30,7 +74,7 @@
         "OrgTitle": "朱正軒",
         "CaseCause": "為提升永康區三合里生活品質，建請都發局於後續公共建設用地，規劃里民活動中心、公園綠地及停車空間，並應新闢聯外道路改善交通。",
         "ProNo": "3bdffdf8-6b8c-4947-b9dd-8df48a3d1072",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -41,7 +85,7 @@
         "OrgTitle": "趙昆原",
         "CaseCause": "柳營德元埤荷蘭村自啟用以來遊客數眾多，但園區內豐富度稍嫌不足，遊客停留時間不長，建請市府針對園區內設施、地景及動線重新進行規劃開發。",
         "ProNo": "27bb5de9-51c6-4576-b905-76067cf76644",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -52,7 +96,7 @@
         "OrgTitle": "李啓維",
         "CaseCause": "建請鹽埕國宅社區規劃立體停車場。",
         "ProNo": "e7669624-1c44-4025-adcc-582571234513",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -63,7 +107,7 @@
         "OrgTitle": "李啓維",
         "CaseCause": "規劃社會住宅資源進行沒有電梯老舊公寓國宅都更。",
         "ProNo": "966ac6ef-c2d8-45f2-8c50-f2dec1281ec8",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/05\/29",
@@ -74,7 +118,7 @@
         "OrgTitle": "臺南市政府警察局",
         "CaseCause": "內政部核定補助本府「協助地方政府整(修)建地方警察機關辦公廳舍待勤處所經費需求計畫書」經費新臺幣124萬3,000元（中央全額補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
         "ProNo": "eab65dad-3979-483d-bec0-80ac9cce7edd",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/05\/29",
@@ -85,7 +129,7 @@
         "OrgTitle": "臺南市政府交通局",
         "CaseCause": "交通部公路局核定本市「TPASS行政院通勤月票113年度票價優惠差額補助」經費新臺幣(以下同) 3億370萬元(中央補助2億6,160萬元，市配合款4,210萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
         "ProNo": "b39bb3c7-5c07-444c-ae0c-83abd1b44cae",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/05\/29",
@@ -96,7 +140,7 @@
         "OrgTitle": "臺南市政府交通局",
         "CaseCause": "交通部核定本市「113年度智慧運輸系統發展建設計畫」補助計畫案經費900萬(中央補助765萬元，市配合款135萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
         "ProNo": "e5c8fb9c-16a0-463b-9d19-034a1bc3ade6",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -107,7 +151,7 @@
         "OrgTitle": "臺南市政府消防局",
         "CaseCause": "內政部補助本市「強化重要科學園區消防量能及防護中程計畫」項下「第四救災救護大隊(含南科分隊)辦公廳舍新建工程」，為爭取時效，謹請貴會同意先行墊付113年度需求經費200萬元(中央補助款170萬元、市配合款30萬元)，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
         "ProNo": "d85de477-2331-44e6-a766-60a835c32353",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -118,7 +162,7 @@
         "OrgTitle": "臺南市政府警察局",
         "CaseCause": "內政部核定補助本府「113年協助地方政府建置交通科技執法設備經費需求計畫書」計畫經費新臺幣(以下同) 5,100萬元(中央全額補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
         "ProNo": "b0284f13-99a9-4bd0-8d6b-0d1fa30345e0",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -129,7 +173,7 @@
         "OrgTitle": "臺南市政府交通局",
         "CaseCause": "交通部公路局核定本市「TPASS行政院通勤月票電子票證製作補助」經費新臺幣(以下同)364萬元(全額中央補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
         "ProNo": "65944a09-a24f-4d5a-8b21-d38e2c97a19d",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -140,7 +184,7 @@
         "OrgTitle": "臺南市政府交通局",
         "CaseCause": "交通部公路局核定本市「113年度公路公共運輸服務升級計畫(第1波)」經費新臺幣(以下同)8,339萬8,000元(中央補助5,200萬元，市配合款3,139萬8,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
         "ProNo": "c8d92ba9-ba9d-48aa-9e29-8dc2e9fcc660",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -151,7 +195,7 @@
         "OrgTitle": "林冠維、杜素吟、陳碧玉",
         "CaseCause": "建請警察局提升巡守隊、義警、義交、民防、志工等之自強活動費可達每人1千元。",
         "ProNo": "794624d3-e7a5-4642-9b5d-50132764993b",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -162,7 +206,7 @@
         "OrgTitle": "王家貞",
         "CaseCause": "儘速聘請專業人士定期對員警進行身心評估身心關懷方案，以期增加並維護員警調適壓力積極樂觀之心理健康。",
         "ProNo": "01e65877-220d-4e74-8500-2fe833369de8",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -173,7 +217,7 @@
         "OrgTitle": "蔡育輝",
         "CaseCause": "請市府警察局各分局提高轄下各巡守隊補助經費，以提高巡守隊隊員參加意願。",
         "ProNo": "455c1c85-a05e-4328-a1c0-68774acb2bea",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -184,7 +228,7 @@
         "OrgTitle": "林美燕",
         "CaseCause": "請加強維護安平港聯外道路之管理，避免成為飆車族等不良聚眾之聚集路段。",
         "ProNo": "1ea9f10e-0062-4adf-9ca9-d44e73e6fbd6",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -195,7 +239,7 @@
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府針對路口監視器定期維護，提升妥善率。",
         "ProNo": "917cc975-9c9d-41c0-9ff6-75b42f588e7f",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -206,7 +250,7 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "建請警察局宣導各項詐騙事項時，宣導內容需跟進詐騙新手法從而宣導。",
         "ProNo": "1f27b9c0-d6a8-4b14-8eb4-50531a571aa3",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -217,7 +261,7 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "建請義警、民防、義消提升出勤代金，自40元\/次提升至100元\/次。",
         "ProNo": "50fb661b-916f-460c-b3e5-3fb596e7ff6d",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -228,7 +272,7 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "為維護學生通學的交通安全，建請加強巡邏校園外停車格，於禁停時段取締違停的車輛。",
         "ProNo": "b74dce62-e42c-4cb8-8265-d968b7589e1d",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -239,7 +283,7 @@
         "OrgTitle": "林志展",
         "CaseCause": "建請市政府加強派出所員警對轄區內路段之熟悉度。",
         "ProNo": "44f10f97-8450-4f46-b339-567e082e7c21",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -250,7 +294,7 @@
         "OrgTitle": "陳皇宇、沈家鳳、余柷青",
         "CaseCause": "針對治安監錄系統非零件故障當機，造成無法正常運作，警察同仁無法即時查看及排除故障，建請警察局編列相關預算，委託廠商協助即時監看並排除故障。",
         "ProNo": "97172eaf-7264-48d1-948c-a7f0ad33117f",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -261,7 +305,7 @@
         "OrgTitle": "朱正軒",
         "CaseCause": "為協助受詐騙被害人請求返還所受損害，建請市警局建立SOP標準作業流程，以利警員施行公權力幫助受詐民眾。",
         "ProNo": "8284a8a6-f563-4407-9462-0461c9294bb1",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -272,7 +316,7 @@
         "OrgTitle": "林燕祝",
         "CaseCause": "建請市府增加警察局善化分局交通分隊人力，以利員警值勤與調度，並有效迅速處理交通事故，保障市民權益。",
         "ProNo": "8d2ba0a6-b929-42b4-963b-7fc39c84f314",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -283,7 +327,7 @@
         "OrgTitle": "林燕祝",
         "CaseCause": "建請市府編列預算修繕消防局第五大隊復興分隊之辦公廳舍，以提高消防同仁執行之效能。",
         "ProNo": "215ed1cb-167b-4b77-8da8-deeb28aa2ef8",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -294,7 +338,7 @@
         "OrgTitle": "林志展",
         "CaseCause": "建請市政府「添購並補足胸外按壓系統（LUCAS）」。",
         "ProNo": "ee26be9b-b92e-4d5d-ac52-664a4a65526d",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -305,7 +349,7 @@
         "OrgTitle": "林志展",
         "CaseCause": "建請市政府制定共融式防災手冊，照顧身心障礙者防災需求，實踐防災平權。",
         "ProNo": "149bbbb0-f0a8-46ad-b962-e91fc8735d23",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -316,7 +360,7 @@
         "OrgTitle": "李偉智",
         "CaseCause": "消防局民力科長年發展義消組織成效卓越，對義消活動經費支持，應考量消費基準，檢討調整。",
         "ProNo": "f2727d31-7aab-4d4c-ae57-536fe5b2922a",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -327,7 +371,7 @@
         "OrgTitle": "吳禹寰、林冠維",
         "CaseCause": "建請市府提出方案如何處理消防人員剩餘補休時數。",
         "ProNo": "bdb13a11-c0e1-4dc8-8ad9-132672a82823",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -338,7 +382,7 @@
         "OrgTitle": "鄭佳欣",
         "CaseCause": "建請市府提供本市「搜救犬公務專車」及提供搜救犬飲食加餐、營養品、紓壓品等費用，開放彈性採購申報空間，以降低領犬員自掏腰包之情況。",
         "ProNo": "a2a9352d-69f2-413d-9ae6-62dee7fd7556",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -349,7 +393,7 @@
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府針對設置住宅用火警警報器補助數量提升為兩顆。",
         "ProNo": "a9e65306-93ea-4843-a9f0-c53a180ba99f",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -360,7 +404,7 @@
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府針對救護車設備之提升，導入5G救護設備。",
         "ProNo": "d79b80f6-59d1-46de-9f3a-29d616502fb3",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -371,7 +415,7 @@
         "OrgTitle": "蔡筱薇",
         "CaseCause": "建請消防局將各大學實驗室納入防護計畫，加強訂定規範嚴加管理。",
         "ProNo": "c59be97a-ad33-42fc-8d41-90fc7fced2e4",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -382,7 +426,7 @@
         "OrgTitle": "陳怡珍",
         "CaseCause": "有關臺南市安南區新吉工業區未設有消防分隊恐影響救災乙案，本席建請臺南市政府應儘速規劃增設。",
         "ProNo": "71a6236d-9592-4e36-8886-b04b1f6b9ca6",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -393,7 +437,7 @@
         "OrgTitle": "林燕祝",
         "CaseCause": "建請市府於永康區復興路277巷設一消防栓，以保障民眾生命財產安全。",
         "ProNo": "2b0f85f3-be5c-4a73-aeb6-7a8b7eeadb7a",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -404,7 +448,7 @@
         "OrgTitle": "李宗翰",
         "CaseCause": "建請市府恢復後壁火車站公共電話設備。",
         "ProNo": "9c77abfb-b38f-4947-89e0-5c3dceefde4b",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -415,7 +459,7 @@
         "OrgTitle": "李宗翰",
         "CaseCause": "建請市府爭取農田水利署將水溝加蓋，俾利增設停車格。",
         "ProNo": "a0624235-839a-40c6-a884-900695cd6137",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -426,7 +470,7 @@
         "OrgTitle": "曾之婕",
         "CaseCause": "建請於崇德公園設置微笑單車UBike站點。",
         "ProNo": "aa1ae454-fee8-40c6-9fa5-615612cf6a91",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -437,7 +481,7 @@
         "OrgTitle": "鄭佳欣、謝舒凡、朱正軒",
         "CaseCause": "建請市府加強推動交通安全用路基本觀念，結合多方管道宣傳之，提升交通教育。",
         "ProNo": "da484a08-e16e-4700-9059-78034e36a315",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -448,7 +492,7 @@
         "OrgTitle": "王家貞",
         "CaseCause": "在主要道路與各交接巷道口設有密集紅綠號誌燈的路段，建請市府於交通離峰期，將同一路段部分紅綠號誌燈調整為閃紅或閃黃燈號。",
         "ProNo": "0e796e7a-c3dd-4fec-8c40-fcce61af49f4",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -459,7 +503,7 @@
         "OrgTitle": "王家貞",
         "CaseCause": "建請市政府針對現行道路路口有直行及左轉交通標線改善。",
         "ProNo": "d82edb80-bb75-457f-ab73-61e2f08cbe69",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -470,7 +514,7 @@
         "OrgTitle": "蔡育輝",
         "CaseCause": "請市政府增設新營火車站至新營市福園殯葬區公車路線在福園長榮路入口處設公車站以方便居住於外縣市或本市其他區之眷屬至新營福園祭拜。",
         "ProNo": "e7cf88bb-91c3-46c6-862d-27c290704e08",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -481,7 +525,7 @@
         "OrgTitle": "蔡育輝",
         "CaseCause": "建請交通局協調臺南市YouBike微笑單車騎乘跨越其他縣市時免收跨區調度費用暨擴大於社區間、各景點區、各級學校周邊、缺少公車站點處等增設騎乘區以服務市民。",
         "ProNo": "e649961e-9116-4b2e-8a2e-c09b312d1616",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -492,7 +536,7 @@
         "OrgTitle": "許至椿",
         "CaseCause": "建請市府於長榮路五段以北至與永康區交界增設U-Bike站點。",
         "ProNo": "9a1f0ba3-2185-4854-bb75-e1a803d96de2",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -503,7 +547,7 @@
         "OrgTitle": "許至椿",
         "CaseCause": "建請市府辦理北區實踐段0240地號土地(北門路三段臨小康公園側邊)道路規劃停車格位一事。",
         "ProNo": "aeb191b7-8c28-4ab3-be86-bae1937028bb",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -514,7 +558,7 @@
         "OrgTitle": "許至椿",
         "CaseCause": "建請市府辦理北區實踐段737地號土地(大武街與長榮路五段交叉口)規劃停車場。",
         "ProNo": "edb9fa6e-f04c-4ba6-a4c7-e87049946b1e",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -525,7 +569,7 @@
         "OrgTitle": "李偉智",
         "CaseCause": "建請市府改善新化區台20線與八德安樂園出入口號誌燈，連續秒數達112秒，請檢討合適性以利於車流順暢。",
         "ProNo": "c5b07de6-9aec-4ec1-9693-8d130de03de7",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -536,7 +580,7 @@
         "OrgTitle": "李偉智",
         "CaseCause": "建請市府規劃新化區台39線與南144線號誌交叉口處，提供左轉號誌燈，以利車流量進入社區。",
         "ProNo": "583bdc29-b179-491d-bf76-f1d3a1e1ca6b",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -547,7 +591,7 @@
         "OrgTitle": "李偉智",
         "CaseCause": "建請市府規劃參照歐規路牌，修改臺南市路牌指示。",
         "ProNo": "84e6fcd3-03b3-4621-9e90-d9022965624b",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -558,7 +602,7 @@
         "OrgTitle": "吳禹寰",
         "CaseCause": "有關民眾陳情歸仁圓環交通問題，建請市府研議強化改善方案。",
         "ProNo": "a23750e9-7ed4-426d-8452-eccc38851fff",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -569,7 +613,7 @@
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府交通局儘速在新市區永新污水處理廠(永華五街2號)設置U-bike租賃站點，以利民眾通行。",
         "ProNo": "7b44d44a-c834-4597-8b1e-7e1a462be40b",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -580,7 +624,7 @@
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府交通局儘速在新化區唪口里活動中心(九玄宮)設置U-bike租賃站點，以利民眾通行。",
         "ProNo": "afd6b74a-e304-4103-868d-eff1db29d03e",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -591,7 +635,7 @@
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府交通局儘速在新化區陽光大地管理室內小公園設置U-bike租賃站點，以利民眾通行。",
         "ProNo": "251053e9-c94b-479b-91c0-ef3fa80429f9",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -602,7 +646,7 @@
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府交通局儘速在新市區永就里榮安宮設置U-bike租賃站點，以利民眾通行。",
         "ProNo": "ce62a37f-a673-4f94-aeb3-84e1b53f8e45",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -613,7 +657,7 @@
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府交通局儘速在善化區善化啤酒廠設置U-bike租賃站點，以利民眾通行。",
         "ProNo": "ecbcb21f-7e9b-4de4-bf90-2809c9d43ebe",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -624,7 +668,7 @@
         "OrgTitle": "蔡育輝、陳怡珍",
         "CaseCause": "建請臺南市政府對於65歲以上的長者租借YouBike前30分鐘免費。",
         "ProNo": "fe604a5b-7bd7-49c6-96c6-59e441f50e34",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -635,7 +679,7 @@
         "OrgTitle": "陳怡珍",
         "CaseCause": "有關臺南市北區林森路一帶尚無設置電動車充電樁導致不便乙案，本席建請臺南市政府應儘速評估增設。",
         "ProNo": "aa25e728-e248-4d36-8d51-430e70e11664",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -646,7 +690,7 @@
         "OrgTitle": "陳怡珍",
         "CaseCause": "有關臺南市北區福安公園路外停車場、北成路38巷路外停車場、北安路一段212巷停車場尚無設置電動車充電樁導致不便乙案，本席建請臺南市政府應儘速評估增設。",
         "ProNo": "88404a09-117c-4d72-ae91-882263639339",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -657,7 +701,7 @@
         "OrgTitle": "曾之婕",
         "CaseCause": "建請設計更新本市公車站牌，融合社區及景點特色元素，以符合城市美學概念。",
         "ProNo": "1b0ea943-c8c6-4974-8fc4-94c585660dc6",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -668,7 +712,7 @@
         "OrgTitle": "蔡宗豪",
         "CaseCause": "建請開放台南市部分公車站點，於非進、出站時段供私立學校校車臨停使用。",
         "ProNo": "754b3537-d92d-4b9c-9f2a-e3335d6efc17",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -679,7 +723,7 @@
         "OrgTitle": "蔡宗豪",
         "CaseCause": "建請交通局在北區公園路與北安路口建置明確車流指引設施，改善目前因6個不同方向在此交會而造成的交通打結壅塞情況。",
         "ProNo": "52cc121b-d1b6-4a6b-82a0-415ac17fb6e8",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -690,7 +734,7 @@
         "OrgTitle": "李鎮國",
         "CaseCause": "請規劃中華東路右轉小東路、中華東路右轉平實路的汽車右轉專用道，並採人行道內縮增設車道方式。",
         "ProNo": "efe81e87-c62e-44fa-90f5-afccc678c1a5",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -701,7 +745,7 @@
         "OrgTitle": "蔡筱薇",
         "CaseCause": "交通局與殯葬管理所加強溝通，在殯葬業務特別繁重之時段，調整國民路交通號誌，加速車流的通行。",
         "ProNo": "c90d3a73-dd4a-4e90-b349-d925db9c2a9e",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -712,7 +756,7 @@
         "OrgTitle": "蔡筱薇",
         "CaseCause": "因應物價通膨速度過快，每兩年評估「每車公里合理營運成本」及「基本里程運價」調整案，本席建請改為每年評估一次，檢討相關補貼政策。",
         "ProNo": "b0759fce-140f-4533-b332-de59eec1c273",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -723,7 +767,7 @@
         "OrgTitle": "蔡筱薇",
         "CaseCause": "建請要求民營停車場應於現場公告當日收費上限，避免消費者停車過夜因跨平日及假日致被收取高額停車費爭議事件。",
         "ProNo": "bb9fdd22-0dd5-4af7-b216-00b29f2a51f1",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -734,7 +778,7 @@
         "OrgTitle": "蔡筱薇",
         "CaseCause": "建請針對每年台南十大肇事路口提出通盤檢討及改善方案。",
         "ProNo": "f08804e8-0d96-424a-828f-9fc169ce0456",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -745,7 +789,7 @@
         "OrgTitle": "蔡筱薇",
         "CaseCause": "建請市府研擬於東寧網球場旁增設Ubike。",
         "ProNo": "e6d4fd3c-5e0b-427d-8be1-facd03b45d39",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -756,7 +800,7 @@
         "OrgTitle": "林美燕",
         "CaseCause": "請規劃開闢如說明所載停車場。",
         "ProNo": "b07d2c33-7345-4d38-9cc6-0db888dfe7b7",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -767,7 +811,7 @@
         "OrgTitle": "林依婷",
         "CaseCause": "公車作為行動不便者、高齡長者最好的代步工具，候車亭該具備一目了然的功能；也希望增加候車服務燈，讓相對弱勢族群免於危險。",
         "ProNo": "5c247ed8-a7f6-4245-9e9d-399523bbaeea",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -778,7 +822,7 @@
         "OrgTitle": "林依婷",
         "CaseCause": "為提升臺南市民使用大眾運輸工具之意願，加強公車路網串聯。",
         "ProNo": "b3bdc758-6129-4992-abb3-a84064f8235a",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -789,7 +833,7 @@
         "OrgTitle": "林依婷",
         "CaseCause": "為達成後續開放機車行駛內側車道、及不強制待轉目標，建請另提經費擴充工程能量及確保品質。",
         "ProNo": "bc48cf52-a0ea-43fe-b4e2-1d67ee7453e5",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -800,7 +844,7 @@
         "OrgTitle": "Ingay Tali 穎艾達利、周奕齊、陳昆和",
         "CaseCause": "針對因公私部門工程或活動而佔用公眾停車空間情形，建請研議妥善配套作為，俾利公共用路權益維持。",
         "ProNo": "ded0a02a-092f-41ad-97a0-698fe431ecbe",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -811,7 +855,7 @@
         "OrgTitle": "Ingay Tali 穎艾達利、周奕齊、陳昆和",
         "CaseCause": "建請改善本市候車空間之無障礙友善環境，俾利長幼或行動不便者候車需求。",
         "ProNo": "921757bc-089c-45cf-b9d9-e1aa90e842b0",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -822,7 +866,7 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "請設置下營區茅營里茅港尾公園設置U-Bike據點，以利下營、麻豆、官田地區帶動觀光旅遊方便遊客使用。\r\n",
         "ProNo": "15383975-b975-4668-abe5-10ed18e1c438",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -833,7 +877,7 @@
         "OrgTitle": "李鎮國",
         "CaseCause": "建議臺南市永康區「厝邊公車」901、902重新調整大橋國中站之到站時間。",
         "ProNo": "52587ed9-a56e-4432-90a1-bcb518a6e0c8",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -844,7 +888,7 @@
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府針對各路口危3+遵18反光導標完整性全面檢復。",
         "ProNo": "e07b9bdf-3671-4053-a878-19b3ad1230ec",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -855,7 +899,7 @@
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府落實火車站前機車停車格之收費制度。",
         "ProNo": "a33ab3d7-d7dd-409f-af2f-36c789e770bf",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -866,7 +910,7 @@
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府針對公車等候亭之照明設備全面檢復。",
         "ProNo": "daa4f06f-ff18-4d59-ab71-289dfc6c9f2d",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -877,7 +921,7 @@
         "OrgTitle": "楊中成",
         "CaseCause": "增設臺南市南區殯葬所You-Bike設置點。",
         "ProNo": "92ebeb8f-1794-48f9-93b6-f5a0517ad44f",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -888,7 +932,7 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "建請交通局定期與交通領域相關的專家學者、公民團體開會聽取相關交通意見。",
         "ProNo": "5147ac8b-ed44-49d5-b4f5-895c544b07e4",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -899,7 +943,7 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "建請臺南市新設公車站牌-採太陽能智慧型站牌。",
         "ProNo": "6d8ed4c9-471b-45a8-9e3b-5b1c7fd00347",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -910,7 +954,7 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "行穿線進行路面鋪色。",
         "ProNo": "2ded1c7a-291e-4a69-9dbe-1e18e58ee486",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -921,7 +965,7 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "公車站牌增設招呼按鈴並增設招攬燈以利司機辨識。",
         "ProNo": "20bd9f9f-871f-48ba-8e73-8a8ad4012ee7",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -932,7 +976,7 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "府連路與府連路175巷口，建請增設紅燈倒數號誌。",
         "ProNo": "1c5aaaff-2ce3-4909-b7d5-721514a0558e",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -943,7 +987,7 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "東門路與東榮街口，建請增設紅燈倒數號誌。",
         "ProNo": "9ded5803-3cc1-43af-afa4-94b9ce22554b",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -954,7 +998,7 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "東榮街與青年路口，建請增設紅燈倒數號誌。",
         "ProNo": "2b4c22a7-37f4-4963-a618-d2b99df8bb60",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -965,7 +1009,7 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "增設裕農路左轉上大灣交流道的中間車道可左轉及直行。",
         "ProNo": "680771ca-b62e-4203-a4b4-20cd55799cfe",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -976,7 +1020,7 @@
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府交通局儘速在新市區大洲里100-1號前T字路口，將原停止線退縮並設置減速標誌，以保障用路人安全。",
         "ProNo": "b8e2d2d5-2e73-4279-a37b-d0335aec19a8",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -987,7 +1031,7 @@
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府交通局儘速在安定區海竂里活動中心前設置U-bike租賃站點，以利民眾通行。",
         "ProNo": "91bdcb86-fda9-4784-8ca7-65d6b05897e1",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -998,7 +1042,7 @@
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府交通局儘速檢討安定區嘉同里六塊寮10-3號前路口行人斑馬線，以利民眾通行。",
         "ProNo": "10717434-b10f-4581-bb90-99b9603a67e1",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -1009,7 +1053,7 @@
         "OrgTitle": "沈震東",
         "CaseCause": "建請交通局規劃九人座公車，以利民眾使用。",
         "ProNo": "d391a617-9104-45bd-a207-1b3fd7831e55",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -1020,7 +1064,7 @@
         "OrgTitle": "林志展、朱正軒、沈家鳳",
         "CaseCause": "建請市政府將公有收費停車場身心障礙者優惠停車適用於本市委託經營管理之公有路外收費停車場。",
         "ProNo": "846a5352-d2f2-449f-8bc6-94dfeefaaf5b",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -1031,7 +1075,7 @@
         "OrgTitle": "林志展",
         "CaseCause": "建請市政府改善台南市T字路口待轉區槽化線。",
         "ProNo": "bdc07e43-a3cb-42bd-8a12-59993fcd4e93",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -1042,7 +1086,7 @@
         "OrgTitle": "林志展、朱正軒",
         "CaseCause": "建請市政府研議變更道路紅黃線劃設比例，聯合各局處商討交通違規裁量方式。",
         "ProNo": "b2f3ae0e-16c8-4779-9574-466b95aa7325",
-        "PagesAll": "57"
+        "PagesAll": "58"
     },
     {
         "DoneDate": "2024\/06\/26",
@@ -1053,50 +1097,6 @@
         "OrgTitle": "林志展",
         "CaseCause": "建請市政府於無號誌燈路口及巷弄導入「非號誌路口來車偵測預先告警系統」，透過智慧科技提升交通安全。",
         "ProNo": "3ffae478-17a9-43ae-a22e-7c7f322e800c",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "84",
-        "OrgTitle": "林志展",
-        "CaseCause": "建請市政府審視討論計程車臨停規範。",
-        "ProNo": "76f599c3-1a5f-4d7b-a6fc-99ef811d4b0c",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "85",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請東區E5、E8、E1三座立體停車場針對當地鄰里居民停車優惠。",
-        "ProNo": "1ee0219e-8f1f-4db2-baaa-a3951a6fa935",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "86",
-        "OrgTitle": "李宗霖、沈家鳳",
-        "CaseCause": "建請市府增加身心障礙人士登錄車牌之多元管道，提升政府E化服務，嘉惠更多民眾。",
-        "ProNo": "cb483c9c-5edb-481a-a43a-5cce5a5572ca",
-        "PagesAll": "57"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "87",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請於市定古蹟原臺南縣知事官邸或其周遭增設YouBike租借站，方便民眾與觀光客使用。",
-        "ProNo": "dfc513fc-12ab-41c1-9134-014bb56e84b8",
-        "PagesAll": "57"
+        "PagesAll": "58"
     }
 ]

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/10\/07",
+    "ComeNumber": "府消管字第1141405894號",
+    "OrgTitle": "臺南市政府消防局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部補助本市辦理「建構韌性臺灣因應極端情況災害應變中心與119指揮中心異地強固中程計畫」中，「衛星電話」採購，為爭取時效，謹請貴會同意先行墊付新臺幣（下同）705萬元(中央全額補助)，俾憑辦理後續相關作業事宜，俟115年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部114年7月15日台內密世消字第1141603263號函轉行政院114年6月17日院臺忠字第1140007101號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案「衛星電話」補助經費705萬元，為配合中央規劃儘速辦理，因未及納入本府114年度總預算，為爭取時效，謹請貴會同意先行墊付，俟115年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年9月23日第716次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：因考量原有Thuraya衛星電話公告衛星障礙服務中止，急迫需要備援通訊措施，爰中央統一規劃使用Inmarsat國際海事衛星電話滿足中央與各地方政府防救災通聯需要，提升通訊韌性，並預計於114年底前配發使用。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=278c5239-474f-4400-ba65-85901c6a3d23",
+            "FileName": "保安2號_議會提案單附件_函文與計畫節錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7cdc21d8-1f67-4d67-84af-740893b7df8b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

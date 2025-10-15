@@ -33,6 +33,16 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d5e7d3d5-d74b-4324-a13b-8a917c90db71&type=pdf",
     "CheckAttList": [
         {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d339e82a-26cd-47e8-b3ac-1e2bcc1f0513",
+            "FileName": "1141022仁德鐵路立體化可研同意案簡報.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1c824dfa-faf4-4354-bbfe-0915d6cea6a9",
+            "FileName": "交通局保安1號案提案勘誤及補充說明資料0922.pdf",
+            "ErrorMessage": ""
+        },
+        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7f22a124-14b7-4712-b812-4ccc4df2ee56",
             "FileName": "補充資料-交通局公文.pdf",
             "ErrorMessage": ""
