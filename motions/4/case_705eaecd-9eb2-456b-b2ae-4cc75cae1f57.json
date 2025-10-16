@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "15",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/10\/15",
+    "ComeNumber": "府文秘字第1141434122號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "文化部文化資產局核定補助本市辦理114年度「文化部文化資產局文化資產保存修復及管理維護補助作業要點-C類」-「匠藝再生-臺南市文資傳匠工坊初期建置暨傳統技術職能課程培育推廣計畫（114-115年）」總經費1,275萬元，其中114年度306萬元(全額中央補助)未及納入115年度總預算案，為爭取時效，謹請貴會同意先行墊付，俟115年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據文化部文化資產局中華民國114年10月2日文資傳字第11430101731號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44條第4款「經上級政府核定之補助款，所使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費1,275萬元(中央補助款1,020萬元、市配合款255萬元)，採分年編列預算辦理：114年度306萬元（全額中央補助）、115年度969萬元（中央補助款714萬元、市配合款255萬元）。其中114年度306萬元（全額中央補助）未及納入本府115年度總預算案，為爭取時效，謹請貴會同意先行墊付，俟115年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年10月14日第719次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案經文化部文化資產局同意補助，惟須於本年度發生權責，確有緊急執行之必要，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=24aa04f1-c9aa-4844-89f4-0e47dbcde996",
+            "FileName": "市提15附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=705eaecd-9eb2-456b-b2ae-4cc75cae1f57&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
