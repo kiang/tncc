@@ -1,5 +1,49 @@
 [
     {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "103",
+        "OrgTitle": "林燕祝",
+        "CaseCause": "建請市府補足永康分局交通分隊大灣小隊廳舍整建預算，以利工程如期如質完工。",
+        "ProNo": "adf9f05c-7d97-467c-ab19-c0cb046db539",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "人民請願案-人民請願案",
+        "CaseNumber": "1",
+        "OrgTitle": "",
+        "CaseCause": "請修正「臺南市爆竹煙火施放管制自治條例」。",
+        "ProNo": "0e5d1165-46c0-4d4c-a4f1-3af6172a6e8b",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "專案報告-專案報告",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府交通局",
+        "CaseCause": "「臺南市大眾運輸系統含臺鐵及捷運系統高架、地下化財務規劃及經費來源」專案報告",
+        "ProNo": "c7923a19-9879-4517-81e6-84e4d881777b",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/10\/24",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府工務局",
+        "CaseCause": "內政部核定「113 年度臺南生活圈道路交通系統建設計畫（市區道路）」經費新臺幣4 億7,236 萬3,000 元(地方配合款3 億2,838 萬9,000元、補償費中央補助款1 億4,397 萬4,000 元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114 年度總預算時辦理轉正，敬請審議。",
+        "ProNo": "10b0e709-bb22-4b4c-8882-571085dc0c3e",
+        "PagesAll": "58"
+    },
+    {
         "DoneDate": "2024\/10\/24",
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "工務",
@@ -1053,50 +1097,6 @@
         "OrgTitle": "陳昆和、周奕齊",
         "CaseCause": "北門區保吉里辦公處反映頭港排水3K+900至約4K+920護岸高度不足。",
         "ProNo": "d551d9b1-5ab5-495a-9746-d70bd5d22609",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/10\/24",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "83",
-        "OrgTitle": "蔡筱薇",
-        "CaseCause": "建請提高東區汙水管線接管率。",
-        "ProNo": "85f33b91-4032-4b38-81c9-ca3932cf10ad",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/10\/24",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "84",
-        "OrgTitle": "蔡筱薇",
-        "CaseCause": "建請研擬改善大同地下道下方排水箱涵通水能力。",
-        "ProNo": "7e2c5bf5-6d24-4cfd-85be-6171156c3f93",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/10\/24",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "85",
-        "OrgTitle": "杜素吟",
-        "CaseCause": "建請市府辦理歸仁區沙崙武東排水改善延續工程，以保障民眾生命及財產安全。",
-        "ProNo": "3b4aefe5-cd59-47e2-9926-119a8bfdd25d",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/10\/24",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "86",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府儘速完成新市區潭頂段777-4地號排水設施改善工程，以利民眾使用。",
-        "ProNo": "cddffc78-5f12-4207-8c57-213e038e57a9",
         "PagesAll": "58"
     }
 ]

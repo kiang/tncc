@@ -4,6 +4,50 @@
         "GradeTime": "第4屆 第3次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "68",
+        "OrgTitle": "沈家鳳",
+        "CaseCause": "建請市政府編列預算辦理柳營區八翁里「活動中心周邊道路改善工程」，以利民眾通行安全。",
+        "ProNo": "5c8cf906-54d1-480a-ae00-edee5bc559f2",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "69",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府工務局儘速在新市區港墘里白蓮霧公園設置體健設施，提供民眾更好的休憩場所。",
+        "ProNo": "1f4cd384-06db-45fb-9f14-7bd7a589b238",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "70",
+        "OrgTitle": "李偉智",
+        "CaseCause": "建請市府規劃闢建善化區高鐵下便道，三民路-178線至台19甲路段。",
+        "ProNo": "a08ef275-7e51-4f2a-9fb2-97b0dd2a8f4f",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "71",
+        "OrgTitle": "蔡麗青",
+        "CaseCause": "建請修繕功安一街水溝，改善當地環境。",
+        "ProNo": "f8621bda-ee05-49da-a3b3-73c3c0a24e17",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "72",
         "OrgTitle": "蔡麗青",
         "CaseCause": "建請將土城城東里水溝整治納入計畫，解決淹水問題。",
@@ -1053,50 +1097,6 @@
         "OrgTitle": "林美燕",
         "CaseCause": "幼兒園午餐費已多年未調整，建請市府考量幼兒園餐點採購受大環境通膨影響，適時調整幼兒園午餐收費基準。",
         "ProNo": "98505e97-44df-4ec8-b837-503da4bf2542",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "52",
-        "OrgTitle": "林美燕",
-        "CaseCause": "請市府確認特教生評估期間太長，無法第一時間給予家長及學校現場老師支持。",
-        "ProNo": "f56d7e33-1837-47a9-b14b-aaf1abaec353",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "53",
-        "OrgTitle": "林美燕",
-        "CaseCause": "請市府確認準公共幼兒園招生結束後，若學校有名額且師生比符合，應可提早就讀，避免造成家長無法就業。",
-        "ProNo": "9ff921f0-5c4d-498a-aa99-9cb134d120d3",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "54",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府教育局加强宣導兒童交通安全教育、兒童安全通過路口應注意事項，讓兒童能平安健康的成長。",
-        "ProNo": "726b687b-c433-4b17-90f4-ed5bc609084a",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "55",
-        "OrgTitle": "李宗霖、沈震東、蔡筱薇、余柷青、王宣貿、沈家鳳",
-        "CaseCause": "建請市府於各級學校聘任本土語言專任教師，以保障並提升本土語教師支援人員權益。",
-        "ProNo": "204c703b-eb4e-40ff-91a6-9b6702bcf93a",
         "PagesAll": "58"
     }
 ]

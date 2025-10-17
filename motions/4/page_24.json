@@ -4,6 +4,50 @@
         "GradeTime": "第4屆 第6次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "52",
+        "OrgTitle": "李偉智",
+        "CaseCause": "建請市府規劃於新化區虎頭溪上游加強護岸建設。",
+        "ProNo": "2b8c74f7-bcdf-4865-822a-46222b5d3113",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "53",
+        "OrgTitle": "黄肇輝",
+        "CaseCause": "建請市府辦理永康區二王里中山南路738號旁巷道改善工程，以保障民眾通行之安全。",
+        "ProNo": "b79ba2cc-c6c4-49c3-bdb4-92fb75f97932",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "54",
+        "OrgTitle": "黄肇輝",
+        "CaseCause": "建請市府辦理永康區復華里復華八街43~47巷道路改善工程，以保障民眾通行之安全。",
+        "ProNo": "e19da105-3bbc-4484-bc39-d5c277a5d7e9",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "55",
+        "OrgTitle": "蔡麗青",
+        "CaseCause": "建請將安南區郡安路三段道路(安和路一段至府安路三段)重新鋪設，以維行車安全。",
+        "ProNo": "b0cf7357-02cb-49de-b68a-d2a855920f30",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "56",
         "OrgTitle": "蔡麗青",
         "CaseCause": "建請辦理安南區AN05-97-8M、AN05-105-8M等道路開闢。",
@@ -1053,50 +1097,6 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "建請公幼每班應有2位教保服務人員。",
         "ProNo": "53fff5b6-0778-474c-a0dc-c4c5b2f5f35e",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "53",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請市府編列預算，增加滿40歲以上全體教師每2年補助1次健康檢查費4,500元。",
-        "ProNo": "85446859-4161-4ff8-ae80-bf3a5a2c1d6d",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "54",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請市府增設幼兒特教專班及學齡前巡輔師增額。",
-        "ProNo": "de224604-c9e5-42d6-ba03-f0e6ac5bb77c",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "55",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請市府編列預算，增加專門人力協助學務處調查、處理性平、霸凌案件。",
-        "ProNo": "c754f588-d702-413a-ad33-664c293259cf",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "56",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府編印「校園霸凌暨性平防治手冊」，宣導零容忍並詳述事件之處理流程，讓學生和家長了解到遭遇相關事件時能如何有效處理。",
-        "ProNo": "6692079a-85d5-4e32-982a-83bce167523f",
         "PagesAll": "58"
     }
 ]
