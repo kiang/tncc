@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "64",
+        "OrgTitle": "李宗霖、沈家鳳",
+        "CaseCause": "建請市府媒合白河崎內在地藝術家，將崎內里與其附近之公車站牌重新規劃設計，讓在地藝文融入站牌識別中，促進地方創生與觀光發展。",
+        "ProNo": "e2bb5298-30ec-461e-9bed-145904aefb34",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "65",
+        "OrgTitle": "李偉智",
+        "CaseCause": "請市府研擬於新化區新化高工處設置U-bike，以利師生使用。",
+        "ProNo": "1b71ea61-492d-40c4-9d99-23c0003653a3",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "66",
         "OrgTitle": "沈震東",
         "CaseCause": "建請交通局定期巡檢待轉區之格位，確認格線和文字標示清晰與合乎規定，避免因為標示不當導致執法爭議。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "陳秋萍",
         "CaseCause": "有關永康區埔園里龍埔街486巷等路面，道路老舊破損乙案，建請市府工務局儘速完成柏油路面改善工程，以保障人車通行安全。",
         "ProNo": "37555d1a-2f30-4502-be42-b14474f9a974",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "66",
-        "OrgTitle": "陳秋萍",
-        "CaseCause": "有關永康區四維街(埔園街至鐵路前)路面，道路老舊破損乙案，建請市府工務局儘速完成柏油路面改善工程，以保障人車通行安全。",
-        "ProNo": "60dbce60-271b-4198-9dc2-caff647c65a0",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "67",
-        "OrgTitle": "陳秋萍",
-        "CaseCause": "有關永康區永康里永明街(中山北路至永大路二段)等路面改善工程，道路老舊破損乙案，建請市府工務局儘速完成柏油路面改善工程，以保障人車通行安全。",
-        "ProNo": "6b2fa5e1-63d6-4f6c-b6c9-5d75a3c1f0a3",
         "PagesAll": "58"
     }
 ]

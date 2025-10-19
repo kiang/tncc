@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第6次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "50",
+        "OrgTitle": "李偉智",
+        "CaseCause": "建請市府改善虎頭溪新平段防汛步道南側，因地勢較低導致排水不良。",
+        "ProNo": "b2d3de74-8b1d-49eb-a233-e54cd47b28e2",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "51",
+        "OrgTitle": "李偉智",
+        "CaseCause": "建請市府規劃新化區正新路363巷京都大樓前大排改善計畫。",
+        "ProNo": "7e11e7ed-d198-4d44-bc0c-55f92925a864",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "52",
         "OrgTitle": "李偉智",
         "CaseCause": "建請市府規劃於新化區虎頭溪上游加強護岸建設。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "林志展、朱正軒、周嘉韋",
         "CaseCause": "建請市政府制訂本土語社區教學課程補助辦法。",
         "ProNo": "79775e67-52fb-4153-b778-51a44056ccb3",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "51",
-        "OrgTitle": "林志展",
-        "CaseCause": "防制車手滲入校園，預防學生涉入詐騙案件，建請市政府建置防詐通報系統。",
-        "ProNo": "9008d386-6d1f-4b6d-b551-918397bfbe97",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "52",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請公幼每班應有2位教保服務人員。",
-        "ProNo": "53fff5b6-0778-474c-a0dc-c4c5b2f5f35e",
         "PagesAll": "58"
     }
 ]

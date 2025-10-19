@@ -1,5 +1,27 @@
 [
     {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府主計處",
+        "CaseCause": "檢送本府111年第4季辦理政策及業務宣導之執行情形表，提請貴會備查，請查照。",
+        "ProNo": "6f68641c-13df-42c4-a345-1deaf1de66ad",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "3",
+        "OrgTitle": "臺南市政府主計處",
+        "CaseCause": "檢送本府112年第1季辦理政策及業務宣導之執行情形表，提請貴會備查，請查照。",
+        "ProNo": "f8c9d996-698a-4a05-b157-a8c6bce7989e",
+        "PagesAll": "58"
+    },
+    {
         "DoneDate": "2023\/06\/07",
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "財經",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "方一峰",
         "CaseCause": "建請市府儘速辦理「西港區檨林里中山高東側河川地農路改善工程」。",
         "ProNo": "76e0034b-d4d0-4bb9-aae4-5200975994e0",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "67",
-        "OrgTitle": "方一峰",
-        "CaseCause": "建請市府儘速辦理「西港區新復里旺騰實業前道路改善工程」。",
-        "ProNo": "2bcae96d-37ac-4e4c-987f-5ad5eba0580b",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "68",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府農業局儘速在新市區社內里社內184-2號前道路，進行柏油路面改善工程，保障人車通行安全。",
-        "ProNo": "a89c492f-5463-4786-80c1-76852c000c18",
         "PagesAll": "58"
     }
 ]

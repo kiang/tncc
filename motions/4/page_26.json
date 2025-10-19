@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "8",
+        "OrgTitle": "李宗翰",
+        "CaseCause": "建請市府編列預算，俾利改善市場規劃以提升公共衛生。",
+        "ProNo": "4f507320-5eb8-48b0-b281-df4396736983",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "9",
+        "OrgTitle": "陳昆和、周奕齊、Ingay Tali 穎艾達利",
+        "CaseCause": "佳里工業區道路、水溝、消防設備總檢討乙案。",
+        "ProNo": "769c4f5a-b331-4f29-bf96-1f7db217c14b",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "10",
         "OrgTitle": "李宗翰",
         "CaseCause": "建請市府將綠能光電回饋金業務，交由區公所執行。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "蔡育輝",
         "CaseCause": "為嘉惠本市市民，請市政府補助或洽國營臺灣鐵路股份有限公司給予65歲以上長者及身障人士，搭乘火車起迄站在臺南市內各站(臺南站至後壁站間)予以免費搭乘。",
         "ProNo": "2c7a05c8-6d35-4ab8-be9f-10976947072a",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "8",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府規畫社區巡迴健檢車業務安排民眾預約、登記時，建議有效縮短長輩(65歲以上)上車進行各項檢查前的等候時間，免於戶外久候的狀況不斷發生，造成體力嚴重負擔。",
-        "ProNo": "91176bfb-95b6-43da-a332-686118d53368",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "9",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府於公共設施地點，加強查察取締於圍牆上塗鴉之行為，並訂定清理通報標準程序。",
-        "ProNo": "7b9050bc-c337-4bea-8f07-5e2d85368986",
         "PagesAll": "58"
     }
 ]

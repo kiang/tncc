@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "33",
+        "OrgTitle": "林依婷",
+        "CaseCause": "建請市府改善安平區水景橋停車場(城平路)淹水問題。",
+        "ProNo": "897387e3-c429-4349-aca1-bcffa15a085e",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "34",
+        "OrgTitle": "蔡秋蘭",
+        "CaseCause": "建請臺南市政府辦理將軍區馬沙溝重劃區將軍段1766-2地號(東三路)農路改善工程。",
+        "ProNo": "2354a207-211b-42e3-aa48-0285eb36cf43",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "35",
         "OrgTitle": "蔡育輝、蔡淑惠",
         "CaseCause": "建請市政府編列預算辦理柳營區太康農地重劃區太康段773-2地號農路改善工程，以維護農民人車通行安全。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "蔡蘇秋金",
         "CaseCause": "鑑於轄內新建案日益增多與氣候異常影響，各區清潔隊維護環境的頻率和項目日常增多。尤以樹枝、家具載運和清溝勤務為甚。本席建議大北門各區隊皆能配置抓斗車及溝泥車，以符合實際環境維護所需。",
         "ProNo": "8216b07e-2e70-4490-9d52-eea7ddb797e3",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "20",
-        "OrgTitle": "沈震東",
-        "CaseCause": "因臺南火車站周圍無公用廁所，建請市府增設公用廁所。",
-        "ProNo": "6974bb00-2300-4b46-9848-d6015710ea89",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "21",
-        "OrgTitle": "朱正軒、王宣貿、蔡筱薇、沈家鳳、陳秋宏",
-        "CaseCause": "為保障市民健康，建請環保局進行全市石綿建物盤點與清運補助方案。",
-        "ProNo": "ad142d22-0274-4179-9fa4-61475850fc63",
         "PagesAll": "58"
     }
 ]

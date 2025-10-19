@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "法規",
         "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "4",
+        "OrgTitle": "臺南市政府民政局",
+        "CaseCause": "修正「臺南市公民投票自治條例」草案，敬請審議。\r\n",
+        "ProNo": "79c19d87-e317-43dd-ab46-b418aaa92ba8",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "5",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "擬具「臺南市淺海牡蠣養殖管理自治條例」第六條、第十七條修正草案，敬請審議。",
+        "ProNo": "59095331-156e-434f-a3bd-7499ce3355e6",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "市府提案-市法規案",
         "CaseNumber": "6",
         "OrgTitle": "臺南市政府農業局",
         "CaseCause": "擬具「臺南市新設置畜牧設施管理自治條例」第三條、第五條、第六條修正草案，敬請審議。\r\n",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "黄肇輝",
         "CaseCause": "建請消防局於本市各分隊人員執勤致訴訟時，應提供相關法律上協助。",
         "ProNo": "64cd7579-ba17-4e26-a0d7-99a85dce5060",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "7",
-        "OrgTitle": "黄肇輝",
-        "CaseCause": "建請消防局儘速設置火場管制相關標準作業程序。",
-        "ProNo": "9f865f33-3571-4817-94d7-96fe6bce3aa3",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "8",
-        "OrgTitle": "Ingay Tali 穎艾達利、陳怡珍、周奕齊",
-        "CaseCause": "建請市府重新檢視並改善立體停車場無障礙設施，並請統整工務單位與社會局各無障礙小組，於公共設施之設計規劃階段即納入無障礙意見，俾便落實長幼無障礙友善政策精神。",
-        "ProNo": "61b95055-462e-4e29-ab83-f033fba9b670",
         "PagesAll": "58"
     }
 ]

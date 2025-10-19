@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "216",
+        "OrgTitle": "沈家鳳",
+        "CaseCause": "東山區北勢寮鐵支路花廊沿線長期缺乏照明設施，夜間天色昏暗，民眾步行、騎乘腳踏車或運動時易有危險，為顧及公共安全與美化環境，建請市府儘速增設景觀燈或路燈，營造友善通行與夜間賞景環境。",
+        "ProNo": "6073d940-8729-47a5-91bc-21e368e03a5f",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "217",
+        "OrgTitle": "沈家鳳",
+        "CaseCause": "東山區聖賢里田尾51號至吉貝耍部落前道路多處損壞，建請市府儘速進行改善，以利人車通行安全。",
+        "ProNo": "882895b3-c8da-47db-9378-b8362a3afa19",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "218",
         "OrgTitle": "沈家鳳",
         "CaseCause": "建請市府儘速進行柳營區士林里育英街巷內道路改善工程，以利人車通行安全。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "臺南市政府法制處",
         "CaseCause": "臺南市政府擬具「臺南市法規標準自治條例」第十一條修正草案，提請審議。",
         "ProNo": "88d54a60-3bd1-43ec-9c5b-a9c0354702fd",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "市府提案-市法規案",
-        "CaseNumber": "4",
-        "OrgTitle": "臺南市政府民政局",
-        "CaseCause": "修正「臺南市公民投票自治條例」草案，敬請審議。\r\n",
-        "ProNo": "79c19d87-e317-43dd-ab46-b418aaa92ba8",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "市府提案-市法規案",
-        "CaseNumber": "5",
-        "OrgTitle": "臺南市政府農業局",
-        "CaseCause": "擬具「臺南市淺海牡蠣養殖管理自治條例」第六條、第十七條修正草案，敬請審議。",
-        "ProNo": "59095331-156e-434f-a3bd-7499ce3355e6",
         "PagesAll": "58"
     }
 ]

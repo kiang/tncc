@@ -3,6 +3,28 @@
         "DoneDate": "2024\/06\/26",
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "建設",
+        "KidTitle": "市府提案-一般提案",
+        "CaseNumber": "17",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "檢送財團法人臺南市孔廟文化基金會112年度決算書，敬請審議。",
+        "ProNo": "6ff71958-5ca1-4f40-850c-bd327f095f1c",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "市府提案-一般提案",
+        "CaseNumber": "18",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "檢送本市「財團法人台南市文化基金會112年度決算書」乙案，敬請審議。",
+        "ProNo": "8b782c38-0caf-4909-af1a-d8a4c1088516",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "建設",
         "KidTitle": "議員提案-一般提案",
         "CaseNumber": "1",
         "OrgTitle": "鄭佳欣",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "李鎮國",
         "CaseCause": "建議臺南市永康區「厝邊公車」901、902重新調整大橋國中站之到站時間。",
         "ProNo": "52587ed9-a56e-4432-90a1-bcb518a6e0c8",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "64",
-        "OrgTitle": "周嘉韋",
-        "CaseCause": "建請市府針對各路口危3+遵18反光導標完整性全面檢復。",
-        "ProNo": "e07b9bdf-3671-4053-a878-19b3ad1230ec",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "65",
-        "OrgTitle": "周嘉韋",
-        "CaseCause": "建請市府落實火車站前機車停車格之收費制度。",
-        "ProNo": "a33ab3d7-d7dd-409f-af2f-36c789e770bf",
         "PagesAll": "58"
     }
 ]
