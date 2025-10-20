@@ -58,6 +58,28 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "財經",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府主計處",
+        "CaseCause": "檢送本府114年第1季辦理政策及業務宣導之執行情形表，提請貴會備查。",
+        "ProNo": "aecee979-a0ad-4c57-a069-0050f11193ab",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府主計處",
+        "CaseCause": "檢送本府114年第2季辦理政策及業務宣導之執行情形表，提請貴會備查。",
+        "ProNo": "d0898688-95ff-47c3-8841-df9e8b52b4f7",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "財經",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "2",
         "OrgTitle": "臺南市政府地政局",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "臺南市政府原住民族事務委員會",
         "CaseCause": "原住民族委員會核定本府辦理「2025東山吉貝耍文化祭：文化之根·信仰之光計畫」，其中經費新臺幣（以下同）314萬元(中央補助款300萬元，市配合款14萬元)未及納入本(114)年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度編列總預算時再予轉正，敬請審議。 ",
         "ProNo": "c6df3dac-6d10-43f2-9f43-aad9300c4983",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "1",
-        "OrgTitle": "林依婷",
-        "CaseCause": "建請市府研議並向公路局申請，善用台86線下方及萬年路406巷東側閒置空間，規劃建設籃球練習場，促進地方公共設施多元利用。",
-        "ProNo": "652f8f15-c433-49f0-b7ca-3218a4251a30",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "2",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府規劃定期於新化區體育公園施行噴藥行程。",
-        "ProNo": "6fe25ee4-ef9e-475e-820d-ea5ef9f2f947",
         "PagesAll": "58"
     }
 ]

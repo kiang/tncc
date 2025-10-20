@@ -2,6 +2,28 @@
     {
         "DoneDate": "2023\/11\/30",
         "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "人民請願案-人民請願案",
+        "CaseNumber": "1",
+        "OrgTitle": "",
+        "CaseCause": "建議訂定「臺南市代理教師待遇自治條例」。",
+        "ProNo": "453b272d-fa75-4650-9bcb-1df932fa34ab",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "人民請願案-人民請願案",
+        "CaseNumber": "2",
+        "OrgTitle": "",
+        "CaseCause": "建議訂定「臺南市高級中等以下學校兼任代課及代理教師聘任自治條例」。",
+        "ProNo": "bf75a278-6b6d-4730-9b5f-32e083ec4e43",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "查照\/備查案-一般備查案",
         "CaseNumber": "1",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "林志展、沈家鳳",
         "CaseCause": "建請市政府建構電子化共通寵物病歷。",
         "ProNo": "25d779d5-3d15-4ae8-bad8-71f7dee978b1",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "77",
-        "OrgTitle": "林志展",
-        "CaseCause": "建請市政府爭取農業博覽會在臺南。",
-        "ProNo": "16413bdc-5468-41b4-b5bd-21db390bd87a",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "78",
-        "OrgTitle": "蔡宗豪、曾之婕、周奕齊",
-        "CaseCause": "建請市府於北區開元振興公園規劃寵物友善專區，提供民眾一個能與自家毛小孩活動的安全、舒適休閒環境。",
-        "ProNo": "9d67cc4b-0a48-4f68-a512-d2acf69f80fe",
         "PagesAll": "58"
     }
 ]

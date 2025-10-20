@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "99",
+        "OrgTitle": "林燕祝",
+        "CaseCause": "建請市府將台南市委外公有停車場由交通局統一全面管理並設置辦法。",
+        "ProNo": "439f81f0-2bb2-4925-aad2-9bebe9d19bc5",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "100",
+        "OrgTitle": "林燕祝",
+        "CaseCause": "建請市府於永康區西勢路與國民路口增設交通號誌燈並劃設行人穿越線，以保障往來民眾通行之安全。",
+        "ProNo": "5a0a0b95-a9f3-4110-bd4e-5d908330a759",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "101",
         "OrgTitle": "趙昆原、Ingay Tali 穎艾達利",
         "CaseCause": "建請市府針對民治市政中心週邊道路設置停車動態導引系統牌面，以利民眾洽公停車。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "請辦理龜子港大排排水系統工程，因年久未整治，造成排水斷面淤積嚴重，每逢豪雨或颱風造成災害，急需辦理改善，杜絕淹水。",
         "ProNo": "0e4a4998-35f1-4a4d-afa2-e39d7be412e1",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/10\/24",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "79",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理六甲區甲東里牛坔排水後尾段改善工程，因土地未徵收，每次颱風或豪雨，造成甲東里、甲南里淹水問題。",
-        "ProNo": "5807f52c-6433-49e9-bd4b-f560c35493f1",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/10\/24",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "80",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理下營區橋頭港排水頂角橋上游西側護岸改善工程(第三期)，因目前土溝雜草叢生，妨害排水，急需辦理改善，杜絕淹水。",
-        "ProNo": "8fd54930-0cda-422b-8a7c-2ce9da9018e1",
         "PagesAll": "58"
     }
 ]

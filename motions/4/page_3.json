@@ -2,6 +2,28 @@
     {
         "DoneDate": "2025\/08\/18",
         "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "8",
+        "OrgTitle": "鄭佳欣",
+        "CaseCause": "歸仁十路與歸仁大道交岔路口的少量身障機車專用停車格屢遭占用，警方雖可開單卻無法即時排除，致身障人士（部分需較大空間）無法使用。全市約1,420格，歸仁區不足40格，供給明顯不足，亟需改善。",
+        "ProNo": "0934d4ef-7e02-4575-ba78-3b4af2727e5a",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2025\/08\/18",
+        "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "9",
+        "OrgTitle": "林依婷",
+        "CaseCause": "建請市府於金華路、新都路口規劃左轉附加車道，以改善車輛於路口交織風險，並提升行車效率。",
+        "ProNo": "ac25cedf-fee4-4b57-830e-71f25b226bd5",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2025\/08\/18",
+        "GradeTime": "第4屆 第9次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "爭取興建設立標準運動場館。",
         "ProNo": "636712e7-cb5f-45e8-9a7c-2f53be0d998c",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "37",
-        "OrgTitle": "蔡宗豪",
-        "CaseCause": "建請市府儘速辦理更新協進國小協進館木質地板與兩側磨石地板，全面改使用PVC運動地板。",
-        "ProNo": "89c499a9-6d52-4a8d-9124-158498e4533f",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "38",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "建請市府於永康區忠孝壘球場增設護網，以確保周圍往來通行車輛之安全。",
-        "ProNo": "8d623214-ff42-4572-99dd-f5aa70049f82",
         "PagesAll": "58"
     }
 ]

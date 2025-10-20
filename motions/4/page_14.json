@@ -2,6 +2,28 @@
     {
         "DoneDate": "2024\/12\/19",
         "GradeTime": "第4屆 第7次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "專案報告-專案報告",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "「臺南市新設置畜牧設施管理自治條例之執行現況與檢討」專案報告",
+        "ProNo": "8245d481-76eb-459b-b74d-dfa3192d3406",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/12\/19",
+        "GradeTime": "第4屆 第7次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府環境保護局",
+        "CaseCause": "環境部核定本市「臺南市鹽水溪小規模污水處理示範設施委託規劃設計計畫」經費新臺幣967萬元整乙案(中央補助609萬2,000元;市配合款357萬8,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度追加減預算時辦理轉正，敬請審議。",
+        "ProNo": "fdc819a3-0e50-4910-a918-6c2996ec1c6c",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/12\/19",
+        "GradeTime": "第4屆 第7次 臨時會",
         "PTypTitle": "環保衛生",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "2",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "林志展",
         "CaseCause": "建請市政府協助校園廣播系統結合國家警報系統。",
         "ProNo": "a45f96a6-d468-41ff-8800-2d2d2ee4f4d5",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "64",
-        "OrgTitle": "林志展、周嘉韋",
-        "CaseCause": "建請市政府編纂本地文化雙語教材，讓本市學生深化本土情感及擴增國際視野。",
-        "ProNo": "2c44b03e-9fbb-4453-ac02-6d5d0505191d",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "65",
-        "OrgTitle": "林志展、周嘉韋",
-        "CaseCause": "建請市政府佈建校園微電網相關軟硬體資源。",
-        "ProNo": "4e495ede-7eec-4363-a931-47fc464dfc84",
         "PagesAll": "58"
     }
 ]

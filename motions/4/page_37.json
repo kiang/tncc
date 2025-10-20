@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "77",
+        "OrgTitle": "林志展",
+        "CaseCause": "建請市政府爭取農業博覽會在臺南。",
+        "ProNo": "16413bdc-5468-41b4-b5bd-21db390bd87a",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "78",
+        "OrgTitle": "蔡宗豪、曾之婕、周奕齊",
+        "CaseCause": "建請市府於北區開元振興公園規劃寵物友善專區，提供民眾一個能與自家毛小孩活動的安全、舒適休閒環境。",
+        "ProNo": "9d67cc4b-0a48-4f68-a512-d2acf69f80fe",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "79",
         "OrgTitle": "Ingay Tali 穎艾達利、周奕齊、趙昆原、陳昆和",
         "CaseCause": "建請市府研議遊蕩動物餵食相關管理制度，降低市民或社區安全衛生疑慮，同時確保遊蕩動物健康與族群管理可能，平衡本市友善動物策略方向。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府勞工局向中央建議修訂銀髮族定額進用比例，可實質提供中高齡及高齡者之就業保障，活化勞動市場，提升本市勞動人口。",
         "ProNo": "52cd8a9a-2fff-49b2-94e5-378812982356",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "4",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府公共空間廣設智慧微型圖書館，提升市民閱讀風氣。",
-        "ProNo": "1c084c8e-38a1-4f18-bf62-fb3edf374d6f",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "5",
-        "OrgTitle": "李鎮國",
-        "CaseCause": "建議永康區社教中心即將整修完畢，但因現有冷氣機組老舊，空調主機等皆不堪使用，請更換並增設分離式冷氣機。",
-        "ProNo": "0122929d-c04b-4e16-8113-ce597314675d",
         "PagesAll": "58"
     }
 ]

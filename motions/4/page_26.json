@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "6",
+        "OrgTitle": "蔡筱薇、陳秋宏、鄭佳欣",
+        "CaseCause": "輔導傳統市場開發多元服務管道，提升競爭力。",
+        "ProNo": "77d953ad-d9ba-4a69-9433-2b1135a8c9c1",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "7",
+        "OrgTitle": "蔡筱薇",
+        "CaseCause": "太陽能板隔離綠帶設施不足，應依照案場分布及範圍調整隔離綠帶保留方式。",
+        "ProNo": "306107f3-11a9-42a0-ad05-2329ff9c8874",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "8",
         "OrgTitle": "李宗翰",
         "CaseCause": "建請市府編列預算，俾利改善市場規劃以提升公共衛生。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "李偉智",
         "CaseCause": "建請市府規畫於善化區蓮潭里LM社區做簡易式排水曝氣濾槽，讓進社區的廢水氣味降低，以改善民眾生活。",
         "ProNo": "96286a84-2ba1-484c-bce9-cc4dfdf3ad17",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "為鼓勵長者及身心障礙朋友多出門活動，建請臺南市政府開辦敬老卡、愛心卡等地方社福卡，可以使用社福卡點數搭乘臺鐵列車。",
-        "ProNo": "513a2ae4-efc1-4d2c-8a2d-3cd70eb2ec7a",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "7",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "為嘉惠本市市民，請市政府補助或洽國營臺灣鐵路股份有限公司給予65歲以上長者及身障人士，搭乘火車起迄站在臺南市內各站(臺南站至後壁站間)予以免費搭乘。",
-        "ProNo": "2c7a05c8-6d35-4ab8-be9f-10976947072a",
         "PagesAll": "58"
     }
 ]

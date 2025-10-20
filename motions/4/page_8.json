@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "12",
+        "OrgTitle": "林燕祝、黄肇輝、吳禹寰、杜素吟、林美燕、謝舒凡、朱正軒、林依婷、鄭佳欣",
+        "CaseCause": "建請市府於機(21)用地興建臺南市政府警察局刑事警察大隊辦公大樓，並編列規劃費與逐年編列預算。",
+        "ProNo": "c70ef0ca-3829-49ab-8439-bd17103c3610",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "13",
+        "OrgTitle": "林燕祝",
+        "CaseCause": "建請市府警察局定期盤點毒品初篩試劑，並落實清查管控作業。",
+        "ProNo": "91a1a378-33b2-4459-bf40-efdd9dab0d7d",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "14",
         "OrgTitle": "林燕祝",
         "CaseCause": "建議市府研議採購毒品「口腔液快篩器」，以利員警查緝毒駕案件。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "建請辦理官田區二鎮里鎮森道路改善工程，因道路年久失修，柏油路面龜裂、破損嚴重，急需辦理改善，以利行車安全。",
         "ProNo": "ee3c909d-b90b-412c-9b4d-a6264a599a12",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/06\/04",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "14",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "建請改善市道165線自南113線岔路口至中脇永安宮止，道路年久失修、破損嚴重，急需辦理改善，以利行車安全。",
-        "ProNo": "2b82042e-1a63-412e-8d24-dd8c1e178e87",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/06\/04",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "15",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "建請辦理改善官田區二鎮里南113線中溝橋前後道路拓寬工程，因中溝橋拓寬，前後道路成為交通瓶頸，急需辦理改善，以利行車安全。",
-        "ProNo": "7810e492-f1ec-49a0-bc8f-996178c17fd2",
         "PagesAll": "58"
     }
 ]

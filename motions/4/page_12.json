@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "法規",
         "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府經濟發展局",
+        "CaseCause": "修正「臺南市促進科技與新創產業發展自治條例」草案，敬請審議。",
+        "ProNo": "a69dd6d0-72d4-46c8-a5c0-dc535dbcc2d7",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "3",
+        "OrgTitle": "臺南市政府法制處",
+        "CaseCause": "臺南市政府擬具「臺南市法規標準自治條例」第十一條修正草案，提請審議。",
+        "ProNo": "88d54a60-3bd1-43ec-9c5b-a9c0354702fd",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "市府提案-市法規案",
         "CaseNumber": "4",
         "OrgTitle": "臺南市政府民政局",
         "CaseCause": "修正「臺南市公民投票自治條例」草案，敬請審議。\r\n",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "林美燕",
         "CaseCause": "請臺南市政府警察局將進修人員職缺調整至直屬單位，原缺額以補實或由直屬隊派員支援。",
         "ProNo": "2f8b393f-b275-4070-af25-9d41f4863b35",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "5",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請市府於勝利路與懷恩街口增設監視器，以提升社區安全與交通管理效能。",
-        "ProNo": "4180d589-4be6-4229-9a32-b2938c57b482",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "黄肇輝",
-        "CaseCause": "建請消防局於本市各分隊人員執勤致訴訟時，應提供相關法律上協助。",
-        "ProNo": "64cd7579-ba17-4e26-a0d7-99a85dce5060",
         "PagesAll": "58"
     }
 ]

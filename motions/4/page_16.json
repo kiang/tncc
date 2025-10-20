@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "31",
+        "OrgTitle": "蔡秋蘭",
+        "CaseCause": "建請臺南市政府辦理佳里區民安里佳里農地重劃民安段197地號農路改善工程。",
+        "ProNo": "9398e608-688f-4c83-8df6-f189287402f8",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "32",
+        "OrgTitle": "蔡秋蘭",
+        "CaseCause": "建請臺南市政府辦理西港農地重劃區第一工區金砂段284地號農路改善工程。",
+        "ProNo": "25b81e43-88d1-487e-b0bf-8fc4198b3bd3",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "33",
         "OrgTitle": "林依婷",
         "CaseCause": "建請市府改善安平區水景橋停車場(城平路)淹水問題。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "林志展",
         "CaseCause": "建請市政府加強綠色友善餐廳推廣，優先協助綠色友善餐廳參與市政府美食相關活動或提供廣告獎勵。",
         "ProNo": "a3e45d5b-9920-4734-b9f8-f5515ce82ae6",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "18",
-        "OrgTitle": "吳禹寰",
-        "CaseCause": "建請臺南市環保局補助關廟區隊後吸式溝泥車乙部。",
-        "ProNo": "42d68ffa-825f-40c3-a377-522310079781",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "19",
-        "OrgTitle": "蔡蘇秋金",
-        "CaseCause": "鑑於轄內新建案日益增多與氣候異常影響，各區清潔隊維護環境的頻率和項目日常增多。尤以樹枝、家具載運和清溝勤務為甚。本席建議大北門各區隊皆能配置抓斗車及溝泥車，以符合實際環境維護所需。",
-        "ProNo": "8216b07e-2e70-4490-9d52-eea7ddb797e3",
         "PagesAll": "58"
     }
 ]
