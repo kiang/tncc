@@ -2,6 +2,17 @@
     {
         "DoneDate": "2024\/12\/02",
         "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "專案報告-專案報告",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "「2024 臺南400 期中成果報告暨2025府城建城300規劃報告」專案報告",
+        "ProNo": "4533b6d5-32e0-487e-ab36-d63ed5f3a2d6",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "陳秋萍、Ingay Tali 穎艾達利",
         "CaseCause": "建請加強宣導並加速執行推動微型電動二輪車領牌、納管作業。",
         "ProNo": "a7c99ca7-a951-4997-b096-b2f63f758467",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "98",
-        "OrgTitle": "鄭佳欣、郭鴻儀",
-        "CaseCause": "建請市府檢視仁德區中山路與中山路628巷口道路設施是否完善並盡速擬定改善方案。",
-        "ProNo": "e674e404-634f-4d61-b8bd-3515c1b1dafe",
         "PagesAll": "58"
     }
 ]

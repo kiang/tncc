@@ -3,6 +3,17 @@
         "DoneDate": "2024\/12\/19",
         "GradeTime": "第4屆 第7次 臨時會",
         "PTypTitle": "財經",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "4",
+        "OrgTitle": "臺南市政府經濟發展局",
+        "CaseCause": "經濟部能源署核定「114 年度經濟部補助臺南市政府辦理太陽光電申設案件審查計畫」，核定經費新臺幣630 萬7,000 元整一案(中央全額補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114 年追加減預算再予轉正。",
+        "ProNo": "9392038a-e9c8-4e15-af03-25e2b59cec98",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/12\/19",
+        "GradeTime": "第4屆 第7次 臨時會",
+        "PTypTitle": "財經",
         "KidTitle": "專案報告-專案報告",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府農業局",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林志展",
         "CaseCause": "建請市政府建立特教助理員分級制度。",
         "ProNo": "f25c1ed2-f074-4a30-8d6f-9a881eeb5948",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "63",
-        "OrgTitle": "林志展",
-        "CaseCause": "建請市政府協助校園廣播系統結合國家警報系統。",
-        "ProNo": "a45f96a6-d468-41ff-8800-2d2d2ee4f4d5",
         "PagesAll": "58"
     }
 ]

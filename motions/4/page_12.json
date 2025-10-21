@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2025\/04\/25",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府經濟發展局",
+        "CaseCause": "制定「臺南市休閒娛樂事業管理自治條例」草案，敬請審議。",
+        "ProNo": "a69ed85e-34f0-4210-857f-c16dec317245",
+        "PagesAll": "58"
+    },
+    {
         "DoneDate": "2025\/07\/02",
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "法規",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林冠維、周奕齊",
         "CaseCause": "請比照高雄市政府警察局等，為義警訂製防風外套。",
         "ProNo": "06636b87-c4f7-411c-be6d-45ace0d57312",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "4",
-        "OrgTitle": "林美燕",
-        "CaseCause": "請臺南市政府警察局將進修人員職缺調整至直屬單位，原缺額以補實或由直屬隊派員支援。",
-        "ProNo": "2f8b393f-b275-4070-af25-9d41f4863b35",
         "PagesAll": "58"
     }
 ]

@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "民政教育",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "31",
+        "OrgTitle": "陳昆和、曾之婕、周奕齊、蔡育輝、鄭佳欣、方一峰、陳皇宇、李偉智",
+        "CaseCause": "建請臺南市政府舉辦大型法會。",
+        "ProNo": "24c392bd-90ac-43f8-ada7-4e44f902f3d0",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "32",
         "OrgTitle": "周奕齊、陳昆和、Ingay Tali 穎艾達利",
         "CaseCause": "山區各區鄰里聯絡道路排水設施不良，影響居民用路安全，建請市府盡速處理。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "杜素吟",
         "CaseCause": "建請市府交通局於仁德區增設U-Bike站點，並應串連公車路線，促進公共運輸便利性，以提升民眾使用意願。",
         "ProNo": "23600b05-0c10-4513-8a2d-80ea82dccbf8",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "11",
-        "OrgTitle": "Ingay Tali 穎艾達利、陳怡珍、林冠維、李中岑、蔡宗豪",
-        "CaseCause": "建請臺南市政府設置U-Bike站點同時保障身障與長者行人通行權益。",
-        "ProNo": "cfed9763-1ff4-4466-a204-e5ec675e3ca6",
         "PagesAll": "58"
     }
 ]
