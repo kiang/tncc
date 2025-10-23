@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規備查案",
+        "CaseNumber": "3",
+        "OrgTitle": "臺南市政府工務局",
+        "CaseCause": "公告修正「臺南市興辦公共工程土地改良物補償自治條例」附表一(合法房屋之重建單價補償標準表)、附表二(雜項工作物及設施查估標準表)、附表三(修復單價標準表)及附表四(人口遷移費計算標準表)。",
+        "ProNo": "a2a42280-dc5e-451e-aedd-a0bb486f2750",
+        "PagesAll": "58"
+    },
+    {
         "DoneDate": "2025\/04\/25",
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "法規",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林依婷",
         "CaseCause": "建請市府完善民眾線上檢舉交通違規網頁，加開說明欄位，避免裁決單位誤判狀況。",
         "ProNo": "a6a18751-8aef-46fc-9b04-e71ca75fefda",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "3",
-        "OrgTitle": "林冠維、周奕齊",
-        "CaseCause": "請比照高雄市政府警察局等，為義警訂製防風外套。",
-        "ProNo": "06636b87-c4f7-411c-be6d-45ace0d57312",
         "PagesAll": "58"
     }
 ]
