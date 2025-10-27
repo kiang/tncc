@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "134",
+        "OrgTitle": "Ingay Tali 穎艾達利",
+        "CaseCause": "建請精進議會無障礙環境，俾便實踐有愛無礙之友善公共空間政策。",
+        "ProNo": "768b5cc3-2f3d-4dd4-8a22-a4ddf9c7b178",
+        "PagesAll": "58"
+    },
+    {
         "DoneDate": "2025\/06\/04",
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "民政教育",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府農業局儘速辦理新市區社内里135之5~142之22號前道路柏油路面改善工程，保障人車通行安全。",
         "ProNo": "5de142e0-59c8-4430-8354-e4dc71efcbb4",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "87",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "請市政府農業局採購「AI農藥質譜快檢車」執行農藥快檢巡迴服務，提供農民即時、精準且免費的農藥檢測服務，讓產地農民與消費者安心食用的農產機制。",
-        "ProNo": "eca2d6eb-0e4b-41af-a114-f61061a9cc92",
         "PagesAll": "58"
     }
 ]

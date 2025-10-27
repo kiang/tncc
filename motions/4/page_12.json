@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2025\/06\/04",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規備查案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府水利局",
+        "CaseCause": "為市府依「臺南市污水下水道使用費徵收自治條例」規定訂定(機關、學校、軍方)以外之一般用戶污水下水道使用費費率為5元\/立方公尺。",
+        "ProNo": "a8eee6f0-9ac6-4d9a-9a1a-acaf288b90fd",
+        "PagesAll": "58"
+    },
+    {
         "DoneDate": "2025\/07\/02",
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "法規",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林依婷",
         "CaseCause": "建請市府於永華路一段、海安路一段路口裝設未停讓行人之科技執法設備。",
         "ProNo": "acddc7f6-1b63-46ef-bdd0-edc368e182fc",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "2",
-        "OrgTitle": "林依婷",
-        "CaseCause": "建請市府完善民眾線上檢舉交通違規網頁，加開說明欄位，避免裁決單位誤判狀況。",
-        "ProNo": "a6a18751-8aef-46fc-9b04-e71ca75fefda",
         "PagesAll": "58"
     }
 ]
