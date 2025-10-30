@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "2",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市議會本會",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本會114年第3季辦理政策及業務宣導之執行情形表，提請備查。",
+    "Content": "",
+    "Method": "",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d2e4f22b-0d46-4a2c-952e-504cf07f6b78",
+            "FileName": "1030更新_114年第3季政策及業務宣導之執行情形表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=285dfa91-4fe1-479c-a99d-23d0c824b45e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

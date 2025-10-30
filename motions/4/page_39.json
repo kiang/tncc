@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "5",
+        "OrgTitle": "吳禹寰、杜素吟",
+        "CaseCause": "建請市府運用科技執法後增加的罰金收入，補齊警力，減少治安隱憂。 ",
+        "ProNo": "f76755c9-f9cf-423c-b279-159bff241fce",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "6",
+        "OrgTitle": "李偉智",
+        "CaseCause": "請即刻評估現有科技執法設置地點執行成效，並研擬「科技執法設置」進、退場機制，讓科技執法資源有效並優先運用在減輕事故路段，提昇用路人安全。",
+        "ProNo": "bfa6399a-1c36-43c6-aab5-4c89d1c2fd11",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "7",
         "OrgTitle": "蔡筱薇",
         "CaseCause": "110視訊報案app使用率偏低，建請研擬改善。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "吳禹寰、周奕齊",
         "CaseCause": "建請市府於關南150市道(關廟區埤頭里保東路)設下水道。",
         "ProNo": "02e0fffa-7070-42b5-ba4d-64ec637d1b4d",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "7",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建議市府規劃位於本市新營區、柳營區省道台1線之急水溪橋橋下溪床為河濱公園，以發展大新營區之觀光。",
-        "ProNo": "92dd936d-eee7-420c-8a4b-b7d2d1bfa60a",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "8",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府儘速完成山上區排水改善工程，預估總費用新臺幣76,180,000元。",
-        "ProNo": "c37e5a2b-9f69-4eae-86ff-d1663eabcef8",
         "PagesAll": "58"
     }
 ]

@@ -1,5 +1,27 @@
 [
     {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市議會本會",
+        "CaseCause": "檢送本會114年第2季辦理政策及業務宣導之執行情形表，提請備查。",
+        "ProNo": "aab38c20-ddcf-4e5c-8e97-672c11298e4d",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市議會本會",
+        "CaseCause": "檢送本會114年第3季辦理政策及業務宣導之執行情形表，提請備查。",
+        "ProNo": "285dfa91-4fe1-479c-a99d-23d0c824b45e",
+        "PagesAll": "58"
+    },
+    {
         "DoneDate": "2025\/10\/29",
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "民政教育",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "林冠維",
         "CaseCause": "建請市府儘速改善永康區東橋十街雙側人行道，以保障孩童及行人安全。",
         "ProNo": "a25484bb-da1e-43c6-840b-38f06028a6b9",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/10\/29",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "42",
-        "OrgTitle": "林冠維",
-        "CaseCause": "請辦理永康區公兒4-5公園新設滑軌遊具工程。",
-        "ProNo": "3dd653c9-aa3c-4df9-8e98-44f292942b29",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/10\/29",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "43",
-        "OrgTitle": "林冠維",
-        "CaseCause": "請辦理永康區探索公園步道整體改善工程。",
-        "ProNo": "d572fa0c-cc24-4c5d-82c4-b0cbce46ad5a",
         "PagesAll": "58"
     }
 ]
