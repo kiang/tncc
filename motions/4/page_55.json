@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "17",
+        "OrgTitle": "陳昆和、周奕齊、Ingay Tali 穎艾達利、李偉智、李宗霖、方一峰、林美燕",
+        "CaseCause": "台南市農產生產過剩因應對策專案報告。",
+        "ProNo": "eafcb9c8-53a1-46db-bc12-9849d9bec276",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "18",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請貴局盤點本市長期依賴中國市場之農漁產品，積極開發外銷至其他國家，並研擬適當的內銷方案。",
+        "ProNo": "22e6a64e-fc90-44c6-9bbb-b5b6092b7849",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "19",
         "OrgTitle": "曾之婕、林冠維、陳秋萍、陳怡珍",
         "CaseCause": "建請於平實公園區域範圍內，闢建「寵物友善公園」，以符合本市民眾飼養寵物的趨勢及需求。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "陳怡珍、陳秋萍",
         "CaseCause": "有關臺南市北區元昌公園與文元公園人行步道老舊破損乙案，本席建請臺南市政府應儘速更新改善，以維護市民及孩童的休閒運動品質。",
         "ProNo": "eb2e83fa-ffb4-4dad-b4ba-660010062a16",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "13",
-        "OrgTitle": "吳禹寰",
-        "CaseCause": "建請市府開闢關廟區關廟里關廟消防隊往五甲里鎮安宮旁道路，解決關廟市區嚴重塞車問題。該道路編號為Ⅱ-13、寬15米、長1243米。",
-        "ProNo": "2fc35acf-4dbf-4a22-9f7b-f6ccd8584868",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "14",
-        "OrgTitle": "吳禹寰",
-        "CaseCause": "建請市府改善仁德區三甲一街道路問題，因年久失修，路面破損嚴重，急需改善。",
-        "ProNo": "6db9be24-53f8-42e2-b8f6-8b3212d5daa2",
         "PagesAll": "58"
     }
 ]

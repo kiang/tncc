@@ -1,6 +1,28 @@
 [
     {
         "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府教育局",
+        "CaseCause": "廢止「臺南市立第三托兒所編制表」、「臺南市立麻豆托兒所編制表」、「臺南市立第五托兒所編制表」。",
+        "ProNo": "53517c48-3017-467b-b583-cb47556d1481",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府教育局",
+        "CaseCause": "修正「臺南市立國民中學及國民中小學組織規程」部分條文，名稱並修正為「臺南市市立國民中學及國民中小學組織規程」。",
+        "ProNo": "4bb0d966-b887-4805-920e-b82058556103",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "",
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "民政教育",
         "KidTitle": "查照\/備查案-一般備查案",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "蔡宗豪",
         "CaseCause": "北區光武公園籃球場過於簡陋，建請市府儘速整修，其雨天時草地的土石會流失，需將舊水溝全部挖開，方能根治問題。",
         "ProNo": "872f3e7d-cac8-4322-916d-17355db5175d",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/10\/29",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "40",
-        "OrgTitle": "陳怡珍",
-        "CaseCause": "臺南市北區大港街柏油路面破損不堪，影響行車安全，建請臺南市政府應儘速進行鋪面改善工程。",
-        "ProNo": "e1b00539-d661-4b24-b43f-27c4c8fc1036",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/10\/29",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "41",
-        "OrgTitle": "林冠維",
-        "CaseCause": "建請市府儘速改善永康區東橋十街雙側人行道，以保障孩童及行人安全。",
-        "ProNo": "a25484bb-da1e-43c6-840b-38f06028a6b9",
         "PagesAll": "58"
     }
 ]

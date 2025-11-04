@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "47",
+        "OrgTitle": "蔡筱薇",
+        "CaseCause": "建立寵物友善平台。",
+        "ProNo": "01b8caec-db7e-4664-9bdf-98f16291b4ff",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "48",
+        "OrgTitle": "蔡筱薇",
+        "CaseCause": "建請施作楠西區蜜枝里仿子頭農路下邊坡擋土牆改善工程。",
+        "ProNo": "64d9bf71-a06d-4edb-8228-2ae5dcf3df00",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "49",
         "OrgTitle": "林美燕",
         "CaseCause": "南區四鯤鯓碼頭狹小簡陋，為維護港區安全，請增設浮動碼頭。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "李宗霖",
         "CaseCause": "建請市府參照中央衛服部頒布之《醫療機構職場不法侵害預防指引》，訂定《臺南市醫療機構職場安全指引》，讓醫事人員執業責任能回歸專業，提供執業登記在本市之醫事人員友善的環境，進而留住人才。",
         "ProNo": "5e4fc880-ce5b-4c7a-b925-faabf1fa7ce8",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "47",
-        "OrgTitle": "李宗霖、沈家鳳",
-        "CaseCause": "建請市府建置統一且便民查詢之社會福利網站系統，達到一站式之便民服務。",
-        "ProNo": "29d29dcb-cec9-477f-9ffc-e934a0e91bf0",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "48",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府於各里活動中心全面普裝自動體外心臟電擊去顫器（AED），讓社區長輩生命安全更有保障，避免危急時刻錯失急救的黃金時機。",
-        "ProNo": "694cc303-f657-43cc-af6b-6a7e94ade5f6",
         "PagesAll": "58"
     }
 ]

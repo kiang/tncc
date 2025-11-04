@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "111",
+        "OrgTitle": "蔡筱薇、林依婷",
+        "CaseCause": "建請進行南區灣裡路72巷拓寬計畫(SC-86-8M道路工程-前段)。",
+        "ProNo": "4d5a5ce3-e6cb-4a28-a1a9-ee4071ebe921",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "112",
+        "OrgTitle": "蔡筱薇",
+        "CaseCause": "建請重鋪東區文東街二巷之道路。",
+        "ProNo": "cb2dd0f8-052c-41cd-bad7-6da4899fa5d8",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "113",
         "OrgTitle": "蔡筱薇、周嘉韋、林依婷",
         "CaseCause": "建請改善「南區都市計劃道路4-67-18M(喜樹路北段)自明興路至中油加油站止」道路現況。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "李宗翰",
         "CaseCause": "建請市府針對降雨不夠導致家後面污水下水道蚊蟲孳生的狀況進行整理。",
         "ProNo": "199848fa-aa62-43c5-9aa0-b3664e461075",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "211",
-        "OrgTitle": "李宗翰",
-        "CaseCause": "建請市府加速白河水庫集水區解編相關規劃時程。",
-        "ProNo": "6ac4b541-0b9b-48cc-a8b7-99b8a0a0849c",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "212",
-        "OrgTitle": "李宗翰、陳秋宏",
-        "CaseCause": "建請市府向農水署爭取更多經費，並編列市預算，落實水路改善。",
-        "ProNo": "4edbd6d3-b2e6-4049-a48a-dea45013d20a",
         "PagesAll": "58"
     }
 ]
