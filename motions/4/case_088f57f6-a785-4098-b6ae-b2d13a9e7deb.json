@@ -10,10 +10,10 @@
     "CaseCause": "臺南市房屋稅徵收率自治條例第三條修正草案，敬請審議。",
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市房屋稅徵收率自治條例（下稱本自治條例）於一百十四年一月九日修正公布，並溯自一百十三年七月一日施行，本自治條例第三條第一項第一款第四目修正規定其他住家用房屋課徵稅率，持有二戶以內者，稅率為百分之三點二；三戶至四戶者，為百分之三點八；五戶至六戶者，為百分之四點二；七戶以上者，為百分之四點八，合先敘明。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"前揭修法及施行期程過於倉促，且依房屋稅條例第五條第六項授權財政部訂定之「全國單一自住房屋現值一定金額基準與房屋稅差別稅率之級距、級距數及各級距稅率基準」，僅供直轄市及縣（市）政府參考尚無拘束力，因此，本自治條例修正公布施行對本市市民於全國未設籍之其他自家用房屋未進行整體全盤考量，僅以其他合理需要之理由增加課徵高於以往數倍之房屋稅稅率，對市民財產權之保障影響至鉅，容有重新檢討修正之必要。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"爰依房屋稅條例第五條第二項規定，並於同條例第一項第一款第四目範圍內，再修正本自治條例第一項第一款第四目之其他住家用課徵稅率為持有二戶以內者，稅率調整為百分之二；三戶至四戶者，為百分之二點二；五戶至六戶者，為百分之二點四；七戶以上者，為百分之二點八。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"檢附臺南市房屋稅徵收率自治條例第三條修正草案總說明、條文修正草案對照表、修正草案條文。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"經大會決議通過後，送市府公布施行。\"}]",
-    "CheckDate": "",
-    "CheckDesc": "",
-    "DoneDate": "",
-    "DoneDesc": "",
+    "CheckDate": "2025\/10\/29",
+    "CheckDesc": "本案有關稅率調整，送政黨協商，其結論再送大會進行二讀會，詳審查結果對照表。",
+    "DoneDate": "2025\/10\/29",
+    "DoneDesc": "114年10月29日4-6定第5次會會議決議：大會通過照法規委員會審查意見交由政黨黨團協商後，再提送大會進行第二讀會討論。",
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
@@ -31,10 +31,37 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=088f57f6-a785-4098-b6ae-b2d13a9e7deb&type=pdf",
-    "CheckAttList": [],
-    "DoneAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=20ec797c-4520-45c1-9b20-2b2accef2502",
+            "FileName": "1141027---4-6定審查意見報告書--法規巿提1及議提1-2號案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a71702da-176e-4318-9d65-adc61a5bc571",
+            "FileName": "1141027---4-6定法規議案審查會議紀錄--法規巿提1及議提1-2號案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f0d81f0a-c75c-40e1-b0b4-e5202d77db24",
+            "FileName": "審查結果對照表--4-6定-法規議提1---南市房屋稅徵收率自治條例第三條修正草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fe229fda-7c94-49e1-aa44-fac89127ee21",
+            "FileName": "財稅局---4-6定-法規議提1案論述資料.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7949aeb0-e22b-4b93-8461-1512eff9402c",
+            "FileName": "1141029-4-6定-第5次大會會議紀錄(議事組).pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "ReDate": "2025\/09\/17",
-    "ReDesc": "",
+    "ReDesc": "114年10月29日4-6定第5次會會議決議：大會通過照法規委員會審查意見交由政黨黨團協商後，再提送大會進行第二讀會討論。",
     "FirstDate": "2025\/09\/26",
     "FirstDesc": "交付法規委員會審查。",
     "SecondDate": "",
