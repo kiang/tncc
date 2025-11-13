@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "210",
+        "OrgTitle": "李宗翰",
+        "CaseCause": "建請市府針對降雨不夠導致家後面污水下水道蚊蟲孳生的狀況進行整理。",
+        "ProNo": "199848fa-aa62-43c5-9aa0-b3664e461075",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "211",
         "OrgTitle": "李宗翰",
         "CaseCause": "建請市府加速白河水庫集水區解編相關規劃時程。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府都市發展局",
         "CaseCause": "修正「臺南市都市更新建築容積獎勵辦法」第一條、第四條之一。",
         "ProNo": "d06009a9-a611-4f85-9d69-463e3e7d89a3",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規查照案",
-        "CaseNumber": "9",
-        "OrgTitle": "臺南市政府社會局",
-        "CaseCause": "修正「臺南市社會福利綜合大樓場地使用管理辦法」。",
-        "ProNo": "30dc0d54-fc9b-4fbd-a94e-4792946b8bb4",
         "PagesAll": "58"
     }
 ]

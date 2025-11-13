@@ -3,6 +3,17 @@
         "DoneDate": "2025\/03\/20",
         "GradeTime": "第4屆 第8次 臨時會",
         "PTypTitle": "財經",
+        "KidTitle": "市府提案-追加減預算",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府主計處",
+        "CaseCause": "本市114年度總預算第一次追加(減)預算案業經編製完竣，敬請 審議。",
+        "ProNo": "bf7b291c-f2dd-4989-8633-2e9ea03b6222",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "財經",
         "KidTitle": "市府提案-動支第二預備金",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府主計處",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "黄肇輝",
         "CaseCause": "建請市府辦理永康區南灣里大灣路652巷道路改善工程，以保障民眾通行之安全。",
         "ProNo": "0f4e7709-1016-47e5-a4d3-18d0c6f01480",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "16",
-        "OrgTitle": "黄肇輝",
-        "CaseCause": "建請市府辦理永康區龍潭里龍潭街與龍橋街路口道路改善工程，以保障民眾通行之安全。",
-        "ProNo": "7a45b969-3d3f-458d-bbf2-e1bd00931fe0",
         "PagesAll": "58"
     }
 ]

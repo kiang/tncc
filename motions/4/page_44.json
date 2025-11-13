@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第3次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "4",
+        "OrgTitle": "林冠維、周奕齊",
+        "CaseCause": "請市府辦理大內區二溪里大埔溪口野溪護岸改善工程。",
+        "ProNo": "105876a3-0fa4-4400-affe-7a407adf7a8b",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "5",
         "OrgTitle": "林冠維、周奕齊",
         "CaseCause": "請市府辦理大內區二溪里新社排水整治工程。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市議會本會",
         "CaseCause": "檢送本會111年第3季辦理政策及業務宣導之執行情形表，提請備查。",
         "ProNo": "9bb45c69-e7cd-44d6-be7b-922174fd3aca",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "查照\/備查案-一般備查案",
-        "CaseNumber": "6",
-        "OrgTitle": "臺南市議會本會",
-        "CaseCause": "檢送本會111年第4季辦理政策及業務宣導之執行情形表，提請備查。",
-        "ProNo": "a866511f-7188-4d63-a6b4-ca08a88c3879",
         "PagesAll": "58"
     }
 ]
