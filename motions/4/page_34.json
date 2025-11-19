@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第5次 臨時會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "10",
+        "OrgTitle": "李鎮國",
+        "CaseCause": "建議永康區大灣路942巷641弄農路道路損壞嚴重，請市府重新鋪設。",
+        "ProNo": "a4cbc068-f390-42aa-8277-4ec2a57287ea",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "11",
         "OrgTitle": "鄭佳欣、林依婷、謝舒凡、吳禹寰、朱正軒、周嘉韋、王宣貿",
         "CaseCause": "建請市府租用台糖林地，以利開闢流浪動物收容空間及寵物公園。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "陳昆和",
         "CaseCause": "請辦理七股區十份里道路改善工程。",
         "ProNo": "e727371c-0f9e-4abb-b620-c64e98d5a4ad",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "18",
-        "OrgTitle": "陳昆和",
-        "CaseCause": "請辦理佳里區多摩市水溝改善工程。",
-        "ProNo": "39edf6b7-c5e6-4e6b-94da-98ff7d20c697",
         "PagesAll": "58"
     }
 ]

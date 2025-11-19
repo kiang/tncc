@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第3次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "3",
+        "OrgTitle": "陳昆和、周奕齊、方一峰",
+        "CaseCause": "北門區「北門里井仔腳排水護岸延續（3）改善工程」。",
+        "ProNo": "bd12e57c-8663-48bc-8887-386d1a5f80c3",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "4",
         "OrgTitle": "林冠維、周奕齊",
         "CaseCause": "請市府辦理大內區二溪里大埔溪口野溪護岸改善工程。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府教育局",
         "CaseCause": "檢送本府「111年度社區大學評鑑結果」1份，請備查。",
         "ProNo": "f74eab95-a4c2-40cc-b2f7-dfe7585cab69",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "查照\/備查案-一般備查案",
-        "CaseNumber": "5",
-        "OrgTitle": "臺南市議會本會",
-        "CaseCause": "檢送本會111年第3季辦理政策及業務宣導之執行情形表，提請備查。",
-        "ProNo": "9bb45c69-e7cd-44d6-be7b-922174fd3aca",
         "PagesAll": "58"
     }
 ]

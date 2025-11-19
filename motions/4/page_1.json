@@ -23,6 +23,17 @@
     },
     {
         "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "3",
+        "OrgTitle": "臺南市政府社會局",
+        "CaseCause": "修正「臺南市社會救助金專戶設置管理及運用辦法」第九條、第十條、第十二條",
+        "ProNo": "67d60a07-71d3-4887-ab43-df815452280a",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "",
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "民政教育",
         "KidTitle": "查照\/備查案-一般備查案",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "蔡宗豪",
         "CaseCause": "北區大興街鄰近好市多一帶，路面崎嶇不平，亟需辦理改善。",
         "ProNo": "e613dff3-6b84-45fc-bf3a-6984a92688f1",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2025\/10\/29",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "38",
-        "OrgTitle": "蔡宗豪",
-        "CaseCause": "北區育德二路(中華北路至北成路)路面龜裂，亟需辦理改善。",
-        "ProNo": "7928a45a-d048-45e9-8267-e654ae80b015",
         "PagesAll": "58"
     }
 ]
