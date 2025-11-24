@@ -10,7 +10,7 @@
     "CaseCause": "制定「臺南市歷史文化場域經理平台設置自治條例」草案，敬請審議。",
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為總體策劃、行銷、營運本市歷史文化景點、歷史文化資產、歷史老屋等公私有文化機構及場域，以有效運用政策和社會資源框架內的總體事項，擬成立臺南市歷史文化場域經理平台行政法人，並訂定臺南市歷史文化場域經理平台設置自治條例草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"依行政法人法第41條第2項規定：「經中央目的事業主管機關核可之特定公共事務，直轄市、縣（市）得準用本法之規定制定自治條例，設立行政法人。」，臺南市歷史文化場域經理平台申請設立行政法人案，業獲文化部於113年10月9日核可。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業於112年11月20日、12月4日及18日召開3場專家學者座談會、112年12月23日、114年7月9日及27日召開3場公聽會，並經本府114年9月23日第716次市政會議審議通過。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"檢附「臺南市歷史文化場域經理平台設置自治條例」草案（含總說明、逐條說明及條文）1份。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
-    "CheckDate": "",
+    "CheckDate": "2025\/12\/02",
     "CheckDesc": "",
     "DoneDate": "",
     "DoneDesc": "",
@@ -31,7 +31,13 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=32cc5f6c-a542-4101-a1fe-40d1c15f193c&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=51701dcc-a9f4-4545-8365-aefad5d2bd36",
+            "FileName": "參考資料4-6定法規巿提2--臺南市歷史文化場域經理平台設置自治條例.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "2025\/10\/23",
     "ReDesc": "",

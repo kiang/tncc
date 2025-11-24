@@ -10,7 +10,7 @@
     "CaseCause": "擬具「臺南市淨零永續城市管理自治條例」草案，敬請審議。",
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為有效減緩氣候變遷之影響，打造本市為具調適韌性之永續城市，實現溫室氣體淨零排放，確保市民生活品質、社會進步及環境維護，爰擬具「臺南市淨零永續城市管理自治條例」草案，共分總則、溫室氣體減量、氣候變遷調適、循環永續推動、淨零綠生活推廣、罰則及附則等七章，條文共計四十九條。本條例草案前經貴會於113年6月26日決議三讀通過並送行政院核定，環境部於114年2月14日函送行政院審查意見，經本府檢討擬修正第9條及第10條內容，並於114年4月18日函復環境部。後經環境部114年7月22日再函送行政院審查意見，需將草案第9條、第10條之修正條文送貴會議決後，再報行政院核定；草案第31條、第45條亦配合修正。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"草案經本府114年10月14日第719次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市淨零永續城市管理自治條例」草案總說明、逐條說明及草案條文。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
-    "CheckDate": "",
+    "CheckDate": "2025\/12\/02",
     "CheckDesc": "",
     "DoneDate": "",
     "DoneDesc": "",
@@ -31,7 +31,13 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e2ec8b51-7fb6-4388-97f7-7b654391e513&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=477e0dfb-b947-49e7-a72e-025ea66a58fe",
+            "FileName": "參考資料---4-6定法規巿提6---臺南市淨零永續管理自治條例草案-提案單及函送行政院修正過程.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "2025\/10\/23",
     "ReDesc": "",
