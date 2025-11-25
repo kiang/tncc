@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第5次 臨時會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "9",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請改善六甲區大丘里火燒坑產業農路路面改善工程，產業農路路面年久失修危及農民通行安全。",
+        "ProNo": "5c97e91f-c642-4820-ad3f-142886553fc2",
+        "PagesAll": "58"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "10",
         "OrgTitle": "李鎮國",
         "CaseCause": "建議永康區大灣路942巷641弄農路道路損壞嚴重，請市府重新鋪設。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "蔡秋蘭",
         "CaseCause": "建請臺南市政府辦理西港區堀子頭30號道路改善工程。",
         "ProNo": "1641360e-cf62-42f2-bd2a-9fed0c4c0e85",
-        "PagesAll": "58"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "17",
-        "OrgTitle": "陳昆和",
-        "CaseCause": "請辦理七股區十份里道路改善工程。",
-        "ProNo": "e727371c-0f9e-4abb-b620-c64e98d5a4ad",
         "PagesAll": "58"
     }
 ]

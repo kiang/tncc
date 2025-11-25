@@ -22,6 +22,11 @@
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cb15efba-218b-45e8-bf02-38e4bbf684a3",
             "FileName": "04-財經9號.pdf",
             "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=36309f20-0e89-4269-950a-7126a1ff62db",
+            "FileName": "市提9號補充資料.pdf",
+            "ErrorMessage": ""
         }
     ],
     "RAttList": [],
