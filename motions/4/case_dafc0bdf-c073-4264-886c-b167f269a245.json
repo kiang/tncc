@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第10次 臨時會",
+    "PTypTitle": "建設",
+    "CaseNumber": "8",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/11\/25",
+    "ComeNumber": "府文秘字第1141636014號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "文化部文化資產局核定補助本市辦理「114-115臺南市一般古物『清代林朝英書法木刻』、『清代吏治箴言匾』、『同治八年重建臺灣縣署樑籤』維護清潔暨數位化保存仿製計畫」，總經費291萬元(中央補助款203萬7,000元、市配合款87萬3,000元)，因未及納入115年度總預算，為爭取時效，謹請貴會同意先行墊付，俟115年度追加減預算時辦理轉正，提請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據文化部文化資產局114年11月21日文資物字第1143012043號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費291萬元(中央補助203萬7,000元、本市配合款87萬3,000元)，因未及納入115年度總預算，為爭取時效，謹請貴會同意先行墊付，俟115年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年11月25日第725次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案中央要求於114年12月31日前發生權責，且三組一般古物無法長期於常設展中展陳，為避免文物損劣化狀況加劇導致後續需增加高額修復經費，同時為能延長文物年限，故計畫有緊急執行之必要，故於本會期提出墊付申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=850b8196-bdad-4d34-988b-c6b4a8b4a0f1",
+            "FileName": "市提8附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=dafc0bdf-c073-4264-886c-b167f269a245&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

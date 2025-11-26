@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第10次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/11\/26",
+    "ComeNumber": "府工養一字第1141640713號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部國土管理署「永續提升人行安全計畫」增加核定「臺南市關廟區五甲國小校園周邊暨行車安全道路改善工程」1案補助經費新臺幣453萬8,000元（中央補助款372萬1,000元，市配合款81萬7,000元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部國土管理署114年11月3日國署工字第1140113100號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案原獲內政部國土管理署核定450萬元，因納入學校內外人行動線介面之銜接，使整體通行品質及用路安全更加完整，內政部國土管理署同意增加補助453萬8,000元（中央補助款372萬1,000元，市配合款81萬7,000元）辦理，因未及納入本府115年度總預算案，為爭取時效，謹請貴會同意先行墊付，俟115年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年11月25日第725次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本計畫屬行政院重大政策，涉及國民用路安全及權益，本案設計成果均已獲內政部國土管理署審核通過，待墊付程序完成後即可續辦工程發包作業。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=640041ee-bbf8-4d75-b0b3-c2f54fc5f208",
+            "FileName": "43886_1640713A00_ATTCH1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7a9c4a1e-f8ee-4871-a209-1453791be9b0",
+            "FileName": "43886_1640713A00_ATTCH3.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=efa3f5ab-d6f8-492c-839b-66d9ff22cac7&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

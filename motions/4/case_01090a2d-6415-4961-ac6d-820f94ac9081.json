@@ -16,7 +16,7 @@
     "DoneDesc": "一、照委員會結論修正通過。（新增1點）\r\n二、修正後結論為： \r\n（一）請市政府加速辦理各項重建工作，目前仍有住屋毀損尚未修復，請市府給予自行修繕的受災戶更多的協助，以利早日完成家園重建。\r\n（二）對於農、漁、牧災損現金救助發放請市府加速辦理；另外農業溫網室設施本市受損嚴重，請市府加速協助清運，並協助農民爭取更優惠的重建經費或是延長還款期限，減輕農民復耕壓力。\r\n（三）建議國軍購置天然災害救災相關重機械設備。\r\n（四）建請市府發文要求中華電信減免2個月月租費。\r\n（五）請市府針對市級及區級地區災害防救計畫進行檢視，針對避難、收容處所的位置重新檢視其妥適性。\r\n（六）因丹娜斯颱風影響而受損之石棉瓦應繼續清理至受災戶房屋修繕完畢。\r\n（七）本次專案報告，本會議員建議事項，請各局處詳加研議予以列管，並儘速查復或執行。",
     "SendDate": "2025\/11\/11",
     "SendNumber": "南議工務字第 11400010353號",
-    "DoDesc": "",
+    "DoDesc": "臺南市政府114年11月25日府社助字第1141615669號函覆(詳附件1)。\r\n臺南市政府114年11月25日府環廢字第1141618667號函覆(詳附件2)。",
     "AttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=decab516-8750-4f50-bb2a-9b613baa3c13",
@@ -24,7 +24,18 @@
             "ErrorMessage": ""
         }
     ],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=637cee7a-af8f-4a09-87c6-d8aef7cabe92",
+            "FileName": "一、丹娜絲颱風專案報告結論第五點社會局回覆.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=84758585-e604-43b5-9e60-6eec0a26a324",
+            "FileName": "二、丹娜絲颱風專案報告結論第六點環保局回覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=01090a2d-6415-4961-ac6d-820f94ac9081&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -38,6 +49,6 @@
     "ThirdDesc": "",
     "ExecuteReDate": "",
     "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReMemo": "臺南市政府114年11月25日府社助字第1141615669號函覆(詳附件1)。\r\n臺南市政府114年11月25日府環廢字第1141618667號函覆(詳附件2)。",
     "ErrorMessage": ""
 }

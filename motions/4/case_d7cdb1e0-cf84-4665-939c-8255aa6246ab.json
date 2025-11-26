@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第10次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/11\/25",
+    "ComeNumber": "府衛心字第1141633792號",
+    "OrgTitle": "臺南市政府衛生局",
+    "OrgTitle2": "",
+    "CaseCause": "有關衛生福利部補助本市辦理115年度「精神病病人及照顧者社區支持服務資源布建計畫」，新增經費236萬5,000元整(市配合款)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關事宜，俟115年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據衛生福利部114年8月29日衛部會字第1142460600號函及114年11月4日衛部心字第1141763088號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第6款，配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案原中央補助1,340萬元，已納入115年度預算編列，中央為確保計畫持續推動及穩定發展，落實政府資源運用，業於114年11月4日來函要求地方新增市配合款，本市比率為15%，經費計236萬5,000元整，因市配合款未及納入本府115年度總預算案，謹請准予辦理先行墊付，俟115年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年11月25日第725次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：此經費涉及社區精神病人高度需求之延續性服務，明年初急需使用，因未及納入115年度總預算案，相關採購招標作業需於年初完成，俾利承接本方案之承作單位服務不中斷，以維持個案及支持系統之穩定，爰需此經費以利本局業務推動。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1f1aea02-1f98-4dce-b889-a8818f9c868e",
+            "FileName": "(4-10臨環衛1號)附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d7cdb1e0-cf84-4665-939c-8255aa6246ab&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
