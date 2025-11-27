@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "36",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "許至椿、黃麗招、吳禹寰、曾之婕、蔡育輝、Ingay Tali 穎艾達利、林冠維",
+    "CaseCause": "請規劃更新本市南區文華社區活動中心之公共廁所。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"該活動中心使用頻繁，為在地社區居民之生活重心，使空間設備及場域折舊較快，尤其該處所之公共廁所僅有1間蹲式，未兼顧身障及無法久蹲者之需求。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請就該活動中心之使用狀況，規劃設計針對潛在使用者之需求，建置多功能廁所，以維護該處所之友善環境。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2c3373a8-c67d-4627-8588-45f68c484ee3",
+            "FileName": "附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3876700d-1cf4-45e2-bd21-01ecce0b7d76&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

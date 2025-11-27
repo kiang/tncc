@@ -1,0 +1,58 @@
+{
+    "GradeTime": "第4屆 第10次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/11\/26",
+    "ComeNumber": "府交交管字第1141637193號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部「永續提升人行安全計畫」核定補助經費1億338萬元(中央補助款8,477萬1,000元，市配合款1,860萬9,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部114年11月6日台內國字第1140813455號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案補助經費說明:「永續提升人行安全計畫」核定補助經費1億338萬元(中央補助款8,477萬1,000元，市配合款1,860萬9,000元)因未及納入本府115年度總預算案，為爭取時效，謹請貴會同意先行墊付，俟115年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年11月25日第725次市政會議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案急迫性理由:本案依核定函要求，相關經費應儘速納入年度(追加)預算或議會同意墊付程序及完成發包作業，並應於預算分配年度執行完畢為原則，參考以往類似補助案工執行期程約1年，為加速完成發包並於115年執行完畢，故於本次臨時會提出墊付案申請。\",\"children\":[]},{\"order\":\"六、\",\"content\":\"檢附本案申請計畫書及補充說明資料供參。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f48008d6-7064-4715-a42a-2c57ae1d1a7a",
+            "FileName": "2.交通局-「永續提升人行安全計畫」中央核定函(雙面列印).PDF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c250ce17-151f-4d82-8fa0-5e46369c4f22",
+            "FileName": "3.內政部核定永續提升等3案(西門路、南區、仁德區)補助經費案件表明細(彩色列印).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=63493f9c-af76-4cbd-819f-68a0cec89b0a",
+            "FileName": "4.墊付案簡易說明.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e54db779-c007-4d45-ae99-a799b6c098e7",
+            "FileName": "5.永續提升人行安全計畫(雙面彩色列印).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ea080a3c-d223-4ea1-a503-0f0be3fea7f2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

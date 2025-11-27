@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第10次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/11\/27",
+    "ComeNumber": "府農動字第1141649603號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "農業局(動物防疫保護處)擬具「寵物產業管理精進計畫」與「建構友善動物保護計畫」案，經費633萬2,000元整(市款)，因未及納入本府115年度總預算案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度追加減預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據農業部114年8月29日農會字第1140122527號函函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第5款：「依法律或經核定有案之契約義務必需之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"所需總經費共計新臺幣633萬2,000元整(市款)，因未及納入本府115年度總預算案，為爭取時效，謹請貴會同意先行墊付，俟115年度追加減預算辦理轉正。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"「寵物產業管理精進計畫」聘僱計畫助理人員約僱6名，辦理寵物食品業、特定寵物業、動物展演業、寵物登記及寵物生命紀念業之本府法定業務。\",\"children\":[]},{\"order\":\"(三)\",\"content\":\"「建構友善動物保護計畫」聘僱計畫助理人員約僱1名、臨時人員3名，辦理動物保護案件檢舉稽查與本市動物之家所動物收容環境清潔及維護之本府法定業務。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府114年11月25日第725次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：農業部115年度中央補助計畫函未匡列「寵物產業管理精進計畫」與「建構友善動物保護計畫」，為持續執行動物保護法相關法定業務，故提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度追加減預算辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7d592f90-73bc-4c89-8476-d895acf98b5d",
+            "FileName": "財經2號附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e63a7a1e-273e-498e-ab59-ea547183bcda&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
