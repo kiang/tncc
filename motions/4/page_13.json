@@ -4,28 +4,6 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "277",
-        "OrgTitle": "周嘉韋",
-        "CaseCause": "建請市府針對中西區北門路一段141巷路面柏油重新鋪設。",
-        "ProNo": "cd7c570f-75e6-4736-bf6e-e0245e03f250",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "278",
-        "OrgTitle": "周嘉韋、林依婷",
-        "CaseCause": "建請市府針對安平區西門實驗小學周邊通學步道完善規劃且重新鋪設。",
-        "ProNo": "15f438ff-8058-4193-8bc7-810e27d0f2cf",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "279",
         "OrgTitle": "周麗津",
         "CaseCause": "建請市府儘速規劃開闢南區SC-63-10M 其前段都市計畫道路。",
@@ -1097,6 +1075,28 @@
         "OrgTitle": "吳通龍",
         "CaseCause": "建請臺南市政府推動「家用廚餘機補助計畫」。",
         "ProNo": "37d8de6f-4b5a-4511-9519-dfe597051549",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "8",
+        "OrgTitle": "王家貞",
+        "CaseCause": "因應臺南市市民敢生敢養，建請市政府給予月子補助津貼，以減輕年輕爸媽生、養育負擔。",
+        "ProNo": "403ae7a4-d23c-4961-884b-d433fbb9b963",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "9",
+        "OrgTitle": "王家貞",
+        "CaseCause": "建請市府對發展遲緩或身心障礙兒童的家長，增設家庭照顧者支持服務據點，以利提供家庭照顧者可以獲得政府資源的支持與服務。",
+        "ProNo": "e0136591-8032-45c6-af86-ddbf61499977",
         "PagesAll": "59"
     }
 ]

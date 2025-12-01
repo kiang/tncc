@@ -4,28 +4,6 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "民政教育",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "11",
-        "OrgTitle": "陳怡珍、Ingay Tali 穎艾達利",
-        "CaseCause": "有關臺南市中西區將法式滾球運動列入特色體育項目，卻缺乏專屬場地供推動使用乙案，建請臺南市政府應儘速設置。",
-        "ProNo": "21da8dea-7889-40b0-9f97-7c0d9c8df76c",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "12",
-        "OrgTitle": "蔡蘇秋金",
-        "CaseCause": "建請解除佳里區信義國小代管文中二足球場、籃球場，返還移請體育局管理，以符合管用合一。",
-        "ProNo": "ff62fc37-61eb-4fa7-9024-c27da89f16c7",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "13",
         "OrgTitle": "李鎮國",
         "CaseCause": "建請市府增設東橋里大眾運動場地『籃球場』。",
@@ -1097,6 +1075,28 @@
         "OrgTitle": "李宗霖",
         "CaseCause": "建請市府於公開網站新增役男預計可入營時間(如月份區間、排序順位等)之查詢功能，揭露相關資訊，降低因資訊不對等問題而造成役男等待服役之不安定感。",
         "ProNo": "af2b7246-6610-4066-a077-75d166e7b69c",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "111",
+        "OrgTitle": "沈震東、余柷青、王宣貿、沈家鳳",
+        "CaseCause": "建請民政局重新檢視社區型監視器設置之方針。",
+        "ProNo": "f1a0857c-4db0-4791-9347-88e8a254a52b",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "112",
+        "OrgTitle": "沈震東",
+        "CaseCause": "建請民政局設置西湖里民活動中心。",
+        "ProNo": "ca68009f-1d0b-4c15-ac74-94bc88cc99af",
         "PagesAll": "59"
     }
 ]

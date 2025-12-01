@@ -4,28 +4,6 @@
         "GradeTime": "第4屆 第3次 臨時會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "26",
-        "OrgTitle": "余柷青",
-        "CaseCause": "新化區大坑里大坑尾農路改善工程(大坑里北勢溝排水溝與農路)一案。",
-        "ProNo": "34581d3b-0f2e-4cb5-b125-d4f8fd130f0f",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "2023\/08\/17",
-        "GradeTime": "第4屆 第3次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "27",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府儘速辦理「新化區礁坑里中興段223農路改善工程」一案。",
-        "ProNo": "8ceefb06-5bf1-4556-b7a9-0673e845a066",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "2023\/08\/17",
-        "GradeTime": "第4屆 第3次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "28",
         "OrgTitle": "余柷青",
         "CaseCause": "新化果菜市場遷場初期，經費自籌不易，建請市府農業局編列經費協助新化果菜市場景觀維護。",
@@ -1097,6 +1075,28 @@
         "OrgTitle": "盧崑福",
         "CaseCause": "位於安平區安平路990巷柏油路面，將近30年沒有翻修重整，以至於路面破損，希望相關單位能提撥經費改善。",
         "ProNo": "0bc5da2e-3158-43e5-9fb2-e52472f04fe6",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "27",
+        "OrgTitle": "陳昆和、周奕齊、方一峰",
+        "CaseCause": "將軍區鯤鯓里235號及235-4號前道路排水溝蓋改善工程。",
+        "ProNo": "aef5d8b7-9f8b-4cb6-88d5-d52af4a9adc4",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "28",
+        "OrgTitle": "陳昆和、周奕齊、方一峰",
+        "CaseCause": "請改善學甲區大灣198號前路面。",
+        "ProNo": "b264d303-ad6f-4189-b542-19079dbb73f6",
         "PagesAll": "59"
     }
 ]

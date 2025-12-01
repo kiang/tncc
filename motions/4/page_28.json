@@ -4,28 +4,6 @@
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "69",
-        "OrgTitle": "杜素吟",
-        "CaseCause": "建請市府儘速辦理「歸仁區大潭里長榮路二段2巷尾農路東邊擋土牆改善工程」，以保障人民通行往來之安全。",
-        "ProNo": "c6c8c0a0-e7a3-4f2b-addd-391659193546",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "70",
-        "OrgTitle": "杜素吟",
-        "CaseCause": "建請市府儘速辦理「歸仁區武東里光明街86巷農路改善工程」，以利人車通行安全。",
-        "ProNo": "6b143fdb-66b1-4da2-9e84-000268941edd",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "71",
         "OrgTitle": "Ingay Tali 穎艾達利、周奕齊",
         "CaseCause": "為促進臺南市浮筏式牡蠣養殖朝向友善環境的永續利用，建請臺南市政府全面納管近海及河川的牡蠣浮棚養殖、另將經費補貼落實於非發泡塑膠的改良式浮具，並修改《臺南市淺海牡蠣養殖管理自治條例》納入全面禁用發泡塑膠浮具之限期條款。",
@@ -1097,6 +1075,28 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "建請市府編列:一、預防登革熱噴藥經費，一年兩次。二、防疫人員經費編列，協助杜絕孳生源。",
         "ProNo": "6cf37fd8-a795-4194-b881-bada7e00459d",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "69",
+        "OrgTitle": "曾培雅",
+        "CaseCause": "建請增加幼兒身心障礙評估及復健鑑定單位。",
+        "ProNo": "c756b96a-4061-4bda-9f5b-9a9ea87c1d6b",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "70",
+        "OrgTitle": "曾培雅",
+        "CaseCause": "建請社會局推出0-6歲幼兒早療輔助手冊。",
+        "ProNo": "34f23ebc-a432-4b17-ba11-84a1950be738",
         "PagesAll": "59"
     }
 ]

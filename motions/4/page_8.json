@@ -4,28 +4,6 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "環保衛生",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "9",
-        "OrgTitle": "林志展",
-        "CaseCause": "建請市政府研議調整屋後溝清理作業，以促進公共衛生，便捷處理程序。",
-        "ProNo": "09a189f8-cb04-4373-9536-7056bd4fd9ba",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "10",
-        "OrgTitle": "蔡麗青、沈家鳳",
-        "CaseCause": "建請補助家戶廚餘處理機以維護環境品質。",
-        "ProNo": "b91d87fb-5577-4661-82bc-fb609c194524",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "11",
         "OrgTitle": "李偉智",
         "CaseCause": "建請市府規劃在容易有棉絮之行道樹，像是木棉樹、掌葉蘋婆、黑板樹及火焰木，增加清潔人員清掃以維護民眾身體健康。",
@@ -1097,6 +1075,28 @@
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府加強河樂廣場之觀光發展及招商成效。",
         "ProNo": "7eed993c-9899-47c6-9dae-8ac7a7d47184",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "21",
+        "OrgTitle": "Ingay Tali 穎艾達利、陳怡珍、周奕齊、王宣貿",
+        "CaseCause": "建請市府善用城市吉祥物意象，作為活動親善代表、抑或為城市認證之標誌，發揮城市行銷與品牌功能。",
+        "ProNo": "6469b8bc-1c5e-462f-af30-d8e1026cc783",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "22",
+        "OrgTitle": "林志展",
+        "CaseCause": "建請市政府因應高齡和無障礙族群之需求，規劃設計相關套裝旅遊行程。",
+        "ProNo": "1743724e-8f8e-4723-a0f8-5fc1c253aeaf",
         "PagesAll": "59"
     }
 ]

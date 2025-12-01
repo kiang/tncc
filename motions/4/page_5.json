@@ -3,28 +3,6 @@
         "DoneDate": "2025\/07\/02",
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "民政教育",
-        "KidTitle": "市府提案-一般提案",
-        "CaseNumber": "4",
-        "OrgTitle": "臺南市政府體育局",
-        "CaseCause": "檢送財團法人台南市體育發展基金會113年度決算案，敬請審議。",
-        "ProNo": "5747e227-94ed-4203-92f9-5b62469d3de1",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "1",
-        "OrgTitle": "Ingay Tali 穎艾達利、施余興望 Tjakumay Tagaw",
-        "CaseCause": "建請市府精進曾文市政願景園區之空調環境、無障礙設施與防鳥措施，俾便行政辦公與市民利用之安全與衛生友善環境。",
-        "ProNo": "282a1586-f9a7-4f2d-9d6d-3f8a4a81d281",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "民政教育",
         "KidTitle": "議員提案-一般提案",
         "CaseNumber": "2",
         "OrgTitle": "蔡育輝",
@@ -1097,6 +1075,28 @@
         "OrgTitle": "陳秋宏",
         "CaseCause": "下營區大吉里大屯寮段579-13地號道路龜裂破損，建請改善。",
         "ProNo": "a1cd3dc6-9664-441b-b349-6ca59553eefb",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "100",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "下營區宅內里宅內街道路道路龜裂破損，建請改善。",
+        "ProNo": "b0206501-a755-4cb7-9e91-7fca8df88a7d",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "101",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "麻豆區安業里安業244-1號至259號及安業192-1號至路燈編號安西053前道路龜裂破損，建請改善。",
+        "ProNo": "0acfb601-eb58-44bf-b7f7-019af2c98165",
         "PagesAll": "59"
     }
 ]

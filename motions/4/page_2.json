@@ -4,28 +4,6 @@
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "環保衛生",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "71",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "建請市府增設生質能源廠，提升廚餘處理及資源化效能。",
-        "ProNo": "d3939517-6257-4597-bc7f-c298a94cdf8c",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "72",
-        "OrgTitle": "陳秋萍",
-        "CaseCause": "請環保局檢討永康焚化爐回饋金機制，調升補助金並比照城西焚化爐作法，編列預算補助在地學校營養午餐與學雜費，以實現環境公平、回饋在地居民。",
-        "ProNo": "66441eaa-c917-465f-bb02-46bd24d00bf2",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "73",
         "OrgTitle": "朱正軒",
         "CaseCause": "建請環保局檢討並改善永康「水多多育樂中心」營運效能，研議整修設備並擴大在地居民優惠使用範圍，以提升使用率並落實回饋目的。",
@@ -1097,6 +1075,28 @@
         "OrgTitle": "臺南市政府民政局",
         "CaseCause": "修正「臺南市臨時使用道路搭棚治喪管理辦法」。",
         "ProNo": "2db52c41-20a3-41c0-9541-8d40ee21f7a3",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "8",
+        "OrgTitle": "臺南市政府教育局",
+        "CaseCause": "修正「臺南市市立高級中等以下學校委託私人辦理實驗教育評鑑獎勵輔導及接續辦理辦法」。",
+        "ProNo": "edd0c0b3-f9ad-49f8-9015-7a8bf0817b66",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "9",
+        "OrgTitle": "臺南市政府財政稅務局",
+        "CaseCause": "修正「臺南市政府財政稅務局組織規程」第三條、第四條及「臺南市政府財政稅務局編制表」。",
+        "ProNo": "58a7e101-b955-4492-a778-13e3adcfd064",
         "PagesAll": "59"
     }
 ]

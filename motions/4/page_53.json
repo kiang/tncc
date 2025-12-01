@@ -4,28 +4,6 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "133",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理麻豆區區道南49、南50線與客子寮道路改善工程，因年久失修，路面破損嚴重，急需辦理改善，以利行車安全。",
-        "ProNo": "5ff8737a-1985-4278-9bb0-00cdef657dc3",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "134",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理六甲區區道南60-1線(自台一線至黃壽林宅前)道路改善工程，因年久失修，路面龜裂老化，破損嚴重，急需辦理改善，以利行車安全。",
-        "ProNo": "efe876a8-acaa-4150-ba02-cb5a528c9708",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "135",
         "OrgTitle": "尤榮智",
         "CaseCause": "請辦理六甲區西側外環道路(南段)第二期入口意象工程，外環道完工後，入口處凸顯六甲區特色地標。 ",
@@ -1097,6 +1075,28 @@
         "OrgTitle": "陳秋宏",
         "CaseCause": "請改善麻豆區海埔里海埔中排2K+055至2K+100北側護岸。",
         "ProNo": "4354bbaa-a108-4af0-b1bc-3946d1d9211f",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "233",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "請改善麻豆區謝厝寮排水護岸。",
+        "ProNo": "3586f802-bc63-4ef0-9e20-43523ab4b25f",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "234",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "請改善官田區二鎮里瓦瑤埤下游(北岸)護岸。",
+        "ProNo": "19eb8f60-a908-41c3-bd64-3275f7d91e09",
         "PagesAll": "59"
     }
 ]

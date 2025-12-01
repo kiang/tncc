@@ -4,28 +4,6 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "127",
-        "OrgTitle": "黄肇輝",
-        "CaseCause": "建請市府辦理永康區南灣里南興路112巷道路改善工程，以保障民眾通行之安全。",
-        "ProNo": "17a02fb6-4d72-4a29-9879-50ffe4435239",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "128",
-        "OrgTitle": "黄肇輝",
-        "CaseCause": "建請市府辦理永康區南灣里南興路道路改善工程，以保障民眾通行之安全。",
-        "ProNo": "d6569bee-b7ce-4178-b082-051ee79fefdc",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "129",
         "OrgTitle": "黄肇輝",
         "CaseCause": "建請市府辦理永康區南灣里大灣二街道路改善工程，以保障民眾通行之安全。",
@@ -1097,6 +1075,28 @@
         "OrgTitle": "臺南市政府經濟發展局",
         "CaseCause": "修正「臺南市政府經濟發展局組織規程」第三條及「臺南市政府經濟發展局編制表」。",
         "ProNo": "ec5bf077-e31c-4adc-b263-4efbfdce0141",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "11",
+        "OrgTitle": "臺南市政府消防局",
+        "CaseCause": "訂定「臺南市新化消防訓練中心場地使用管理辦法」。",
+        "ProNo": "b844f429-e74c-4eff-8879-475327457f9b",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "12",
+        "OrgTitle": "臺南市政府都市發展局",
+        "CaseCause": "修正「臺南市社會住宅出租辦法」部分條文。",
+        "ProNo": "e7e8291b-84b0-46af-b8e4-c653388b7515",
         "PagesAll": "59"
     }
 ]

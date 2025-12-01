@@ -4,28 +4,6 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "33",
-        "OrgTitle": "蔡蘇秋金",
-        "CaseCause": "建請儘速改善將軍區玉山中排一排水，俾利附近農田排水順暢及居民安全。",
-        "ProNo": "d4b14c9a-cd13-4f47-bb78-c77b15bf9c94",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "34",
-        "OrgTitle": "Ingay Tali 穎艾達利、周奕齊、李宗霖、方一峰、陳怡珍、陳昆和",
-        "CaseCause": "建請市府改善北區北門路二段與和緯路口之人行道與路面高低差過大問題，俾利民眾穿行安全。並請儘速盤點改善本市高低差路緣情形。",
-        "ProNo": "a9783b5b-d518-4741-9b86-b87c1d83b611",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "35",
         "OrgTitle": "林依婷",
         "CaseCause": "臺南市南區萬年路路面老舊，建議重新鋪設。",
@@ -1097,6 +1075,28 @@
         "OrgTitle": "曾之婕",
         "CaseCause": "建請翻修平實公園籃球場地板。",
         "ProNo": "d7fd0c48-2926-4667-a06e-eb4cbc709578",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "133",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請辦理麻豆區區道南49、南50線與客子寮道路改善工程，因年久失修，路面破損嚴重，急需辦理改善，以利行車安全。",
+        "ProNo": "5ff8737a-1985-4278-9bb0-00cdef657dc3",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "134",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請辦理六甲區區道南60-1線(自台一線至黃壽林宅前)道路改善工程，因年久失修，路面龜裂老化，破損嚴重，急需辦理改善，以利行車安全。",
+        "ProNo": "efe876a8-acaa-4150-ba02-cb5a528c9708",
         "PagesAll": "59"
     }
 ]

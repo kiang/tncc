@@ -4,28 +4,6 @@
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "96",
-        "OrgTitle": "陳秋萍",
-        "CaseCause": "建請市府工務局儘速完成永康區正強里自強路188巷 64弄口側溝路面排水改善工程，以保障社區住戶免於淹水之苦。",
-        "ProNo": "a4ca597a-e872-496c-aa69-06b4b8c49eb5",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "2024\/05\/29",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "97",
-        "OrgTitle": "陳秋萍",
-        "CaseCause": "建請市府工務局儘速完成永康區北興里大灣七街柏油路面翻修工程，以保障人車通行安全。",
-        "ProNo": "74ff103d-3b1d-4f5c-b444-c5643478b609",
-        "PagesAll": "59"
-    },
-    {
-        "DoneDate": "2024\/05\/29",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "98",
         "OrgTitle": "李鎮國",
         "CaseCause": "建議永康區中山南路(中華路至中山路口)道路重鋪，且車道配置標線及人行穿越線因磨損無法辨識，易生行車糾紛，請道路重鋪後重新繪製。",
@@ -1097,6 +1075,28 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "東榮街(青年路至東門路)路面改善。",
         "ProNo": "6f963e61-9040-440e-8995-9d183ad04a86",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "196",
+        "OrgTitle": "曾培雅",
+        "CaseCause": "南聖公園(裕和及裕信路)交接處增設體健設施及增設防摔軟墊。",
+        "ProNo": "19df08e1-590d-4b60-bbf3-8163279fe67b",
+        "PagesAll": "59"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "197",
+        "OrgTitle": "曾培雅",
+        "CaseCause": "中華東路三段336巷43弄、中華東路三段380巷與中華東路452巷8弄紅磚道破損嚴重，建請修復。",
+        "ProNo": "cdef2d72-cb27-45c7-9015-75c0b17dbe7c",
         "PagesAll": "59"
     }
 ]
