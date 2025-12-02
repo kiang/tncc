@@ -16,7 +16,7 @@
     "DoneDesc": "照委員會結論通過。",
     "SendDate": "2025\/11\/07",
     "SendNumber": "南議財經字第 1140010281號",
-    "DoDesc": "",
+    "DoDesc": "詳附件1.2",
     "AttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=451bc7d4-7811-48e2-a073-91a4b430d692",
@@ -64,7 +64,18 @@
             "ErrorMessage": ""
         }
     ],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7ffd1f32-1d05-4e22-9f81-f6734c977c2e",
+            "FileName": "市府回文-附件1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2dd123f5-0317-4c7f-998f-9225d28facf9",
+            "FileName": "市府回文-附件2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7ac91a48-e47b-4a2d-9ed5-2dba9c15a099&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -76,8 +87,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/12\/01",
+    "ExecuteReNumber": "府財稅字第 1141590246號",
+    "ExecuteReMemo": "詳附件1.2",
     "ErrorMessage": ""
 }

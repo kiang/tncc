@@ -3,13 +3,13 @@
     "PTypTitle": "環保衛生",
     "CaseNumber": "2",
     "KidTitle": "市府提案-墊付款案",
-    "ComeDate": "",
-    "ComeNumber": "",
+    "ComeDate": "2025\/11\/26",
+    "ComeNumber": "府衛疾字第1141560152號",
     "OrgTitle": "臺南市政府衛生局",
     "OrgTitle2": "",
     "CaseCause": "衛生福利部疾病管制署補助本市辦理115年度「傳染病防治計畫-疫苗冷運冷藏設備汰購與校正及配送作業」工作項目，補助經費新臺幣213萬4,000元整乙案(中央補助170萬7,000元、市配合款42萬7,000元)，因未及納入115年度總預算案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，於115年度追加減預算時辦理轉正，敬請審議。",
-    "Content": "[{\"tag\":\"p\",\"content\":\"\"}]",
-    "Method": "[{\"tag\":\"p\",\"content\":\"\"}]",
+    "Content": "[{\"tag\":\"p\",\"content\":\"\"},{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據衛生福利部疾病管制署114年11月10日疾管防字第1140201049號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款：經上級政府核定之補助款，所使用之支出及第6款：配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本計畫工作項目補助有213萬4,000元整(中央補助170萬7,000元、市配合款42萬7,000元)，因未及納入115年度總預算案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，於115年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年11月25日第725次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：為確保公費疫苗合約院所冷運冷藏溫度監控管理、保障疫苗品質監測及民眾接種安全，需進行各項設備汰舊換新，以確保疫苗品質安全無虞，該計畫經費急需使用，因未及納入115年度總預算，且相關合約院所需求、教育訓練及採購規劃考量，爰需此經費以利本局業務推動。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度追加減預算時辦理轉正。\"}]",
     "CheckDate": "",
     "CheckDesc": "",
     "DoneDate": "",
@@ -17,7 +17,13 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8318e5bf-0c53-4c0a-8971-5e6f2d55c6eb",
+            "FileName": "(4-10臨環衛2號)附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=05dec15a-57a7-49ba-8dbe-591034b5d6ed&type=pdf",
     "CheckAttList": [],
