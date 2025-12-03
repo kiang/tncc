@@ -11,7 +11,7 @@
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為加強管理本市休閒活動場館事業，如經營棋牌、麻將、德州撲克等營利事業，並保障兒童及少年身心健全發展，爰擬具本自治條例草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案前經臺南市議會於114年4月25日決議撤案(臺南市議會114年5月2日南議法規字第1140002768號函)，另經蒐集各方意見並調整後，經114年10月14日第719次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市休閒活動場館事業管理自治條例」制定草案(含總說明、逐條說明及草案條文)1份。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
     "CheckDate": "2025\/12\/02",
-    "CheckDesc": "",
+    "CheckDesc": "一、修正通過，詳審查結果對照表。\r\n二、全文草案共計12條條文，除第7、10、12條條文修正通過，其餘條文照案通過。\r\n三、第10條說明欄文字修正通過。",
     "DoneDate": "",
     "DoneDesc": "",
     "SendDate": "",
@@ -28,8 +28,18 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c776dbdc-c464-46b0-8825-4685bf9707fe&type=pdf",
     "CheckAttList": [
         {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fd0399fa-2dac-4484-83aa-d5c005057c3c",
+            "FileName": "1141202---4-6定第2次--審查意見報告書--法規巿提2~5號案.pdf",
+            "ErrorMessage": ""
+        },
+        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=80725199-ebeb-41e2-851a-cbae5fa29ebd",
             "FileName": "參考資料--4-6定法規巿提4---公聽會會議紀錄---臺南市休閒活動場館事業管理自治條例草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=aa78f010-92be-406f-93e3-54ab384bbb46",
+            "FileName": "審查結果對照表---4-6定法規巿提4---臺南市休閒活動場館事業管理自治條例草案.pdf",
             "ErrorMessage": ""
         }
     ],

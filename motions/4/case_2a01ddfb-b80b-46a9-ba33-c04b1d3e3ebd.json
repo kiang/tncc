@@ -11,7 +11,7 @@
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為加強管理本市自助選物販賣機，亦即俗稱之夾娃娃機，規範自助選物販賣事業之經營地點與應遵守之相關規定，以保障兒童及少年身心健全發展，爰擬具本自治條例草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案前經臺南市議會於114年4月25日決議撤案(臺南市議會114年5月2日南議法規字第1140002768號函)，另經蒐集各方意見並調整後，並經114年10月14日第719次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市自助選物販賣事業管理自治條例」制定草案(含總說明、逐條說明及草案條文)1份。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
     "CheckDate": "2025\/12\/02",
-    "CheckDesc": "",
+    "CheckDesc": "照案通過，詳審查結果對照表。",
     "DoneDate": "",
     "DoneDesc": "",
     "SendDate": "",
@@ -33,8 +33,18 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2a01ddfb-b80b-46a9-ba33-c04b1d3e3ebd&type=pdf",
     "CheckAttList": [
         {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7780f445-94bb-456f-a5b4-82f3ce689426",
+            "FileName": "1141202---4-6定第2次--審查意見報告書--法規巿提2~5號案.pdf",
+            "ErrorMessage": ""
+        },
+        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c35825f2-4123-43f4-898c-7f32b6fedf9b",
             "FileName": "參考資料--4-6定法規巿提5-----臺南巿自助選物販賣事業管理自治條例.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fcc8e0bf-3b92-417a-b049-64ae7662537c",
+            "FileName": "審查結果對照表---4-6定-法規巿提5----臺南市自助選物販賣事業管理自治條例草案.pdf",
             "ErrorMessage": ""
         }
     ],
