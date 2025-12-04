@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "159",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳秋宏",
+    "OrgTitle2": "陳皇宇、李宗霖、鄭佳欣、沈家鳳",
+    "CaseCause": "麻豆區巷口里新生南路750巷單邊側溝排水斷面嚴重不足，建請改善。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"社區側溝老舊、排水斷面嚴重高低落差不足、汛期汪洋一片，急需改善，以保障民眾身家財產安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/11\/28",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=900afff3-567b-44fb-8855-95c7a0b9d287",
+            "FileName": "4-6定工務議提159附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=84a180f8-3a8f-4f0f-9fd8-568b58a6c3d5&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

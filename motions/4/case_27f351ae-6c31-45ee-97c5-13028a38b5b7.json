@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "30",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王家貞、蔡宗豪",
+    "OrgTitle2": "周麗津、李中岑、Ingay Tali 穎艾達利、陳秋萍、吳禹寰、蔡育輝、曾培雅",
+    "CaseCause": "建請市府總體檢在沒有人行道或騎樓的主要道路路面劃設人行道，以清楚區分車道及人行道，保障行人行經該路段的安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"目前臺南市在北門路二段(如圖)，在路面上劃設了綠色的「人行道」，區分出車道與人行道，讓行人可以謹慎安全的行走；但，許多主要路段(如：與長榮路一段起交接的府連路前段)目前路面上沒有劃設人行道，形成了人車爭道、險象環生的景象。\"},{\"tag\":\"p\",\"content\":\"擬請市政府為各主要道路路面劃設「人行道」，以清楚區分車道及人行道，維護人行安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/11\/28",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=910d3b4d-11ed-4d85-8c05-88fae1b0df4c",
+            "FileName": "王家貞蔡宗豪議員-劃設人行道總體檢.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=27f351ae-6c31-45ee-97c5-13028a38b5b7&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

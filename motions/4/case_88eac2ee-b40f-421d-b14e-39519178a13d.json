@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "156",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳秋宏",
+    "OrgTitle2": "陳皇宇、李宗霖、鄭佳欣、沈家鳳",
+    "CaseCause": "麻豆區海埔里南49區道大山脚25-2號到67-3號前道路龜裂破損，建請改善。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"區道柏油路面嚴重凹凸不平、龜裂積水，已嚴重影響行車安全，建請儘速改善，以提升民眾用路安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/11\/28",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=af69d189-8ee3-4145-9ec5-0cfa59e34904",
+            "FileName": "4-6定工務議提156附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=88eac2ee-b40f-421d-b14e-39519178a13d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

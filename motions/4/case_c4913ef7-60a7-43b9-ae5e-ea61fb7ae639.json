@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "178",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "周嘉韋",
+    "OrgTitle2": "林依婷、朱正軒、沈家鳳",
+    "CaseCause": "建請市府針對元寶桂花公園內人行步道加寬。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"元寶桂花公園位於北園街上，是附近鄰里悠閒愜意的散步好所在，也更因元寶桂花公園為住宅區內碩果僅存之公園綠地，許多居民習慣到此運動，對於公園內人行步道寬度不一致之部分(如附圖所示)，建請將寬度調整一致，以利民眾使用。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如說明。\"}]",
+    "CheckDate": "2025\/11\/28",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c5ee5f5b-12f0-4392-bd99-8e5db458a172",
+            "FileName": "4-6定工務議提178附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c4913ef7-60a7-43b9-ae5e-ea61fb7ae639&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "157",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳秋宏",
+    "OrgTitle2": "陳皇宇、李宗霖、鄭佳欣、沈家鳳",
+    "CaseCause": "麻豆區油車里自由路36之5號至36之17號兩側側溝老舊破損，建請改善。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"現地側溝為老式溝渠，排水斷面不足，急降雨常造成住戶淹水，急需改善，以保障民眾身家財產安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/11\/28",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f9ac0bdd-1b3f-437c-945d-69f5292ad7b0",
+            "FileName": "4-6定工務議提157附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=809075b7-a48a-4a09-905f-2928eff40739&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

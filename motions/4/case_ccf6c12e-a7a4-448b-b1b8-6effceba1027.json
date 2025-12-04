@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "85",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳秋宏",
+    "OrgTitle2": "陳皇宇、李宗霖、鄭佳欣、沈家鳳",
+    "CaseCause": "麻豆區麻口里前後班段843至795地號農路，道路龜裂破損，建請改善。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"農路老舊、龜裂嚴重，建請改善以利民眾用路安全及提升農產品運輸便利。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/12\/01",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ac456c1d-73d5-47cb-ac8f-322e4056e94f",
+            "FileName": "843至795地號.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ccf6c12e-a7a4-448b-b1b8-6effceba1027&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

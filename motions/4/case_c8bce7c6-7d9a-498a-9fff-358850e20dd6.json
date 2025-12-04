@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "127",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王宣貿",
+    "OrgTitle2": "沈震東、鄭佳欣、Ingay Tali 穎艾達利、蔡筱薇、余柷青、李啓維、蔡麗青、朱正軒、郭鴻儀",
+    "CaseCause": "建請市府評估於鹽水區文昌里孫厝寮評估增設大型抽水站。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"近年極端氣候頻仍，短時間集中豪雨已成常態，致使鹽水區時有排水不及、淹水快速發生之情形，對居民生活安全造成威脅。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"岸內大排為鹽水區重要排水幹線，惟強降雨時常因水量暴增而負荷超載，導致滯洪能力不足、回溢及積淹水風險升高。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"倘能於文昌里適地增設大型抽水站，將岸內大排內水直接抽排至八掌溪，不僅可縮短排水時間，亦可有效分散岸內大排負荷，提高整體排水效能，有助降低豪雨期間鹽水區水患風險。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"請市府推動區域整體排水治理及強化抽排設施之政策方向，請市府依技術面、用地面及跨機關協調等項目綜合評估可行性。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2025\/11\/28",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ee5da429-7515-46bc-878a-5f1d4187976f",
+            "FileName": "4-6定工務議提127附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c8bce7c6-7d9a-498a-9fff-358850e20dd6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

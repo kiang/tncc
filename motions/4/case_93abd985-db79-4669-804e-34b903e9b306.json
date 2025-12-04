@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "7",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡宗豪",
+    "OrgTitle2": "周奕齊、蔡育輝、Ingay Tali 穎艾達利、吳禹寰、李中岑、曾之婕、盧崑福",
+    "CaseCause": "東菜市場機車停車場處新增宣傳LED看板。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"由於東菜市場地點較為隱密，無明顯地標，與東菜市場發展協會會長研討後，望在機車停車場放置宣傳LED看板，便於觀光客尋找，以增加觀光人流。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/12\/01",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=19cce7cf-866b-4317-b205-35de92e58f65",
+            "FileName": "附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=93abd985-db79-4669-804e-34b903e9b306&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

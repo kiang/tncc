@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "145",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳昆和",
+    "OrgTitle2": "盧崑福、尤榮智、周奕齊、杜素吟、蔡秋蘭、趙昆原、吳禹寰、曾之婕、林冠維",
+    "CaseCause": "本市「佳里區中興街161巷東側對面之計畫道路(臺南市佳里區仁愛段572地號部分土地)」徵收開闢案。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"計畫道路路口同段572地號部分位於已開闢之中興街，僅約133.66m2(約40.43坪)位於計畫道路尚未同意開闢(如後附圖及照片)。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請主管機關協助依程序予以將仁愛段572地號微收開闢，並儘速邀集相關單位至現場會勘。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2025\/11\/28",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8f333600-fe6b-4375-995c-ef4a47808ca8",
+            "FileName": "4-6定工務議提145附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8429e2fa-7263-40ef-a33e-2db0504da3e0&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

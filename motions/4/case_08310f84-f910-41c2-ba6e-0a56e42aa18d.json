@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "50",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳碧玉",
+    "OrgTitle2": "Ingay Tali 穎艾達利、陳秋萍、黃麗招",
+    "CaseCause": "建請市府交通局儘速在南科南路與環西路一段設置U-bike租賃站點，以利民眾通行。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"據民眾反映，前揭地點無U-bike站點可租賃及歸還，造成南科上班民眾使用時極為不便。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請市府交通局於前揭地點增設U-bike租賃站，提升公共自行車的網路完整性及便利性，以方便南科上班民眾利用。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/11\/28",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9ab409b6-c73c-466e-a8ae-200618763ac0",
+            "FileName": "陳碧玉議員-環西路一段Ubike.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=08310f84-f910-41c2-ba6e-0a56e42aa18d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

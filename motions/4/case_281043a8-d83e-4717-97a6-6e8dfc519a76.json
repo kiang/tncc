@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "115",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "周嘉韋",
+    "OrgTitle2": "鄭佳欣、黃麗招、王宣貿、李宗翰、林依婷、余柷青",
+    "CaseCause": "建請市府針對北區長榮路五段409巷2弄路面柏油重新鋪設。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"北區長榮路五段409巷2弄現況路面殘破顛簸，容易使用路人造成騎乘上的不適及徒增風險。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請市府針對北區長榮路五段409巷2弄路面重新鋪設。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"附圖一、二為現況。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如說明。\"}]",
+    "CheckDate": "2025\/11\/28",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0bfe9752-4551-4d95-af3b-38e482507305",
+            "FileName": "4-6定工務議提115附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=281043a8-d83e-4717-97a6-6e8dfc519a76&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
