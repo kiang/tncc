@@ -43,7 +43,13 @@
             "ErrorMessage": ""
         }
     ],
-    "DoneAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4d73baf7-f3b9-43d1-b185-de9726f63e7e",
+            "FileName": "休閒活動場館事業管理提案(修正動議).pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "ReDate": "2025\/10\/23",
     "ReDesc": "",
     "FirstDate": "2025\/10\/29",

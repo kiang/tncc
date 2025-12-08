@@ -12,8 +12,8 @@
     "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度總預算時辦理轉正。\"}]",
     "CheckDate": "2025\/11\/27",
     "CheckDesc": "聯席審查意見：\r\n一、同意墊付。\r\n二、附加條件：合約需訂定罰則，送本會同意後始得動支。",
-    "DoneDate": "",
-    "DoneDesc": "",
+    "DoneDate": "2025\/12\/04",
+    "DoneDesc": "同意墊付。【於同次會（111年12月4日）經復議討論後】",
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
@@ -27,9 +27,15 @@
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7cdc21d8-1f67-4d67-84af-740893b7df8b&type=pdf",
     "CheckAttList": [],
-    "DoneAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=357bc980-6865-491d-9265-38d59c158c87",
+            "FileName": "復議動議1(保安市提2).pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "ReDate": "2025\/10\/23",
-    "ReDesc": "",
+    "ReDesc": "同意墊付。【於同次會（111年12月4日）經復議討論後】",
     "FirstDate": "2025\/10\/29",
     "FirstDesc": "交付聯席審查。",
     "SecondDate": "",
