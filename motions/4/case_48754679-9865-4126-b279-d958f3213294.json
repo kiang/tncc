@@ -12,8 +12,8 @@
     "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
     "CheckDate": "2025\/12\/02",
     "CheckDesc": "照案通過，詳審查結果對照表。",
-    "DoneDate": "",
-    "DoneDesc": "",
+    "DoneDate": "2025\/12\/04",
+    "DoneDesc": "照二讀會決議通過。",
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
@@ -28,20 +28,31 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=48754679-9865-4126-b279-d958f3213294&type=pdf",
     "CheckAttList": [
         {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=131f6394-4b01-415d-aad5-f3f673be6d08",
+            "FileName": "1141202---4-6定第2、3次--審查意見報告書--法規巿提2~6號案.pdf",
+            "ErrorMessage": ""
+        },
+        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a0aed825-3de9-4e09-bed0-9f39a67968db",
             "FileName": "審查結果對照表--4-6定-法規巿提3-修訂「臺南市攤販管理自治條例第六條」草案.pdf",
             "ErrorMessage": ""
         }
     ],
-    "DoneAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=95986ec8-f062-46c6-936e-94331d20825a",
+            "FileName": "4-6定---1204第25次會紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "ReDate": "2025\/10\/23",
-    "ReDesc": "",
+    "ReDesc": "照二讀會決議通過。",
     "FirstDate": "2025\/10\/29",
     "FirstDesc": "交付法規委員會審查。",
-    "SecondDate": "",
-    "SecondDesc": "",
-    "ThirdDate": "",
-    "ThirdDesc": "",
+    "SecondDate": "2025\/12\/04",
+    "SecondDesc": "照審查意見通過。",
+    "ThirdDate": "2025\/12\/04",
+    "ThirdDesc": "照二讀會決議通過。",
     "ExecuteReDate": "",
     "ExecuteReNumber": "",
     "ExecuteReMemo": "",

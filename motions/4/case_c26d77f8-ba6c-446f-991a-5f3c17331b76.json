@@ -32,7 +32,18 @@
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c26d77f8-ba6c-446f-991a-5f3c17331b76&type=pdf",
     "CheckAttList": [],
-    "DoneAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b356688a-e803-4cd2-be8e-f5fd231b1d27",
+            "FileName": "市府3附加條件測試結果1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=54957e65-aee0-4d26-8985-b7d2c185e251",
+            "FileName": "市府3附加條件測試結果2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "ReDate": "2025\/10\/23",
     "ReDesc": "同意墊付。",
     "FirstDate": "2025\/10\/29",

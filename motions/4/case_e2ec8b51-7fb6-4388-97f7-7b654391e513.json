@@ -12,8 +12,8 @@
     "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
     "CheckDate": "2025\/12\/02",
     "CheckDesc": "一、照案通過，詳審查結果對照表。\r\n二、第49條附帶決議：相關子法在公布後6個月內完成，並提送本會通過後，方可施行。",
-    "DoneDate": "",
-    "DoneDesc": "",
+    "DoneDate": "2025\/12\/04",
+    "DoneDesc": "照審查意見通過。",
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
@@ -33,8 +33,8 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e2ec8b51-7fb6-4388-97f7-7b654391e513&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8caa5ae3-9f90-406d-b96c-7c6800f7efd7",
-            "FileName": "1141202---4-6定第2次--審查意見報告書--法規巿提2~5號案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=adf97e6d-253f-4d8a-be9d-00c1962a2ad2",
+            "FileName": "1141202---4-6定第2、3次--審查意見報告書--法規巿提2~6號案.pdf",
             "ErrorMessage": ""
         },
         {
@@ -48,9 +48,15 @@
             "ErrorMessage": ""
         }
     ],
-    "DoneAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=62373f21-ddd5-466f-a329-97070863fc17",
+            "FileName": "4-6定---1204第25次會紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "ReDate": "2025\/10\/23",
-    "ReDesc": "",
+    "ReDesc": "照審查意見通過。",
     "FirstDate": "2025\/10\/29",
     "FirstDesc": "交付法規委員會審查。",
     "SecondDate": "",

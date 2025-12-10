@@ -13,7 +13,7 @@
     "CheckDate": "2025\/11\/27",
     "CheckDesc": "聯席審查意見：\r\n一、同意墊付。\r\n二、附加條件：合約需訂定罰則，送本會同意後始得動支。",
     "DoneDate": "2025\/12\/04",
-    "DoneDesc": "一、經第4屆第6次定期會第25次會（114年12月4日）決議依聯席審查意見。\r\n二、於同次會（114年12月4日）經復議討論後決議：同意墊付。",
+    "DoneDesc": "一、經本次定期會第25次會（114年12月4日）決議依聯席審查意見通過。\r\n二、於同次會（114年12月4日）經復議討論後決議：同意墊付。",
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
@@ -29,13 +29,18 @@
     "CheckAttList": [],
     "DoneAttList": [
         {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=446cc7ad-61a9-4a94-b60e-f3b851ba2d33",
+            "FileName": "保安委員會2號案補充資料.pdf",
+            "ErrorMessage": ""
+        },
+        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3b72a70e-0556-4c0c-bd9e-8ca60e2f1373",
             "FileName": "復議動議1提案單(保安市提2) .pdf",
             "ErrorMessage": ""
         }
     ],
     "ReDate": "2025\/10\/23",
-    "ReDesc": "一、經第4屆第6次定期會第25次會（114年12月4日）決議依聯席審查意見。\r\n二、於同次會（114年12月4日）經復議討論後決議：同意墊付。",
+    "ReDesc": "一、經本次定期會第25次會（114年12月4日）決議依聯席審查意見通過。\r\n二、於同次會（114年12月4日）經復議討論後決議：同意墊付。",
     "FirstDate": "2025\/10\/29",
     "FirstDesc": "交付聯席審查。",
     "SecondDate": "",
