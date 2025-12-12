@@ -28,13 +28,13 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c776dbdc-c464-46b0-8825-4685bf9707fe&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c6be53cb-cdd3-40ea-bbf5-553e4cebaa7c",
-            "FileName": "1141202---4-6定第2、3次--審查意見報告書--法規巿提2~6號案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=80725199-ebeb-41e2-851a-cbae5fa29ebd",
+            "FileName": "參考資料--4-6定法規巿提4---公聽會會議紀錄---臺南市休閒活動場館事業管理自治條例草案.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=80725199-ebeb-41e2-851a-cbae5fa29ebd",
-            "FileName": "參考資料--4-6定法規巿提4---公聽會會議紀錄---臺南市休閒活動場館事業管理自治條例草案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1f6edc02-53a5-44f9-acc2-21e11bd431fd",
+            "FileName": "審查意見報告書--4-6定第2、3次--法規巿提2~6號案.pdf",
             "ErrorMessage": ""
         },
         {

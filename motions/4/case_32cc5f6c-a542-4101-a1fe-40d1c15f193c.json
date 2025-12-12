@@ -27,22 +27,16 @@
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8e2fb070-f75a-405e-8686-6106b5477578",
             "FileName": "4-6定法規巿提2--臺南市歷史文化場域經理平台設置自治條例-參考資料.pdf",
             "ErrorMessage": ""
-        }
-    ],
-    "RAttList": [],
-    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=32cc5f6c-a542-4101-a1fe-40d1c15f193c&type=pdf",
-    "CheckAttList": [
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=08f075ca-575b-488c-8973-0137bd788e27",
-            "FileName": "1141202---4-6定第2、3次--審查意見報告書--法規巿提2~6號案.pdf",
-            "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d10acfae-85c2-4097-af06-4560dce8542a",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5c0efc1c-4c54-4791-8b81-abe1e20e1191",
             "FileName": "臺南市歷史文化場域經理平台設置說明簡報_1141202(議會版備用).pdf",
             "ErrorMessage": ""
         }
     ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=32cc5f6c-a542-4101-a1fe-40d1c15f193c&type=pdf",
+    "CheckAttList": [],
     "DoneAttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=edaa0cbf-4fd3-4890-869f-e89a349cc49e",

@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2025\/12\/10",
     "SendNumber": "南議民教字第 1140011809號",
-    "DoDesc": "",
+    "DoDesc": "市府就「建請市府針對中西區公所依照居住人口數，補齊行政員額，降低行政人員乘載負擔，提升服務品質」案，答覆如附件",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=84016890-982f-4814-b99f-fd0358a394f2",
+            "FileName": "4-6定民教議提79附件附表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=44d6f276-7928-4d7a-bc16-c15197850822&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/12\/12",
+    "ExecuteReNumber": "府民人字第 1141717512號",
+    "ExecuteReMemo": "市府就「建請市府針對中西區公所依照居住人口數，補齊行政員額，降低行政人員乘載負擔，提升服務品質」案，答覆如附件",
     "ErrorMessage": ""
 }

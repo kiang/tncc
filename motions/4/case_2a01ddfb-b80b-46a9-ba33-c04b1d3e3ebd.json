@@ -33,13 +33,13 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2a01ddfb-b80b-46a9-ba33-c04b1d3e3ebd&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=24c8bea7-943f-4135-b69a-b2681001f844",
-            "FileName": "1141202---4-6定第2、3次--審查意見報告書--法規巿提2~6號案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c35825f2-4123-43f4-898c-7f32b6fedf9b",
+            "FileName": "參考資料--4-6定法規巿提5-----臺南巿自助選物販賣事業管理自治條例.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c35825f2-4123-43f4-898c-7f32b6fedf9b",
-            "FileName": "參考資料--4-6定法規巿提5-----臺南巿自助選物販賣事業管理自治條例.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7183f8ef-2c06-4063-9f3a-c491ae9f027a",
+            "FileName": "審查意見報告書--4-6定第2、3次--法規巿提2~6號案.pdf",
             "ErrorMessage": ""
         },
         {
