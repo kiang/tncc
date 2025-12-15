@@ -3,6 +3,83 @@
         "DoneDate": "2023\/11\/30",
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "建設",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "8",
+        "OrgTitle": "臺南市政府觀光旅遊局",
+        "CaseCause": "台灣電力股份有限公司公眾服務處核定補助本市辦理「2024台灣燈會在臺南-高鐵燈區」空間劇場展演設計及執行案總經費400萬元(全額中央補助)，為爭取時效，謹請貴會同意先行辦理墊付，俾憑辦理後續相關作業事宜，俟113年度追加減預算時辦理轉正，敬請審議。",
+        "ProNo": "e9d915e5-b658-4f75-b455-9c47217276c2",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/12\/21",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "市府提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "檢送「臺南市美術館113年度預算書」，敬請審議。",
+        "ProNo": "2d8a8198-89c1-41c6-9372-d3678ea018f0",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/12\/21",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "市府提案-一般提案",
+        "CaseNumber": "3",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "檢送本市「財團法人台南市文化基金會113年度預算書」敬請審議。",
+        "ProNo": "cd1a70ef-6d40-4d6b-bd28-19e11dbb2e2c",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/12\/21",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "市府提案-一般提案",
+        "CaseNumber": "4",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "檢送財團法人臺南市孔廟文化基金會113年度預算書，敬請審議。",
+        "ProNo": "bdfc3f1b-c6c2-4d7d-9bf0-5ca742e420e3",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "1",
+        "OrgTitle": "鄭佳欣、吳禹寰、郭鴻儀",
+        "CaseCause": "建請市府積極關心及協助「高鐵花魁車地景公園」建置，並尋求合作高鐵公司行銷2024台灣燈會，推廣本市觀光。",
+        "ProNo": "63e5a14a-fe6e-488e-9327-4d605edb818c",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "李偉智",
+        "CaseCause": "建請市府優化虎頭埤風景露營區以利學生及民眾使用。",
+        "ProNo": "091f418d-0283-457c-b512-cba4b44b9cd5",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "3",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府勞工局向中央建議修訂銀髮族定額進用比例，可實質提供中高齡及高齡者之就業保障，活化勞動市場，提升本市勞動人口。",
+        "ProNo": "52cd8a9a-2fff-49b2-94e5-378812982356",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "建設",
         "KidTitle": "議員提案-一般提案",
         "CaseNumber": "4",
         "OrgTitle": "陳碧玉",
@@ -1020,83 +1097,6 @@
         "OrgTitle": "林志展",
         "CaseCause": "建請市政府於善化區建國路劃設停車格。",
         "ProNo": "3023662f-8c0a-4b51-80dc-1e4460dad7ed",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "55",
-        "OrgTitle": "林志展",
-        "CaseCause": "實踐友善人本交通環境，建請市政府設置跨局處之道路設施及交通規劃整合機制。",
-        "ProNo": "f70d7dc5-dfec-40f1-b068-5c2bd218b90f",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "56",
-        "OrgTitle": "林志展",
-        "CaseCause": "建請市政府針對校園、商圈、醫療院所等行人通行需求大之路口增設行人專用號誌。",
-        "ProNo": "4914c7fa-d246-42d4-b5cb-9a9ff1ccbda9",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "57",
-        "OrgTitle": "李偉智",
-        "CaseCause": "請市府規劃於新市區火車站前路口設置左轉號誌燈。",
-        "ProNo": "8426f80b-9df1-44ac-8a80-855dd2120e23",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "58",
-        "OrgTitle": "李偉智",
-        "CaseCause": "請市府規劃於安定區南安國小旁道路與南132線及南134線交叉路口，改成紅綠燈同步。",
-        "ProNo": "073bb5ee-3b9e-4e97-8421-6d64124d3548",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "59",
-        "OrgTitle": "林依婷",
-        "CaseCause": "提案「建請市府積極管理公有路外停車場內違停及占用問題」。",
-        "ProNo": "e6ed1e70-9f31-49e9-8145-ae3725576977",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "60",
-        "OrgTitle": "林依婷",
-        "CaseCause": "提案「建請市府評估民生路二段與中華西路路口增設右轉專用道」。",
-        "ProNo": "513806fd-b339-4182-a76e-00b692d95e71",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "61",
-        "OrgTitle": "蔡宗豪",
-        "CaseCause": "建請市府將北區開元振興公園現有停車場改建為立體停車場，以滿足開元振興公園周遭國宅、社區大樓、興建中之社宅、大樓及公園舉辦活動時民眾之停車需求。",
-        "ProNo": "3b81a0f9-668f-4295-ba57-cbaba5a267ff",
         "PagesAll": "64"
     }
 ]
