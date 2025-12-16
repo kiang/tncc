@@ -1,13 +1,13 @@
 {
     "GradeTime": "第4屆 第7次 定期會",
     "PTypTitle": "法規",
-    "CaseNumber": "4",
+    "CaseNumber": "10",
     "KidTitle": "查照\/備查案-法規查照案",
-    "ComeDate": "2025\/11\/26",
-    "ComeNumber": "府民自字第1141631643A號",
+    "ComeDate": "2025\/12\/16",
+    "ComeNumber": "府民人字第1141680154號",
     "OrgTitle": "臺南市政府民政局",
     "OrgTitle2": "",
-    "CaseCause": "修正「臺南巿善化區文康育樂中心場地使用管理辦法」。",
+    "CaseCause": "修正「臺南市政府民政局組織規程」第三條。",
     "Content": "",
     "Method": "",
     "CheckDate": "",
@@ -19,13 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=09bd6473-4444-450d-88b1-7ad690a2026b",
-            "FileName": "4-7定-法規查照4--修正「善化區文康育樂中心場地使用管理辦法」.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3c43d186-8587-46b3-8ab3-c9226e9f88fe",
+            "FileName": "4-7定-法規查照10--修正「臺南市政府民政局組織規程」第三條.pdf",
             "ErrorMessage": ""
         }
     ],
     "RAttList": [],
-    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=54c1c472-ffeb-4401-afc5-023d7bb75c63&type=pdf",
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5739fcb5-40d2-47ee-8ea4-e821a41a6516&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
     "ReDate": "",

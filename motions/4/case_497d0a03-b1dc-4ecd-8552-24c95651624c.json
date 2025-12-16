@@ -39,13 +39,13 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=497d0a03-b1dc-4ecd-8552-24c95651624c&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ba645ae9-e59e-4bcd-a0e9-77f67bbd3110",
-            "FileName": "1141027---4-6定審查意見報告書--法規巿提1及議提1-2號案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6871e3be-1b2c-497b-862b-c1b874e729ea",
+            "FileName": "1141027---4-6定法規議案審查會議紀錄--法規巿提1及議提1-2號案.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6871e3be-1b2c-497b-862b-c1b874e729ea",
-            "FileName": "1141027---4-6定法規議案審查會議紀錄--法規巿提1及議提1-2號案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=49db03ef-ad8e-43fd-b4d2-a8bf51208a75",
+            "FileName": "審查意見報告書--4-6定法規巿提1及議提1-2號案.pdf",
             "ErrorMessage": ""
         },
         {

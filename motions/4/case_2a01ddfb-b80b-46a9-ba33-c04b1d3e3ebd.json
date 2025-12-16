@@ -14,10 +14,15 @@
     "CheckDesc": "照案通過，詳審查結果對照表。",
     "DoneDate": "2025\/12\/04",
     "DoneDesc": "照審查意見通過。",
-    "SendDate": "",
-    "SendNumber": "",
+    "SendDate": "2025\/12\/12",
+    "SendNumber": "南議法規字第 1140012311號",
     "DoDesc": "",
     "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=24f329f2-6f00-4d5a-bb93-150cd164b7a5",
+            "FileName": "4-6定-法規巿提5---參考資料制定「臺南市自助選物販賣事業管理自治條例」草案.pdf",
+            "ErrorMessage": ""
+        },
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b4c0b256-cfdc-413d-9f2d-41ace9febfb9",
             "FileName": "4-6定-法規巿提5-總說明等---臺南市自助選物販賣事業管理自治條例草案.pdf",
@@ -32,11 +37,6 @@
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2a01ddfb-b80b-46a9-ba33-c04b1d3e3ebd&type=pdf",
     "CheckAttList": [
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c35825f2-4123-43f4-898c-7f32b6fedf9b",
-            "FileName": "參考資料--4-6定法規巿提5-----臺南巿自助選物販賣事業管理自治條例.pdf",
-            "ErrorMessage": ""
-        },
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7183f8ef-2c06-4063-9f3a-c491ae9f027a",
             "FileName": "審查意見報告書--4-6定第2、3次--法規巿提2~6號案.pdf",
@@ -59,10 +59,10 @@
     "ReDesc": "照審查意見通過。",
     "FirstDate": "2025\/10\/29",
     "FirstDesc": "交付法規委員會審查。",
-    "SecondDate": "",
-    "SecondDesc": "",
-    "ThirdDate": "",
-    "ThirdDesc": "",
+    "SecondDate": "2025\/12\/04",
+    "SecondDesc": "照審查意見通過。",
+    "ThirdDate": "2025\/12\/04",
+    "ThirdDesc": "照二讀會決議通過。",
     "ExecuteReDate": "",
     "ExecuteReNumber": "",
     "ExecuteReMemo": "",

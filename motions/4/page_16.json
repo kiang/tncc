@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "105",
+        "OrgTitle": "蔡筱薇",
+        "CaseCause": "建請新聞處統整市府各局處對外交的需求，成為對外交流的統籌單位，以提高行政效率並強化交流成效。",
+        "ProNo": "85b7edc4-d968-448d-98a4-fa5cdc6e5e77",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/06\/04",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "106",
+        "OrgTitle": "蔡筱薇",
+        "CaseCause": "建請未來在設計都市更新或建案許可時，納入「公園行人安全緩衝帶」。",
+        "ProNo": "8a2a4a58-5dbc-4407-9d5b-0e95be26c334",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/06\/04",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "107",
         "OrgTitle": "陳秋萍",
         "CaseCause": "建請市府水利局儘速完成永康區中正路高速一街二段口排水改善工程，保障社區住戶免於淹水之苦。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "陳秋宏",
         "CaseCause": "麻豆區市道173線約4K+200~4K+500及5K+011~5K+320 柏油路面破損、龜裂嚴重，建請改善，以保障用路人通行安全。",
         "ProNo": "48c6b98a-cf10-4779-a7ff-a9243e331d6f",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "205",
-        "OrgTitle": "陳秋宏",
-        "CaseCause": "麻豆區麻口里南49區道，雙邊側溝流水斷面不足，易造成排水不良，建請改善。",
-        "ProNo": "0413dd09-b8ba-4c8d-9b3f-95224a35c418",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "206",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建議臺南市政府駁回聚全營造有限公司於東山區前大埔段1045之70等13筆土地申請設置土資場之申請案，以維護地方環境品質與居民權益。",
-        "ProNo": "cb109c0c-b049-4376-b645-6a859460d151",
         "PagesAll": "64"
     }
 ]

@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第6次 臨時會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "6",
+        "OrgTitle": "蔡蘇秋金",
+        "CaseCause": "七股區竹橋里曾文溪北側高灘地，此處為農民承租農業用地，既有通道遇雨季則泥濘不堪，為防範因災害造成阻礙通行之情事，請農業局儘速改善。",
+        "ProNo": "879925ff-df1c-4591-b465-c26703c8bbb3",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "7",
+        "OrgTitle": "陳昆和、周奕齊",
+        "CaseCause": "台南市南化區菁埔寮段453-7地號農路改善工程。",
+        "ProNo": "4e705cda-9bd5-4386-948b-fc8077ed0bc0",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "8",
         "OrgTitle": "陳昆和、周奕齊",
         "CaseCause": "南化區西埔里溪尾農路(菁埔寮段926-1地號)路面暨下邊擋土牆改善工程。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "陳秋宏",
         "CaseCause": "建請儘速加高曾文溪寮子廍堤防15號水門抽水機平台及更新抽水機組，以避免再次水患，確保里民生命財產安全。",
         "ProNo": "06ca34f6-a581-4051-b3f2-d690f99c1cf8",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/08\/22",
-        "GradeTime": "第4屆 第6次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "39",
-        "OrgTitle": "陳秋宏",
-        "CaseCause": "建請儘速更新曾文溪西庄堤防19號水門抽水機組，避免再次水患，確保里民生命財產安全。",
-        "ProNo": "ce69da96-1d71-4678-ae5e-2fa3ca648d23",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/08\/22",
-        "GradeTime": "第4屆 第6次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "40",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請同意補助低窪地設置防水閘門，每遇豪雨或颱風季節，造成淹水嚴重，設置防水閘門，以杜絕淹水問題。",
-        "ProNo": "4a9861de-fb7e-4b25-9d11-4791ca7c8fdf",
         "PagesAll": "64"
     }
 ]

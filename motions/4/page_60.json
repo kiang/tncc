@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "民政教育",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "23",
+        "OrgTitle": "李偉智",
+        "CaseCause": "建請市府改善新化區新化國中電腦設備，以利學生學習使用。",
+        "ProNo": "a49eb2cc-61ba-4f04-bc9c-2378aa291394",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "24",
+        "OrgTitle": "曾培雅",
+        "CaseCause": "建請教育局重新擬定營養午餐價格。",
+        "ProNo": "c9163caf-3f1c-4c3f-918c-36b873013c5d",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "25",
         "OrgTitle": "蔡麗青",
         "CaseCause": "建請研議將國中小專任輔導教師變更為可轉任校內其他教職之可行性。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "蔡育輝、方一峰、尤榮智",
         "CaseCause": "請市政府警察局於新營市三民路與民生路十字路口旁邊之三民路停車場附近設置監視器。",
         "ProNo": "c15d44ea-08da-400f-a8a2-b810e9212a28",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "3",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請市府增設東區裕信路與裕孝三街路口監視器、測速器。",
-        "ProNo": "1fc97236-a6fd-40ad-b07f-7be0ca339391",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "4",
-        "OrgTitle": "李宗翰、周嘉韋",
-        "CaseCause": "因分駐所及派出所整併導致空間不足，關於「後壁分駐所」之空間規劃，提請警察局進行相關設置規劃。",
-        "ProNo": "daf0a361-5383-4513-a5fc-4d4fc1b35da4",
         "PagesAll": "64"
     }
 ]

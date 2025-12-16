@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "53",
+        "OrgTitle": "蔡筱薇",
+        "CaseCause": "建請要求民營停車場應於現場公告當日收費上限，避免消費者停車過夜因跨平日及假日致被收取高額停車費爭議事件。",
+        "ProNo": "bb9fdd22-0dd5-4af7-b216-00b29f2a51f1",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "54",
+        "OrgTitle": "蔡筱薇",
+        "CaseCause": "建請針對每年台南十大肇事路口提出通盤檢討及改善方案。",
+        "ProNo": "f08804e8-0d96-424a-828f-9fc169ce0456",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "55",
         "OrgTitle": "蔡筱薇",
         "CaseCause": "建請市府研擬於東寧網球場旁增設Ubike。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "市道174線自王爺南115線路口至大丘里往嶺頂路口止，因道路年久失修，路面龜裂破損相當嚴重，急需辦理改善，以利行車安全。(第4屆第2次定期會提案至今尚未改善)",
         "ProNo": "24400731-def4-4900-be8f-fb6e2399b4b7",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/05\/29",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "24",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理下營區紅甲里南68線(紅厝活動中心)道路改善工程，因年久失修，路面破損龜裂嚴重，急需辦理改善，以利交通。",
-        "ProNo": "fd2f707d-a19c-479b-b04c-758b3935d8b6",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/05\/29",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "25",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "市道南318線自台一線至二鎮工業區陸橋止，因道路年久失修破損嚴重，急需辦理改善，以利行車安全。",
-        "ProNo": "e5720bfc-65e6-4f11-8a49-a5041c30ebb5",
         "PagesAll": "64"
     }
 ]

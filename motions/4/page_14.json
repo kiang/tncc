@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "3",
+        "OrgTitle": "李偉智",
+        "CaseCause": "建請市府與中央警政署合作，與Line公司聯手打詐24小時監控。",
+        "ProNo": "ef96ab11-857c-4f08-b420-f65cd25106d1",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "4",
+        "OrgTitle": "蔡筱薇",
+        "CaseCause": "建請提高刑事警察待遇。",
+        "ProNo": "0d6c13bd-1c56-4c82-90dc-1101065962df",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "5",
         "OrgTitle": "郭鴻儀、朱正軒",
         "CaseCause": "建請市府於歸仁區中山路歸仁圓環路段設置未停讓行人之科技執法設備。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府工務局儘速辦理新市區社內里167-2號前道路柏油路面改善工程，保障人車通行安全。",
         "ProNo": "683372e6-bd99-4697-969b-83d3d2ab7090",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/06\/04",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "5",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府工務局儘速辦理新市區永就里 86-4 號柏油路面改善工程，保障人車通行安全。",
-        "ProNo": "c541396d-b184-4470-97cc-9a2ce513496f",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/06\/04",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府工務局儘速辦理新市區潭頂里南175線虎山道路過水橋改建工程，保障人車通行安全。",
-        "ProNo": "e215be92-b712-4129-a63c-b4f17df3ac4e",
         "PagesAll": "64"
     }
 ]

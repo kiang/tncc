@@ -14,8 +14,8 @@
     "CheckDesc": "本案有關稅率調整，送政黨協商，其結論再送大會進行二讀會，詳審查結果對照表。",
     "DoneDate": "2025\/10\/29",
     "DoneDesc": "114年10月29日4-6定第5次會會議決議：大會通過照法規委員會審查意見交由政黨黨團協商後，再提送大會進行第二讀會討論。",
-    "SendDate": "",
-    "SendNumber": "",
+    "SendDate": "2025\/12\/12",
+    "SendNumber": "南議法規字第 1140012370號",
     "DoDesc": "",
     "AttList": [
         {
@@ -63,16 +63,21 @@
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7949aeb0-e22b-4b93-8461-1512eff9402c",
             "FileName": "1141029-4-6定-第5次大會會議紀錄(議事組).pdf",
             "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1c39eebc-2cea-4c59-ae85-a4b1f3ab37cf",
+            "FileName": "4-6定---1204第25次會紀錄.pdf",
+            "ErrorMessage": ""
         }
     ],
     "ReDate": "2025\/09\/17",
     "ReDesc": "114年10月29日4-6定第5次會會議決議：大會通過照法規委員會審查意見交由政黨黨團協商後，再提送大會進行第二讀會討論。",
     "FirstDate": "2025\/09\/26",
     "FirstDesc": "交付法規委員會審查。",
-    "SecondDate": "",
-    "SecondDesc": "",
-    "ThirdDate": "",
-    "ThirdDesc": "",
+    "SecondDate": "2025\/12\/04",
+    "SecondDesc": "二讀會決議：\r\n1、 修正通過，詳大會決議對照表。\r\n2、 第三條第一項第一款第四目：照政黨黨團協商結論修正通過。\r\n3、 一併修正第四條條文為：本自治條例自中華民國一百十四年七月一日施行。",
+    "ThirdDate": "2025\/12\/04",
+    "ThirdDesc": "三讀會決議：照二讀會決議通過。",
     "ExecuteReDate": "",
     "ExecuteReNumber": "",
     "ExecuteReMemo": "",

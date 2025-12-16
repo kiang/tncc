@@ -39,7 +39,7 @@
         "KidTitle": "查照\/備查案-法規查照案",
         "CaseNumber": "4",
         "OrgTitle": "臺南市政府民政局",
-        "CaseCause": "修正「善化區文康育樂中心場地使用管理辦法」。",
+        "CaseCause": "修正「臺南巿善化區文康育樂中心場地使用管理辦法」。",
         "ProNo": "54c1c472-ffeb-4401-afc5-023d7bb75c63",
         "PagesAll": "64"
     },
@@ -85,6 +85,28 @@
         "OrgTitle": "臺南市政府社會局",
         "CaseCause": "修正「臺南市身心障礙者權益保障事項運作及權益受損協調處理辦法」第四條。",
         "ProNo": "5087db01-f844-40ba-983d-2f9e4deec261",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "9",
+        "OrgTitle": "臺南市政府教育局",
+        "CaseCause": "「臺南市立國民小學組織規程」名稱並修正為「臺南市巿立國民小學組織規程」",
+        "ProNo": "65c7ded8-4713-4a08-9b9b-0e5c213d16d6",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "10",
+        "OrgTitle": "臺南市政府民政局",
+        "CaseCause": "修正「臺南市政府民政局組織規程」第三條。",
+        "ProNo": "5739fcb5-40d2-47ee-8ea4-e821a41a6516",
         "PagesAll": "64"
     },
     {
@@ -1075,28 +1097,6 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "請改善下營區西連里茅港尾段4271地號道路改善工程，因道路年久失修，龜裂、破損嚴重，急需辦理改善，以利行車安全。",
         "ProNo": "ba7a10ab-5df1-4289-9e88-b2db50974470",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "67",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府儘速改善新化區東榮里中興路652巷路面改善工程，以利民眾使用。",
-        "ProNo": "91732bd5-18e1-42ce-8b90-fc3cc648a953",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "68",
-        "OrgTitle": "蔡育輝、李中岑、蔡宗豪、周奕齊、蔡淑惠、陳昆和、林冠維",
-        "CaseCause": "建請臺南市政府提高生育獎勵金，第一胎補助4萬元；第二胎補助 4.5 萬元；第三胎補助5萬元；第四胎補助10萬元，以實質減輕育兒家庭的經濟壓力，鼓勵市民生育意願，提升育兒友善環境。",
-        "ProNo": "365d297a-3186-47d1-ba8e-d01411d1f931",
         "PagesAll": "64"
     }
 ]

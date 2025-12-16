@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第5次 臨時會",
         "PTypTitle": "民政教育",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "鄭佳欣",
+        "CaseCause": "建請市府另覓地點建置北歸仁區「全民運動中心」(全民運動館)，以便市民運動使用。",
+        "ProNo": "c908db65-ae0b-4afb-ba19-7ee38631c57b",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "3",
+        "OrgTitle": "李偉智",
+        "CaseCause": "建請市府延長新化區體育公園風雨球場至晚間10點20~30分。",
+        "ProNo": "babdc2b0-5e08-4bab-b0c8-03a00dd30c15",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "4",
         "OrgTitle": "李偉智",
         "CaseCause": "建請市府增設新化區新化國中風雨球場屋頂燈光配置。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "陳昆和、杜素吟、吳禹寰",
         "CaseCause": "安排本會議員參觀奇美博物館展覽乙案。",
         "ProNo": "ef8e87da-677f-4853-a2e1-a4ec8274ae46",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府消防局",
-        "CaseCause": "內政部補助本市「充實直轄市、縣(市)消防機關科技化救災用無人載具裝備協助計畫」113年度新臺幣3,000萬元(全額中央補助)乙案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
-        "ProNo": "e058253a-00f4-4eb3-8ead-63d7b413999a",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "1",
-        "OrgTitle": "鄭佳欣、蔡麗青",
-        "CaseCause": "建請市府優先於台39之車流量較大交叉路口裝設路口監視器。",
-        "ProNo": "00c14726-d5db-45e4-b262-b085ab34ba32",
         "PagesAll": "64"
     }
 ]

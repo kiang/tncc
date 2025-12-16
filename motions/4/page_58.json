@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "161",
+        "OrgTitle": "沈震東、余柷青、王宣貿、沈家鳳",
+        "CaseCause": "建請公寓大廈修繕補助提高金額，以增加大樓市民朋友福利。",
+        "ProNo": "e85aa5f0-f9fc-4d74-b186-6dde81cfddab",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "162",
+        "OrgTitle": "趙昆原",
+        "CaseCause": "有關本市白河區廣蓮里蓮潭(玉豐高幹203-玉豐高幹192)部落道路受損嚴重，影響用路人安全，建請臺南市政府應儘速進行道路改善工程。",
+        "ProNo": "14f194d8-24e2-4d79-a35b-6725a0f16a0f",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "163",
         "OrgTitle": "趙昆原",
         "CaseCause": "有關本市東山區科里里南 103 線枋仔林0K+350~1K+300(枋仔林橋~枋林高幹5、枋林高幹5~土地公廟)道路受損嚴重，影響用路人安全，建請臺南市政府應儘速進行道路改善工程。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "陳秋宏",
         "CaseCause": "請改善麻豆區巷口里和平路1-29號前巷道路面。",
         "ProNo": "99c95ce8-8bb7-40a4-bd44-daaa7386ae66",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "261",
-        "OrgTitle": "陳秋宏",
-        "CaseCause": "請改善麻豆區海埔里大山段692至526地號道路。",
-        "ProNo": "40061b6a-cbc8-4ca1-a444-13564cc4b9a6",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "262",
-        "OrgTitle": "陳秋宏",
-        "CaseCause": "麻豆區和平路(自由路至興國路) 道路鋪面龜裂破損嚴重，提請改善。",
-        "ProNo": "ec32aeb4-8822-46a5-af30-66f9100bc368",
         "PagesAll": "64"
     }
 ]

@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "261",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "請改善麻豆區海埔里大山段692至526地號道路。",
+        "ProNo": "40061b6a-cbc8-4ca1-a444-13564cc4b9a6",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "262",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "麻豆區和平路(自由路至興國路) 道路鋪面龜裂破損嚴重，提請改善。",
+        "ProNo": "ec32aeb4-8822-46a5-af30-66f9100bc368",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "263",
         "OrgTitle": "陳秋宏",
         "CaseCause": "麻豆區油車里油車7號之13-20及7號之21-27巷道側溝改善工程。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "蔡育輝、方一峰、尤榮智",
         "CaseCause": "建請各級學校辦理運動會時開幕典禮要唱國歌。",
         "ProNo": "1534b59e-3758-4b7f-a5b6-9c3e7dc1afb3",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "23",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府改善新化區新化國中電腦設備，以利學生學習使用。",
-        "ProNo": "a49eb2cc-61ba-4f04-bc9c-2378aa291394",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "24",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請教育局重新擬定營養午餐價格。",
-        "ProNo": "c9163caf-3f1c-4c3f-918c-36b873013c5d",
         "PagesAll": "64"
     }
 ]

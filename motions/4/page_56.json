@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "90",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請市府檢討北區小北商圈周邊交通，調整道路配置並納入人本交通設計。",
+        "ProNo": "a572bb6b-796d-4f44-bd3b-725483de0dfb",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "91",
+        "OrgTitle": "曾培雅",
+        "CaseCause": "建請取消東區崇明路、崇學路交接路口的機車強制待轉格。",
+        "ProNo": "e153ae28-7840-4fb2-9a93-a8be075d38ec",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "92",
         "OrgTitle": "曾培雅",
         "CaseCause": "建請市府通盤檢討交通路口：行人路段的行穿線退缩，增設庇護島。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "方一峰",
         "CaseCause": "建請市府儘速辦理將軍區忠嘉里忠興98-3號前道路改善工程。",
         "ProNo": "fb27c942-f66d-427c-ab84-5d0b9302bb88",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "61",
-        "OrgTitle": "林依婷",
-        "CaseCause": "臺南市安平區馬雅各長青公園內部人行道，建請改善。",
-        "ProNo": "2bc7bec5-6242-4190-86ac-99babda5c140",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "62",
-        "OrgTitle": "方一峰",
-        "CaseCause": "建請市府儘速辦理下營里下廍37-1號至50號路面改善工程。",
-        "ProNo": "0e0b62ea-522f-4699-84a0-b2a9edb4f340",
         "PagesAll": "64"
     }
 ]

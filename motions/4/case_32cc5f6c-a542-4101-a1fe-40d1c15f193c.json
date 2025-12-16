@@ -14,8 +14,8 @@
     "CheckDesc": "請於下次定期會安排專案報告議程，針對行政監督、財務、稅務、組織、罰則等充分討論後，再行討論。",
     "DoneDate": "2025\/12\/04",
     "DoneDesc": "照審查意見通過。",
-    "SendDate": "",
-    "SendNumber": "",
+    "SendDate": "2025\/12\/12",
+    "SendNumber": "南議法規字第 1140012313號",
     "DoDesc": "",
     "AttList": [
         {
@@ -36,7 +36,13 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=32cc5f6c-a542-4101-a1fe-40d1c15f193c&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5bb343c3-ee3c-44b1-acc1-ea9bed70ceb5",
+            "FileName": "審查意見報告書--4-6定第2、3次--法規巿提2~6號案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=edaa0cbf-4fd3-4890-869f-e89a349cc49e",

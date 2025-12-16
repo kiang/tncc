@@ -11,11 +11,11 @@
     "Content": "",
     "Method": "",
     "CheckDate": "2025\/12\/01",
-    "CheckDesc": "同意備查。",
+    "CheckDesc": "審查意見：1 同意備查。2 請提供六都自辦市地重劃審查收費標準比較北給本會。",
     "DoneDate": "2025\/12\/04",
     "DoneDesc": "同意備查。",
-    "SendDate": "",
-    "SendNumber": "",
+    "SendDate": "2025\/12\/12",
+    "SendNumber": "南議法規字第  1140012251號",
     "DoDesc": "",
     "AttList": [
         {
@@ -26,8 +26,20 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=42c2da26-0f86-4049-b4e3-514116215304&type=pdf",
-    "CheckAttList": [],
-    "DoneAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a2121cd0-5dc4-4da1-be15-e5b839e83163",
+            "FileName": "臺南市政府114年度地政局發行公債相關資料-提供議會電子檔.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4fdacddd-17d9-4162-aa1a-2437d560336c",
+            "FileName": "4-6定---1204第25次會紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "ReDate": "",
     "ReDesc": "同意備查。",
     "FirstDate": "2025\/10\/29",

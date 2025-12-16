@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "10",
+        "OrgTitle": "臺南市政府民政局",
+        "CaseCause": "修正「臺南市將軍區公所編制表」。",
+        "ProNo": "ee24f05d-f068-4d70-b714-afcd46da4ca4",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "11",
+        "OrgTitle": "臺南市政府消防局",
+        "CaseCause": "修正「臺南市政府火災鑑定小組設置及審議辦法」，名稱並修正為「臺南市政府火災鑑定會設置及審議辦法」。",
+        "ProNo": "90826c1e-83d4-4166-8b98-33279f8504c1",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
         "CaseNumber": "12",
         "OrgTitle": "臺南市政府社會局",
         "CaseCause": "修正「臺南市政府社會局組織規程」第三條、第四條、第十三條及「臺南市府社會局編制表」。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "李宗霖",
         "CaseCause": "建請市府研議將每年5月9日定為「府城紀念日」，並藉此讓民眾皆能深度了解府城的歷史。",
         "ProNo": "3d43f186-ec99-43ab-8a00-bddb62f1d92f",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "11",
-        "OrgTitle": "周奕齊、陳昆和、趙昆原、Ingay Tali 穎艾達利、林冠維、杜素吟、蔡育輝",
-        "CaseCause": "建請臺南市政府組建輕便型組合屋，暫時安置有需求的民眾。",
-        "ProNo": "eca4e4a6-c226-4598-83a8-bbd27376946c",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "12",
-        "OrgTitle": "李啓維",
-        "CaseCause": "政府應協助南門假日花市發展休閒觀光。",
-        "ProNo": "77423f48-8915-4cfc-8d79-4472fbc5c2fb",
         "PagesAll": "64"
     }
 ]
