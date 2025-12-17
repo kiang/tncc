@@ -33,13 +33,13 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e2ec8b51-7fb6-4388-97f7-7b654391e513&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=adf97e6d-253f-4d8a-be9d-00c1962a2ad2",
-            "FileName": "1141202---4-6定第2、3次--審查意見報告書--法規巿提2~6號案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=aa40dfe7-7e75-4001-bb97-6ffae4f3f55d",
+            "FileName": "1141201---4-6定法規議案審查第3次會議紀錄--法規巿提6號案.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=477e0dfb-b947-49e7-a72e-025ea66a58fe",
-            "FileName": "參考資料---4-6定法規巿提6---臺南市淨零永續管理自治條例草案-提案單及函送行政院修正過程.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=adf97e6d-253f-4d8a-be9d-00c1962a2ad2",
+            "FileName": "1141202---4-6定第2、3次--審查意見報告書--法規巿提2~6號案.pdf",
             "ErrorMessage": ""
         },
         {

@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 臨時會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "11",
+        "OrgTitle": "邱昭勝",
+        "CaseCause": "九崴天然氣發電廠建蓋選址不當，建請市府不予同意本開發案。",
+        "ProNo": "20edcec3-53ae-48d8-964a-03335521ef99",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/02\/17",
+        "GradeTime": "第4屆 第1次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "12",
+        "OrgTitle": "蔡育輝、方一峰、尤榮智",
+        "CaseCause": "建請水利局、農業局及經發局於「水利用地」申請設置太陽光電設施業者，能嚴格把關，應確保不影響灌溉蓄水池安全、蓄水功能、管理及不污染環境。",
+        "ProNo": "4d65d89d-38b3-49a9-9965-f48eae2caa61",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/02\/17",
+        "GradeTime": "第4屆 第1次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "13",
         "OrgTitle": "王宣貿、蔡育輝",
         "CaseCause": "建請市府112年臺灣國際蘭展，擴大優惠福利在地區域市民。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "蔡秋蘭",
         "CaseCause": "建請市府改善佳里區建南里平等街173巷道路鋪面改善工程。",
         "ProNo": "45fc0644-efa0-4d0f-864f-26705ea5dfda",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "36",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "建請市府將永康區王行路866巷29弄柏油路面重新翻修，以保障民眾往來通行之安全。",
-        "ProNo": "f6738cb7-e544-4ae6-a9aa-c220d5ccfc19",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "37",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "建請市府將永康區中山北路164巷160弄前路面重新翻修，以保障用路民眾往來通行之安全。",
-        "ProNo": "dd2d6a8b-34af-4588-8455-46b3b19426cc",
         "PagesAll": "64"
     }
 ]

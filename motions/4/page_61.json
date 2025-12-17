@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "1",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請市政府於新營區客轉中心重劃區廣泛設置監視器，以強化地區治安暨交通安全管理等需要。",
+        "ProNo": "1807ad42-ff32-428e-9a55-d7fdb4798f94",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "蔡育輝、方一峰、尤榮智",
+        "CaseCause": "請市政府警察局於新營市三民路與民生路十字路口旁邊之三民路停車場附近設置監視器。",
+        "ProNo": "c15d44ea-08da-400f-a8a2-b810e9212a28",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "3",
         "OrgTitle": "曾培雅",
         "CaseCause": "建請市府增設東區裕信路與裕孝三街路口監視器、測速器。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "吳通龍",
         "CaseCause": "建請市府辦理六甲區市道165線及174線路面改善工程。",
         "ProNo": "b02f301f-9fc3-490b-ae6b-2defb352a984",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "61",
-        "OrgTitle": "吳通龍",
-        "CaseCause": "建請市府辦理官田區二鎮里南113線道路拓寬工程。",
-        "ProNo": "e99c4ea7-8443-42a5-85c6-ddd5fcf7dc23",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "62",
-        "OrgTitle": "吳通龍",
-        "CaseCause": "建請市府辦理擴建麻豆區興農里位於新生南路173線道路排水系統，重新整合排水系統俾利排水順暢。",
-        "ProNo": "5062c0a9-1d4c-4107-9e0e-a9629eaa40cb",
         "PagesAll": "64"
     }
 ]

@@ -38,6 +38,11 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c776dbdc-c464-46b0-8825-4685bf9707fe&type=pdf",
     "CheckAttList": [
         {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3502fa24-6627-47cf-bf15-3a61617f3275",
+            "FileName": "1141202---4-6定法規議案審查第2次會議紀錄--法規巿提2-5號案.pdf",
+            "ErrorMessage": ""
+        },
+        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1f6edc02-53a5-44f9-acc2-21e11bd431fd",
             "FileName": "審查意見報告書--4-6定第2、3次--法規巿提2~6號案.pdf",
             "ErrorMessage": ""

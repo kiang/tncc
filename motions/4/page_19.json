@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第8次 臨時會",
         "PTypTitle": "建設",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "9",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請市府研議擴大「市圖行動圖書館」之巡迴範圍及時段，並改善官網相關資訊，以嘉惠更多市民之需求。",
+        "ProNo": "d58d023f-835d-4c63-ae0b-c777e8bba0a8",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "10",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請市府研議將每年5月9日定為「府城紀念日」，並藉此讓民眾皆能深度了解府城的歷史。",
+        "ProNo": "3d43f186-ec99-43ab-8a00-bddb62f1d92f",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "11",
         "OrgTitle": "周奕齊、陳昆和、趙昆原、Ingay Tali 穎艾達利、林冠維、杜素吟、蔡育輝",
         "CaseCause": "建請臺南市政府組建輕便型組合屋，暫時安置有需求的民眾。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "謝舒凡",
         "CaseCause": "將軍區都市計畫區十二號道路改善工程(清湄宮後方)。",
         "ProNo": "10256074-1b48-4586-bf20-ac5b81f206cc",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "專案報告-專案報告",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府工務局",
-        "CaseCause": "「0121地震因應對策及處理情形」專案報告",
-        "ProNo": "3f584329-fedb-4724-81cb-66583ab3f2f3",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "法規",
-        "KidTitle": "市府提案-市法規案",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府財政稅務局",
-        "CaseCause": "修正「臺南市社會住宅與公益出租人地價稅及房屋稅優惠自治條例」草案，敬請審議。",
-        "ProNo": "b77ea548-4bdd-4fd9-9a32-aa6d640ae2c1",
         "PagesAll": "64"
     }
 ]

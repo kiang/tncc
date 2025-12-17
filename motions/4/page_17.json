@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "203",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "麻豆區海埔里南49區道路段-大山腳25-2號到67-3號前道路因長期砂石車往來頻繁重壓，造成柏油路面嚴重崩壞、現地嚴重凹凸破損，建請重新刨鋪改善，以利民眾通行與保障用路人安全。",
+        "ProNo": "001eb58d-e217-401e-b215-635fe2230c7d",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "204",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "麻豆區市道173線約4K+200~4K+500及5K+011~5K+320 柏油路面破損、龜裂嚴重，建請改善，以保障用路人通行安全。",
+        "ProNo": "48c6b98a-cf10-4779-a7ff-a9243e331d6f",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "205",
         "OrgTitle": "陳秋宏",
         "CaseCause": "麻豆區麻口里南49區道，雙邊側溝流水斷面不足，易造成排水不良，建請改善。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "臺南市政府環境保護局",
         "CaseCause": "修正「臺南市垃圾焚化廠及掩埋場營運階段提供回饋金辦法」。",
         "ProNo": "90aaf6ae-e7be-4d2f-9682-3e25cefd9d8d",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規查照案",
-        "CaseNumber": "8",
-        "OrgTitle": "臺南市政府水利局",
-        "CaseCause": "修正「臺南市政府水利局編制表」。",
-        "ProNo": "f2a91c2f-42a1-4bcb-9606-98b0f7e32d55",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規查照案",
-        "CaseNumber": "9",
-        "OrgTitle": "臺南市政府工務局",
-        "CaseCause": "修正「臺南市政府工務局組織規程」部分條文及編制表。",
-        "ProNo": "67505d7d-169d-4214-bb7e-342210e19738",
         "PagesAll": "64"
     }
 ]

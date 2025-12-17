@@ -2,6 +2,28 @@
     {
         "DoneDate": "2025\/03\/20",
         "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "專案報告-專案報告",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府工務局",
+        "CaseCause": "「0121地震因應對策及處理情形」專案報告",
+        "ProNo": "3f584329-fedb-4724-81cb-66583ab3f2f3",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "法規",
+        "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府財政稅務局",
+        "CaseCause": "修正「臺南市社會住宅與公益出租人地價稅及房屋稅優惠自治條例」草案，敬請審議。",
+        "ProNo": "b77ea548-4bdd-4fd9-9a32-aa6d640ae2c1",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
         "PTypTitle": "法規",
         "KidTitle": "市府提案-市法規案",
         "CaseNumber": "2",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "朱正軒、沈震東、王宣貿、蔡筱薇",
         "CaseCause": "建請教育局比照教育部規定，補助本市所有教師健康檢查，每2年1次，每次4,500元。",
         "ProNo": "d43efae0-3d93-4fa2-96d0-8d524ea928e3",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "53",
-        "OrgTitle": "蔡筱薇",
-        "CaseCause": "建請提升巡迴老師輔導交通費。",
-        "ProNo": "4246636b-67e2-462d-b383-3a24a3c913b3",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "54",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府積極落實終止校園語言暴力，並在教師培訓、考核與任用上，將「正向管教」列為教師的基本能力。",
-        "ProNo": "de8ef2d1-a007-409d-acd8-a5dbc93bbfa4",
         "PagesAll": "64"
     }
 ]

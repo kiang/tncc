@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "61",
+        "OrgTitle": "吳通龍",
+        "CaseCause": "建請市府辦理官田區二鎮里南113線道路拓寬工程。",
+        "ProNo": "e99c4ea7-8443-42a5-85c6-ddd5fcf7dc23",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "62",
+        "OrgTitle": "吳通龍",
+        "CaseCause": "建請市府辦理擴建麻豆區興農里位於新生南路173線道路排水系統，重新整合排水系統俾利排水順暢。",
+        "ProNo": "5062c0a9-1d4c-4107-9e0e-a9629eaa40cb",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "63",
         "OrgTitle": "吳通龍",
         "CaseCause": "建請市府於國道三號(烏山頭段)高架橋下設置休憩樂活園區。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "余柷青",
         "CaseCause": "建請市府農業局補助養雞場設置水濂密閉式設施。",
         "ProNo": "2bc9b475-b336-4feb-8685-4669544e1948",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "11",
-        "OrgTitle": "邱昭勝",
-        "CaseCause": "九崴天然氣發電廠建蓋選址不當，建請市府不予同意本開發案。",
-        "ProNo": "20edcec3-53ae-48d8-964a-03335521ef99",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "12",
-        "OrgTitle": "蔡育輝、方一峰、尤榮智",
-        "CaseCause": "建請水利局、農業局及經發局於「水利用地」申請設置太陽光電設施業者，能嚴格把關，應確保不影響灌溉蓄水池安全、蓄水功能、管理及不污染環境。",
-        "ProNo": "4d65d89d-38b3-49a9-9965-f48eae2caa61",
         "PagesAll": "64"
     }
 ]
