@@ -19,18 +19,23 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=499a14fb-484c-4b28-9ba7-d2ef9918808f",
-            "FileName": "1141121財稅局來函--政黨協商書面資料.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5a0d14d1-3e56-43a0-bae0-a45afee08dce",
+            "FileName": "其他住家用房屋課徵稅率修正對照表-4-6定法規議提1-房屋稅率徵收率第三條修正草案.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=171634bf-a81a-41aa-995e-0231c0f6504e",
-            "FileName": "附件---4-6定-法規議提1---南市房屋稅徵收率自治條例第三條修正草案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a4b69b71-380a-4b00-b17e-cf0e9ed4bfa4",
+            "FileName": "巿府財政稅務局論述資料--4-6定法規議提1-房屋稅徵收率第三條修正草案.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b608c4fc-2d4a-44f8-9b5c-75a4a4945d3a",
-            "FileName": "附件4-6定-房屋稅差別稅率.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2ed4b684-4a5c-4a4a-8255-68056997712f",
+            "FileName": "政黨協商書面資料-4-6定法規議提1-房屋稅率徵收率第三條修正草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=480aecd8-7c05-412b-81d8-6568eb3f0baf",
+            "FileName": "總說明、逐條說明及修正條文-4-6定法規議提1-房屋稅率徵收率第三條修正草案.pdf",
             "ErrorMessage": ""
         }
     ],
@@ -38,23 +43,23 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=088f57f6-a785-4098-b6ae-b2d13a9e7deb&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=20ec797c-4520-45c1-9b20-2b2accef2502",
-            "FileName": "1141027---4-6定審查意見報告書--法規巿提1及議提1-2號案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a0fbe4b7-c18f-4c02-b436-76278712034c",
+            "FileName": "審查意見報告書--4-6定法規巿提1及議提1-2號案.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a71702da-176e-4318-9d65-adc61a5bc571",
-            "FileName": "1141027---4-6定法規議案審查會議紀錄--法規巿提1及議提1-2號案.pdf",
-            "ErrorMessage": ""
-        },
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f0d81f0a-c75c-40e1-b0b4-e5202d77db24",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=73528fce-0370-4e82-96a1-bcb73c372e64",
             "FileName": "審查結果對照表--4-6定-法規議提1---南市房屋稅徵收率自治條例第三條修正草案.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fe229fda-7c94-49e1-aa44-fac89127ee21",
-            "FileName": "財稅局---4-6定-法規議提1案論述資料.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c6ebb7e7-d294-4f6c-af3c-557ac80d184b",
+            "FileName": "會議紀錄--4-6定法規委員會第1次議案審查--法規巿提1及議提1-2號案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b8946a89-1a78-42a2-8758-39b3661898e1",
+            "FileName": "發言紀錄-4-6定---法規委員會第1次議案審查-逐字稿.pdf",
             "ErrorMessage": ""
         }
     ],

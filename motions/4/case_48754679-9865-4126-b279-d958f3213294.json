@@ -19,8 +19,8 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5270e670-b7bf-4900-b6d6-7fd15296971b",
-            "FileName": "4-6定-法規巿提3-修訂「臺南市攤販管理自治條例第六條」草案--總說明、修正條文對照表等.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b2fcfccb-f82d-4f1e-9630-d8b46a8e278d",
+            "FileName": "總說明、逐條說明及修正條文-4-6定法規巿提3-台南巿攤販管理自治條例第六條修正草案.pdf",
             "ErrorMessage": ""
         }
     ],
@@ -28,18 +28,18 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=48754679-9865-4126-b279-d958f3213294&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=754eddc0-ae87-4754-9c89-84892a0d690a",
-            "FileName": "1141202---4-6定法規議案審查第2次會議紀錄--法規巿提2-5號案.pdf",
-            "ErrorMessage": ""
-        },
-        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=932d8686-140a-4b0e-9e81-36c00ca990b6",
             "FileName": "審查意見報告書--4-6定第2、3次--法規巿提2~6號案.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a0aed825-3de9-4e09-bed0-9f39a67968db",
-            "FileName": "審查結果對照表--4-6定-法規巿提3-修訂「臺南市攤販管理自治條例第六條」草案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7fbb2aa9-9ced-4286-88f4-a11770cb037c",
+            "FileName": "審查結果對照表--4-6定法規巿提3-修訂「臺南市攤販管理自治條例第六條」草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9fdcfa96-2191-4888-9ea0-22a4343656ba",
+            "FileName": "會議紀錄-4-6定法規委員會第2次議案審查.pdf",
             "ErrorMessage": ""
         }
     ],

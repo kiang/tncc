@@ -2,6 +2,39 @@
     {
         "DoneDate": "2023\/03\/30",
         "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "12",
+        "OrgTitle": "林美燕、沈家鳳",
+        "CaseCause": "建請市府針對台南市的民間自組樂團每年舉辦一場比賽，透過比賽能夠增加彼此交流與學習，而且讓臺南市民了解這些樂團。",
+        "ProNo": "7e2d1325-d3f7-43b2-aa3d-4345b2b4534a",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "建設",
+        "KidTitle": "專案報告-專案報告",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府觀光旅遊局",
+        "CaseCause": "「辦理2024 台灣燈會籌備概況及預算編製情形」專案報告",
+        "ProNo": "e0a2e2dc-f4d3-47a7-9074-69058b6cfbc3",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "保安",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府警察局",
+        "CaseCause": "內政部核定補助本市「『無毒府城、少年不輟』毒品防制輔導計畫」總經費新臺幣160萬元(全部補助款)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟113年度總預算時辦理轉正，敬請審議。",
+        "ProNo": "1055e8ba-d5c2-4292-bc2f-7f8ae01937b1",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
         "CaseNumber": "1",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "林美燕",
         "CaseCause": "建請臺南市政府急速修繕運河路上人行步道。",
         "ProNo": "d2e91176-e976-49f3-b567-2875ee273f19",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "58",
-        "OrgTitle": "林美燕",
-        "CaseCause": "建請臺南市政府全面檢討行道樹植栽遮蔽轉角視野之問題並妥善規劃。",
-        "ProNo": "f553834f-c9c7-42db-af4a-a00d16d929e1",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "59",
-        "OrgTitle": "沈家鳳",
-        "CaseCause": "建請市府進行新營區民生路(民治路至復興路段)道路改善工程，以維護民眾使用安全。",
-        "ProNo": "246139bf-acd9-4f7c-bb3c-117179b312a4",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "60",
-        "OrgTitle": "吳通龍",
-        "CaseCause": "建請市府辦理六甲區市道165線及174線路面改善工程。",
-        "ProNo": "b02f301f-9fc3-490b-ae6b-2defb352a984",
         "PagesAll": "64"
     }
 ]

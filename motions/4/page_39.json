@@ -1,5 +1,38 @@
 [
     {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "議員提案-市法規案",
+        "CaseNumber": "1",
+        "OrgTitle": "蔡育輝、吳禹寰、杜素吟、趙昆原、方一峰、王宣貿、謝舒凡、陳昆和",
+        "CaseCause": "「臺南市新設置畜牧設施管理自治條例」第五條修正草案，敬請審議。",
+        "ProNo": "2b978b02-6aee-487f-ac30-9ff01dc115ae",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "臨時動議",
+        "KidTitle": "臨時動議-臨時動議",
+        "CaseNumber": "1",
+        "OrgTitle": "陳秋萍",
+        "CaseCause": "建請市府於西灣滯洪池（公園用地）評估闢建立體停車場。",
+        "ProNo": "e5f5f5d3-f1a6-4a07-beab-8f0e7e57baa1",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "臨時動議",
+        "KidTitle": "臨時動議-臨時動議",
+        "CaseNumber": "2",
+        "OrgTitle": "Ingay Tali 穎艾達利",
+        "CaseCause": "建請市府全額補助臺南市青少棒代表隊8月初赴美參加2024 PONY 第72屆小馬世界青少棒錦標賽之費用，為爭取時效，故提出臨時動議。",
+        "ProNo": "1da32558-3174-4574-8d59-a63bc754d436",
+        "PagesAll": "64"
+    },
+    {
         "DoneDate": "2024\/06\/26",
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "臨時動議",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "鄭佳欣",
         "CaseCause": "建請市府公共空間及社區週邊搭配節慶裝飾美化，提升市民節慶體驗，提升公共空間曝光度及使用率。",
         "ProNo": "ce4f6831-06d2-491e-a03f-64130662d070",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "7",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府處理新化區大目降文化園區旁,和平街水溝被樹木竄根導致阻塞及損壞1案。",
-        "ProNo": "dd6e8672-972a-403d-8d5f-48703ded2855",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "8",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府於新化區虎頭埤風景區烤肉區增設攔葉網。",
-        "ProNo": "62e075b1-1fb8-4ce7-84f2-1d5dee7fdb24",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "9",
-        "OrgTitle": "鄭佳欣",
-        "CaseCause": "建請市府於歸仁區核心綠軸暨廊道增加硬體設備之鐵道意象，強化在地特色。",
-        "ProNo": "1d756179-62c1-4368-a588-e585f1d66761",
         "PagesAll": "64"
     }
 ]

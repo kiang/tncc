@@ -4,6 +4,39 @@
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "15",
+        "OrgTitle": "陳怡珍",
+        "CaseCause": "臺南市北區文賢二街柏油路面破損不堪，影響行車安全，建請臺南市政府應儘速進行鋪面改善工程。",
+        "ProNo": "2740c807-bbac-4904-8fb6-b3b3aeb36a07",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/10\/29",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "16",
+        "OrgTitle": "陳怡珍",
+        "CaseCause": "臺南市安南區本原街一段195巷逢雨必淹，建請臺南市政府應儘速改善。",
+        "ProNo": "4774f1e9-2665-4a1e-804e-3b89925f1ada",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/10\/29",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "17",
+        "OrgTitle": "李偉智",
+        "CaseCause": "建請市府儘速改善山上區明和里86號至98號路面，以利民眾使用。",
+        "ProNo": "897ef5f5-f135-4e6f-8bc4-c11e0451d433",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/10\/29",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "18",
         "OrgTitle": "李偉智",
         "CaseCause": "建請市府儘速改善新化區東榮里信義路111巷路面，以利民眾使用。",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府針對北區長榮路五段435巷路面柏油重新鋪設。",
         "ProNo": "fa206300-f003-4173-b2e4-ea2c443fe0db",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "115",
-        "OrgTitle": "周嘉韋",
-        "CaseCause": "建請市府針對北區長榮路五段409巷2弄路面柏油重新鋪設。",
-        "ProNo": "281043a8-d83e-4717-97a6-6e8dfc519a76",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "116",
-        "OrgTitle": "周嘉韋",
-        "CaseCause": "建請市府針對北區長榮路五段409巷路面柏油重新鋪設。",
-        "ProNo": "47f11039-9dbb-4280-b759-3a6616145d10",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "117",
-        "OrgTitle": "周嘉韋",
-        "CaseCause": "建請市府針對北區公園路824巷路面柏油重新鋪設。",
-        "ProNo": "ac7dd806-3cd3-4a83-8e94-5c7fd57ec7dd",
         "PagesAll": "64"
     }
 ]

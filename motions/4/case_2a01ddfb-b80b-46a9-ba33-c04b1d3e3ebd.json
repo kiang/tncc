@@ -19,18 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=24f329f2-6f00-4d5a-bb93-150cd164b7a5",
-            "FileName": "4-6定-法規巿提5---參考資料制定「臺南市自助選物販賣事業管理自治條例」草案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=217ea087-1a1b-43ff-8833-2697ad9b7f91",
+            "FileName": "參考資料-4-6定法規巿提5-臺南市自助選物販賣事業管理自治條例草案-含七縣巿比較表.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b4c0b256-cfdc-413d-9f2d-41ace9febfb9",
-            "FileName": "4-6定-法規巿提5-總說明等---臺南市自助選物販賣事業管理自治條例草案.pdf",
-            "ErrorMessage": ""
-        },
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3f8f0f09-50b8-4db8-912c-93fe3415e3f1",
-            "FileName": "4-6定法規巿提5-----自助選物參考資料-商發署發布自助選物販賣事業管理規範及七縣巿比較表1.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ff977c2b-5b23-46e2-9f01-a91b0a4c38d5",
+            "FileName": "總說明、逐條說明及修正條文-4-6定法規巿提5-臺南市自助選物販賣事業管理自治條例草案.pdf",
             "ErrorMessage": ""
         }
     ],
@@ -38,18 +33,18 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2a01ddfb-b80b-46a9-ba33-c04b1d3e3ebd&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=278282f7-7cea-4169-8584-79459c060c49",
-            "FileName": "1141202---4-6定法規議案審查第2次會議紀錄--法規巿提2-5號案.pdf",
-            "ErrorMessage": ""
-        },
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7183f8ef-2c06-4063-9f3a-c491ae9f027a",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5dd8b755-c616-432a-88fb-668f0f27c2ee",
             "FileName": "審查意見報告書--4-6定第2、3次--法規巿提2~6號案.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fcc8e0bf-3b92-417a-b049-64ae7662537c",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=90e29d4c-5c48-4f23-9941-4b29e40a5281",
             "FileName": "審查結果對照表---4-6定-法規巿提5----臺南市自助選物販賣事業管理自治條例草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=127ebd4a-9e03-4340-bd94-5456aba87385",
+            "FileName": "會議紀錄-4-6定法規委員會第2次議案審查(巿提2~5號案).pdf",
             "ErrorMessage": ""
         }
     ],

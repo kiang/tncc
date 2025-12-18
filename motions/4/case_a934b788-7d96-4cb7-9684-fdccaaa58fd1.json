@@ -19,8 +19,8 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=18500ce2-a93c-40ee-b1af-b60c9a585163",
-            "FileName": "4-6定-法規議提2--附件-總說明、對照表及修正條文---臺南市市區道路管理自治條例部分條文修正草案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=16281af8-251e-44f8-b055-79a9000f6fc2",
+            "FileName": "總說明、逐條說明及修正條文-4-6定法規議提2-台南巿巿區道路管理自治條例部分條文修正草案.pdf",
             "ErrorMessage": ""
         }
     ],
@@ -28,13 +28,18 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a934b788-7d96-4cb7-9684-fdccaaa58fd1&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=578931f9-68e3-4ea3-929e-e92c3e843169",
-            "FileName": "1141027---4-6定審查意見報告書--法規巿提1及議提1-2號案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e73ec788-16bb-43b3-b5e6-ec72c2a4186c",
+            "FileName": "審查意見報告書--4-6定法規巿提1及議提1-2號案.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=228a66eb-9246-48fc-95cf-db4dab048de3",
-            "FileName": "1141027---4-6定法規議案審查會議紀錄--法規巿提1及議提1-2號案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6e04e9ff-9efd-4cb7-955a-85ea26dc745c",
+            "FileName": "審查結果對照表--4-6定-法規議提2---修正「臺南市巿區道路自治條例」修正草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9fbeae98-9b6d-4bc5-a0f3-29664ce638ca",
+            "FileName": "會議紀錄--4-6定法規委員會第1次議案審查--法規巿提1及議提1-2號案.pdf",
             "ErrorMessage": ""
         }
     ],
