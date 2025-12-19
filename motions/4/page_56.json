@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "83",
+        "OrgTitle": "李宗翰",
+        "CaseCause": "建請市府增加標線規劃專業人員。",
+        "ProNo": "ab3f269d-9cee-45dd-b7ad-d00a972794d9",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "84",
+        "OrgTitle": "李宗翰",
+        "CaseCause": "建請市府改善新營天鵝湖公園往新港東路口之號誌設計。",
+        "ProNo": "85fc744e-f77c-41e9-a24c-85ca50aaf1d2",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "85",
         "OrgTitle": "李宗翰",
         "CaseCause": "建請市府訂定標準，要求道路新設時交通局需要介入的工程標準。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "蔡育輝",
         "CaseCause": "建請市政府編列預算辦理鹽水區文昌里南3線4K+800至6K+000道路改善工程，以利行車安全。",
         "ProNo": "defe995b-7c33-458d-a1b1-6fa842b80651",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "54",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請市政府編列預算辦理新營區公園路廣場改善工程，以保障民眾休閒安全。",
-        "ProNo": "df88cfe4-4fa0-4375-8d54-f5765a9af36f",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "55",
-        "OrgTitle": "蔡淑惠",
-        "CaseCause": "南區新建路13巷人行道破損，恐影響行人安全，建請市府編列預算予以整修，以維護行人的安全。",
-        "ProNo": "3874696e-9a9d-4aca-9a9a-7ffbb74c619a",
         "PagesAll": "64"
     }
 ]

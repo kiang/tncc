@@ -157,11 +157,33 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "15",
+        "OrgTitle": "臺南市政府工務局",
+        "CaseCause": "修正「臺南市建築管理業務委託辦法」第五條。",
+        "ProNo": "fbe2d7cc-7333-4e2e-b4b1-f52f1286a786",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府法制處",
         "CaseCause": "修正「臺南市指定建築線收費標準」。",
         "ProNo": "8024f0bc-3d97-4cd1-95ca-bbf89332d970",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規備查案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府法制處",
+        "CaseCause": "修正「臺南市左鎮菜寮化石文化園區參觀收費標準」，名稱並修正為「臺南市左鎮化石文化園區參觀收費標準」。",
+        "ProNo": "64eabec9-943a-48a5-951a-2b3351eafc6d",
         "PagesAll": "64"
     },
     {
@@ -1075,28 +1097,6 @@
         "OrgTitle": "陳秋宏",
         "CaseCause": "建請提供足夠的空間供麻豆樂齡學習中心使用。",
         "ProNo": "78d63699-23d1-4167-afa4-f4acf9c6dd96",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "60",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "建請市府針對永康區大灣國小菁英館增設緊急逃生出口，以利師生、家長等人員於災難發生時順利疏散逃生。",
-        "ProNo": "0c8f3ae3-20c3-4339-901b-78912988a503",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "61",
-        "OrgTitle": "朱正軒、周嘉韋、沈家鳳",
-        "CaseCause": "建請檢討學校運動場地外借收費機制，建立智慧化管理系統，並合理調整租金以提升社區使用率。",
-        "ProNo": "e58d3cd5-ddc4-4805-b1bc-2018dd125581",
         "PagesAll": "64"
     }
 ]

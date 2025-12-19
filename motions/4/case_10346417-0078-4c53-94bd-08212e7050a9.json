@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2025\/12\/12",
     "SendNumber": "南議保安字第 1140011719號",
-    "DoDesc": "",
+    "DoDesc": "本府就「加強推廣急救先鋒APP」案，敬答復如下：\r\n一、民眾協助於救護人員未到達現場，先行實施CPR的即時性，有助於提升OHCA案件急救成功率，此成效已獲得民眾普遍的重視。本府消防局於112年4月內政部消防署推出急救先鋒APP時，即列為緊急救護項目之民眾宣導重點。\r\n二、本府消防局持續推動急救先鋒APP宣導方式採電視、平面、網路及社群網站等媒體進行推播、各式實體場合活動現場推廣操作，以及發布記者會或其他創意作為，總計推播接觸民眾達約30萬人次。\r\n三、114年本府消防局各式宣導方式及活動場次統計如下：\r\n(詳夾檔表格)",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=825cc667-ba11-47ea-ae42-802a838f0451",
+            "FileName": "4-6定議提23市府書面答覆.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=10346417-0078-4c53-94bd-08212e7050a9&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/12\/19",
+    "ExecuteReNumber": "府消護字第 1141731092號",
+    "ExecuteReMemo": "本府就「加強推廣急救先鋒APP」案，敬答復如下：\r\n一、民眾協助於救護人員未到達現場，先行實施CPR的即時性，有助於提升OHCA案件急救成功率，此成效已獲得民眾普遍的重視。本府消防局於112年4月內政部消防署推出急救先鋒APP時，即列為緊急救護項目之民眾宣導重點。\r\n二、本府消防局持續推動急救先鋒APP宣導方式採電視、平面、網路及社群網站等媒體進行推播、各式實體場合活動現場推廣操作，以及發布記者會或其他創意作為，總計推播接觸民眾達約30萬人次。\r\n三、114年本府消防局各式宣導方式及活動場次統計如下：\r\n(詳夾檔表格)",
     "ErrorMessage": ""
 }

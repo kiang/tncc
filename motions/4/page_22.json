@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "15",
+        "OrgTitle": "李偉智",
+        "CaseCause": "建請市府徵收新化區公有市場旁市場用地，設置為市場附屬設施-停車場用地，以利民眾停車使用。",
+        "ProNo": "6ec0d5e1-0c6f-4265-ad51-253b6f82dd2f",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "16",
+        "OrgTitle": "吳通龍",
+        "CaseCause": "寶椿天然氣發電廠建蓋選址不當，建請市府不予同意本開發案。",
+        "ProNo": "fc67cb5b-5a60-4abb-982f-033a1ead47e9",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "17",
         "OrgTitle": "李宗霖",
         "CaseCause": "建請市府全面清查本市販賣車用鋰電池業者，杜絕販賣未經經濟部標準檢驗局檢驗合格標章或相關證明文件之鋰電池，以維護消費者與市民安全。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "蔡筱薇",
         "CaseCause": "建請法制處留意爛尾樓爭議，研擬增設諮詢平台。",
         "ProNo": "045a1cc2-19e8-451c-8c86-bacb537bc4dd",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "2",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "請市府依法提供議會議員索取問政所需資料，如拒絕、限制或去識別化後提供，請於回函時敘明依據之法律理由，如因而涉訟，相關律師及訴訟費用由機關首長自行負擔。",
-        "ProNo": "d1d88e4c-2d2a-4ae9-a587-c441c57417dc",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "3",
-        "OrgTitle": "林志展、周嘉韋",
-        "CaseCause": "建請市政府法制處檢討議員索取資料的規範。",
-        "ProNo": "a5f710c6-bbf6-44dc-b07b-c32ac7050eaa",
         "PagesAll": "64"
     }
 ]

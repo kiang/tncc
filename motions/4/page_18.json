@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "3",
+        "OrgTitle": "臺南市政府民政局",
+        "CaseCause": "修正「臺南市佳里區公所編制表」",
+        "ProNo": "7bf58c03-b360-4b6f-b645-6775032ddc15",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "4",
+        "OrgTitle": "臺南市政府地政局",
+        "CaseCause": "修正「臺南市市有耕地及養殖用地出租辦法」第十五條、第二十二條。",
+        "ProNo": "9f9be3e6-dcba-421a-9c40-87a5b6be5285",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
         "CaseNumber": "5",
         "OrgTitle": "臺南市政府社會局",
         "CaseCause": "廢止「臺南市偏遠地區交通接送服務及收費辦法」。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "林依婷",
         "CaseCause": "提案爭取醫療從業人員優先承租社會住宅，為台南留住醫療人才。",
         "ProNo": "d8636795-16cd-4ec1-8403-2f7fce3817cf",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "4",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請重視本市土地國土保育法延後六年公告實施，請台南市政府地政局、都市發展局因應於115年台南市國土計畫通盤檢討提出。",
-        "ProNo": "2f79c4e3-bc6c-4330-827a-204cfc2c1199",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "5",
-        "OrgTitle": "林依婷",
-        "CaseCause": "建請台南市政府仿效新北市，推出類似青年好險有你政策，以協助青年在甫步入社會之時有更多保障。",
-        "ProNo": "d18134d0-4999-442f-b502-87acd1c8c2e0",
         "PagesAll": "64"
     }
 ]
