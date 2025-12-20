@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "81",
+        "OrgTitle": "李宗翰",
+        "CaseCause": "建請市府爭取經費，針對東興國宅公車站設立遮陽設施。",
+        "ProNo": "6adf9212-335d-493d-af8b-ee09507fbedd",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "82",
+        "OrgTitle": "李宗翰",
+        "CaseCause": "建請市府重新規劃新營圓環標線。",
+        "ProNo": "5a78c424-74dc-44d4-8dd5-30c9bae58197",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "83",
         "OrgTitle": "李宗翰",
         "CaseCause": "建請市府增加標線規劃專業人員。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "蔡育輝",
         "CaseCause": "建請市政府編列預算辦理新營區周武街79巷公園改善工程，以保障民眾休閒安全。",
         "ProNo": "c6f34be2-b55e-4888-b023-a02f4776d4ac",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "52",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請市政府編列預算辦理鹽水區竹林里天保厝部落道路改善工程(南73線至天保厝178號前)，以利行車安全。",
-        "ProNo": "d17ef267-e4b0-4aeb-8168-b93433f3bf41",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "53",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請市政府編列預算辦理鹽水區文昌里南3線4K+800至6K+000道路改善工程，以利行車安全。",
-        "ProNo": "defe995b-7c33-458d-a1b1-6fa842b80651",
         "PagesAll": "64"
     }
 ]

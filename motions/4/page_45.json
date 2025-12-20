@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "44",
+        "OrgTitle": "周嘉韋",
+        "CaseCause": "建請市府統一規範公車停靠區之路面標示。",
+        "ProNo": "87a78bca-8029-4cd9-9d36-d9979ed36cab",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "45",
+        "OrgTitle": "周嘉韋",
+        "CaseCause": "建請市府更換延平郡王祠之大客車臨停站牌之材質。",
+        "ProNo": "961fd5ad-8151-4ef7-9854-2d782873af43",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "46",
         "OrgTitle": "李偉智",
         "CaseCause": "請市府規劃台39線(新化至歸仁)綠燈連續時段延長。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "林美燕",
         "CaseCause": "建請市府將南區三官路176巷5弄路面重新翻修，以保障用路人通行往來之安全。",
         "ProNo": "881eb844-d8f4-46c3-818a-eb557f105517",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "46",
-        "OrgTitle": "林美燕",
-        "CaseCause": "建請市府將南區金華路二段228巷銜接三和街路口至新城街71巷路口之柏油路面重新翻修，以保障民眾往來通行之安全。",
-        "ProNo": "75f00430-6379-42c9-8de6-d3d06e5567bb",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "47",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府儘速完成新化區民權街169號前道路改善。",
-        "ProNo": "95458788-ad37-49c0-b7b4-beace6d889b3",
         "PagesAll": "64"
     }
 ]

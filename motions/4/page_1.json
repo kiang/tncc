@@ -374,6 +374,28 @@
         "PagesAll": "64"
     },
     {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第10次 臨時會",
+        "PTypTitle": "臨時動議",
+        "KidTitle": "臨時動議-臨時動議",
+        "CaseNumber": "1",
+        "OrgTitle": "余柷青",
+        "CaseCause": "建請於臺南市新化區衛生所暨衛福園區新建工程增設親子悠遊館。",
+        "ProNo": "01ef1146-9561-43d2-94a1-08c0e0a4a6a7",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第10次 臨時會",
+        "PTypTitle": "臨時動議",
+        "KidTitle": "臨時動議-臨時動議",
+        "CaseNumber": "2",
+        "OrgTitle": "周嘉韋、鄭佳欣、謝舒凡、李宗翰",
+        "CaseCause": "建請制定「臺南市公有零售市場停止使用核發補助費自治條例」草案。",
+        "ProNo": "7b092ce1-44fd-4cf2-baea-18ab80677160",
+        "PagesAll": "64"
+    },
+    {
         "DoneDate": "2025\/12\/04",
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "民政教育",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "林志展、周嘉韋",
         "CaseCause": "建請市政府研擬建立「台南市高級中等以下學校學生藥物委託管理制度」，並進行法規釐清、人員訓練與制度試辦，保障有特殊健康需求學生之用藥權益。",
         "ProNo": "d8f09cb2-9773-4e28-a27d-31b26b841a3e",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "58",
-        "OrgTitle": "陳秋宏、沈家鳳",
-        "CaseCause": "建請台南市各國民小學之遊憩設施上方增設遮陽設備。",
-        "ProNo": "047af1b6-181b-49bd-bac1-2da9329829ac",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "59",
-        "OrgTitle": "陳秋宏",
-        "CaseCause": "建請提供足夠的空間供麻豆樂齡學習中心使用。",
-        "ProNo": "78d63699-23d1-4167-afa4-f4acf9c6dd96",
         "PagesAll": "64"
     }
 ]

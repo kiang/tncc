@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "111",
+        "OrgTitle": "沈家鳳",
+        "CaseCause": "建請市府辦理柳營區八翁里中山西路三段606號前至中山西路三段701巷口道路鋪面改善工程，以提升通行安全與生活品質。",
+        "ProNo": "a7a832dc-4fc5-4c83-9c53-869b86b400d7",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "112",
+        "OrgTitle": "周嘉韋",
+        "CaseCause": "建請市府針對北區公園路788巷路面紅磚重新鋪設。",
+        "ProNo": "77b87ef8-d786-4d48-a5df-44adee55e58e",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "113",
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府針對北區公園路820巷路面柏油重新鋪設。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "臺南市政府地政局",
         "CaseCause": "修正「臺南市政府地政局編制表」。",
         "ProNo": "29b843c4-ee78-49d3-9874-53ad447de7a9",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規查照案",
-        "CaseNumber": "28",
-        "OrgTitle": "臺南市政府體育局",
-        "CaseCause": "修正「臺南市體育獎助金發給辦法」部分條文及第四條附表。",
-        "ProNo": "d30bd116-2e3c-4338-b4bb-f1ff7c25c369",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規備查案",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府勞工局",
-        "CaseCause": "修正「臺南市勞動安全基金收支保管及運用辦法」第一條、第四條。",
-        "ProNo": "ad1956c9-73d6-4164-9df7-648aa2accaab",
         "PagesAll": "64"
     }
 ]

@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "59",
+        "OrgTitle": "杜素吟",
+        "CaseCause": "建請市府儘速辦理「臺南市關廟區布袋里深坑子段840-3地號旁排水改善工程」，以確保人民生命財產安全。",
+        "ProNo": "8dc93722-266c-47c6-aa41-d8b67a2659d0",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "60",
+        "OrgTitle": "杜素吟",
+        "CaseCause": "建請市府儘速辦理「關廟區布袋里深坑子段884地號旁農路改善工程」，以利人車通行安全。",
+        "ProNo": "ef027d88-0aeb-4e21-8be2-bad89d27c4c5",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "61",
         "OrgTitle": "杜素吟",
         "CaseCause": "建請市府儘速辦理「新光里新埔段587-33地號前農路改善工程」，以利人車通行安全。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "鄭佳欣、余柷青",
         "CaseCause": "有關本市公共托育家園，建請市府朝向與鄰近校園結合，擴大服務對象。",
         "ProNo": "76bb8fd0-21b0-4fee-a550-a22ba1389e1c",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "44",
-        "OrgTitle": "朱正軒、余柷青",
-        "CaseCause": "為因應高齡化社會長照需求，並應處少子化社會學校空間閒置，建請社會局與教育局盤點轄內校園閒置空間，媒合促參設引進長照單位，就近提供長照服務，優化高齡者之友善照顧。",
-        "ProNo": "2985aecc-672d-43a5-9049-26edcd03ac3c",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "45",
-        "OrgTitle": "朱正軒、鄭佳欣、郭鴻儀、蔡筱薇、林依婷、陳秋宏、余柷青、沈家鳳",
-        "CaseCause": "建請衛生局擴大孕前健康檢查補助項目，因應少子化問題，展現態度支持青年成家生育。",
-        "ProNo": "97554741-2cf5-488b-9ed7-2c0014273a7c",
         "PagesAll": "64"
     }
 ]

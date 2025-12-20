@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 臨時會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "4",
+        "OrgTitle": "蔡秋蘭",
+        "CaseCause": "建請市府改善西港區港東里轄區農地重劃區農路改善工程。",
+        "ProNo": "8d0ac810-05cb-4965-9553-a284e5932e8f",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/02\/17",
+        "GradeTime": "第4屆 第1次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "5",
+        "OrgTitle": "蔡育輝、尤榮智",
+        "CaseCause": "為使財經委員會成員能觀摩其他縣市地方發展建設成果，建請臺南市政府辦理國內經建考察活動，邀請臺南市議會財經委員會成員參加。",
+        "ProNo": "8db8d2bd-6782-4aeb-8dec-3741733c453c",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/02\/17",
+        "GradeTime": "第4屆 第1次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "6",
         "OrgTitle": "郭鴻儀、沈家鳳、蔡麗青",
         "CaseCause": "為提升本市遊蕩犬數量調研、TNVR措施與成效，建請市府編列預算，提供通報獎勵措施。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "請辦理麻豆區海埔76-2旁排水改善工程(第三期)，因年久失修，急需改善，以解決淹水問題。",
         "ProNo": "ec3e9e3c-9981-4ab3-a699-718dbb4d9cb6",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "29",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理六甲區中社里港子頭護岸改善工程，因年久失修，砌石構造崩塌造成路面塌陷，急需辦理改善，以利行車安全。",
-        "ProNo": "a663581b-edee-4a53-a2a3-c6d77369fd17",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "30",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理官田區官田溪支流排水改善工程，因目前土溝雜草叢生，妨礙排水，急需辦理改善，杜絕淹水。",
-        "ProNo": "aa404551-527e-4b8c-ad23-fe0bdd1fc25a",
         "PagesAll": "64"
     }
 ]
