@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>臺南市議員建議事項 - 得標廠商分析報告</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+    <style>
+        body { padding: 20px; background: #f5f5f5; }
+        .card { margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        .stat-card { text-align: center; padding: 20px; }
+        .stat-card h3 { font-size: 2.2rem; color: #0d6efd; margin: 0; }
+        .stat-card p { color: #666; margin: 5px 0 0 0; }
+        .chart-container { position: relative; height: 500px; }
+        .chart-container-large { position: relative; height: 600px; }
+        .table-container { background: white; padding: 20px; border-radius: 8px; }
+        h1 { color: #333; margin-bottom: 10px; }
+        h5 { color: #555; }
+        .loading { text-align: center; padding: 50px; }
+        .subtitle { color: #666; margin-bottom: 30px; }
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <h1 class="text-center">臺南市議員建議事項</h1>
+        <p class="text-center subtitle">得標廠商分析報告</p>
+
+        <div id="loading" class="loading">
+            <div class="spinner-border text-primary" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+            <p>載入資料中...</p>
+        </div>
+
+        <div id="content" style="display: none;">
+            <!-- Summary Stats -->
+            <div class="row">
+                <div class="col-md-2">
+                    <div class="card stat-card">
+                        <h3 id="total-records">-</h3>
+                        <p>總案件數</p>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="card stat-card">
+                        <h3 id="total-vendors">-</h3>
+                        <p>廠商總數</p>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="card stat-card">
+                        <h3 id="total-approved">-</h3>
+                        <p>核定金額總計 (千元)</p>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="card stat-card">
+                        <h3 id="avg-per-vendor">-</h3>
+                        <p>平均每廠商案件數</p>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="card stat-card">
+                        <h3 id="top-vendor-cases">-</h3>
+                        <p>最多案件廠商</p>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="card stat-card">
+                        <h3 id="year-range">-</h3>
+                        <p>年度範圍</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Vendor Charts Row 1 -->
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">得標廠商案件數排名 (前30名)</h5>
+                            <div class="chart-container-large">
+                                <canvas id="vendorCountChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">得標廠商核定金額排名 (前30名，千元)</h5>
+                            <div class="chart-container-large">
+                                <canvas id="vendorBudgetChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Vendor Charts Row 2 -->
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">廠商案件數分布</h5>
+                            <div class="chart-container">
+                                <canvas id="vendorDistChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">各年度得標廠商數量</h5>
+                            <div class="chart-container">
+                                <canvas id="vendorYearChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Vendor Concentration Analysis -->
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">廠商集中度分析</h5>
+                            <div class="chart-container">
+                                <canvas id="concentrationChart"></canvas>
+                            </div>
+                            <div id="concentration-stats" class="mt-3 small text-muted"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">新進 vs 既有廠商 (依年度)</h5>
+                            <div class="chart-container">
+                                <canvas id="newVsReturningChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Vendor by Area/Department -->
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">廠商主要服務地區 (前20名廠商)</h5>
+                            <div class="chart-container-large">
+                                <canvas id="vendorAreaChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">各地區得標廠商數</h5>
+                            <div class="chart-container-large">
+                                <canvas id="areaVendorCountChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Vendor by Department/Type -->
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">各機關案件數</h5>
+                            <div class="chart-container">
+                                <canvas id="deptChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">招標方式分布</h5>
+                            <div class="chart-container">
+                                <canvas id="typeChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Vendor Summary Table -->
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">廠商統計列表</h5>
+                    <div class="table-container">
+                        <table id="vendorTable" class="table table-striped table-hover" style="width:100%">
+                            <thead>
+                                <tr>
+                                    <th>排名</th>
+                                    <th>得標廠商</th>
+                                    <th>案件數</th>
+                                    <th>核定金額總計 (千元)</th>
+                                    <th>平均每案金額 (千元)</th>
+                                    <th>承辦機關</th>
+                                    <th>主要地區</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Full Data Table -->
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">完整案件資料</h5>
+                    <div class="table-container">
+                        <table id="dataTable" class="table table-striped table-hover" style="width:100%">
+                            <thead>
+                                <tr>
+                                    <th>年度</th>
+                                    <th>得標廠商</th>
+                                    <th>建議項目</th>
+                                    <th>地點</th>
+                                    <th>核定金額</th>
+                                    <th>機關</th>
+                                    <th>招標方式</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+    <script>
+        let allData = [];
+
+        Papa.parse('grants.csv', {
+            download: true,
+            header: true,
+            complete: function(results) {
+                allData = results.data.filter(row => row.year && row.year !== '');
+                processData();
+            }
+        });
+
+        function processData() {
+            const vendorStats = {};
+            const yearVendors = {};
+            const deptCounts = {};
+            const typeCounts = {};
+            const years = new Set();
+            let totalApproved = 0;
+            let recordsWithVendor = 0;
+
+            allData.forEach(row => {
+                const vendor = row.vendor ? row.vendor.trim() : '';
+                const approved = parseFloat(row.budget_approved) || 0;
+                const year = row.year;
+
+                years.add(year);
+                totalApproved += approved;
+
+                if (row.department) {
+                    deptCounts[row.department] = (deptCounts[row.department] || 0) + 1;
+                }
+                if (row.type) {
+                    typeCounts[row.type] = (typeCounts[row.type] || 0) + 1;
+                }
+
+                if (vendor) {
+                    recordsWithVendor++;
+                    if (!vendorStats[vendor]) {
+                        vendorStats[vendor] = {
+                            count: 0,
+                            totalBudget: 0,
+                            departments: {},
+                            areas: {}
+                        };
+                    }
+                    vendorStats[vendor].count++;
+                    vendorStats[vendor].totalBudget += approved;
+
+                    if (row.department) {
+                        vendorStats[vendor].departments[row.department] =
+                            (vendorStats[vendor].departments[row.department] || 0) + 1;
+                    }
+                    if (row.area) {
+                        vendorStats[vendor].areas[row.area] =
+                            (vendorStats[vendor].areas[row.area] || 0) + 1;
+                    }
+
+                    if (!yearVendors[year]) yearVendors[year] = new Set();
+                    yearVendors[year].add(vendor);
+                }
+            });
+
+            const sortedYears = Array.from(years).sort((a, b) => parseInt(a) - parseInt(b));
+            const totalVendors = Object.keys(vendorStats).length;
+            const vendorList = Object.entries(vendorStats)
+                .map(([name, stats]) => ({
+                    name,
+                    count: stats.count,
+                    totalBudget: stats.totalBudget,
+                    avgBudget: stats.count > 0 ? stats.totalBudget / stats.count : 0,
+                    topDept: Object.entries(stats.departments).sort((a,b) => b[1]-a[1])[0]?.[0] || '',
+                    topArea: Object.entries(stats.areas).sort((a,b) => b[1]-a[1])[0]?.[0] || ''
+                }))
+                .sort((a, b) => b.count - a.count);
+
+            // Update stats
+            document.getElementById('total-records').textContent = allData.length.toLocaleString();
+            document.getElementById('total-vendors').textContent = totalVendors.toLocaleString();
+            document.getElementById('total-approved').textContent = Math.round(totalApproved).toLocaleString();
+            document.getElementById('avg-per-vendor').textContent = (recordsWithVendor / totalVendors).toFixed(1);
+            document.getElementById('top-vendor-cases').textContent = vendorList[0]?.count || '-';
+            document.getElementById('year-range').textContent = `${sortedYears[0]}-${sortedYears[sortedYears.length-1]}`;
+
+            // Vendor count chart (top 30)
+            const top30ByCount = vendorList.slice(0, 30);
+            createHorizontalBarChart('vendorCountChart',
+                top30ByCount.map(v => v.name),
+                top30ByCount.map(v => v.count),
+                '案件數', '#0d6efd');
+
+            // Vendor budget chart (top 30)
+            const top30ByBudget = [...vendorList].sort((a,b) => b.totalBudget - a.totalBudget).slice(0, 30);
+            createHorizontalBarChart('vendorBudgetChart',
+                top30ByBudget.map(v => v.name),
+                top30ByBudget.map(v => Math.round(v.totalBudget)),
+                '核定金額', '#198754');
+
+            // Vendor distribution (how many vendors have X cases)
+            const distBuckets = {'1件': 0, '2-5件': 0, '6-10件': 0, '11-20件': 0, '21-50件': 0, '51-100件': 0, '100件以上': 0};
+            vendorList.forEach(v => {
+                if (v.count === 1) distBuckets['1件']++;
+                else if (v.count <= 5) distBuckets['2-5件']++;
+                else if (v.count <= 10) distBuckets['6-10件']++;
+                else if (v.count <= 20) distBuckets['11-20件']++;
+                else if (v.count <= 50) distBuckets['21-50件']++;
+                else if (v.count <= 100) distBuckets['51-100件']++;
+                else distBuckets['100件以上']++;
+            });
+            createBarChart('vendorDistChart',
+                Object.keys(distBuckets),
+                Object.values(distBuckets),
+                '廠商數', '#6f42c1');
+
+            // Vendors per year
+            createBarChart('vendorYearChart',
+                sortedYears,
+                sortedYears.map(y => yearVendors[y]?.size || 0),
+                '廠商數', '#fd7e14');
+
+            // Department chart
+            const sortedDepts = Object.entries(deptCounts).sort((a,b) => b[1]-a[1]);
+            createHorizontalBarChart('deptChart',
+                sortedDepts.map(d => d[0]),
+                sortedDepts.map(d => d[1]),
+                '案件數', '#20c997');
+
+            // Type chart
+            const sortedTypes = Object.entries(typeCounts).sort((a,b) => b[1]-a[1]).slice(0, 10);
+            createPieChart('typeChart', sortedTypes.map(t => t[0]), sortedTypes.map(t => t[1]));
+
+            // Vendor Concentration Analysis
+            const totalBudgetWithVendor = vendorList.reduce((sum, v) => sum + v.totalBudget, 0);
+            const top10Budget = vendorList.slice(0, 10).reduce((sum, v) => sum + v.totalBudget, 0);
+            const top20Budget = vendorList.slice(0, 20).reduce((sum, v) => sum + v.totalBudget, 0);
+            const top50Budget = vendorList.slice(0, 50).reduce((sum, v) => sum + v.totalBudget, 0);
+            const restBudget = totalBudgetWithVendor - top50Budget;
+
+            createPieChart('concentrationChart',
+                ['前10名廠商', '第11-20名', '第21-50名', '其他廠商'],
+                [Math.round(top10Budget), Math.round(top20Budget - top10Budget), Math.round(top50Budget - top20Budget), Math.round(restBudget)]);
+
+            document.getElementById('concentration-stats').innerHTML =
+                `前10名廠商佔總金額 ${(top10Budget/totalBudgetWithVendor*100).toFixed(1)}%，` +
+                `前20名佔 ${(top20Budget/totalBudgetWithVendor*100).toFixed(1)}%，` +
+                `前50名佔 ${(top50Budget/totalBudgetWithVendor*100).toFixed(1)}%`;
+
+            // New vs Returning Vendors by Year
+            const seenVendors = new Set();
+            const newVendorsByYear = {};
+            const returningVendorsByYear = {};
+
+            sortedYears.forEach(year => {
+                newVendorsByYear[year] = 0;
+                returningVendorsByYear[year] = 0;
+                const yearVendorSet = yearVendors[year] || new Set();
+                yearVendorSet.forEach(vendor => {
+                    if (seenVendors.has(vendor)) {
+                        returningVendorsByYear[year]++;
+                    } else {
+                        newVendorsByYear[year]++;
+                        seenVendors.add(vendor);
+                    }
+                });
+            });
+
+            createStackedBarChart('newVsReturningChart', sortedYears,
+                [
+                    { label: '新進廠商', data: sortedYears.map(y => newVendorsByYear[y]), backgroundColor: '#0d6efd' },
+                    { label: '既有廠商', data: sortedYears.map(y => returningVendorsByYear[y]), backgroundColor: '#6c757d' }
+                ]);
+
+            // Vendor-Area Analysis (top 20 vendors and their primary areas)
+            const top20Vendors = vendorList.slice(0, 20);
+            const vendorAreaData = top20Vendors.map(v => {
+                const topAreas = Object.entries(vendorStats[v.name].areas)
+                    .sort((a, b) => b[1] - a[1])
+                    .slice(0, 3)
+                    .map(a => a[0]);
+                return { name: v.name, areas: topAreas.join(', '), count: v.count };
+            });
+            createHorizontalBarChart('vendorAreaChart',
+                vendorAreaData.map(v => `${v.name} (${v.areas})`),
+                vendorAreaData.map(v => v.count),
+                '案件數', '#6f42c1');
+
+            // Area-Vendor Count (how many vendors serve each area)
+            const areaVendorCounts = {};
+            allData.forEach(row => {
+                const vendor = row.vendor ? row.vendor.trim() : '';
+                const area = row.area;
+                if (vendor && area) {
+                    if (!areaVendorCounts[area]) areaVendorCounts[area] = new Set();
+                    areaVendorCounts[area].add(vendor);
+                }
+            });
+            const sortedAreaVendors = Object.entries(areaVendorCounts)
+                .map(([area, vendors]) => ({ area, count: vendors.size }))
+                .sort((a, b) => b.count - a.count)
+                .slice(0, 30);
+            createHorizontalBarChart('areaVendorCountChart',
+                sortedAreaVendors.map(a => a.area),
+                sortedAreaVendors.map(a => a.count),
+                '廠商數', '#fd7e14');
+
+            // Vendor summary table
+            $('#vendorTable').DataTable({
+                data: vendorList.map((v, i) => ({
+                    rank: i + 1,
+                    name: v.name,
+                    count: v.count,
+                    totalBudget: Math.round(v.totalBudget).toLocaleString(),
+                    avgBudget: Math.round(v.avgBudget).toLocaleString(),
+                    dept: v.topDept,
+                    area: v.topArea
+                })),
+                columns: [
+                    { data: 'rank' },
+                    { data: 'name' },
+                    { data: 'count' },
+                    { data: 'totalBudget' },
+                    { data: 'avgBudget' },
+                    { data: 'dept' },
+                    { data: 'area' }
+                ],
+                pageLength: 25,
+                language: { url: '//cdn.datatables.net/plug-ins/1.13.6/i18n/zh-HANT.json' },
+                order: [[2, 'desc']]
+            });
+
+            // Full data table (only records with vendors)
+            const dataWithVendors = allData.filter(row => row.vendor && row.vendor.trim());
+            $('#dataTable').DataTable({
+                data: dataWithVendors,
+                columns: [
+                    { data: 'year' },
+                    { data: 'vendor' },
+                    { data: 'content' },
+                    { data: 'area' },
+                    { data: 'budget_approved' },
+                    { data: 'department' },
+                    { data: 'type' }
+                ],
+                pageLength: 25,
+                language: { url: '//cdn.datatables.net/plug-ins/1.13.6/i18n/zh-HANT.json' },
+                order: [[0, 'desc']]
+            });
+
+            document.getElementById('loading').style.display = 'none';
+            document.getElementById('content').style.display = 'block';
+        }
+
+        function createBarChart(canvasId, labels, data, label, color) {
+            new Chart(document.getElementById(canvasId), {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{ label, data, backgroundColor: color, borderColor: color, borderWidth: 1 }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: { legend: { display: false } },
+                    scales: { y: { beginAtZero: true } }
+                }
+            });
+        }
+
+        function createHorizontalBarChart(canvasId, labels, data, label, color) {
+            new Chart(document.getElementById(canvasId), {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{ label, data, backgroundColor: color, borderColor: color, borderWidth: 1 }]
+                },
+                options: {
+                    indexAxis: 'y',
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: { legend: { display: false } },
+                    scales: { x: { beginAtZero: true } }
+                }
+            });
+        }
+
+        function createPieChart(canvasId, labels, data) {
+            const colors = ['#0d6efd', '#198754', '#dc3545', '#ffc107', '#0dcaf0', '#6f42c1', '#fd7e14', '#20c997', '#6c757d', '#d63384'];
+            new Chart(document.getElementById(canvasId), {
+                type: 'doughnut',
+                data: {
+                    labels: labels,
+                    datasets: [{ data, backgroundColor: colors.slice(0, labels.length) }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: { legend: { position: 'right', labels: { boxWidth: 12 } } }
+                }
+            });
+        }
+
+        function createStackedBarChart(canvasId, labels, datasets) {
+            new Chart(document.getElementById(canvasId), {
+                type: 'bar',
+                data: { labels, datasets },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: { legend: { position: 'top' } },
+                    scales: {
+                        x: { stacked: true },
+                        y: { stacked: true, beginAtZero: true }
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+</html>
