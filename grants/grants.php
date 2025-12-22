@@ -1,113 +1,214 @@
 <?php
 
-$path = dirname(__DIR__);
-$cacheFolder = $path . '/cache/grants';
-$targetFolder = __DIR__ . '/dirty';
+$rawFolder = __DIR__ . '/raw';
+$csvFile = __DIR__ . '/grants.csv';
 
-if (!file_exists($cacheFolder)) {
-    mkdir($cacheFolder, 0777, true);
-}
+$allData = [];
+$header = ['year', 'name', 'content', 'area', 'budget_submitted', 'budget_approved', 'account', 'department', 'type', 'vendor'];
 
-if (!file_exists($targetFolder)) {
-    mkdir($targetFolder, 0777, true);
-}
-
-$data = array();
-
-foreach (glob($targetFolder . '/*') AS $txtFile) {
-    $txtContent = file_get_contents($txtFile);
-    $year = substr($txtFile, 0, strpos($txtFile, '.'));
-    $data[$year] = array();
-    if (substr($txtFile, -3) === 'txt') {
-        continue;
-        $lines = explode("\n", $txtContent);
-        foreach ($lines AS $line) {
-            $cols = explode(' ', $line);
-            if (count($cols) === 9) {
-                $data[$year][] = array(
-                    'name' => $cols[0],
-                    'area' => $cols[1],
-                    'budget_submitted' => $cols[2],
-                    'budget_approved' => $cols[3],
-                    'account' => $cols[4],
-                    'department' => $cols[6],
-                    'type' => $cols[7],
-                    'vendor' => $cols[8],
-                );
-            }
-        }
+foreach (glob($rawFolder . '/*.ods') as $odsFile) {
+    $filename = basename($odsFile);
+    // Extract year from filename (e.g., "101年度", "臺南市政府102年度")
+    if (preg_match('/(\d{2,3})年度/', $filename, $matches)) {
+        $year = $matches[1];
     } else {
-        $pos = strpos($txtContent, '<table');
-        while (false !== $pos) {
-            $pos = strpos($txtContent, '>', $pos + 1) + 1;
-            $posEnd = strpos($txtContent, '</table', $pos);
-            $subContent = substr($txtContent, $pos, $posEnd - $pos);
-            $lines = explode('</tr>', $subContent);
-            foreach ($lines AS $line) {
-                $cols = explode('</td>', $line);
-                foreach ($cols AS $k => $col) {
-                    $cols[$k] = trim(strip_tags(str_replace(array('翊', ' '), '', $col)));
-                }
-                if (isset($cols[1]) && (false !== strpos($cols[1], '區'))) {
-                    $data[$year][] = array(
-                        'name' => $cols[0],
-                        'area' => $cols[1],
-                        'budget_submitted' => $cols[2],
-                        'budget_approved' => $cols[3],
-                        'account' => $cols[4],
-                        'department' => $cols[5],
-                        'type' => $cols[6],
-                        'vendor' => isset($cols[7]) ? $cols[7] : '',
-                    );
-                }
-            }
-            $pos = strpos($txtContent, '<table', $posEnd);
-        }
+        continue;
+    }
+
+    $rows = parseOdsFile($odsFile);
+    foreach ($rows as $row) {
+        $row['year'] = $year;
+        $allData[] = $row;
     }
 }
 
-file_put_contents(__DIR__ . '/grants.json', json_encode($data));
+// Sort by year
+usort($allData, function ($a, $b) {
+    return $a['year'] <=> $b['year'];
+});
 
-exit();
-
-/*
- * The code below is a slow method
- */
-
-$listFile = $cacheFolder . '/list';
-if (!file_exists($listFile)) {
-    file_put_contents($listFile, file_get_contents('http://www.tainan.gov.tw/tainan/Grants.asp?nsub=A6C400'));
+// Write CSV
+$fp = fopen($csvFile, 'w');
+fputcsv($fp, $header);
+foreach ($allData as $row) {
+    fputcsv($fp, [
+        $row['year'],
+        $row['name'],
+        $row['content'],
+        $row['area'],
+        $row['budget_submitted'],
+        $row['budget_approved'],
+        $row['account'],
+        $row['department'],
+        $row['type'],
+        $row['vendor'],
+    ]);
 }
-$list = file_get_contents($listFile);
-$pos = strpos($list, 'warehouse/A60000');
-while (false !== $pos) {
-    $posEnd = strpos($list, '"', $pos + 1);
-    $fileUrl = 'http://www.tainan.gov.tw/tainan/' . substr($list, $pos, $posEnd - $pos);
-    $fileToken = md5($fileUrl);
-    $fileCache = "{$cacheFolder}/file_" . $fileToken;
-    echo "{$fileUrl}\n{$fileCache}\n\n";
-    $pos = strpos($list, 'warehouse/A60000', $pos + 1);
-    continue;
+fclose($fp);
 
-    if (!file_exists($fileCache) || filesize($fileCache) === 0) {
-        $sPos = strrpos($fileUrl, '/');
-        file_put_contents($fileCache, file_get_contents(substr($fileUrl, 0, $sPos + 1) . urlencode(substr($fileUrl, $sPos + 1))));
+echo "Generated {$csvFile} with " . count($allData) . " records.\n";
+
+function parseOdsFile($odsFile)
+{
+    $rows = [];
+
+    $zip = new ZipArchive();
+    if ($zip->open($odsFile) !== true) {
+        return $rows;
     }
-    if (file_exists($fileCache) && !file_exists($fileCache . '.txt')) {
-        exec("java -cp /usr/share/java/commons-logging.jar:/usr/share/java/fontbox.jar:/usr/share/java/pdfbox.jar org.apache.pdfbox.PDFBox ExtractText {$fileCache} tmp.txt");
+
+    $content = $zip->getFromName('content.xml');
+    $zip->close();
+
+    if (empty($content)) {
+        return $rows;
     }
-    if (file_exists('tmp.txt')) {
-        copy('tmp.txt', $fileCache . '.txt');
-        unlink('tmp.txt');
-    }
-    if (file_exists($fileCache . '.txt')) {
-        $txtContent = file_get_contents($fileCache . '.txt');
-        if (false === strpos($txtContent, '建議事項')) {
-            exec("gs -dNOPAUSE -dNumRenderingThreads=4 -sDEVICE=jpeg -sOutputFile={$fileToken}-%04d.jpg -dJPEGQ=90 -r150x150 -q {$fileCache} -c quit");
-            foreach (glob($fileToken . '*') AS $jpgFile) {
-                exec("/usr/bin/tesseract {$jpgFile} {$jpgFile} -l chi_tra");
+
+    // Parse XML
+    $xml = new DOMDocument();
+    $xml->loadXML($content);
+
+    $xpath = new DOMXPath($xml);
+    $xpath->registerNamespace('table', 'urn:oasis:names:tc:opendocument:xmlns:table:1.0');
+    $xpath->registerNamespace('text', 'urn:oasis:names:tc:opendocument:xmlns:text:1.0');
+    $xpath->registerNamespace('office', 'urn:oasis:names:tc:opendocument:xmlns:office:1.0');
+
+    $tableRows = $xpath->query('//table:table-row');
+
+    // Collect all header text from first several rows
+    $allHeaderText = '';
+    $rowCount = 0;
+    foreach ($tableRows as $tableRow) {
+        if ($rowCount++ >= 10) break;
+        $cells = $xpath->query('table:table-cell', $tableRow);
+        foreach ($cells as $cell) {
+            $textNodes = $xpath->query('.//text:p', $cell);
+            foreach ($textNodes as $textNode) {
+                $allHeaderText .= $textNode->textContent . ' ';
             }
         }
     }
-    $pos = strpos($list, 'warehouse/A60000', $pos + 1);
+
+    // Detect format: 'full' (with name column), 'no_name' (with budget), 'minimal' (no budget)
+    $hasNameColumn = (mb_strpos($allHeaderText, '議員') !== false && mb_strpos($allHeaderText, '姓名') !== false);
+    $hasBudgetColumn = (mb_strpos($allHeaderText, '建議') !== false && mb_strpos($allHeaderText, '金額') !== false);
+
+    if ($hasNameColumn) {
+        $format = 'full';
+    } elseif ($hasBudgetColumn) {
+        $format = 'no_name';
+    } else {
+        $format = 'minimal';
+    }
+
+    foreach ($tableRows as $tableRow) {
+        $cells = $xpath->query('table:table-cell|table:covered-table-cell', $tableRow);
+        $cellValues = [];
+
+        foreach ($cells as $cell) {
+            // Handle repeated columns
+            $repeat = $cell->getAttribute('table:number-columns-repeated');
+            $repeatCount = $repeat ? (int)$repeat : 1;
+
+            // Skip covered cells (merged cells placeholders)
+            if ($cell->nodeName === 'table:covered-table-cell') {
+                for ($i = 0; $i < $repeatCount && count($cellValues) < 20; $i++) {
+                    $cellValues[] = '';
+                }
+                continue;
+            }
+
+            // Get cell value - prefer office:value for numbers, otherwise get text content
+            $value = '';
+            if ($cell->hasAttribute('office:value')) {
+                $value = $cell->getAttribute('office:value');
+            } elseif ($cell->hasAttribute('office:string-value')) {
+                $value = $cell->getAttribute('office:string-value');
+            } else {
+                // Get text from text:p elements
+                $textNodes = $xpath->query('.//text:p', $cell);
+                $textParts = [];
+                foreach ($textNodes as $textNode) {
+                    $textParts[] = $textNode->textContent;
+                }
+                $value = implode(' ', $textParts);
+            }
+
+            // Clean up value - replace newlines and multiple spaces
+            $value = preg_replace('/[\r\n]+/', ' ', $value);
+            $value = preg_replace('/\s+/', ' ', $value);
+            $value = trim($value);
+
+            for ($i = 0; $i < $repeatCount && count($cellValues) < 20; $i++) {
+                $cellValues[] = $value;
+            }
+        }
+
+        // Determine area index based on format
+        switch ($format) {
+            case 'full':
+                $areaIndex = 2;
+                $minCols = 9;
+                break;
+            case 'no_name':
+                $areaIndex = 1;
+                $minCols = 8;
+                break;
+            case 'minimal':
+            default:
+                $areaIndex = 1;
+                $minCols = 6;
+                break;
+        }
+
+        // Skip header rows and empty rows
+        // Data rows should have area column containing "區"
+        if (count($cellValues) >= $minCols && isset($cellValues[$areaIndex]) && mb_strpos($cellValues[$areaIndex], '區') !== false) {
+            switch ($format) {
+                case 'full':
+                    $rows[] = [
+                        'name' => $cellValues[0],
+                        'content' => $cellValues[1],
+                        'area' => $cellValues[2],
+                        'budget_submitted' => $cellValues[3],
+                        'budget_approved' => $cellValues[4],
+                        'account' => $cellValues[5],
+                        'department' => $cellValues[6],
+                        'type' => $cellValues[7],
+                        'vendor' => isset($cellValues[8]) ? $cellValues[8] : '',
+                    ];
+                    break;
+                case 'no_name':
+                    $rows[] = [
+                        'name' => '',
+                        'content' => $cellValues[0],
+                        'area' => $cellValues[1],
+                        'budget_submitted' => $cellValues[2],
+                        'budget_approved' => $cellValues[3],
+                        'account' => $cellValues[4],
+                        'department' => $cellValues[5],
+                        'type' => $cellValues[6],
+                        'vendor' => isset($cellValues[7]) ? $cellValues[7] : '',
+                    ];
+                    break;
+                case 'minimal':
+                default:
+                    // 6 columns: content, area, account, department, type, vendor
+                    $rows[] = [
+                        'name' => '',
+                        'content' => $cellValues[0],
+                        'area' => $cellValues[1],
+                        'budget_submitted' => '',
+                        'budget_approved' => '',
+                        'account' => $cellValues[2],
+                        'department' => $cellValues[3],
+                        'type' => $cellValues[4],
+                        'vendor' => isset($cellValues[5]) ? $cellValues[5] : '',
+                    ];
+                    break;
+            }
+        }
+    }
+
+    return $rows;
 }
