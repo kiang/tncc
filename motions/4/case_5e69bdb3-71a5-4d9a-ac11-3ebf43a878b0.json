@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "51",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "陳昆和",
+    "OrgTitle2": "吳禹寰、杜素吟、趙昆原、周奕齊、盧崑福",
+    "CaseCause": "請儘速辦理七股區南33-1區道樹林國小前至義合里173線道道路改善工程。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"本市七股區南33-1區道樹林里至義合里173線道道路，道路損壞龜裂，造成車輛行車不便，有危及民眾生命安全之疑慮，應立即改善以維護居民生命財產之安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/10\/27",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2025\/10\/29",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2025\/11\/11",
+    "SendNumber": "南議工務字第 1140010347號",
+    "DoDesc": "",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e716f113-ff60-4dbf-bdd7-280a53258958",
+            "FileName": "府工養二字第1141577831號-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5e69bdb3-71a5-4d9a-ac11-3ebf43a878b0&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2025\/12\/02",
+    "ExecuteReNumber": "府工養二字第 1141577831號",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

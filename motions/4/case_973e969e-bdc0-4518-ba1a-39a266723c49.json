@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第9次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "9",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/07\/18",
+    "ComeNumber": "府衛照字第1140960006號",
+    "OrgTitle": "臺南市政府衛生局",
+    "OrgTitle2": "",
+    "CaseCause": "衛生福利部獎助本市114年度「住宿機構照顧品質獎勵計畫」(依長服法設立之住宿式長照機構)，行政費經費新臺幣7萬6,000元整乙案（中央全額補助），為爭取時效，謹請貴會同意墊付，俾憑辦理後續相關作業事宜，俟115年總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據衛生福利部114年6月30日衛部顧字第1141961856號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案經費中央核定項目為直轄市、縣(市)政府行政費，共補助7萬6,000元整（中央全額補助），因未及納入本府114年度總預算，為爭取時效，謹請貴會同意墊付，俟115年總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年7月15日第706次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本案為使機構之照顧服務品質更為符合服務對象之照顧需求，鼓勵機構藉由資訊系統及智慧照顧輔助科技減少工作人員紙本作業，並提升既有住宿機構服務標準，完善服務對象照顧品質並穩定營運規模及達到永續經營之目標，並依衛生福利部114年6月30日衛部顧字第1141961856號函核定本市住宿機構(依長服法設立住宿式長照機構)執行計畫，未及納入114年度總預算，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年總預算時辦理轉正。\"}]",
+    "CheckDate": "2025\/08\/11",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2025\/08\/18",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2025\/08\/21",
+    "SendNumber": "南議環衛字第 1140007922號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=786b4416-7bb1-4260-a045-d3b69d7eb2ab",
+            "FileName": "4-9臨 環衛市提第9號-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=973e969e-bdc0-4518-ba1a-39a266723c49&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2025\/07\/28",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

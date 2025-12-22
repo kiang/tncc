@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第9次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "3",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "沈家鳳",
+    "OrgTitle2": "蔡筱薇、陳秋宏、蔡麗青、朱正軒、黃麗招、陳皇宇、黄肇輝、謝舒凡、余柷青",
+    "CaseCause": "建請市府環保局制定並公告「災後垃圾清運標準作業流程（SOP）」，統一各區公所及相關單位作法，確保災後廢棄物清運快速、有序且安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本次丹娜絲颱風造成大量廢棄物，包括風災垃圾、大型傢俱、石綿磚瓦、廢農膜、倒伏樹木等。許多民眾反映不清楚該如何處理，且向不同公所詢問得到的指引不一致，導致清運效率降低、堆置時間過長，甚至造成二次環境污染。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"嘉義縣於災後第一時間即公告各類垃圾的通報與清運方式，並透過社群媒體、官網及地方廣播快速傳達，成效良好。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"臺南市需建立統一且可立即啟動的SOP，明確定義各類廢棄物的通報管道、處理單位、清運時程與安全注意事項，並要求各區公所依此執行，避免資訊落差與民怨。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/08\/14",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2025\/08\/18",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2025\/08\/21",
+    "SendNumber": "南議環衛字第 1140007947號",
+    "DoDesc": "本府就「建請市府環保局制定並公告「災後垃圾清運標準作業流程(SOP)」,統一各區公所及相關單位作法,確保災後廢棄物清運快速、有序且安全。」案，敬答覆如下：\r\n一、目前針對風災後各類廢棄物，經各單位討論後權責分工如附件。  \r\n二、 針對一般家戶風災廢棄物，已請區公所及里長協助向民眾說明宣導；農損廢棄物則由農業局及農會協助說明宣導，環保局將持續加強宣導周知。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c7a72d7e-89b1-436a-9c7e-d41b9867d3d1",
+            "FileName": "市府回復-4-9臨 議提第3號案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=029fc583-89eb-4051-948f-6eadddf65fba&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2025\/09\/04",
+    "ExecuteReNumber": "府環清字第 1141199028號",
+    "ExecuteReMemo": "本府就「建請市府環保局制定並公告「災後垃圾清運標準作業流程(SOP)」,統一各區公所及相關單位作法,確保災後廢棄物清運快速、有序且安全。」案，敬答覆如下：\r\n一、目前針對風災後各類廢棄物，經各單位討論後權責分工如附件。  \r\n二、 針對一般家戶風災廢棄物，已請區公所及里長協助向民眾說明宣導；農損廢棄物則由農業局及農會協助說明宣導，環保局將持續加強宣導周知。",
+    "ErrorMessage": ""
+}

@@ -19,8 +19,8 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=273f3069-ab57-485d-ae86-79fc3985a5cc",
-            "FileName": "附件---4-5定法規巿提4-修訂「臺南市公民投票自治條例」草案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4f2dcc25-fc64-4c08-bcb1-32ce4f7d2e63",
+            "FileName": "總說明、對照表及修正條文---4-5定-法規巿提4--臺南巿公民投票自治條例.pdf",
             "ErrorMessage": ""
         }
     ],
@@ -28,18 +28,18 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=79c19d87-e317-43dd-ab46-b418aaa92ba8&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=52e86654-a58b-4ed2-9f04-1756bac36ed8",
-            "FileName": "附件1---4-5定-1140617法規委員會第2次議案審查會議紀錄.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5be70c15-2473-4fd3-a91d-ccd36cfec7ff",
+            "FileName": "審查意見報告書-4-5定第2次議案審查-巿提4-6號案.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=db470ccc-a242-43f8-b1e5-a5e43362f6cb",
-            "FileName": "附件1-2--審查意見報告書--4-5定法規巿提4.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=34f3f101-980a-4388-8612-9246a16e80a9",
+            "FileName": "審查結果對照表-4-5定法規巿提4號--修正台南巿公民投票自治條例.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=996904ed-80f6-41ec-ac5e-3b88affd2e66",
-            "FileName": "附件1-3--審查結果對照表--4-5定-法規巿提4.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=948be85d-56cd-498f-badd-65afb410f7ff",
+            "FileName": "會議紀錄--4-5定法規巿提4-6號案--法規委員會第2次議案審查.pdf",
             "ErrorMessage": ""
         }
     ],
@@ -47,6 +47,11 @@
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8e36b9d0-27ed-4fbf-af34-01d12976f5f4",
             "FileName": "4-5定法規巿提4-大會決議對照表(公投).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0a65a2d7-9e5c-45f3-920e-af3e0717b9c8",
+            "FileName": "大會決議-4-5定-25次會-2-6號案-1140702.pdf",
             "ErrorMessage": ""
         }
     ],

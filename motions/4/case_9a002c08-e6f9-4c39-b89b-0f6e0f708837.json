@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "61",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "Ingay Tali 穎艾達利、周奕齊",
+    "OrgTitle2": "邱莉莉、陳怡珍、吳通龍、方一峰、鄭佳欣、吳禹寰、許至椿、陳昆和、李啓維、陳皇宇、李宗霖、朱正軒、周麗津、李中岑、陳秋萍、余柷青、蔡筱薇、李宗翰、林冠維、蔡淑惠、李偉智、王宣貿、施余興望 Tjakumay Tagaw、周嘉韋、趙昆原、蔡育輝",
+    "CaseCause": "建請市府與市議會實踐生態友善政策精神，精進窗殺防止積極對策。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為「推動友善生命建築設計、減少飛禽窗殺問題，落實建構友善動物保護計畫，實踐綠色環境政策」，本席前於第四屆第一次定期會以臨時動議第5號提案(參附表一)，幸獲本會先進同仁共同響應支持，合先敘明。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"惟於前項提案後迄今除農業局曾進行二次府內教育訓練講座後，並未見諸具體實踐作為。乃至各公共建物與機關學校仍不時傳出窗殺狀況，日前更在臺南市議會永華議事廳一樓外牆發現鳥拓與窗殺案例(參附圖一、二)，且經詢環境清理人員表示過去即有相關事例。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"是故建請市府應踐行前揭提案之覆函承諾(即20230717府農森字第1120903905A號函)，「公有機關學校等建物參酌積極漸次改善、轄内之中央管轄建物(如高鐵站體、高中以上學校單位、中央所屬機關建物)逐級反應促其改善，農政與教育部門納入動物保護與生命教育之宣導内容」、「進行公共建設營造時，於窗戶設計階段將鳥類友善玻璃、窗殺防治方法等項目納入評分考量」「農業局爾後將預防鳥類窗殺納入年度動物保護與生態多樣性教育之宣導內容」，並規劃經費(如2024年度之「推動野生動植物合理利用管理模式」)以協助包括但不限於臺南市議會等機關學校單位進行窗殺防止之積極作為。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2025\/12\/01",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2025\/12\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2025\/12\/11",
+    "SendNumber": "南議財經字第 1140012071號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b0e2108e-b9c0-4a2c-af22-7bd2aef61f2c",
+            "FileName": "附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9a002c08-e6f9-4c39-b89b-0f6e0f708837&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

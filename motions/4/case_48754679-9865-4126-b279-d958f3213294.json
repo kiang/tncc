@@ -1,0 +1,65 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2025\/10\/07",
+    "ComeNumber": "府經場攤字第1141397562號",
+    "OrgTitle": "臺南市政府經濟發展局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市攤販管理自治條例第六條」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"考量本府列管之集合攤販多為本市攤販管理自治條例施行前已營業之集合攤販，自治組織已經營許久且營業範圍固定，且基於近年來自治組織反映申請許可程序繁瑣，對長期穩定經營之集合攤販帶來負擔，爰擬具本修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經114年10月7日第718次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市攤販管理自治條例第六條」修正草案(含總說明、逐條說明及草案條文)1份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "2025\/12\/02",
+    "CheckDesc": "照案通過，詳審查結果對照表。",
+    "DoneDate": "2025\/12\/04",
+    "DoneDesc": "照二讀會決議通過。",
+    "SendDate": "2025\/12\/12",
+    "SendNumber": "南議法規字第 1140012298號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b2fcfccb-f82d-4f1e-9630-d8b46a8e278d",
+            "FileName": "總說明、逐條說明及修正條文-4-6定法規巿提3-台南巿攤販管理自治條例第六條修正草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=48754679-9865-4126-b279-d958f3213294&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=932d8686-140a-4b0e-9e81-36c00ca990b6",
+            "FileName": "審查意見報告書--4-6定第2、3次--法規巿提2~6號案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7fbb2aa9-9ced-4286-88f4-a11770cb037c",
+            "FileName": "審查結果對照表--4-6定法規巿提3-修訂「臺南市攤販管理自治條例第六條」草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9fdcfa96-2191-4888-9ea0-22a4343656ba",
+            "FileName": "會議紀錄-4-6定法規委員會第2次議案審查.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=95986ec8-f062-46c6-936e-94331d20825a",
+            "FileName": "4-6定---1204第25次會紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "2025\/10\/23",
+    "ReDesc": "照二讀會決議通過。",
+    "FirstDate": "2025\/10\/29",
+    "FirstDesc": "交付法規委員會審查。",
+    "SecondDate": "2025\/12\/04",
+    "SecondDesc": "照審查意見通過。",
+    "ThirdDate": "2025\/12\/04",
+    "ThirdDesc": "照二讀會決議通過。",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

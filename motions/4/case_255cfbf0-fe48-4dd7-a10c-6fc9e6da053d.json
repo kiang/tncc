@@ -14,11 +14,17 @@
     "CheckDesc": "照案通過。",
     "DoneDate": "2025\/07\/02",
     "DoneDesc": "照審查意見通過。",
-    "SendDate": "",
-    "SendNumber": "",
-    "DoDesc": "",
+    "SendDate": "2025\/07\/16",
+    "SendNumber": "南議工務字第 1140006334號",
+    "DoDesc": "本府就「建請儘速核定「114年七股區大埕里港墘中排排水改善工程」，以維護排水系統流暢、用路人安全及提升生活品質」案，敬答覆如下：\r\n有關七股區大埕里港墘中排排水改善一案，於114年1月17日進行現場會勘並於114年3月7日收到公所提案單，後續由水利局錄案研擬經費辦理。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9bacc12c-24d8-4691-bd4c-0b50e498821d",
+            "FileName": "4-5定工務議提264回函.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=255cfbf0-fe48-4dd7-a10c-6fc9e6da053d&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/07\/28",
+    "ExecuteReNumber": "府水工字第 1141047109號",
+    "ExecuteReMemo": "本府就「建請儘速核定「114年七股區大埕里港墘中排排水改善工程」，以維護排水系統流暢、用路人安全及提升生活品質」案，敬答覆如下：\r\n有關七股區大埕里港墘中排排水改善一案，於114年1月17日進行現場會勘並於114年3月7日收到公所提案單，後續由水利局錄案研擬經費辦理。",
     "ErrorMessage": ""
 }

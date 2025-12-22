@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "19",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/11\/25",
+    "ComeNumber": "府都管字第1141618500號",
+    "OrgTitle": "臺南市政府都市發展局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部國土管理署核定本府「113年度直轄市、縣(市)政府辦理土地利用監測作業成果評鑑」都市土地組為模範獎-銀獎第4名及補助獎勵費用，新臺幣20萬元整（全額為中央補助款），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部國土管理署114年10月28日國署計字第1141199995號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費20萬元（全額為中央補助款），因未及納入本府115年度總預算，為爭取時效，謹請貴會同意先行墊付，俟115年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年11月25日第725次市政會議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案係內政部國土管理署依據「直轄市、縣(市)政府辦理土地利用監測作業評鑑及補助獎勵要點」辦理113年度直轄市、縣(市)政府辦理土地利用監測作業成果評鑑，經與各縣市評比後，本府獲頒都市土地組模範獎-銀獎第4名(獎勵費用20萬元)，考量須於核定補助款發文日之次日起2個月內提出申請，爰為爭取辦理時效，於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2025\/12\/04",
+    "DoneDesc": "同意墊付。",
+    "SendDate": "2025\/12\/10",
+    "SendNumber": "南議建設字第 1140011845號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6ce199f7-ef09-4c31-a8c2-fa80530c052a",
+            "FileName": "1141028國土署核定113年度直轄市、縣(市)政府辦理土地利用監測作業成果評鑑核定結果.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3913f955-66b2-4309-bf3a-fb983f5be7e6",
+            "FileName": "核定額度表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=38603310-4017-43a2-8f5c-cb62280c104a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "同意墊付。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

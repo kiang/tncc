@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "23",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "趙昆原、周麗津、陳怡珍、林冠維、李中岑、曾之婕、吳通龍",
+    "CaseCause": "建請臺南市政府教育局儘速於新化區𦰡拔國小兒童遊樂設施上增設遮陽棚，避免孩童因日曬高溫中暑及燙傷。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"為使孩童能在安全及舒適的環境下使用遊樂設施，建請臺南市政府教育局於新化𦰡拔國小遊樂設施上增設遮陽設備。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/11\/28",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2025\/12\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2025\/12\/10",
+    "SendNumber": "南議民教字第 1140011908號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d5c949b0-c16d-4365-9a9b-1a37f0fab778",
+            "FileName": "民教201(教育局)議提圖示-李偉智議員(新化𦰡拔國小兒童遊樂設施).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=bcc47af4-42d2-477c-8ffd-dcdb7888d702&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

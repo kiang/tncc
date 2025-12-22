@@ -1,0 +1,70 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2025\/10\/16",
+    "ComeNumber": "府經商字第1141442891號",
+    "OrgTitle": "臺南市政府經濟發展局",
+    "OrgTitle2": "",
+    "CaseCause": "擬具「臺南市自助選物販賣事業管理自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為加強管理本市自助選物販賣機，亦即俗稱之夾娃娃機，規範自助選物販賣事業之經營地點與應遵守之相關規定，以保障兒童及少年身心健全發展，爰擬具本自治條例草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案前經臺南市議會於114年4月25日決議撤案(臺南市議會114年5月2日南議法規字第1140002768號函)，另經蒐集各方意見並調整後，並經114年10月14日第719次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市自助選物販賣事業管理自治條例」制定草案(含總說明、逐條說明及草案條文)1份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "2025\/12\/02",
+    "CheckDesc": "照案通過，詳審查結果對照表。",
+    "DoneDate": "2025\/12\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2025\/12\/12",
+    "SendNumber": "南議法規字第 1140012311號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=217ea087-1a1b-43ff-8833-2697ad9b7f91",
+            "FileName": "參考資料-4-6定法規巿提5-臺南市自助選物販賣事業管理自治條例草案-含七縣巿比較表.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ff977c2b-5b23-46e2-9f01-a91b0a4c38d5",
+            "FileName": "總說明、逐條說明及修正條文-4-6定法規巿提5-臺南市自助選物販賣事業管理自治條例草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2a01ddfb-b80b-46a9-ba33-c04b1d3e3ebd&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5dd8b755-c616-432a-88fb-668f0f27c2ee",
+            "FileName": "審查意見報告書--4-6定第2、3次--法規巿提2~6號案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=90e29d4c-5c48-4f23-9941-4b29e40a5281",
+            "FileName": "審查結果對照表---4-6定-法規巿提5----臺南市自助選物販賣事業管理自治條例草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=127ebd4a-9e03-4340-bd94-5456aba87385",
+            "FileName": "會議紀錄-4-6定法規委員會第2次議案審查(巿提2~5號案).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5581bf7f-f492-4918-bad9-b437c377a3ce",
+            "FileName": "4-6定---1204第25次會紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "2025\/10\/23",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "2025\/10\/29",
+    "FirstDesc": "交付法規委員會審查。",
+    "SecondDate": "2025\/12\/04",
+    "SecondDesc": "照審查意見通過。",
+    "ThirdDate": "2025\/12\/04",
+    "ThirdDesc": "照二讀會決議通過。",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

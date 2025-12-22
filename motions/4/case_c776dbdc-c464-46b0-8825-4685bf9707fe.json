@@ -1,0 +1,85 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2025\/10\/16",
+    "ComeNumber": "府經商字第1141442891號",
+    "OrgTitle": "臺南市政府經濟發展局",
+    "OrgTitle2": "",
+    "CaseCause": "擬具「臺南市休閒活動場館事業管理自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為加強管理本市休閒活動場館事業，如經營棋牌、麻將、德州撲克等營利事業，並保障兒童及少年身心健全發展，爰擬具本自治條例草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案前經臺南市議會於114年4月25日決議撤案(臺南市議會114年5月2日南議法規字第1140002768號函)，另經蒐集各方意見並調整後，經114年10月14日第719次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市休閒活動場館事業管理自治條例」制定草案(含總說明、逐條說明及草案條文)1份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "2025\/12\/02",
+    "CheckDesc": "一、修正通過，詳審查結果對照表。\r\n二、全文草案共計12條條文，除第7、10、12條條文修正通過，其餘條文照案通過。\r\n三、第10條說明欄文字修正通過。",
+    "DoneDate": "2025\/12\/04",
+    "DoneDesc": "照二讀會決議通過。",
+    "SendDate": "2025\/12\/12",
+    "SendNumber": "南議法規字第 1140012312號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8409825c-bd9e-49f6-99f9-864171193d04",
+            "FileName": "參考資料-4-6定法規巿提4-台南巿休閒活動場館事業管理自治條例.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e3e49f42-c6c3-487e-ad0d-e734cf3bb1aa",
+            "FileName": "總說明、逐條說明及修正條文-4-6定法規巿提4-台南巿休閒活動場館事業管理自治條例.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d4bb459b-8ab1-421f-95f2-d0a5bc369da4",
+            "FileName": "補充資料-4-6定法規巿提4-台南巿休閒活動場館事業管理自治條例.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c776dbdc-c464-46b0-8825-4685bf9707fe&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=751322ed-0c99-4bca-b2de-01adc4aa0ef3",
+            "FileName": "審查意見報告書--4-6定第2、3次--法規巿提2~6號案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=76769430-d984-477d-b955-c5ab2d6ddd42",
+            "FileName": "審查結果對照表---4-6定法規巿提4---臺南市休閒活動場館事業管理自治條例草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6e5a218e-4767-4f76-831b-4d9471b0c705",
+            "FileName": "會議紀錄-4-6定法規委員會第2次議案審查(巿提2~5號案).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=86d580a1-42bd-439e-a281-db47b196d734",
+            "FileName": "4-6定---1204第25次會紀錄.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9e1af5c5-f08f-49c7-b41f-ccfa4930d887",
+            "FileName": "4-6定-法規巿提4---休閒活動場館審查結果對照表--大會決議.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7feb74db-bc82-40fa-8355-5ca7bb6b3b87",
+            "FileName": "休閒活動場館事業管理提案(修正動議).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "2025\/10\/23",
+    "ReDesc": "照二讀會決議通過。",
+    "FirstDate": "2025\/10\/29",
+    "FirstDesc": "交付法規委員會審查。",
+    "SecondDate": "2025\/12\/04",
+    "SecondDesc": "一、針對本案，蔡育輝議員提出修正動議，陳昆和、周嘉韋等32 位議員附議，經協商討論，大會決議：修正通過。(僅第5 條第1 項條文修正為：休閒活動場館事業應檢附營業場所距離幼兒園、國民中小學、高中、職校五百公尺以上之證明文\r\n件，向主管機關申請審查符合本項規定後，始得營業。)(詳附件：修正動議1)\r\n二、二讀會決議：\r\n1、 修正通過，詳大會決議對照表。\r\n2、 除第5 條第1 項照修正動議1 號案修正內容通過，餘均照審查意見通過。",
+    "ThirdDate": "2025\/12\/04",
+    "ThirdDesc": "照二讀會決議通過。",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

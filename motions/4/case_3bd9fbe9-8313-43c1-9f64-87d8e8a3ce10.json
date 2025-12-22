@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/10\/14",
+    "ComeNumber": "府民自字第1141413730號",
+    "OrgTitle": "臺南市政府各區公所",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部水利署南區水資源分署補助本市楠西區公所辦理「114年度水資源作業基金水庫清淤公益支出計畫」之「楠西區密枝里新社區荖土坑排水溝改善工程」共計1案，經費計新臺幣200萬元整（中央全額補助）乙案，因未及納入本府114年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據經濟部水利署南區水資源分署114年8月4日水南曾字第11430033220號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」規定辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案內含1件計畫案，總經費新臺幣200萬元整，由中央全額補助，因未及納入本府114年度總預算，為爭取時效，謹請貴會同意先行辦理墊付，俟115年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年10月7日第718次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：依經濟部水利署「水資源作業基金公益支出經費編列及執行管考要點」之規定，受補助計畫屬工程項目者，應於經費核定後三個月內完成發包，故於本會期提出墊付案申請，以爭取時效。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，並於115年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2025\/11\/27",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2025\/12\/04",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2025\/12\/09",
+    "SendNumber": "南議民教字第 1140011775號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f562c3dc-cbe5-4dca-8c75-bca8c9dea04e",
+            "FileName": "民教4(楠西區公所)-附件(核定函及計畫書).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3bd9fbe9-8313-43c1-9f64-87d8e8a3ce10&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2025\/10\/23",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2025\/10\/29",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "151",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "陳怡珍、陳皇宇、李啓維、曾之婕、陳秋萍、趙昆原",
+    "CaseCause": "建請市府規劃拓寬新市區大洲2號橋與南135號旁替代道路，以利南科上下班人潮及周遭居民進出。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據新市區民眾陳情此段防汛道路兼替代聯絡道乃因南135號道路經大洲排水原有橋被洪水沖壞需重建乃遷至現今大洲2號橋，遂有取代聯絡道之功能。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"此段為南科上下班車潮眾多民眾使用之路段，但為減少車禍事故發生，將大洲堤防兩側規劃為單行道，其劃設後嚴重影響周邊居民之進出，為能改善此處行車動線，建請市府規劃拓寬此路段。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/11\/28",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2025\/12\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2025\/12\/12",
+    "SendNumber": "南議工務字第 1140012308號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1c625e6d-fa27-4355-a98b-b515481ab048",
+            "FileName": "4-6定工務議提151附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=22bb1576-dbec-47be-b412-5019a9b62b87&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/09\/09",
+    "ComeNumber": "府工新一字第1141278417 號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部水利署第六河川分署同意「關廟區新光里169-2線南北寮橋改建工程」補助案共計新臺幣1億850萬元整(中央補助款8,190萬元、地方配合款2,660萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據經濟部水利署第六河川分署114年8月27日水六工字第11401053390號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"經濟部水利署第六河川分署同意「關廟區新光里169-2線南北寮橋改建工程」補助案共計新臺幣1億850萬元整(中央補助款8,190萬元、地方配合款2,660萬元(含用地費350萬元))，因未及納入本府115年度總預算案，為爭取時效，謹請貴會同意先行墊付，俟115年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年9月9日第714次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：經濟部水利署第六河川分署同意「關廟區新光里169-2線南北寮橋改建工程」補助案，為加速後續工程推動，先行辦理用地取得相關作業。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "2025\/10\/22",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2025\/10\/29",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2025\/11\/10",
+    "SendNumber": "南議工務字第 1140010222號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6afcd653-60c9-4c87-8d90-050991112488",
+            "FileName": "4-6定工務市提4.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9248176c-5a6e-498c-90a3-0448b6262e4d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2025\/09\/17",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2025\/09\/26",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

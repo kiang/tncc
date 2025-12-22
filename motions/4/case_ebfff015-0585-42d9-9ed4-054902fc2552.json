@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "8",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡宗豪",
+    "OrgTitle2": "周奕齊、Ingay Tali 穎艾達利、蔡育輝、吳禹寰、李中岑、曾之婕、盧崑福",
+    "CaseCause": "東菜市場遮雨的石棉瓦多處漏水，請以替代材質在明年梅雨季前全面更換屋頂。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"由於東菜市場屋頂許多漏洞，攤販深受漏雨困擾，商品經常因此毀壞，且屋頂現為石棉瓦材質，此材質一旦破損後，吸入纖維對人體有害，現已被管制，望尋找可替代材質並在明年梅雨季前全面更換屋頂。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/12\/01",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2025\/12\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2025\/12\/11",
+    "SendNumber": "南議財經字第 1140012061號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=490a1b44-7fb4-4fe4-bfc4-ca61328183fc",
+            "FileName": "附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ebfff015-0585-42d9-9ed4-054902fc2552&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

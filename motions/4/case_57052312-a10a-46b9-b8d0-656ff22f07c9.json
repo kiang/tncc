@@ -1,0 +1,55 @@
+{
+    "GradeTime": "第4屆 第9次 臨時會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "議員提案-市法規案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "周嘉韋、林依婷、謝舒凡、李宗翰",
+    "OrgTitle2": "邱議長莉莉、林副議長志展、陳皇宇、鄭佳欣、黄肇輝、沈家鳳、蔡蘇秋金、郭鴻儀、黃麗招、李文俊、朱正軒、楊中成、陳秋宏、李啓維、蔡筱薇、李宗霖、王宣貿",
+    "CaseCause": "修正「臺南市市區道路管理自治條例」第四條、第七條、第九條、第十八條、第二十八條等條文。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為維護市區道路之使用安全，保障用路人權益，並給予管理機關合理之權限，使其具備一定程度之執法依據，遂擬具「臺南市市區道路管理自治條例」部分條文修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"市區道路之養護，應針對其結構之安全性應設置檢測年限，明確規範管理機關之責任。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"將現有巷道之名稱定義明確，並將現有巷道之改善、養護權責劃分清楚，由市區道路之管理機關負責。且對已成立公用地役關係之市區道路，亦賦予管理機關設置排水系統、埋設公共設施管線等權限。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"對於人行道之管理維護，明訂人行道管理維護之責，應由行政機關為之，並明文管理機關所需負擔之範圍，使人行道之管理得以權責分明。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2025\/07\/28",
+    "CheckDesc": "第4屆第9次臨時會第1次程序委員會會議結論：先予撤案，於下次定期會再行提送。",
+    "DoneDate": "2025\/08\/18",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=495e9009-a8a3-4b61-8cab-2d7ef909844e",
+            "FileName": "4-9臨-法規議提1--附件-總說明、對照表及修正條文---臺南市市區道路管理自治條例部分條文修正草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=57052312-a10a-46b9-b8d0-656ff22f07c9&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=361e9010-96ff-41d8-8dc3-94a6107b10ba",
+            "FileName": "1140728--4-9臨第1次程委會會議紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=622bdfa0-3905-4bba-940b-13dd6e9272f2",
+            "FileName": "1140806---4-9臨第1次會會議紀錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "2025\/07\/28",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

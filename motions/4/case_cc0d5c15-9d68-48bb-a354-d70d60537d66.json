@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第10次 臨時會",
+    "PTypTitle": "建設",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/11\/26",
+    "ComeNumber": "府觀業字第1141621099號",
+    "OrgTitle": "臺南市政府觀光旅遊局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部觀光署核定補助本市辦理115年度「交通部觀光署協助地方政府執行違法旅宿管理工作」補助計畫，總經費446萬6,000元（全額中央補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據交通部觀光署114年10月22日觀宿字第1140601016號函暨114年11月4日觀宿字第1140923424號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，「經上級政府核定之補助款，所使用之支出」規定辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：交通部觀光署核定本市辦理115年度「交通部觀光署協助地方政府執行違法旅宿管理工作」補助計畫，補助經費含「聘用執行違法旅宿管理工作人員」及「租賃稽查車輛」等費用，總經費446萬6,000元（全額中央補助），因未及納入本府115年度總預算案，為爭取時效，謹請貴會同意先行墊付。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年11月25日第725次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案為持續執行違法旅宿查處作業，以維護觀光市場秩序及保障旅客住宿安全；又因涉及執行違法旅宿聘用管理工作人員每月薪資發放，爰有於本會期提出墊付案申請之緊急性。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "2025\/12\/11",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2025\/12\/19",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=35fafdc7-d5ad-4509-96bd-6c9516a13e3e",
+            "FileName": "市提1附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=cc0d5c15-9d68-48bb-a354-d70d60537d66&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2025\/12\/03",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2025\/12\/10",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

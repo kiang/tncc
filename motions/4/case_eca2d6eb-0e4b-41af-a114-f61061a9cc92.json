@@ -16,9 +16,20 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2025\/07\/10",
     "SendNumber": "南議財經字第 1140005686號",
-    "DoDesc": "",
+    "DoDesc": "本府就「請市政府農業局採購「AI農藥質譜快檢車」執行農藥快檢巡迴服務，提供農民即時、精準且免費的農藥檢測服務，讓產地農民與消費者安心食用的農產機制」案，敬答覆如下：\r\n一、截至本年3月底，農業部農業藥物試驗所建置質譜快檢行動檢測車(簡稱檢測車)5台，分別由財團法人瑠公農產基金會、國立臺灣大學、國立虎尾科技大學、國立嘉義大學、國立東華大學營運。\r\n二、經查公開政府採購網，購置質譜快檢行動檢測車暨周邊設備1套所需交費為1,500萬(如附件1)。\r\n三、本局持續向所轄農會及集貨場宣導可至檢測車預約平台 (afacar.vcom.tw)預約駐點檢驗服務，快檢車於114年8月4日至29日進駐本市玉井聯興合作社提供農藥質譜快檢服務(如附件2)。\r\n四、本府農業局目前工作成果：\r\n（一）本市113年執行農作物化學質譜快檢計畫執行1936件。\r\n（二）本局113年執行農作物農藥殘留檢測業務執行623件。\r\n（三）快檢車於114年8月4日至29日進駐本市玉井聯興合作社提供農藥質譜快檢服務。\r\n三、承蒙貴席對於農政業務之關切，本府至為感謝，尚請不吝賜教。\r\n",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ee6dd142-1d14-40d5-aa25-efaba3000397",
+            "FileName": "附件1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f7f2621d-0356-4b0a-85be-5d5500b6a076",
+            "FileName": "附件2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=eca2d6eb-0e4b-41af-a114-f61061a9cc92&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +41,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/07\/24",
+    "ExecuteReNumber": "府農務字第 1141008378號",
+    "ExecuteReMemo": "本府就「請市政府農業局採購「AI農藥質譜快檢車」執行農藥快檢巡迴服務，提供農民即時、精準且免費的農藥檢測服務，讓產地農民與消費者安心食用的農產機制」案，敬答覆如下：\r\n一、截至本年3月底，農業部農業藥物試驗所建置質譜快檢行動檢測車(簡稱檢測車)5台，分別由財團法人瑠公農產基金會、國立臺灣大學、國立虎尾科技大學、國立嘉義大學、國立東華大學營運。\r\n二、經查公開政府採購網，購置質譜快檢行動檢測車暨周邊設備1套所需交費為1,500萬(如附件1)。\r\n三、本局持續向所轄農會及集貨場宣導可至檢測車預約平台 (afacar.vcom.tw)預約駐點檢驗服務，快檢車於114年8月4日至29日進駐本市玉井聯興合作社提供農藥質譜快檢服務(如附件2)。\r\n四、本府農業局目前工作成果：\r\n（一）本市113年執行農作物化學質譜快檢計畫執行1936件。\r\n（二）本局113年執行農作物農藥殘留檢測業務執行623件。\r\n（三）快檢車於114年8月4日至29日進駐本市玉井聯興合作社提供農藥質譜快檢服務。\r\n三、承蒙貴席對於農政業務之關切，本府至為感謝，尚請不吝賜教。\r\n",
     "ErrorMessage": ""
 }

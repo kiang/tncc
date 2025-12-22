@@ -1,0 +1,94 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "「房屋稅徵收率修正實施後徵收情形與影響」專案報告",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"房屋稅率不宜全國一致，因為各縣市的購置成本不一，宜視各縣市產業而定，建議檢討「其他非自住住家用」之稅率。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"房屋起造人待銷售房屋，其繳納的房屋稅為其建築成本，調高房屋稅後使其售價因此提高，亦會轉嫁由民眾負擔，建議檢討「起造人待銷售房屋」之稅率。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"非自願性無法設籍者（例如：擁有2戶房屋總價低於擁有1戶的豪宅持有者），卻須適用較高的房屋稅率，建議調降其他非住家用房屋稅率，並研議建請中央修法，是否能以設籍以外之佐證，課以自住住家用之稅率。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"為鼓勵多屋族出售或出租房屋，給予適用較優惠稅率，建議一併納入討論。\",\"children\":[]}]}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "2025\/10\/29",
+    "DoneDesc": "照委員會結論通過。",
+    "SendDate": "2025\/11\/07",
+    "SendNumber": "南議財經字第 1140010281號",
+    "DoDesc": "詳附件1.2",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=451bc7d4-7811-48e2-a073-91a4b430d692",
+            "FileName": "1-專案報告1140930v2.2-局長定版.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7b5f1f63-76e5-4790-bd67-a44018db4b12",
+            "FileName": "114.09.30（房屋稅徵收率修正實施後徵收情形與影響）專案報告逐字稿.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a5176461-3eb2-4908-bb70-5464945ab9ef",
+            "FileName": "2.1-113年房屋稅查定表.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=73cc3ef1-1981-4f22-884e-695c755b5b1e",
+            "FileName": "2.2-114年房屋稅查定表.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=49b62669-8115-443f-8859-b0e73628ade1",
+            "FileName": "2.3-蔡議員版本-114年房屋稅查定表.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7b620b17-a7f2-4a71-83de-076b296c7864",
+            "FileName": "3.1-0831公聽會.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4a187042-5198-48e2-8423-11872084b21e",
+            "FileName": "3.2-0906公聽會.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=dab7962f-34b9-4643-9444-c91c49170c2a",
+            "FileName": "4-說明.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=71780f49-e35e-45da-b8b9-79d6d036a242",
+            "FileName": "5-臺南市114年期房屋稅公益出租用及住家用房屋出租達租金標準統計表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7ffd1f32-1d05-4e22-9f81-f6734c977c2e",
+            "FileName": "市府回文-附件1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2dd123f5-0317-4c7f-998f-9225d28facf9",
+            "FileName": "市府回文-附件2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7ac91a48-e47b-4a2d-9ed5-2dba9c15a099&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照委員會結論通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2025\/12\/01",
+    "ExecuteReNumber": "府財稅字第 1141590246號",
+    "ExecuteReMemo": "詳附件1.2",
+    "ErrorMessage": ""
+}

@@ -16,9 +16,20 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2025\/07\/10",
     "SendNumber": "南議財經字第 1140005571號",
-    "DoDesc": "",
+    "DoDesc": "詳附件1.2",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e92de807-8e6a-4c09-8a04-98ace54218e3",
+            "FileName": "14-附件1.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f6de355e-8068-4315-9b55-548643ad1be0",
+            "FileName": "14-附件2.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e730bfd8-6946-4ab8-b697-2409eb562151&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +41,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/08\/06",
+    "ExecuteReNumber": "府經產規字第 1141063230號",
+    "ExecuteReMemo": "詳附件1.2",
     "ErrorMessage": ""
 }

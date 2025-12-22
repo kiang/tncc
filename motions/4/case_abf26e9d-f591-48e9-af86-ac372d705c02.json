@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/09\/10",
+    "ComeNumber": "府民自字第1141255622號",
+    "OrgTitle": "臺南市政府民政局",
+    "OrgTitle2": "",
+    "CaseCause": "有關內政部補助「玉井區玉井玉田里活動中心耐震補強工程」及「鹽水區水秀里活動中心耐震補強工程」2案，總經費新臺幣(以下同)1,420萬1,000元（中央補助款400萬元，巿府配合款1,020萬1,000元）未及納入115年度總預算案，為爭取時效，謹請貴會同意墊付1,420萬1,000元，俟115年度追加減預算時由公所辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部114年7月30日台內民字第1140221353號函暨114年8月20日台內民字第11401353831號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款規定「經上級政府核定之補助款，所使用之支出」及第6款規定「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"內政部核定補助本巿「玉井區玉井玉田里活動中心耐震補強工程」及「鹽水區水秀里活動中心耐震補強工程」2案，總需求經費為1,420萬1,000元（中央補助款400萬元，巿府配合款1,020萬1,000元）未及納入115年度總預算案，為爭取時效，謹請貴會同意墊付1,420萬1,000元，俾憑辦理後續相關作業，俟115年度追加減預算時由公所辦理轉正\",\"children\":[]},{\"order\":\"四、\",\"content\":\"各案補助款與巿府配合款說明如下：\",\"children\":[{\"order\":\"(一)\",\"content\":\"「玉井區玉井玉田里活動中心耐震補強工程」所需經費865萬2,000元（中央補助款200萬元，巿府配合款665萬2,000元）。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"「鹽水區水秀里活動中心耐震補強工程」所需經費為554萬9,000元（中央補助款200萬元，巿府配合款354萬9,000元）。\",\"children\":[]}]},{\"order\":\"五、\",\"content\":\"本案業經本府114年9月9日第714次巿政會議通過。\",\"children\":[]},{\"order\":\"六、\",\"content\":\"提送墊付案緊急性理由：依據內政部核定函，至遲於114年12月底前完成委託規畫設計監造或統包工程發包，如未依限辦理補助經費無法保留。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度追加減預算時由公所辦理轉正。\"}]",
+    "CheckDate": "2025\/10\/22",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2025\/10\/29",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2025\/11\/07",
+    "SendNumber": "南議民教字第 1140010192號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d7b74a4d-15dc-449b-bf68-8ac7c5fbbccc",
+            "FileName": "定4-6-民教墊付1-附件(核定函及計畫等資料).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=abf26e9d-f591-48e9-af86-ac372d705c02&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2025\/09\/17",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2025\/09\/26",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

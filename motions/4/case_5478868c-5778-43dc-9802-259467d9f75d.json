@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第9次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "42",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "方一峰",
+    "OrgTitle2": "李文俊、李鎮國、蔡宗豪、Ingay Tali 穎艾達利、陳皇宇",
+    "CaseCause": "西港區中洲庄内排水不良，建請改善。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"根據民眾陳情辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"西港區中洲遇雨季容易造成淹水，亟需辦理改善，以有效解決淹水問題並保障往來通行民眾之安全。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2025\/08\/12",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2025\/08\/18",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2025\/08\/22",
+    "SendNumber": "南議工務字第 1140007971號",
+    "DoDesc": "中華民國114年10月2日府水工字第1141331932號暨\r\n中華民國114年10月8日府水工字第1141399038號\r\n本府就「西港區中洲庄內排水不良，建請改善」案，敬答覆如下：\r\n西港區中洲社區位於西港排水流域，屬劉厝排水系統上游，查該處西港排水斷面已符合十年洪水頻率通洪，惟因地勢平緩及受外水感潮高漲影響，颱風豪雨期間不易重力排水，形成局部短時積水情形。\r\n本府水利局刻正辦理劉厝排水系統渠道治理，並針對主支流水路定期清疏維持順暢，為因應強降雨再提升社區防洪保護，將研討中洲社區側溝匯入出口予增設自動水門，藉此建立第二道防線，降低外水倒灌風險，視年度預算及財源情形儘速辦理改善，短期將密切監控水情緊急時調度中央機組支援排洪。",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b40c0c1a-dffc-4b3a-9e22-5ac62966e07a",
+            "FileName": "4-9臨工務議提42附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5478868c-5778-43dc-9802-259467d9f75d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2025\/10\/02",
+    "ExecuteReNumber": "府水工字第 1141331932號",
+    "ExecuteReMemo": "中華民國114年10月2日府水工字第1141331932號暨\r\n中華民國114年10月8日府水工字第1141399038號\r\n本府就「西港區中洲庄內排水不良，建請改善」案，敬答覆如下：\r\n西港區中洲社區位於西港排水流域，屬劉厝排水系統上游，查該處西港排水斷面已符合十年洪水頻率通洪，惟因地勢平緩及受外水感潮高漲影響，颱風豪雨期間不易重力排水，形成局部短時積水情形。\r\n本府水利局刻正辦理劉厝排水系統渠道治理，並針對主支流水路定期清疏維持順暢，為因應強降雨再提升社區防洪保護，將研討中洲社區側溝匯入出口予增設自動水門，藉此建立第二道防線，降低外水倒灌風險，視年度預算及財源情形儘速辦理改善，短期將密切監控水情緊急時調度中央機組支援排洪。",
+    "ErrorMessage": ""
+}

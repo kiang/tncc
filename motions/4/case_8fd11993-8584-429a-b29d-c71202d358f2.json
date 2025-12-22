@@ -19,6 +19,11 @@
     "DoDesc": "",
     "AttList": [
         {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=14aaa85c-52ac-4a15-89ec-99f16a3ff279",
+            "FileName": "11號案補充說明資料-(藍晒圖招商).pdf",
+            "ErrorMessage": ""
+        },
+        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0a84e42c-ba7d-4dfd-9973-4e40dc50bca1",
             "FileName": "市提11附件.pdf",
             "ErrorMessage": ""

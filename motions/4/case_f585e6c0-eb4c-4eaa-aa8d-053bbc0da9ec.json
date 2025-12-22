@@ -33,18 +33,18 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f585e6c0-eb4c-4eaa-aa8d-053bbc0da9ec&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b4feb349-6c4f-4d5d-a87c-a14c5101fa5e",
-            "FileName": "4-8 臨-1140318促參會議紀錄.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=10d3022a-7453-40d4-a382-615d1eda37cd",
+            "FileName": "審查意見報告書--4-8臨巿提2----修正「臺南市促進民間機構參與重大公共建設減免地價稅房屋稅及契稅自治條例」草案.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5188af4b-9538-4fdf-a7dc-c6ad25b6b33e",
-            "FileName": "※4-8臨巿提2---審查意見報告書--促參.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1e8cb447-90d6-40ee-942b-2b36d1f0c615",
+            "FileName": "審查會議紀錄--4-8臨-法規市提2---修正「臺南市促進民間機構參與重大公共建設減免地價稅房屋稅及契稅自治條例」草案.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=40fd01b3-61ef-417e-baad-037533bf4ba2",
-            "FileName": "審查結果報告書---4-8臨-法規巿提2--修正「臺南市促進民間機構參與重大公共建設減免地價稅房屋稅及契稅自治條例」草案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2d464f62-c765-4a52-ab23-50e353d53940",
+            "FileName": "審查結果對照表---4-8臨-法規巿提2--修正「臺南市促進民間機構參與重大公共建設減免地價稅房屋稅及契稅自治條例」草案.pdf",
             "ErrorMessage": ""
         }
     ],

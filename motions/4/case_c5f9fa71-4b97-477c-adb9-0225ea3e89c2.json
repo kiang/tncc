@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2025\/10\/13",
+    "ComeNumber": "府體綜字第1141391929號",
+    "OrgTitle": "臺南市政府體育局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送財團法人台南市體育發展基金會115年度預算案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"財團法人台南市體育發展基金會政府累計捐助新臺幣1,454萬6,032元，捐助金額超過財產總額50%。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"預算書已於114年8月28日經該基金會1143年第9屆第2次董監事會議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府114年10月1日第717次市政會議審議通過。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"檢附財團法人台南市體育發展基金會115年度預算書1份。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"依預算法第41條第4項規定，送請市議會審議。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a17a4804-4bc3-407b-a4a7-74db1bba7bb1",
+            "FileName": "115年預算書-體育發展基金.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c5f9fa71-4b97-477c-adb9-0225ea3e89c2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2025\/10\/23",
+    "ReDesc": "",
+    "FirstDate": "2025\/10\/29",
+    "FirstDesc": "交付聯席審查，併同列入115年度總預算案聯審議程。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

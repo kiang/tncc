@@ -19,13 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ef107e23-34d6-4ffd-9546-ae3f1e5281af",
-            "FileName": "補充資料-臺南市議會第4屆第5次定期會-法規提案3-「臺南市法規標準自治條例」第十一條修正草案 (2) (1).pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4d7b4d5e-f721-4899-85fa-bfbd2c274eb9",
+            "FileName": "總說明、逐條說明及修正條文-4-5定法規巿提1-4-5定法規巿提3--台南巿法規標準自治條例.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=066c99e4-e62b-4dae-86ff-556016bb68e9",
-            "FileName": "附件-4-5定法規巿提3-「臺南市法規標準自治條例」第十一條修正草案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f12390fb-5329-4be5-8555-248319a17db9",
+            "FileName": "自治規則報備查相關規定比較表-4-5定法規巿提1-4-5定法規巿提3--台南巿法規標準自治條例.pdf",
             "ErrorMessage": ""
         }
     ],
@@ -33,22 +33,28 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=88d54a60-3bd1-43ec-9c5b-a9c0354702fd&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6b255e49-9e81-45cf-b422-dc159625f8d6",
-            "FileName": "1140425-4-5定-第1次會會議紀錄.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b5d01cfc-59ef-4c9d-8471-f74574c9cb6c",
+            "FileName": "審查意見報告書--4-5定-法規巿提2~3號案.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b8cff511-8dbb-4868-bbb4-ad698e098c31",
-            "FileName": "附件2--4-5定-法規巿提2~3號案審查意見報告書.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4c5ccaa1-4426-401d-808f-f79f6c2334b8",
+            "FileName": "審查結果對照表-4-5定法規巿提3-「臺南市法規標準自治條例」第十一條修正草案.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=08667ccb-6b25-4350-8bdf-422471ff5649",
-            "FileName": "附件3--審查結果對照表-4-5定法規巿提3-「臺南市法規標準自治條例」第十一條修正草案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=baf1b0ea-8f99-437e-8a13-c3ff654850e2",
+            "FileName": "議案審查會議紀錄---4-5定法規委員會第1次議案審查會議紀錄(法規巿提2~3號案).pdf",
             "ErrorMessage": ""
         }
     ],
-    "DoneAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c5bd5410-c8ab-4310-8261-7e5669102c76",
+            "FileName": "大會決議-4-5定-25次會-2-6號案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "ReDate": "2025\/04\/17",
     "ReDesc": "照審查意見通過。",
     "FirstDate": "2025\/04\/25",

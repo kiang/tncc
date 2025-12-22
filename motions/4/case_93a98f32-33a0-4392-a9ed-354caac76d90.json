@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "92",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王宣貿",
+    "OrgTitle2": "朱正軒、郭鴻儀、沈震東、鄭佳欣、蔡筱薇、余柷青、蔡麗青、李啓維、Ingay Tali 穎艾達利",
+    "CaseCause": "建請市府於柳營區中程里鄰公園增設兒童遊憩設施。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"為提升當地生活品質並打造更完善之民生休閒環境，建請市府於柳營區中程里鄰公園增設兒童遊憩設施，並結合周邊既有籃球場及體健設施，俾形塑兼具兒童、青少年及長者需求之全齡友善遊憩空間。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2025\/11\/28",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2025\/12\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2025\/12\/12",
+    "SendNumber": "南議工務字第 1140012261號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6de18c7b-d6da-4400-9dec-96082f585118",
+            "FileName": "4-6定工務議提92附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=93a98f32-33a0-4392-a9ed-354caac76d90&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

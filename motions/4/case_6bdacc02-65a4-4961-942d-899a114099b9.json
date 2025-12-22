@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第10次 臨時會",
+    "PTypTitle": "建設",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/11\/25",
+    "ComeNumber": "府文秘字第1141636014號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "文化部核定補助本市辦理「臺南市傳統藝術中心(原天仁工商校舍)第一期工程」，總經費1億1,380萬元（中央補助款800萬元、市配合款1億580萬元），其中中央補助款500萬元因不及納入115年總預算，為爭取時效，謹請貴會同意先行墊付，俟115年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據文化部文化資產局114年9月15日文藝字第1143025850號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費1億1,380萬元(中央補助款800萬元、市配合款1億580萬元)採一次發包，分年編列預算辦理(113年度1,058萬元，114年度2,000萬元，115年度4,500萬元、116年度3,822萬元)，其中市配合款已納入115年度預算，另中央補助款500萬元因未及納入115年度總預算，為爭取時效，謹請貴會同意先行墊付，俟115年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年11月25日第725次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：因應建築物耐震評估結構不足，新增結構補強工項，辦理工程契約變更，為避免工程施作進度落後，本案確有緊急執行之必要，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度追加(減)預算時辦理轉正。\"}]",
+    "CheckDate": "2025\/12\/11",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2025\/12\/19",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=854233ec-d2bc-4d98-9e2b-802053dfb88f",
+            "FileName": "市提3附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6bdacc02-65a4-4961-942d-899a114099b9&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2025\/12\/03",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2025\/12\/10",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

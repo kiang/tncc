@@ -14,11 +14,17 @@
     "CheckDesc": "函送市府研辦。",
     "DoneDate": "2025\/07\/02",
     "DoneDesc": "照審查意見通過。",
-    "SendDate": "",
-    "SendNumber": "",
-    "DoDesc": "",
+    "SendDate": "2025\/07\/16",
+    "SendNumber": "南議工務字第 1140006344號",
+    "DoDesc": "本府就「建請市府加速二王重劃進度，針對南北向重要道路-忠孝路進行拓寬及截彎取直」案，敬答覆如下：\r\n忠孝路進行拓寬及截彎取直乙案，查109年10月23日公告變更高速公路永康交流道附近特定區計畫（第四次通盤檢討）（第二階段）案，忠孝路往北銜接永康創意設計園區道路主26-20M，未銜接康橋大道（詳附件）。有關忠孝路拓寬及截彎取直因涉及都市計畫道路系統規劃，本府工務局將俟都市計畫程序完備後辦理。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=642eb072-7d1c-4638-9d4c-6d543d04b156",
+            "FileName": "4-5定工務議提268回文附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=dfdb192a-26dd-4600-8062-60d77e61ad39&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/08\/06",
+    "ExecuteReNumber": "府工新二字第 1141110575號",
+    "ExecuteReMemo": "本府就「建請市府加速二王重劃進度，針對南北向重要道路-忠孝路進行拓寬及截彎取直」案，敬答覆如下：\r\n忠孝路進行拓寬及截彎取直乙案，查109年10月23日公告變更高速公路永康交流道附近特定區計畫（第四次通盤檢討）（第二階段）案，忠孝路往北銜接永康創意設計園區道路主26-20M，未銜接康橋大道（詳附件）。有關忠孝路拓寬及截彎取直因涉及都市計畫道路系統規劃，本府工務局將俟都市計畫程序完備後辦理。",
     "ErrorMessage": ""
 }

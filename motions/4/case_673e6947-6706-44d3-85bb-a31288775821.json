@@ -14,11 +14,17 @@
     "CheckDesc": "函送市府研辦。",
     "DoneDate": "2025\/07\/02",
     "DoneDesc": "照審查意見通過。",
-    "SendDate": "",
-    "SendNumber": "",
-    "DoDesc": "",
+    "SendDate": "2025\/07\/16",
+    "SendNumber": "南議工務字第 1140006387號",
+    "DoDesc": "本府就「請辦理新化區頂山腳段256-1地號範圍河川邊坡護岸改善工程。」案，敬答覆如下：\r\n本府水利局業於113年11月14日會同陳情人辦理現地會勘，了解排水現況與問題情形，新化區公所已於114年5月6日提送提案單，預計辦理護岸60m，以保護排水護岸邊坡，增加排水效益，案件總經費約152萬7,600元，本案已錄案辦理，後續將視市府整體財源狀況辦理。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1baa6ca9-8894-413e-ab75-2ee431a1e45f",
+            "FileName": "4-5定工務議提289回函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=673e6947-6706-44d3-85bb-a31288775821&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/08\/26",
+    "ExecuteReNumber": "府水養字第 1141190864號",
+    "ExecuteReMemo": "本府就「請辦理新化區頂山腳段256-1地號範圍河川邊坡護岸改善工程。」案，敬答覆如下：\r\n本府水利局業於113年11月14日會同陳情人辦理現地會勘，了解排水現況與問題情形，新化區公所已於114年5月6日提送提案單，預計辦理護岸60m，以保護排水護岸邊坡，增加排水效益，案件總經費約152萬7,600元，本案已錄案辦理，後續將視市府整體財源狀況辦理。",
     "ErrorMessage": ""
 }

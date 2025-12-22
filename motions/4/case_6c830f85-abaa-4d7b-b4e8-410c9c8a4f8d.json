@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "95",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝、陳昆和",
+    "OrgTitle2": "蔡宗豪、鄭佳欣、尤榮智、謝舒凡、周奕齊、周麗津、陳秋萍、蔡蘇秋金、方一峰、王家貞、林美燕、陳碧玉、林燕祝、林冠維、趙昆原、郭信良、李啓維、邱昭勝、曾培雅、Ingay Tali 穎艾達利、陳怡珍、吳禹寰、蔡淑惠、李中岑、曾之婕、李偉智、余柷青、吳通龍、許至椿、杜素吟、蔡秋蘭、郭清華",
+    "CaseCause": "請本於「議會自律」原則，不予於實務上限制市政總質詢(含自由發言)讓借其他議員時間。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據臺南市議會議員質詢辦法第3條第2項第1款之規定，僅明訂「市政總質詢每一議員時間為五十分鐘，其質詢順序於每次定期會前之預備會時，以抽籤或席次排定方式決定之。」，此外並無任何限制之明文。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"且議員質詢之方式本為「議會自律」之事項，各議會均得自訂辦法實行，如桃園市議會市政總質詢辦法第8條即規定：「質詢時間得相互讓借，但應由讓與人於輪值質詢時間內即席聲明並由受讓（借）與人即席繼續使用，或由讓（借）與人事先出具書面同意書由受讓（借）與人於讓（借）與人輪值質詢時間內出示，經主席同意後使用之。」，臺中市議會市政質詢辦法第4條亦有類似之規定，新北市及高雄市雖無明文，但實務上可讓借。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"況依據本會104年10月26日之新聞稿揭示，「臺南市議會並未針對能否讓借個人總質詢時間一事進一步明文規定，且過去亦有議員將部分質詢時間讓借出去，因此郭總召之指控議長違反議事規則，並非事實，李議長讓借部分個人質詢時間亦無違法」，顯見本會並無限制議員相互借讓時間之依據，應不予限制之。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2025\/11\/28",
+    "CheckDesc": "提請大會討論。",
+    "DoneDate": "2025\/12\/04",
+    "DoneDesc": "擇期召開政黨黨團協商會議討論。",
+    "SendDate": "2025\/12\/11",
+    "SendNumber": "南議民教字第 1140011997號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9e4d62d6-9766-432e-959f-259cf6868b46",
+            "FileName": "4-6定民政教育議提901提案單(蔡育輝議員、陳昆和議員-市政總質詢借讓其他議員時間)-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6c830f85-abaa-4d7b-b4e8-410c9c8a4f8d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "擇期召開政黨黨團協商會議討論。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

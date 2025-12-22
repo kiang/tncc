@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "8",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/09\/10",
+    "ComeNumber": "府勞條字第1141274630號",
+    "OrgTitle": "臺南市政府勞工局",
+    "OrgTitle2": "",
+    "CaseCause": "勞動部核定補助本市辦理「114年度外國人臨時安置」經費新臺幣67萬5,000元（全額中央補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據勞動部114年8月19日勞動發管字第1140027888號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案預估所需總經費達197萬5,000元，原編列且核撥的130萬元不足支應，不足額67萬5,000元業經勞動部114年8月19日勞動發管字第1140027888號函同意補助在案，因未及納入本府115年度總預算案，為爭取時效，謹請貴會同意先行墊付，俟115年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年9月9日第714次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：外國人臨時安置作業要點旨在保障在臺外國人的基本人權，及遇到困境時能獲得庇護安置及妥善的照顧等多項支援措施。隨著安置人數的增加，導致整體安置費用大幅上升，以致經費出現不足之情形。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "2025\/10\/22",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2025\/10\/29",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2025\/11\/07",
+    "SendNumber": "南議建設字第 1140010195號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=112562a0-5ee1-47d4-8c5b-dbc974b4787f",
+            "FileName": "114年第3期-通知撥款公文-1140027888(114年結2請3_申請全年不足款).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5d422b15-b9e5-4f2d-8104-f416395e871e",
+            "FileName": "114年臨時安置經費-分配額.PDF",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=dbb47c2d-2faf-438b-9ada-cc0271d7342a",
+            "FileName": "臨時安置經費-分配額.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c9480795-8c5d-4a7e-ac03-11a3b03ecabf&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2025\/09\/17",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2025\/09\/26",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

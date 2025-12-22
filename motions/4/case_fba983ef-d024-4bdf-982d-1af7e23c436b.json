@@ -14,11 +14,17 @@
     "CheckDesc": "函送市府研辦。",
     "DoneDate": "2025\/07\/02",
     "DoneDesc": "照審查意見通過。",
-    "SendDate": "",
-    "SendNumber": "",
-    "DoDesc": "",
+    "SendDate": "2025\/07\/16",
+    "SendNumber": "南議工務字第 1140006325號",
+    "DoDesc": "本府就「因應極端氣候及強降雨的狀況層出不窮，建議於大內區內江里36號水門旁堤防易淹水地區加設固定式抽水站。」案，敬答覆如下：\r\n一、短期作為：內江排水出口右岸目前佈設2台移動式抽水機，受限場地及高差大，僅有1台入水管置於內江排水，另1台僅能於曾文溪堤後溝抽水(起抽水位較高)。經洽左岸私有土地所有權人同意無償提供新建前池用地，將先評估新建抽水平台及前池降低起抽水位，並爭取水利署應急改善經費1,500萬元。\r\n二、中長期計畫：曾文溪大內堤防36號水門位於內江排水出口，排水長度1,250公尺，集水面積112公頃，Q10流量為14.1cms，規劃報告建議改善工程包含滯洪池(5.76ha)、抽水站1cms、收集系統等，所需經費約4.8億元，約可減少淹水面積32公頃，將向中央爭取經費。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e5efd0a3-2f86-42c3-8953-cd5bfc06b70d",
+            "FileName": "4-5定工務議提261回函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fba983ef-d024-4bdf-982d-1af7e23c436b&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/07\/22",
+    "ExecuteReNumber": "府水工字第 1141047559號",
+    "ExecuteReMemo": "本府就「因應極端氣候及強降雨的狀況層出不窮，建議於大內區內江里36號水門旁堤防易淹水地區加設固定式抽水站。」案，敬答覆如下：\r\n一、短期作為：內江排水出口右岸目前佈設2台移動式抽水機，受限場地及高差大，僅有1台入水管置於內江排水，另1台僅能於曾文溪堤後溝抽水(起抽水位較高)。經洽左岸私有土地所有權人同意無償提供新建前池用地，將先評估新建抽水平台及前池降低起抽水位，並爭取水利署應急改善經費1,500萬元。\r\n二、中長期計畫：曾文溪大內堤防36號水門位於內江排水出口，排水長度1,250公尺，集水面積112公頃，Q10流量為14.1cms，規劃報告建議改善工程包含滯洪池(5.76ha)、抽水站1cms、收集系統等，所需經費約4.8億元，約可減少淹水面積32公頃，將向中央爭取經費。",
     "ErrorMessage": ""
 }

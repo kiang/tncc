@@ -14,11 +14,17 @@
     "CheckDesc": "函送市府研辦。",
     "DoneDate": "2025\/07\/02",
     "DoneDesc": "照審查意見通過。",
-    "SendDate": "",
-    "SendNumber": "",
-    "DoDesc": "",
+    "SendDate": "2025\/07\/16",
+    "SendNumber": "南議工務字第 1140006382號",
+    "DoDesc": "本府就「新營區太北里太子宫146之12號旁庄内排水(太子段961地號)改善，並定期進行清淤作業，以维護排水順暢，避免影響居民生活品質。」案，敬答覆如下：\r\n一、查該河道上游為新營都市計畫區太子宮社區一帶下水道，下游銜接  管區排田寮排水，因地勢較高且河道通水斷面足夠，以往未曾發生排水溢淹情形。\r\n二、因現況水面有部分河道浮污及雜草，本局後續將錄案清理，提升周  邊居民生活品質。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bbbe8f19-dd92-4d37-b523-0d436d2aa569",
+            "FileName": "4-5定工務議提286號回文附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f9d22be3-aec4-4650-8154-4659732ce37f&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/09\/02",
+    "ExecuteReNumber": "府水行字第 1141208787號",
+    "ExecuteReMemo": "本府就「新營區太北里太子宫146之12號旁庄内排水(太子段961地號)改善，並定期進行清淤作業，以维護排水順暢，避免影響居民生活品質。」案，敬答覆如下：\r\n一、查該河道上游為新營都市計畫區太子宮社區一帶下水道，下游銜接  管區排田寮排水，因地勢較高且河道通水斷面足夠，以往未曾發生排水溢淹情形。\r\n二、因現況水面有部分河道浮污及雜草，本局後續將錄案清理，提升周  邊居民生活品質。",
     "ErrorMessage": ""
 }

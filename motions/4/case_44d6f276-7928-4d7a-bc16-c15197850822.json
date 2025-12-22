@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "79",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "周嘉韋",
+    "OrgTitle2": "林依婷、李宗霖、李宗翰、蔡筱薇、朱正軒、沈家鳳、陳秋宏、謝舒凡、鄭佳欣",
+    "CaseCause": "建請市府針對中西區公所依照居住人口數，補齊行政員額，降低行政人員乘載負擔，提升服務品質。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"目前中西區戶籍居住民眾7萬7千多餘位，實際行政員額為65位，相較於其他區近百位行政員額，中西區公所行政人員確實應接不暇。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請市府針對中西區公所依照戶籍居住人口，補齊行政員額，降低行政人員乘載負擔，提升服務品質。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2025\/11\/28",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2025\/12\/04",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2025\/12\/10",
+    "SendNumber": "南議民教字第 1140011809號",
+    "DoDesc": "市府就「建請市府針對中西區公所依照居住人口數，補齊行政員額，降低行政人員乘載負擔，提升服務品質」案，答覆如附件",
+    "AttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=84016890-982f-4814-b99f-fd0358a394f2",
+            "FileName": "4-6定民教議提79附件附表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=44d6f276-7928-4d7a-bc16-c15197850822&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "2025\/12\/12",
+    "ExecuteReNumber": "府民人字第 1141717512號",
+    "ExecuteReMemo": "市府就「建請市府針對中西區公所依照居住人口數，補齊行政員額，降低行政人員乘載負擔，提升服務品質」案，答覆如附件",
+    "ErrorMessage": ""
+}

@@ -33,13 +33,18 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b86c2884-eeb8-41d1-b5ae-4e33dab92ce9&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f18700cd-7fe2-4920-897e-be518cf98774",
-            "FileName": "公債審查會議紀錄---4-7臨-法規市提1.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d481705d-832f-4e56-96c0-474a112be534",
+            "FileName": "審查意見報告書---4-7臨-法規巿提1-公債條例.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3e67dbea-d677-4552-9588-1c42634c0a44",
-            "FileName": "公債審查結果對照表---4-7臨-法規市提1.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=51da36b1-69e1-4fc7-9398-3839f00c36d0",
+            "FileName": "審查會議紀錄---4-7臨-法規市提1-公債發行條例.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=dfbaf53a-55c8-4188-a7bc-5e9c93ab7b17",
+            "FileName": "審查結果對照表---4-7臨-法規市提1-公債發行條例.pdf",
             "ErrorMessage": ""
         }
     ],

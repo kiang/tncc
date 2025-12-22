@@ -1,0 +1,65 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "2",
+    "KidTitle": "議員提案-市法規案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "周嘉韋、謝舒凡、林依婷、李宗翰",
+    "OrgTitle2": "邱議長莉莉、林副議長志展、李宗霖、陳秋宏、陳皇宇、黄肇輝、楊中成、郭鴻儀、黃麗招、蔡筱薇、朱正軒、沈家鳳、蔡蘇秋金、李文俊、王宣貿、鄭佳欣",
+    "CaseCause": "修正「臺南市市區道路管理自治條例」第四條、第七條、第九條、第十八條、第二十八條等條文。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為維護市區道路之使用安全，保障用路人權益，並給予管理機關合理之權限，使其具備一定程度之執法依據，遂擬具「臺南市市區道路管理自治條例」部分條文修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"市區道路之養護，應針對其結構之安全性應設置檢測年限，明確規範管理機關之責任。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"將現有巷道之名稱定義明確，並將現有巷道之改善、養護權責劃分清楚，由市區道路之管理機關負責。且對已成立公用地役關係之市區道路，亦賦予管理機關設置排水系統、埋設公共設施管線等權限。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"對於人行道之管理維護，明訂人行道管理維護之責，應由行政機關為之，並明文管理機關所需負擔之範圍，使人行道之管理得以權責分明。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2025\/10\/27",
+    "CheckDesc": "本案予以擱置，俟中央完成修法後，再請巿府工務局配合提案修法。",
+    "DoneDate": "2025\/10\/29",
+    "DoneDesc": "予以撤案，請巿府俟中央完成修法後，再配合提案修法。",
+    "SendDate": "2025\/11\/07",
+    "SendNumber": "南議法規字第 1140010273號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=16281af8-251e-44f8-b055-79a9000f6fc2",
+            "FileName": "總說明、逐條說明及修正條文-4-6定法規議提2-台南巿巿區道路管理自治條例部分條文修正草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a934b788-7d96-4cb7-9684-fdccaaa58fd1&type=pdf",
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e73ec788-16bb-43b3-b5e6-ec72c2a4186c",
+            "FileName": "審查意見報告書--4-6定法規巿提1及議提1-2號案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6e04e9ff-9efd-4cb7-955a-85ea26dc745c",
+            "FileName": "審查結果對照表--4-6定-法規議提2---修正「臺南市巿區道路自治條例」修正草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9fbeae98-9b6d-4bc5-a0f3-29664ce638ca",
+            "FileName": "會議紀錄--4-6定法規委員會第1次議案審查--法規巿提1及議提1-2號案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=06a3757e-f041-4dda-825a-a86780430724",
+            "FileName": "1141029-4-6定-第5次大會會議紀錄(議事組).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "2025\/09\/17",
+    "ReDesc": "予以撤案，請巿府俟中央完成修法後，再配合提案修法。",
+    "FirstDate": "2025\/09\/26",
+    "FirstDesc": "交付法規委員會審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

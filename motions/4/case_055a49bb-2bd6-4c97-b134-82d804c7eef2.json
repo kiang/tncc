@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "6",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/09\/09",
+    "ComeNumber": "府文秘字第1141265875 號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "文化部文化資產局及客家委員會核定補助本市辦理「114年0121地震楠西區鹿陶洋江家古厝震損復建計畫」總經費1億5,000萬元(全額中央補助)，為爭取時效，謹請貴會同意先行墊付114年度1,300萬元，俾憑辦理後續相關作業事宜，俟115年度總預算追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據文化部文化資產局中華民國114年6月24日文資蹟字第1143006266號函及客家委員會114年7月31日客會產字第1146600591號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44條第4款「經上級政府核定之補助款，所使用之支出」規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費為1億5,000萬元(全額中央補助，由文化部文化資產局及客家委員會各分攤補助50%)，補助江家聚落各戶各自發包，並採一次發包，分年編列預算辦理（114年度1,300萬元，115年度6,000萬元，116年度6,900萬元，117年度800萬元），其中114年度1,300萬元因未及納入本府115年度總預算案，為爭取時效，謹請貴會同意先行墊付114年度1,300萬元(全額中央補助)，俟115年度總預算追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年9月9日第714次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：114年0121地震致楠西區歷史建築鹿陶洋江家宗祠及聚落建築群鹿陶洋江家聚落嚴重受損，如未及時辦理修復，恐持續惡化擴大損害，影響文化資產保存。基於維護公共安全與文化價值，亟需即刻啟動修復作業。爰此，為利計畫推動，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度總預算追加減預算時辦理轉正。\"}]",
+    "CheckDate": "2025\/10\/22",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2025\/10\/29",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2025\/11\/07",
+    "SendNumber": "南議建設字第 1140010234號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=23ecd79e-20e9-4b60-8741-804407a5545a",
+            "FileName": "市提6附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=055a49bb-2bd6-4c97-b134-82d804c7eef2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2025\/09\/17",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "2025\/09\/26",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -14,11 +14,17 @@
     "CheckDesc": "函送市府研辦。",
     "DoneDate": "2025\/07\/02",
     "DoneDesc": "照審查意見通過。",
-    "SendDate": "",
-    "SendNumber": "",
-    "DoDesc": "",
+    "SendDate": "2025\/07\/16",
+    "SendNumber": "南議工務字第 1140006333號",
+    "DoDesc": "本府就「請臺南市政府儘速協助辦理後壁區竹圍後小排1-13內水缺口改善計畫，以提升防洪及排水效能。」案，敬答覆如下：\r\n一、113年凱米颱風後東竹圍後小排1-13因超出保護標準強降雨損壞，經評估採既有半重力式擋土牆補強工法，計畫改善長度521公尺(雙岸)，補強工程總經費460萬元，並委由後壁區公所代辦，工程業於114年5月2日開工，預計114年8月31日竣工。\r\n二、另上開復建段旁，約計有1500公尺石籠護岸(雙岸)，雖防洪高度足夠，惟緊鄰農田石籠護岸透水性高無法蓄水種稻導致農民不易耕作，已研議將於既有石籠護岸上增作L 型擋牆高度約1.5尺，長1500公尺(雙岸)，所需經費約3000萬，本府將積極向中央爭取經費辦理。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4ad1a02d-92ec-4e2e-a756-f85fe9693738",
+            "FileName": "4-5定工務議提263市府回函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=21e051a6-7579-41a6-a5d9-52a9e46dfd2c&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2025\/07\/30",
+    "ExecuteReNumber": "府水行字第 1141047549號",
+    "ExecuteReMemo": "本府就「請臺南市政府儘速協助辦理後壁區竹圍後小排1-13內水缺口改善計畫，以提升防洪及排水效能。」案，敬答覆如下：\r\n一、113年凱米颱風後東竹圍後小排1-13因超出保護標準強降雨損壞，經評估採既有半重力式擋土牆補強工法，計畫改善長度521公尺(雙岸)，補強工程總經費460萬元，並委由後壁區公所代辦，工程業於114年5月2日開工，預計114年8月31日竣工。\r\n二、另上開復建段旁，約計有1500公尺石籠護岸(雙岸)，雖防洪高度足夠，惟緊鄰農田石籠護岸透水性高無法蓄水種稻導致農民不易耕作，已研議將於既有石籠護岸上增作L 型擋牆高度約1.5尺，長1500公尺(雙岸)，所需經費約3000萬，本府將積極向中央爭取經費辦理。",
     "ErrorMessage": ""
 }

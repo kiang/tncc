@@ -1,0 +1,54 @@
+{
+    "GradeTime": "第4屆 第6次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/10\/07",
+    "ComeNumber": "府消管字第1141405894號",
+    "OrgTitle": "臺南市政府消防局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部補助本市辦理「建構韌性臺灣因應極端情況災害應變中心與119指揮中心異地強固中程計畫」中，「衛星電話」採購，為爭取時效，謹請貴會同意先行墊付新臺幣（下同）705萬元(中央全額補助)，俾憑辦理後續相關作業事宜，俟115年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部114年7月15日台內密世消字第1141603263號函轉行政院114年6月17日院臺忠字第1140007101號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案「衛星電話」補助經費705萬元，為配合中央規劃儘速辦理，因未及納入本府114年度總預算，為爭取時效，謹請貴會同意先行墊付，俟115年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年9月23日第716次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：因考量原有Thuraya衛星電話公告衛星障礙服務中止，急迫需要備援通訊措施，爰中央統一規劃使用Inmarsat國際海事衛星電話滿足中央與各地方政府防救災通聯需要，提升通訊韌性，並預計於114年底前配發使用。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2025\/11\/27",
+    "CheckDesc": "聯席審查意見：\r\n一、同意墊付。\r\n二、附加條件：合約需訂定罰則，送本會同意後始得動支。",
+    "DoneDate": "2025\/12\/04",
+    "DoneDesc": "一、經本次定期會第25次會（114年12月4日）決議依聯席審查意見通過。\r\n二、於同次會（114年12月4日）經復議討論後決議：同意墊付。",
+    "SendDate": "2025\/12\/11",
+    "SendNumber": "南議保安字第 1140012068號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=278c5239-474f-4400-ba65-85901c6a3d23",
+            "FileName": "保安2號_議會提案單附件_函文與計畫節錄.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7cdc21d8-1f67-4d67-84af-740893b7df8b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=446cc7ad-61a9-4a94-b60e-f3b851ba2d33",
+            "FileName": "保安委員會2號案補充資料.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3b72a70e-0556-4c0c-bd9e-8ca60e2f1373",
+            "FileName": "復議動議1提案單(保安市提2) .pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "ReDate": "2025\/10\/23",
+    "ReDesc": "一、經本次定期會第25次會（114年12月4日）決議依聯席審查意見通過。\r\n二、於同次會（114年12月4日）經復議討論後決議：同意墊付。",
+    "FirstDate": "2025\/10\/29",
+    "FirstDesc": "交付聯席審查。",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

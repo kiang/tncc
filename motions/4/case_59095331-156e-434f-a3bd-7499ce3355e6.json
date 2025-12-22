@@ -19,23 +19,18 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5ec5d47a-c6b9-445f-a68f-7a736ec1b9fd",
-            "FileName": "附件1--「臺南巿淺海牡蠣養殖管理自治條例」總說明、逐條說明.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8d61b01b-b7c4-4b70-b2f4-45cbc950114e",
+            "FileName": "公聽會會議紀錄(禁用保麗龍)---4-5定-法規巿提5--臺南巿淺海牡蠣養殖管理自治條例.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0ab75945-4327-45a6-956e-83292a7622c5",
-            "FileName": "附件2--「臺南巿淺海牡蠣養殖管理自治條例」補充資料.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=dfd250da-4cfe-4281-b8fc-c9044b2d7ccd",
+            "FileName": "總說明、對照表及修正條文---4-5定-法規巿提5--臺南巿淺海牡蠣養殖管理自治條例.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8ff251f3-842e-48d3-a77d-de0fba07070b",
-            "FileName": "附件3--1070904-「臺南巿淺海牡蠣養殖管理自治條例」.pdf",
-            "ErrorMessage": ""
-        },
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=41f3d62b-3121-4070-9727-d31c35509993",
-            "FileName": "附件4--1130820公聽會會議紀錄--「臺南巿淺海牡蠣養殖管理自治條例」第六條及第十七條修法禁用保麗龍.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d50e6536-a2e0-406d-adf2-271318fe3d81",
+            "FileName": "補充資料---4-5定-法規巿提5--臺南巿淺海牡蠣養殖管理自治條例.pdf",
             "ErrorMessage": ""
         }
     ],
@@ -43,22 +38,28 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=59095331-156e-434f-a3bd-7499ce3355e6&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=aa9543fc-cb11-46fe-9ce8-1e8ce5522414",
-            "FileName": "附件5---4-5定-1140617法規委員會第2次議案審查會議紀錄.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b9e776b2-fdf1-41f6-a873-9f1829bfef2e",
+            "FileName": "審查意見報告書-4-5定第2次議案審查-巿提4-6號案.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=30ec1453-043c-4a0a-b794-e49ecdb8ee84",
-            "FileName": "附件5-1--審查意見報告書--4-5定--第2次巿提5號案.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=36b268cb-5507-438c-9250-6b3ddedcff6d",
+            "FileName": "審查結果對照表-4-5定法規巿提5號案---淺海牡蠣養殖.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=03835a65-5bf2-44b3-bbd5-3427e73d693a",
-            "FileName": "附件5-2---審查結果對照表---4-5定法規巿提5.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cf4f68d0-16e3-4e25-8783-fbe6d7e1da40",
+            "FileName": "會議紀錄-4-5定法規巿提4-6號案---法規委員會第2次議案審查.pdf",
             "ErrorMessage": ""
         }
     ],
-    "DoneAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6d21a2a2-ba74-4aaa-b814-155eb9a9b5c2",
+            "FileName": "大會決議-4-5定-25次會-2-6號案-1140702.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "ReDate": "2025\/05\/27",
     "ReDesc": "照審查意見通過。",
     "FirstDate": "2025\/06\/04",

@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第9次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "11",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2025\/07\/22",
+    "ComeNumber": "府環土字第1141052875號",
+    "OrgTitle": "臺南市政府環境保護局",
+    "OrgTitle2": "",
+    "CaseCause": "行政院核定本府辦理「二仁溪河道廢棄物清理第二期專案計畫」新臺幣13億432萬元(中央全額補助)，為爭取時效，謹請同意先行墊付114年度680萬3,000元，俾憑辦理後續相關作業事宜，俟115年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據行政院114年7月18日院臺環字第1141013733號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款：「經上級政府核定之補助款，所使用之支出。」規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經於114年7月18日院臺環字第1141013733號函獲行政院核定中央補助款為新臺幣13億432萬元，計畫期程預定114年至117年，旨揭計畫經費分4年編列預算辦理，114年度680萬3,000元、115年度3億4,250萬6,000元、116年度7億29萬6,000元、117年度2億5,471萬5000元，其中114年度680萬3,000元未及納入114年度總預算，為爭取時效，謹請貴會准予先行墊付114年度680萬3,000元，俟115年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府114年7月22日第707次市政會議通過，送請貴會審議。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：為確保本案能於117年完成清理作業，故爭取時效納入預算，並於114年12月前完成專案服務計畫上網公告並決標，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟115年度總預算時辦理轉正。\"}]",
+    "CheckDate": "2025\/08\/11",
+    "CheckDesc": "聯席審查意見：同意墊付。",
+    "DoneDate": "2025\/08\/18",
+    "DoneDesc": "照聯席審查意見同意墊付。",
+    "SendDate": "2025\/08\/21",
+    "SendNumber": "南議環衛字第 1140007924號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=83f5d540-a315-4fc0-8b73-90f97185fb04",
+            "FileName": "4-9臨 環衛市提第11號案 補充資料.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a67cbaf2-bad4-4ef3-8d57-61bf537d64a9",
+            "FileName": "4-9臨 環衛市提第11號案-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e65ce016-bbd0-475c-8f90-621080f6af04&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "2025\/07\/28",
+    "ReDesc": "照聯席審查意見同意墊付。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
