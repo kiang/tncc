@@ -11,7 +11,7 @@
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為配合房屋稅條例於113年1月3日修正公布，調整住家用房屋之法定稅率範圍，並將非自住住家用房屋戶數改採全國歸戶計算，爰擬具本修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經113年5月14日第646次市政會議審議通過，並於113年9月18日召開公聽會，再經113年12月3日第675次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市房屋稅徵收率自治條例」修正草案(含總說明、條文對照表及草案條文)1份。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
     "CheckDate": "2024\/12\/17",
-    "CheckDesc": "一、條文修正通過，稅率部份，依照協商版本，另議員修正意見，併送大會討論。(詳如審查結果對照表)。\r\n二、其他意見：進行大會(二讀會)前，請召開黨團協商會議。\r\n-------------------------\r\n113年12月19日政黨黨團協商第7次會議決議：依113年10月29日協商版本提送大會討論。(詳附件3：1130012400號函會議紀錄)",
+    "CheckDesc": "一、條文修正通過，稅率部份，依照協商版本，另議員修正意見，併送大會討論。(詳如審查結果對照表)。\r\n二、其他意見：進行大會(二讀會)前，請召開黨團協商會議。\r\n-------------------------\r\n113年12月19日政黨黨團協商第7次會議決議：依113年10月29日協商版本提送大會討論。(詳如黨團協商)。",
     "DoneDate": "2024\/12\/19",
     "DoneDesc": "一、修正通過。\r\n二、第3條第1項第3目有關起造人持有使用執照所載用途為住家用之待銷售房屋待銷售房屋稅率，依照113年10月29日協商版本修正通過，其餘照案通過。(詳大會決議對照表) 。",
     "SendDate": "2024\/12\/31",
@@ -19,13 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4666be27-ff13-4e69-b6b4-e1b4a44d764d",
-            "FileName": "4-7臨---市提2-房屋稅---提案單、總說明及條文.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1d4c8e8e-dff8-434a-8ada-c44f97415066",
+            "FileName": "總說明、逐條說明及修正條文-4-7臨法規巿提2--台南巿房屋稅率自治條例.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9f4c4184-1cf3-400b-9d32-41f8484fee59",
-            "FileName": "4-7臨---市提2-房屋稅---補充資料.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d503da4b-bf3c-4c65-b462-11dcb82ee0f9",
+            "FileName": "補充資料-4-7臨法規巿提2--台南巿房屋稅率自治條例.pdf",
             "ErrorMessage": ""
         }
     ],
@@ -33,18 +33,23 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5e230b77-44a1-4d5d-a95b-74043063d239&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=201e0cc4-2a5f-4e50-9733-a3b8e21d5f6c",
-            "FileName": "房屋稅審查會議紀錄---4-7臨-法規市提2.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5a5627e4-134d-43ff-9250-bb261eed5d30",
+            "FileName": "審查意見報告書--4-7臨-法規巿提2-修正房屋稅徵收率.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5e1dc431-9876-4075-8b43-f7cb2615dbe4",
-            "FileName": "決議定稿版-1131217房屋稅徵收率審查結果對照表---4-7臨-法規市提2.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f86ac3dc-812c-4eab-b779-3f3ca0af4d06",
+            "FileName": "審查結果對照表-4-7臨-法規巿提2-修正房屋稅徵收率條例.pdf",
             "ErrorMessage": ""
         },
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2ed5243c-43ef-40f7-912b-3ad9dc268194",
-            "FileName": "附件3-1130012400--4-7臨---第7次黨團會議紀錄.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a8c7a983-0db4-4f71-afb0-9f8d5256b145",
+            "FileName": "會議紀錄--4-7臨法規委員會第2次議案審查--法規巿提2房屋稅率.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=29c7ac7b-18dd-41b9-9b95-18acfa0e9ba9",
+            "FileName": "黨團協商--4-7臨-法規巿提2--修正房屋稅徵收率.pdf",
             "ErrorMessage": ""
         }
     ],
