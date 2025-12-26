@@ -27,7 +27,33 @@
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0f653fb9-5854-4765-981f-fcc8dd68ab0b&type=pdf",
     "CheckAttList": [],
-    "DoneAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b9e6fbec-0e27-4427-b241-0d6b0c1121be",
+            "FileName": "114-12-19 大會復議後決議.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8d62f616-a7f2-409d-a6ee-6dc9f1793902",
+            "FileName": "114-12-19 大會決議.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1ee7f511-fac7-4268-8b36-3f94cf7acfeb",
+            "FileName": "復議動議1-限購國產車(秘書處).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=558acf62-9e15-4cfa-954c-5dfc468efeb9",
+            "FileName": "復議動議2-康寧(財稅局)價購建物.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6194bb40-6058-4414-9e5f-fb8dff2595b5",
+            "FileName": "復議動議3-康寧(經發局)土地租金及維護管理.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "ReDate": "2025\/09\/17",
     "ReDesc": "一、經第4屆第10次臨時會第3次會（114年12月19日）審議通過（內容如大會決議表）。\r\n二、於同次會（114年12月19日）經復議討論通過（如大會復議後決議）。",
     "FirstDate": "2025\/09\/26",
