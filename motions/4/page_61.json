@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "建設",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "7",
+        "OrgTitle": "黄肇輝",
+        "CaseCause": "建請市府針對永康區東橋安居社會住宅之規劃重新進行評估，以解鄰近居民之疑慮。",
+        "ProNo": "e5e837e7-a1b0-475e-b430-fc044424f6fe",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "8",
         "OrgTitle": "蔡育輝",
         "CaseCause": "建請市政府辦理「新營區南興里（興農街至新生路）自行車道路面改善工程」，以確保用路人安全。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "李鎮國",
         "CaseCause": "建請市府重鋪永康區大仁街107巷道路。",
         "ProNo": "c67d51da-f445-4d62-b51e-6c071cf46943",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "53",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府規劃山上區環保生態公園，以利民眾使用。",
-        "ProNo": "74befbaf-87f9-46ed-a099-793767f51ece",
         "PagesAll": "64"
     }
 ]
