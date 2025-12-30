@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "213",
+        "OrgTitle": "沈震東",
+        "CaseCause": "建請臺南市政府工務局儘速辦理北區海安路三段338巷等路溝改善工程。",
+        "ProNo": "91307c33-83bb-4acf-8dc6-b7eab49fd34d",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "214",
         "OrgTitle": "沈震東",
         "CaseCause": "建請臺南市政府工務局儘速辦理北區海安路三段74巷路溝改善工程。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府文化局",
         "CaseCause": "訂定「臺南市市立博物館參觀收費標準」.",
         "ProNo": "a32b2d13-74e0-4e11-8835-8a5b6d91b297",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規備查案",
-        "CaseNumber": "4",
-        "OrgTitle": "臺南市政府衛生局",
-        "CaseCause": "修正「臺南市衛生檢驗收費標準」第三條、第五條。",
-        "ProNo": "6271ff16-de36-443f-a5d8-ac7ebe959975",
         "PagesAll": "64"
     }
 ]

@@ -18,7 +18,13 @@
     "SendNumber": "南議工務字第 1140012142號",
     "DoDesc": "",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2da15659-b5d0-4da8-aa8d-478c73b8ee00",
+            "FileName": "府水養字第1141756945號-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2edbb328-d355-4db1-a33f-730b277aeffb&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
+    "ExecuteReDate": "2025\/12\/23",
+    "ExecuteReNumber": "府水養字第 1141756945號",
     "ExecuteReMemo": "",
     "ErrorMessage": ""
 }

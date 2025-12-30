@@ -179,6 +179,17 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "17",
+        "OrgTitle": "臺南市政府工務局",
+        "CaseCause": "修正「臺南市政府工務局組織規程」第四條。",
+        "ProNo": "155a690f-4869-4593-b9be-73352b9f2f14",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府法制處",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林志展、周嘉韋、沈家鳳",
         "CaseCause": "建議於學前教育階段導入營養師制度，由教育局聘任專任營養師，負責全市公私立幼兒園餐點之營養與品質把關。",
         "ProNo": "8c929979-8bdf-4e99-95de-2cdbbd25d404",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "56",
-        "OrgTitle": "林志展、沈家鳳",
-        "CaseCause": "建請市政府透過家庭教育中心推動家長數位識讀課程，引導家長正向面對孩子探索期行為，降低誤解與傷害風險。",
-        "ProNo": "9b581b54-7a34-4856-a687-d1c72369052b",
         "PagesAll": "64"
     }
 ]
