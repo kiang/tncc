@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第3次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "42",
+        "OrgTitle": "林冠維、周奕齊",
+        "CaseCause": "請市府辦理大內區二溪里新設道路改善工程。",
+        "ProNo": "d1b1b40c-4a81-4da9-9636-cd2184c30c75",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "43",
+        "OrgTitle": "林冠維、周奕齊",
+        "CaseCause": "請市府辦理永康區崑山里大仁街199巷及181巷路面改善工程。",
+        "ProNo": "af1fc6bc-f6e8-459e-a8d9-4c2c7e3a3162",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "44",
         "OrgTitle": "林冠維、周奕齊",
         "CaseCause": "請市府辦理永康區建國里興國街7號前路面改善工程。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "沈震東",
         "CaseCause": "建請體育局修復成功里福成公園籃球場，以利民眾使用。",
         "ProNo": "f025078a-577b-408d-bd28-90244a01bd67",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "26",
-        "OrgTitle": "沈震東",
-        "CaseCause": "建請體育局修復大仁社區活動中心一樓舞蹈教室。",
-        "ProNo": "58635720-f289-46c1-940c-5bdc7c7629ae",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "27",
-        "OrgTitle": "沈震東",
-        "CaseCause": "建請體育局修繕大仁社區活動中心三樓羽球館。",
-        "ProNo": "32b20d6c-3d06-4beb-a3c2-5b932639961d",
         "PagesAll": "64"
     }
 ]

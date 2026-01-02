@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "55",
+        "OrgTitle": "吳禹寰",
+        "CaseCause": "建請市府儘速改善歸仁區成功路一段27巷60弄農路改善工程。",
+        "ProNo": "6d7dba0e-0ce5-447b-8ae1-4a04779d685d",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "56",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請改善官田區社子里六雙九路農路延續工程，因年久失修，路面龜裂破損嚴重，急需辦理改善，以利農產品運搬行車安全。",
+        "ProNo": "64335302-0712-4221-b143-ae7293e8fb28",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "57",
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府農業局儘速在新市區永就里中華路53巷60弄前，進行農路改善工程，保障人車通行安全。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "李宗霖",
         "CaseCause": "建請市府在東區林森立體停車場竣工後，於四樓與五樓空間規劃為「婦幼綜合服務中心」， 打造完善的婦幼空間。",
         "ProNo": "793d1f9f-7216-40be-8ed4-519345f7e9a9",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "40",
-        "OrgTitle": "沈震東、朱正軒、沈家鳳",
-        "CaseCause": "建請社會局推動「時間銀行」，提供老人照顧人力資源，並達成一個互惠互利的養老機制。",
-        "ProNo": "81a7882f-483b-406b-a567-ad8f81192a0b",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "41",
-        "OrgTitle": "黄肇輝、陳皇宇、蔡筱薇、余柷青、沈震東",
-        "CaseCause": "建請市府針對轄區內自中國進口之鋁蓋紙碗容器之稽查，以確保市民食的安全。",
-        "ProNo": "66a05878-da48-4ddf-84ea-1e4b3ca57404",
         "PagesAll": "64"
     }
 ]

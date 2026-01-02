@@ -3,6 +3,28 @@
         "DoneDate": "2023\/02\/17",
         "GradeTime": "第4屆 第1次 臨時會",
         "PTypTitle": "財經",
+        "KidTitle": "市府提案-動支第二預備金",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府",
+        "CaseCause": "檢送111年度臺南市總預算第二預備金動支數額表，敬請審議。",
+        "ProNo": "9ac830c0-f9e5-4dbf-8f71-5eab383271e8",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/02\/17",
+        "GradeTime": "第4屆 第1次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "1",
+        "OrgTitle": "蔡育輝、尤榮智",
+        "CaseCause": "建請臺南市政府辦理鹽水區文昌里「鹽水農地重劃區東路2-2改善工程」，以確保農機運輸及行人通行。",
+        "ProNo": "92a04d2b-6a89-4e50-902c-a915113ec965",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/02\/17",
+        "GradeTime": "第4屆 第1次 臨時會",
+        "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
         "CaseNumber": "2",
         "OrgTitle": "蔡育輝、尤榮智",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "許至椿",
         "CaseCause": "建請市府辦理改善北區北門里小康公園籃球場整修工程一事。\r\n",
         "ProNo": "1f77657c-662d-4e27-ba06-b86d051c7417",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "25",
-        "OrgTitle": "林美燕",
-        "CaseCause": "建請市府針對南區喜樹路151巷及喜樹路151巷2弄間(SC-62-8m)進行道路開闢，以改善交通便利。\r\n",
-        "ProNo": "e21f6bd5-ef0c-4c5f-8ae2-db9393e04435",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "26",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理下營區茅營里南58線道路改善工程，因年久失修，路面破損嚴重，急需辦理改善，以利交通。",
-        "ProNo": "fda0fd47-42fb-42d1-9e45-a3103de3ed7c",
         "PagesAll": "64"
     }
 ]

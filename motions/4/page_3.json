@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "46",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "下營區大屯農地重劃區大屯寮段1523-6地號道路龜裂破損，建請改善。",
+        "ProNo": "a1d135b1-2141-446d-9345-feb09d5d8cd3",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "47",
+        "OrgTitle": "朱正軒",
+        "CaseCause": "建請於永康創意園區滯洪池設置「水上多功能舞台」，打造兼具防洪與藝文展演的新地標。",
+        "ProNo": "0a6c028f-f976-4654-bdca-89e64828a3f4",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "48",
         "OrgTitle": "曾培雅",
         "CaseCause": "建請市府就「機35榮民之家重劃」舉辦公開說明會或公聽會，讓市民及里民充分了解未來規劃內容與發展願景。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "建請市府增購長照交通車輛，以改善長者就醫與復健交通不便情形。",
         "ProNo": "86af907e-a8c9-43b1-8a6f-1f55e3f45c8c",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "47",
-        "OrgTitle": "朱正軒、蔡麗青、沈家鳳、王宣貿、周嘉韋",
-        "CaseCause": "建請檢查現行長照補助制度，對弱勢及極重症失能者，選擇居家或住宿式照護，應依失能程度「同額補助」，以減輕家庭負擔並避免長照悲劇持續發生。",
-        "ProNo": "2f913ae7-6559-4180-8da5-99904deee221",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "48",
-        "OrgTitle": "王宣貿",
-        "CaseCause": "建請市府推動「長者肌力促進計畫」，結合社區據點、營養師與慢性病管理，並增設獎勵制度，提高長者參與率，強化肌力、預防跌倒，提升本市高齡人口之健康與生活品質。",
-        "ProNo": "cc061622-e697-4ee7-b3de-442efc539306",
         "PagesAll": "64"
     }
 ]

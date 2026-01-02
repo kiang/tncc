@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "建設",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "32",
+        "OrgTitle": "李宗翰",
+        "CaseCause": "建請市府於大新營區域設立社會住宅。",
+        "ProNo": "d48da656-8fda-4baf-b6df-fe658f32a47e",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "33",
+        "OrgTitle": "李宗翰",
+        "CaseCause": "建請市府向中央單位反應，要求國土計畫延後編定，並配合施行細則共同發布。",
+        "ProNo": "d307169f-8bdf-408a-bc7c-2ed3b76b842b",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "34",
         "OrgTitle": "林志展",
         "CaseCause": "建請市政府透過土地更新方式取得公設用地，以減少徵收民地。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "黃麗招",
         "CaseCause": "臺南市安南區安中路三段與仁安八街口畫網狀線案。",
         "ProNo": "ab786114-eeb5-48ec-a0bd-cbe13caa1360",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "77",
-        "OrgTitle": "吳通龍",
-        "CaseCause": "建請市府加快大曾文區臺南市公共自行車YouBike2.0設點的速度，以利串聯曾文區大眾運輸及觀光景點交通路線網。",
-        "ProNo": "36c3a2d1-81db-45f3-a02f-d664803474c5",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "78",
-        "OrgTitle": "李宗翰、周嘉韋、陳秋宏",
-        "CaseCause": "建請市府於柳營奇美醫院周邊增設機車停車場。",
-        "ProNo": "2d2656ea-a516-45ea-a042-8a740218d37b",
         "PagesAll": "64"
     }
 ]

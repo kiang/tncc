@@ -190,6 +190,17 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "18",
+        "OrgTitle": "臺南市政府社會局",
+        "CaseCause": "修正「臺南市老人福利機構評鑑及獎勵辦法」第五條、第十二條。",
+        "ProNo": "eb9bd291-d935-4456-94d0-a5d00da4c9ef",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府法制處",
@@ -206,6 +217,17 @@
         "OrgTitle": "臺南市政府法制處",
         "CaseCause": "修正「臺南市左鎮菜寮化石文化園區參觀收費標準」，名稱並修正為「臺南市左鎮化石文化園區參觀收費標準」。",
         "ProNo": "64eabec9-943a-48a5-951a-2b3351eafc6d",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規備查案",
+        "CaseNumber": "3",
+        "OrgTitle": "臺南市政府法制處",
+        "CaseCause": "修正「臺南市公有運動場地收費標準」。",
+        "ProNo": "89e8f054-f0bc-426d-84d9-b92ce68a97d5",
         "PagesAll": "64"
     },
     {
@@ -1075,28 +1097,6 @@
         "OrgTitle": "施余興望 Tjakumay Tagaw",
         "CaseCause": "建請市府教育局，對族語老師於非授課時間參與學生競賽指導，或協助非原授課範疇之校內外活動，應給予相應指導老師鐘點費，以保障教師專業付出並維護其權益。",
         "ProNo": "c6393db1-ead7-4c5b-a25a-a0dde12a6dd2",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "54",
-        "OrgTitle": "施余興望 Tjakumay Tagaw",
-        "CaseCause": "建請市府檢討教師節禮金發放標準，適度調升金額，以接近全國各直轄市平均水準，彰顯市府對教育人員之支持與肯定。同時建議將「專職族語老師」及「教學支援工作人員」納入教師節敬師禮金發放對象，以突顯對族語教學人員專業與貢獻之尊重與重視。",
-        "ProNo": "1d42609e-3ce9-497c-a117-7bf5df6dba8f",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "55",
-        "OrgTitle": "林志展、周嘉韋、沈家鳳",
-        "CaseCause": "建議於學前教育階段導入營養師制度，由教育局聘任專任營養師，負責全市公私立幼兒園餐點之營養與品質把關。",
-        "ProNo": "8c929979-8bdf-4e99-95de-2cdbbd25d404",
         "PagesAll": "64"
     }
 ]
