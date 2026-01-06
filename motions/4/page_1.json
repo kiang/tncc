@@ -201,6 +201,17 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "19",
+        "OrgTitle": "臺南市政府地政局",
+        "CaseCause": "修正「臺南市辦理區段徵收土地標售標租及設定地上權辦法」第四條、第四條之一。",
+        "ProNo": "e4a994aa-bde3-4c92-ad25-fedb8f396365",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府法制處",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "施余興望 Tjakumay Tagaw",
         "CaseCause": "建請市府教育局於校內設置族語教師專屬備課與休息空間，以利族語教師有效備課及適度休息，維護身心健康，並提升教學品質。",
         "ProNo": "cb74e052-4fd1-4c32-a299-21659ea67c5f",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "53",
-        "OrgTitle": "施余興望 Tjakumay Tagaw",
-        "CaseCause": "建請市府教育局，對族語老師於非授課時間參與學生競賽指導，或協助非原授課範疇之校內外活動，應給予相應指導老師鐘點費，以保障教師專業付出並維護其權益。",
-        "ProNo": "c6393db1-ead7-4c5b-a25a-a0dde12a6dd2",
         "PagesAll": "64"
     }
 ]
