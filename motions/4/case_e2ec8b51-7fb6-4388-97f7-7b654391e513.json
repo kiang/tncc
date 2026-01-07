@@ -16,7 +16,7 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2025\/12\/12",
     "SendNumber": "南議法規字第 1140012314號",
-    "DoDesc": "",
+    "DoDesc": "本案經臺南巿政府115年1月5日府環續字第1105579559號函復本會在案，相關資料陳報行政院鑒核。\r\n主旨：檢陳本府制定「臺南市淨零永續城市管理自治條例」草案總說明、逐條說明、條文、異動條文對照表及直轄市自治法規報院資料檢核表各1份，請鑒核。",
     "AttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bb832bda-80b1-4dcc-b568-ef0d8233dbc3",
@@ -34,7 +34,13 @@
             "ErrorMessage": ""
         }
     ],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=52f0f2a9-e4cd-4cec-a00d-35d15fc824f1",
+            "FileName": "巿府函陳行政院1150105-台南巿淨零永續城巿管理自治條例.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e2ec8b51-7fb6-4388-97f7-7b654391e513&type=pdf",
     "CheckAttList": [
         {
@@ -68,8 +74,8 @@
     "SecondDesc": "照審查意見通過。",
     "ThirdDate": "2025\/12\/04",
     "ThirdDesc": "照二讀會決議通過。",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2026\/01\/05",
+    "ExecuteReNumber": "府環續字第 1150079559號",
+    "ExecuteReMemo": "本案經臺南巿政府115年1月5日府環續字第1105579559號函復本會在案，相關資料陳報行政院鑒核。\r\n主旨：檢陳本府制定「臺南市淨零永續城市管理自治條例」草案總說明、逐條說明、條文、異動條文對照表及直轄市自治法規報院資料檢核表各1份，請鑒核。",
     "ErrorMessage": ""
 }
