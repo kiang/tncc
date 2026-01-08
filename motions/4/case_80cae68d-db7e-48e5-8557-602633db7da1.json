@@ -18,7 +18,13 @@
     "SendNumber": "南議建設字第 1140012034號",
     "DoDesc": "本府就「建請市政府持續推動多元行銷策略強化觀光產業發展，以提升國際觀光效益。」案，敬答覆如下：\r\n本府觀光旅遊局持續運用多元行銷方式(如附表)推廣觀光業務，包含各社群平台、實體及數位廣告、KOL及部落客協助報導、參加各式旅遊展覽、結合業者推出促銷優惠、異業合作、運用電子郵件推廣等，期透過各式宣傳管道，提升國際觀光效益。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=50d87c8f-1ccb-4d00-8cf7-4ad174c196d5",
+            "FileName": "回函附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=80cae68d-db7e-48e5-8557-602633db7da1&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
