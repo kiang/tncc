@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "141",
+        "OrgTitle": "林美燕",
+        "CaseCause": "建請市府交通局與工務局研議移除安平區國平里健康路三段329-335號前綠帶並增設機車停車格位之可能性。",
+        "ProNo": "1e9f2b49-89eb-4055-bca0-581f2ff4d511",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "142",
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府提高海安商圈分隔島之維護頻率。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府工務局",
         "CaseCause": "訂定「臺南市補發建築執照圖說及文件資料收費標準」。",
         "ProNo": "c7399b94-5e2d-4d9c-b7ab-046b1a78bcef",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "市府提案-市法規案",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府環境保護局",
-        "CaseCause": "擬具「臺南市低碳城市自治條例」第三條修正草案，敬請審議。",
-        "ProNo": "2dcd2484-71e3-4b66-bfe6-4c941c62169e",
         "PagesAll": "64"
     }
 ]

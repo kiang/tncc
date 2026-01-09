@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "76",
+        "OrgTitle": "黃麗招",
+        "CaseCause": "臺南市安南區安中路三段與仁安八街口畫網狀線案。",
+        "ProNo": "ab786114-eeb5-48ec-a0bd-cbe13caa1360",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "77",
         "OrgTitle": "吳通龍",
         "CaseCause": "建請市府加快大曾文區臺南市公共自行車YouBike2.0設點的速度，以利串聯曾文區大眾運輸及觀光景點交通路線網。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府工務局儘速在新市區港墘里白蓮霧公園，設置監視系統，以維護民眾生命安全。",
         "ProNo": "49b5a04e-c85e-478f-8fea-2b244bfb6b4e",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "47",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府工務局儘速在新市區社內里149-9前道路，進行柏油路面改善工程，保障人車通行安全。",
-        "ProNo": "f1c2f707-86b3-4a07-9c1b-448dc4f12d65",
         "PagesAll": "64"
     }
 ]

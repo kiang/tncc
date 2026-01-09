@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "210",
+        "OrgTitle": "沈震東",
+        "CaseCause": "建請臺南市政府工務局施作中西區西賢二街及西賢二街187巷側溝改善工程。",
+        "ProNo": "0d76199a-7de0-4742-be13-0b1defaf7db3",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "211",
         "OrgTitle": "沈震東",
         "CaseCause": "建請臺南市政府工務局儘速辦理北區南園街28巷路溝改善工程。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府體育局",
         "CaseCause": "修正「臺南市體育獎助金發給辦法」",
         "ProNo": "85185f34-8dc8-4379-9260-0e33995aa5cc",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規備查案",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府文化局",
-        "CaseCause": "修正「臺南市開發行為涉及有形文化資產查詢系統收費標準」.",
-        "ProNo": "81a68ef6-4b48-4bc6-bb39-93333cd5c989",
         "PagesAll": "64"
     }
 ]
