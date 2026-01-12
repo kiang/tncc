@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "146",
+        "OrgTitle": "沈震東",
+        "CaseCause": "建請工務局重新鋪設北區開元路485巷與開元路485巷41弄、北園街8巷路面。",
+        "ProNo": "f56a7da3-1d48-4522-999f-c0bbc384ad70",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "147",
         "OrgTitle": "沈震東",
         "CaseCause": "建請工務局重新鋪設中西區西湖街(含59巷)路面。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林依婷",
         "CaseCause": "臺南市安平區安平魚市場運河路段側溝，建議重新鋪設。",
         "ProNo": "fc045f4e-0c3c-4977-b1e3-2cfa44d16bb5",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "246",
-        "OrgTitle": "林美燕",
-        "CaseCause": "建議市府於安平區府平公園內增設合乎標準的匹克球場地，提供市民安全運動環境。",
-        "ProNo": "6fec91e1-53dc-4aa3-ab86-c048ec8a9d6b",
         "PagesAll": "64"
     }
 ]

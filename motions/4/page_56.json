@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "75",
+        "OrgTitle": "黃麗招",
+        "CaseCause": "建請重新檢討臺南市中西區北門路一段劃紅線部分改黃線案。",
+        "ProNo": "301091bb-26d4-4234-87ed-d24a0a780721",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "76",
         "OrgTitle": "黃麗招",
         "CaseCause": "臺南市安南區安中路三段與仁安八街口畫網狀線案。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府水利局儘速在新市區東大社段518地號，進行蒐集水路改善工程，保障市民權益。",
         "ProNo": "dbf1ee6f-3e9c-47a6-9021-cd6a230906bc",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "46",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府工務局儘速在新市區港墘里白蓮霧公園，設置監視系統，以維護民眾生命安全。",
-        "ProNo": "49b5a04e-c85e-478f-8fea-2b244bfb6b4e",
         "PagesAll": "64"
     }
 ]

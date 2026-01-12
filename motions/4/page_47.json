@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "140",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請市府於中華陸橋南側行人樓梯增設自行車牽引道，並設置夜間及路面提醒，以維用路人安全。",
+        "ProNo": "fa1951e6-a1b3-45bd-9619-5602d0567700",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "141",
         "OrgTitle": "林美燕",
         "CaseCause": "建請市府交通局與工務局研議移除安平區國平里健康路三段329-335號前綠帶並增設機車停車格位之可能性。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府觀光旅遊局",
         "CaseCause": "廢止「臺南市左鎮世界生態學園場使用收費標準」。",
         "ProNo": "45b8476d-398f-4295-ae8c-f8589a772abf",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規備查案",
-        "CaseNumber": "6",
-        "OrgTitle": "臺南市政府工務局",
-        "CaseCause": "訂定「臺南市補發建築執照圖說及文件資料收費標準」。",
-        "ProNo": "c7399b94-5e2d-4d9c-b7ab-046b1a78bcef",
         "PagesAll": "64"
     }
 ]

@@ -2,6 +2,17 @@
     {
         "DoneDate": "2025\/03\/20",
         "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "21",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請市府編列經費補助孕婦及嬰幼兒施打RSV疫苗，透過預防接種以減少感染風險，確保市民健康。",
+        "ProNo": "bb6a53ba-6f8e-45a7-ba20-ca6e4a690408",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
         "PTypTitle": "建設",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "李宗霖",
         "CaseCause": "建請市府遷移或拆除人行道上之變電箱，以落實行人通行安全，為終結行人地獄再往前邁進一大步。",
         "ProNo": "32a7e3f0-9eb9-4a8f-b91b-ce6769c973c5",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "52",
-        "OrgTitle": "吳通龍",
-        "CaseCause": "建請市府辦理麻豆區南48區道麻善橋道路往磚子井T字路段道路改善工程。",
-        "ProNo": "e084095e-dcac-49ad-984a-50d793b0ea47",
         "PagesAll": "64"
     }
 ]
