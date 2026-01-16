@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "86",
+        "OrgTitle": "李啓維",
+        "CaseCause": "建請市府規劃設置合法安全之無人機飛行場域，打造台南科技與休閒新亮點。",
+        "ProNo": "e575ff9a-1f66-471d-a85d-0d243eb9ef53",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "87",
+        "OrgTitle": "李啓維",
+        "CaseCause": "建請市府環港道路開放，改善漁光島交通瓶頸，提升觀光品質與居民生活便利。",
+        "ProNo": "e44379f7-213b-4980-ad98-e547c8e97baf",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "88",
         "OrgTitle": "余柷青",
         "CaseCause": "建請市府積極辦理新化區、新市區、善化區、山上區、安定區YouBike站點設置於公共部門、公共建設，便利民眾辦理公共事務和參與市府活動。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "陳秋萍",
         "CaseCause": "建請市府工務局儘速完成永康區永康里永福街11巷及永忠路等道路排水改善工程，保障社區住戶免於淹水之苦。",
         "ProNo": "74d5b731-a85e-41fc-ac54-38d0b7d4113f",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/06\/04",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "88",
-        "OrgTitle": "陳秋萍",
-        "CaseCause": "建請市府工務局儘速完成永康區北灣里文賢街道路側溝排水改善工程，避免病媒蚊長期孳生。",
-        "ProNo": "be22c40c-8c02-4c19-93b6-681525496a3b",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/06\/04",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "89",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請臺南市政府對擬開徵家戶汙水下水道使用費，以因應中央補助比例調降，每年須持續增編約6,000萬元的基礎上，計收每度應收取之汙水下水道使用費。",
-        "ProNo": "1099724b-2c22-41a2-acee-c87ec17d0a70",
         "PagesAll": "64"
     }
 ]

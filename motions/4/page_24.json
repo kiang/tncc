@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "建設",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "12",
+        "OrgTitle": "蔡育輝、蔡淑惠",
+        "CaseCause": "建請台南市政府明年能再辦一次南瀛國際民俗藝術節。",
+        "ProNo": "cced47bb-1d75-4af7-82ad-9b960b298f0b",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "13",
+        "OrgTitle": "蔡筱薇",
+        "CaseCause": "建請復刻小西門城的歷史建構。",
+        "ProNo": "f832e56a-2a5e-40c7-9381-63f60e1405d9",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "14",
         "OrgTitle": "李宗霖",
         "CaseCause": "建請市府進行公共工程前，在本市建構歷史敏感地區之基礎下，建立嚴謹之相關制度，避免重要歷史遺構、遺跡因疏忽而遭受破壞。 ",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "郭鴻儀、周嘉韋",
         "CaseCause": "本市台南鐵路地下化完工後，原國定古蹟的舊台南車站月台將保存與站前圓環相呼應成為火車園區，建議將原置放於體育公園之『CT259』與『DT652』蒸汽機關車移置台南車站園區，符合時代與歷史意義，增添台南車站園區亮點。",
         "ProNo": "9ff49be8-19be-4763-bd57-4d1efc8f7881",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "73",
-        "OrgTitle": "李鎮國",
-        "CaseCause": "「建請市府規劃各學校、公園、醫院、活動中心等公家機關週邊區域原白色斑馬線改變為綠白雙色斑馬線(如附圖)及改善行人友善空間之預算。",
-        "ProNo": "b0252159-9b5e-46cb-9dfa-896c1d21a48c",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "74",
-        "OrgTitle": "陳皇宇",
-        "CaseCause": "關廟區關廟國小學童通學步道的改善，除了增設行人通行步道外，同時將學校周圍交通標誌標線改善，以達到保護學童上下學通行安全。",
-        "ProNo": "0cc0eb86-0a5e-47da-8388-5b5a00803308",
         "PagesAll": "64"
     }
 ]

@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "民政教育",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "38",
+        "OrgTitle": "林志展、沈家鳳、李宗翰",
+        "CaseCause": "建請增設週一至週五下午身心障礙學生課後輔導。",
+        "ProNo": "8815b7c5-f784-450d-9eea-33f30a715409",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "39",
+        "OrgTitle": "李鎮國",
+        "CaseCause": "教育局針對公立幼兒園校外教學隨行人員可申請補助乙案，建請教育局能予平等互惠與少子化照顧原則擴及私立幼兒園，完善幼兒照顧與安全性。",
+        "ProNo": "7876dd97-5d6d-460a-acac-5a470ba907c8",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "40",
         "OrgTitle": "林冠維",
         "CaseCause": "請市府落實視障專業教師長久駐點，或列為正式編制之政策，以維護視障生穩定與即時之學習環境。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "林依婷",
         "CaseCause": "請市府建立瓦斯管線、自來水管線破裂通報系統。",
         "ProNo": "bc5bdbb9-c025-49e0-be47-e0b179d92adc",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "5",
-        "OrgTitle": "趙昆原、Ingay Tali 穎艾達利",
-        "CaseCause": "白河區關嶺里5鄰檳榔山延管工程一案，建請市府增加預算額度，降低案件設置成本，以達到中央評比標準。",
-        "ProNo": "82d325a6-3d2d-4d35-9b30-26dab3a7360e",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "趙昆原、Ingay Tali 穎艾達利",
-        "CaseCause": "白河區關嶺里9鄰大嶺延管工程一案，建請市府增加預算額度，降低案件設置成本，以達到中央評比標準。",
-        "ProNo": "6c09cf6b-7bfe-42a1-b3c9-259cb426c45b",
         "PagesAll": "64"
     }
 ]

@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "36",
+        "OrgTitle": "王家貞",
+        "CaseCause": "本市東區生產路及大同路2段路口，經常發生車禍，請相關單位研擬防制措施，以降低車禍肇事並確保行人安全。",
+        "ProNo": "0a28ec5f-595e-476e-a9e1-98da05c772c1",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "37",
+        "OrgTitle": "李偉智",
+        "CaseCause": "請市府評估於新化區180甲線(大智路)與台39線交叉路口取消大智路上機車兩段式左轉規定。",
+        "ProNo": "247ec97d-3e98-47a6-90fd-cfe469884c83",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "38",
         "OrgTitle": "蔡筱薇、沈家鳳",
         "CaseCause": "建請交通局檢討修訂「台南市停車場經營業設置低碳車輛充電設備補助辦法」。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "鄭佳欣、謝舒凡、周奕齊、林冠維、朱正軒",
         "CaseCause": "有關大型房屋興建或公共工程有發生鄰損事件時，建請市府自接獲房屋鄰損陳情後得視情況列管追蹤至工程完成，避免發生公共危險事件。",
         "ProNo": "a88048e7-b4dd-47fd-8429-1975a8c18f3b",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "38",
-        "OrgTitle": "陳怡珍、周奕齊",
-        "CaseCause": "有關臺南市北區西門路四段380巷1弄柏油路面破損不堪，影響行車安全乙案，本席建請臺南市政府應儘速進行鋪面改善工程。",
-        "ProNo": "6b17d76f-102e-4a01-b1d0-9ae3339db4cf",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "39",
-        "OrgTitle": "陳怡珍、周奕齊",
-        "CaseCause": "有關臺南市北區自強街196、198號處逢雨必淹乙案，本席建請臺南市政府儘速檢討周遭排水系統。",
-        "ProNo": "71e7cc47-0f15-44f1-a9f4-ae532aa40f67",
         "PagesAll": "64"
     }
 ]

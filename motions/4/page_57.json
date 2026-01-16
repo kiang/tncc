@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "44",
+        "OrgTitle": "林依婷",
+        "CaseCause": "臺南市安平區世平路路面老舊，建議重新鋪設。",
+        "ProNo": "3348cbd1-cd23-40a4-8ce2-244aaef8791c",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "45",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府水利局儘速在新市區東大社段518地號，進行蒐集水路改善工程，保障市民權益。",
+        "ProNo": "dbf1ee6f-3e9c-47a6-9021-cd6a230906bc",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "46",
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府工務局儘速在新市區港墘里白蓮霧公園，設置監視系統，以維護民眾生命安全。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "沈震東",
         "CaseCause": "建請工務局重新鋪設中西區湖美二街92、100及106巷磚面。",
         "ProNo": "9429122b-7e09-42aa-9f5f-b00b537f15b0",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "144",
-        "OrgTitle": "沈震東",
-        "CaseCause": "建請工務局重新鋪設中西區湖美一街86巷路面。",
-        "ProNo": "c806eb0c-f206-4baa-9325-50a11567ca5a",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "145",
-        "OrgTitle": "沈震東",
-        "CaseCause": "建請工務局重新鋪設中西區湖美街138巷至湖美一街130巷全線路面。",
-        "ProNo": "3c3c528f-ca13-4f20-9801-9a596e505bc5",
         "PagesAll": "64"
     }
 ]

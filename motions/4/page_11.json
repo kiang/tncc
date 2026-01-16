@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "民政教育",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "111",
+        "OrgTitle": "林志展",
+        "CaseCause": "建請市政府研議推動「冰葬」服務。",
+        "ProNo": "6bc8a004-07da-479f-94cf-24ab87e93102",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "112",
+        "OrgTitle": "林志展",
+        "CaseCause": "建請市政府輔導私立殯儀館使用電子輓聯，以符環保。",
+        "ProNo": "dc323de7-7d8e-4119-88cf-1e539b1a4579",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "113",
         "OrgTitle": "林美燕",
         "CaseCause": "請重新鋪設南區殯儀館內之柏油道路。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "蔡蘇秋金",
         "CaseCause": "建請儘速核定「佳里區民安里佳里農地重劃區子龍段1472、1611地號農路改善工程」，以利農便及維護用路人安全。",
         "ProNo": "17ba8d5a-4695-42aa-9904-2f1d52be7cc3",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "64",
-        "OrgTitle": "蔡蘇秋金",
-        "CaseCause": "建請儘速核定「將軍區漚汪重劃區N4(31 以北)農路改善工程」，以利農便及維護用路人安全。",
-        "ProNo": "870aa214-0ca2-4cbd-b655-096880325683",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "65",
-        "OrgTitle": "蔡蘇秋金",
-        "CaseCause": "建請儘速核定「將軍區苓子寮重劃區西二路農路改善工程」，以利農便及維護用路人安全。",
-        "ProNo": "fe8a5f11-f03b-4830-bc19-738a02180a77",
         "PagesAll": "64"
     }
 ]

@@ -223,9 +223,20 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "21",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "修正「臺南市文史工作室管理辦法」第四條。",
+        "ProNo": "bd749370-c11f-4a0e-a349-3f65cdbd7f92",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
-        "OrgTitle": "臺南市政府法制處",
+        "OrgTitle": "臺南市政府都市發展局",
         "CaseCause": "修正「臺南市指定建築線收費標準」。",
         "ProNo": "8024f0bc-3d97-4cd1-95ca-bbf89332d970",
         "PagesAll": "64"
@@ -236,7 +247,7 @@
         "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "2",
-        "OrgTitle": "臺南市政府法制處",
+        "OrgTitle": "臺南市政府文化局",
         "CaseCause": "修正「臺南市左鎮菜寮化石文化園區參觀收費標準」，名稱並修正為「臺南市左鎮化石文化園區參觀收費標準」。",
         "ProNo": "64eabec9-943a-48a5-951a-2b3351eafc6d",
         "PagesAll": "64"
@@ -247,9 +258,20 @@
         "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "3",
-        "OrgTitle": "臺南市政府法制處",
+        "OrgTitle": "臺南市政府體育局",
         "CaseCause": "修正「臺南市公有運動場地收費標準」。",
-        "ProNo": "89e8f054-f0bc-426d-84d9-b92ce68a97d5",
+        "ProNo": "df0c9d6a-e0bf-4d13-94b3-e5611f5ac830",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規備查案",
+        "CaseNumber": "4",
+        "OrgTitle": "臺南市政府消防局",
+        "CaseCause": "修正「臺南市燃氣熱水器承裝業證書規費收費標準」，名稱並修正為「臺南市申請燃氣熱水器承裝業證書收費標準」。",
+        "ProNo": "10bf9005-9293-4951-8c30-37f0f45b427c",
         "PagesAll": "64"
     },
     {
@@ -1075,28 +1097,6 @@
         "OrgTitle": "施余興望 Tjakumay Tagaw",
         "CaseCause": "建請市府設置專屬寒暑假補助津貼，確保寒暑假期間族語教師之生活與投保穩定性。",
         "ProNo": "ff5c1031-e45f-460a-99bc-b177a3aba228",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "50",
-        "OrgTitle": "施余興望 Tjakumay Tagaw",
-        "CaseCause": "建請市府教育局與族語教師充分協商，明訂符合實際教學需求之最低授課時數保障及合理最高授課時數，以確保教學品質並有效維護教師權益。",
-        "ProNo": "0bc321c9-97dd-40f7-ac08-a436df415346",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "51",
-        "OrgTitle": "施余興望 Tjakumay Tagaw",
-        "CaseCause": "建請市府教育局為本市族語教師加保意外險，保障族語教師在教學或通勤過程中可能發生的意外事故，降低族語教師因意外造成的經濟損失，維護族語教師身心安全與教學穩定性。",
-        "ProNo": "1b0bade8-5e21-47c7-9e72-bb2115610f1d",
         "PagesAll": "64"
     }
 ]

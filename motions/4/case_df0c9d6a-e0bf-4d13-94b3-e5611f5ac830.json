@@ -1,13 +1,13 @@
 {
     "GradeTime": "第4屆 第7次 定期會",
     "PTypTitle": "法規",
-    "CaseNumber": "1",
+    "CaseNumber": "3",
     "KidTitle": "查照\/備查案-法規備查案",
-    "ComeDate": "2025\/12\/17",
-    "ComeNumber": "府法制字第1141691279B號",
-    "OrgTitle": "臺南市政府都市發展局",
+    "ComeDate": "2026\/01\/02",
+    "ComeNumber": "府法規字第1141797840B",
+    "OrgTitle": "臺南市政府體育局",
     "OrgTitle2": "",
-    "CaseCause": "修正「臺南市指定建築線收費標準」。",
+    "CaseCause": "修正「臺南市公有運動場地收費標準」。",
     "Content": "",
     "Method": "",
     "CheckDate": "",
@@ -19,13 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ef3fdd05-21a1-4281-83ca-329f843b6ac4",
-            "FileName": "4-7定-法規備查1-修正「臺南市指定建築線收費標準」.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0bdaeeb1-5b1f-4aa4-b719-800a285f37cb",
+            "FileName": "4-7定-法規備查3-修正「臺南市公有運動場地收費標準」.pdf",
             "ErrorMessage": ""
         }
     ],
     "RAttList": [],
-    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8024f0bc-3d97-4cd1-95ca-bbf89332d970&type=pdf",
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=df0c9d6a-e0bf-4d13-94b3-e5611f5ac830&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
     "ReDate": "",
