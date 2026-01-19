@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "101",
+        "OrgTitle": "王宣貿",
+        "CaseCause": "建請市府儘速辦理柳營區旭山里南106–1線3.5k至4.5k處之路面更新工程。",
+        "ProNo": "45b6a2bd-6c6c-4905-b10d-927d6ac4b49d",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "102",
+        "OrgTitle": "吳通龍",
+        "CaseCause": "建請儘速辦理六甲區中山路608巷路面改善工程，以利社區交通及生活品質之提升。",
+        "ProNo": "443ce3f9-ab49-40eb-82b9-ee5a754e6d17",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "103",
         "OrgTitle": "吳通龍",
         "CaseCause": "建請儘速辦理六甲區工研路路面改善工程，以利交通及提升路平品質。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "臺南市政府地政局",
         "CaseCause": "修正「臺南市白河及臺南地政事務所編制表」。",
         "ProNo": "497f7c4d-e4d7-4001-8b02-7dd94abff5b1",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規查照案",
-        "CaseNumber": "18",
-        "OrgTitle": "臺南市政府教育局",
-        "CaseCause": "訂定「臺南市立沙崙國際高級中等學校職員員額編制表」。",
-        "ProNo": "a21626c1-6ef6-4672-b487-eb2d1c8c6d9c",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規查照案",
-        "CaseNumber": "19",
-        "OrgTitle": "臺南市政府教育局",
-        "CaseCause": "廢止「臺南市南化區玉山國民小學職員員額編制表」、「臺南市南化區西埔國民小學職員員額編制表」、「臺南市北門區雙春國民小學職員員額編制表」、「臺南市新營區新橋國民小學職員員額編制表」及「臺南市七股區龍山國民小學職員員額編制表」。",
-        "ProNo": "141497cc-60b7-4bb6-9885-da0979dd4f29",
         "PagesAll": "64"
     }
 ]

@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "37",
+        "OrgTitle": "方一峰",
+        "CaseCause": "建請市府儘速辦理「佳里農地重劃區E104農路(民安段580地號)改善工程」。",
+        "ProNo": "902fcfa0-fe89-492b-b5df-6323eca0e7ba",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "38",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請改善下營區茅港尾重劃區農路13號茅港尾段2276地號農路改善工程，因年久失修，路面龜裂老化破損嚴重，急需辦理改善，以利行車安全。",
+        "ProNo": "f8dd6d13-545b-4df0-a9ad-dbe317893f3c",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "39",
         "OrgTitle": "尤榮智",
         "CaseCause": "請改善六甲重劃區水漆林段1586-2、1586-1地號農路改善工程，早期重劃區未施作工程，長期被佔用，請儘速辦理改善，以利行車安全。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "蔡筱薇、沈家鳳",
         "CaseCause": "建請研擬恢復托育人員體檢費用。",
         "ProNo": "ecb8fcd7-f888-4df5-94ce-f6fc1d2f0870",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "16",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府規劃將排水溝造冊列入每年應清淤工作事項。",
-        "ProNo": "0f023b7d-c858-4b65-b530-45b61fd5a32b",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "17",
-        "OrgTitle": "林美燕",
-        "CaseCause": "建議於南區黃金海岸海堤步道沿線設置環境品質監測器，以顯示每天環境品質指標，供運動市民參考以選擇運動健走時段，使市民獲得更好運動品質。",
-        "ProNo": "a93a7a53-7ab6-4d0e-a4d3-e611845b45f7",
         "PagesAll": "64"
     }
 ]

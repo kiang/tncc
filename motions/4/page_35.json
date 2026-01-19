@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "34",
+        "OrgTitle": "許至椿",
+        "CaseCause": "建請市府辦理北區實踐段737地號土地(大武街與長榮路五段交叉口)規劃停車場。",
+        "ProNo": "edb9fa6e-f04c-4ba6-a4c7-e87049946b1e",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "35",
+        "OrgTitle": "李偉智",
+        "CaseCause": "建請市府改善新化區台20線與八德安樂園出入口號誌燈，連續秒數達112秒，請檢討合適性以利於車流順暢。",
+        "ProNo": "c5b07de6-9aec-4ec1-9693-8d130de03de7",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "36",
         "OrgTitle": "李偉智",
         "CaseCause": "建請市府規劃新化區台39線與南144線號誌交叉口處，提供左轉號誌燈，以利車流量進入社區。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "鄭佳欣、謝舒凡",
         "CaseCause": "建請市府改善公園兒童遊戲場時，主動納入社區人士、包含里長、議員等建議，並主動納入遮陽設施、洗手台之設計及周邊綠美化，做整體相關性改善。",
         "ProNo": "f5ac1a33-c5f9-4120-a282-77457fcb2451",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/05\/29",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "5",
-        "OrgTitle": "鄭佳欣、朱正軒、謝舒凡",
-        "CaseCause": "建請市府擬定本市各區現有通學步道、人行道之行道樹竄根優先改善計畫。",
-        "ProNo": "095abb7c-586b-4512-98fd-fb8df2ac1ae1",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/05\/29",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "鄭佳欣、朱正軒、謝舒凡",
-        "CaseCause": "建請市府擬定有關公園、綠地、廣場之兒童遊戲場設施危害應變原則。",
-        "ProNo": "4356f30c-102d-4acf-b24b-941839d500ec",
         "PagesAll": "64"
     }
 ]

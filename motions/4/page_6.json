@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "1",
+        "OrgTitle": "王家貞",
+        "CaseCause": "建請市府積極評估於平實公園内樹林間增設、更換照明設備，提高晚間在公園內活動民眾的安全性。",
+        "ProNo": "791f084a-a994-4063-9eed-222b4cace6a3",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/10\/29",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "王家貞",
+        "CaseCause": "建請市府強化東區長榮路三段125號前行人穿越道照明及修護閃燈號誌。",
+        "ProNo": "4a27cad4-9a7e-4a55-88ee-8e4fcb09f555",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/10\/29",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "3",
         "OrgTitle": "尤榮智",
         "CaseCause": "請辦理六甲區菁埔里區道南60線菁埔寮排水改善工程，因長年土地糾紛，無法施作排水溝，造成交通瓶頸，急需辦理改善，以利行車安全。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "李宗霖",
         "CaseCause": "建請市府針對東區崇誨市場周邊多條巷道進行道路刨鋪及標線重整，以確保用路人通行安全並提升市場整體交通品質。",
         "ProNo": "e9ad46dc-90f8-4367-b937-df985c9ec05d",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "101",
-        "OrgTitle": "王宣貿",
-        "CaseCause": "建請市府儘速辦理柳營區旭山里南106–1線3.5k至4.5k處之路面更新工程。",
-        "ProNo": "45b6a2bd-6c6c-4905-b10d-927d6ac4b49d",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "102",
-        "OrgTitle": "吳通龍",
-        "CaseCause": "建請儘速辦理六甲區中山路608巷路面改善工程，以利社區交通及生活品質之提升。",
-        "ProNo": "443ce3f9-ab49-40eb-82b9-ee5a754e6d17",
         "PagesAll": "64"
     }
 ]

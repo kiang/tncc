@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第6次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "20",
+        "OrgTitle": "陳昆和",
+        "CaseCause": "請辦理麻豆區安正里南49-2線附近道路改善工程。",
+        "ProNo": "5942abca-4981-41f7-b98a-abfc3bc0cabe",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "21",
+        "OrgTitle": "陳昆和、方一峰",
+        "CaseCause": "請辦理學甲區秀昌里一秀58號等3處道路改善工程。",
+        "ProNo": "7e9e75a9-1f07-4c0a-a4b7-76ec7ee08d68",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "22",
         "OrgTitle": "陳昆和、方一峰",
         "CaseCause": "請辦理北門區保吉里蚵寮364-9至364-27號宅前道路側溝改善工程。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "周嘉韋、陳皇宇、朱正軒、郭鴻儀、李宗翰、蔡筱薇",
         "CaseCause": "建請市府提升南市各級公立學校運動團隊參加外縣市體育競賽之住宿補助及膳食費補助。",
         "ProNo": "ba6ab0de-f613-41fc-8d7d-51a40c6cd4bf",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "21",
-        "OrgTitle": "林志展、周嘉韋",
-        "CaseCause": "建請市政府舉辦全國賽事時納入低碳永續概念，落實與世界接軌的永續發展價值。",
-        "ProNo": "f4e6b1fd-6e9e-4c64-956f-a6d3f28c1597",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "22",
-        "OrgTitle": "林志展、朱正軒、周嘉韋",
-        "CaseCause": "建請市政府檢討前往外縣市參加體育競賽團隊的經費補助。",
-        "ProNo": "7f1c88ef-f6cc-4e4c-8460-91abfcf9642d",
         "PagesAll": "64"
     }
 ]

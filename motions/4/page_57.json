@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "42",
+        "OrgTitle": "林依婷",
+        "CaseCause": "臺南市安平區洲平二街路面老舊，建議重新鋪設。",
+        "ProNo": "41c809b7-c963-450b-9b33-9822c148a90f",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "43",
+        "OrgTitle": "林依婷",
+        "CaseCause": "臺南市安平區同平路路面老舊，建議重新鋪設。",
+        "ProNo": "c5377cc5-1b22-4664-9397-f11c32c2f883",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "44",
         "OrgTitle": "林依婷",
         "CaseCause": "臺南市安平區世平路路面老舊，建議重新鋪設。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "沈震東",
         "CaseCause": "建請工務局規劃開元路394巷、開元路394巷41弄、開元路394巷27弄之電筒進行下地規劃。",
         "ProNo": "4fa2976b-a97b-4e23-9074-79464cc11a0d",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "142",
-        "OrgTitle": "沈震東",
-        "CaseCause": "建請工務局在振興開元公園設置風雨球場，以利民眾運動休閒。",
-        "ProNo": "d26960cb-67c5-4b6c-957b-d50a7b5cbbe6",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "143",
-        "OrgTitle": "沈震東",
-        "CaseCause": "建請工務局重新鋪設中西區湖美二街92、100及106巷磚面。",
-        "ProNo": "9429122b-7e09-42aa-9f5f-b00b537f15b0",
         "PagesAll": "64"
     }
 ]

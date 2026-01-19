@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "36",
+        "OrgTitle": "鄭佳欣、郭鴻儀",
+        "CaseCause": "建請市府儘速改善仁德區義林路(中山路至勝利路）路況不佳問題。",
+        "ProNo": "83003c9b-cc27-491a-b5c4-964b158ed127",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/10\/27",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "37",
+        "OrgTitle": "鄭佳欣、謝舒凡、周奕齊、林冠維、朱正軒",
+        "CaseCause": "有關大型房屋興建或公共工程有發生鄰損事件時，建請市府自接獲房屋鄰損陳情後得視情況列管追蹤至工程完成，避免發生公共危險事件。",
+        "ProNo": "a88048e7-b4dd-47fd-8429-1975a8c18f3b",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/10\/27",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "38",
         "OrgTitle": "陳怡珍、周奕齊",
         "CaseCause": "有關臺南市北區西門路四段380巷1弄柏油路面破損不堪，影響行車安全乙案，本席建請臺南市政府應儘速進行鋪面改善工程。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "沈家鳳",
         "CaseCause": "建請市府儘速辦理柳營區櫻花滯洪池特色公園二期工程，以利民眾休憩使用。",
         "ProNo": "49aabcda-b77e-4606-9bdb-482987a2c355",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "136",
-        "OrgTitle": "林美燕",
-        "CaseCause": "建請市府將位於安平區府平路(國平路至育平路)之柏油路予以重新鋪設，以保障民眾往來通行安全。",
-        "ProNo": "fe328f23-eadd-4932-aaec-f9ffbfacd718",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "137",
-        "OrgTitle": "陳怡珍、周奕齊",
-        "CaseCause": "有關臺南市中西區民權路四段112巷柏油路面破損不堪，影響行車安全乙案，建請臺南市政府儘速進行鋪面改善工程。",
-        "ProNo": "8f51495b-6178-48c4-a9e8-d9483a5b28e0",
         "PagesAll": "64"
     }
 ]

@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "34",
+        "OrgTitle": "尤榮智、方一峰",
+        "CaseCause": "建請台南市政府交通局增加交通號誌標誌、標線規劃專業人員，以利交通號誌標誌等設施改善。",
+        "ProNo": "42183783-7604-4d7e-b96c-71ca3259c5c2",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "35",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請取消學甲工業區大順路(18米道路)限制20T以上車輛進入，造成貨物運輸無法出入之罰鍰問題。",
+        "ProNo": "96ac89bd-5ebd-44f5-ab1f-3d0f045b2051",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "36",
         "OrgTitle": "王家貞",
         "CaseCause": "本市東區生產路及大同路2段路口，經常發生車禍，請相關單位研擬防制措施，以降低車禍肇事並確保行人安全。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "林冠維、周奕齊",
         "CaseCause": "請市府辦理永康區西灣里大勇路排水改善工程。",
         "ProNo": "1b667123-7818-4bb7-a512-1a9885b45ba8",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "36",
-        "OrgTitle": "鄭佳欣、郭鴻儀",
-        "CaseCause": "建請市府儘速改善仁德區義林路(中山路至勝利路）路況不佳問題。",
-        "ProNo": "83003c9b-cc27-491a-b5c4-964b158ed127",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "37",
-        "OrgTitle": "鄭佳欣、謝舒凡、周奕齊、林冠維、朱正軒",
-        "CaseCause": "有關大型房屋興建或公共工程有發生鄰損事件時，建請市府自接獲房屋鄰損陳情後得視情況列管追蹤至工程完成，避免發生公共危險事件。",
-        "ProNo": "a88048e7-b4dd-47fd-8429-1975a8c18f3b",
         "PagesAll": "64"
     }
 ]

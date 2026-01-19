@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "71",
+        "OrgTitle": "蔡宗豪",
+        "CaseCause": "有關本市開元路與北園街口、以及臺灣中油千越開元站路口交通安全。",
+        "ProNo": "46dfd7d3-760c-4711-8459-cb4d32994662",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "72",
+        "OrgTitle": "蔡宗豪",
+        "CaseCause": "避免治安死角，建請全市公車站牌增設照明設施LED\r\n1.可解決司機沒看到乘客過站不停問題\r\n2.建議用太陽能LED照明",
+        "ProNo": "7262a862-ebf1-4667-91e4-80de2543b824",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "73",
         "OrgTitle": "郭鴻儀",
         "CaseCause": "建請市府盤點本市公車站牌，提供友善公車等待空間，提升大眾運輸服務品質。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "林依婷",
         "CaseCause": "臺南市安平區永華五街路面老舊，建議重新鋪設。",
         "ProNo": "711a91ea-c474-4255-b0f7-404478d8d4ea",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "42",
-        "OrgTitle": "林依婷",
-        "CaseCause": "臺南市安平區洲平二街路面老舊，建議重新鋪設。",
-        "ProNo": "41c809b7-c963-450b-9b33-9822c148a90f",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "43",
-        "OrgTitle": "林依婷",
-        "CaseCause": "臺南市安平區同平路路面老舊，建議重新鋪設。",
-        "ProNo": "c5377cc5-1b22-4664-9397-f11c32c2f883",
         "PagesAll": "64"
     }
 ]
