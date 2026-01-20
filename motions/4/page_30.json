@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第6次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "19",
+        "OrgTitle": "陳昆和",
+        "CaseCause": "請辦理官田區隆本里南114線道路改善工程。",
+        "ProNo": "0fa8ab54-3f87-4395-a77b-7bc18d076d17",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "20",
         "OrgTitle": "陳昆和",
         "CaseCause": "請辦理麻豆區安正里南49-2線附近道路改善工程。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "郭鴻儀、黃麗招、蔡麗青、周嘉韋、邱昭勝",
         "CaseCause": "建請體育局增加亞太棒球訓練中心用地之商業、休閒及服務性機能，以滿足亞太棒球訓練中心需求並帶動周邊區域發展。",
         "ProNo": "20f358db-17bf-44b3-8915-a402431270ae",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "20",
-        "OrgTitle": "周嘉韋、陳皇宇、朱正軒、郭鴻儀、李宗翰、蔡筱薇",
-        "CaseCause": "建請市府提升南市各級公立學校運動團隊參加外縣市體育競賽之住宿補助及膳食費補助。",
-        "ProNo": "ba6ab0de-f613-41fc-8d7d-51a40c6cd4bf",
         "PagesAll": "64"
     }
 ]

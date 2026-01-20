@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "100",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請市府針對東區崇誨市場周邊多條巷道進行道路刨鋪及標線重整，以確保用路人通行安全並提升市場整體交通品質。",
+        "ProNo": "e9ad46dc-90f8-4367-b937-df985c9ec05d",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "101",
         "OrgTitle": "王宣貿",
         "CaseCause": "建請市府儘速辦理柳營區旭山里南106–1線3.5k至4.5k處之路面更新工程。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府都市發展局",
         "CaseCause": "修正「臺南市政府都市發展局組織規程」第三條。",
         "ProNo": "27bbfd3c-80fe-414a-8f19-81c49490f7ac",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規查照案",
-        "CaseNumber": "17",
-        "OrgTitle": "臺南市政府地政局",
-        "CaseCause": "修正「臺南市白河及臺南地政事務所編制表」。",
-        "ProNo": "497f7c4d-e4d7-4001-8b02-7dd94abff5b1",
         "PagesAll": "64"
     }
 ]

@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "17",
+        "OrgTitle": "臺南市政府地政局",
+        "CaseCause": "修正「臺南市白河及臺南地政事務所編制表」。",
+        "ProNo": "497f7c4d-e4d7-4001-8b02-7dd94abff5b1",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
         "CaseNumber": "18",
         "OrgTitle": "臺南市政府教育局",
         "CaseCause": "訂定「臺南市立沙崙國際高級中等學校職員員額編制表」。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "沈家鳳",
         "CaseCause": "建請市府環保局制定並公告「災後垃圾清運標準作業流程（SOP）」，統一各區公所及相關單位作法，確保災後廢棄物清運快速、有序且安全。",
         "ProNo": "029fc583-89eb-4051-948f-6eadddf65fba",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "4",
-        "OrgTitle": "沈家鳳",
-        "CaseCause": "建請市府建立「災害環境整頓機具救災協定平台」，並在平時即與業者簽訂合作協議，確保在重大災害發生後，能即時、合理、透明地投入救災。",
-        "ProNo": "18d4183e-63d5-4614-a73a-25b438d9b362",
         "PagesAll": "64"
     }
 ]

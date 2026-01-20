@@ -2,6 +2,17 @@
     {
         "DoneDate": "2024\/08\/22",
         "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "17",
+        "OrgTitle": "陳昆和、方一峰",
+        "CaseCause": "請辦理七股區大埕里大寮大文國小後方道路改善工程。",
+        "ProNo": "85f17dfd-cf47-4f90-8ebe-a7330e8d6ccc",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
         "PTypTitle": "財經",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "2",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "陳昆和",
         "CaseCause": "大內區市道178大坑橋至大匏崙台84線道路龜裂下陷案。",
         "ProNo": "66bac9da-826d-4b92-81ec-ca48ea12a8a2",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/08\/22",
-        "GradeTime": "第4屆 第6次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "19",
-        "OrgTitle": "陳昆和",
-        "CaseCause": "請辦理官田區隆本里南114線道路改善工程。",
-        "ProNo": "0fa8ab54-3f87-4395-a77b-7bc18d076d17",
         "PagesAll": "64"
     }
 ]
