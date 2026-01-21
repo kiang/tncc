@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第6次 臨時會",
         "PTypTitle": "民政教育",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "16",
+        "OrgTitle": "李偉智",
+        "CaseCause": "建請市府盡速完成新市區永就里永新活動中心地坪及樓梯修復工程。",
+        "ProNo": "f76449f0-dacf-4050-91f7-57eccc1c2d72",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "17",
         "OrgTitle": "陳昆和、方一峰",
         "CaseCause": "請辦理七股區大埕里大寮大文國小後方道路改善工程。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "陳昆和",
         "CaseCause": "請辦理左鎮區睦光里舊台20乙線(南化高幹22)道路側溝改善工程。",
         "ProNo": "f82a7a54-02a5-470c-bf4d-6b76f5e11491",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/08\/22",
-        "GradeTime": "第4屆 第6次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "18",
-        "OrgTitle": "陳昆和",
-        "CaseCause": "大內區市道178大坑橋至大匏崙台84線道路龜裂下陷案。",
-        "ProNo": "66bac9da-826d-4b92-81ec-ca48ea12a8a2",
         "PagesAll": "64"
     }
 ]

@@ -2,6 +2,28 @@
     {
         "DoneDate": "",
         "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "24",
+        "OrgTitle": "臺南市政府環境保護局",
+        "CaseCause": "修正「臺南市政府環境保護局組織規程」第三條。",
+        "ProNo": "6f558686-d963-41ed-a2c8-7f0b32701600",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "查照\/備查案-法規備查案",
+        "CaseNumber": "5",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "廢止「臺南市水交社文化園區參觀收費標準」。",
+        "ProNo": "401780ba-38ab-4d53-8c11-6752e456d502",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規查照案",
         "CaseNumber": "1",
@@ -294,17 +316,6 @@
         "OrgTitle": "臺南市政府消防局",
         "CaseCause": "修正「臺南市燃氣熱水器承裝業證書規費收費標準」，名稱並修正為「臺南市申請燃氣熱水器承裝業證書收費標準」。",
         "ProNo": "10bf9005-9293-4951-8c30-37f0f45b427c",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規備查案",
-        "CaseNumber": "5",
-        "OrgTitle": "臺南市政府文化局",
-        "CaseCause": "廢止「臺南市水交社文化園區參觀收費標準」。",
-        "ProNo": "401780ba-38ab-4d53-8c11-6752e456d502",
         "PagesAll": "64"
     },
     {
@@ -1086,17 +1097,6 @@
         "OrgTitle": "沈震東",
         "CaseCause": "建請教育局針對小康幼兒園文元分班儘速媒合，以利地方提供加值服務及避免閒置空間。",
         "ProNo": "c4fc5ee0-20b1-4b65-a62c-3e369b5be8a0",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "46",
-        "OrgTitle": "沈震東、沈家鳳",
-        "CaseCause": "建請教育局評估設置體健科，讓學校體育相關庶務回歸教育，以利權責分配。",
-        "ProNo": "1726c9df-5c67-429a-bd2c-059414ed3db3",
         "PagesAll": "64"
     }
 ]

@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "249",
+        "OrgTitle": "沈震東",
+        "CaseCause": "因臺南火車站圓環周圍路燈昏暗，建請工務局增加路燈照明。",
+        "ProNo": "9d09b79e-44d9-40f4-b617-379160dce6ae",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "250",
         "OrgTitle": "沈震東",
         "CaseCause": "建請臺南市政府工務局開闢NC-62-12M，連接NF-15-12M，以利市民便利通行。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "余柷青、邱莉莉、林志展、李文俊",
         "CaseCause": "建請臺南市政府民政局審慎撤除新化果菜市場舊址規劃活動中心。",
         "ProNo": "b1b2df32-36c9-4784-961c-9fc4253d66a1",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/08\/22",
-        "GradeTime": "第4屆 第6次 臨時會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "16",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府盡速完成新市區永就里永新活動中心地坪及樓梯修復工程。",
-        "ProNo": "f76449f0-dacf-4050-91f7-57eccc1c2d72",
         "PagesAll": "64"
     }
 ]

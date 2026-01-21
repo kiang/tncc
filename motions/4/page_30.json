@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第6次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "18",
+        "OrgTitle": "陳昆和",
+        "CaseCause": "大內區市道178大坑橋至大匏崙台84線道路龜裂下陷案。",
+        "ProNo": "66bac9da-826d-4b92-81ec-ca48ea12a8a2",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/08\/22",
+        "GradeTime": "第4屆 第6次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "19",
         "OrgTitle": "陳昆和",
         "CaseCause": "請辦理官田區隆本里南114線道路改善工程。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "盧崑福、蔡宗豪",
         "CaseCause": "安平區國平路、平通路口(金華段82、82-2地號)滑輪溜冰場不敷使用，希望增設滑輪曲棍球場。",
         "ProNo": "09700a69-68dd-417c-b28c-3905f74bf9ef",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "19",
-        "OrgTitle": "郭鴻儀、黃麗招、蔡麗青、周嘉韋、邱昭勝",
-        "CaseCause": "建請體育局增加亞太棒球訓練中心用地之商業、休閒及服務性機能，以滿足亞太棒球訓練中心需求並帶動周邊區域發展。",
-        "ProNo": "20f358db-17bf-44b3-8915-a402431270ae",
         "PagesAll": "64"
     }
 ]

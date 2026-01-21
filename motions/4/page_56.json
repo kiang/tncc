@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "69",
+        "OrgTitle": "沈震東",
+        "CaseCause": "建請臺南市公共運輸處儘速規劃濟生醫院及整體交通用地之修復規劃。",
+        "ProNo": "f2f6bab1-181c-42c7-aa0e-f80361bbce5a",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "70",
         "OrgTitle": "沈震東",
         "CaseCause": "建請交通局將文祥公園設置成交通主題公園，以利孩童對於交通知能提升。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林依婷",
         "CaseCause": "臺南市安平區健康三街路面老舊，建議重新鋪設。",
         "ProNo": "4b6f73cf-530c-4649-baa6-179a1621ce10",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "40",
-        "OrgTitle": "林依婷",
-        "CaseCause": "臺南市安平區慶平路路面老舊，建議重新鋪設。",
-        "ProNo": "eea0196a-c9fd-47cc-b2f3-9cde0a780262",
         "PagesAll": "64"
     }
 ]
