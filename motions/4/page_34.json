@@ -1,5 +1,38 @@
 [
     {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "73",
+        "OrgTitle": "陳怡珍",
+        "CaseCause": "有關帶狀疱疹疫苗要價不斐，弱勢族群難以負擔乙案，本席建請臺南市政府應儘速評估提供免費接種。",
+        "ProNo": "bcaae8e9-ce84-4ff8-882c-da52855d672c",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/05\/29",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "專案報告-專案報告",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府環境保護局",
+        "CaseCause": "「本市非法廢棄物堆置場址處置」專案報告",
+        "ProNo": "38ce3893-f2cc-40a5-92e5-0409d0b2583d",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "檢送「財團法人臺南市台日文化友好交流基金會」113年度營運及資金運用計畫乙份，請查照。",
+        "ProNo": "a2b6cc15-2ee6-46d9-9f06-1f229c436555",
+        "PagesAll": "64"
+    },
+    {
         "DoneDate": "2024\/05\/29",
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "建設",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "王家貞",
         "CaseCause": "在主要道路與各交接巷道口設有密集紅綠號誌燈的路段，建請市府於交通離峰期，將同一路段部分紅綠號誌燈調整為閃紅或閃黃燈號。",
         "ProNo": "0e796e7a-c3dd-4fec-8c40-fcce61af49f4",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "29",
-        "OrgTitle": "王家貞",
-        "CaseCause": "建請市政府針對現行道路路口有直行及左轉交通標線改善。",
-        "ProNo": "d82edb80-bb75-457f-ab73-61e2f08cbe69",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "30",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "請市政府增設新營火車站至新營市福園殯葬區公車路線在福園長榮路入口處設公車站以方便居住於外縣市或本市其他區之眷屬至新營福園祭拜。",
-        "ProNo": "e7cf88bb-91c3-46c6-862d-27c290704e08",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "31",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請交通局協調臺南市YouBike微笑單車騎乘跨越其他縣市時免收跨區調度費用暨擴大於社區間、各景點區、各級學校周邊、缺少公車站點處等增設騎乘區以服務市民。",
-        "ProNo": "e649961e-9116-4b2e-8a2e-c09b312d1616",
         "PagesAll": "64"
     }
 ]

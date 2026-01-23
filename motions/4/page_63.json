@@ -1,5 +1,38 @@
 [
     {
+        "DoneDate": "2023\/02\/17",
+        "GradeTime": "第4屆 第1次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "22",
+        "OrgTitle": "林冠維",
+        "CaseCause": "請市府重新裝設復華里活動中心冷氣。",
+        "ProNo": "f484998b-2530-4d7e-9171-d7576b058dd9",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/02\/17",
+        "GradeTime": "第4屆 第1次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "23",
+        "OrgTitle": "林冠維",
+        "CaseCause": "請市府辦理三民里活動中心防水工程。",
+        "ProNo": "c8d7e135-27d2-47ca-8fc2-cf134dc0a407",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/02\/08",
+        "GradeTime": "第4屆 第1次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府經濟發展局",
+        "CaseCause": "有關經濟部能源局核定本府「112年度補助直轄市、縣(市)政府辦理再生能源發電設備認定與查核作業」經費新臺幣800萬元整一案(中央全額補助)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟112年度追加減預算時辦理轉正，敬請審議。",
+        "ProNo": "c1298dd2-9b81-4ea6-8382-af9cbdac9342",
+        "PagesAll": "64"
+    },
+    {
         "DoneDate": "2023\/02\/08",
         "GradeTime": "第4屆 第1次 臨時會",
         "PTypTitle": "財經",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "陳秋萍",
         "CaseCause": "建議永康區文賢街(大灣路~民族路)道路，納入路平專案改善。",
         "ProNo": "ab91a188-a327-44f0-86f6-3a41ab6600e8",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "14",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府工務局在新市區番子寮段1564地號(永新社區)增設體健設施，以提供社區民眾更充足運動休憩空間。",
-        "ProNo": "c2b97dae-0a4c-4767-89bd-f213c44e2892",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "15",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府工務局儘速在新市區永就里榮安宫前道路，進行柏油路面改善工程，保障人車通行安全。",
-        "ProNo": "992189a5-22d7-4de8-8a0f-a932837939d4",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "16",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府工務局在新市區港墘里白蓮霧公園，增設兒童遊戲設施，提供家長與小朋友一處安全的遊樂場所。",
-        "ProNo": "3e412c45-9499-4e88-9229-de7b554fdae8",
         "PagesAll": "64"
     }
 ]
