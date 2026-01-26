@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第1次 臨時會",
         "PTypTitle": "民政教育",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "20",
+        "OrgTitle": "林冠維",
+        "CaseCause": "請市府重新裝設西灣里活動中心冷氣。",
+        "ProNo": "1deea69d-4c85-4636-93f1-ecfd7cc6bd03",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/02\/17",
+        "GradeTime": "第4屆 第1次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "21",
+        "OrgTitle": "林冠維",
+        "CaseCause": "請市府重新裝設復國里活動中心風扇。",
+        "ProNo": "5be6c535-000d-4b92-859b-52077731f018",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/02\/17",
+        "GradeTime": "第4屆 第1次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "22",
         "OrgTitle": "林冠維",
         "CaseCause": "請市府重新裝設復華里活動中心冷氣。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "陳秋萍",
         "CaseCause": "建請增加永康區尚頂里鄰里公園體健設施，以利市民運動促進身體健康。",
         "ProNo": "93c78d07-b53b-4385-905e-06a66499f38e",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "12",
-        "OrgTitle": "陳秋萍",
-        "CaseCause": "請儘速將大同街(文賢街至大灣路)路面磨光老化路段進行改善工程。",
-        "ProNo": "7cd17454-6ff4-4aa2-8f9a-393180ce0ea6",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "13",
-        "OrgTitle": "陳秋萍",
-        "CaseCause": "建議永康區文賢街(大灣路~民族路)道路，納入路平專案改善。",
-        "ProNo": "ab91a188-a327-44f0-86f6-3a41ab6600e8",
         "PagesAll": "64"
     }
 ]

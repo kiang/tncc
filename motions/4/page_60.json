@@ -1,5 +1,27 @@
 [
     {
+        "DoneDate": "2023\/04\/27",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "會務",
+        "KidTitle": "議員提案-會務案",
+        "CaseNumber": "4",
+        "OrgTitle": "邱議長莉莉",
+        "CaseCause": "本會擬與日本藤枝市議會簽署締結友好交流協定，以持續推動雙方友好發展乙案，敬請審議。",
+        "ProNo": "6bcbfc30-c18d-41da-95d0-05b5b431fb86",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/04\/27",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "會務",
+        "KidTitle": "議員提案-會務案",
+        "CaseNumber": "5",
+        "OrgTitle": "邱議長莉莉",
+        "CaseCause": "建請本會管理中西區慶中街首長宿舍歸還所有權人臺南市政府，讓市府資源能有效及充分的運用，以活化該區域空間，俾地盡其用。",
+        "ProNo": "a1a282be-b6f7-4100-abd0-c6b96647ff1d",
+        "PagesAll": "64"
+    },
+    {
         "DoneDate": "2023\/06\/07",
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "會務",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "李鎮國",
         "CaseCause": "請環保局依法儘速處理永康區中正路 542 巷及中正五街 53 巷有毒廢棄物，還給民眾健康友善的生活空間。",
         "ProNo": "27cee262-d03f-46eb-9ef0-daf09334ea6f",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "10",
-        "OrgTitle": "蔡麗青",
-        "CaseCause": "建請更新環保局監視器設備，以增進環保局稽查作業效率。\r\n",
-        "ProNo": "e7950276-b55a-4754-9fce-b3b2220a55f5",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "11",
-        "OrgTitle": "沈震東、李宗霖、余柷青、陳皇宇、王宣貿、沈家鳳",
-        "CaseCause": "建請環境保護局將臺南市推廣社區環境教育增能培訓及掃街實作補助計畫之補助經費重新進行研議。",
-        "ProNo": "a2ce8dda-18ee-460b-b064-674c35a2f3c9",
         "PagesAll": "64"
     }
 ]

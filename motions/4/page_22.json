@@ -3,6 +3,28 @@
         "DoneDate": "2024\/12\/02",
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "財經",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "9",
+        "OrgTitle": "臺南市政府地政局",
+        "CaseCause": "內政部土地重劃工程處補助辦理113 年度農村社區土地重劃補助計畫，所需經費65 萬元(中央補助款52 萬元，地方配合款13 萬元)，因未及納入114 年度總預算案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114 年度追加減預算時辦理轉正，敬請 審議。",
+        "ProNo": "7a47a686-09f5-46bd-8a63-eae95855d3ae",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-一般提案",
+        "CaseNumber": "6",
+        "OrgTitle": "臺南市政府財政稅務局",
+        "CaseCause": "為辦理讓售本府經管坐落本市東區府連段375地號等10筆非公用市有土地，謹依土地法第25條規定之處分程序，敬請審議。",
+        "ProNo": "4f209f8b-e00a-4b75-ba8b-0f227f18af0a",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
         "KidTitle": "市府提案-一般提案",
         "CaseNumber": "7",
         "OrgTitle": "臺南市政府財政稅務局",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "余柷青",
         "CaseCause": "新化區山腳里頂山腳段1228地號等3筆農路改善工程。",
         "ProNo": "89d3b63c-8bfc-4ac5-a574-9d53ed40b08a",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "96",
-        "OrgTitle": "余柷青、陳秋宏",
-        "CaseCause": "大内區二溪里24陵農路排水改善工程。",
-        "ProNo": "d0a57331-8b20-4b1e-a7c7-b40b6963ffee",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "97",
-        "OrgTitle": "余柷青",
-        "CaseCause": "新化區頂山脚段1890-2地號農路改善工程。",
-        "ProNo": "94ce4aff-7e03-4a20-8459-5176c301291f",
         "PagesAll": "64"
     }
 ]

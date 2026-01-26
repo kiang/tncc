@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "244",
+        "OrgTitle": "沈家鳳、陳秋宏",
+        "CaseCause": "建請市府於南市污水下水道系統分支管線工程完工後，於8米以上道路應一律重新刨除鋪設新路面。",
+        "ProNo": "b49b06b7-d2ff-4726-a3a6-6774c1e15851",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "245",
+        "OrgTitle": "沈震東",
+        "CaseCause": "建請水利局加速運河整治，處理運河盲段水質改善。",
+        "ProNo": "226d254c-84e3-414c-a04b-facaa9a8373d",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "246",
         "OrgTitle": "沈震東",
         "CaseCause": "建請臺南市政府水利局針對府前路二段237巷及258巷之運河河堤進行改善，以利整體運河盲段整體性。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "李宗霖、沈家鳳",
         "CaseCause": "建請市府針對幼兒園及教保機構之性別事件嚴格落實相關處理程序，善盡調查責任，並積極預防，以維幼兒權益。",
         "ProNo": "bd0d483c-bbfe-4309-9615-7a75525401b1",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/08\/22",
-        "GradeTime": "第4屆 第6次 臨時會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "11",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府調整本市四所完全中學「教師兼任行政人員每週授課節數」以及「全校協助行政減授課總節數」比照其他五都之高中。",
-        "ProNo": "077da176-2884-4ee3-84af-c8a647206e5e",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/08\/22",
-        "GradeTime": "第4屆 第6次 臨時會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "12",
-        "OrgTitle": "陳怡珍、Ingay Tali 穎艾達利",
-        "CaseCause": "有關臺南市北區大豐里活動中心汰換冷氣機申請乙案，本席建請臺南市政府應儘速編列經費辦理。",
-        "ProNo": "1431d7e0-b730-4c14-8db9-74d4d0b56d10",
         "PagesAll": "64"
     }
 ]

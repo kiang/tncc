@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "42",
+        "OrgTitle": "蔡筱薇",
+        "CaseCause": "南台南副都心區域開發排水箱涵急需建置，建請相關單位儘速規劃，完整東區崇明里排水系統。",
+        "ProNo": "f37f243f-e708-42ab-8192-a30383d9aaee",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "43",
+        "OrgTitle": "蔡蘇秋金",
+        "CaseCause": "佳里區子龍里蔥子寮排水旁既有版橋拓寬。",
+        "ProNo": "60068616-6eeb-4d43-a0c2-906c85306760",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "44",
         "OrgTitle": "蔡育輝",
         "CaseCause": "建請市政府編列預算辦理白河區詔安農地重劃區農路二十、農地重劃區農路七十一路面損壞及小排二之八水路崩塌路基滑落等農路改善工程，以維護農民人車通行安全。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "蔡筱薇",
         "CaseCause": "建請提高復康巴士之司機量能。",
         "ProNo": "afd11172-ada9-43a1-b705-d6dc3a93fcd1",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "27",
-        "OrgTitle": "蔡宗豪",
-        "CaseCause": "恰逢台南400，弔念不容泯滅的悲劇史實，記取歷史教訓-台灣慰安婦事件，建請臺南市政府將全台唯一的慰安婦銅像，遷移至適當地點，以供全民追思憑弔。",
-        "ProNo": "9e9a3c4b-30fc-4fbb-9f7d-bf116c3c1010",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "28",
-        "OrgTitle": "林美燕",
-        "CaseCause": "建請市府官網總體檢，將消費申訴與爭議調解案例分類系統性整理，於官網中主動公布充分揭露，加強消費者保護教育與宣導，提升消費者保護意識。",
-        "ProNo": "1fe19e13-612f-4b63-8104-b57db312eb75",
         "PagesAll": "64"
     }
 ]

@@ -311,6 +311,28 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "26",
+        "OrgTitle": "臺南市政府水利局",
+        "CaseCause": "修正「臺南市政府水利局組織規程」第三條。",
+        "ProNo": "b1c1b7aa-ffca-466c-a78a-d7c14dd43daf",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "27",
+        "OrgTitle": "臺南市政府交通局",
+        "CaseCause": "訂定「臺南市特定地區營業用載客人力行駛車輛管理辦法」",
+        "ProNo": "58c15e4c-19d6-4704-813d-b4a8bc3a5494",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府都市發展局",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "陳秋萍",
         "CaseCause": "請教育局持續強化本市學校校舍耐震能力評估作業，並依實際需求及整體規劃，滾動檢討及編列相關補強與重建經費，以確保校園安全。",
         "ProNo": "a39a371e-4915-489a-bc5f-c1dcda29f769",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "41",
-        "OrgTitle": "王家貞",
-        "CaseCause": "建請市府教育局儘速審慎評估維護本土語文教學支援教師應得到合理的授課鐘點費，以期降低教學支援教師流動率並提升教學品質。",
-        "ProNo": "b98fa73f-daf6-4e89-a272-53130e4e99fb",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "42",
-        "OrgTitle": "王家貞",
-        "CaseCause": "建請市府教育局儘速研擬本土語文教學支援教師寒暑假期間給予勞健保續保補助方案，減少本土語文教學支援教師流動率以提升師資的留才久用及教學品質。",
-        "ProNo": "bc3cc6e3-ec58-41b5-99ea-0d802daa20ca",
         "PagesAll": "64"
     }
 ]

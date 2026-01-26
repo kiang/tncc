@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "33",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府地政局儘速在新市區東潭頂段177地號農地，進行擋土牆改善工程，俾利農耕。",
+        "ProNo": "ab030f0c-ec38-452e-88a4-04be706c187b",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "34",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府地政局儘速在新市區東潭頂段104地號，進行柏油路面改善工程，保障人車通行安全。",
+        "ProNo": "bbb81ada-3230-4439-a096-1af6a7f26f6c",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "35",
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府地政局儘速在善化區北子店687地號前農路(北子店593號旁)，進行柏油路面改善工程。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "沈家鳳",
         "CaseCause": "鑒於物價上漲致使現行社團活動誤餐費中節慶桌餐補助標準已不足以支應實際開支，建請市府提高補助金額，使補助更符合物價現況並提升活動辦理品質。",
         "ProNo": "710c1d3f-ec21-4d2c-8f87-8cec71938f54",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "34",
-        "OrgTitle": "王宣貿",
-        "CaseCause": "建請臺南市政府協助新營區護鎮里後鎮社區發展協會換購冷氣設備。",
-        "ProNo": "eb943d29-2493-43c7-9b8a-45686e71d43d",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "35",
-        "OrgTitle": "沈家鳳",
-        "CaseCause": "因應高溫氣候，長輩為熱傷害高風險族群，建請市府檢討社區關懷據點功能，於極端高溫期間強化避暑、健康守護與陪伴措施，確保長輩安全與舒適。",
-        "ProNo": "5a383be0-fd0c-474c-bcdb-9deea7d5eee2",
         "PagesAll": "64"
     }
 ]
