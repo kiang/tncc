@@ -333,6 +333,17 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "28",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "修正「臺南市政府文化局組織規程」第三條。",
+        "ProNo": "1cdb8e47-edb1-46e9-bf05-793d8969b62e",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府都市發展局",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "陳碧玉",
         "CaseCause": "為防範學生於通學途中從事危險或不當用路行為（如並排騎乘、自行車占用車道、邊騎車邊使用手機等），影響行車秩序與自身安全，建請教育單位及學校強化交通安全教育與宣導。",
         "ProNo": "b8df3758-1497-4fee-be7e-a27e74c99f44",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "40",
-        "OrgTitle": "陳秋萍",
-        "CaseCause": "請教育局持續強化本市學校校舍耐震能力評估作業，並依實際需求及整體規劃，滾動檢討及編列相關補強與重建經費，以確保校園安全。",
-        "ProNo": "a39a371e-4915-489a-bc5f-c1dcda29f769",
         "PagesAll": "64"
     }
 ]
