@@ -25,17 +25,6 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案",
-        "CaseNumber": "25",
-        "OrgTitle": "臺南市政府文化局",
-        "CaseCause": "修正「臺南市立圖書館組織規程」第四條、第十三條。",
-        "ProNo": "b6e835bd-a63c-4a2d-a301-0237d15e31e0",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規查照案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府教育局",
@@ -304,7 +293,7 @@
         "CaseNumber": "25",
         "OrgTitle": "臺南市政府文化局",
         "CaseCause": "修正「臺南市立圖書館組織規程」第四條、第十三條。",
-        "ProNo": "c58d97d7-72f9-45e8-8f94-d8c819b4cdb5",
+        "ProNo": "b6e835bd-a63c-4a2d-a301-0237d15e31e0",
         "PagesAll": "64"
     },
     {
@@ -338,6 +327,17 @@
         "OrgTitle": "臺南市政府文化局",
         "CaseCause": "修正「臺南市政府文化局組織規程」第三條。",
         "ProNo": "1cdb8e47-edb1-46e9-bf05-793d8969b62e",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "29",
+        "OrgTitle": "臺南市政府勞工局",
+        "CaseCause": "修正「臺南市政府勞工局組織規程」第三條。\r\n",
+        "ProNo": "81a54992-b4e6-4efe-9846-5004015cffb7",
         "PagesAll": "64"
     },
     {
@@ -389,10 +389,32 @@
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
+        "CaseNumber": "5",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "廢止「臺南市水交社文化園區參觀收費標準」。",
+        "ProNo": "69279f76-037a-4738-a8bc-88785ac71d3f",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "6",
         "OrgTitle": "臺南市政府農業局",
         "CaseCause": "修正「臺南市犬貓收容及處理收費標準」第一條之一。",
         "ProNo": "77b18699-1911-4e91-bb7a-6146d4bb07da",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "市府提案-動支第二預備金",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府",
+        "CaseCause": "檢送114年度臺南市總預算第二預備金動支數額表，敬請審議。",
+        "ProNo": "febb3e14-c101-4258-8b3b-4665a6b12b19",
         "PagesAll": "64"
     },
     {
@@ -1075,28 +1097,6 @@
         "OrgTitle": "周嘉韋、朱正軒",
         "CaseCause": "建請市府針對各校園增設性別友善廁所。",
         "ProNo": "a3fa0e0c-2e43-4d35-a9d4-17133ae047c7",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "37",
-        "OrgTitle": "林冠維、曾之婕",
-        "CaseCause": "臺南市國中小學現行行政編制與實際需求及其他直轄市標準相比嚴重不足，導致兼職行政教師授課節數過高且行政業務量龐大，嚴重影響教師教學品質及身心健康。建請市政府依據「臺南市立國民中學及國民中小學組織規程」補足編制，並參考其他直轄市標準，全面提高行政編制並減少兼職行政教師授課節數，以減輕教師負擔，提升教育品質。",
-        "ProNo": "1737ae95-ef46-49dc-89e8-a5ea41254eb4",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "38",
-        "OrgTitle": "林冠維",
-        "CaseCause": "鑒於本市專任輔導教師團體督導（以下簡稱專輔團督）現行辦理模式，多數專輔教師反映人數過多、分區距離過遠及行政支持不足等問題，建請市府教育局研議並立即實施團督組數擴編與分區優化，並規劃恢復行政與同儕督導制度，以強化專業支持系統，提升學生輔導工作品質。",
-        "ProNo": "9824ef23-3eaa-4a8e-8654-87e131c67ea5",
         "PagesAll": "64"
     }
 ]

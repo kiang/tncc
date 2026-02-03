@@ -1,13 +1,13 @@
 {
     "GradeTime": "第4屆 第7次 定期會",
     "PTypTitle": "法規",
-    "CaseNumber": "25",
+    "CaseNumber": "29",
     "KidTitle": "查照\/備查案-法規查照案",
-    "ComeDate": "2026\/01\/22",
-    "ComeNumber": "府文圖字第1150128933號",
-    "OrgTitle": "臺南市政府文化局",
+    "ComeDate": "2026\/02\/03",
+    "ComeNumber": "府勞人字第1150061208號",
+    "OrgTitle": "臺南市政府勞工局",
     "OrgTitle2": "",
-    "CaseCause": "修正「臺南市立圖書館組織規程」第四條、第十三條。",
+    "CaseCause": "修正「臺南市政府勞工局組織規程」第三條。",
     "Content": "",
     "Method": "",
     "CheckDate": "",
@@ -19,13 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e217cd80-bd29-4140-b9b7-a6c19fc31533",
-            "FileName": "4-7定-法規查照25--修正「臺南市立圖書館組織規程」第四條、第十三條.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ef6a1edf-d719-4d55-81bb-70c78cfa3f2f",
+            "FileName": "4-7定-法規查照29--修正「臺南市政府勞工局組織規程」第3條.pdf",
             "ErrorMessage": ""
         }
     ],
     "RAttList": [],
-    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b6e835bd-a63c-4a2d-a301-0237d15e31e0&type=pdf",
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=81a54992-b4e6-4efe-9846-5004015cffb7&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
     "ReDate": "",

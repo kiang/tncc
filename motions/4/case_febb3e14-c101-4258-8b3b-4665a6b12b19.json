@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第11次 臨時會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-動支第二預備金",
+    "ComeDate": "2026\/02\/02",
+    "ComeNumber": "府主預字第1150217671號函",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "檢送114年度臺南市總預算第二預備金動支數額表，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據預算法第70條規定辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"114年度臺南市總預算第二預備金預算編列4億元，動支數2億7,694萬1,000元，節餘1億2,305萬9,000元。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府115年1月20日第733次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會惠予審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=337f58f4-b731-43d2-a4f1-ffff5b357ae9",
+            "FileName": "114年度二備金數額表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=febb3e14-c101-4258-8b3b-4665a6b12b19&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
