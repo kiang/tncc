@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第11次 臨時會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2025\/11\/21",
+    "ComeNumber": "府主基字第1141597495號",
+    "OrgTitle": "臺南市政府教育局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送臺南市政府114年7月至114年11月特別收入基金補辦預算或先行辦理數額表1份，請備查。",
+    "Content": "",
+    "Method": "",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0d6a4f81-bd81-46ef-9549-e3641edb0fc8",
+            "FileName": "4-11臨-114.7-11特別收入基金補辦預算備查來函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c2aa309c-4664-461b-b770-37b263f05df0",
+            "FileName": "4-11臨-114.7-11特別收入基金補辦預算備查數額表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c1706cb2-04cb-45a8-b222-8870899db768&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
