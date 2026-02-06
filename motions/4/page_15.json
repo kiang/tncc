@@ -4,6 +4,39 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "69",
+        "OrgTitle": "王宣貿",
+        "CaseCause": "建請市府協助評估新東里周邊空地設置臨時停車場，以紓解當地停車不足問題。",
+        "ProNo": "f3f2b784-0b39-4513-9e0d-94f876967a30",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "70",
+        "OrgTitle": "王宣貿",
+        "CaseCause": "請臺南市政府儘速研議改善新營火車站後站停車空間不足問題。",
+        "ProNo": "ef214529-1460-4844-a2cd-904028f5a268",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "71",
+        "OrgTitle": "陳怡珍",
+        "CaseCause": "有關臺南市北區「成功公園」盼增設公共自行車租賃站乙案，本席建請臺南市政府應儘速評估增設。",
+        "ProNo": "c43cc4b3-bdea-4451-a7b3-2366ee94965d",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "72",
         "OrgTitle": "沈家鳳",
         "CaseCause": "新營區公誠街路外停車場每逢下雨即積水，造成市民停車不便與車輛損害風險，建請市府相關單位儘速進行排水改善工程，以提升停車品質與民眾使用安全。",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "蔡筱薇、沈家鳳",
         "CaseCause": "建請市府工務局研擬即時道路回報App或Line通報系統。",
         "ProNo": "fd8b63cc-c43b-4124-8ff7-2bb03ffffb72",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/06\/04",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "71",
-        "OrgTitle": "林依婷",
-        "CaseCause": "南區萬年公園內步道老舊破損，除觀感不佳，也影響民眾安全，建請市府改善。",
-        "ProNo": "8f7a78f1-f109-4067-8f90-5c61c290ccf8",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/06\/04",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "72",
-        "OrgTitle": "陳秋萍",
-        "CaseCause": "建請市府工務局儘速完成永康區尚頂里南台街3巷道路改善工程，保障人車通行安全。",
-        "ProNo": "e74192c0-56eb-42ea-aca4-b0e24f143a23",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/06\/04",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "73",
-        "OrgTitle": "陳秋萍",
-        "CaseCause": "請市府工務局儘速完成永康區北興里大同街413巷至大同街636巷人行步道改善工程，增進市民休憩功能及保障人行安全。",
-        "ProNo": "577bae2c-adf1-4df5-b1c1-bbdebfc19db8",
         "PagesAll": "64"
     }
 ]
