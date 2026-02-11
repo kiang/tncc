@@ -4,17 +4,6 @@
         "GradeTime": "第4屆 第8次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "33",
-        "OrgTitle": "黃麗招",
-        "CaseCause": "建請安南區安中路一段路面翻修，以維用路人安全。",
-        "ProNo": "a0ce25f1-98ba-4b10-9c90-f0c333510502",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "34",
         "OrgTitle": "王宣貿",
         "CaseCause": "請改善後壁區新東里南74線(台1線至南85線路口)道路，以確保用路人安全。",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "建請增設臺南市立標準游泳場館。",
         "ProNo": "bc8ea7fa-e1c1-4ce2-83f7-6a35188042ea",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "21",
+        "OrgTitle": "蔡筱薇、朱正軒、黄肇輝、沈家鳳、陳秋宏、郭鴻儀、周嘉韋、李宗霖",
+        "CaseCause": "建請提高奥運、亞運、帕運等國際賽事的獎助金。",
+        "ProNo": "2d41d667-14db-491d-a5a1-984d9a8ad932",
         "PagesAll": "64"
     }
 ]

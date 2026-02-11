@@ -4,17 +4,6 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "69",
-        "OrgTitle": "王宣貿",
-        "CaseCause": "建請市府協助評估新東里周邊空地設置臨時停車場，以紓解當地停車不足問題。",
-        "ProNo": "f3f2b784-0b39-4513-9e0d-94f876967a30",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "70",
         "OrgTitle": "王宣貿",
         "CaseCause": "請臺南市政府儘速研議改善新營火車站後站停車空間不足問題。",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "蔡筱薇、沈家鳳",
         "CaseCause": "建請市府工務局研擬即時道路回報App或Line通報系統。",
         "ProNo": "fd8b63cc-c43b-4124-8ff7-2bb03ffffb72",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/06\/04",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "71",
+        "OrgTitle": "林依婷",
+        "CaseCause": "南區萬年公園內步道老舊破損，除觀感不佳，也影響民眾安全，建請市府改善。",
+        "ProNo": "8f7a78f1-f109-4067-8f90-5c61c290ccf8",
         "PagesAll": "64"
     }
 ]

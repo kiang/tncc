@@ -4,17 +4,6 @@
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "56",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請劃設長榮路三段66巷紅線。",
-        "ProNo": "a99db5ff-be24-4b31-8afb-68e251654ae3",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "57",
         "OrgTitle": "曾培雅",
         "CaseCause": "建請設置東門路和裕農路之路口行人通行號誌。",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "蔡蘇秋金",
         "CaseCause": "建請儘速辦理西港區永樂里新港7-10號前道路刨鋪工程。",
         "ProNo": "0dab220f-1c7c-4f00-a168-00ec5d5a3255",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/10\/24",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "36",
+        "OrgTitle": "蔡秋蘭",
+        "CaseCause": "建請臺南市政府辦理佳里區佳西路(新生路至忠孝路)路面改善工程。",
+        "ProNo": "385497e9-c874-47bd-a9b9-069501dc78dc",
         "PagesAll": "64"
     }
 ]

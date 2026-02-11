@@ -4,17 +4,6 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "71",
-        "OrgTitle": "林依婷",
-        "CaseCause": "南區萬年公園內步道老舊破損，除觀感不佳，也影響民眾安全，建請市府改善。",
-        "ProNo": "8f7a78f1-f109-4067-8f90-5c61c290ccf8",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/06\/04",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "72",
         "OrgTitle": "陳秋萍",
         "CaseCause": "建請市府工務局儘速完成永康區尚頂里南台街3巷道路改善工程，保障人車通行安全。",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "林美燕",
         "CaseCause": "建請增設南區明和公園內之花架涼亭。",
         "ProNo": "0502a54b-620f-4de5-b035-dee26d59934a",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "171",
+        "OrgTitle": "林美燕",
+        "CaseCause": "建請增設水萍塭公園內之兒童玩沙設施周圍之柵欄。",
+        "ProNo": "fec2ab52-156a-4e07-a7ca-d39e0103e266",
         "PagesAll": "64"
     }
 ]

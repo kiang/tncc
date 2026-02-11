@@ -1,16 +1,5 @@
 [
     {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "119",
-        "OrgTitle": "陳怡珍",
-        "CaseCause": "有關臺南市民防、義警、義交缺乏裝備及福利乙案，本席建請臺南市政府應儘速規劃研擬。",
-        "ProNo": "da292763-92de-47df-b0fc-c1b452af2410",
-        "PagesAll": "64"
-    },
-    {
         "DoneDate": "2024\/05\/29",
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "工務",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "陳秋萍",
         "CaseCause": "建請市府工務局儘速完成永康區四維街(埔園街至鐵路前)路面改善工程，以保障人車通行。",
         "ProNo": "d030f0ed-b2dd-42d9-a04b-fddf15029614",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/05\/29",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "90",
+        "OrgTitle": "陳秋萍",
+        "CaseCause": "建請市府工務局儘速完成永康區東橋里中山南路365巷2之46 號路面改善工程，以保障此社區人車通行安全。",
+        "ProNo": "58c2d5b0-0d87-4ded-a073-cef42faac361",
         "PagesAll": "64"
     }
 ]

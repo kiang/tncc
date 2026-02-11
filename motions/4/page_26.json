@@ -4,17 +4,6 @@
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "36",
-        "OrgTitle": "蔡秋蘭",
-        "CaseCause": "建請臺南市政府辦理佳里區佳西路(新生路至忠孝路)路面改善工程。",
-        "ProNo": "385497e9-c874-47bd-a9b9-069501dc78dc",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/10\/24",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "37",
         "OrgTitle": "蔡秋蘭",
         "CaseCause": "建請臺南市政府辦理佳里區復興路(仁愛路口至佳西路)路面改善工程。",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府針對北區北園街路面柏油重新鋪設。",
         "ProNo": "9e03777a-ca56-4737-94b5-8bfc9cf9a66b",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "136",
+        "OrgTitle": "周嘉韋",
+        "CaseCause": "建請市府針對北區北園街114巷路面柏油重新鋪設。",
+        "ProNo": "20cfc646-e226-44e4-a88e-2940259aeb1f",
         "PagesAll": "64"
     }
 ]
