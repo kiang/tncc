@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "271",
+        "OrgTitle": "林志展",
+        "CaseCause": "建請市政府制定「臺南市政府人工智慧(AI)作業指引」。",
+        "ProNo": "02dea0e1-cb1b-44be-a509-548cdbe81e6f",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "272",
         "OrgTitle": "林志展、周嘉韋",
         "CaseCause": "建請市政府舉辦智慧城市治理黑客松競賽。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "黄肇輝",
         "CaseCause": "建請市府環保局恢復過往辦理定期發放雨衣的模式，取消缴回舊雨衣的限制，確保清潔隊員執勤安全與人員健康。",
         "ProNo": "e0f49c88-f620-4efa-9895-c0b607a9043e",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "2",
-        "OrgTitle": "郭鴻儀",
-        "CaseCause": "建請市府成立本市「異味公害24小時緊急處理中心」，解決長年異味公害未能落實嚴查之弊害，給予市民健全稽查機制，徹底解決異味公害。",
-        "ProNo": "43cc3ae5-f563-4b31-a7e2-4c29a41cebe7",
         "PagesAll": "64"
     }
 ]
