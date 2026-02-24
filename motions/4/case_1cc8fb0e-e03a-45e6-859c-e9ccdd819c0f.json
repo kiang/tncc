@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第11次 臨時會",
+    "PTypTitle": "財經",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2026\/02\/23",
+    "ComeNumber": "府經資字第1150264425號",
+    "OrgTitle": "臺南市政府經濟發展局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理本府經管坐落本市歸仁區武東段276-1地號1筆非公用市有土地設定地上權，擬依土地法第25條規定完成處分程序，提請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"配合沙崙智慧綠能科學城及周邊整體各項重大建設與產業聚落正快速成形，期透過本案地上權開發之推動，促進市有土地之有效利用與資產活化，避免錯失帶動周邊地區生活機能提升與擴增工商發展潛力的最佳時機。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"法令依據:臺南市市有財產管理自治條例第45條第2項。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"市有土地設定地上權標的:坐落本市歸仁區武東段276-1地號1筆市有土地，面積43,494.38平方公尺，115年公告現值約為16億3,539萬元。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"設定存續期間:以50年為原則，經雙方同意得延長最多20年。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"本案業經本府115年2月3日第735次市政會議審核通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審議，同意後報請行政院核准，完成處分程序後，於7年內辦理地上權設定事宜。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fd919402-dc40-4379-9740-b8491e9409a0",
+            "FileName": "市提3-說明.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1cc8fb0e-e03a-45e6-859c-e9ccdd819c0f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

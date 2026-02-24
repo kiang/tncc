@@ -2,6 +2,50 @@
     {
         "DoneDate": "2025\/12\/04",
         "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "人民請願案-人民請願案",
+        "CaseNumber": "1",
+        "OrgTitle": "",
+        "CaseCause": "請求「北外環四期工程」因名不正、言不順，環評出現重大疏漏，須立即撤案，以另案重新啟動審查環境影響評估，撤銷高架盲腸段計畫，不要浪費55億公帑蓋一條無效益的高架道路，進而保障鄭子寮社區居民生活與文元國小2,300-2,400名學童的安全與身心健康。",
+        "ProNo": "650936d9-4302-419c-824a-fc6e242b4ea4",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/10\/29",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "專案報告-專案報告",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府研究發展考核委員會",
+        "CaseCause": "「丹娜絲颱風及0728豪雨災害各區災後重建執行情形」專案報告",
+        "ProNo": "01090a2d-6415-4961-ac6d-820f94ac9081",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "修正「臺南市動物防疫保護處組織規程」。",
+        "ProNo": "b6794a11-3596-42ec-abc6-f19bf01dfbc9",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府消防局",
+        "CaseCause": "修正「臺南市政府消防局組織規程」部分條文、「臺南市政府消防局編制表」。",
+        "ProNo": "1e99ed53-015a-45e0-9e8f-d58399316d14",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規查照案",
         "CaseNumber": "3",
@@ -1053,50 +1097,6 @@
         "OrgTitle": "余柷青",
         "CaseCause": "建請市府積極辦理新化區礁坑里礁坑子段1074農路改善工程。",
         "ProNo": "c0de583d-e32a-4174-8e93-61bf741c886f",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "29",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府積極辦理新化區礁坑里礁坑子段1595擋土牆改善工程。",
-        "ProNo": "1bb6177e-6dc6-43fa-8cdb-2700e9cb8363",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "30",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府積極辦理新化區頂山腳段1301地號農路改善工程。",
-        "ProNo": "16953a2f-6bcb-4be6-b995-1806a5400ce4",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府環境保護局",
-        "CaseCause": "環境部環境管理署核定本市「114年臺南市北區換購低碳垃圾車補助計畫」經費新臺幣414萬元整(中央補助165萬6,000元，市配合款248萬4,000元)，為爭取時效，謹請貴會同意先行辦理墊付，俾憑辦理後續相關作業事宜，俟115年度總預算辦理轉正，敬請審議。",
-        "ProNo": "0a1069cb-87f8-45dd-9048-604efcfdf39b",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "2",
-        "OrgTitle": "臺南市政府環境保護局",
-        "CaseCause": "有關環境部資源循環署核定本市「113年度源頭減量及資源回收績效考核團體獎勵金運用計畫」經費新台幣150萬元整乙案（全額中央補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度總預算時辦理轉正，敬請審議。",
-        "ProNo": "d0b3b0c1-6e15-42f0-9b8e-aedde1bc07ea",
         "PagesAll": "64"
     }
 ]
