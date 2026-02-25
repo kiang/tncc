@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第4屆 第11次 臨時會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "6",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2026\/02\/24",
+    "ComeNumber": "府環清字第1150262085號",
+    "OrgTitle": "臺南市政府環境保護局",
+    "OrgTitle2": "",
+    "CaseCause": "環境部環境管理署核定本市「115年度蚊媒公共環境清理計畫」經費新臺幣425萬9,000元(中央補助計230萬元，市配合款計195萬9,000元)，為爭取時效，惠請同意先行辦理墊付，俾憑辦理後續相關作業事宜，俟116年度總預算辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據環境部環境管理署115年1月21日環管衛字第1157101467C號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費新臺幣425萬9,000元(中央補助230萬元，市配合款195萬9,000元)，因未及納入本府115年度總預算，為爭取時效，謹請貴會同意先行墊付，俟116年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府115年2月11日第736次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急理由：環境部環境管理署來函說明須依規定儘速納入預算，並於115年12月5日前執行完畢，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟116年度總預算辦理轉正，敬請審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1cd628c0-860f-417b-9d26-dc802c85982e",
+            "FileName": "核定函-蚊媒公共環境清理計畫.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d899c304-090a-496b-a04c-56bb1c2e879c",
+            "FileName": "經費審查表.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1fe43434-7e02-490f-81d7-0dd2990d344b",
+            "FileName": "計畫書及核定表-蚊媒公共環境清理計畫.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9f5d6873-9c70-4b51-9c27-d5c500505920&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
