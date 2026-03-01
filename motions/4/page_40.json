@@ -2,6 +2,61 @@
     {
         "DoneDate": "2024\/03\/15",
         "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "9",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請改善六甲區大丘里火燒坑產業農路路面改善工程，產業農路路面年久失修危及農民通行安全。",
+        "ProNo": "5c97e91f-c642-4820-ad3f-142886553fc2",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "10",
+        "OrgTitle": "李鎮國",
+        "CaseCause": "建議永康區大灣路942巷641弄農路道路損壞嚴重，請市府重新鋪設。",
+        "ProNo": "a4cbc068-f390-42aa-8277-4ec2a57287ea",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "11",
+        "OrgTitle": "鄭佳欣、林依婷、謝舒凡、吳禹寰、朱正軒、周嘉韋、王宣貿",
+        "CaseCause": "建請市府租用台糖林地，以利開闢流浪動物收容空間及寵物公園。",
+        "ProNo": "6b6e535f-3c1a-4d5a-8a33-87e5168ab2ab",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "12",
+        "OrgTitle": "曾之婕、周奕齊、林冠維",
+        "CaseCause": "建請依「飼養寵物管理辦法」，訂定本市租賃房屋可飼養寵物的管理辦法，使本市成為對寵物友善的城市。",
+        "ProNo": "d7335810-f19a-437a-ad41-a4b46a5707be",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "13",
+        "OrgTitle": "曾之婕、周奕齊、林冠維",
+        "CaseCause": "建請於新後甲段988、989、88、89、90地號區域範圍內，即平實公園排球場東側，闢建「寵物友善公園」，以符合本市民眾飼養寵物的趨勢及需求。",
+        "ProNo": "0ae8feda-c39a-4cf0-b975-c2e8df5aa512",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
         "PTypTitle": "環保衛生",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
@@ -1042,61 +1097,6 @@
         "OrgTitle": "蔡秋蘭",
         "CaseCause": "建請臺南市政府辦理西港區堀子頭30號道路改善工程。",
         "ProNo": "1641360e-cf62-42f2-bd2a-9fed0c4c0e85",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "17",
-        "OrgTitle": "陳昆和",
-        "CaseCause": "請辦理七股區十份里道路改善工程。",
-        "ProNo": "e727371c-0f9e-4abb-b620-c64e98d5a4ad",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "18",
-        "OrgTitle": "陳昆和",
-        "CaseCause": "請辦理佳里區多摩市水溝改善工程。",
-        "ProNo": "39edf6b7-c5e6-4e6b-94da-98ff7d20c697",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "19",
-        "OrgTitle": "陳昆和",
-        "CaseCause": "請辦理西港區南34及南41路口往東道路改善工程。",
-        "ProNo": "f0d1e7bd-05f4-4f99-8a45-011d25fbda90",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "20",
-        "OrgTitle": "陳昆和",
-        "CaseCause": "請辦理南40曾文溪堤防旁道路改善工程。",
-        "ProNo": "7ae4e021-4897-4a7c-9d7f-79289e0bfd7d",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "21",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府新闢新化區民生路北側連接新市產業園區道路，及拓寬新化區中正路690巷道路，以紓解往返新市產業園區交通流量。",
-        "ProNo": "92b51e2f-dd55-4eeb-9376-b341cfd19896",
         "PagesAll": "64"
     }
 ]
