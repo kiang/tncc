@@ -27,17 +27,11 @@
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5177be1e-534b-4658-a0b0-a9798032112f&type=pdf",
     "CheckAttList": [],
-    "DoneAttList": [
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cdf747f4-25a9-4374-979a-7c5e391f3c9e",
-            "FileName": "4-6定---1204第25次會紀錄.pdf",
-            "ErrorMessage": ""
-        }
-    ],
+    "DoneAttList": [],
     "ReDate": "",
     "ReDesc": "同意備查。",
     "FirstDate": "2025\/10\/29",
-    "FirstDesc": "",
+    "FirstDesc": "交付民政教育委員會審查",
     "SecondDate": "",
     "SecondDesc": "",
     "ThirdDate": "",

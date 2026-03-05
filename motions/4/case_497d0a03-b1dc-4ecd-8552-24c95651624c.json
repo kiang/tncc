@@ -64,13 +64,7 @@
             "ErrorMessage": ""
         }
     ],
-    "DoneAttList": [
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bf49df9b-cd1f-4ccc-a3b7-dd029acf3493",
-            "FileName": "1141029-4-6定-第5次大會會議紀錄(議事組).pdf",
-            "ErrorMessage": ""
-        }
-    ],
+    "DoneAttList": [],
     "ReDate": "2025\/09\/17",
     "ReDesc": "照審查意見通過。",
     "FirstDate": "2025\/09\/26",

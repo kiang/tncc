@@ -27,17 +27,11 @@
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=539bcad4-015b-422b-8a5a-81e0bccc8681&type=pdf",
     "CheckAttList": [],
-    "DoneAttList": [
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=71f0ff21-e534-4b81-80d1-1ae98a5b98d5",
-            "FileName": "4-6定---1204第25次會紀錄.pdf",
-            "ErrorMessage": ""
-        }
-    ],
+    "DoneAttList": [],
     "ReDate": "",
     "ReDesc": "同意備查。",
     "FirstDate": "2025\/10\/29",
-    "FirstDesc": "",
+    "FirstDesc": "交付環保衛生委員會審查",
     "SecondDate": "",
     "SecondDesc": "",
     "ThirdDate": "",

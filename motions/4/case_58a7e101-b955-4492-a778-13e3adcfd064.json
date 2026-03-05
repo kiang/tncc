@@ -27,17 +27,11 @@
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=58a7e101-b955-4492-a778-13e3adcfd064&type=pdf",
     "CheckAttList": [],
-    "DoneAttList": [
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=00c063af-2b7a-46b6-9cd4-55d48cb063cc",
-            "FileName": "4-6定---1204第25次會紀錄.pdf",
-            "ErrorMessage": ""
-        }
-    ],
+    "DoneAttList": [],
     "ReDate": "",
     "ReDesc": "同意備查。",
     "FirstDate": "2025\/10\/29",
-    "FirstDesc": "",
+    "FirstDesc": "交付財經委員會審查",
     "SecondDate": "",
     "SecondDesc": "",
     "ThirdDate": "",

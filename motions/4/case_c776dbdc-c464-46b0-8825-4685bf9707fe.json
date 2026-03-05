@@ -38,11 +38,6 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c776dbdc-c464-46b0-8825-4685bf9707fe&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=751322ed-0c99-4bca-b2de-01adc4aa0ef3",
-            "FileName": "審查意見報告書--4-6定第2、3次--法規巿提2~6號案.pdf",
-            "ErrorMessage": ""
-        },
-        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=76769430-d984-477d-b955-c5ab2d6ddd42",
             "FileName": "審查結果對照表---4-6定法規巿提4---臺南市休閒活動場館事業管理自治條例草案.pdf",
             "ErrorMessage": ""
@@ -54,11 +49,6 @@
         }
     ],
     "DoneAttList": [
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=86d580a1-42bd-439e-a281-db47b196d734",
-            "FileName": "4-6定---1204第25次會紀錄.pdf",
-            "ErrorMessage": ""
-        },
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9e1af5c5-f08f-49c7-b41f-ccfa4930d887",
             "FileName": "4-6定-法規巿提4---休閒活動場館審查結果對照表--大會決議.pdf",

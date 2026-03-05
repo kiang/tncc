@@ -33,17 +33,11 @@
             "ErrorMessage": ""
         }
     ],
-    "DoneAttList": [
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=87004ba5-f2cd-4100-95f2-f9620403c60a",
-            "FileName": "4-6定---1204第25次會紀錄.pdf",
-            "ErrorMessage": ""
-        }
-    ],
+    "DoneAttList": [],
     "ReDate": "",
     "ReDesc": "同意備查。",
     "FirstDate": "2025\/10\/29",
-    "FirstDesc": "",
+    "FirstDesc": "交付財經委員會審查",
     "SecondDate": "",
     "SecondDesc": "",
     "ThirdDate": "",

@@ -48,13 +48,7 @@
             "ErrorMessage": ""
         }
     ],
-    "DoneAttList": [
-        {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5581bf7f-f492-4918-bad9-b437c377a3ce",
-            "FileName": "4-6定---1204第25次會紀錄.pdf",
-            "ErrorMessage": ""
-        }
-    ],
+    "DoneAttList": [],
     "ReDate": "2025\/10\/23",
     "ReDesc": "照審查意見通過。",
     "FirstDate": "2025\/10\/29",
