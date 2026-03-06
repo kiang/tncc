@@ -22,6 +22,11 @@
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=23ecd79e-20e9-4b60-8741-804407a5545a",
             "FileName": "市提6附件.pdf",
             "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=61439d1f-e6ab-4230-af7d-86edb63ecf43",
+            "FileName": "建設6號補充資料.pdf",
+            "ErrorMessage": ""
         }
     ],
     "RAttList": [],
