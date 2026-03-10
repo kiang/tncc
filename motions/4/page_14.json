@@ -1,5 +1,49 @@
 [
     {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "75",
+        "OrgTitle": "周嘉韋",
+        "CaseCause": "建請市府加強登革熱防疫宣導。",
+        "ProNo": "83d298e4-781e-444c-bbca-119960bc3d40",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "檢送「財團法人臺南市台日文化友好交流基金會」114年度營運及資金運用計畫乙份，請查照。",
+        "ProNo": "0998796c-0868-4034-bf26-ae8f0fc18317",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/06\/04",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "教育部核定本市補助辦理「114年補助公共圖書館在地資料徵集計畫」，總經費43萬元（中央補助款24萬7,000元、市配合款18萬3,000元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度總預算時辦理轉正，敬請審議。",
+        "ProNo": "d0771a7c-8fee-4d22-8411-66ac78bb972d",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2025\/06\/04",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "文化部文化資產局核定補助本市辦理114年臺灣文化路徑推動計畫–「臺南糖業文化路徑–糖與時光的複層記憶（第二期）」總經費611萬元(中央補助款428萬元、市配合款183萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度總預算時辦理轉正，敬請審議。",
+        "ProNo": "80e5b105-d346-45b9-a104-19e094728be1",
+        "PagesAll": "64"
+    },
+    {
         "DoneDate": "2025\/06\/04",
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "建設",
@@ -1053,50 +1097,6 @@
         "OrgTitle": "蔡筱薇",
         "CaseCause": "建請儘速完成東區文社1立體多目標停車場。",
         "ProNo": "53ae9641-67e3-46e4-bb6b-8512da46180e",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "41",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府新增新化168觀光產業-「台灣好行」路線開駛後，以電力公車進行服務，提供遊客優質旅遊。",
-        "ProNo": "d76fa897-6f57-43ab-9ec0-de42df893f05",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "42",
-        "OrgTitle": "周嘉韋",
-        "CaseCause": "建請市府規劃臺南轉運站臨時接駁專區。",
-        "ProNo": "3738e341-95e0-4bd0-94f9-34784e1e2e0c",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "43",
-        "OrgTitle": "周嘉韋",
-        "CaseCause": "建請市府針對臨安路一段、成功路增設偏心式左轉車道。",
-        "ProNo": "cbfe47bc-1cc8-4965-8e0a-2ae91aab0f0a",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "44",
-        "OrgTitle": "周嘉韋、林依婷",
-        "CaseCause": "建請市府針對永華路一段、金華路三段增設偏心式左轉車道。",
-        "ProNo": "023878e5-8c22-4d86-b622-ddc6d7fabaa5",
         "PagesAll": "64"
     }
 ]
