@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "72",
+        "OrgTitle": "林燕祝",
+        "CaseCause": "建請市府補足環保局清潔隊員人力，並於隊員眾多之區隊編制分隊長，以落實區隊人員之管理。",
+        "ProNo": "41c8b8e4-fb85-467c-9359-f38d27dd8f7a",
+        "PagesAll": "64"
+    },
+    {
         "DoneDate": "2023\/06\/07",
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "環保衛生",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "Ingay Tali 穎艾達利、李中岑、陳昆和、周奕齊、陳怡珍、趙昆原",
         "CaseCause": "建請市府妥善規劃淘汰後的T-Bike車輛與設備用途，發揮公民納稅資產的最大效益。",
         "ProNo": "da37084b-3644-48da-8bba-62ed2e94fe00",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "27",
-        "OrgTitle": "林依婷",
-        "CaseCause": "臺南市公車停靠區前後停車格設置通盤檢討。",
-        "ProNo": "477c5334-f355-448b-8047-b6145acb603e",
         "PagesAll": "64"
     }
 ]

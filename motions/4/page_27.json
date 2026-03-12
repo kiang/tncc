@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2024\/10\/24",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "107",
+        "OrgTitle": "謝舒凡",
+        "CaseCause": "建請市府編列預算辦理學甲區光華里新筏仔頭社區道路改善工程。",
+        "ProNo": "b8664842-6303-4643-a072-dd38afc9c57d",
+        "PagesAll": "64"
+    },
+    {
         "DoneDate": "2024\/12\/02",
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "工務",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "吳禹寰",
         "CaseCause": "建請市府拓寬關廟區北勢里成功路往西通往歸仁區道路，保障人車安全，解決塞車問題。",
         "ProNo": "0c366fae-73ae-43b6-9f43-f658a416fc6a",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "207",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請市政府編列預算辦理「後壁區南81線區道3K+400至3K+500處道路拓寬工程」，以維護用路人通行安全。",
-        "ProNo": "e86e3e07-c26e-4670-a139-2a7ccd1398ec",
         "PagesAll": "64"
     }
 ]

@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第5次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "7",
+        "OrgTitle": "陳碧玉",
+        "CaseCause": "建請市府工務局儘速在新市區南134線(民生路消防隊到環東路一段)，進行柏油路面改善工程，保障人車通行安全。",
+        "ProNo": "a1bf9f4e-b897-49a7-b556-fdc9e8447aea",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "8",
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府工務局儘速在新市區豐華里47-71號旁道路，進行柏油路面改善工程，保障人車通行安全。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "郭鴻儀",
         "CaseCause": "建請市府於「臺南市永大滑輪溜冰場」媒合太陽能光電業者建置屋頂型太陽能，使其成為半室內運動場館。",
         "ProNo": "8b695770-8a6d-4b0a-bc89-5a33989c9f1d",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "12",
-        "OrgTitle": "蔡宗豪",
-        "CaseCause": "建請體育局於北區開元振興公園設置風雨球場，以維護球場場地免受日曬雨淋而劣化，並提供民眾不受天氣影響的舒適運動環境。",
-        "ProNo": "b57a7a34-7d6f-4436-a1ce-817f205432e2",
         "PagesAll": "64"
     }
 ]
