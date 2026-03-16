@@ -487,6 +487,17 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "41",
+        "OrgTitle": "臺南市政府工務局",
+        "CaseCause": "修正「臺南市道路挖掘施工維護管理辦法」第一條之一。",
+        "ProNo": "cf1c7eaa-b2fb-49b4-9d1e-dde8844ef8c2",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府都市發展局",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "李宗翰",
         "CaseCause": "有關颱風期間公職人員加班超過240小時，建請市府全面檢討現行加班制度，並落實加班時數之核實及加班費之確實發放，以維護基層同仁權益。",
         "ProNo": "32d6f55d-13c5-4034-bbdd-ec4768005267",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "3",
-        "OrgTitle": "沈家鳳、周嘉韋",
-        "CaseCause": "為維護本府約用人員之健康權益，提升工作安全與服務品質，建請市府研議將約用人員納入市府員工健康檢查補助範圍，提供必要之健康檢查補助機制。",
-        "ProNo": "adc31564-4ad1-4a67-b402-4d5eaef74f8b",
         "PagesAll": "64"
     }
 ]

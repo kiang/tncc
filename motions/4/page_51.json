@@ -2,6 +2,17 @@
     {
         "DoneDate": "2023\/08\/17",
         "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "91",
+        "OrgTitle": "蔡麗青",
+        "CaseCause": "建請市府在安南區土城設置抽水站，以解決淹水問題。",
+        "ProNo": "ec6e85e9-1253-4bfd-ab6a-287c44eddd9d",
+        "PagesAll": "64"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
         "PTypTitle": "臨時動議",
         "KidTitle": "臨時動議-臨時動議",
         "CaseNumber": "1",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "建請國小一、二年級及國中三年級建置75吋觸控電視。",
         "ProNo": "8fa04805-7c42-4bef-b2a4-d24ccb144416",
-        "PagesAll": "64"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "75",
-        "OrgTitle": "朱正軒、沈家鳳、蔡筱薇",
-        "CaseCause": "搶救瀕危語言，深耕母語學習，建請教育局針對20人以上大校，優先聘請正式專任台語教師。",
-        "ProNo": "d2fe2de7-b78e-4c46-8bd7-45702f9bb3c0",
         "PagesAll": "64"
     }
 ]
