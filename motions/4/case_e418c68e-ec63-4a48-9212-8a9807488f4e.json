@@ -10,8 +10,8 @@
     "CaseCause": "為修正「臺南市政府組織自治條例」第二條、第三條、第二十條修正草案，提請審議。",
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為應地方制度法第五十五條第一項及第二項規定及實務用人所需，增置副市長、副秘書長各一人另因配合本府政策及實務運作，爰擬具本自治條例修正草案。\",\"children\":[]}]},{\"tag\":\"p\",\"content\":\"二、本案業經本府115年1月27日第734次市政會議審議通過。\"},{\"tag\":\"p\",\"content\":\"三、檢附「臺南市政府組織自治條例」第二條、第三條、第二十條修正草案總說明、修正草案條文對照表及修正草案條文各1份。\"}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"市議會同意後，由本府公布之，並函報行政院及考試院備查。\"}]",
-    "CheckDate": "",
-    "CheckDesc": "",
+    "CheckDate": "2026\/03\/18",
+    "CheckDesc": "照案通過。",
     "DoneDate": "",
     "DoneDesc": "",
     "SendDate": "",
@@ -31,7 +31,18 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e418c68e-ec63-4a48-9212-8a9807488f4e&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1d309f49-8766-4262-a8d7-566cbd63d3ff",
+            "FileName": "審查意見報告書--4-11臨法規巿提1-為修正「臺南市政府組織自治條例」第二條、第三條、第二十條修正草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7b25dfa8-c97f-4a73-902a-4d97e153e400",
+            "FileName": "審查結果對照表--4-11臨法規巿提1--臺南市政府組織自治條例第二條、第三條、第二十條修正草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "2026\/03\/03",
     "ReDesc": "",

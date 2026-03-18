@@ -1,5 +1,60 @@
 [
     {
+        "DoneDate": "2025\/12\/19",
+        "GradeTime": "第4屆 第10次 臨時會",
+        "PTypTitle": "保安",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府交通局",
+        "CaseCause": "內政部「永續提升人行安全計畫」核定補助經費1億338萬元(中央補助款8,477萬1,000元，市配合款1,860萬9,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度追加減預算時辦理轉正，敬請審議。",
+        "ProNo": "ea080a3c-d223-4ea1-a503-0f0be3fea7f2",
+        "PagesAll": "65"
+    },
+    {
+        "DoneDate": "2025\/12\/19",
+        "GradeTime": "第4屆 第10次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府工務局",
+        "CaseCause": "內政部國土管理署「永續提升人行安全計畫」增加核定「臺南市關廟區五甲國小校園周邊暨行車安全道路改善工程」1案補助經費新臺幣453萬8,000元（中央補助款372萬1,000元，市配合款81萬7,000元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟115年度追加減預算時辦理轉正，敬請審議。",
+        "ProNo": "efa3f5ab-d6f8-492c-839b-66d9ff22cac7",
+        "PagesAll": "65"
+    },
+    {
+        "DoneDate": "2025\/12\/19",
+        "GradeTime": "第4屆 第10次 臨時會",
+        "PTypTitle": "臨時動議",
+        "KidTitle": "臨時動議-臨時動議",
+        "CaseNumber": "1",
+        "OrgTitle": "余柷青",
+        "CaseCause": "建請於臺南市新化區衛生所暨衛福園區新建工程增設親子悠遊館。",
+        "ProNo": "01ef1146-9561-43d2-94a1-08c0e0a4a6a7",
+        "PagesAll": "65"
+    },
+    {
+        "DoneDate": "2025\/12\/19",
+        "GradeTime": "第4屆 第10次 臨時會",
+        "PTypTitle": "臨時動議",
+        "KidTitle": "臨時動議-臨時動議",
+        "CaseNumber": "2",
+        "OrgTitle": "周嘉韋、鄭佳欣、謝舒凡、李宗翰",
+        "CaseCause": "建請制定「臺南市公有零售市場停止使用核發補助費自治條例」草案。",
+        "ProNo": "7b092ce1-44fd-4cf2-baea-18ab80677160",
+        "PagesAll": "65"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市議會本會",
+        "CaseCause": "檢送本會114年第2季辦理政策及業務宣導之執行情形表，提請備查。",
+        "ProNo": "aab38c20-ddcf-4e5c-8e97-672c11298e4d",
+        "PagesAll": "65"
+    },
+    {
         "DoneDate": "2025\/12\/04",
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "民政教育",
@@ -1042,61 +1097,6 @@
         "OrgTitle": "林志展、周嘉韋",
         "CaseCause": "建請市政府研議將本市中低收入戶列入使用公立殯葬設施免收費之對象，以減輕弱勢族群負擔。",
         "ProNo": "39a19b0f-4f75-4886-86ae-6cb1baeae159",
-        "PagesAll": "65"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "90",
-        "OrgTitle": "林志展、沈家鳳",
-        "CaseCause": "建請市政府推出「預立環保葬意願書」，尊重往生者意願。",
-        "ProNo": "684a1347-7942-4490-885a-624018b22419",
-        "PagesAll": "65"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "91",
-        "OrgTitle": "林志展",
-        "CaseCause": "建請市政府儘速辦理「新市區東大社段1507地號道路改善工程」，以利行車安全。",
-        "ProNo": "0c1cd137-7647-47e9-91f2-0f8b7a6f2bb1",
-        "PagesAll": "65"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "92",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府研擬多元策略提升民眾對於《當危機來臨時：台灣全民安全指引》手冊之閱讀率與熟悉度，讓民眾能在平常建立危機應對能力，以落實強化民眾安全意識與全社會防衛韌性。",
-        "ProNo": "db64daaf-10e7-4c47-9fa3-61abc0cce68e",
-        "PagesAll": "65"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "93",
-        "OrgTitle": "朱正軒、沈家鳳",
-        "CaseCause": "為強化台南市全民防衛能量，提升里鄰長參與民防工作之意願與效能，建請市府增編全民防衛專項預算，推動多語版本全民國防手冊，並提高里鄰長津貼，以深化基層社區防衛力量。",
-        "ProNo": "3722e580-ee86-4b58-8963-24908211f7ff",
-        "PagesAll": "65"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "94",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請市府提高生育獎金，至少比照台北市第一胎 40,000 元之標準，提升本市生育誘因並改善少子化問題。",
-        "ProNo": "336813eb-0bf4-4fee-97fc-4ac6e38f4bdd",
         "PagesAll": "65"
     }
 ]
