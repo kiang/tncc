@@ -1,13 +1,13 @@
 {
     "GradeTime": "第4屆 第7次 定期會",
     "PTypTitle": "法規",
-    "CaseNumber": "42",
+    "CaseNumber": "43",
     "KidTitle": "查照\/備查案-法規查照案",
-    "ComeDate": "2026\/03\/16",
-    "ComeNumber": "府水行字第1150373985號",
-    "OrgTitle": "臺南市政府水利局",
+    "ComeDate": "2026\/03\/19",
+    "ComeNumber": "府文園字第1150367115號函",
+    "OrgTitle": "臺南市政府文化局",
     "OrgTitle2": "",
-    "CaseCause": "修正「臺南市水井及水利設施徵收補償費查估標準」第一條之一。",
+    "CaseCause": "修正「臺南市總爺藝文中心場地使用管理辦法」。",
     "Content": "",
     "Method": "",
     "CheckDate": "",
@@ -19,13 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4d6a60c6-ac63-40de-9897-7200cf551259",
-            "FileName": "4-7定-法規查照42--修正「臺南市水井及水利設施徵收補償費查估標準」第一條之一.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a6478168-4aa9-49a5-8111-5885e9dffaf6",
+            "FileName": "4-7定-法規查照43--修正「臺南市總爺藝文中心場地使用管理辦法」.pdf",
             "ErrorMessage": ""
         }
     ],
     "RAttList": [],
-    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b4905d96-d0ea-4619-9cdd-9e598d7728cd&type=pdf",
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4e20bf85-fe4c-43c1-8e56-e7f9fa68e2ed&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
     "ReDate": "",
