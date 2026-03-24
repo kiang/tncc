@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第11次 臨時會",
+    "PTypTitle": "建設",
+    "CaseNumber": "7",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝",
+    "OrgTitle2": "謝舒凡、陳秋萍、周奕齊",
+    "CaseCause": "請市府都市發展局能將新營區武賢段394地號進行協議價購或認養或創新工法以打通綠川步道至南紙里武賢宮前，嘉惠地方百姓。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"綠川步道都市發展局已建設開關到新營區民榮里台電嘉南變電所南端，自新營文化中心可直接沿著綠川步道走到新營區太子路139巷，長度長達4.5公里，成為新營地區民眾休憩運動評價極高路線，惟至南紙里武賢段部分，受限394地號為私有地，南紙里長王信雄與地方民眾建議陳情多年，迄今市府仍無具體方案，請市府能盡快研議最佳方案，以造福地區百姓。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/03\/19",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2026\/03\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=60c51eeb-5731-4657-87a6-1495754d707c",
+            "FileName": "議提7.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2b6cbf5c-853d-48b3-b3bd-c3d45bcedaf6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

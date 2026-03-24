@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第11次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "54",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李偉智",
+    "OrgTitle2": "方一峰、趙昆原、陳怡珍、周麗津",
+    "CaseCause": "建請市府儘速規劃新化區新太自辦市地重劃區緊鄰的都市計劃道路開闢，以利民眾使用。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"為了發展新化區的建設，建請市府應加速辦理緊鄰新太自辦市地重劃區的道路開闢，以利民眾使用。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/03\/18",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2026\/03\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5c1f4dc8-8b12-4e9d-a45c-4abea06087b7",
+            "FileName": "4-11臨工務議提54附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c886c9fc-4070-468b-a037-2f289c97f416&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

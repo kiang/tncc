@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第11次 臨時會",
+    "PTypTitle": "工務",
+    "CaseNumber": "24",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "曾之婕",
+    "OrgTitle2": "林冠維、盧崑福、蔡宗豪、周奕齊、李中岑、杜素吟、陳怡珍、周麗津、蔡育輝、陳碧玉、李偉智、鄭佳欣、陳秋萍",
+    "CaseCause": "建請將東區龍山里轄內公2林森三角公園及公E7公園，規劃為臺南市市民公園，設置各類分區以利於環境維護。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"龍山里轄內公2林森三角公園佔地約2.22公頃，公E7公園約1.54公頃，位於林森路及府連路周邊，為東區居民重要公園綠地。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"惟因目前公2兒童遊具及各種設施皆已老舊，幅員遼闊清潔維護不易，公E7公園樹叢過於密集亦長期未能受到保護，疑產生病害。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"經龍山里許福銘里長建議，重新盤點公2及公E7公園公園環境，並依臺南市公園綠地管理自治條例，重新規劃為「臺南市市民公園」，包括設置兒童遊具區、長者休閒運動區、友善寵物專區及滯洪池等多元化設施。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"請儘速會勘規劃辦理。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/03\/18",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2026\/03\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7be94520-90f9-4c04-9c91-6ff6612b31c6",
+            "FileName": "4-11臨工務議提24附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=bbdbd580-3631-4d92-a372-cf8fb8d80435&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

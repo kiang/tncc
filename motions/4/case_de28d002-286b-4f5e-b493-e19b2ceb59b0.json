@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第11次 臨時會",
+    "PTypTitle": "建設",
+    "CaseNumber": "6",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝",
+    "OrgTitle2": "謝舒凡、陳秋萍、周奕齊",
+    "CaseCause": "請市府都市發展局能將新營區東學段418地號進行協議價購或認養或土地交換或創新工法以打通新東里轄內綠川東西兩側步道北端自長榮路橋~一路通達新東國中旁，嘉惠地方百姓。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"新營區新東里綠川步道市政府已建設開闢一部分，對周邊環境與景觀助益甚大，新東里民很有幸福感。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"東學段418號為私人土地，影響綠川步道整條步道開闢通暢性，請市府盡快召開協調會議研議最佳改善方案。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"請市府就綠川步道北起新卯舍段452、456、459、463、465等地號暨東學段421、315、311、312、318等地號就綠川水圳兩側完成人行景觀步道開闢以美化市容，造福地區百姓，創造地區休憩運動休閒好去處。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/03\/19",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2026\/03\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=63e2d11c-89db-47a8-a292-ddc06720fec4",
+            "FileName": "議提6.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=de28d002-286b-4f5e-b493-e19b2ceb59b0&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

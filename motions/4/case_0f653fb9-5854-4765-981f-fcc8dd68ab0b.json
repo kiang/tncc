@@ -16,7 +16,7 @@
     "DoneDesc": "一、經第4屆第10次臨時會第3次會（114年12月19日）審議通過（內容如大會決議表）。\r\n二、於同次會（114年12月19日）經復議討論通過（如大會復議後決議）。",
     "SendDate": "2025\/12\/29",
     "SendNumber": "南議財經字第 1140013169號",
-    "DoDesc": "",
+    "DoDesc": "臺南市政府115年2月12日府秘廳字第1150113942號函覆詳附件1。\r\n臺南市政府115年2月24日府經商字第115947467號函覆詳附件2。",
     "AttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0a853ece-bc52-44fd-b96d-7b1edeaa0240",
@@ -24,7 +24,18 @@
             "ErrorMessage": ""
         }
     ],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2762eb2d-52c0-4a98-823e-2a80f3b8c7f4",
+            "FileName": "1-秘書處-覆115年度預算案附加條件曾文市政願景園區開發計畫案開發影響費等費用.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=afaa6ed4-9538-4bfc-b565-70b742d7bee4",
+            "FileName": "2.經發局-辦理..眷村年貨大街...活動經費.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0f653fb9-5854-4765-981f-fcc8dd68ab0b&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [
@@ -62,8 +73,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2026\/02\/12",
+    "ExecuteReNumber": "府秘廳字第 1150113942號",
+    "ExecuteReMemo": "臺南市政府115年2月12日府秘廳字第1150113942號函覆詳附件1。\r\n臺南市政府115年2月24日府經商字第115947467號函覆詳附件2。",
     "ErrorMessage": ""
 }

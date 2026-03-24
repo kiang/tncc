@@ -12,12 +12,17 @@
     "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"請市府於本次臨時會審查追加減預算前，針對每位議員之疑慮，提供詳細決策過程、確定之規劃與發展方向，以說服議會通過相關預算。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"價購康寧大學建物乙案，未經議會同意即編列預算價購，漠視議會的職權，建請臺南市政府日後有關市有財產的處分，需符合地方制度法第35條市有財產處分的要求，以示對議會的尊重。\",\"children\":[]}]}]",
     "CheckDate": "",
     "CheckDesc": "",
-    "DoneDate": "",
-    "DoneDesc": "",
+    "DoneDate": "2026\/03\/20",
+    "DoneDesc": "照委員會結論通過。",
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
     "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ef603ae5-d413-47fa-a7ea-d5c060bed819",
+            "FileName": "115.03.12專案報告-「康寧大學臺南校區校舍使用規劃與發展方向」逐字稿.pdf",
+            "ErrorMessage": ""
+        },
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=87b4b4c8-f159-42ec-8085-00a0e3ee6925",
             "FileName": "康寧大學_議會專案報告.pdf",
@@ -29,7 +34,7 @@
     "CheckAttList": [],
     "DoneAttList": [],
     "ReDate": "",
-    "ReDesc": "",
+    "ReDesc": "照委員會結論通過。",
     "FirstDate": "",
     "FirstDesc": "",
     "SecondDate": "",
