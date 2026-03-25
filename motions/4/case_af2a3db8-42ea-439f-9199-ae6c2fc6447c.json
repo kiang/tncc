@@ -33,7 +33,13 @@
             "ErrorMessage": ""
         }
     ],
-    "DoneAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=26993de6-5b79-4436-a6ee-c1d703eada2e",
+            "FileName": "115年度臺南市總預算第一次追加（減）預算案 - 大會決議表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "ReDate": "2026\/03\/03",
     "ReDesc": "照聯席審查意見通過(內容如大會決議表)。",
     "FirstDate": "",

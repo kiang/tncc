@@ -5,7 +5,7 @@
     "KidTitle": "市府提案-總預算案",
     "ComeDate": "2025\/09\/11",
     "ComeNumber": "府主預字第1141286599號",
-    "OrgTitle": "臺南市政府主計處",
+    "OrgTitle": "臺南市政府",
     "OrgTitle2": "",
     "CaseCause": "本市115年度總預算案及總預算案附屬單位預算及綜計表，業經編製完竣，敬請審議。",
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據地方制度法、預算法及中華民國一百十五年度直轄市及縣（市）總預算編製要點、總預算附屬單位預算編製要點辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"115年度總預算案部分：歲入預算編列1,227億426萬元，歲出預算編列1,270億8,378萬元，歲入歲出差短43億7,952萬元，差短部分，擬以同額舉債支應。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"115年度總預算案附屬單位預算及綜計表部分：\",\"children\":[{\"order\":\"(一)\",\"content\":\"營業基金部分：本年度本期淨利2,265萬9千元。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"非營業基金部分：作業基金本年度本期賸餘3億9,816萬5千元，特別收入基金本年度本期短絀25億3,274萬4千元。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府114年9月9日第714次市政會議審議通過。\",\"children\":[]}]}]",
@@ -37,7 +37,13 @@
         }
     ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0f653fb9-5854-4765-981f-fcc8dd68ab0b&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b966e4f1-97f3-4afd-a636-65da30539598",
+            "FileName": "聯席審查意見-115總預算案及總預算案附屬單位預算及綜計表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b9e6fbec-0e27-4427-b241-0d6b0c1121be",
