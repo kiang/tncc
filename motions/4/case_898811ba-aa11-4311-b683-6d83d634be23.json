@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2026\/03\/26",
+    "ComeNumber": "府教午字第1150290245號",
+    "OrgTitle": "臺南市政府教育局",
+    "OrgTitle2": "",
+    "CaseCause": "擬具「臺南市學校午餐自治條例」第二條修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為落實本府權限劃分政策，促使本府所屬機關得以其自身名義為行政行為，依臺南市法制作業準則第六條第四項規定，市法規及冠以本府或本市名稱之行政規則，其涉及對外作成行政行為者，應明定主管機關為本府所屬機關，爰修正本自治條例第二條明定本府教育局為主管機關，並揭明涉及本府各目的事業主管機關之權責。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府115年1月27日第734次市政會議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市學校午餐自治條例」第二條修正草案（含總說明、條文對照表及修正條文）1份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bbff3cd5-9d76-4dc3-aba5-ffdcfa681344",
+            "FileName": "總說明、逐條說明及修正條文---4-7定法規巿提1--擬具「臺南市學校午餐自治條例」第二條.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=898811ba-aa11-4311-b683-6d83d634be23&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

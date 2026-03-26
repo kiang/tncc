@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2026\/03\/26",
+    "ComeNumber": "府衛心字第1150403960號",
+    "OrgTitle": "臺南市政府衛生局",
+    "OrgTitle2": "",
+    "CaseCause": "擬具「臺南市自殺通報及關懷自治條例」部分條文修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市自殺通報及關懷自治條例自一百零一年十二月二十一日公布施行，迄今已逾十二年。因自殺防治法於一百零八年六月十九日公布施行，且為配合自殺防治法現行用語及中央主管機關實務運作，爰擬具本自治條例修正草案，其修正要點如下:\",\"children\":[]}]},{\"tag\":\"p\",\"content\":\"(一)為避免用語不同致生誤解，修正本自治條例法規用語及名詞定義，將「自殺未遂」修正為「自殺企圖」、「自殺高風險」修正為「自殺意念高風險」、「自殺者遺屬」修正為「自殺者遺族」、「珍愛生命守門人」修正為「自殺防治守門人」，並明定具體自殺計畫之定義。(修正條文第三條至第七條及第十條)。\"},{\"tag\":\"p\",\"content\":\"(二)第一項規範對象涵蓋範圍廣泛，為便於閱讀，改以分款方式臚列，並增訂概括條款。（修正條文第四條第一項）\"},{\"tag\":\"p\",\"content\":\"(三)原「行政院衛生署」業於一百零二年七月二十三日改制為「衛生福利部」，爰配合中央主管機關組織名稱修正文字。（修正條文第五條）\"},{\"tag\":\"p\",\"content\":\"(四)配合「行政院衛生署」改制為「衛生福利部」，修正中央主管機關名稱。(修正條文第八條)\"},{\"tag\":\"p\",\"content\":\"(五)為加強自殺通報義務，以避免自殺憾事發生，違反第四條第三項之公務人員亦受相關懲處規範，爰予以修正。（修正條文第十二條）\"},{\"tag\":\"p\",\"content\":\"二、本案業經本府115年3月3日第738次市政會議審議通過。\"},{\"tag\":\"p\",\"content\":\"三、檢附「臺南市自殺通報及關懷自治條例」部分條文修正草案總說明、修正草案條文對照表及修正草案條文。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=59030d0b-93ab-42ab-9465-ee6d11048322",
+            "FileName": "總說明、修正條文對照及修正條文--4-7定法規巿提3--臺南市自殺通報及關懷自治條例修正草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=119693c5-886c-436b-8d0a-5baf64277fc3&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
