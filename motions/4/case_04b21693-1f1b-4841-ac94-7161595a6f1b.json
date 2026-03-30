@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2026\/03\/26",
+    "ComeNumber": "府社秘字第1150419129號",
+    "OrgTitle": "臺南市政府社會局",
+    "OrgTitle2": "",
+    "CaseCause": "衛生福利部社會及家庭署核定本市「115年度身心障礙者多元社區居住與生活服務」，其中資本門經費新臺幣249萬元整(中央全額補助)，為爭取時效，謹請貴會同意先行墊付，俟116年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據衛生福利部社會及家庭署115年3月6日社家障字第1150004066號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款所使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案資本門總經費總計新臺幣456萬9,000元整（中央補助434萬元，地方配合款22萬9,000元）；本案已納編115年度資本門預算新臺幣207萬9,000元整（中央補助176萬7,000元，地方配合款31萬2,000元），其中資本門新臺幣249萬元整(中央全額補助)，因未及納入本府115年度總預算，為爭取時效，謹請貴會同意先行墊付，俟116年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府115年3月24日第741次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本案係用於增設4處社區居住服務據點之開辦設施設備費，考量本市部分區域尚未開辦類此服務，迭有民眾反應需求，為支持身心障礙者社區生活並降低照顧者負擔，爰具急迫性。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，116年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a0f31fb6-92e9-4dc4-8881-f3992b01c834",
+            "FileName": "4-7定-環衛4號-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=04b21693-1f1b-4841-ac94-7161595a6f1b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

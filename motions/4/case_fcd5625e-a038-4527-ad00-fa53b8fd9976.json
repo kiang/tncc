@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第11次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "6",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王宣貿",
+    "OrgTitle2": "沈震東、余柷青、Ingay Tali 穎艾達利、蔡筱薇、鄭佳欣、郭鴻儀",
+    "CaseCause": "建請市府研議改善新營區民治路與復興路口交通標線配置及號誌設計，以提升路口辨識度、通行效率及行車安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"新營區民治路與復興路均為區內重要交通幹道，兩路交會處亦屬車流匯集節點，平日及尖峰時段車流量大，時常出現車流壅塞情形，影響通行效率。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"為利路人清楚辨識，並提升整體交通順暢度，建請臺南市政府研議改善該路口車道配置，尤其針對民治路往新進路二段方向之車道規劃，檢討其與對向車道配置之一致性與對稱性，以降低駕駛人判斷混淆情形。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"另請一併評估復興路車道配置調整之可行性，研議是否改設為雙混合車道，以因應實際車流需求，提升路口紓解能力。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"承上，為配合前述交通標線及車道配置改善，建請臺南市政府綜合評估該路口號誌時制與運作方式之調整方案，以強化整體交通效率及行車安全。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2026\/03\/18",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2026\/03\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2026\/03\/26",
+    "SendNumber": "南議保安字第 1150001596號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3f155ac7-f3f7-434c-875d-d285dd9ec83e",
+            "FileName": "王宣貿議員-新營區民治路與復興路口交通號誌與標線改善.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fcd5625e-a038-4527-ad00-fa53b8fd9976&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

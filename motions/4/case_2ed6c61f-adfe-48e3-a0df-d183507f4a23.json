@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第11次 臨時會",
+    "PTypTitle": "保安",
+    "CaseNumber": "12",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "曾之婕",
+    "OrgTitle2": "盧崑福、周麗津、蔡宗豪、陳怡珍、李中岑、陳秋萍、李偉智、鄭佳欣、陳碧玉、杜素吟、周奕齊、林冠維、蔡育輝",
+    "CaseCause": "建請於東門圓環各路口設置行人專用號誌，以維行人安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"爰依東門里里長陳情辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"目前東門圓環各路口僅有車輛通行號誌，行人專用號誌僅北門路一側設置，其他大同路、民權路、府前路均未設置。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"各路口外環車道右轉，時常會與行人爭道，若未及時降速禮讓恐會發生事故，險象環生。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"基於行人優先及安全，建請各路口設置行人專用號誌。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/03\/18",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2026\/03\/20",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "2026\/03\/26",
+    "SendNumber": "南議保安字第 1150001607號",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a9ae1ffe-7bc6-41a2-8028-7b61014c2a62",
+            "FileName": "曾之婕議員-東門圓環各路口設行人專用號誌.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2ed6c61f-adfe-48e3-a0df-d183507f4a23&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
