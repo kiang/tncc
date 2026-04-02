@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第8次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "22",
+        "OrgTitle": "曾之婕",
+        "CaseCause": "建請對巴克禮公園竹溪流域進行清淤及整治，以維護周邊生態環境。",
+        "ProNo": "e34b983c-5696-4bc5-9417-a2097ce3ec68",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "23",
+        "OrgTitle": "黄肇輝",
+        "CaseCause": "建請市府儘速辦理永康區龍潭里蜈蜞潭中排龍潭街262號堤面崩塌改善工程，以維居民居住安全。",
+        "ProNo": "b816386a-ad80-4549-9a7b-16e9c5db32a4",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "24",
         "OrgTitle": "吳通龍",
         "CaseCause": "建請辦理官田區八田路、神田路及南120線路面改善工程，以利改善民眾通行品質，以造福用路民眾。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "施余興望 Tjakumay Tagaw",
         "CaseCause": "建請市府訂定「臺南市經濟弱勢原住民住宅租金補助要點」，並編列年度預算支應所需經費。",
         "ProNo": "78a70a17-7ff0-4781-bee3-5f73f1062cfb",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "10",
-        "OrgTitle": "施余興望 Tjakumay Tagaw",
-        "CaseCause": "建請市府將永康區體一運動公園轉型為原住民族運動公園，並向原住民族委員會及教育部體育署爭取經費補助，改善公園環境，活化閒置公共設施。",
-        "ProNo": "642c8399-8959-4377-a33c-6de13b142478",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "11",
-        "OrgTitle": "朱正軒、沈家鳳",
-        "CaseCause": "為促進台南市客家語言及文化的保存與傳承，建議市政府增加對客家社團的補助，並確保客家文化會館整修期間之備援場地方案。",
-        "ProNo": "46a7666d-0e34-407a-864f-2ebace37ba89",
         "PagesAll": "66"
     }
 ]

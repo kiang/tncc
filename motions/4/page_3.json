@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第11次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "11",
+        "OrgTitle": "蔡宗豪",
+        "CaseCause": "北區文成二路(海安路三段至育德二路)路面多處施工後復原，與原路面有高低落差，建請市府應儘速進行鋪面改善工程。",
+        "ProNo": "0936ab56-075b-494f-96b1-bbc1203f7599",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "12",
+        "OrgTitle": "蔡宗豪",
+        "CaseCause": "北區文成一路(海安路三段至育德二路)路面多處顛簸，建請市府應儘速進行鋪面改善工程。",
+        "ProNo": "ff609f92-a302-4bf6-88b0-268cfeea6f1f",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "13",
         "OrgTitle": "蔡宗豪",
         "CaseCause": "北區文成一路207巷(文成路至文成一路)路面龜裂不整，請市府應儘速進行鋪面改善工程。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "朱正軒",
         "CaseCause": "建請體育局協調衛生局，將本市所有自動體外心臟除顫器（AED）設備位置上傳至 Google地圖等公開平台，並強化運動場館AED 告示設置及急救教育，以提升市民運動安全。",
         "ProNo": "3b891b0b-d098-46a0-9923-1f650de4adde",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "22",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "建請市府針對永康區大灣國小菁英館二樓木質地板進行修繕，以保障師生、家長通行往來及運動之安全。",
-        "ProNo": "f1116d65-0d20-4a92-a33a-a9ada3ee5cb2",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "23",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請臺南市政府教育局儘速於新化區𦰡拔國小兒童遊樂設施上增設遮陽棚，避免孩童因日曬高溫中暑及燙傷。",
-        "ProNo": "bcc47af4-42d2-477c-8ffd-dcdb7888d702",
         "PagesAll": "66"
     }
 ]
