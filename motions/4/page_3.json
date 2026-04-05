@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第11次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "10",
+        "OrgTitle": "蔡宗豪",
+        "CaseCause": "北區文成三路(海安路三段至育德二路)路面龜裂，建請市府應儘速進行鋪面改善工程。",
+        "ProNo": "9bfe4b30-bf2e-4091-bbc5-9414e83283fc",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "11",
         "OrgTitle": "蔡宗豪",
         "CaseCause": "北區文成二路(海安路三段至育德二路)路面多處施工後復原，與原路面有高低落差，建請市府應儘速進行鋪面改善工程。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "朱正軒",
         "CaseCause": "建請市府積極爭取中央體育建設補助，並完善永康及台南市運動設施整體規劃。",
         "ProNo": "d6bcd2d2-95ea-41d3-b23b-ad0a528c2a87",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "21",
-        "OrgTitle": "朱正軒",
-        "CaseCause": "建請體育局協調衛生局，將本市所有自動體外心臟除顫器（AED）設備位置上傳至 Google地圖等公開平台，並強化運動場館AED 告示設置及急救教育，以提升市民運動安全。",
-        "ProNo": "3b891b0b-d098-46a0-9923-1f650de4adde",
         "PagesAll": "66"
     }
 ]

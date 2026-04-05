@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2026\/04\/01",
+    "ComeNumber": "府民自字第1150421823號",
+    "OrgTitle": "臺南市政府各區公所",
+    "OrgTitle2": "",
+    "CaseCause": "有關台灣自來水股份有限公司補助玉井區公所辦理「2026大武壟祈恩文化祭-謝土祈福法會」乙案，總經費合計新臺幣(下同)75萬元整(中央全額補助)，因未及納入115年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟116年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據台灣自來水股份有限公司南區工程處115年3月23日台水南二課字第1150001734號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」規定辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：有關台灣自來水股份有限公司核定之「南化複線-南化至左鎮送水幹管(南化場至左鎮段)計畫」細目計畫：「2026大武壟祈恩文化祭-謝土祈福法會」活動，總經費合計新臺幣75萬元整(中央全額補助)，因未及納入115年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業，俟116年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府115年4月1日第742次巿政會議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：地方協調115年5月24日辦理案由活動，經台灣自來水股份有限公司3月23日核定需有前置作業時間。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟116年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f0d9a949-00ab-4963-ac7c-9cae5e5395b2",
+            "FileName": "民教2(玉井區公所)-附件(核定函及計畫等資料).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7a4629da-2818-429f-a7fa-28a710e73e17&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

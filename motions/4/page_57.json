@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "建設",
         "KidTitle": "市府提案-一般提案",
+        "CaseNumber": "10",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "檢送財團法人臺南市孔廟文化基金會111年度決算書，敬請審議。",
+        "ProNo": "30927bfc-31c7-46e5-9e17-aa4ef5e67bc8",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "市府提案-一般提案",
         "CaseNumber": "11",
         "OrgTitle": "臺南市政府文化局",
         "CaseCause": "檢送本市「財團法人台南市文化基金會111年度決算書」乙案，敬請審議。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "蔡宗豪",
         "CaseCause": "有關本市公園路及長榮路路口交通複雜，導致常有事故發生，建請本市趕緊加裝監視器。",
         "ProNo": "d6c4484f-18f2-413f-aea5-da73fe9ab6c9",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "44",
-        "OrgTitle": "蔡宗豪",
-        "CaseCause": "有關本市西門路三段及民德路交通複雜，導致常有事故發生，建請本市趕緊加裝監視器。",
-        "ProNo": "67361a32-1908-45ce-9430-f6c4b5d4b6ec",
         "PagesAll": "66"
     }
 ]
