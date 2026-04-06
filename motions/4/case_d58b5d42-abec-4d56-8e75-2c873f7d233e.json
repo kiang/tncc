@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2026\/04\/01",
+    "ComeNumber": "府民自字第1150421823號",
+    "OrgTitle": "臺南市政府各區公所",
+    "OrgTitle2": "",
+    "CaseCause": "台灣自來水股份有限公司補助本市南化區公所辦理地方建設細目計畫，計新臺幣1,500萬元整（中央全額補助）乙案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟116年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據台灣自來水股份有限公司第六區管理處115年1月20日台水六操字第1150000933號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」規定辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費新臺幣1,500萬元整，由中央全額補助，為爭取時效，謹請貴會同意先行辦理墊付，俟116年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府115年4月1日第742次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：\",\"children\":[{\"order\":\"(一)\",\"content\":\"本案經費係針對本區多處較嚴重之道(農)路、排水及擋土設施進行改善，因有影響民眾通行及使用，故較為急迫需盡速改善。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"依補助計畫規定，工程執行期程至115年12月31日止，核銷部分於計畫完成後2個月內前檢具所有相關成果辦理，故於本會期提出墊付案申請，以利於本年度辦竣並向中央核結。\",\"children\":[]}]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟116年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9599ff5b-add2-4a73-80e3-44d9ba886c76",
+            "FileName": "民教1(南化區公所)-附件(核定函及計畫等資料).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d58b5d42-abec-4d56-8e75-2c873f7d233e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
