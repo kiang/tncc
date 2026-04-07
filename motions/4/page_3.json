@@ -4,6 +4,50 @@
         "GradeTime": "第4屆 第11次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "5",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請改善區道南54線自西寮順天宮至連表代進宮前岔路口，因道路路面龜裂、破損嚴重，亟需辦理改善，以利行車安全。",
+        "ProNo": "f4121340-87d4-40b7-ad85-13c861c60ce5",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "6",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請改善市道318線自二鎮南113線路口至七甲里中華路與和平街岔路口，道路因年久失修，路面龜裂、破損嚴重，亟需辦理改善，以利行車安全。",
+        "ProNo": "2010d9f8-9248-402d-8c31-d3a834cf4630",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "7",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請改善官田區八田路二段至八田路三段道路，因年久失修，路面龜裂、破損嚴重，亟需辦理改善，以利行車安全。",
+        "ProNo": "c87c425f-5985-4b70-837b-7e915b51f06c",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "8",
+        "OrgTitle": "蔡宗豪",
+        "CaseCause": "北區文成路(海安路三段至育德二路)路面多處龜裂高低不平，建請市府應儘速進行鋪面改善工程。",
+        "ProNo": "d27f8346-8a85-4661-a965-5ad5210d2d33",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "9",
         "OrgTitle": "蔡宗豪",
         "CaseCause": "北區文成五路(海安路三段至育德二路)路面破損且會積水，建請市府應儘速進行鋪面改善工程。",
@@ -1053,50 +1097,6 @@
         "OrgTitle": "林志展、周嘉韋、沈家鳳",
         "CaseCause": "建請市政府檢討體育教練人力制度與聘任條件，強化教練留任誘因與編制保障，以穩定運動人才培育根基。",
         "ProNo": "f82ac3bf-8473-4ce1-b3c4-1414cefa1a3e",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "16",
-        "OrgTitle": "林志展",
-        "CaseCause": "因應台南逐漸邁入超高齡社會，促進高齡長輩健康為市府極為關心的議題，建請市政府布建「行動健身房巡迴車」，把運動帶到偏遠社區，平衡城鄉運動資源差距。",
-        "ProNo": "6a643085-8653-48e9-9741-0015363341be",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "17",
-        "OrgTitle": "黄肇輝",
-        "CaseCause": "建請市府針對委外管理之運動場館之收費，訂定標準指南，避免承包單位自行調整為過高租金，以利公平以及全民使用。",
-        "ProNo": "b62ea520-f86f-49ef-9f3c-aedff2e3cb87",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "18",
-        "OrgTitle": "周嘉韋",
-        "CaseCause": "建請市府針對臺南女中棒球隊設施設備規劃全面補齊及更新，並補助租借練習場地之相關費用。",
-        "ProNo": "b9ec07a9-26ce-436b-a535-76eafe5697f5",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "19",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "建請市府將永康國小操場跑道重新翻修，以提供師生舒適安全友善之運動空間。",
-        "ProNo": "7a30b310-9672-45ee-b1ec-9a5b5ecc97ba",
         "PagesAll": "66"
     }
 ]

@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "10",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2026\/04\/01",
+    "ComeNumber": "府環廢字第1150464463號",
+    "OrgTitle": "臺南市政府環境保護局",
+    "OrgTitle2": "",
+    "CaseCause": "有關內政部國土管理署（下稱國土署）核定補助「丹娜絲颱風及七二八豪雨災後復原重建工程-營建廢棄物處理計畫」經費新臺幣2億2,800萬元整乙案（全額中央補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟116年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據國土署115年3月20日國署營字第1150021711號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案依據各機關單位預算執行要點第44點略以：「各機關執行年度預算時，有下列情形之支出，而辦理追加預算或特別預算時效上不足因應時，得於完成第45點規定程序後，於法定預算以外以墊付款項（以下簡稱墊付款）先行支用：（三）因災害必須緊急支付之工程或救濟支出」，因本市丹娜絲颱風災情嚴重，先以市款墊付2億元整，惟國土署於115年3月20日同意核定計畫總經費新臺幣（下同）4億2,800萬元（全額中央補助），其中2億2,800萬元未及納入本府115年度總預算，為爭取時效，謹請貴會同意先行墊付，俟116年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府115年4月1日第742次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本案於115年3月20日經國土署核定，應於115年12月31日前執行完畢，因時程緊迫且中央核定計畫日期較晚，未及於納入115年度總預算，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟116年度總預算辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8a6859a4-f08d-4287-a8fc-2a053016cf5b",
+            "FileName": "提案單-10號.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=70aa6b2f-20ba-420f-b6a9-0879e7f197e2",
+            "FileName": "核定函-10號.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9633ec65-4685-4dc6-8318-71de5909fed1",
+            "FileName": "計畫書-10號.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=02430fb3-2d28-4d51-80e2-cccf148f773a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

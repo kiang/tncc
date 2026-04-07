@@ -4,6 +4,50 @@
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "7",
+        "OrgTitle": "蔡宗豪",
+        "CaseCause": "東菜市場機車停車場處新增宣傳LED看板。",
+        "ProNo": "93abd985-db79-4669-804e-34b903e9b306",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "8",
+        "OrgTitle": "蔡宗豪",
+        "CaseCause": "東菜市場遮雨的石棉瓦多處漏水，請以替代材質在明年梅雨季前全面更換屋頂。",
+        "ProNo": "ebfff015-0585-42d9-9ed4-054902fc2552",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "9",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請臺南市政府與中央反映，烏山頭水庫水面型浮動太陽能光電板，拆除一期光電板，二期工程停止招商，不得設置，以維護水資源安全、生態平衡及供水穩定。",
+        "ProNo": "95683ce4-a8da-49b6-8bb1-029d0a7121db",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "10",
+        "OrgTitle": "鄭佳欣、王宣貿",
+        "CaseCause": "建請臺南市政府儘速訂定「公有市場拆遷補償辦法」，以保障攤商權益。",
+        "ProNo": "02f60f68-eb3e-499f-b472-0996cccab174",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "11",
         "OrgTitle": "鄭佳欣",
         "CaseCause": "建請市府研議既有 20 公尺以上舊道路電線地下化之可行性，並逐年編列預算辦理。",
@@ -1053,50 +1097,6 @@
         "OrgTitle": "邱議長莉莉、林副議長志展、周嘉韋、蔡筱薇、沈震東、蔡麗青、蔡蘇秋金、黃麗招、余柷青、沈家鳳、陳秋宏、謝舒凡、林依婷、鄭佳欣、黄肇輝、郭鴻儀、朱正軒、李啓維、邱昭勝、王宣貿、李宗霖、楊中成",
         "CaseCause": "建請市府規劃增設夜托與臨托據點，打造24小時托育服務。",
         "ProNo": "5d2c4e44-3177-4a01-b90d-85ddd149b94c",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "8",
-        "OrgTitle": "郭鴻儀、沈家鳳、林依婷",
-        "CaseCause": "建請市府就本市現有親子悠遊館增加夜間臨時托育時段，提供家長在夜間的托育需求，減輕家庭育兒壓力。",
-        "ProNo": "117fa133-8f68-443c-ba0c-8d5e35ea038e",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "9",
-        "OrgTitle": "沈家鳳",
-        "CaseCause": "因應現代家庭工作型態改變，建請市府增設24小時臨時托育服務，提供夜間托育選項，協助家長因應工作需求，減輕育兒壓力。",
-        "ProNo": "25a54bee-5ab2-41b0-b88a-2df1a92f26d5",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "10",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請市府持續增加夜間臨托服務據點，並將服務時間延長至晚間10點，以滿足家長下班及臨時托育需求。\r\n",
-        "ProNo": "a44efc65-96c4-407a-8034-2f65eb5cc8cd",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "11",
-        "OrgTitle": "林副議長志展、周嘉韋",
-        "CaseCause": "建請市政府增設「社區共育支持據點」，並仿照日本「子育て支援センター」模式，強化在地家庭育兒協力網絡。",
-        "ProNo": "db6a74df-383e-40fd-a538-727aadf1a87a",
         "PagesAll": "66"
     }
 ]

@@ -1,0 +1,58 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "2",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2026\/04\/01",
+    "ComeNumber": "府環清字第1150438015號",
+    "OrgTitle": "臺南市政府環境保護局",
+    "OrgTitle2": "",
+    "CaseCause": "環境部資源循環署增額核定本市「115年度換購低污染資源回收車補助計畫」經費新臺幣270萬元整(中央補助94萬5,000元，市配合款175萬5,000元)，為爭取時效，惠請同意先行辦理墊付，俾憑辦理後續相關作業事宜，俟116年度總預算辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據環境部115年1月14日環部循字第1146126924號函暨環境部資源循環署115年3月13日環循永字第1156003903號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案經費新臺幣270萬元整(中央補助款94萬5,000元、地方配合款175萬5,000元)，因未及納入本府115年度總預算，為爭取時效，謹請貴會同意先行墊付，俟116年度總預算辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府115年4月1日第742次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急理由：本案因環境部資源循環署核定日期為115年1月14日，未及納入115年度預算，且本案須於115年11月30日前完成結案，考量採購履約期間180天及後續驗收所需時間，須於115年4月底前完成下訂，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟116年度總預算辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=29e8ac60-7857-4963-a876-5ca6d4ffec16",
+            "FileName": "提案單-2號.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e1de375e-e6bd-4ed8-a27c-d806cc58ef39",
+            "FileName": "核定函1-2號.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=33e04889-3376-42cf-ba71-9bb204a78ea1",
+            "FileName": "核定函2-2號.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=33392919-dc8d-49a2-97d5-d057ba351501",
+            "FileName": "計畫書-2號.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=375da911-6330-4357-be89-3b57f8039279&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
