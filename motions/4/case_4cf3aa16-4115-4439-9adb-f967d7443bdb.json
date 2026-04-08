@@ -19,6 +19,16 @@
     "DoDesc": "",
     "AttList": [
         {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d18b4b84-e0cb-49ac-a1ad-60acf35c7da1",
+            "FileName": "市提2-勘誤表.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=97a452e4-371a-47c1-8939-063477196ea8",
+            "FileName": "市提2-補充資料.pdf",
+            "ErrorMessage": ""
+        },
+        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6f5249aa-00da-4970-a270-ce7c1acf5c2b",
             "FileName": "民教2(楠西區公所)-附件(115年度水源保育與回饋計畫)核定函及相關資料.pdf",
             "ErrorMessage": ""
