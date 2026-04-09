@@ -3,6 +3,39 @@
         "DoneDate": "2026\/03\/20",
         "GradeTime": "第4屆 第11次 臨時會",
         "PTypTitle": "工務",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府工務局",
+        "CaseCause": "交通部高速公路局「國道1號臺南路段增設北外環交流道工程」調整增加115年度地方經費新臺幣4,502萬3,000元(全市款)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟116年度總預算時辦理轉正，敬請審議。",
+        "ProNo": "2f0ffc35-fc98-49f9-9c95-8d2bd6322bc0",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "1",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請改善市道176線自台一線路口至臺南警察局交通隊岔路口，因道路年久失修，路面龜裂、破損嚴重，亟需辦理改善，以利行車安全。",
+        "ProNo": "a12ffcea-a8ad-4f9d-94ab-ce6257a6e9e6",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請改善市道171線自高速公路陸橋至麻學路一段716號前道路，因年久失修，路面龜裂、破損嚴重，亟需辦理改善，以利行車安全。",
+        "ProNo": "28231930-96ca-4482-8f64-d9982ef97f4c",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
         "CaseNumber": "3",
         "OrgTitle": "尤榮智",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "鄭佳欣",
         "CaseCause": "建請市府於歸仁運動公園增設腳底石頭按摩步道，提供民眾休閒同時促進腳部與身體循環，提升公園使用體驗與健康價值，並可結合節慶或親子互動活動活化公園空間。",
         "ProNo": "5f845af1-e23d-4dc8-bcaf-baed0503dfc8",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "11",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府積極改善新化體育公園內部設施，以健全台南市民全民運動與親子休閒之場域，亦成為新化風情小鎮之新地標。",
-        "ProNo": "e30adce7-0285-42a8-89cd-757a0e32ef08",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "12",
-        "OrgTitle": "沈震東",
-        "CaseCause": "建請體育局在北區設置游泳池，以利區域居民對水域安全認識及推展全民運動發展。",
-        "ProNo": "4f34d2dd-851a-4fc4-9e6a-a44bbb9a65ad",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "13",
-        "OrgTitle": "沈震東",
-        "CaseCause": "建請體育局針對文賢國中右棟拆除之後，設置全民運動館，以利區域居民維持運動習慣。",
-        "ProNo": "6871eee1-93ce-4ade-b642-ae8310ff47cb",
         "PagesAll": "66"
     }
 ]

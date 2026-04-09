@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2026\/03\/27",
     "SendNumber": "南議工務字第 1150001685號",
-    "DoDesc": "",
+    "DoDesc": "本府就「建請市府積極辦理『新化區北勢里衛生一號排水台39 線旁道路改善工程』案」，敬答覆如下：\r\n本案業於114 年8 月8 日會同里長及陳情人辦理現地會勘，新化區公所已於114 年9 月17 日提送提案單，預計辦理AC 路面修繕540m，總經費約125 萬元，本府水利局錄案辦理，後續將視市府整體財源狀況辦理。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9ad46ccd-1f27-4093-a115-d9caf51a5f8d",
+            "FileName": "4-11臨工務議提35號回文附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=35cdbf73-05a3-493c-a110-140b57243b52&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2026\/04\/08",
+    "ExecuteReNumber": "府水養字第 1150453787號",
+    "ExecuteReMemo": "本府就「建請市府積極辦理『新化區北勢里衛生一號排水台39 線旁道路改善工程』案」，敬答覆如下：\r\n本案業於114 年8 月8 日會同里長及陳情人辦理現地會勘，新化區公所已於114 年9 月17 日提送提案單，預計辦理AC 路面修繕540m，總經費約125 萬元，本府水利局錄案辦理，後續將視市府整體財源狀況辦理。",
     "ErrorMessage": ""
 }
