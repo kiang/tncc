@@ -4,6 +4,39 @@
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "建設",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "1",
+        "OrgTitle": "王家貞、蔡宗豪",
+        "CaseCause": "建請市政府儘速啟動中西區「宮後街」的路面重新修整及鋪設，以期創造「宮後街」為台南市帶來最極佳化的經濟效益。",
+        "ProNo": "9d70f707-22f9-4507-bf98-490522f98df2",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請市府向雲嘉南濱海國家風景區管理處協調透過設施修復與產官合作，推動再度開放，曾為濱海地區重要人氣景點的馬沙溝濱海遊憩區，以重現往日盛況並帶動地方觀光。",
+        "ProNo": "8cb93523-c425-4063-8e0e-80145b40c469",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "3",
+        "OrgTitle": "林美燕",
+        "CaseCause": "請市府規劃開發聯上海棠建案附近，並靠國平北路旁邊之空地。",
+        "ProNo": "6eacd2d2-1dc5-4505-b733-88296d18f5b3",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "4",
         "OrgTitle": "林冠維",
         "CaseCause": "請市府積極爭取臺南機場飛韓國、泰國、香港、澳門、新加坡、越南等旅遊熱點之國際航班航線，以促進台南經濟發展。",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "鄭佳欣、杜素吟",
         "CaseCause": "砲兵訓練指揮部經常有來自各地的學員前來受訓，惟目前交通方式除關廟交流道外並無直達大眾運輸，學員往返多有不便。建請市府協調客運業者增設直達班次，或設置臨時駐點服務，以便利人員交通，並帶動關廟地區發展。",
         "ProNo": "c4fe692e-da89-41e9-a833-60812aa591e4",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "48",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府研議加強電動代步車使用管理及行駛規定，並結合宣導、取締與輔導措施，維護高齡者行車安全與道路交通秩序。",
-        "ProNo": "00f05b49-16ab-40c9-b738-a996ac4ec3c1",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "49",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府交通局儘速在南科南路與南科二路設置U-bike租賃站點，以利民眾通行。",
-        "ProNo": "f8a4f2b4-2227-4335-9f5c-2bfce5996da2",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "50",
-        "OrgTitle": "陳碧玉",
-        "CaseCause": "建請市府交通局儘速在南科南路與環西路一段設置U-bike租賃站點，以利民眾通行。",
-        "ProNo": "08310f84-f910-41c2-ba6e-0a56e42aa18d",
         "PagesAll": "66"
     }
 ]

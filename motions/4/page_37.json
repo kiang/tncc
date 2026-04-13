@@ -1,5 +1,38 @@
 [
     {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "28",
+        "OrgTitle": "李啓維",
+        "CaseCause": "規劃社會住宅資源進行沒有電梯老舊公寓國宅都更。",
+        "ProNo": "966ac6ef-c2d8-45f2-8c50-f2dec1281ec8",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2024\/05\/29",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府警察局",
+        "CaseCause": "內政部核定補助本府「協助地方政府整(修)建地方警察機關辦公廳舍待勤處所經費需求計畫書」經費新臺幣124萬3,000元（中央全額補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+        "ProNo": "eab65dad-3979-483d-bec0-80ac9cce7edd",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2024\/05\/29",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府交通局",
+        "CaseCause": "交通部公路局核定本市「TPASS行政院通勤月票113年度票價優惠差額補助」經費新臺幣(以下同) 3億370萬元(中央補助2億6,160萬元，市配合款4,210萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請審議。",
+        "ProNo": "b39bb3c7-5c07-444c-ae0c-83abd1b44cae",
+        "PagesAll": "66"
+    },
+    {
         "DoneDate": "2024\/05\/29",
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "保安",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "蔡麗青",
         "CaseCause": "建請增加臺南市捷工處人員及經費，以利推動大眾捷運相關作業。",
         "ProNo": "f146c81c-7ae0-4c1c-89f8-2fca756d7651",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "93",
-        "OrgTitle": "蔡麗青",
-        "CaseCause": "建請將安南區大眾捷運列入先期規劃，與其他五線並行，以利臺南市未來發展。",
-        "ProNo": "1b6de2fa-1870-4991-b41c-50eeaff7d421",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "94",
-        "OrgTitle": "蔡麗青",
-        "CaseCause": "建請安南區安通路及安和路口設置行人倒數計時顯示器，以利行人通行，維護路口安全。",
-        "ProNo": "7a01da8f-641a-47bc-b117-26ae9be0eb5f",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "95",
-        "OrgTitle": "林美燕",
-        "CaseCause": "請市府將臺灣港務股份有限公司之回饋金落實使用於港區等鄰近區域，並發展水上觀光，促進地區繁榮發展。",
-        "ProNo": "0582a797-91fe-4e00-8fab-9313e484ae6a",
         "PagesAll": "66"
     }
 ]
