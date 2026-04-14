@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "檢送「財團法人臺南市台日文化友好交流基金會」114年度營運及資金運用計畫乙份，請查照。",
+        "ProNo": "0998796c-0868-4034-bf26-ae8f0fc18317",
+        "PagesAll": "66"
+    },
+    {
         "DoneDate": "2025\/06\/04",
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "建設",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "李偉智",
         "CaseCause": "建請市府新增新化168觀光產業-「台灣好行」路線開駛後，以電力公車進行服務，提供遊客優質旅遊。",
         "ProNo": "d76fa897-6f57-43ab-9ec0-de42df893f05",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "42",
-        "OrgTitle": "周嘉韋",
-        "CaseCause": "建請市府規劃臺南轉運站臨時接駁專區。",
-        "ProNo": "3738e341-95e0-4bd0-94f9-34784e1e2e0c",
         "PagesAll": "66"
     }
 ]

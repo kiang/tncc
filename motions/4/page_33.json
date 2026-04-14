@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "30",
+        "OrgTitle": "臺南市政府教育局",
+        "CaseCause": "修正「臺南市高級中等以下學校身心障礙學生獎補助辦法」.",
+        "ProNo": "786ef834-e7a6-4174-aa21-cdd6f1619468",
+        "PagesAll": "66"
+    },
+    {
         "DoneDate": "2024\/06\/26",
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "民政教育",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "請改善下營區紅甲里遊樂設施工程，因社區閒置空地為經綠美化後成社區新埤塘公園景點，請補助設施改善以提升民眾生活品質，提供更完善休閒育樂空間。",
         "ProNo": "7347c951-f67f-43d8-83f7-45dab507d3a4",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "79",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請改善下營區紅甲里十六甲段2374-2地號巷道改善工程，因路段側溝多年未更新，排水功能已不敷使用，急辦理改善，以利排水。",
-        "ProNo": "6ea59acf-7fdd-43fc-826e-848d9b7421e5",
         "PagesAll": "66"
     }
 ]
