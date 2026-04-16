@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2023\/06\/07",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "專案報告-專案報告",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市議會環保衛生委員會",
+        "CaseCause": "「本市垃圾及事業廢棄物處理量能」專案報告",
+        "ProNo": "84459ddc-cda9-4abc-afd9-41bba6712043",
+        "PagesAll": "66"
+    },
+    {
         "DoneDate": "2023\/07\/04",
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "建設",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林依婷",
         "CaseCause": "臺南市公車停靠區前後停車格設置通盤檢討。",
         "ProNo": "477c5334-f355-448b-8047-b6145acb603e",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2023\/06\/07",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "28",
-        "OrgTitle": "林依婷",
-        "CaseCause": "建請重新劃設臺南市南區永華國民小學周圍通學步道\/人行道。",
-        "ProNo": "1de04531-b241-488e-a95e-5c3322500f31",
         "PagesAll": "66"
     }
 ]

@@ -2,6 +2,17 @@
     {
         "DoneDate": "2025\/07\/02",
         "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "75",
+        "OrgTitle": "周嘉韋",
+        "CaseCause": "建請市府加強登革熱防疫宣導。",
+        "ProNo": "83d298e4-781e-444c-bbca-119960bc3d40",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "建設",
         "KidTitle": "查照\/備查案-一般備查案",
         "CaseNumber": "1",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "蔡筱薇",
         "CaseCause": "建請儘速完成東區文社1立體多目標停車場。",
         "ProNo": "53ae9641-67e3-46e4-bb6b-8512da46180e",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "41",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府新增新化168觀光產業-「台灣好行」路線開駛後，以電力公車進行服務，提供遊客優質旅遊。",
-        "ProNo": "d76fa897-6f57-43ab-9ec0-de42df893f05",
         "PagesAll": "66"
     }
 ]

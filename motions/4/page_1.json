@@ -883,6 +883,17 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "55",
+        "OrgTitle": "臺南市政府客家事務委員會",
+        "CaseCause": "修正「臺南市客家文化會館場地使用管理辦法」第七條、第八條、第十條及第五條附表。",
+        "ProNo": "0e3cd148-898a-4e79-84a0-e86deec3c1bb",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府都市發展局",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府工務局",
         "CaseCause": "訂定「臺南市公有營建工程賸餘土石方暫置場收費標準」。",
         "ProNo": "b0718251-b18c-47ac-af29-c3b014975ff4",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規備查案",
-        "CaseNumber": "20",
-        "OrgTitle": "臺南市政府秘書處",
-        "CaseCause": "訂定「臺南市政府市政中心場地使用管理辦法」。",
-        "ProNo": "ac425446-9704-4a61-9abe-dbaf9d0d449b",
         "PagesAll": "66"
     }
 ]
