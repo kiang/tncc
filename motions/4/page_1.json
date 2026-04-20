@@ -68,6 +68,17 @@
     {
         "DoneDate": "",
         "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "專案報告-專案報告",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府體育局",
+        "CaseCause": "「臺南亞太國際棒球訓練中心營運管理現況與檢討」專案報告",
+        "ProNo": "647b52bf-d299-496c-9d57-ee75235564b2",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "查照\/備查案-一般備查案",
         "CaseNumber": "1",
@@ -283,6 +294,17 @@
         "OrgTitle": "臺南市政府工務局",
         "CaseCause": "有關內政部國土管理署核定本府辦理「115年度原有住宅公寓大廈改善無障礙設施補助計畫」，補助經費為新臺幣588萬2,000元（中央補助529萬4,000元，地方補助58萬8,000元），謹請貴會同意先行墊付，俾憑辦理後續相關事宜，俟116年度總預算辦理轉正，敬請審議。",
         "ProNo": "0e70a91d-0214-4dc5-8b7f-e5ef385d8e0e",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "專案報告-專案報告",
+        "CaseNumber": "",
+        "OrgTitle": "",
+        "CaseCause": "「臺南市土石方處理去化現況及因應對策」專案報告",
+        "ProNo": "503ea241-b3c7-4e41-9412-e9c7c11bb2db",
         "PagesAll": "66"
     },
     {
@@ -894,6 +916,17 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "56",
+        "OrgTitle": "臺南市政府財政稅務局",
+        "CaseCause": "修正「臺南市政府財政稅務局編制表」。",
+        "ProNo": "513ceac8-d94b-4a5a-9080-b879dc4840b7",
+        "PagesAll": "66"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府都市發展局",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "臺南市政府地政局",
         "CaseCause": "修正「臺南市實施平均地權基金收支保管及運用辦法」第三條。",
         "ProNo": "6b3216ad-a75c-43f5-b9c1-adbe963ccc0d",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規備查案",
-        "CaseNumber": "17",
-        "OrgTitle": "臺南市政府工務局",
-        "CaseCause": "修正「臺南市核發使用執照及補發建築執照收費標準」。",
-        "ProNo": "335e1677-ecda-4d17-9317-f7fbde47a45e",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規備查案",
-        "CaseNumber": "18",
-        "OrgTitle": "臺南市政府交通局",
-        "CaseCause": "修正「臺南市處理各類妨礙交通車輛收費標準」。",
-        "ProNo": "9846710e-a394-446a-8a03-3f4ad3b8d003",
-        "PagesAll": "66"
-    },
-    {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規備查案",
-        "CaseNumber": "19",
-        "OrgTitle": "臺南市政府工務局",
-        "CaseCause": "訂定「臺南市公有營建工程賸餘土石方暫置場收費標準」。",
-        "ProNo": "b0718251-b18c-47ac-af29-c3b014975ff4",
         "PagesAll": "66"
     }
 ]

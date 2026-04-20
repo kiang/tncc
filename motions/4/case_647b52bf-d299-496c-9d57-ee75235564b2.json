@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "1",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市政府體育局",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南亞太國際棒球訓練中心營運管理現況與檢討」專案報告",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"通盤檢討交通疏運計畫，針對賽事進場與離場的高峰時段進行分流規劃，例如結合四大交通節點的接駁服務、增加特定公車路線的班次、共享機車等，增加載運量能。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"針對球場鄰近住宅區噪音影響，建議市府召開跨局處會議並與居民直接溝通，採主動與被動降噪措施。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"提供更完善餐飲服務與攤商設置規劃，確保餐飲供應充足以及可持續之經營模式，並參考國際賽場規劃，賽場戶外不設置攤位之可行性評估。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"研議都市計畫變更，將公園用地變更為體育場用地，提高土地利用，極大化公共利益，並請體育局提案給都發局辦理都市計畫變更。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"建請市府於租約屆滿時，與承租者協商以促參方式續約。\",\"children\":[]},{\"order\":\"六、\",\"content\":\"建請市府遇到重大施政輿情爭議時，應在維護公務人員尊嚴情形下，詳盡且妥善對外說明。\",\"children\":[]},{\"order\":\"七、\",\"content\":\"今天會議中議員所提相關缺失部份，請對應之局處自行列管追蹤，並隨時向本會議員同仁說明改善進度。\",\"children\":[]}]}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4c1ba54d-e6f1-4864-aa83-50d00e9fded0",
+            "FileName": "專案報告-臺南亞太國際棒球訓練中心營運管理現況與檢討簡報-0420修.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e3e1f87e-9fa7-4807-b97a-ce563ab10102",
+            "FileName": "專案報告-臺南亞太國際棒球訓練中心營運管理現況與檢討補充資料.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=647b52bf-d299-496c-9d57-ee75235564b2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

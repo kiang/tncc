@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南市土石方處理去化現況及因應對策」專案報告",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"請市府主動公開「土石方全流向管理」包含填報土方來源、去處、土質與土量，GPS查核與違規處分以及收容場剩餘容量、已收受土量等統計分析等相關資訊。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請市府指定主責單位啟動營建剩餘土方（非營建混合物）填海造陸及河海港堤評估可行性計畫，亦請市府評估開設公有土資場及建立土方供需媒合平台。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"市府應積極向中央政府爭取辦理最終去化場所，如重劃工程回填，作為工程土方交換、低窪地回填去化場所。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"請市府各管理機關對土石方從營建土地到分類暫置場及最後到最終去化地點要落實加強稽查及監控。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"農業用地、保護區及低窪地的改良部分請農業局擬定作業流程以供營建剩餘土方再利用的去化點。\",\"children\":[]},{\"order\":\"六、\",\"content\":\"請市府定期召開由市府、土資場業者、不動產公會及營造業公會研商會議，建立常態性公私對話平台，動態滾動修正。\",\"children\":[]}]}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9952447e-ae74-46e8-ad02-0dac021461b4",
+            "FileName": "1150420臺南市政府臺南市土石方處理去化現況及因應對策專案報告(更新版).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7667e93b-f460-40bf-b4ab-e4740a4eab33",
+            "FileName": "1150420臺南市政府臺南市土石方處理去化現況及因應對策專案報告(更新版).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f81ca8e3-8f8b-4d98-95fa-6053ca47b15b",
+            "FileName": "1150420臺南市政府臺南市土石方處理去化現況及因應對策專案報告(更新版).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=503ea241-b3c7-4e41-9412-e9c7c11bb2db&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
