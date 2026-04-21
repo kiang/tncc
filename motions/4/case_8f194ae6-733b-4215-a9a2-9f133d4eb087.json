@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "2 ",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "「臺南巿歷史文化場域經理平台設置自治條例草案」專案報告",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"會議結論：\"},{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"經理平台對私權保障須強化。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"董事會成員結構請再檢討，以可以成功經營、達成財務自主為考量前提。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"法條設計由臺南市政府概括承受所有營運虧損並不妥適，需建立預防監督機制，避免市府承受財務風險。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"平台對於在地及各區民意代表需納入決策及參與監督機制並法制化。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"對於受補助個案，其權利義務對等需權衡入法或明訂契約。\",\"children\":[]},{\"order\":\"六、\",\"content\":\"蔡育輝議員、盧崑福議員、陳昆和議員保留大會發言權。\",\"children\":[]},{\"order\":\"七、\",\"content\":\"其他意見：\",\"children\":[{\"order\":\"(一)\",\"content\":\"鑒於臺南市美術館行政法人實行有悖離當初設立宗旨，規避監督之實，臺南市不宜再設立第二個行政法人。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"建議擱置自治條例的審查。\",\"children\":[]},{\"order\":\"(三)\",\"content\":\"刪除28條、30條。\",\"children\":[]}]}]},{\"tag\":\"p\",\"content\":\"以上結論送大會報告，作為自治條例是否繼續審查的參考意見。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4b6c4120-f079-4f7a-9812-9bb451a5d4e0",
+            "FileName": "專案報告-臺南市歷史文化場域經理平台及設置自治條例草案(送印版).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=75f691a9-b6aa-4127-b467-aab17e2215aa",
+            "FileName": "專案報告-臺南市歷史文化場域經理平台及設置自治條例草案(送印版).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8f194ae6-733b-4215-a9a2-9f133d4eb087&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
