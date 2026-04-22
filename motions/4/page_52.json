@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第3次 臨時會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "13",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請貴府儘速改善「後甲圓環」之交通現況，解決交通壅塞與車流不順之問題。",
+        "ProNo": "de99f0d1-22bd-4070-b33e-d20fe5d7e882",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2023\/08\/17",
+        "GradeTime": "第4屆 第3次 臨時會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "14",
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府交通局儘速在新市區明大公園及新市區大社國小設置U-bike租賃站點，以利民眾通行。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林燕祝",
         "CaseCause": "建請市府於永康區小橋公園旁之生態池增設圍籬安全措施，保障孩童休閒育樂安全。",
         "ProNo": "a88da550-bf9b-4d7e-9241-e58ba95cc637",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2023\/08\/17",
-        "GradeTime": "第4屆 第3次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "85",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "建請市府於永康區中華西街85巷12弄、中華西街127巷18弄進行人行道磚汰除，並鋪設柏油。",
-        "ProNo": "dc2f2d40-3cd6-4479-ba26-53319ef24f57",
         "PagesAll": "67"
     }
 ]

@@ -2,6 +2,17 @@
     {
         "DoneDate": "2023\/02\/17",
         "GradeTime": "第4屆 第1次 臨時會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "3",
+        "OrgTitle": "李啓維、黄肇輝",
+        "CaseCause": "機車行規定12米以上違憲不合時宜應調整。",
+        "ProNo": "cb7b246d-a799-4135-9c43-d883c1a943f4",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2023\/02\/17",
+        "GradeTime": "第4屆 第1次 臨時會",
         "PTypTitle": "保安",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林燕祝",
         "CaseCause": "建請市府逐年編列預算針對永康區五福街82巷計畫道路進行開闢工程。",
         "ProNo": "4056e171-ac23-46d5-bf23-99583cc7eebf",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "臨時動議",
-        "KidTitle": "臨時動議-臨時動議",
-        "CaseNumber": "5",
-        "OrgTitle": "李宗翰",
-        "CaseCause": "建請黃偉哲市長落實交通平權，屏除臺南市淪落為行人地獄的惡名。",
-        "ProNo": "5ea5ea58-3cbd-48aa-b548-e3f5eb41a1ff",
         "PagesAll": "67"
     }
 ]

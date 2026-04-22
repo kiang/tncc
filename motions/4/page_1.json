@@ -960,6 +960,17 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "60",
+        "OrgTitle": "臺南市政府水利局",
+        "CaseCause": "修正「臺南市市管區域排水渠道暫掛纜線管理辦法」名稱並修正為「臺南市市管區域排水渠道暫掛纜線管理及收費辦法」。",
+        "ProNo": "d2aae200-bfc9-4f0c-a55c-4aa16c6cc473",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府都市發展局",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府觀光旅遊局",
         "CaseCause": "修正「臺南市觀光發展基金收支保管及運用辦法」第二條、第四條。",
         "ProNo": "509325d5-ca2e-4f8f-b344-023c9ce2eebf",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規備查案",
-        "CaseNumber": "13",
-        "OrgTitle": "臺南市政府觀光旅遊局",
-        "CaseCause": "廢止「臺南市虎頭埤風景區管理所公共造產基金收支保管及運用辦法」。",
-        "ProNo": "6109aa81-5b1d-4275-b5f7-2b5efe4d8bbe",
         "PagesAll": "67"
     }
 ]
