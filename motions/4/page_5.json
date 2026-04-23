@@ -2,6 +2,39 @@
     {
         "DoneDate": "2025\/12\/04",
         "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "94",
+        "OrgTitle": "曾培雅",
+        "CaseCause": "建請市府提高生育獎金，至少比照台北市第一胎 40,000 元之標準，提升本市生育誘因並改善少子化問題。",
+        "ProNo": "336813eb-0bf4-4fee-97fc-4ac6e38f4bdd",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "95",
+        "OrgTitle": "蔡育輝、陳昆和",
+        "CaseCause": "請本於「議會自律」原則，不予於實務上限制市政總質詢(含自由發言)讓借其他議員時間。",
+        "ProNo": "6c830f85-abaa-4d7b-b4e8-410c9c8a4f8d",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "查照\/備查案-法規備查案",
+        "CaseNumber": "3",
+        "OrgTitle": "臺南市政府地政局",
+        "CaseCause": "訂定「臺南市自辦市地重劃審查收費標準」。",
+        "ProNo": "42c2da26-0f86-4049-b4e3-514116215304",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "查照\/備查案-一般備查案",
         "CaseNumber": "1",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "陳秋宏",
         "CaseCause": "官田區社子里舊社往南119線農路路面老舊龜裂，建請改善。",
         "ProNo": "1779f8bf-ca98-4df8-9e80-a5869058e035",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "85",
-        "OrgTitle": "陳秋宏",
-        "CaseCause": "麻豆區麻口里前後班段843至795地號農路，道路龜裂破損，建請改善。",
-        "ProNo": "ccf6c12e-a7a4-448b-b1b8-6effceba1027",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "86",
-        "OrgTitle": "陳秋宏",
-        "CaseCause": "麻豆區油車里油車96號之1至東隆高幹16右9農路，路面龜裂破損，建請改善。",
-        "ProNo": "3f75c8c3-971b-41b8-b03e-61e739302e30",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "87",
-        "OrgTitle": "陳秋宏",
-        "CaseCause": "麻豆區麻口里麻口段896地號農路道路龜裂破損，建請改善。",
-        "ProNo": "407554d0-0a3d-4ffd-ab70-6bdf1ebdec1f",
         "PagesAll": "67"
     }
 ]
