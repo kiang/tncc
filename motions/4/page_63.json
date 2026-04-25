@@ -2,6 +2,17 @@
     {
         "DoneDate": "2023\/03\/30",
         "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "49",
+        "OrgTitle": "李宗翰、周嘉韋、沈家鳳、李宗霖、陳皇宇、蔡筱薇",
+        "CaseCause": "完善議場規範，友善親子議會，建議議場開放0-6歲幼童進場照護。",
+        "ProNo": "38cc6c52-fb48-4d63-81fb-a006ea7b3472",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "財經",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "2",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林美燕",
         "CaseCause": "建請臺南市政府改善明興路與灣裡路三叉路口進入南定橋之交通號誌等設施。",
         "ProNo": "df82bcdb-c17b-40e0-8d82-b88555ba7238",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "29",
-        "OrgTitle": "林美燕",
-        "CaseCause": "建請臺南市政府明確設立大成路至健康路此段的南門路速限標誌。",
-        "ProNo": "346731fb-96d5-40bc-aae5-8374764161b3",
         "PagesAll": "67"
     }
 ]

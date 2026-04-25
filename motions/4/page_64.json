@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "29",
+        "OrgTitle": "林美燕",
+        "CaseCause": "建請臺南市政府明確設立大成路至健康路此段的南門路速限標誌。",
+        "ProNo": "346731fb-96d5-40bc-aae5-8374764161b3",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "30",
         "OrgTitle": "黄肇輝",
         "CaseCause": "建請市府交通局於永康區東橋里規劃多功能立體停車空間，以因應未來住宅增加後衍生之停車空間不足問題。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "李鎮國",
         "CaseCause": "建請市府重鋪永明里中山北路口至264巷55弄口。",
         "ProNo": "8f64dd1b-de1d-46c2-8e3d-00acb6673098",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "89",
-        "OrgTitle": "王宣貿",
-        "CaseCause": "請臺南市政府工務局儘速編列經費修復東山區南103線，以保障市民通行安全。",
-        "ProNo": "f01a14d9-5c6b-4210-9a0b-74eb1db992e9",
         "PagesAll": "67"
     }
 ]
