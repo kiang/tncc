@@ -16,7 +16,7 @@
     "DoneDesc": "一、經第4屆第10次臨時會第3次會（114年12月19日）審議通過（內容如大會決議表）。\r\n二、於同次會（114年12月19日）經復議討論通過（如大會復議後決議）。",
     "SendDate": "2025\/12\/29",
     "SendNumber": "南議財經字第 1140013169號",
-    "DoDesc": "臺南市政府115年2月12日府秘廳字第1150113942號函覆詳附件1。\r\n臺南市政府115年2月24日府經商字第115947467號函覆詳附件2。",
+    "DoDesc": "臺南市政府115年2月12日府秘廳字第1150113942號函覆詳附件1。\r\n臺南市政府115年2月24日府經商字第1150147467號函覆詳附件2。\r\n臺南市政府115年4月22日府教午字第1150471935號函覆詳附件3。",
     "AttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0a853ece-bc52-44fd-b96d-7b1edeaa0240",
@@ -33,6 +33,11 @@
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=afaa6ed4-9538-4bfc-b565-70b742d7bee4",
             "FileName": "2.經發局-辦理..眷村年貨大街...活動經費.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4c581f4e-08ea-4347-a542-a1de7c6a3180",
+            "FileName": "3.教育局-兩週多一次鮮乳.pdf",
             "ErrorMessage": ""
         }
     ],
@@ -81,6 +86,6 @@
     "ThirdDesc": "",
     "ExecuteReDate": "2026\/02\/12",
     "ExecuteReNumber": "府秘廳字第 1150113942號",
-    "ExecuteReMemo": "臺南市政府115年2月12日府秘廳字第1150113942號函覆詳附件1。\r\n臺南市政府115年2月24日府經商字第115947467號函覆詳附件2。",
+    "ExecuteReMemo": "臺南市政府115年2月12日府秘廳字第1150113942號函覆詳附件1。\r\n臺南市政府115年2月24日府經商字第1150147467號函覆詳附件2。\r\n臺南市政府115年4月22日府教午字第1150471935號函覆詳附件3。",
     "ErrorMessage": ""
 }
