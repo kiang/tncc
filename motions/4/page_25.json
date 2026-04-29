@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "46",
+        "OrgTitle": "沈家鳳",
+        "CaseCause": "建請市府優先改善白河區庄內里昇安農地重劃區東西一路一段農路改善工程，保障人車通行安全。",
+        "ProNo": "4d1dda25-c6c9-41f3-a6b4-de071ae32fe7",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "47",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "建請改善六甲區林鳳營段541-2重劃農路。",
+        "ProNo": "56f420cf-0c8b-4458-92ac-4c3b7e579c83",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "48",
         "OrgTitle": "沈家鳳",
         "CaseCause": "建請市府優先改善後壁區新東里後壁(三)東西五路農路改善工程，保障人車通行安全。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "沈震東",
         "CaseCause": "建請臺南市政府社會局評估北區親子悠遊館之坪數及相關服務設施空間是否符合需求。",
         "ProNo": "63472262-8904-4887-b510-cf128687b78e",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "33",
-        "OrgTitle": "朱正軒、王宣貿、沈家鳳",
-        "CaseCause": "建請社會局針對各類嬰幼兒托育場登記條件新增備有緊急通訊，並加強落實嬰幼兒緊急事件處理SOP，以便遭遇緊急情狀時能夠即時應對。",
-        "ProNo": "68758881-c6e8-44e0-9b7a-8e50ad16ae1d",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "34",
-        "OrgTitle": "余柷青",
-        "CaseCause": "有關臺南市私立托嬰中心年度評鑑丙等並經複評通過後，如若其欲加入準公共化的期限為何?評鑑頻率為何?其法源依據為何?",
-        "ProNo": "1e86b1bc-97e7-4d85-bb6e-4df44ee3e339",
         "PagesAll": "67"
     }
 ]
