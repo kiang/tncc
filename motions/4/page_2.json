@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
+        "CaseNumber": "5",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "廢止「臺南市水交社文化園區參觀收費標準」。",
+        "ProNo": "69279f76-037a-4738-a8bc-88785ac71d3f",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規備查案",
+        "CaseNumber": "6",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "修正「臺南市犬貓收容及處理收費標準」第一條之一。",
+        "ProNo": "77b18699-1911-4e91-bb7a-6146d4bb07da",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "7",
         "OrgTitle": "臺南市政府農業局",
         "CaseCause": "修正「臺南市犬貓狂犬病預防注射收費標準」第一條之一。",
@@ -151,6 +173,17 @@
         "OrgTitle": "臺南市政府秘書處",
         "CaseCause": "訂定「臺南市政府市政中心場地使用管理辦法」。",
         "ProNo": "ac425446-9704-4a61-9abe-dbaf9d0d449b",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規備查案",
+        "CaseNumber": "21",
+        "OrgTitle": "臺南市政府民政局",
+        "CaseCause": "修正「臺南市公立殯葬設施使用收費標準」第五條、第六條。",
+        "ProNo": "b9d0368d-a3ea-420e-b1ff-a47052cd5890",
         "PagesAll": "67"
     },
     {
@@ -1064,39 +1097,6 @@
         "OrgTitle": "沈家鳳、朱正軒、蔡筱薇",
         "CaseCause": "建請市府於年度藝術文化展演經費中規劃一定比例支持在地學生及青年藝術團體參與演出，以促進藝術教育扎根。",
         "ProNo": "b6c71c4b-7436-4cc7-a0c3-0dd33d826da8",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "4",
-        "OrgTitle": "沈家鳳",
-        "CaseCause": "柳營區公共休閒運動設施及生活空間長期不足，建請市府於推動鄉村地區整體規劃時，應納入相關公共空間規劃，並評估辦理鄉村社區土地重劃之可行性，以提升地方生活品質及完善公共設施配置。",
-        "ProNo": "c37b9805-2cfe-4250-a49a-346098515568",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "5",
-        "OrgTitle": "沈家鳳",
-        "CaseCause": "建請市府應積極向中央爭取經費，提升關子嶺溫泉整體觀光環境並帶動溫泉產業發展。",
-        "ProNo": "f9eca6e0-5d1f-4a91-b375-b199f2c5cd9d",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "請市府都市發展局能將新營區東學段418地號進行協議價購或認養或土地交換或創新工法以打通新東里轄內綠川東西兩側步道北端自長榮路橋~一路通達新東國中旁，嘉惠地方百姓。",
-        "ProNo": "de28d002-286b-4f5e-b493-e19b2ceb59b0",
         "PagesAll": "67"
     }
 ]

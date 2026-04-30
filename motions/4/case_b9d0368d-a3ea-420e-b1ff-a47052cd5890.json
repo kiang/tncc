@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "21",
+    "KidTitle": "查照\/備查案-法規備查案",
+    "ComeDate": "2026\/04\/30",
+    "ComeNumber": "111",
+    "OrgTitle": "臺南市政府民政局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市公立殯葬設施使用收費標準」第五條、第六條。",
+    "Content": "",
+    "Method": "",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0266c7e9-7fd9-4310-a2a7-ec023ac6ba89",
+            "FileName": "4-7定-法規備查21-修正「臺南市公立殯葬設施使用收費標準修正對照表及條文」.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b9d0368d-a3ea-420e-b1ff-a47052cd5890&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

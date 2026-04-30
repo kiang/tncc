@@ -1037,6 +1037,28 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "68",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "訂定「臺南市開元排練場使用管理辦法」。",
+        "ProNo": "487e8026-ed6f-4e82-bfca-34bc8c54f395",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "69",
+        "OrgTitle": "臺南市政府社會局",
+        "CaseCause": "修正「臺南市政府家庭暴力暨性侵害防治中心組織規程」及編製表。",
+        "ProNo": "be7686f1-963b-4f39-840b-d8f475ff4b15",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府都市發展局",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "臺南市政府消防局",
         "CaseCause": "修正「臺南市燃氣熱水器承裝業證書規費收費標準」，名稱並修正為「臺南市申請燃氣熱水器承裝業證書收費標準」。",
         "ProNo": "10bf9005-9293-4951-8c30-37f0f45b427c",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規備查案",
-        "CaseNumber": "5",
-        "OrgTitle": "臺南市政府文化局",
-        "CaseCause": "廢止「臺南市水交社文化園區參觀收費標準」。",
-        "ProNo": "69279f76-037a-4738-a8bc-88785ac71d3f",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規備查案",
-        "CaseNumber": "6",
-        "OrgTitle": "臺南市政府農業局",
-        "CaseCause": "修正「臺南市犬貓收容及處理收費標準」第一條之一。",
-        "ProNo": "77b18699-1911-4e91-bb7a-6146d4bb07da",
         "PagesAll": "67"
     }
 ]

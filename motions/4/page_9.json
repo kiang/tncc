@@ -4,6 +4,39 @@
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "40",
+        "OrgTitle": "陳怡珍",
+        "CaseCause": "臺南市北區大港街柏油路面破損不堪，影響行車安全，建請臺南市政府應儘速進行鋪面改善工程。",
+        "ProNo": "e1b00539-d661-4b24-b43f-27c4c8fc1036",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2025\/10\/29",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "41",
+        "OrgTitle": "林冠維",
+        "CaseCause": "建請市府儘速改善永康區東橋十街雙側人行道，以保障孩童及行人安全。",
+        "ProNo": "a25484bb-da1e-43c6-840b-38f06028a6b9",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2025\/10\/29",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "42",
+        "OrgTitle": "林冠維",
+        "CaseCause": "請辦理永康區公兒4-5公園新設滑軌遊具工程。",
+        "ProNo": "3dd653c9-aa3c-4df9-8e98-44f292942b29",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2025\/10\/29",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "43",
         "OrgTitle": "林冠維",
         "CaseCause": "請辦理永康區探索公園步道整體改善工程。",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "沈震東",
         "CaseCause": "建請工務局儘速辦理北區海安路三段338巷路溝改善工程。",
         "ProNo": "234e3388-60b9-449e-a716-91cad133f85d",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "140",
-        "OrgTitle": "沈震東",
-        "CaseCause": "建請工務局針對北區育德路199巷及221巷等路面進行修復，以利市民通行安全。",
-        "ProNo": "da48c9fa-7a4f-4d52-a674-2f8213d9d22d",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "141",
-        "OrgTitle": "沈震東",
-        "CaseCause": "建請工務局儘速辦理北區南園街28巷路溝改善工程。",
-        "ProNo": "515bbd5b-4927-4a7e-ab33-efe9f22c0cca",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "142",
-        "OrgTitle": "沈震東",
-        "CaseCause": "建請工務局針對中西區頂美三街(民權路四段至西湖街)及頂美三街121巷等路面進行修復，以利市民通行安全。",
-        "ProNo": "7cc13f15-090e-44db-b290-a2fa1f068afd",
         "PagesAll": "67"
     }
 ]
