@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "23",
+        "OrgTitle": "李偉智",
+        "CaseCause": "建請市府規劃新化區北勢里公車路線，以利民眾使用。",
+        "ProNo": "07503476-8808-4c71-a7b9-9bf70fe8b264",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "24",
         "OrgTitle": "吳通龍",
         "CaseCause": "建請市府規劃南瀛天文館周邊新增設停車場，以解決入園參觀民眾停車需求。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "黄肇輝",
         "CaseCause": "建請市府工務局儘速改善永康區自強路自高速二街至中正路之路面改善工程，以利此交通要道之安全。",
         "ProNo": "4ed3f7cb-e3c4-4d30-99c0-fb38832fd1b1",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "83",
-        "OrgTitle": "黄肇輝",
-        "CaseCause": "建請市府水利局儘速完成永康區「永康排水3K+149~3K+437右岸護岸改善工程」，以確保鄰近地區免於水患威脅。",
-        "ProNo": "deba7183-bac7-4477-a0ff-57328fcdf908",
         "PagesAll": "67"
     }
 ]

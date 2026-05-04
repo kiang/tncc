@@ -300,6 +300,17 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "工務",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "5",
+        "OrgTitle": "臺南市政府工務局",
+        "CaseCause": "交通部公路局核定本府「永續提升人行安全計畫」補助經費新臺幣600萬元(中央補助款528萬元、地方配合款72萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟116年度總預算時辦理轉正，敬請審議。",
+        "ProNo": "4b7f39ce-6758-4ce0-a35d-f737ae7004e4",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "工務",
         "KidTitle": "專案報告-專案報告",
         "CaseNumber": "",
         "OrgTitle": "",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府體育局",
         "CaseCause": "修正「臺南市公有運動場地收費標準」。",
         "ProNo": "df0c9d6a-e0bf-4d13-94b3-e5611f5ac830",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規備查案",
-        "CaseNumber": "4",
-        "OrgTitle": "臺南市政府消防局",
-        "CaseCause": "修正「臺南市燃氣熱水器承裝業證書規費收費標準」，名稱並修正為「臺南市申請燃氣熱水器承裝業證書收費標準」。",
-        "ProNo": "10bf9005-9293-4951-8c30-37f0f45b427c",
         "PagesAll": "67"
     }
 ]

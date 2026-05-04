@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第9次 臨時會",
         "PTypTitle": "民政教育",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "12",
+        "OrgTitle": "方一峰",
+        "CaseCause": "建請市府全面檢修溪北里鄰廣播系統。",
+        "ProNo": "73b60f6c-2808-4da5-8bce-117041a80bda",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2025\/08\/18",
+        "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "13",
         "OrgTitle": "沈家鳳、陳秋宏",
         "CaseCause": "建請市府於各里辦公處及重要社區據點配置發電機或不斷電系統UPS，以確保颱風、豪雨等災害造成停電時，仍能維持通訊、照明與救災指揮運作。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "郭鴻儀、謝舒凡",
         "CaseCause": "建請臺南市政府水利局加強本市現有内水沉水式抽水機之不斷電系統（UPS）建置，以因應極端氣候所可能引發之複合式災害，降低低窪地區淹水風險。",
         "ProNo": "6359f0f8-7b28-4f59-b52c-634a14969408",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "曾之婕",
-        "CaseCause": "建請水利局及工務局因應密集性豪雨，增設滯洪池集水井外，並排查既有老舊溝渠評估予以增寬加深，以增加容水量，降低民眾淹水之苦。",
-        "ProNo": "ac38469a-f8ea-4046-85ba-69b25efa89be",
         "PagesAll": "67"
     }
 ]
