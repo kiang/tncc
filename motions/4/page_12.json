@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第9次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "5",
+        "OrgTitle": "郭鴻儀、謝舒凡",
+        "CaseCause": "建請臺南市政府水利局加強本市現有内水沉水式抽水機之不斷電系統（UPS）建置，以因應極端氣候所可能引發之複合式災害，降低低窪地區淹水風險。",
+        "ProNo": "6359f0f8-7b28-4f59-b52c-634a14969408",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2025\/08\/18",
+        "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "6",
         "OrgTitle": "曾之婕",
         "CaseCause": "建請水利局及工務局因應密集性豪雨，增設滯洪池集水井外，並排查既有老舊溝渠評估予以增寬加深，以增加容水量，降低民眾淹水之苦。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "蔡育輝",
         "CaseCause": "請市政府編列預算合理調高特殊教育職務加給，以利於吸引與留任優秀的特教師資。",
         "ProNo": "61fb6dc9-f815-47c0-941b-4a250e1836c6",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "47",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "請市政府編列預算改善「新營國小活動中心冷氣空調設備」，以優化教學環境品質。",
-        "ProNo": "b13fa64e-699a-4bf3-8ee4-b52de7c263fd",
         "PagesAll": "67"
     }
 ]

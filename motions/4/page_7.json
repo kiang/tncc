@@ -2,6 +2,17 @@
     {
         "DoneDate": "2025\/12\/04",
         "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "78",
+        "OrgTitle": "陳秋宏、沈家鳳",
+        "CaseCause": "建請環保局訂定木材堆置方法SOP，預防發生火災。",
+        "ProNo": "f152bc0e-ba43-4707-8d78-bcc14a9bacf9",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "建設",
         "KidTitle": "查照\/備查案-一般備查案",
         "CaseNumber": "1",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "李宗霖",
         "CaseCause": "建請市府以丹娜絲颱風所造成之災害為借鏡，徹底進行制度性檢討，並擬定完整計畫，打造台南市的城市韌性。",
         "ProNo": "9acaa88c-ff2a-4ec8-b14e-da18cff44808",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "27",
-        "OrgTitle": "李宗霖、沈家鳳",
-        "CaseCause": "建請市府建置天災災後復原志工名單，並擴大培訓防災士，如未來遇到天然災害，市府能主動且即時通知，以加速災後復原效率。",
-        "ProNo": "0ec42dd8-3c19-48db-a070-03e5ff9eea05",
         "PagesAll": "67"
     }
 ]

@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第5次 臨時會",
         "PTypTitle": "民政教育",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "21",
+        "OrgTitle": "陳昆和",
+        "CaseCause": "建請市府七股區大埕里大寮大文國小後方道路改善工程乙案。",
+        "ProNo": "8db62b7e-c489-4e72-8e49-fb945a474757",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2024\/03\/15",
+        "GradeTime": "第4屆 第5次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "22",
         "OrgTitle": "蔡秋蘭",
         "CaseCause": "建請臺南市政府辦理佳里區鎮山里延平路59巷、59巷13弄柏油路重新整治工程。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "李宗霖",
         "CaseCause": "建請市府優先於本市東區崇善路（全段）開放直接左轉，以減少左轉車與直行車輛衝突。",
         "ProNo": "a17e5a41-f006-415b-a182-d724688aacf0",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "19",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府優先於本市東區東門路（東門圓環至崇學路）開放直接左轉，以減少左轉車與直行車輛衝突。",
-        "ProNo": "d1eba007-21e7-43da-96a1-89dbb62450b8",
         "PagesAll": "67"
     }
 ]
