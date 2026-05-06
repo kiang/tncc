@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "21",
+        "OrgTitle": "余柷青",
+        "CaseCause": "建請臺南市政府將新化區礁坑里、羊林里、大坑里納入新增小黃公車載客路線，以照顧偏鄉及山區居民。",
+        "ProNo": "0f3da6e7-8a83-42fe-a907-0c1f9a09b038",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "22",
         "OrgTitle": "鄭佳欣",
         "CaseCause": "建請市府協助仁德區中華醫事大學公車亭之建置。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "蔡麗青",
         "CaseCause": "建請市府把安南區台江大道三段納入路平專案。",
         "ProNo": "7aa34908-8cc0-4e90-9a85-2dd846137758",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "81",
-        "OrgTitle": "黄肇輝",
-        "CaseCause": "建請市府工務局儘速開闢永康區網寮里五王府前通往永大一路與永春路之計畫道路，以利周遭住戶聯外之便利以及消防安全。",
-        "ProNo": "fce3e237-ecd6-4d31-9905-c802a6b2b03a",
         "PagesAll": "67"
     }
 ]

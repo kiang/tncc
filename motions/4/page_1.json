@@ -984,7 +984,7 @@
         "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規查照案",
         "CaseNumber": "61",
-        "OrgTitle": "臺南市政府",
+        "OrgTitle": "臺南市政府人事處",
         "CaseCause": "修正「臺南市政府編制表」。",
         "ProNo": "f3d1ea97-eb3e-4c56-895b-789f1d57d8df",
         "PagesAll": "67"
@@ -998,6 +998,17 @@
         "OrgTitle": "臺南市政府農業局",
         "CaseCause": "修正「臺南市漁港及近海管理所編制表」。",
         "ProNo": "a70bd8d8-c8bd-4567-ade9-e13ee0c197e9",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "63",
+        "OrgTitle": "臺南市政府都市發展局",
+        "CaseCause": "修正「臺南市都市計畫區現有巷道改道或廢止申請辦法」。",
+        "ProNo": "309bf88d-e22c-421d-9c48-c207d385bbc6",
         "PagesAll": "67"
     },
     {
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府都市發展局",
         "CaseCause": "修正「臺南市指定建築線收費標準」。",
         "ProNo": "8024f0bc-3d97-4cd1-95ca-bbf89332d970",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規備查案",
-        "CaseNumber": "2",
-        "OrgTitle": "臺南市政府文化局",
-        "CaseCause": "修正「臺南市左鎮菜寮化石文化園區參觀收費標準」，名稱並修正為「臺南市左鎮化石文化園區參觀收費標準」。",
-        "ProNo": "64eabec9-943a-48a5-951a-2b3351eafc6d",
         "PagesAll": "67"
     }
 ]

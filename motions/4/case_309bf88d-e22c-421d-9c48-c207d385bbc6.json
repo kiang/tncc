@@ -1,13 +1,13 @@
 {
     "GradeTime": "第4屆 第7次 定期會",
     "PTypTitle": "法規",
-    "CaseNumber": "61",
+    "CaseNumber": "63",
     "KidTitle": "查照\/備查案-法規查照案",
-    "ComeDate": "2026\/04\/22",
-    "ComeNumber": "府人企字第1150551024號",
-    "OrgTitle": "臺南市政府人事處",
+    "ComeDate": "2026\/04\/23",
+    "ComeNumber": "府都管字第1150559856B號",
+    "OrgTitle": "臺南市政府都市發展局",
     "OrgTitle2": "",
-    "CaseCause": "修正「臺南市政府編制表」。",
+    "CaseCause": "修正「臺南市都市計畫區現有巷道改道或廢止申請辦法」。",
     "Content": "",
     "Method": "",
     "CheckDate": "",
@@ -19,13 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=91318351-bee1-401a-8938-617f48d11199",
-            "FileName": "4-7定-法規查照61--修正「臺南市政府編制表」.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e251829b-4d41-4ea5-a9ef-d944bfea47a9",
+            "FileName": "4-7定-法規查照63--修正「臺南市都市計畫區現有巷道改道或廢止申請辦法」.pdf",
             "ErrorMessage": ""
         }
     ],
     "RAttList": [],
-    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f3d1ea97-eb3e-4c56-895b-789f1d57d8df&type=pdf",
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=309bf88d-e22c-421d-9c48-c207d385bbc6&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
     "ReDate": "",
