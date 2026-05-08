@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2026\/05\/07",
+    "ComeNumber": "府財產字第1150574290號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理標售本府經管坐落本市學甲區學甲寮段255-65地號等5筆非公用市有土地，謹依土地法第25條規定之處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"坐落本市學甲區學甲寮段255-65地號等2筆市有土地，擬依「臺南市市有財產管理自治條例」第50條第1項第4款規定辦理標售。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"坐落本市臺南市新化區新平段785地號等2筆市有土地，擬依「臺南市市有財產管理自治條例」第50條第1項第1款規定辦理標售。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"坐落本市臺南市臺南市歸仁區圓環段361地號市有土地，擬依「臺南市市有財產管理自治條例」第49條及民法第426-2條規定規定辦理標售。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府115年5月5日第747次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4c493c3b-9a10-4eb1-a1d1-e05dcb6b6479",
+            "FileName": "地籍圖提案4編號1-4.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8c9b424f-7e7c-45d3-9a25-944032766e1d",
+            "FileName": "第四屆第7次定期會擬處分清冊財政稅務局(提案4).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d97a1fcb-90d0-4859-a2de-ee0dfaccb59e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,13 +1,13 @@
 {
     "GradeTime": "第4屆 第7次 定期會",
     "PTypTitle": "法規",
-    "CaseNumber": "4",
+    "CaseNumber": "14",
     "KidTitle": "查照\/備查案-法規查照案",
-    "ComeDate": "2025\/11\/26",
-    "ComeNumber": "府民自字第1141631643A號",
-    "OrgTitle": "臺南市政府民政局",
+    "ComeDate": "2026\/05\/06",
+    "ComeNumber": "府文園字第1150570659號",
+    "OrgTitle": "臺南市政府文化局",
     "OrgTitle2": "",
-    "CaseCause": "修正「臺南巿善化區文康育樂中心場地使用管理辦法」。",
+    "CaseCause": "修正「臺南市蕭壠文化園區場地使用管理辦法」。",
     "Content": "",
     "Method": "",
     "CheckDate": "",
@@ -19,13 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2a3bb883-0f61-4f62-a487-1b5fce29f009",
-            "FileName": "4-7定-法規查照4--修正「臺南市善化區文康育樂中心場地使用管理辦法」.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9d3155d1-cb2d-49d3-8734-b73a8058732c",
+            "FileName": "4-7定-法規查照71-修正「臺南市蕭壠文化園區場地使用管理辦法」.pdf",
             "ErrorMessage": ""
         }
     ],
     "RAttList": [],
-    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=54c1c472-ffeb-4401-afc5-023d7bb75c63&type=pdf",
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=d328770e-fc71-43df-8a63-1372f48f7cd4&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
     "ReDate": "",
