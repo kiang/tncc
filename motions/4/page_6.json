@@ -4,6 +4,39 @@
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "67",
+        "OrgTitle": "杜素吟",
+        "CaseCause": "建請市府辦理龍崎區崎頂里嶺北農路改善工程，以提升公眾通行安全。",
+        "ProNo": "5eaa3eae-ab5d-486a-98a6-ce4906288ea6",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "68",
+        "OrgTitle": "蔡蘇秋金",
+        "CaseCause": "北門區海埔南二支道道路損壞，急需辦理改善。",
+        "ProNo": "9aed51ae-ed44-430a-8b71-31546859314e",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "69",
+        "OrgTitle": "吳通龍",
+        "CaseCause": "建請市府儘速改善大內區內江里金佛寺下游農路排水工程，以維護用路人行的安全。",
+        "ProNo": "e63d6302-7043-4b49-aaab-28a587d4139a",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "70",
         "OrgTitle": "王宣貿",
         "CaseCause": "建請臺南市政府協助白河區馬稠後里馬稠後段928-2地號農路側溝溝蓋改善工程。",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "李偉智",
         "CaseCause": "建請市府儘速汰換清潔隊新化區隊大型抓斗車（15-17噸），以利清潔隊員使用。",
         "ProNo": "c7f72150-57c0-4df6-b938-aa28fee9702b",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "68",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請市府增購3.5噸小型清運車及流動廁所車，以提升巷弄垃圾清運效率及大型活動公共衛生服務量能。",
-        "ProNo": "fd4184ac-c25b-4705-8a7e-d21c9bb3653a",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "69",
-        "OrgTitle": "朱正軒、沈家鳳",
-        "CaseCause": "全面強化本市清潔隊員人力補足、車輛汰換、職業安全與健康檢查、獎勵制度及定點收運推動，提升清潔隊員工作安全與市政清運效率。",
-        "ProNo": "29b4a6d1-7db1-4536-b9ce-f0118655ef8c",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "70",
-        "OrgTitle": "郭鴻儀",
-        "CaseCause": "建請市府規劃設立「廚餘厭氧生質能源廠」，推動廚餘資源化與城市循環綠能體系，實現減廢、綠電與農業再生之多重效益。",
-        "ProNo": "1247ad37-eed5-40dd-976f-23505ba1c843",
         "PagesAll": "67"
     }
 ]
