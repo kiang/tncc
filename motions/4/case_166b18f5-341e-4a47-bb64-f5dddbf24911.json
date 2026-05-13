@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "14",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2026\/05\/13",
+    "ComeNumber": "府衛心字第1150620512號函",
+    "OrgTitle": "臺南市政府衛生局",
+    "OrgTitle2": "",
+    "CaseCause": "衛生福利部核定本市辦理115年度「整合型心理健康工作計畫」，核定差額新臺幣54萬3,000元整(中央補助款)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關事宜，俟116年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據衛生福利部115年5月6日衛部心字第1151761109號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款：經上級政府核定之補助款，所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"衛生福利部核定115年度「整合型心理健康工作計畫」補助金額為新臺幣(以下同)110萬元，總經費為137萬5,000元(本府財力級次為第五級；中央80%：110萬元；地方20%：27萬5,000元)。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"案內已納編115年度總預算金額79萬6,000元(原本府財力級次為第三級；中央70%：55萬7,000元；地方30%：23萬9,000元)，另差額57萬9,000元整(中央補助款54萬3,000元，市配款為3萬6,000元)未及於納入。\",\"children\":[]},{\"order\":\"(三)\",\"content\":\"然「116年度臺南市總預算案審編原則及注意事項」，各機關單位若有中央補助計畫須編列市配合款者，請優先於原編預算調整支應，未逾10萬元者不得外加市配合款。故差額市配款為3萬6,000元擬由原編預算調整支應，差額中央補助款54萬3,000元未及納入本府115年度總預算，建請先行墊付，俟116年度總預算時辦理轉正。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府115年5月12日第748次市政會議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本案經費為整合及加強心理健康基礎建設、落實自殺防治及災難心理衛生服務、精神病防治與照護服務，倘墊付案未能通過，將影響相關個案之服務及權利、社區心理諮商服務、兒童青少年、孕產婦、原住民及新住民、身心障礙、老人等心理健康服務。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟116年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2e7c1c11-40c4-4200-bf5d-3441fb6d47f8",
+            "FileName": "115年整合型心理健康工作計畫.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c4adfa17-9db2-408d-be75-d1f33efecbf0",
+            "FileName": "核定函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ece77b6d-713b-49b6-bc93-f525f8be6f1c",
+            "FileName": "經費核定表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=166b18f5-341e-4a47-bb64-f5dddbf24911&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
