@@ -1,13 +1,13 @@
 {
     "GradeTime": "第4屆 第7次 定期會",
     "PTypTitle": "法規",
-    "CaseNumber": "22",
+    "CaseNumber": "23",
     "KidTitle": "查照\/備查案-法規備查案",
     "ComeDate": "2026\/05\/13",
-    "ComeNumber": "府法制字第1150641080B號",
+    "ComeNumber": "府法制字第1150635356B號",
     "OrgTitle": "臺南市政府地政局",
     "OrgTitle2": "",
-    "CaseCause": "修正「臺南市土地界標申購收費標準」第一條之一。",
+    "CaseCause": "修正「臺南市各地政事務所提供地價資料收費標準」第一條之一。",
     "Content": "",
     "Method": "",
     "CheckDate": "",
@@ -19,13 +19,13 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5acf47f8-da95-4cba-b8f7-80cdb6f713b3",
-            "FileName": "4-7定-法規備查22--「臺南市土地界標申購收費標準」第一條之一.pdf",
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cc6a8c7e-4d18-41f0-8356-9be3500fc738",
+            "FileName": "4-7定-法規備查23--「臺南市各地政事務所提供地價資料收費標準」第一條之一.pdf",
             "ErrorMessage": ""
         }
     ],
     "RAttList": [],
-    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2c849763-3973-4902-bf5a-d1115f015fb8&type=pdf",
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9cbef79c-152b-425a-b613-7e653406924b&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
     "ReDate": "",

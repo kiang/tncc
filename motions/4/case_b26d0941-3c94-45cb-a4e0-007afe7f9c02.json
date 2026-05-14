@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2026\/05\/13",
+    "ComeNumber": "府體綜字第1150652182號",
+    "OrgTitle": "臺南市政府體育局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送財團法人台南市體育發展基金會114年度決算案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"財團法人台南市體育發展基金會政府累計捐助新臺幣1,454萬6,032元，捐助金額超過財產總額50%。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"決算書已於115年4月13日經該基金會115年第9屆第1次董監事會議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府115年5月12日第748次市政會議審議通過。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"檢附財團法人台南市體育發展基金會114年度決算書1份。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"依決算法第22條第2項規定，送請市議會審議。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=607fcb01-5d7b-4898-b7ab-4dfb3d36b7aa",
+            "FileName": "定4-7-民教市提4-114年台南市體育發展基金會決算書.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b26d0941-3c94-45cb-a4e0-007afe7f9c02&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
