@@ -4,6 +4,39 @@
         "GradeTime": "第4屆 第11次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "38",
+        "OrgTitle": "余柷青",
+        "CaseCause": "建請市府積極辦理「新化區東榮里冷水埤溢洪道下游護岸改善工程(應急工程)」案。",
+        "ProNo": "253f1c82-5c16-4034-867a-d13873dabaef",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "39",
+        "OrgTitle": "余柷青",
+        "CaseCause": "建請市府積極辦理「新市區潭頂里月潭段1161等地號側溝改善工程」案。",
+        "ProNo": "90409f5f-926f-4e52-9172-3c36e5e7610a",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "40",
+        "OrgTitle": "黄肇輝",
+        "CaseCause": "建請市府辦理永康區龍潭里龍潭段225地號蜈蜞潭中排護岸改善工程，以保障民眾居住之安全。",
+        "ProNo": "582645be-8524-4956-837f-9dae2739c1e5",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "41",
         "OrgTitle": "李偉智",
         "CaseCause": "建請市府儘速改善安定區新庄段958地號、新庄段955地號道路，以利民眾使用。",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "沈震東",
         "CaseCause": "建請市府針對賢北國小設置通學步道，以利師生通行。",
         "ProNo": "861aa355-e323-4047-b8b2-c8ef06451b98",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "49",
-        "OrgTitle": "施余興望 Tjakumay Tagaw",
-        "CaseCause": "建請市府設置專屬寒暑假補助津貼，確保寒暑假期間族語教師之生活與投保穩定性。",
-        "ProNo": "ff5c1031-e45f-460a-99bc-b177a3aba228",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "50",
-        "OrgTitle": "施余興望 Tjakumay Tagaw",
-        "CaseCause": "建請市府教育局與族語教師充分協商，明訂符合實際教學需求之最低授課時數保障及合理最高授課時數，以確保教學品質並有效維護教師權益。",
-        "ProNo": "0bc321c9-97dd-40f7-ac08-a436df415346",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "51",
-        "OrgTitle": "施余興望 Tjakumay Tagaw",
-        "CaseCause": "建請市府教育局為本市族語教師加保意外險，保障族語教師在教學或通勤過程中可能發生的意外事故，降低族語教師因意外造成的經濟損失，維護族語教師身心安全與教學穩定性。",
-        "ProNo": "1b0bade8-5e21-47c7-9e72-bb2115610f1d",
         "PagesAll": "67"
     }
 ]

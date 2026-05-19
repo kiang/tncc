@@ -4,6 +4,50 @@
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "39",
+        "OrgTitle": "臺南市政府地政局",
+        "CaseCause": "修正「臺南市市有耕地及養殖用地出租辦法」部分條文。",
+        "ProNo": "472dd6e1-bd99-46a5-a0cf-1fd23339e894",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "40",
+        "OrgTitle": "臺南市政府衛生局",
+        "CaseCause": "修正「臺南市大量傷病患救護辦法」第四條、第七條、第九條。",
+        "ProNo": "1d6db2fa-6c8a-41fb-8818-ebfa420cb783",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "41",
+        "OrgTitle": "臺南市政府工務局",
+        "CaseCause": "修正「臺南市道路挖掘施工維護管理辦法」第一條之一。",
+        "ProNo": "cf1c7eaa-b2fb-49b4-9d1e-dde8844ef8c2",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "42",
+        "OrgTitle": "臺南市政府水利局",
+        "CaseCause": "修正「臺南市水井及水利設施徵收補償費查估標準」第一條之一。",
+        "ProNo": "b4905d96-d0ea-4619-9cdd-9e598d7728cd",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
         "CaseNumber": "43",
         "OrgTitle": "臺南市政府文化局",
         "CaseCause": "修正「臺南市總爺藝文中心場地使用管理辦法」。",
@@ -616,17 +660,6 @@
         "PagesAll": "67"
     },
     {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "專案報告-專案報告",
-        "CaseNumber": "2 ",
-        "OrgTitle": "臺南市政府文化局",
-        "CaseCause": "「臺南巿歷史文化場域經理平台設置自治條例草案」專案報告",
-        "ProNo": "8f194ae6-733b-4215-a9a2-9f133d4eb087",
-        "PagesAll": "67"
-    },
-    {
         "DoneDate": "2026\/03\/20",
         "GradeTime": "第4屆 第11次 臨時會",
         "PTypTitle": "民政教育",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "余柷青",
         "CaseCause": "建請市府積極辦理「新化區農地重劃區E29農路既有路面及擋土牆改善工程(北勢里)」案。",
         "ProNo": "9fb517a8-6a17-420b-9536-bb36a7acb65f",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "5",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府積極辦理「新市區大社農地重劃區東大社段98號(南北六路)農路改善工程」案。",
-        "ProNo": "a64f00fe-9631-48a0-8ddf-705dfa7ff12e",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府積極辦理「新市區永就重劃區永就段160地號農路改善工程」案。",
-        "ProNo": "04a5f7d6-aaf3-43eb-b647-0a97e8e10b47",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "7",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府儘速改善新化區北勢里農地重劃區新化 E28道路，以利民眾使用。",
-        "ProNo": "b08941fe-cba3-4d69-ad4f-e27497b34136",
         "PagesAll": "67"
     }
 ]
