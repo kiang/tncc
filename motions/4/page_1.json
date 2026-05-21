@@ -1,6 +1,17 @@
 [
     {
         "DoneDate": "",
+        "GradeTime": "第4屆 第8次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "修正「臺南市立圖書館編制表」。",
+        "ProNo": "4bb1c17f-2607-4f6a-9f28-932516399b4c",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "民政教育",
         "KidTitle": "查照\/備查案-一般備查案",
@@ -459,6 +470,17 @@
         "OrgTitle": "臺南市政府文化局",
         "CaseCause": "廢止「臺南市水交社文化園區參觀收費標準」。",
         "ProNo": "401780ba-38ab-4d53-8c11-6752e456d502",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "檢送「財團法人臺南市台日文化友好交流基金會」115年度營運及資金運用計畫乙份，請查照。",
+        "ProNo": "601e7806-9a7d-4e34-8a31-d7b5b2d3adf2",
         "PagesAll": "67"
     },
     {
@@ -1075,28 +1097,6 @@
         "OrgTitle": "臺南市政府文化局",
         "CaseCause": "修正「臺南市新營文化中心場地使用管理辦法」。",
         "ProNo": "abfefae0-0c01-4128-bb42-dba45640d717",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規查照案",
-        "CaseNumber": "37",
-        "OrgTitle": "臺南市政府民政局",
-        "CaseCause": "修正「臺南市殯葬管理所組織規程」部分條文及「臺南市殯葬管理所編制表」。",
-        "ProNo": "a4fe1be8-21c5-42dd-aa87-46b54b20d454",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規查照案",
-        "CaseNumber": "38",
-        "OrgTitle": "臺南市政府民政局",
-        "CaseCause": "修正「臺南市永康戶政事務所編制表」及「臺南市府北戶政事務所編制表」。",
-        "ProNo": "8de5e057-d6e3-4569-98bf-f96f9ac2d313",
         "PagesAll": "67"
     }
 ]
