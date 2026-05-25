@@ -3,6 +3,39 @@
         "DoneDate": "2026\/03\/20",
         "GradeTime": "第4屆 第11次 臨時會",
         "PTypTitle": "財經",
+        "KidTitle": "市府提案-動支第二預備金",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府",
+        "CaseCause": "檢送114年度臺南市總預算第二預備金動支數額表，敬請審議。",
+        "ProNo": "febb3e14-c101-4258-8b3b-4665a6b12b19",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "1",
+        "OrgTitle": "邱莉莉",
+        "CaseCause": "建請臺南市政府研議來亞大樓拆除工程期間減輕該區段店家及住戶相關稅負並協調土地管理單位降低租金，以體恤民意、減少衝擊。",
+        "ProNo": "7c864bfa-bdf7-49be-90cc-5a09ca7c9b5c",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "王宣貿、Ingay Tali 穎艾達利",
+        "CaseCause": "建請市府評估運用柳營鳳和中學校地，以利未來整體區域發展。",
+        "ProNo": "1d4323db-0cca-4020-995f-254cbc5b9fce",
+        "PagesAll": "67"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
         "CaseNumber": "3",
         "OrgTitle": "余柷青",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "余柷青",
         "CaseCause": "建請市府積極辦理「新化區山腳里南169線5K至5.5K間道路改善工程」 案。",
         "ProNo": "e599b1a5-a434-4e86-ac42-e091fb499615",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "33",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府積極辦理「新化區豐榮里信義路道路改善」案。",
-        "ProNo": "06cce6cc-86c8-45f4-ae71-c7411cff19de",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "34",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府積極辦理「新化區護國里竹林路路面改善工程」案。",
-        "ProNo": "5680e52d-f6d2-4181-8966-6230bb60058a",
-        "PagesAll": "67"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "35",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府積極辦理「新化區北勢里衛生一號排水台39線旁道路改善工程」案。",
-        "ProNo": "35cdbf73-05a3-493c-a110-140b57243b52",
         "PagesAll": "67"
     }
 ]
