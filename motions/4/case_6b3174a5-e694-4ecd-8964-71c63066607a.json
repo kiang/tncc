@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "54",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "施余興望 Tjakumay Tagaw、李文俊、黃麗招、陳秋宏、沈家鳳",
+    "CaseCause": "建請市政府相關單位於永康公園增設戶外體健設施，以提供居民安全、便利之運動空間，促進全民健康及提升公園休憩功能。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"永康公園為地方居民日常休閒、散步及運動的重要場所，平日使用人數眾多，尤其長者、親子及青年族群使用頻繁。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"現場目前已有基礎空間配置，惟缺乏完整之體健設施，居民若欲進行伸展、肌力或簡易體能訓練，設備明顯不足。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"隨著健康意識提升，戶外運動需求日益增加，設置適當之體健器材，不僅可提升公園使用率，也有助於促進社區健康與鄰里互動。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"建議增設如(附圖)之體健設施，另有助樂齡友善其他體健設備等，並兼顧安全距離、夜間照明及地坪防護，以提供完善且安全之運動環境。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/05\/21",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d6e0e717-dd79-4e07-9e7d-b554a93ed2d0",
+            "FileName": "4-7定工務議提54附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6b3174a5-e694-4ecd-8964-71c63066607a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

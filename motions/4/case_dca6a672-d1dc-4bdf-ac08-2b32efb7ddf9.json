@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "61",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "李文俊、余柷青、陳秋宏、沈家鳳",
+    "CaseCause": "建請市府辦理永康區龍國街409號～龍國街562號、育樂街104巷16號～中山北路499巷與中山北路461巷8弄巷口、龍國街550巷～中山北路461巷8弄巷口，龍昌街與龍國街路口～龍昌街13號路面柏油重鋪，以解民眾困擾，這幾段道路瀝青路面破損，呈現路面不平整，嚴重影響行車安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"近年周邊住宅及人口逐漸增加，道路使用需求提升，現況道路(如圖)已難以負荷。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/05\/21",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=42f7335f-f530-42b6-a416-baf5d170d07b",
+            "FileName": "4-7定工務議提61附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=dca6a672-d1dc-4bdf-ac08-2b32efb7ddf9&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
