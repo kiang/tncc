@@ -47,6 +47,17 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第8次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "5",
+        "OrgTitle": "臺南市政府工務局",
+        "CaseCause": "修正「「臺南市人行道設置露天座管理辦法」第五條。",
+        "ProNo": "2b7f217e-2be1-41fa-ac6f-474dd4f45a2a",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第8次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府經濟發展局",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "蔡秋蘭",
         "CaseCause": "建請臺南市政府工務局辦理佳里區安西里安西路335巷道路改善工程。",
         "ProNo": "ebb1afaa-ccc7-4da4-a1e2-06b3a678edbd",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2026\/05\/27",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "33",
-        "OrgTitle": "蔡秋蘭",
-        "CaseCause": "建請臺南市政府工務局辦理佳里區佳興里(南24)震興宮至佳里興358號前道路改善工程。",
-        "ProNo": "b67f22b7-b8fa-4f7f-ba24-5c5e7dc1c70a",
         "PagesAll": "68"
     }
 ]
