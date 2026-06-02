@@ -33,7 +33,13 @@
             "ErrorMessage": ""
         }
     ],
-    "DoneAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=52f2222c-3f52-462e-8ab7-f5fc1b470334",
+            "FileName": "會議紀錄---1150527-4-7定大會.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "ReDate": "2026\/04\/08",
     "ReDesc": "照審查意見通過。",
     "FirstDate": "2026\/04\/17",

@@ -58,6 +58,17 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第8次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "6",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "修正「臺南市新化演藝廳場地使用管理辦法」部分條文及第五條附表。",
+        "ProNo": "6b9caf24-6ea4-4fa3-b238-ec179762aaf2",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第8次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府經濟發展局",
@@ -154,7 +165,7 @@
         "PagesAll": "68"
     },
     {
-        "DoneDate": "",
+        "DoneDate": "2026\/05\/27",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "民政教育",
         "KidTitle": "專案報告-專案報告",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "蔡秋蘭",
         "CaseCause": "建請臺南市政府工務局辦理七股區溪南里南31-1線道路邊坡修護工程。",
         "ProNo": "21b45e7f-3064-4f14-8db4-5cc86e2d53fa",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2026\/05\/27",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "32",
-        "OrgTitle": "蔡秋蘭",
-        "CaseCause": "建請臺南市政府工務局辦理佳里區安西里安西路335巷道路改善工程。",
-        "ProNo": "ebb1afaa-ccc7-4da4-a1e2-06b3a678edbd",
         "PagesAll": "68"
     }
 ]
