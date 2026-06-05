@@ -31,7 +31,13 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=64e63fc7-6934-4541-acf4-1a154eab12f6&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=efc24665-cc3f-4fef-b0d3-2c37771bbe24",
+            "FileName": "墊付案第2次補充資料(4-7定工務市提7).pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "2026\/05\/20",
     "ReDesc": "",

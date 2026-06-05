@@ -2,6 +2,39 @@
     {
         "DoneDate": "2026\/03\/20",
         "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "21",
+        "OrgTitle": "蔡育輝、陳昆和",
+        "CaseCause": "佳里區鎮山里鎮山街85巷農路排水改善工程。",
+        "ProNo": "bdf3258c-958b-4c0c-a50f-45ace5648364",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "專案報告-專案報告",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府財政稅務局",
+        "CaseCause": "「康寧大學臺南校區校舍使用規劃與發展方向」專案報告",
+        "ProNo": "a0302a90-8938-43e4-b4f3-0cb3bc1537b5",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府衛生局",
+        "CaseCause": "勞動部勞動力發展署補助本市辦理114年度「聘僱外籍看護工家庭短期替代照顧服務實施計畫」（下稱短照服務），因短照服務人次持續成長，原核定經費不足支應，另向中央請增費用，計新臺幣400萬元整（中央全額補助），因未及納入本府115年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟116年度總預算時辦理轉正，提請審議。",
+        "ProNo": "34458986-015f-4328-bfd5-80a9a18f0e99",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
         "PTypTitle": "環保衛生",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "2",
@@ -1064,39 +1097,6 @@
         "OrgTitle": "王宣貿",
         "CaseCause": "建請臺南市政府研議開闢柳營區士林里柳南段963地號內計畫道路，以維護地方居民通行安全。",
         "ProNo": "f2ab8d1e-ce84-4de4-8cde-d184830a9137",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "54",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府儘速規劃新化區新太自辦市地重劃區緊鄰的都市計劃道路開闢，以利民眾使用。",
-        "ProNo": "c886c9fc-4070-468b-a037-2f289c97f416",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "55",
-        "OrgTitle": "黄肇輝",
-        "CaseCause": "建請市府辦理永康區東橋五路(東橋十街至東橋八街)路面改善工程，以保障民眾通行之安全。",
-        "ProNo": "71c81e94-434c-4548-b03d-737d50cf3459",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "56",
-        "OrgTitle": "林燕祝",
-        "CaseCause": "建請市府將永康區中正五街11巷(中正三街至中正三街486巷)道路之柏油路面重新翻修，以保障民眾往來通行之安全。",
-        "ProNo": "fbaf56cc-80c2-4c47-a5df-92204326bce8",
         "PagesAll": "68"
     }
 ]
