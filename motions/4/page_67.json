@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第1次 臨時會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "10",
+        "OrgTitle": "余柷青",
+        "CaseCause": "建請市府農業局補助養雞場設置水濂密閉式設施。",
+        "ProNo": "2bc9b475-b336-4feb-8685-4669544e1948",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2023\/02\/17",
+        "GradeTime": "第4屆 第1次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "11",
         "OrgTitle": "邱昭勝",
         "CaseCause": "九崴天然氣發電廠建蓋選址不當，建請市府不予同意本開發案。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "曾之婕",
         "CaseCause": "建請市府對東區東門路沿線，自崇學路口迄至自由路口段，實施路平專案。",
         "ProNo": "4ea5205e-3f03-44b8-91ec-ca68ea9e658a",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2023\/02\/17",
-        "GradeTime": "第4屆 第1次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "35",
-        "OrgTitle": "蔡秋蘭",
-        "CaseCause": "建請市府改善佳里區建南里平等街173巷道路鋪面改善工程。",
-        "ProNo": "45fc0644-efa0-4d0f-864f-26705ea5dfda",
         "PagesAll": "68"
     }
 ]

@@ -10,8 +10,8 @@
     "CaseCause": "修正「臺南市攤販管理自治條例」草案，敬請審議。",
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市攤販管理自治條例於一百零二年七月八日制定公布，迄今歷經二次修正。因攤販營業趨於多元化，條文已不合時宜且未臻完備；經參考其他縣市攤販管理自治條例並彙集本市集合攤販管理組織等相關意見，爰擬具本自治條例修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經115年5月12日第748次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市攤販管理自治條例」修正草案(含修正草案總說明、修正草案條文對照表及修正草案條文)1份。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
-    "CheckDate": "",
-    "CheckDesc": "",
+    "CheckDate": "2026\/06\/04",
+    "CheckDesc": "一、除第7條修正通過，其餘照修正條文通過，詳審查結果對照表。。\r\n二、第7條修正文字如下：\r\n(一) 第1項第2款增修文字：\r\n二、不得損害公有建築物、其他固定設施及財產設備。\r\n(二)第2項第1款增列文字：\r\n一、不得存放危險性油料、易燃物或爆炸物品。但營業使用有必要之用量，不在此限。\r\n三、其他意見：\r\n  (一)有關第2條集合攤販數量公告時，應明列清楚並作管理，以達輔導管理之效。\r\n  (二)請巿府法制處及經發局研擬攤販與攤商間定型化契約。",
     "DoneDate": "",
     "DoneDesc": "",
     "SendDate": "",
@@ -26,7 +26,13 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7a4b1d97-dd87-4f39-ad46-c217ac2b7b9f&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=13aa44b0-c4c3-40a9-a335-92860e6379c0",
+            "FileName": "審查結果對照表---4-7定法規巿提5--修正「臺南市攤販管理自治條例」草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "2026\/05\/20",
     "ReDesc": "",

@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "檢送本府擬具之「111年臺南市美術館績效評鑑分析報告」，請准予備查。",
+        "ProNo": "617c474b-8cf5-4cf2-92f6-0496d2633b46",
+        "PagesAll": "68"
+    },
+    {
         "DoneDate": "2023\/10\/27",
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "建設",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "李宗霖",
         "CaseCause": "建請市府改善平實路、凱旋路、中華東路一段路口之相關交通問題。",
         "ProNo": "56dee570-4a19-42bf-8f94-c2d1bcee3527",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2023\/11\/30",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "50",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府於德高公園周邊設置機車停車空間，以供市民使用，解決該地區停車亂象。",
-        "ProNo": "f791cce6-1295-421e-a912-d5e8682091d5",
         "PagesAll": "68"
     }
 ]
