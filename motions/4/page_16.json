@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "76",
+        "OrgTitle": "王宣貿",
+        "CaseCause": "建請台南市政府協助辦理柳營區重溪里五軍營東路十二農路及北路四農路路面更新工程。",
+        "ProNo": "1e06dd21-a724-40c0-83b5-a37a1136867f",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "77",
+        "OrgTitle": "王宣貿",
+        "CaseCause": "建請台南市政府協助辦理後壁區長短樹里白沙屯(七)東西1路及東西2路農路路面更新工程。",
+        "ProNo": "325d2624-33c9-4b84-89ed-cde4c066cc9e",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "78",
         "OrgTitle": "尤榮智",
         "CaseCause": "請改善六甲區水林里水漆林段1043、1043-2、1043-3、1047-3地號農路改善工程，目前土石路路面凹陷嚴重，急辦理改善，以利行車安全。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "李宗霖、沈家鳳",
         "CaseCause": "建請市府持續佈建0-3歲公共托育之相關政策，並確保提供平價的托嬰品質，同時保障托育人員福利。",
         "ProNo": "a0844173-e4bd-4bbd-8fdd-bfe7b914e890",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "32",
-        "OrgTitle": "朱正軒、沈家鳳、余柷青、王宣貿",
-        "CaseCause": "建請社會局放寬定點臨托年齡限制，從未滿4歲放寬到未滿6歲，以擴大服務對象。",
-        "ProNo": "ab81ecc8-d15e-4965-b355-dc0354150647",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "33",
-        "OrgTitle": "李宗翰",
-        "CaseCause": "為提供育兒家庭接觸教育、托育資源，建請社會局、教育局整理相關資訊。",
-        "ProNo": "ee9c96a3-b522-4976-a433-04dabe812fc9",
         "PagesAll": "68"
     }
 ]
