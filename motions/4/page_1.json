@@ -135,6 +135,17 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第8次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "13",
+        "OrgTitle": "臺南市政府教育局",
+        "CaseCause": "修正「臺南市公立幼兒園專任園長遴聘及公立學校附設幼兒園專任主任任期辦法」部分條文。",
+        "ProNo": "2dc29d79-1c83-4169-b184-cccdf128c531",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第8次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府經濟發展局",
@@ -731,7 +742,7 @@
         "PTypTitle": "環保衛生",
         "KidTitle": "議員提案-一般提案",
         "CaseNumber": "43",
-        "OrgTitle": "Ingay Tali 穎艾達利、王宣貿、余柷青、李中岑、陳昆和",
+        "OrgTitle": "Ingay Tali 穎艾達利、王宣貿、余柷青、李中岑、陳昆和、周奕齊",
         "CaseCause": "建請市府積極建立臺南市公共空間熱風險治理制度，於校園、運動場、公園綠地、兒童遊戲場、樂齡戶外處所制訂並實施熱風險評估標準，以期有效從降低熱傷害事件，將熱風險治理納入城市治理環節，保障市民安居樂活之基本權利。",
         "ProNo": "ea052997-5470-4beb-93e1-912d7d4d590b",
         "PagesAll": "68"
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林美燕",
         "CaseCause": "利南黃昏市場廁所旁水溝堵塞，請加強疏通。",
         "ProNo": "6f8cf0d0-9181-48f4-a29d-ba7f0d565ba8",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2026\/05\/27",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "9",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請市府優先編列預算辦理「柳營區神農里暨果毅里庄內南側道路改善工程」，以維護人車通行安全。",
-        "ProNo": "b13d9b75-ace9-47e4-9362-77f2ee755fe8",
         "PagesAll": "68"
     }
 ]
