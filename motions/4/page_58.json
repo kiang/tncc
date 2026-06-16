@@ -4,17 +4,6 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "環保衛生",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "13",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府規劃新化區鄰近永康焚化爐之四里(太平里、護國里、武安里、東榮里)里民回饋金補償案。",
-        "ProNo": "1545114a-ca3a-48ac-8a9d-257e19a3c581",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "14",
         "OrgTitle": "蔡筱薇、沈家鳳",
         "CaseCause": "建請研擬爭取托嬰中心評鑑獎金。",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "李宗翰",
         "CaseCause": "建請市府研議將月津港燈會攤販擴大區域。",
         "ProNo": "1a345d96-7f87-4e12-96d9-1635adec22d6",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "23",
+        "OrgTitle": "李宗翰",
+        "CaseCause": "建請活化新營軸帶，帶動大新營區藝文團體發展。",
+        "ProNo": "bd220c55-2ab6-4488-8afa-f948e4ca3374",
         "PagesAll": "68"
     }
 ]

@@ -4,17 +4,6 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "81",
-        "OrgTitle": "林美燕",
-        "CaseCause": "請增設臺南航空站(奇美幸福工廠)之公車候車亭。",
-        "ProNo": "44ed30c1-38cb-450c-bab1-948ddaffcd7c",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "82",
         "OrgTitle": "黄肇輝",
         "CaseCause": "建請市府於永康區中華路人行道改善工程施作後，一併檢討中華路路邊停車格之重新規劃。",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "陳秋萍",
         "CaseCause": "建請市府工務局儘速完成永康區正強里中正路15巷排水改善工程，為市民打造更優質的生活環境。",
         "ProNo": "4ec1f0e6-f301-4b14-974c-f930807f42d8",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2025\/06\/04",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "83",
+        "OrgTitle": "陳秋萍",
+        "CaseCause": "建請市府工務局儘速完成永康區正強里中正路至中山路道路側溝排水改善工程，保障社區住戶免於淹水之苦。",
+        "ProNo": "303368ae-8273-45c3-a665-234fb49ae096",
         "PagesAll": "68"
     }
 ]

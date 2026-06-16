@@ -4,17 +4,6 @@
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "148",
-        "OrgTitle": "周嘉韋",
-        "CaseCause": "建請市府針對中西區永華一街44巷路面柏油重新鋪設。",
-        "ProNo": "cd8951be-bca1-4817-8c34-097028e55ec6",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "149",
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府針對中西區永華一街60巷路面柏油重新鋪設。",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "沈震東",
         "CaseCause": "建請水利局改善府前路二段258巷河岸景觀，使運河兩岸景觀能均衡發展。",
         "ProNo": "9889d4c8-60b5-4875-9dba-b26240659337",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "248",
+        "OrgTitle": "沈震東",
+        "CaseCause": "建請市府儘速評估「原臺南公園管理所」之未來規劃及發展。",
+        "ProNo": "d44a4444-08b7-4fb7-9de3-7eff45e74c78",
         "PagesAll": "68"
     }
 ]

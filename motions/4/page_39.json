@@ -4,17 +4,6 @@
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "31",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請交通局協調臺南市YouBike微笑單車騎乘跨越其他縣市時免收跨區調度費用暨擴大於社區間、各景點區、各級學校周邊、缺少公車站點處等增設騎乘區以服務市民。",
-        "ProNo": "e649961e-9116-4b2e-8a2e-c09b312d1616",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "32",
         "OrgTitle": "許至椿",
         "CaseCause": "建請市府於長榮路五段以北至與永康區交界增設U-Bike站點。",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "李偉智",
         "CaseCause": "建請市府規劃於新化區大目橋虎頭溪下游處，儘速安排清淤，並建築防汛道路以利後續維護工程。",
         "ProNo": "ff776ee5-0474-42d4-9ec8-4e0a9470151c",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2024\/05\/29",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "吳禹寰",
+        "CaseCause": "建請市府打通關廟區湯山大橋沿鹽水溪旁上游至台19甲防汛專用道。",
+        "ProNo": "1d23b03c-2bfb-48c1-985a-f90c7c20a65a",
         "PagesAll": "68"
     }
 ]

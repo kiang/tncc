@@ -4,17 +4,6 @@
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "9",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請市府優先編列預算辦理「柳營區神農里暨果毅里庄內南側道路改善工程」，以維護人車通行安全。",
-        "ProNo": "b13d9b75-ace9-47e4-9362-77f2ee755fe8",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2026\/05\/27",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "10",
         "OrgTitle": "李鎮國",
         "CaseCause": "請市府加強永康公園內區域濕地的安全措施，並檢討園區內流浪犬管制方式。",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "臺南市政府文化局",
         "CaseCause": "修正「臺南市歷史建築永成戲院場地使用管理辦法」部分條文。",
         "ProNo": "170c9f9a-6e54-4e65-8322-679a40f4a952",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "36",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "修正「臺南市新營文化中心場地使用管理辦法」。",
+        "ProNo": "abfefae0-0c01-4128-bb42-dba45640d717",
         "PagesAll": "68"
     }
 ]

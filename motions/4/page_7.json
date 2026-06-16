@@ -4,17 +4,6 @@
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "36",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請改善六甲區七甲段369-2地號及316-5、316-7，赤山段655、594地號農路改善工程，因道路年久失修，龜裂破損嚴重，急辦理改善，以利行車安全。",
-        "ProNo": "0c90da4c-fee7-4d77-94c1-7ee790c3c54c",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "37",
         "OrgTitle": "尤榮智",
         "CaseCause": "請改善六甲重劃區林鳳營段455-2農路改善工程，因道路年久失修，路面龜裂破損嚴重，急辦理改善，以利行車安全。",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "林美燕",
         "CaseCause": "請規劃更新本市南區文華社區活動中心之公共廁所。",
         "ProNo": "3876700d-1cf4-45e2-bd21-01ecce0b7d76",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "37",
+        "OrgTitle": "周嘉韋、沈家鳳",
+        "CaseCause": "建請市府研議利用NFC裝置嵌入防走失手環，以利聯絡家屬更便利且快速。",
+        "ProNo": "9d6521a0-59e6-40f1-894c-486fbee8f469",
         "PagesAll": "68"
     }
 ]

@@ -4,17 +4,6 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "33",
-        "OrgTitle": "林冠維、周奕齊",
-        "CaseCause": "請市府辦理永康區西勢路19巷道路排水改善工程。",
-        "ProNo": "ce6dd6df-6241-4b7e-a2fc-b451dae767a6",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "34",
         "OrgTitle": "林冠維、周奕齊",
         "CaseCause": "請市府辦理永康區中正南路592巷尾道路排水改善工程。",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "黄肇輝",
         "CaseCause": "建請市府儘速辦理永康區中華西街196巷道路重鋪改善工程。",
         "ProNo": "c3d83388-f987-4d95-9440-6ae68f295d94",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "133",
+        "OrgTitle": "沈家鳳",
+        "CaseCause": "建請市府於鹽水公20特色公園與鄰近土地交界處設置綠籬作為區隔，以利民眾使用。",
+        "ProNo": "4983dd87-e59d-4d43-9610-82c914732d2f",
         "PagesAll": "68"
     }
 ]

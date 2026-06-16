@@ -4,17 +4,6 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "建設",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "23",
-        "OrgTitle": "李宗翰",
-        "CaseCause": "建請活化新營軸帶，帶動大新營區藝文團體發展。",
-        "ProNo": "bd220c55-2ab6-4488-8afa-f948e4ca3374",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "24",
         "OrgTitle": "李宗翰、周嘉韋",
         "CaseCause": "建請研議將社會住宅轉變成短租旅宿之相關規定。",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "沈震東",
         "CaseCause": "建請交通局評估及協調長榮路五段及大武街交叉路口之閒置空間進行活化。",
         "ProNo": "3fe6eed0-1c0d-4797-a13c-82bac7ac1ada",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "68",
+        "OrgTitle": "沈震東、余柷青",
+        "CaseCause": "建請交通局設置新型智慧候車亭於臺南美術館。",
+        "ProNo": "2db48974-6156-4a62-bf6d-d0aaf29b086a",
         "PagesAll": "68"
     }
 ]

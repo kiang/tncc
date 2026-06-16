@@ -795,17 +795,6 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "建設",
-        "KidTitle": "查照\/備查案-一般備查案",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府文化局",
-        "CaseCause": "檢送「財團法人臺南市台日文化友好交流基金會」115年度營運及資金運用計畫乙份，請查照。",
-        "ProNo": "601e7806-9a7d-4e34-8a31-d7b5b2d3adf2",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "建設",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "3",
         "OrgTitle": "臺南市政府觀光旅遊局",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "林美燕",
         "CaseCause": "利南黃昏市場廁所旁水溝堵塞，請加強疏通。",
         "ProNo": "6f8cf0d0-9181-48f4-a29d-ba7f0d565ba8",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2026\/05\/27",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "9",
+        "OrgTitle": "蔡育輝",
+        "CaseCause": "建請市府優先編列預算辦理「柳營區神農里暨果毅里庄內南側道路改善工程」，以維護人車通行安全。",
+        "ProNo": "b13d9b75-ace9-47e4-9362-77f2ee755fe8",
         "PagesAll": "68"
     }
 ]

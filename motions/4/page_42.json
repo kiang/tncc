@@ -4,17 +4,6 @@
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "202",
-        "OrgTitle": "陳秋萍",
-        "CaseCause": "建請儘速整合道路路權申請系統，納入全市37區，提升便民作為。",
-        "ProNo": "7e6159c0-caba-438a-a08d-5f320844df0c",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "203",
         "OrgTitle": "林美燕",
         "CaseCause": "請改善本市南區萬年殿廟前至喜樹活動中心之喜樹路段之道路狀況。",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "臺南市政府教育局",
         "CaseCause": "修正「臺南市國民中小學雜費及代收代辦費收支辦法」第一條、第三條。",
         "ProNo": "ab5f263d-2b73-4e7d-a138-f80f9fe75a88",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "25",
+        "OrgTitle": "臺南市政府教育局",
+        "CaseCause": "修正「臺南市市立高級中等以下學校及幼兒園特殊教育班教師每週教學節數標準」，名稱並修正為「臺南市市立高級中等以下學校及幼兒園特殊教育班教師每週基本教學節數標準」。",
+        "ProNo": "856d667e-9197-4883-badf-cefe5b818b24",
         "PagesAll": "68"
     }
 ]

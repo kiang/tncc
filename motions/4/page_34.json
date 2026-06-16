@@ -4,17 +4,6 @@
         "GradeTime": "第4屆 第6次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "17",
-        "OrgTitle": "陳昆和",
-        "CaseCause": "請辦理左鎮區睦光里舊台20乙線(南化高幹22)道路側溝改善工程。",
-        "ProNo": "f82a7a54-02a5-470c-bf4d-6b76f5e11491",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2024\/08\/22",
-        "GradeTime": "第4屆 第6次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "18",
         "OrgTitle": "陳昆和",
         "CaseCause": "大內區市道178大坑橋至大匏崙台84線道路龜裂下陷案。",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "李宗翰",
         "CaseCause": "建請市府就新營體育場維修工程，採延後工期或調整维修項目之方式進行維修，俾利選手訓練，為臺南市爭光。",
         "ProNo": "45f827bf-6a6f-4069-98ef-f4306f538ea1",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "18",
+        "OrgTitle": "盧崑福、蔡宗豪",
+        "CaseCause": "安平區國平路、平通路口(金華段82、82-2地號)滑輪溜冰場不敷使用，希望增設滑輪曲棍球場。",
+        "ProNo": "09700a69-68dd-417c-b28c-3905f74bf9ef",
         "PagesAll": "68"
     }
 ]

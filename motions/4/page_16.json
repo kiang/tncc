@@ -4,17 +4,6 @@
         "GradeTime": "第4屆 第5次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "59",
-        "OrgTitle": "蔡蘇秋金",
-        "CaseCause": "建請儘速核定「西港農地重劃區第六工區南海埔段865-1地號路面改善工程案」，以維市容整齊及環境衛生。",
-        "ProNo": "9373a765-0162-4ed6-8087-d579d054ab33",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "60",
         "OrgTitle": "蔡蘇秋金",
         "CaseCause": "建請儘速核定「西港農地重劃區第三工區二之八農路改善工程」、「西港農地重劃區第三工區三之三農路改善工程」，以利農便及維護用路人安全。",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "鄭佳欣、沈家鳳、李宗霖",
         "CaseCause": "因應夏季高溫炎熱，建請市府為垃圾車及回收車加裝遮陽板與車內電風扇，以體恤並保護清潔隊員健康與安全。",
         "ProNo": "d773afc1-255c-407c-bdfb-08087be1a592",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2025\/07\/02",
+        "GradeTime": "第4屆 第5次 定期會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "15",
+        "OrgTitle": "蔡宗豪",
+        "CaseCause": "建請市府在台南各大觀光景點增設智慧垃圾桶。",
+        "ProNo": "c756040a-be18-4a46-aa95-373bd1bff423",
         "PagesAll": "68"
     }
 ]

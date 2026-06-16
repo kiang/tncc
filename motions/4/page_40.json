@@ -4,17 +4,6 @@
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "2",
-        "OrgTitle": "吳禹寰",
-        "CaseCause": "建請市府打通關廟區湯山大橋沿鹽水溪旁上游至台19甲防汛專用道。",
-        "ProNo": "1d23b03c-2bfb-48c1-985a-f90c7c20a65a",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2024\/05\/29",
-        "GradeTime": "第4屆 第3次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "3",
         "OrgTitle": "許至椿",
         "CaseCause": "建請市府辦理規劃柴頭港溪加蓋。",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "黃麗招",
         "CaseCause": "建請北外環快速道路-觀海橋處增設引道案。",
         "ProNo": "379c6fa1-4d5f-4115-bf21-9d6dc9f02638",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2024\/05\/29",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "102",
+        "OrgTitle": "蔡筱薇",
+        "CaseCause": "建請將巴克禮公園的椅子更換為仿生木紋椅子。",
+        "ProNo": "30ad2097-d2d0-49a5-b6fa-49c48a71d8f8",
         "PagesAll": "68"
     }
 ]

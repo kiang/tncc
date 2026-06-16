@@ -4,17 +4,6 @@
         "GradeTime": "第4屆 第8次 臨時會",
         "PTypTitle": "環保衛生",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "14",
-        "OrgTitle": "李宗霖",
-        "CaseCause": "建請市府研議培養「區域陪病員」，整合家屬需求，減輕家屬陪病負擔。",
-        "ProNo": "904403be-001d-41bf-a22d-7b05e7d29c03",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2025\/03\/20",
-        "GradeTime": "第4屆 第8次 臨時會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "15",
         "OrgTitle": "曾培雅、周奕齊",
         "CaseCause": "建請市府提高各里社區關懷據點及長照據點提供長輩餐食之補助，提升長者健康福祉。",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "林美燕",
         "CaseCause": "請修繕臺南市南區德興路130巷之水溝面。",
         "ProNo": "1873f340-b2d6-4a40-9429-c44b3ab1e209",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "45",
+        "OrgTitle": "余柷青",
+        "CaseCause": "新化區山腳里南169線5K至5.5K間道路改善工程。",
+        "ProNo": "6387cd33-0126-4238-b1e4-ff58f3206a45",
         "PagesAll": "68"
     }
 ]

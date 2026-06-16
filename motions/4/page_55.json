@@ -4,17 +4,6 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "民政教育",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "17",
-        "OrgTitle": "吳禹寰",
-        "CaseCause": "建請市府針對仁德區運動公園游泳池閒置已久問題，儘速進行活化。",
-        "ProNo": "efc030ac-1c7a-44c6-a8e3-af1309b13e9c",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "18",
         "OrgTitle": "蔡筱薇、周嘉韋、沈家鳳、林依婷",
         "CaseCause": "建請市府建立符合國際標準的游泳池。",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "郭鴻儀",
         "CaseCause": "建請評估整合新建仁德區綜合行政大樓，提升合署辦公效益，並與參考捷運藍線工程，整合區域發展需求。",
         "ProNo": "a0fcbafa-064b-4519-9f87-cba5d017123f",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "117",
+        "OrgTitle": "郭鴻儀",
+        "CaseCause": "建請評估整合新建歸仁區綜合行政大樓，並與參考捷運藍線工程，整合歸仁圓環發展，打造全新行政地標。",
+        "ProNo": "210697cb-d906-4bc3-a3c5-a0c6a83d978b",
         "PagesAll": "68"
     }
 ]

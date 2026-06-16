@@ -1,16 +1,5 @@
 [
     {
-        "DoneDate": "2024\/12\/19",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "市府提案-總預算案",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府主計處",
-        "CaseCause": "本市114年度總預算案及總預算案附屬單位預算及綜計表，業經編製完竣，敬請 審議。",
-        "ProNo": "c3d774ad-f899-4c97-b8b4-45060964f3be",
-        "PagesAll": "68"
-    },
-    {
         "DoneDate": "2024\/12\/02",
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "財經",
@@ -1097,6 +1086,17 @@
         "OrgTitle": "蔡蘇秋金",
         "CaseCause": "將軍區青鯤鯓鹽豐橋往鎮海將軍廟道路，道路嚴重破損、亟需改善，建請農業局儘速撥款改善。",
         "ProNo": "bd29af5b-59f6-4f84-a326-34999bc55471",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "100",
+        "OrgTitle": "蔡蘇秋金",
+        "CaseCause": "佳里區鎮安段 1416地號無側溝可供排水，以致影響路基、且阻礙農作，建請農業局儘速核定經費改善。",
+        "ProNo": "d2a91356-8e63-47fa-af80-7eb12088e60a",
         "PagesAll": "68"
     }
 ]
