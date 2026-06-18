@@ -4,28 +4,6 @@
         "GradeTime": "第4屆 第11次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "35",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府積極辦理「新化區北勢里衛生一號排水台39線旁道路改善工程」案。",
-        "ProNo": "35cdbf73-05a3-493c-a110-140b57243b52",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "36",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府積極辦理「左鎮區睦光里內庄子段594-1等地號護岸改善工程」案。",
-        "ProNo": "a48be911-efed-4963-a6f9-7b7abe102e28",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "37",
         "OrgTitle": "余柷青",
         "CaseCause": "建請市府積極辦理「新化區那拔里南177區道旁崩溝溪擋土牆(那拔段2019地號)護岸工程」案。",
@@ -1097,6 +1075,28 @@
         "OrgTitle": "沈震東",
         "CaseCause": "建請教育局針對小康幼兒園文元分班儘速媒合，以利地方提供加值服務及避免閒置空間。",
         "ProNo": "c4fc5ee0-20b1-4b65-a62c-3e369b5be8a0",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "46",
+        "OrgTitle": "沈震東、沈家鳳",
+        "CaseCause": "建請教育局評估設置體健科，讓學校體育相關庶務回歸教育，以利權責分配。",
+        "ProNo": "1726c9df-5c67-429a-bd2c-059414ed3db3",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "47",
+        "OrgTitle": "沈震東",
+        "CaseCause": "建請設置立人國小通學步道，以利師生通行。",
+        "ProNo": "5aa0afc4-6e17-468a-b61b-bc9cbad13097",
         "PagesAll": "68"
     }
 ]

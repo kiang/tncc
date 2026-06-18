@@ -385,17 +385,6 @@
         "PagesAll": "68"
     },
     {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "查照\/備查案-法規查照案",
-        "CaseNumber": "24",
-        "OrgTitle": "臺南市政府環境保護局",
-        "CaseCause": "修正「臺南市政府環境保護局組織規程」第三條。",
-        "ProNo": "6f558686-d963-41ed-a2c8-7f0b32701600",
-        "PagesAll": "68"
-    },
-    {
         "DoneDate": "2026\/05\/27",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "環保衛生",
@@ -784,17 +773,6 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "建設",
-        "KidTitle": "查照\/備查案-法規備查案",
-        "CaseNumber": "5",
-        "OrgTitle": "臺南市政府文化局",
-        "CaseCause": "廢止「臺南市水交社文化園區參觀收費標準」。",
-        "ProNo": "401780ba-38ab-4d53-8c11-6752e456d502",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "建設",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "3",
         "OrgTitle": "臺南市政府觀光旅遊局",
@@ -1097,6 +1075,28 @@
         "OrgTitle": "蔡育輝",
         "CaseCause": "建請市府優先編列預算辦理「柳營區神農里暨果毅里庄內南側道路改善工程」，以維護人車通行安全。",
         "ProNo": "b13d9b75-ace9-47e4-9362-77f2ee755fe8",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2026\/05\/27",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "10",
+        "OrgTitle": "李鎮國",
+        "CaseCause": "請市府加強永康公園內區域濕地的安全措施，並檢討園區內流浪犬管制方式。",
+        "ProNo": "3f436f11-955c-43d7-87f1-a75ecaf1553e",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2026\/05\/27",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "11",
+        "OrgTitle": "王家貞",
+        "CaseCause": "請市府於台鐵臺南車站後站，人行道上增設無障礙斜坡道。",
+        "ProNo": "2f1b5e23-0be0-428f-8d42-ba880b2164ca",
         "PagesAll": "68"
     }
 ]

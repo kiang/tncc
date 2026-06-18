@@ -18,7 +18,13 @@
     "SendNumber": "南議工務字第 1150004097號",
     "DoDesc": "",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=418ff817-9e21-46b5-841c-9bf799db7719",
+            "FileName": "府水養字第1150929587號-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a256c569-964f-4165-85cd-4041ec26e039&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
+    "ExecuteReDate": "2026\/06\/15",
+    "ExecuteReNumber": "府水養字第 1150929587號",
     "ExecuteReMemo": "",
     "ErrorMessage": ""
 }
