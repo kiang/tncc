@@ -16,7 +16,7 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2026\/06\/03",
     "SendNumber": "南議法規字第 1150004038號",
-    "DoDesc": "",
+    "DoDesc": "巿府衛生局於115年6月18日府衛心字第1150900791號函回復如下：\r\n有關4-7定法規巿提3號案大會決議辦理情形如下：\r\n一、第四條所指身份，係指本府所屬機關、學校人員執行職務時，知悉對象出現重度情緒困擾時，應先辦理自殺危險性評估，並非所有規範對象都需列入評估及通報。目的是為及早提供心理關懷及支持，降低自殺企圖風險，無關標籤化。\r\n二、第十二條所指公務人員懲處，為加強自殺通報義務，以避免自殺憾事發生。因適用對象同自殺防治法第11條第1項所定之公務人員及自殺防治法施行細則第13條第1項通報作業，故不另請中央函釋。\r\n三、檢附自殺防治法及自殺防治法施行細則各1份供參。",
     "AttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fb85eb3f-6da3-46de-837d-a32d08b468e6",
@@ -24,7 +24,13 @@
             "ErrorMessage": ""
         }
     ],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a2a4924a-ce5c-46d4-84f3-12e7df5bd72b",
+            "FileName": "1150618巿府回復資料---4-7定-法規巿提3----擬具「臺南市自殺通報及關懷自治條例」部分條文修正草 案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=119693c5-886c-436b-8d0a-5baf64277fc3&type=pdf",
     "CheckAttList": [
         {
@@ -42,8 +48,8 @@
     "SecondDesc": "照審查意見通過。",
     "ThirdDate": "2026\/05\/27",
     "ThirdDesc": "照二讀會決議通過。",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2026\/06\/18",
+    "ExecuteReNumber": "府衛心字第 1150900791號",
+    "ExecuteReMemo": "巿府衛生局於115年6月18日府衛心字第1150900791號函回復如下：\r\n有關4-7定法規巿提3號案大會決議辦理情形如下：\r\n一、第四條所指身份，係指本府所屬機關、學校人員執行職務時，知悉對象出現重度情緒困擾時，應先辦理自殺危險性評估，並非所有規範對象都需列入評估及通報。目的是為及早提供心理關懷及支持，降低自殺企圖風險，無關標籤化。\r\n二、第十二條所指公務人員懲處，為加強自殺通報義務，以避免自殺憾事發生。因適用對象同自殺防治法第11條第1項所定之公務人員及自殺防治法施行細則第13條第1項通報作業，故不另請中央函釋。\r\n三、檢附自殺防治法及自殺防治法施行細則各1份供參。",
     "ErrorMessage": ""
 }

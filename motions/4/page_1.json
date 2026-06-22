@@ -146,11 +146,55 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第8次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "14",
+        "OrgTitle": "臺南市政府環境保護局",
+        "CaseCause": "修正「臺南市柳營科技工業區暨環保園區育成中心出租收費辦法」第十一條、第十二條。",
+        "ProNo": "aea744b1-e414-455e-8486-9d8709fdc378",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第8次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "15",
+        "OrgTitle": "臺南市政府工務局",
+        "CaseCause": "修正「臺南市公園綠地認養辦法」第一條之一、第二條。",
+        "ProNo": "daab6e10-c77c-47cb-af17-ca7595a85aa9",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第8次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "16",
+        "OrgTitle": "臺南市政府工務局",
+        "CaseCause": "修正「臺南市公園綠地委託經營管理辦法」第一條之一。",
+        "ProNo": "6736d6ca-4cab-47c6-b0ce-c4a1cb6dabce",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第8次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府經濟發展局",
         "CaseCause": "修正「臺南市新吉工業區一般公共設施維護費收費標準」第一條之一、第三條。",
         "ProNo": "31a2bb81-5dd1-48cf-94d5-738df8e14321",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第8次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規備查案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府民政局",
+        "CaseCause": "修正「臺南市安南區里建設獎勵基金收支保管與運用辦法」部分條文。",
+        "ProNo": "5520546b-ca41-40e0-841d-56b980fc8a57",
         "PagesAll": "68"
     },
     {
@@ -1053,50 +1097,6 @@
         "OrgTitle": "陳碧玉",
         "CaseCause": "建請市府工務局儘速在新市區大洲里19號前，進行柏油路面改善工程，保障人車通行安全。",
         "ProNo": "a581baab-d209-470a-aa34-f13582a9f2e1",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2026\/05\/27",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "8",
-        "OrgTitle": "林美燕",
-        "CaseCause": "利南黃昏市場廁所旁水溝堵塞，請加強疏通。",
-        "ProNo": "6f8cf0d0-9181-48f4-a29d-ba7f0d565ba8",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2026\/05\/27",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "9",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "建請市府優先編列預算辦理「柳營區神農里暨果毅里庄內南側道路改善工程」，以維護人車通行安全。",
-        "ProNo": "b13d9b75-ace9-47e4-9362-77f2ee755fe8",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2026\/05\/27",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "10",
-        "OrgTitle": "李鎮國",
-        "CaseCause": "請市府加強永康公園內區域濕地的安全措施，並檢討園區內流浪犬管制方式。",
-        "ProNo": "3f436f11-955c-43d7-87f1-a75ecaf1553e",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2026\/05\/27",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "11",
-        "OrgTitle": "王家貞",
-        "CaseCause": "請市府於台鐵臺南車站後站，人行道上增設無障礙斜坡道。",
-        "ProNo": "2f1b5e23-0be0-428f-8d42-ba880b2164ca",
         "PagesAll": "68"
     }
 ]

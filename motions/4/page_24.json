@@ -4,6 +4,50 @@
         "GradeTime": "第4屆 第8次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "44",
+        "OrgTitle": "林美燕",
+        "CaseCause": "請修繕臺南市南區德興路130巷之水溝面。",
+        "ProNo": "1873f340-b2d6-4a40-9429-c44b3ab1e209",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "45",
+        "OrgTitle": "余柷青",
+        "CaseCause": "新化區山腳里南169線5K至5.5K間道路改善工程。",
+        "ProNo": "6387cd33-0126-4238-b1e4-ff58f3206a45",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "46",
+        "OrgTitle": "余柷青",
+        "CaseCause": "新化區崙頂里59號道路周邊水溝蓋汰換改善工程。",
+        "ProNo": "49a96869-7bf1-4d15-8590-f9c6405ac259",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "47",
+        "OrgTitle": "余柷青",
+        "CaseCause": "南化區北寮里頭份段459-1地號野溪護岸改善工程。",
+        "ProNo": "b66a58fa-c8e9-4684-a44c-264c8e233867",
+        "PagesAll": "68"
+    },
+    {
+        "DoneDate": "2025\/03\/20",
+        "GradeTime": "第4屆 第8次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "48",
         "OrgTitle": "余柷青",
         "CaseCause": "新市區港墘里順大電機旁排水路改善工程。",
@@ -1053,50 +1097,6 @@
         "OrgTitle": "林美燕",
         "CaseCause": "請重新檢視並修建補強體育公園內蒸汽火車頭展覽場之遮雨棚結構安全，並採修建補強措施。",
         "ProNo": "fcf0af05-5541-4b83-ae53-f7a0c440dd7c",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "32",
-        "OrgTitle": "林美燕",
-        "CaseCause": "體育公園內橄欖球場旁變電箱之覆蓋木板已鬆動，請重新架設。",
-        "ProNo": "5fc4a764-a4cd-4e4e-b82f-5aa7c172d283",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "33",
-        "OrgTitle": "沈震東",
-        "CaseCause": "建請體育局盡速評估北區樂齡運動館。",
-        "ProNo": "3e2cf3db-94ad-403c-ae63-4289bcfb009e",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "34",
-        "OrgTitle": "沈震東",
-        "CaseCause": "建請市府針對大豐里之廣場用地(廣場N3)進行評估增設匹克球場，以利附近居民運動休閒。",
-        "ProNo": "4f1ed707-bfff-437d-9a1a-f992153b5219",
-        "PagesAll": "68"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "35",
-        "OrgTitle": "沈震東",
-        "CaseCause": "建請市府評估重興綠園旁之籃球場，增設風雨球場，以利增長運動風氣。",
-        "ProNo": "962f4845-e910-4b55-b63b-a68b4d380e1b",
         "PagesAll": "68"
     }
 ]
