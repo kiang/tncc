@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "83",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王宣貿",
+    "OrgTitle2": "陳秋宏、陳皇宇、Ingay Tali 穎艾達利",
+    "CaseCause": "請市府檢討新營火車站YouBike調度空間，善用新營區興業段64、61停車場用地作為備用車區，以改善民眾借還車困難問題。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"新營火車站為全台南市YouBike使用量第一大的站點，是溪北地區重要交通節點，也是學生、通勤族及民眾轉乘火車、公車與市區通勤的重要接駁站點。近期尖峰時段頻繁出現無車可借、無位可還情形，已影響民眾上班、上課及搭車通勤。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"新營區興業段64、61為市有地且屬於停車場用地，本身即具有交通服務及停放使用性質，且鄰近新營火車站與YouBike站點，具備作為備用車區及調度空間之合理性。市府應從公共運輸接駁與民眾通勤需求角度，優先檢討該用地如何妥善運用，而非讓調度空間直接中斷。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"原先使用方式確有市容、行人通行安全或車輛進出動線疑慮，應透過管理方式改善，例如劃設明確停放範圍、規劃調度車進出動線、限制調度時段、設置安全區隔、加強現場管理，而非逕行取消使用，造成民眾借還車困難。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"參考附件建議圖。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2026\/06\/18",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6dcabed4-239b-467b-9406-5bee6b5f52ee",
+            "FileName": "王宣貿議員-檢討新營火車站youbike調度空間.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9c9ab4ae-0c19-49ea-b622-843f9258e725&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

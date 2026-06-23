@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "70",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "鄭佳欣",
+    "OrgTitle2": "邱莉莉、林志展、周嘉韋、許至椿、王宣貿、沈家鳳、陳秋宏、沈震東、余柷青、曾之婕、陳怡珍、謝舒凡、朱正軒、吳禹寰、林冠維、蔡育輝",
+    "CaseCause": "建請市府於高鐵特定區道路人行道規劃兼具行人通行與停車功能之設計。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"建議高鐵特定區道路人行道規劃可比照台南市安平區永華路二段之設計，兼具機車停放與行人通行功能，空間運用彈性，可同時滿足行人及機車停放需求，提升道路整體使用效率。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"人行道旁可同步規劃汽車停車格，使汽車與機車停車分流，維持良好通行品質，避免占用人行道。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"此類兼具通行與停放功能的人行道設計模式，有助於提升行人安全與停車管理效率，建請市府研議於高鐵特定區適用並採行類似規劃。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/06\/18",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a53aaf46-1886-4b57-9615-418eb16c56a9",
+            "FileName": "鄭佳欣議員-高鐵特定區道路人行道規劃兼具行人通行與停車功能之設計.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=593cc707-8fbf-4e4e-9ac0-40da1584a71a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

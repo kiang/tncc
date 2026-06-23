@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "71",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "李文俊、沈家鳳、陳秋宏、余柷青、施余興望 Tjakumay Tagaw",
+    "CaseCause": "建請於大灣交流道的週邊(比如迴轉道及往迴轉道的前路口)設立倒數計秒顯示器，以利用路人預判駕駛行為。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據民眾陳情與現場查勘後建議。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"大灣交流道的週邊(比如迴轉道及往迴轉道的前路口)因為車流非常大，常導致許多車不耐久等，常跟車很緊，導致到了路口中間紅燈一亮就被迫卡在道路中間，連要左右轉離開路口都動彈不得，造成另側直行車輛也無法前進，為避免堵車，建議類似重要路口要設立倒數計秒顯示器，讓駕駛人判斷是否要再緊跟前車，避免越線造成堵車等行為。(附圖)\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/06\/18",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6c715213-52b3-4dbf-abff-45d8d80321cd",
+            "FileName": "李鎮國議員-大灣交流道週邊迴轉道路口設立倒數記秒顯示器.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fc9574a2-d28a-460b-86b3-afd9b187597b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
