@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "138",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王宣貿、Ingay Tali 穎艾達利",
+    "OrgTitle2": "陳秋宏、陳皇宇",
+    "CaseCause": "本市大新營地區殯儀館設施精進改善案。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"大新營地區殯儀館為民眾治喪、守靈及送別親人的重要場所，相關空間不僅應具備基本使用安全，更應維持莊重、明亮、便利及完善的環境品質。近期接獲民眾反映，新營福園、柳營祿園殯儀館及鹽水壽園部分設施已有破損、漏水、照明不足及使用不便等情形，恐影響家屬治喪過程及民眾使用安全。其情形臚列如下：\"},{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"新營福園景行廳前方遮雨棚破損嚴重，遇雨恐造成民眾通行不便及安全疑慮，建請儘速修繕改善。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"新營福園守靈空間照明昏暗，影響家屬守靈及出入安全，建請評估增加燈源或改善照明設備。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"新營福園二樓至三樓間遮雨設施破損，雨天恐有漏水、濕滑及通行不便情形，建請儘速檢修。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"柳營祿園殯儀館入口處採光罩漏水，影響民眾進出動線及整體環境品質，建請派員會勘並辦理修繕。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"鹽水壽園守靈室目前電源配置使用上較不便利，建請評估電源延長或增設安全插座，以符合家屬守靈期間相關設備使用需求，提升治喪空間便利性與安全性。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2026\/06\/18",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=67a1face-7def-401f-8c1e-622304a3a6d1",
+            "FileName": "附件資料-大新營地區殯儀館設施需改善圖.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2fca90c9-e519-4597-88b2-4673c7d35e95&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

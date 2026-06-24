@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "159",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "朱正軒",
+    "OrgTitle2": "李宗霖、陳皇宇、沈震東、余柷青",
+    "CaseCause": "建請市府推動永康水資源中心塩洲步道成圓計畫，完善地方休憩運動空間。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"針對永康水資源中心周邊空間之串聯與整體發展，建請市府推動「塩洲步道成圓」計畫。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"研議擴大開放水資源中心、木馬公園之改善、長樂橋與長樂步道之綠蔭植栽增加，並延伸至整個塩洲社區。期透過步道拓寬與串聯，提供尚頂、甲頂及塩行地區鄉親連貫且安全舒適之運動休憩動線。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/06\/18",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=70d01254-af17-4608-9895-4cf17b9783d3",
+            "FileName": "4-7定工務議提159附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e4657b39-650a-408d-9141-19eb2ae788fd&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "100",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林冠維、周奕齊",
+    "OrgTitle2": "盧崑福、杜素吟、李中岑、陳怡珍、曾之婕、陳昆和、吳禹寰、蔡秋蘭",
+    "CaseCause": "請民政局研議配合都市計畫整體開發期程，於永康區停12用地興建立體停車場時，申請多目標使用，將中興里納入規劃中。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"目前中興里活動中心為租借使用、腹地狹小、建物老舊不敷使用，因目前辦理永康六甲頂公共設施專案通盤檢討中，於中華路東側將規劃停12用地以市地重劃方式整體開發，請民政局配合都市計畫、市地重劃及捷運場站興建期程，將中興里活動中心納入立體停車場多目標使用內，提升中興里服務量能(圖示如附件)。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/06\/18",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=907e63a8-432f-42f3-8a00-92520b1abcc5",
+            "FileName": "附件圖示-永康停12用地.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5bd592ba-a2b9-4e1f-8281-95a351292bdc&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

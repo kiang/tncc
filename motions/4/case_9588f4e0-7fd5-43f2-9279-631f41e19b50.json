@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "120",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡宗豪",
+    "OrgTitle2": "林美燕、曾培雅、陳皇宇",
+    "CaseCause": "本市北區林森路(東豐路至小東路段)強降雨排水不及，公車停靠路段多處積水，造成搭公車民眾需涉水搭乘。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"此路段為公車停靠站，影響民眾搭乘需涉水跨越，對於年長者多處不便。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"落葉會堵塞在溝洞口上，原有的溝洞有一半以上是堵塞的狀況，排水效果大大減少。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"建請工務局在原有10米一個溝洞的基礎上，改為5米一個溝洞，提升排水效果，能將溝洞增設在側邊上也不會影響路面的平整性，儘速增設增加民眾的安全。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如說明。\"}]",
+    "CheckDate": "2026\/06\/18",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2973539a-9f13-4b25-8c96-82e4f945606f",
+            "FileName": "4-7定工務議提120.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9588f4e0-7fd5-43f2-9279-631f41e19b50&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

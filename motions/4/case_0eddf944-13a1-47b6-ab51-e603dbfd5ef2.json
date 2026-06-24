@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "101",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林冠維",
+    "OrgTitle2": "盧崑福、杜素吟、李中岑、陳怡珍、曾之婕、周奕齊、陳昆和、吳禹寰、蔡秋蘭",
+    "CaseCause": "請民政局研議配合烏竹自辦市地重劃期程，於公兒1-2用地多目標使用規劃烏竹里活動中心。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"目前烏竹里活動中心向廟方租借使用，功能受限，永康烏竹自辦市地重劃今年1月市府核定，區內公兒1-2用地約0.172公頃，其中15%可申請多目標使用興建活動中心使用，請民政局配合烏竹市地重劃期程納入規劃(圖示如附件)。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/06\/18",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=91feb008-6fe1-487d-a87c-36e076958ce4",
+            "FileName": "附件圖示-公兒1-2用地.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=0eddf944-13a1-47b6-ab51-e603dbfd5ef2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

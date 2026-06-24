@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "3",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "邱莉莉、沈家鳳、郭鴻儀、陳皇宇",
+    "CaseCause": "請市府規劃促進孕婦生孕期間之交通補助及其他友善生育子女環境之營造。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為達成友善生育子女之目標，應對孕婦加以照顧，尤其是新手媽媽或職業婦女，故請強化「孕婦健康支持」，提供孕婦交通補助等。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本市政策目前偏重於「弱勢與安胎照護」，一般孕婦若無醫師開立的安胎診斷證明書，無法申請產檢乘車券200元，對於生育環境尚有加強之餘地。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"目前雙北、桃園、高雄之好孕專車政策均已將每趟次補助上限調高至250元，且桃園市與高雄市的乘車金之有效期限至產後1年內，方便媽媽在產後帶嬰幼兒回診或接種疫苗時繼續使用。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"故請市府比照其他五都，針對初產的孕婦給予獎勵、加辦發放待產期的營養品或餐券，增加牙科、心理諮詢等孕期檢查，產後並提供托育中心或居家護理補助，第二胎以後可以適度調整金額。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/06\/15",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2026\/06\/24",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=93d819df-5235-4bda-88b3-d84cacdf2778",
+            "FileName": "六都孕婦福利措施對照表(2026年最新版).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ff8bed38-5c36-413c-9d16-efe84b3e39da&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

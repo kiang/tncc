@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "127",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "邱莉莉、沈家鳳、陳皇宇、郭鴻儀",
+    "CaseCause": "請市府嚴正面對少子化及人口負成長危機。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"根據內政部戶政司最新人口統計速報，全台雖已多年陷入生不如死的負成長狀態，其中以臺南的出生率和人口自然增加率，在六都處於長期墊底，面臨極為嚴峻的少子化及人口負成長危機，每縣市政府都積極提出快速有作為的改善政策，然迄今尚未見到臺南市政府提出之有效策略。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"雖然近年來陸續加碼生育獎勵金，擴大育兒津貼與公共托育，但實質在催生上的力道仍顯不足。六都人口出生率，本市仍是末段班，應急迫補貼差額，友善托育的保守型策略。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如說明。\"}]",
+    "CheckDate": "2026\/06\/18",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3e249282-21b3-4658-9aae-515865f882db",
+            "FileName": "附件-六都生育補助對照表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7a95e65c-1ab8-4a47-8913-1176594da0db&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

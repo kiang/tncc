@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "83",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "周嘉韋",
+    "OrgTitle2": "沈家鳳、陳秋宏、朱正軒、鄭佳欣、謝舒凡、李宗翰、陳皇宇、蔡筱薇、余柷青",
+    "CaseCause": "建請市府針對中西區金華新路(康樂街至環河街)路面柏油重新鋪設。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"金華新路現況路面殘破顛簸，容易使用路人造成騎乘上的不適及徒增風險。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建請市府針對中西區金華新路(康樂街至環河街)路面重新鋪設。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"附圖一、二為現況。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如說明。\"}]",
+    "CheckDate": "2026\/06\/18",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cffc2206-a286-4fa2-8da1-fb8a9dcfe88e",
+            "FileName": "4-7定工務議提83附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f9445b27-8309-47ef-ad43-ca37b12c1579&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
