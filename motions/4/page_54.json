@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "18",
+        "OrgTitle": "林冠維、周奕齊",
+        "CaseCause": "請市府辦理永康區勝利街及勝利街107巷路面改善工程。",
+        "ProNo": "20ff705b-83a9-4ca6-ad31-59413aba05f3",
+        "PagesAll": "72"
+    },
+    {
+        "DoneDate": "2023\/10\/27",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "19",
         "OrgTitle": "林冠維、周奕齊",
         "CaseCause": "請市府辦理永康區二王里忠孝路及忠孝路380巷等道路改善工程。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "陳昆和",
         "CaseCause": "南176線七股區大寮橋至昭明國中道路改善工程。",
         "ProNo": "d05b57d3-ee99-4ffd-bb08-2b1511e6fd8f",
-        "PagesAll": "72"
-    },
-    {
-        "DoneDate": "2023\/10\/27",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "118",
-        "OrgTitle": "陳昆和",
-        "CaseCause": "南176線佳里區佳西路(十字路)往七股方向至大寮橋道路改善工程。",
-        "ProNo": "c0034b8e-07c3-4512-a207-38998d50801b",
         "PagesAll": "72"
     }
 ]

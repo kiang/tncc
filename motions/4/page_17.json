@@ -2,6 +2,17 @@
     {
         "DoneDate": "2025\/08\/18",
         "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "30",
+        "OrgTitle": "余柷青",
+        "CaseCause": "建請市府積極辦理新化區頂山腳段1301地號農路改善工程。",
+        "ProNo": "16953a2f-6bcb-4be6-b995-1806a5400ce4",
+        "PagesAll": "72"
+    },
+    {
+        "DoneDate": "2025\/08\/18",
+        "GradeTime": "第4屆 第9次 臨時會",
         "PTypTitle": "環保衛生",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府",
         "CaseCause": "丹娜絲颱風天然災害市府因應對策及處理情形(第1天)",
         "ProNo": "a8bba4fc-ebb5-4df6-9b09-a317cb8d81bf",
-        "PagesAll": "72"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "市長專案報告",
-        "KidTitle": "專案報告-專案報告",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府",
-        "CaseCause": "丹娜絲颱風天然災害市府因應對策及處理情形(第2天)",
-        "ProNo": "1a997bc5-71b8-4f29-81f3-7db0f1d7ccef",
         "PagesAll": "72"
     }
 ]
