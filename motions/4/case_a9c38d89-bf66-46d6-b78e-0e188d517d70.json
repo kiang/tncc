@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "17",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝",
+    "OrgTitle2": "方一峰、吳通龍、鄭佳欣、林冠維、李鎮國、陳皇宇、李偉智、李中岑、吳禹寰、周麗津",
+    "CaseCause": "請市府「變更柳營都市計畫主要計畫」將台糖新營副產加工廠土地活化曁配合新營糖廠整體規劃中興路拓寬往南延伸開闢道路跨過急水溪連接柳營區建業路，以促進都市縫合發展。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"市府115.05.11.府都規字第1150623594B「變更新營都市計畫(新營糖廠整體規劃)細部計畫(第一階段)案已將新營糖廠中興路規劃拓寬15米至新營糖廠最南邊;為改善新營延平路上下班期間車潮壅塞問題，市府也在進行急水溪橋拓寬改善工程，惟受限進入到新營延平路路幅寬度，未來車潮壅塞改善恐有限，應進行柳營進入到新營市區的車流分流。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"柳營區建業路若能納入「變更柳營都市計畫主要計畫」往北經台糖新營副產加工廠土地開闢，並新設橋梁跨通新營糖廠中興路，則能有效疏緩柳營、新營間往返車流。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"將新營中興路往南開闢聯通柳營區建業路，則往南能讓柳營區都市核心區與柳營火車站區域人車不必再往柳營路三段擠~可降低新營延平路車流壅塞;往北，中興路連貫新營中正路通往後壁區，貫穿柳營、新營、後壁市區間縫合，造就北台南新都心，營造商業軸帶意旨，並符合上位計畫定位指導。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"如圖所示。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/06\/15",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2026\/06\/24",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1e4dbb8d-252d-43d8-9fcd-56f37166f8db",
+            "FileName": "附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a9c38d89-bf66-46d6-b78e-0e188d517d70&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
