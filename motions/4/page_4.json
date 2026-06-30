@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "建設",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "32",
+        "OrgTitle": "沈家鳳、李宗霖",
+        "CaseCause": "建請市府配合新營糖廠都市計畫變更及未來智慧機器人產業發展，整體檢討周邊聯外交通路網，評估增設替代道路及跨急水溪交通動線，以提升區域交通效能。",
+        "ProNo": "0bb15680-1f10-457b-858b-ecf024042690",
+        "PagesAll": "72"
+    },
+    {
+        "DoneDate": "2026\/06\/24",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "33",
         "OrgTitle": "朱正軒",
         "CaseCause": "建請市府妥善規劃飛雁新村及三崁店神社之景觀活化與觀光發展，並優化大凍山登山公廁環境與設施標示，以全面提升本市休憩環境品質。",
@@ -11,7 +22,7 @@
         "PagesAll": "72"
     },
     {
-        "DoneDate": "",
+        "DoneDate": "2026\/06\/24",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "查照\/備查案-一般備查案",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "曾培雅",
         "CaseCause": "建請交通局評估於東區增設智慧警示行人安全系統。",
         "ProNo": "502d4472-791a-41eb-abea-85e4dd7b2ddd",
-        "PagesAll": "72"
-    },
-    {
-        "DoneDate": "2026\/06\/24",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "98",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請市府評估於重要路口及主要道路增設發光路牌，以提升夜間辨識度及交通安全。",
-        "ProNo": "8285a89a-126a-4627-b7bd-19693d4afc60",
         "PagesAll": "72"
     }
 ]

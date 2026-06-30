@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "1",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市議會",
+    "OrgTitle2": "",
+    "CaseCause": "「因應高齡駕駛人換照新制」專案報告",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"請市府持續協調嘉義區監理所，加速完成全市37區一站式換照服務。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請持續盤點各行政區體檢需求，適時增設地方診所提供體檢服務。衛生所即日起開放體檢，確保高齡駕駛人就近完成體檢。所需費用台南市政府應極力爭取。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"監理站雖已逐月於監理服務網公告2小時教育課程場次時間，請協調持續增加合格講師量能並加開場次。所需費用台南市政府應極力爭取。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"請市府製作宣傳懶人包，並請區公所、里辦公處等管道加強宣導，並明確提醒高齡長者2年緩衝期及換照方式。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"高齡換照懶人包及本案專案報告檔案請提供市議會，以利議員參考及推廣。\",\"children\":[]},{\"order\":\"六、\",\"content\":\"請市府將高齡換照措施等資訊錄製播放音檔於垃圾車播放宣傳。\",\"children\":[]},{\"order\":\"七、\",\"content\":\"請市府評估將衛生局行動醫院服務納為監理站一站式服務的可行性。\",\"children\":[]}]}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c7b6f734-abf9-49be-90c8-8b518d2a253f",
+            "FileName": "「因應高齡駕駛人換照新制 」專案報告_1150625_交通局簡報.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=05753d15-2e4e-44fe-bb32-3533f42dfe34",
+            "FileName": "「因應高齡駕駛人換照新制 」專案報告_1150625_交通局簡報.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=6f702b19-2082-42aa-bd92-d93db8ff2c5f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

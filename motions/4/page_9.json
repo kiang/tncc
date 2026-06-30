@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第11次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "1",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請改善市道176線自台一線路口至臺南警察局交通隊岔路口，因道路年久失修，路面龜裂、破損嚴重，亟需辦理改善，以利行車安全。",
+        "ProNo": "a12ffcea-a8ad-4f9d-94ab-ce6257a6e9e6",
+        "PagesAll": "72"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "尤榮智",
+        "CaseCause": "請改善市道171線自高速公路陸橋至麻學路一段716號前道路，因年久失修，路面龜裂、破損嚴重，亟需辦理改善，以利行車安全。",
+        "ProNo": "28231930-96ca-4482-8f64-d9982ef97f4c",
+        "PagesAll": "72"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "3",
         "OrgTitle": "尤榮智",
         "CaseCause": "市道174線洲子大排溝改建完成，上端護欄損壞至今尚未修復，亟需辦理改善，以利行車安全。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "余柷青",
         "CaseCause": "建請市府積極改善新化體育公園內部設施，以健全台南市民全民運動與親子休閒之場域，亦成為新化風情小鎮之新地標。",
         "ProNo": "e30adce7-0285-42a8-89cd-757a0e32ef08",
-        "PagesAll": "72"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "12",
-        "OrgTitle": "沈震東",
-        "CaseCause": "建請體育局在北區設置游泳池，以利區域居民對水域安全認識及推展全民運動發展。",
-        "ProNo": "4f34d2dd-851a-4fc4-9e6a-a44bbb9a65ad",
-        "PagesAll": "72"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "13",
-        "OrgTitle": "沈震東",
-        "CaseCause": "建請體育局針對文賢國中右棟拆除之後，設置全民運動館，以利區域居民維持運動習慣。",
-        "ProNo": "6871eee1-93ce-4ade-b642-ae8310ff47cb",
         "PagesAll": "72"
     }
 ]
