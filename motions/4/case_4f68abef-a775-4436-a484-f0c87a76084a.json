@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2026\/07\/01",
+    "ComeNumber": "府農動字第1150839275號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "修正「臺南市犬貓管理及福利促進自治條例」第二條、第六條草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"為明定本自治條例主管機關，並配合寵物管理制度之現行規定及實務運作，修正犬貓飼主、繁殖及買賣業者應辦理事項，爰擬具第二條、第六條修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經115年5月19日第749次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市犬貓管理及福利促進自治條例」第二條、第六條修正草案（含總說明、逐條說明及草案條文）及各直轄市立法例乙份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=16d7c4eb-3651-486d-8311-a09394b80d7a",
+            "FileName": "各縣市 犬貓管理及福利促進自治條例 立法例--4-8定-法規巿提4-修正「臺南市犬貓管理及福利促進自治條例」第二條、第六條草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6991a15f-06aa-4f43-bdb1-b341a5b8a3a1",
+            "FileName": "總說明、對照表及修正條文等--4-8定-法規巿提4-修正「臺南市犬貓管理及福利促進自治條例」第二條、第六條草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=4f68abef-a775-4436-a484-f0c87a76084a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

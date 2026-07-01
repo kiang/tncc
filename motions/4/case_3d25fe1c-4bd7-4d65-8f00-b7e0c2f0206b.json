@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第7次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "54",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "鄭佳欣",
+    "OrgTitle2": "邱莉莉、陳怡珍、許至椿、沈震東、沈家鳳、王宣貿、陳秋宏、朱正軒、周嘉韋、曾之婕、謝舒凡、余柷青、林冠維、吳禹寰、林志展、蔡育輝",
+    "CaseCause": "建請市府協調台鐵，認養歸仁區仁德服務區周邊台鐵用地(如圖示路段)，辦理路面鋪設改善，以維護通行安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"旨揭路段雖屬台鐵用地，惟長期作為周邊農民及居民通行使用之道路，目前路面未鋪設完善，凹凸不平且破損嚴重，農務車輛及農民行經時險象環生，已影響基本通行安全。因權責關係未明，致遲未改善，建請市府主動協調台鐵辦理道路認養，並由工務局進行路面鋪設及必要安全設施改善，以確保農民及用路人通行安全。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/06\/22",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2026\/06\/24",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5c89e7f6-120e-43f3-9c15-271a89a109ce",
+            "FileName": "附圖.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3d25fe1c-4bd7-4d65-8f00-b7e0c2f0206b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
