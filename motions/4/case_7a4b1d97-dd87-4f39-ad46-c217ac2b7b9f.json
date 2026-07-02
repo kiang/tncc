@@ -14,8 +14,8 @@
     "CheckDesc": "一、除第7條修正通過，其餘照修正條文通過，詳審查結果對照表。。\r\n二、第7條修正文字如下：\r\n(一) 第1項第2款增修文字：二、不得損害公有建築物、其他固定設施及財產設備。\r\n(二)第2項第1款增列文字：一、不得存放危險性油料、易燃物或爆炸物品。但營業使用有必要之用量，不在此限。\r\n三、其他意見：\r\n (一)有關第2條集合攤販數量公告時，應明列清楚並作管理，以達輔導管理之效。\r\n (二)請巿府法制處及經發局研擬攤販與攤商間定型化契約。",
     "DoneDate": "2026\/06\/24",
     "DoneDesc": "照審查意見通過。",
-    "SendDate": "",
-    "SendNumber": "",
+    "SendDate": "2026\/07\/02",
+    "SendNumber": "南議法規字第 1150005331號",
     "DoDesc": "",
     "AttList": [
         {
@@ -33,7 +33,13 @@
             "ErrorMessage": ""
         }
     ],
-    "DoneAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=15a2ee4c-af66-4758-bec4-8bcc4c0102bd",
+            "FileName": "會議紀錄--1150624-4-7定大會.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "ReDate": "2026\/05\/20",
     "ReDesc": "照審查意見通過。",
     "FirstDate": "2026\/05\/27",
