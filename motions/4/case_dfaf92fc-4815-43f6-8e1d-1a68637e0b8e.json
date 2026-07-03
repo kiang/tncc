@@ -14,8 +14,8 @@
     "CheckDesc": "同意備查。",
     "DoneDate": "2026\/06\/24",
     "DoneDesc": "同意備查。",
-    "SendDate": "",
-    "SendNumber": "",
+    "SendDate": "2026\/07\/02",
+    "SendNumber": "南議法規字第 1150005451號",
     "DoDesc": "",
     "AttList": [
         {
@@ -27,11 +27,17 @@
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=dfaf92fc-4815-43f6-8e1d-1a68637e0b8e&type=pdf",
     "CheckAttList": [],
-    "DoneAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e92c2463-0ccc-4f7d-aa37-c4583ad4ca8c",
+            "FileName": "會議紀錄--1150624-4-7定大會.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "ReDate": "",
     "ReDesc": "同意備查。",
     "FirstDate": "2026\/05\/27",
-    "FirstDesc": "交付委員會審查。",
+    "FirstDesc": "",
     "SecondDate": "",
     "SecondDesc": "",
     "ThirdDate": "",

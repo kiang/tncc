@@ -14,8 +14,8 @@
     "CheckDesc": "一、同意查照。\r\n二、Ingay Tali穎艾達利議員保留大會發言權。",
     "DoneDate": "2026\/06\/24",
     "DoneDesc": "",
-    "SendDate": "",
-    "SendNumber": "",
+    "SendDate": "2026\/07\/02",
+    "SendNumber": "南議法規字第 1150005235號",
     "DoDesc": "",
     "AttList": [
         {
@@ -27,7 +27,13 @@
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=512c54b5-e7dd-44f6-9561-f178548d5f7b&type=pdf",
     "CheckAttList": [],
-    "DoneAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a5ddc5d7-b610-412e-8811-f80ef9d90fe3",
+            "FileName": "會議紀錄--1150624-4-7定大會.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "ReDate": "",
     "ReDesc": "",
     "FirstDate": "2026\/05\/27",

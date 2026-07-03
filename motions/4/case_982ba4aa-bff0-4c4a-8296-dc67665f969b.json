@@ -3,7 +3,7 @@
     "PTypTitle": "法規",
     "CaseNumber": "49",
     "KidTitle": "查照\/備查案-法規查照案",
-    "ComeDate": "2026\/04\/01",
+    "ComeDate": "2026\/03\/31",
     "ComeNumber": "府地人字第1150058822號",
     "OrgTitle": "臺南市政府地政局",
     "OrgTitle2": "",
@@ -14,8 +14,8 @@
     "CheckDesc": "同意查照。",
     "DoneDate": "2026\/06\/24",
     "DoneDesc": "同意查照。",
-    "SendDate": "",
-    "SendNumber": "",
+    "SendDate": "2026\/07\/02",
+    "SendNumber": "南議法規字第 1150005234號",
     "DoDesc": "",
     "AttList": [
         {
@@ -27,7 +27,13 @@
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=982ba4aa-bff0-4c4a-8296-dc67665f969b&type=pdf",
     "CheckAttList": [],
-    "DoneAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b4c76fde-4283-43b3-ad13-a64d0fef489f",
+            "FileName": "會議紀錄--1150624-4-7定大會.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "ReDate": "",
     "ReDesc": "同意查照。",
     "FirstDate": "2026\/05\/27",
