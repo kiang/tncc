@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2026\/07\/03",
+    "ComeNumber": "府消預字第1151042434號",
+    "OrgTitle": "臺南市政府消防局",
+    "OrgTitle2": "",
+    "CaseCause": "擬具「臺南市特定場所容留人數管制自治條例」第2條、第4條、第8條修正草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"臺南市特定場所容留人數管制自治條例(以下簡稱本自治條例)自101年12月22日公布施行，考量本府已透過臺南市政府消防局組織規程第3條第1款規定將火災預防相關權限劃分予本府消防局，為落實權限劃分，將本自治條例主管機關修正為本府消防局，相關文字亦配合修正，爰擬具本自治條例第2條、第4條、第8條修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府114年11月25日第725次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附臺南市特定場所容留人數管制自治條例第2條、第4條、第8條修正草案(含總說明、條文對照表及修正條文)1份。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ecd3adbb-a33d-4131-8d72-a9ae76ac9ca4",
+            "FileName": "總說明、修正條文對照表及修正條文---4-8定法規巿提1--擬具「臺南市特定場所容留人數管制自治條例」第2條、第4條、第8條修正草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f141fb91-440e-4943-93fc-f202b89a65dd&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

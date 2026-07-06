@@ -2,6 +2,61 @@
     {
         "DoneDate": "2026\/06\/24",
         "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "4",
+        "OrgTitle": "臺南市政府農業局",
+        "CaseCause": "擬具「臺南市潟湖區舢舨漁筏兼營娛樂漁業管理自治條例」第八條修正草案，敬請審議。",
+        "ProNo": "5a3dc16a-6598-49d8-868d-3a0525c10ec7",
+        "PagesAll": "73"
+    },
+    {
+        "DoneDate": "2026\/06\/24",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "5",
+        "OrgTitle": "臺南市政府經濟發展局",
+        "CaseCause": "修正「臺南市攤販管理自治條例」草案，敬請審議。",
+        "ProNo": "7a4b1d97-dd87-4f39-ad46-c217ac2b7b9f",
+        "PagesAll": "73"
+    },
+    {
+        "DoneDate": "2026\/05\/27",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "專案報告-專案報告",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "「臺南巿歷史文化場域經理平台設置自治條例草案」專案報告",
+        "ProNo": "8f194ae6-733b-4215-a9a2-9f133d4eb087",
+        "PagesAll": "73"
+    },
+    {
+        "DoneDate": "2026\/06\/24",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "臨時動議",
+        "KidTitle": "臨時動議-臨時動議",
+        "CaseNumber": "1",
+        "OrgTitle": "蔡筱薇、沈家鳳、陳秋宏",
+        "CaseCause": "建請規定所有執行勤務之駕駛人員（包含公車駕駛、小黃公車駕駛等），應定期實施毒品檢測。",
+        "ProNo": "719dd812-2a60-49eb-ac9d-dcce3a0af2ac",
+        "PagesAll": "73"
+    },
+    {
+        "DoneDate": "2026\/06\/24",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "臨時動議",
+        "KidTitle": "臨時動議-臨時動議",
+        "CaseNumber": "2",
+        "OrgTitle": "林美燕",
+        "CaseCause": "請因應高齡駕駛人換照新制，增設實施體檢處所。",
+        "ProNo": "e9d37532-9b65-46a7-a1e6-69247e69ec51",
+        "PagesAll": "73"
+    },
+    {
+        "DoneDate": "2026\/06\/24",
+        "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "臨時動議",
         "KidTitle": "臨時動議-臨時動議",
         "CaseNumber": "3",
@@ -1042,61 +1097,6 @@
         "OrgTitle": "黄肇輝",
         "CaseCause": "建請市府辦理永康區大灣三街與大安街口設置行穿線與行人號誌，以提升行人穿越路口安全。",
         "ProNo": "c49d52be-e5da-46b9-b956-65e2e1ba9687",
-        "PagesAll": "73"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "9",
-        "OrgTitle": "余柷青",
-        "CaseCause": "為緩解新化市區觀旅、洽公等停車需求，建請於新化區公兒二(舊果菜市場位置)，開闢共融公園與多目標使用地下停車場。",
-        "ProNo": "51a6ad47-583f-4959-a1ec-2a6cb78e47c8",
-        "PagesAll": "73"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "10",
-        "OrgTitle": "王家貞",
-        "CaseCause": "建請市政府全面盤整全台南市「公有停車場」是否已完善建置為「公有收費停車場」。",
-        "ProNo": "8a22e9a1-0173-4d06-9846-017ff59fcd8b",
-        "PagesAll": "73"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "11",
-        "OrgTitle": "蔡育輝",
-        "CaseCause": "請臺南市政府於新營綜合轉運站設置太陽能 LED路牌及交通標示，增加站區夜間照明，活絡站區發展，並利於治安維護。",
-        "ProNo": "5e48bf50-0923-43cb-8403-99d5daf0a94a",
-        "PagesAll": "73"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "12",
-        "OrgTitle": "曾之婕",
-        "CaseCause": "建請於東門圓環各路口設置行人專用號誌，以維行人安全。",
-        "ProNo": "2ed6c61f-adfe-48e3-a0df-d183507f4a23",
-        "PagesAll": "73"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "13",
-        "OrgTitle": "林依婷",
-        "CaseCause": "近年道路出現許多新型態交通工具，卻連合法上路都有疑慮；交通部承諾請運研所推出指引，建請市府研議辦理，以最快速度讓市民有所依據。",
-        "ProNo": "3a91a35c-7a74-4ba7-b514-4e2f39f11b45",
         "PagesAll": "73"
     }
 ]
