@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2026\/07\/07",
+    "ComeNumber": "府社身字第1150940339號",
+    "OrgTitle": "臺南市政府社會局",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部補助本市辦理「中石化(台鹼)安順廠污染案附近居民生活照顧及健康照護第3階段10年計畫」1案，剩餘經費新臺幣1,057萬元，因未及納入本府115年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟116年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據經濟部115年5月27日經營字第11500032120號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款所使用之支出」規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：旨揭計畫奉行政院核定經費14億4,068萬9,240元，並同意使用至用罄為止，截至115年4月經濟部已撥付本府14億3,011萬9,767元，剩餘經費1,056萬9,473元（中央全額補助），因未及納入本府115年度總預算，為爭取時效，爰提請墊付1,057萬元，俟116年度總預算辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府115年6月16日第753次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：7月居民生活照顧及健康照護即將中斷爰具急迫性，本案攸關中石化地區居民生活照顧津貼及醫療補助，若經費延遲發放將導致醫療服務無法辦理，影響弱勢民眾就醫權利。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，116年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=201515fa-25c5-45d6-89f4-68536ca79ab7",
+            "FileName": "4-8定-環衛市提第3號案-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=b389f691-cfd9-48b5-ac28-c2ac30f7606d&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
