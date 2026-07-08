@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2026\/07\/01",
     "SendNumber": "南議財經字第 1150005045號",
-    "DoDesc": "",
+    "DoDesc": "詳如附件",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=abc6401f-5357-4ee2-91a0-663679e193c5",
+            "FileName": "市府回文-議提8.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=aa2ea109-bbf6-4074-80fb-81dd98040bfb&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2026\/07\/07",
+    "ExecuteReNumber": "府財綜字第 1151043507號",
+    "ExecuteReMemo": "詳如附件",
     "ErrorMessage": ""
 }

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2026\/07\/08",
+    "ComeNumber": "府文秘字第1151052631號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "文化部核定補助本市辦理「文化部補助直轄市及縣（市）政府推動國家語言發展計畫－115年臺南市政府文化場域臺灣台語環境友善支持計畫」，總經費277萬6,000元（中央補助款249萬8,000元、市配合款27萬8,000元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟116年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依文化部115年6月5日文版字第11530148444號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44項第4款「經上級政府核定補助款，所使用之支出」，及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案總經費277萬6,000元（中央補助款249萬8,000元、市配合款27萬8,000元），未及納入本府115年度預算，為爭取執行時效，擬請貴會同意先行墊付，俟116年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府115年7月7日第756次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：配合中央政策於本年度執行國家語言相關友善環境建置，需培育相關人員及定期出版，本案業於3月25日提送計畫至文化部，惟文化部6月5日始核定，又涉跨單位執行，為各子計畫進度如期，免於經費短缺，致整體期程延宕，爰於本會期提墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟116年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=063c986f-cc7f-4ddc-a001-e456a8ba824d",
+            "FileName": "市提4附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=da3be5f1-69a8-4db8-9328-7030d4377c73&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
