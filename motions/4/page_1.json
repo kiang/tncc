@@ -410,6 +410,17 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第8次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "25",
+        "OrgTitle": "臺南市政府工務局",
+        "CaseCause": "修正「臺南市行道樹認養維護辦法」第二條。",
+        "ProNo": "6829f6e5-1092-43b1-bbf3-eb32ae1b7aef",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第8次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府經濟發展局",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "蔡筱薇、沈家鳳",
         "CaseCause": "建請教育局調整點心補助費用。",
         "ProNo": "7f2af14e-b52e-4e8c-b0f7-0f8a37f242d7",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2026\/06\/24",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "47",
-        "OrgTitle": "蔡筱薇",
-        "CaseCause": "建請教育局針對營養午餐建立合理剩食管理機制。",
-        "ProNo": "ef3eb512-e730-4cbc-b50d-218b0f50a6fb",
         "PagesAll": "74"
     }
 ]

@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2026\/07\/03",
     "SendNumber": "南議民教字第 1150005637號",
-    "DoDesc": "",
+    "DoDesc": "本府就「建請市府加速開闢並完善本市鄰里型防災公園並設置防災倉庫，以精進整體防災策略」案，敬答覆如下： \r\n一、依據112年04月06日臺南市政府防災公園設置管理實施計畫，防災公園指臺南市公園綠地管理自治條例第二條所定之公園、綠地與本市都市計畫劃定之體（公）用地之運動公園，且具廣域防災據點機能及緊急避難維生等功能，並經公告者。目前臺南市公告防災公園數量為14座(如附件)。\r\n二、市府災害防救辦公室與防災公園管理機關、任務分工局處均依照臺南市政府防災公園設置管理實施計畫定期進行各項設施之維護檢查與演練。 ",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1d36d84b-889b-429b-adac-d967f4891ed6",
+            "FileName": "民教124附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=a14a5943-bbfc-4c93-b838-3a8d2daceff0&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2026\/07\/09",
+    "ExecuteReNumber": "字第 號",
+    "ExecuteReMemo": "本府就「建請市府加速開闢並完善本市鄰里型防災公園並設置防災倉庫，以精進整體防災策略」案，敬答覆如下： \r\n一、依據112年04月06日臺南市政府防災公園設置管理實施計畫，防災公園指臺南市公園綠地管理自治條例第二條所定之公園、綠地與本市都市計畫劃定之體（公）用地之運動公園，且具廣域防災據點機能及緊急避難維生等功能，並經公告者。目前臺南市公告防災公園數量為14座(如附件)。\r\n二、市府災害防救辦公室與防災公園管理機關、任務分工局處均依照臺南市政府防災公園設置管理實施計畫定期進行各項設施之維護檢查與演練。 ",
     "ErrorMessage": ""
 }
