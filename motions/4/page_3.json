@@ -2,6 +2,50 @@
     {
         "DoneDate": "2026\/05\/27",
         "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "專案報告-專案報告",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府體育局",
+        "CaseCause": "「臺南亞太國際棒球訓練中心營運管理現況與檢討」專案報告",
+        "ProNo": "647b52bf-d299-496c-9d57-ee75235564b2",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2026\/06\/24",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府主計處",
+        "CaseCause": "檢送本府114年第3季辦理政策及業務宣導之執行情形表，提請貴會備查。",
+        "ProNo": "94dd110e-836a-4079-8a34-16c4d6fd9aa5",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2026\/06\/24",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府主計處",
+        "CaseCause": "檢送本府114年第4季辦理政策及業務宣導之執行情形表，提請貴會備查。",
+        "ProNo": "a5359cd0-8bb9-4652-bdbb-7e244b4edf4a",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2026\/05\/27",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府經濟發展局",
+        "CaseCause": "辦理 「 115年度自來水用戶設備外線補助計畫」 經費新臺幣 40萬元整（中央補助款 30萬元，本府負擔10萬元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟 116年度總預算時辦理轉正，敬請審議。",
+        "ProNo": "40343546-5d33-4bb3-a981-2bed8d4677ad",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2026\/05\/27",
+        "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "2",
@@ -1053,50 +1097,6 @@
         "OrgTitle": "林燕祝",
         "CaseCause": "建請市府輔導麻豆區農會蔬果截切場儘速上軌道，整合在地農民及青農，建立契作、截切、配送一條龍供應體系，優先供應學校營養午餐，落實地產地消，守護校園食安。",
         "ProNo": "c702a2fb-d884-4dbb-871c-0f371e7dcce8",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2026\/06\/24",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "88",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請動保處重視幼兒人身安全，解決裕文非營利幼兒園區野狗問題。",
-        "ProNo": "7aed27f3-5ff2-481d-aa5d-f87a2ec2988a",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2026\/06\/24",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "89",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請市府加強動保園區規劃，以提升動物福利及推動生命教育。",
-        "ProNo": "8007cc19-b44c-4ee6-bb91-19dd44b40d13",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2026\/06\/24",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "90",
-        "OrgTitle": "曾培雅",
-        "CaseCause": "建請市府充實動保處人力配置、動物安置空間增加。",
-        "ProNo": "4ab8510a-2119-44e4-a400-ee5b6aa69cfd",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2026\/06\/24",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "91",
-        "OrgTitle": "朱正軒、李宗霖、沈家鳳",
-        "CaseCause": "建請市府借鏡北高經驗，啟動台南「填海造陸」可行性評估，並研擬跨縣市媒合與優質土方直送制度，以紓解營建剩餘土石方去化壓力。",
-        "ProNo": "cb288e38-e1ea-45c2-9374-d9563301469e",
         "PagesAll": "74"
     }
 ]
