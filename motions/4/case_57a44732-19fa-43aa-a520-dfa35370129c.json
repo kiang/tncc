@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2026\/07\/13",
+    "ComeNumber": "府農畜字第1151082551號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "農業部核定本府115年度「養牛產業全面升級轉型計畫-提升養牛產業永續韌性發展計畫」案，經費新臺幣953萬元整（中央補助款），其中新臺幣786萬元整，因未納入115年度預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟116年度總預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據農業部115年6月4日農牧字第1150042738號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款，經上級政府核定之補助款所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"本計畫所需經費共計新臺幣953萬元整（中央補助款），其中786萬元未及納入本府115年度總預算，為爭取時效，謹請貴會同意先行墊付，俟116年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要工作項目為補助本市養牛場導入與更新資源循環再利用及污染防治相關設施（備），強化產業永續競爭力。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府115年7月7日第756次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案係農業部強化養牛產業自主污染防治，補助本市養牛場導入與更新資源循環再利用及污染防治相關設施（備），強化產業永續競爭力，惟養牛場之設施（備）建置需於115年度完成，因時程緊迫且中央核定補助計畫日期較晚，為爭取時效，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟116年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=968bb352-c2a0-4359-bb0e-7fc8828d2fe0",
+            "FileName": "市提4-提案單及附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=57a44732-19fa-43aa-a520-dfa35370129c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
