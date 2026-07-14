@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2026\/07\/14",
+    "ComeNumber": "府農務字第1151087528 號",
+    "OrgTitle": "臺南市政府農業局",
+    "OrgTitle2": "",
+    "CaseCause": "農業部農田水利署核定補助本府115年度「農田水利創新灌溉服務計畫（縣市政府辦理）」案，總經費計新臺幣330萬元整（中央補助款264萬元、市配合款66萬元），擬補助白河區公所辦理，因未及納入本府115年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟116年度追加（減）預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據農業部農田水利署115年6月23日農水建字第1158057310號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款及第6款規定，屬「經上級政府核定之補助款，直轄市、縣（市）政府配合得辦理動支之支出」及「配合上級或同級政府施政需要辦理之經費支出，經報請直轄市政府核准者」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"所需總經費共計新臺幣3,300千元（中央補助款2,640千元、市配合款660千元），因未及納入本府115年度總預算，為爭取時效，謹請貴會同意先行墊付，俟116年度追加（減）預算時辦理轉正。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"計畫主要工作項目為補助白河區公所辦理「白河區廣蓮里蓮潭圳詔安段87-88-96地號八掌溪旁取水口改善工程」，完成後可改善農田灌溉取水環境，發揮創新灌溉服務效益。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府115年7月14日第757次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案工程係辦理地方灌溉取水口之改善，具季節性及時效性，且依核定函規定應於115年12月31日前執行完畢並填報會計報告，為避免延誤工程進度與經費核銷，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟116年度追加（減）預算辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4a04310f-8608-4695-a08c-2133fa87ac1e",
+            "FileName": "市提5-提案單及附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c1dafb0d-6f32-4f86-90bb-f22a9b02462f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
