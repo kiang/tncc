@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "1",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2026\/07\/14",
+    "ComeNumber": "府交智安字第1151080810號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "交通部核定本市115年度「智慧運輸系統發展建設計畫」補助計畫案經費2,700萬元(中央補助2,000萬元，市配合款700萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟116年度追加(減)預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據交通部115年5月25日交科字第1155006797號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款之規定：「經上級政府核定之補助款，所使用之支出。」及第6款之規定：「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"南區健康路運輸走廊改善與緊急車輛優先號誌：本案同意補助2,000萬元為上限，市配合款700萬元，總預算金額2,700萬元。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"因上列案件未及納入116年度總預算，為爭取時效，謹請貴會同意先行墊付，俟116年度追加(減)預算時辦理轉正。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府115年7月14日第757次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本次核定案件依中央期程規定，需於115年8月底前完成採購簽訂契約，有時效上之急迫性，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟116年度追加(減)預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=279afb87-2dd0-4e92-ae85-657ab461df06",
+            "FileName": "保安市提1.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ce94bb98-487b-4dc5-93d7-ac86d4d5115c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
