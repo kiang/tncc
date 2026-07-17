@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "3",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2026\/07\/13",
+    "ComeNumber": "府民自字第1151012055號",
+    "OrgTitle": "臺南市政府各區公所",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部水利署南區水資源分署補助本市楠西區公所辦理「115年度水資源作業基金水庫清淤公益支出計畫」之「楠西區密枝里新社區邊坡防落石工程」共計1案，經費計新臺幣150萬元整（中央全額補助）乙案，因未及納入115年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟116年度總預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據經濟部水利署南區水資源分署115年5月5日水南曾字第11530019210號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」規定辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案內含1件計畫案，總經費新臺幣150萬元整(中央全額補助)，因未及納入115年度總預算，為爭取時效，謹請貴會同意先行辦理墊付，俟116年度總預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府115年7月7日第756次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：依經濟部水利署「水資源作業基金公益支出經費編列及執行管考要點」之規定，受補助計畫屬工程項目者，應於經費核定後三個月內完成發包，故於本會期提出墊付案申請，以爭取時效。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，並於116年度總預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8310919c-ea72-4912-b40a-dadea74921bf",
+            "FileName": "民教3(楠西區公所)-核定函及計畫書等資料.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f044e582-e12f-4ee8-ae99-fdf52eec1ce6&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "4",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2026\/07\/13",
+    "ComeNumber": "府民自字第1151012055號",
+    "OrgTitle": "臺南市政府各區公所",
+    "OrgTitle2": "",
+    "CaseCause": "經濟部水利署南區水資源分署補助本市楠西區公所辦理「115年度水資源作業基金水庫清淤公益支出計畫」之「115年曾文南化聯通管工程計畫完工謝土祈福儀式暨水資源教育宣導」共計1案，經費計新臺幣12萬5,000元整（中央全額補助），因未及納入116年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟116年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據經濟部水利署南區水資源分署115年4月24日水南畫字第11515008090號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」規定辦理。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案內含1件計畫案，總經費新臺幣12萬5,000元整(中央全額補助)，因未及納入116年度總預算，為爭取時效，謹請貴會同意先行辦理墊付，俟116年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府115年7月7日第756次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本次核定經費依計畫規定須於本(115)年11月底前辦理核銷，不得辦理保留，故於本會期提出墊付案申請，以利於本年度辦竣並向中央核結。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，並於116年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3a8f839c-cc7f-4298-88d9-e639b5833268",
+            "FileName": "民教4(楠西區公所)-核定函及計畫書(115年曾文南化聯通管工程計畫完工謝土祈福儀式).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=688e157a-c17c-4fb0-a43a-0ba7887525ae&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
