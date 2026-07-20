@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "8",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2026\/07\/14",
+    "ComeNumber": "府環水字第1151072383號",
+    "OrgTitle": "臺南市政府環境保護局",
+    "OrgTitle2": "",
+    "CaseCause": "環境部核定本市「臺南市白河市區排水小規模污水處理示範設施委託規劃設計計畫」經費新臺幣700萬元整乙案(中央補助630萬元，市配合款70萬元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟116年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據環境部115年6月12日環部水字第1151032265號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4、6款，經上級政府核定之補助款所使用之支出與配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案總經費新臺幣700萬元整(中央補助630萬元，市配合款70萬元)，因未及納入預算，為爭取時效，謹請貴會同意先行墊付，俟116年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府115年7月14日第757次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急理由：本計畫應於115年底前完成發包簽約，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟116年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=2febaaf2-3e9c-43f7-b957-bffddc79a2ac",
+            "FileName": "核定函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a821f75b-c94c-4a4a-acab-346735faa1f0",
+            "FileName": "核定計畫.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=29dfe8fe-d4ed-4e6d-a3fa-43733bd51dfd&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
