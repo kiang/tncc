@@ -19,6 +19,11 @@
     "DoDesc": "",
     "AttList": [
         {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9347e721-a770-4b5d-8f08-6d6b0ad59417",
+            "FileName": "114年審核報告-口頭報告_核定.pdf",
+            "ErrorMessage": ""
+        },
+        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=bf501e84-0602-4adf-8090-4b457f86b53f",
             "FileName": "114年臺南市總決算審核報告.pdf",
             "ErrorMessage": ""
@@ -28,7 +33,7 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=bd200f37-dc6c-4c18-8409-7d413df0adbb&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
-    "ReDate": "",
+    "ReDate": "2026\/07\/20",
     "ReDesc": "",
     "FirstDate": "",
     "FirstDesc": "",

@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2026\/07\/01",
     "SendNumber": "南議財經字第 1150005046號",
-    "DoDesc": "",
+    "DoDesc": "本府就「請新置安平市場之跑馬燈設備。」案，敬答覆如下：\r\n一、經查安平市場現有4處主要出入口皆已配置跑馬燈設備，且經現場實地盤查，功能均健全並正常運作中。\r\n二、衡諸本處財政狀況，本案擬暫不辦理新置；惟議員關心基層政令宣導之美意甚合體制，本處將積極輔導市場自治會充分活化現有設備，充實宣導內容並提高使用頻率，以達公物利用最大化與政令周知之雙贏宏效。\r\n三、檢附安平市場跑馬燈位置圖乙份。\r\n四、貴會議席關心市政熱忱，本府併予致謝。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=24b2c503-4202-4d40-9193-741b7f56d4e9",
+            "FileName": "市府回文-議提9.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fa589b24-f1e6-4b57-b59d-4654740e661c&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2026\/07\/20",
+    "ExecuteReNumber": "府經場一字第 1151063868號",
+    "ExecuteReMemo": "本府就「請新置安平市場之跑馬燈設備。」案，敬答覆如下：\r\n一、經查安平市場現有4處主要出入口皆已配置跑馬燈設備，且經現場實地盤查，功能均健全並正常運作中。\r\n二、衡諸本處財政狀況，本案擬暫不辦理新置；惟議員關心基層政令宣導之美意甚合體制，本處將積極輔導市場自治會充分活化現有設備，充實宣導內容並提高使用頻率，以達公物利用最大化與政令周知之雙贏宏效。\r\n三、檢附安平市場跑馬燈位置圖乙份。\r\n四、貴會議席關心市政熱忱，本府併予致謝。",
     "ErrorMessage": ""
 }
