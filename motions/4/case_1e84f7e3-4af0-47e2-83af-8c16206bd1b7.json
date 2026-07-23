@@ -14,9 +14,9 @@
     "CheckDesc": "",
     "DoneDate": "2026\/06\/24",
     "DoneDesc": "一、照案通過。\r\n二、請臺南市政府於7月29日定期會之前將本案周邊交通解決方案提送本會。",
-    "SendDate": "",
-    "SendNumber": "",
-    "DoDesc": "",
+    "SendDate": "2026\/07\/01",
+    "SendNumber": "南議議事字第 1150005094號",
+    "DoDesc": "本府就「建請市府因應『永康產業專用區市地重劃』正式動土開工，儘速規劃道路銜接永康車站以南之中山路（側車道至臺1線），強化永康車站前後交通銜接與都市縫合」案之周邊交通解決方案敬答覆如下： \r\n永康車站周邊長期受限鐵路阻隔，導致站前、站後交通系統未能有效銜接。配合「臺南鐵路地下化延伸永康地區計畫」辦理契機，本府將同步推動車站聯外及周邊交通整體規劃，全面檢討包含蔦松二街、中山路及高速一街等主要道路之系統性銜接，藉以強化產業專用區與南側永康核心市區之聯絡功能，期能有效分流中正北路與永康交流道之車流瓶頸。",
     "AttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0f48b448-7921-4e76-9b70-522ad6219230",
@@ -24,7 +24,13 @@
             "ErrorMessage": ""
         }
     ],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=20c9fb05-f313-4268-be04-db9b1923d8bd",
+            "FileName": "1150720府交綜字第1151099408號.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1e84f7e3-4af0-47e2-83af-8c16206bd1b7&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -36,8 +42,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2026\/07\/20",
+    "ExecuteReNumber": "府交綜字第 1151099408號",
+    "ExecuteReMemo": "本府就「建請市府因應『永康產業專用區市地重劃』正式動土開工，儘速規劃道路銜接永康車站以南之中山路（側車道至臺1線），強化永康車站前後交通銜接與都市縫合」案之周邊交通解決方案敬答覆如下： \r\n永康車站周邊長期受限鐵路阻隔，導致站前、站後交通系統未能有效銜接。配合「臺南鐵路地下化延伸永康地區計畫」辦理契機，本府將同步推動車站聯外及周邊交通整體規劃，全面檢討包含蔦松二街、中山路及高速一街等主要道路之系統性銜接，藉以強化產業專用區與南側永康核心市區之聯絡功能，期能有效分流中正北路與永康交流道之車流瓶頸。",
     "ErrorMessage": ""
 }

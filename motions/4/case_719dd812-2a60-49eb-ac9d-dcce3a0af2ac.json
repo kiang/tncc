@@ -14,9 +14,9 @@
     "CheckDesc": "",
     "DoneDate": "2026\/06\/24",
     "DoneDesc": "照案通過。",
-    "SendDate": "",
-    "SendNumber": "",
-    "DoDesc": "",
+    "SendDate": "2026\/07\/01",
+    "SendNumber": "南議議事字第 1150005090號",
+    "DoDesc": "本府就「建請規定所有執行勤務之駕駛人員（包含公車駕駛、小黃公車駕駛等），應定期實施毒品檢測。」案，敬答覆如下：\r\n一、 本府交通局公共運輸處督責市區公車業者依「陸運特定人員尿液採驗實施要點」辦理大客車駕駛人員落實毒品檢測，實施尿液採驗，以有效防制毒品氾濫。\r\n二、 為強化本市公共運輸駕駛人員管理，本府交通局公共運輸處於115年7月6日邀集六家市區客運業及二家小黃公車業者宣導並要求所屬執行勤務之駕駛人員納入尿液採驗對象及年度規劃。後續將持續督導各業者依前揭規定落實辦理，定期實施毒品檢測及相關作業，以降低毒駕風險及保障乘客安全。",
     "AttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=060a41b5-de18-4658-9e1e-5e1ced0fac34",
@@ -24,7 +24,13 @@
             "ErrorMessage": ""
         }
     ],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e21e6a57-f00f-43b3-b903-ac42dc5cac3c",
+            "FileName": "1150714府交公運字第1151057754號.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=719dd812-2a60-49eb-ac9d-dcce3a0af2ac&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -36,8 +42,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2026\/07\/14",
+    "ExecuteReNumber": "府交公運字第 1151057754號",
+    "ExecuteReMemo": "本府就「建請規定所有執行勤務之駕駛人員（包含公車駕駛、小黃公車駕駛等），應定期實施毒品檢測。」案，敬答覆如下：\r\n一、 本府交通局公共運輸處督責市區公車業者依「陸運特定人員尿液採驗實施要點」辦理大客車駕駛人員落實毒品檢測，實施尿液採驗，以有效防制毒品氾濫。\r\n二、 為強化本市公共運輸駕駛人員管理，本府交通局公共運輸處於115年7月6日邀集六家市區客運業及二家小黃公車業者宣導並要求所屬執行勤務之駕駛人員納入尿液採驗對象及年度規劃。後續將持續督導各業者依前揭規定落實辦理，定期實施毒品檢測及相關作業，以降低毒駕風險及保障乘客安全。",
     "ErrorMessage": ""
 }
