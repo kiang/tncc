@@ -17,7 +17,18 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=53f1c9f5-6695-4fce-a223-809703a72dcf",
+            "FileName": "116年度人事費用明細表-彙整11506301142-送印.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3fef4e09-cabb-4fb6-9dad-b99fb2660b48",
+            "FileName": "116年預算增減5%.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=de077b36-c0c6-44fb-bfa7-77196a63c235&type=pdf",
     "CheckAttList": [],

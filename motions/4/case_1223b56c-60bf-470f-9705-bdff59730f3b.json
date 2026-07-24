@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "法規",
+    "CaseNumber": "5",
+    "KidTitle": "市府提案-市法規案",
+    "ComeDate": "2026\/07\/27",
+    "ComeNumber": "府地開字第1151143585號",
+    "OrgTitle": "臺南市政府地政局",
+    "OrgTitle2": "",
+    "CaseCause": "擬具「臺南市自辦市地重劃區管理維護自治條例」草案，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本案業經本府115年7月14日第757次市政會議通過。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"自辦市地重劃於開發完成後，重劃會移交重劃區內公共設施予各公共設施主管機關接管，為擴充公共設施管理維護之經費以期有助於各自辦市地重劃區公共設施管理維護，提升居住及環境品質，爰擬具「臺南市自辦市地重劃區管理維護自治條例」草案。其要點說明如下：(一) 訂定目的。(草案第一條)(二) 主管機關。(草案第二條)(三) 管理維護費之經費來源、負擔及管理運用方式。(草案第三條)(四) 管理維護費之運用範圍。(草案第四條)(五) 定明本自治條例施行前已核定重劃計畫書之重劃區，不適用前二條之規定。(草案第五條)(六) 施行日期。(草案第六條)\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"送請貴會審議通過後，依規定程序發布實施。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=28dbafc4-222a-4d3a-89e7-6cd21aff5252",
+            "FileName": "參考資料-4-8定法規市提5-制定「臺南市自辦市地重劃區管理維護自治條例」草案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=513124b4-60e9-4483-9d54-c4f9a6698893",
+            "FileName": "總說明、新條文等-4-8定法規市提5-制定「臺南市自辦市地重劃區管理維護自治條例」草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1223b56c-60bf-470f-9705-bdff59730f3b&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

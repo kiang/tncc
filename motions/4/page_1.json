@@ -836,6 +836,17 @@
         "PagesAll": "74"
     },
     {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第8次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "5",
+        "OrgTitle": "臺南市政府地政局",
+        "CaseCause": "擬具「臺南市自辦市地重劃區管理維護自治條例」草案，敬請審議。",
+        "ProNo": "1223b56c-60bf-470f-9705-bdff59730f3b",
+        "PagesAll": "74"
+    },
+    {
         "DoneDate": "2026\/06\/24",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "民政教育",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "余柷青",
         "CaseCause": "建請市府積極推動安定區體育主題複合式運動公園計畫，並積極向中央爭取經費補助。",
         "ProNo": "f04c0246-1327-4b22-ab59-d80ffb5a80f6",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2026\/06\/24",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "16",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府編列預算辦理新化體育公園入口意象標誌工程，提升地方景觀及公園識別性。",
-        "ProNo": "68b94c69-cb3e-4c42-b723-48480bf71937",
         "PagesAll": "74"
     }
 ]

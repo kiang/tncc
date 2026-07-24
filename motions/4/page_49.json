@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2024\/06\/26",
+        "GradeTime": "第4屆 第3次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "市府提案-市法規案",
+        "CaseNumber": "5",
+        "OrgTitle": "臺南市政府工務局",
+        "CaseCause": "「臺南市騎樓地使用管理自治條例」草案，敬請審議。",
+        "ProNo": "5939a504-a504-4305-8d99-b41d151cfccc",
+        "PagesAll": "74"
+    },
+    {
         "DoneDate": "2024\/12\/02",
         "GradeTime": "第4屆 第3次 定期會",
         "PTypTitle": "法規",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林美燕",
         "CaseCause": "請臺南市政府就社會住宅制度規劃，至本會進行專案報告。",
         "ProNo": "54e45787-716b-41f6-a907-6158b25129dd",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2024\/03\/15",
-        "GradeTime": "第4屆 第5次 臨時會",
-        "PTypTitle": "建設",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "6",
-        "OrgTitle": "鄭佳欣",
-        "CaseCause": "建請市府公共空間及社區週邊搭配節慶裝飾美化，提升市民節慶體驗，提升公共空間曝光度及使用率。",
-        "ProNo": "ce4f6831-06d2-491e-a03f-64130662d070",
         "PagesAll": "74"
     }
 ]

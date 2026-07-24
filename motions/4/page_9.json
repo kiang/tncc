@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "56",
+        "OrgTitle": "臺南市政府財政稅務局",
+        "CaseCause": "修正「臺南市政府財政稅務局編制表」。",
+        "ProNo": "513ceac8-d94b-4a5a-9080-b879dc4840b7",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2026\/06\/24",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
         "CaseNumber": "57",
         "OrgTitle": "臺南市政府人事處",
         "CaseCause": "修正「臺南市政府公務人力發展中心編制表」。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "余柷青",
         "CaseCause": "建請市府積極辦理「新化區礁坑子段74-18農路改善工程」案。",
         "ProNo": "65bdf179-e7ae-4d6b-b760-285dfb4887ce",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "17",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府積極辦理「新化區礁坑里貴竹坪往公墓農路路面改善工程」案。",
-        "ProNo": "cb077c2f-6165-4799-bbd0-c0ac5e018c7d",
         "PagesAll": "74"
     }
 ]
