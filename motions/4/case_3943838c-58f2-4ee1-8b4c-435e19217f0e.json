@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2026\/07\/23",
+    "ComeNumber": "府文藝字第1151140350號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本府擬具之「114年臺南市美術館績效評鑑分析報告」，請准予備查。",
+    "Content": "",
+    "Method": "",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d8890a30-4c45-4a51-8177-6cd92e0b0a7e",
+            "FileName": "114年美術館績效評鑑分析報告.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=3943838c-58f2-4ee1-8b4c-435e19217f0e&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

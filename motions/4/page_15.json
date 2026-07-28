@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "1",
+        "OrgTitle": "王家貞",
+        "CaseCause": "全臺灣毒駕吸食喪屍菸彈頻傳釀禍，建請儘速研擬嚴格設置毒駕檢測機制。",
+        "ProNo": "047b9672-83cd-436b-aa52-c98f08633cb0",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "2",
         "OrgTitle": "王家貞、曾培雅",
         "CaseCause": "建請市府審慎評估東區第一分局老舊大樓遷移的需求，以期符合現行的為民辦公條件及環境。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "請改善下營區西連里區道南54線(自西寮順天宮至台19線止)道路，其路面年久失修，龜裂破損嚴重，急需辦理改善，以利行車安全。",
         "ProNo": "7dafe4b0-bfdc-450f-b7ca-2ab250a4b1c4",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2025\/10\/29",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "12",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請編列預算辦理六甲外環道(新營生活圈計畫)，自市道318線六甲中華路-市道174線(二甲里)→市道165線(水林里)止道路，以改善交通避免大貨車進入，減少車禍發生。",
-        "ProNo": "3f82b512-77ab-4adb-ad60-2a3c8f87e276",
         "PagesAll": "74"
     }
 ]

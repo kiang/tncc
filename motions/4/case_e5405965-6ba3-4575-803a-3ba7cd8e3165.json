@@ -19,11 +19,6 @@
     "DoDesc": "",
     "AttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f940ee30-f842-4596-baf1-8c7f97d1a536",
-            "FileName": "提案單.pdf",
-            "ErrorMessage": ""
-        },
-        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=639b3972-0e41-49e8-bd68-8848b422268e",
             "FileName": "核定函.pdf",
             "ErrorMessage": ""

@@ -300,6 +300,17 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第8次 定期會",
         "PTypTitle": "建設",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "檢送本府擬具之「114年臺南市美術館績效評鑑分析報告」，請准予備查。",
+        "ProNo": "3943838c-58f2-4ee1-8b4c-435e19217f0e",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第8次 定期會",
+        "PTypTitle": "建設",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府觀光旅遊局",
@@ -775,7 +786,7 @@
         "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "3",
-        "OrgTitle": "臺南市政府社會局",
+        "OrgTitle": "臺南市政府工務局",
         "CaseCause": "修正「臺南市招牌廣告及樹立廣告許可證收費標準」第一條之一。",
         "ProNo": "3996dfc0-a3fd-411d-9cd9-40078bc3934e",
         "PagesAll": "74"
@@ -1086,17 +1097,6 @@
         "OrgTitle": "蔡筱薇、周嘉韋",
         "CaseCause": "建請體育局針對亞太國際棒球場球場樓梯及外圍停車場場域增加照明。",
         "ProNo": "777e2c1d-30f5-4a2f-9d92-5f6598d2e1e4",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2026\/06\/24",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "15",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府積極推動安定區體育主題複合式運動公園計畫，並積極向中央爭取經費補助。",
-        "ProNo": "f04c0246-1327-4b22-ab59-d80ffb5a80f6",
         "PagesAll": "74"
     }
 ]
