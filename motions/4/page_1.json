@@ -762,6 +762,17 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第8次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "26",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "修正「臺南市台江文化中心場地使用管理辦法」。",
+        "ProNo": "b0b51297-62c7-4991-bdcd-32a76110394b",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第8次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府經濟發展局",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "蔡筱薇",
         "CaseCause": "建請體育局針對亞太國際棒球場座位標示與場內指引系統不足給予優化調整，增加觀賽品質。",
         "ProNo": "a633eca5-e047-450e-ab27-8160337b4c34",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2026\/06\/24",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "14",
-        "OrgTitle": "蔡筱薇、周嘉韋",
-        "CaseCause": "建請體育局針對亞太國際棒球場球場樓梯及外圍停車場場域增加照明。",
-        "ProNo": "777e2c1d-30f5-4a2f-9d92-5f6598d2e1e4",
         "PagesAll": "74"
     }
 ]
