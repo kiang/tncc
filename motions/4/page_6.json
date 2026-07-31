@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "43",
+        "OrgTitle": "鄭佳欣",
+        "CaseCause": "建請研議高齡駕照體格檢查作業結合地方資源並擴大服務據點，以提升便利性與可近性。",
+        "ProNo": "d26a143c-6b65-4ce9-90b7-21baf4fd29e0",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2026\/06\/24",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "44",
+        "OrgTitle": "沈家鳳、周嘉韋、陳秋宏、陳皇宇、李宗霖、朱正軒、黃麗招、蔡筱薇",
+        "CaseCause": "建請市府協調監理單位增設高齡駕駛人換照服務據點及巡迴換照服務，以保障長者行的權益。",
+        "ProNo": "1d477098-e633-47e5-8dbd-8fbe492b2114",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2026\/06\/24",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "45",
         "OrgTitle": "李宗霖",
         "CaseCause": "建請市府研議放寬本市公車攜帶自行車之相關規範，並評估導入公車自行車架等配套措施，以促進綠色運具與大眾運輸整合發展。",
@@ -622,7 +644,7 @@
         "KidTitle": "議員提案-一般提案",
         "CaseNumber": "101",
         "OrgTitle": "曾培雅",
-        "CaseCause": "建請交通局及相關單位加速平實轉運站工程復工。\r\n",
+        "CaseCause": "建請交通局及相關單位加速平實轉運站工程復工。",
         "ProNo": "256aaf56-770e-4349-b483-a963d92a4991",
         "PagesAll": "74"
     },
@@ -649,14 +671,14 @@
         "PagesAll": "74"
     },
     {
-        "DoneDate": "",
+        "DoneDate": "2026\/07\/29",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "專案報告-專案報告",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府交通局",
         "CaseCause": "「因應高齡駕駛人換照新制」專案報告",
-        "ProNo": "22a0338a-bf70-4dd6-a9f0-2a9c5d562760",
+        "ProNo": "a02b39f6-74c5-42ee-99f1-53d597163eeb",
         "PagesAll": "74"
     },
     {
@@ -1075,28 +1097,6 @@
         "OrgTitle": "蔡秋蘭",
         "CaseCause": "建請臺南市政府工務局辦理西港區42線(3K+300-3K+400)道路改善工程。",
         "ProNo": "732e4a5a-68bb-48c8-9d5b-a91fa2c8b2fb",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2026\/05\/27",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "31",
-        "OrgTitle": "蔡秋蘭",
-        "CaseCause": "建請臺南市政府工務局辦理七股區溪南里南31-1線道路邊坡修護工程。",
-        "ProNo": "21b45e7f-3064-4f14-8db4-5cc86e2d53fa",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2026\/05\/27",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "32",
-        "OrgTitle": "蔡秋蘭",
-        "CaseCause": "建請臺南市政府工務局辦理佳里區安西里安西路335巷道路改善工程。",
-        "ProNo": "ebb1afaa-ccc7-4da4-a1e2-06b3a678edbd",
         "PagesAll": "74"
     }
 ]

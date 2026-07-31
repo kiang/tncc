@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "1",
+    "KidTitle": "專案報告-專案報告",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "臺南市政府水利局",
+    "OrgTitle2": "",
+    "CaseCause": "「本市海岸嚴重流失請市府提出因應對策及解決辦法」專案報告",
+    "Content": "[]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"「本市海岸嚴重流失請市府提出因應對策及解決辦法」專案報告結論：\"},{\"tag\":\"p\",\"content\":\"本次專案報告，本會議員建議事項，請相關局處詳加研議並向中央反映。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=73a850e7-6cf4-4224-be4d-c1254d185bfb",
+            "FileName": "0731臺南市議會專案報告簡報-臺南市海岸嚴重流失因應對策及解決辦法-定稿.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f88e7c91-b101-4b47-986b-7568ec3c24be&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
