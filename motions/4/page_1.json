@@ -795,6 +795,17 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第8次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "27",
+        "OrgTitle": "臺南市政府社會局",
+        "CaseCause": "修正「臺南市急難救助辦法」。",
+        "ProNo": "641a2610-23f9-45fd-a31d-8075fb9444fb",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第8次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府經濟發展局",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "蔡筱薇、周嘉韋",
         "CaseCause": "建請體育局針對亞太國際棒球場內雨後積水與安全問題提出改善辦法。",
         "ProNo": "4db17c81-a6e4-426f-ac27-99ee08ad2d2f",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2026\/06\/24",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "11",
-        "OrgTitle": "蔡筱薇、周嘉韋",
-        "CaseCause": "建請體育局針對亞太國際棒球場本壘後方缺乏橫向走道，影響移動便利與疏散安全給予調整。",
-        "ProNo": "e60c8ea8-1559-4bc3-9cce-7b68e1eaf54f",
         "PagesAll": "74"
     }
 ]
