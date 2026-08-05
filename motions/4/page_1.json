@@ -806,6 +806,17 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第8次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "28",
+        "OrgTitle": "臺南市政府衛生局",
+        "CaseCause": "修正「臺南市政府衛生局組織規程第三條、第四條」及「臺南市政府衛生局編制表」。",
+        "ProNo": "f1038599-1b43-4f1f-ab92-be3cba37f156",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第8次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府經濟發展局",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "鄭佳欣",
         "CaseCause": "建請市府於仁德運動公園籃球場周邊增設座椅設施，以提升運動環境品質與民眾使用便利性。",
         "ProNo": "c0aca45e-b9e4-48ec-ad65-14ec0067432f",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2026\/06\/24",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "10",
-        "OrgTitle": "蔡筱薇、周嘉韋",
-        "CaseCause": "建請體育局針對亞太國際棒球場內雨後積水與安全問題提出改善辦法。",
-        "ProNo": "4db17c81-a6e4-426f-ac27-99ee08ad2d2f",
         "PagesAll": "74"
     }
 ]

@@ -2,6 +2,17 @@
     {
         "DoneDate": "2025\/12\/04",
         "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "49",
+        "OrgTitle": "曾培雅",
+        "CaseCause": "建請市府加速臺南文化中心整修進度，並儘速完成第三期工程(演藝廳增建暨周邊景觀改善)細部設計，以利後續發包與施工。",
+        "ProNo": "42dd888a-e956-4757-873a-5b2ed0fe759b",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "保安",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "2",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "尤榮智",
         "CaseCause": "請改善市道165線中正路(自市道318線中華路口至中正路97巷路口止)道路，因其年久失修，路面龜裂破損嚴重，急需辦理改善，以利行車安全。",
         "ProNo": "4d55acb8-5a0c-4189-a066-9999ed19ebcb",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2025\/10\/29",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "7",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請改善市道174線自六甲公墓前至西港湖止南側道路，其路面年久失修，龜裂破損嚴重，急需辦理改善，以利行車安全。",
-        "ProNo": "b04eccd9-fc26-430a-b948-14706c08c467",
         "PagesAll": "74"
     }
 ]
