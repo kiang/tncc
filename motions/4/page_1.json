@@ -817,6 +817,17 @@
         "DoneDate": "",
         "GradeTime": "第4屆 第8次 定期會",
         "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "29",
+        "OrgTitle": "臺南市政府社會局",
+        "CaseCause": "修正「臺南市政府家庭暴力暨性侵害防治中心」組織規程部分條文及編制表。",
+        "ProNo": "d9464580-e32b-4702-aee1-0b3414bb2500",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第8次 定期會",
+        "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規備查案",
         "CaseNumber": "1",
         "OrgTitle": "臺南市政府經濟發展局",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林志展、周嘉韋",
         "CaseCause": "建請市政府設置台南市客家社團共享空間與基地，促進客家文化傳承與社群發展。",
         "ProNo": "46162248-d18b-4ae5-9d51-b581af9c561a",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2026\/06\/24",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "9",
-        "OrgTitle": "鄭佳欣",
-        "CaseCause": "建請市府於仁德運動公園籃球場周邊增設座椅設施，以提升運動環境品質與民眾使用便利性。",
-        "ProNo": "c0aca45e-b9e4-48ec-ad65-14ec0067432f",
         "PagesAll": "74"
     }
 ]

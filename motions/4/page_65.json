@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第1次 定期會",
         "PTypTitle": "建設",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "32",
+        "OrgTitle": "李宗翰",
+        "CaseCause": "建請市府於大新營區域設立社會住宅。",
+        "ProNo": "d48da656-8fda-4baf-b6df-fe658f32a47e",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2023\/07\/04",
+        "GradeTime": "第4屆 第1次 定期會",
+        "PTypTitle": "建設",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "33",
         "OrgTitle": "李宗翰",
         "CaseCause": "建請市府向中央單位反應，要求國土計畫延後編定，並配合施行細則共同發布。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "黃麗招",
         "CaseCause": "臺南市安南區安中路三段與仁安八街口畫網狀線案。",
         "ProNo": "ab786114-eeb5-48ec-a0bd-cbe13caa1360",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2023\/07\/04",
-        "GradeTime": "第4屆 第1次 定期會",
-        "PTypTitle": "保安",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "77",
-        "OrgTitle": "吳通龍",
-        "CaseCause": "建請市府加快大曾文區臺南市公共自行車YouBike2.0設點的速度，以利串聯曾文區大眾運輸及觀光景點交通路線網。",
-        "ProNo": "36c3a2d1-81db-45f3-a02f-d664803474c5",
         "PagesAll": "74"
     }
 ]

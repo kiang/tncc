@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第2次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "142",
+        "OrgTitle": "周嘉韋",
+        "CaseCause": "建請市府提高海安商圈分隔島之維護頻率。",
+        "ProNo": "236dc9ec-2189-49c2-9e75-26de8af323c2",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2023\/11\/30",
+        "GradeTime": "第4屆 第2次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "143",
         "OrgTitle": "周嘉韋",
         "CaseCause": "建請市府增加公園草皮之維護頻率。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府環境保護局",
         "CaseCause": "擬具「臺南市低碳城市自治條例」第三條修正草案，敬請審議。",
         "ProNo": "2dcd2484-71e3-4b66-bfe6-4c941c62169e",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2024\/06\/26",
-        "GradeTime": "第4屆 第2次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "市府提案-市法規案",
-        "CaseNumber": "2",
-        "OrgTitle": "臺南市政府環境保護局",
-        "CaseCause": "擬具「臺南市淨零永續城市管理自治條例」草案，敬請審議。",
-        "ProNo": "755eed00-af85-4e85-a2c8-c2c15ffb31d2",
         "PagesAll": "74"
     }
 ]
