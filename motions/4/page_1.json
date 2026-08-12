@@ -134,6 +134,17 @@
     {
         "DoneDate": "",
         "GradeTime": "第4屆 第8次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "20",
+        "OrgTitle": "臺南市政府體育局",
+        "CaseCause": "運動部核定本市辦理「115年度深耕基層棒球扎根工作實施計畫」總經費新臺幣1,117萬5,000元（中央補助894萬元、市配合款223萬5,000元），因未及納入預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟116年度追加減預算時辦理轉正，敬請審議。",
+        "ProNo": "61ed24ea-c9b3-4db0-8556-ddacc11ad396",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第8次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "2",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "施余興望 Tjakumay Tagaw",
         "CaseCause": "建請市府訂定「臺南市補助原住民職業訓練及就業考試補習課程費用實施計畫」，並編列年度預算支應所需經費。",
         "ProNo": "699ef735-3839-4fba-9cff-6376e4d96841",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2026\/06\/24",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "8",
-        "OrgTitle": "林志展、周嘉韋",
-        "CaseCause": "建請市政府設置台南市客家社團共享空間與基地，促進客家文化傳承與社群發展。",
-        "ProNo": "46162248-d18b-4ae5-9d51-b581af9c561a",
         "PagesAll": "74"
     }
 ]
