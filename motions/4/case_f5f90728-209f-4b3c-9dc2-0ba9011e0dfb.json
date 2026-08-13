@@ -1,0 +1,48 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "8",
+    "KidTitle": "市府提案-一般提案",
+    "ComeDate": "2026\/08\/13",
+    "ComeNumber": "府財產字第1151181092號",
+    "OrgTitle": "臺南市政府財政稅務局",
+    "OrgTitle2": "",
+    "CaseCause": "為辦理標售本府經管坐落本市東區泉南段576-1地號等10筆非公用市有土地，謹依土地法第25條規定之處分程序，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"坐落本市東區泉南段576-1地號等4筆市有土地，擬依「臺南市市有財產管理自治條例」第50條第1項第1款規定辦理標售。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"坐落本市臺南市中西區星鑽段1268-3地號等6筆市有土地，擬依「臺南市市有財產管理自治條例」第50條第1項第4款規定辦理標售。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案業經本府115年8月11日第761次市政會議審議通過。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議，同意後報請行政院核准，完成處分程序後，於4年內辦理出售。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=302db608-a4cd-4da5-9dff-9590d56008b7",
+            "FileName": "提案8-地籍圖.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=465aea47-fdaf-4297-8008-a8ce8d5ab76a",
+            "FileName": "提案8-清冊.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f5f90728-209f-4b3c-9dc2-0ba9011e0dfb&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

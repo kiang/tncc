@@ -1,5 +1,93 @@
 [
     {
+        "DoneDate": "2024\/12\/19",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "市府提案-總預算案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府",
+        "CaseCause": "本市114年度總預算案及總預算案附屬單位預算及綜計表，業經編製完竣，敬請 審議。",
+        "ProNo": "c3d774ad-f899-4c97-b8b4-45060964f3be",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "1",
+        "OrgTitle": "林志展",
+        "CaseCause": "建請市政府編列非法定社會福利措施預算時，需明訂相關退場機制，以利財政永續。",
+        "ProNo": "ea14a564-9b3e-4051-a66d-8b2cbe87552a",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "沈震東",
+        "CaseCause": "建請財稅局加速規劃西門商場設計，活化西門布市。",
+        "ProNo": "ec6cf8f7-07ca-4cd1-9992-f1094e668841",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "3",
+        "OrgTitle": "朱正軒",
+        "CaseCause": "為提升租屋市場供給，建請財稅局規劃及宣導釋出閒置房屋的租稅優惠政策。",
+        "ProNo": "012d81a4-35da-4835-b504-d7ff9d3e6750",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "4",
+        "OrgTitle": "林依婷",
+        "CaseCause": "請市府建立瓦斯管線、自來水管線破裂通報系統。",
+        "ProNo": "bc5bdbb9-c025-49e0-be47-e0b179d92adc",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "5",
+        "OrgTitle": "趙昆原、Ingay Tali 穎艾達利",
+        "CaseCause": "白河區關嶺里5鄰檳榔山延管工程一案，建請市府增加預算額度，降低案件設置成本，以達到中央評比標準。",
+        "ProNo": "82d325a6-3d2d-4d35-9b30-26dab3a7360e",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "6",
+        "OrgTitle": "趙昆原、Ingay Tali 穎艾達利",
+        "CaseCause": "白河區關嶺里9鄰大嶺延管工程一案，建請市府增加預算額度，降低案件設置成本，以達到中央評比標準。",
+        "ProNo": "6c09cf6b-7bfe-42a1-b3c9-259cb426c45b",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2024\/12\/02",
+        "GradeTime": "第4屆 第4次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "7",
+        "OrgTitle": "趙昆原、Ingay Tali 穎艾達利",
+        "CaseCause": "東山區南勢里1、2鄰賀荖寮及格子埔部落延管工程一案，建請市府增加預算額度，降低案件設置成本，以達到中央評比標準。",
+        "ProNo": "59ec46bc-7055-4d36-9a7e-b2902bc8667c",
+        "PagesAll": "74"
+    },
+    {
         "DoneDate": "2024\/12\/02",
         "GradeTime": "第4屆 第4次 定期會",
         "PTypTitle": "財經",
@@ -1009,94 +1097,6 @@
         "OrgTitle": "蔡蘇秋金",
         "CaseCause": "將軍區青鯤鯓鹽豐橋往鎮海將軍廟道路，道路嚴重破損、亟需改善，建請農業局儘速撥款改善。",
         "ProNo": "bd29af5b-59f6-4f84-a326-34999bc55471",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "100",
-        "OrgTitle": "蔡蘇秋金",
-        "CaseCause": "佳里區鎮安段 1416地號無側溝可供排水，以致影響路基、且阻礙農作，建請農業局儘速核定經費改善。",
-        "ProNo": "d2a91356-8e63-47fa-af80-7eb12088e60a",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "101",
-        "OrgTitle": "蔡蘇秋金",
-        "CaseCause": "七股區篤加里新篤加段844地號部分砌石護岸塌損，以致路基掏空，建請農業局儘速核定經費改善，以保障農民生命財產安全。",
-        "ProNo": "03c978ca-9a24-4d60-97ca-7b99d5049340",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "102",
-        "OrgTitle": "沈震東",
-        "CaseCause": "建請臺南市政府經發局及財稅局進行西門商場及西市場古蹟介面之防火巷之水溝蓋板設置。",
-        "ProNo": "124af14d-fee7-42df-9bdf-f0bf0d147b5c",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "103",
-        "OrgTitle": "沈震東",
-        "CaseCause": "建請經發局市場處整體規畫西市場、香蕉倉庫及西門淺草公有零售市場之路面，以利市容景觀改善。",
-        "ProNo": "da29606a-2256-4cc4-a038-315361bce5a9",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2024\/10\/24",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府社會局",
-        "CaseCause": "勞動部核定增加本市辦理113年度聘僱外籍看護工家庭短期替代照顧服務實施計畫經費計新臺幣890萬元整（中央全額補助），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度總預算時辦理轉正，敬請 審議。",
-        "ProNo": "b51f21e8-c053-485b-bac8-ca527f7222bf",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2024\/10\/24",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "2",
-        "OrgTitle": "臺南市政府衛生局",
-        "CaseCause": "衛生福利部核定本市114年度「住宿機構強化感染管制獎勵計畫」(一般護理之家)，經費新臺幣132萬1,000元整乙案(中央全額補助)，為順利推動、執行計畫及爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟114年度追加減預算時辦理轉正，敬請 審議。",
-        "ProNo": "42986cf5-a12c-4355-a483-d20307255bc0",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2024\/10\/24",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "3",
-        "OrgTitle": "臺南市政府環境保護局",
-        "CaseCause": "環境部資源循環署核定本市「114年度換購低污染資源回收車補助計畫」經費新臺幣3,360萬元整(中央補助1,680萬元，市配合款1,680萬元)，為爭取時效，惠請同意先行辦理墊付，俾憑辦理後續相關作業事宜，俟114年度追加減預算辦理轉正，敬請審議。",
-        "ProNo": "76767d28-ec02-4339-9908-4f9a7c7b7cc2",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2024\/12\/02",
-        "GradeTime": "第4屆 第4次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "市府提案-墊付款案",
-        "CaseNumber": "4",
-        "OrgTitle": "臺南市政府社會局",
-        "CaseCause": "衛生福利部核定補助本市113年度長照2.0整合型計畫增補經費新臺幣6億9,358萬5,000元整乙案（中央補助6億8,176萬元；市配合款1,182萬5,000元），因未及納入本府114年度總預算，為爭取時效，謹請貴會同意墊付，俾憑辦理後續相關作業事宜，俟114年度追加減預算時辦理轉正，敬請審議。",
-        "ProNo": "d4764ced-a046-4eb8-8d40-3f535ab9e8ac",
         "PagesAll": "74"
     }
 ]

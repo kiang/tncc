@@ -26,7 +26,13 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=bebfc952-2eb9-420b-9314-96f9e21d9014&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=204674ee-b667-4b87-99e5-2dc18cf68d5a",
+            "FileName": "墊付案補充資料(4-8定工務市提2)-封面_議會要求115.7.22.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "2026\/07\/20",
     "ReDesc": "",

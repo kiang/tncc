@@ -1,0 +1,68 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2026\/08\/12",
+    "ComeNumber": "府主預字第1151207538A",
+    "OrgTitle": "臺南市政府主計處",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本府115年第1季辦理政策及業務宣導之執行情形表，提請貴會備查。",
+    "Content": "",
+    "Method": "",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=17b53d9a-b238-47d7-9688-61c4c410f1df",
+            "FileName": "115年第1季-保安委員會.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=75e04b73-5705-4f05-99a1-c6d1f8582519",
+            "FileName": "115年第1季-工務委員會.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8d269cfd-2b86-4cd6-879b-734280badc6a",
+            "FileName": "115年第1季-建設委員會.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c7eeab36-177b-41df-ab69-3984dfd9ec76",
+            "FileName": "115年第1季-民教委員會.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6c26e371-19d2-419f-8833-30f997ca99a5",
+            "FileName": "115年第1季-環衛委員會.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=cdac4804-2a76-46fd-b9f7-a271b0ff47f6",
+            "FileName": "115年第1季-財經委員會.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ccab5a37-d834-4e33-9b0f-6edd435c32ed&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
