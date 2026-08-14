@@ -2,6 +2,105 @@
     {
         "DoneDate": "2023\/03\/30",
         "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "5",
+        "OrgTitle": "沈家鳳",
+        "CaseCause": "物價上漲，建請市府研議調整「臺南巿居家托育服務收退費項目及基準」。\r\n",
+        "ProNo": "7539ddf2-134a-4c5a-a9f7-b40af0253d88",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "6",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請巿府提供70歲以上長者免費施打帶狀疱疹疫苗，而50歳至69歲給予部分補助。\r\n",
+        "ProNo": "d7194e05-c25e-470a-8bc5-fcee78c99b12",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "7",
+        "OrgTitle": "吳通龍",
+        "CaseCause": "建請市政府落實打造友善城市政策，於台南市六甲區設置多元長照資源中心住宿式長照機構，提供長輩照護服務。",
+        "ProNo": "85ca31b0-6589-437e-9f4c-0c7ca1523fbc",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "8",
+        "OrgTitle": "李宗霖",
+        "CaseCause": "建請市府落實建置「性別友善廁所」於本市行政機關、各級學校與重要公共空間之公廁。",
+        "ProNo": "7909b498-45e0-4952-b9ab-dc5b02790abb",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "9",
+        "OrgTitle": "李鎮國",
+        "CaseCause": "請環保局依法儘速處理永康區中正路 542 巷及中正五街 53 巷有毒廢棄物，還給民眾健康友善的生活空間。",
+        "ProNo": "27cee262-d03f-46eb-9ef0-daf09334ea6f",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "10",
+        "OrgTitle": "蔡麗青",
+        "CaseCause": "建請更新環保局監視器設備，以增進環保局稽查作業效率。\r\n",
+        "ProNo": "e7950276-b55a-4754-9fce-b3b2220a55f5",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "11",
+        "OrgTitle": "沈震東、李宗霖、余柷青、陳皇宇、王宣貿、沈家鳳",
+        "CaseCause": "建請環境保護局將臺南市推廣社區環境教育增能培訓及掃街實作補助計畫之補助經費重新進行研議。",
+        "ProNo": "a2ce8dda-18ee-460b-b064-674c35a2f3c9",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "12",
+        "OrgTitle": "沈震東、余柷青",
+        "CaseCause": "建請環境保護局藏金閣2.0附近周圍整修，以利整體愛麗絲夢遊仙境主題公園完整性提高。",
+        "ProNo": "6a73444f-76ba-468b-a5de-fdea27cb79e5",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "13",
+        "OrgTitle": "蔡育輝、方一峰、尤榮智、王宣貿、沈家鳳",
+        "CaseCause": "請市政府環保局多設置臭味感測器以精準偵測臭味及時阻止臭味之散發。",
+        "ProNo": "4a946848-9987-4244-961c-9bd1a62131b0",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2023\/03\/30",
+        "GradeTime": "第4屆 第2次 臨時會",
         "PTypTitle": "建設",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
@@ -998,105 +1097,6 @@
         "OrgTitle": "周嘉韋、陳秋宏、蔡筱薇、林依婷、陳皇宇、黃麗招、李宗翰、王宣貿、蔡蘇秋金",
         "CaseCause": "請修改臺南市民電話1999收費標準。",
         "ProNo": "17104719-0953-49d9-b07f-eccaf7613d52",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "32",
-        "OrgTitle": "曾之婕",
-        "CaseCause": "建請市府對東區仁和路沿線，自東門路迄至崇善東路口段，實施路面平整維護。",
-        "ProNo": "da37228c-2788-41e3-9bc5-8909693252ca",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "33",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理六甲區港仔頭防汛排水道路改善工程，因年久失修，防汛道路雜草叢生，急需辦理改善，以利日後維護管理需要，並作為通行使用。",
-        "ProNo": "bad16be7-578a-4436-8c2d-cc642ff1d3e3",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "34",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理麻豆區埤頭里小埤普天宮前排水溝改善工程，因早期水路雜草叢生，急需辦理改善，以杜絕淹水。",
-        "ProNo": "16ada40b-f8f1-4f55-bdde-ef58a77b86a1",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "35",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理改善官田區南119線社子往六雙AC路面改善工程，因年久失修，柏油路面龜裂，破損嚴重，急需辦理改善，以利行車安全。",
-        "ProNo": "5d9ca32e-9b13-4ce5-882b-0f7cac12b0f3",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "36",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理下營區營前里健康路221巷周邊巷道改善工程，因年久失修，柏油路面龜裂，破損嚴重，急需辦理改善，以利行車安全。",
-        "ProNo": "f91cc8a8-b396-4957-b1b6-1ebe523f8715",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "37",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理下營區茅營里茅港尾段984號(中營慶福宮前)道路改善工程，因年久失修，柏油路面龜裂，破損嚴重，急需辦理改善，以利行車安全。",
-        "ProNo": "c9661d79-2c4b-40b1-97d7-cf357b44c09a",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "38",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理六甲區六甲里中山路32巷排水改善工程，因地勢低窪，每遇豪雨，現有排水溝無法宣洩，造成該路段淹水，急辦理改善，以杜絕淹水問題。",
-        "ProNo": "84380e68-ba17-46e9-81b4-f4478af5f204",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "39",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "請辦理麻豆區井東里太宅路(自井東里安業44號至20號止)道路改善工程，因年久失修，路面龜裂，破損嚴重，急需辦理改善，以利行車安全。",
-        "ProNo": "72eab5e6-ff10-4354-9574-b7b2dcccf245",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2023\/03\/30",
-        "GradeTime": "第4屆 第2次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "40",
-        "OrgTitle": "尤榮智",
-        "CaseCause": "麻豆區市道171線高速公路埤頭陸橋機車道已塌陷，嚴重影響行車安全，急需辦理改善，以利行車安全。",
-        "ProNo": "e2279c63-9ea5-4e5b-8f02-1f4f2d5a9ded",
         "PagesAll": "74"
     }
 ]
