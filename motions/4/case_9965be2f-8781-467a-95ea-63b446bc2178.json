@@ -8,7 +8,7 @@
     "OrgTitle": "臺南市政府衛生局",
     "OrgTitle2": "",
     "CaseCause": "衛生福利部國民健康署核定本市辦理115年度「生育保健之相關檢驗補助精進方案」所增加經費補助款新台幣558萬元整(中央全額補助)，為爭取時效請貴會同意先行墊付，俾憑辦理後續相關作業，俟116年度追加減預算辦理轉正，敬請審議。",
-    "Content": "[]",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據衛生福利部國民健康署115年6月23日衛授國字第1150461860A號函及115年7月9日國健婦字第1150462135號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款：經上級政府核定之補助款，所使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案「生育保健之相關檢驗補助精進方案」所增加經費補助款新台幣558萬元整(中央全額補助)，未及於納入本府116年度總預算案，謹請准予辦理先行墊付，俟116年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府115年8月11日第761次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案辦理期間自計畫核定日起至115年12月31日，衛生福利部已於115年7月1日公告實施「生育保健之遺傳相關檢驗補助精進方案」，重點工作包含辦理產前遺傳診斷、血液細胞遺傳學及新生兒先天性代謝異常疾病篩檢費用等補助事項；因應本次補助金額調整，醫療機構須配合辦理相關申請、報備及行政作業，並同步完成補助流程及資訊系統等配套措施。為確保新制如期推動，維持各項補助措施之整體性、連續性及執行效益，相關經費確有立即支應之必要，爰需於本會期提送墊付款案審議，以利各項業務順利推動，保障市民權益及醫療服務不中斷，爰需於本會期提出墊付案申請，以利新制順利推動。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟116年度追加減預算辦理轉正。\"}]",
     "CheckDate": "",
     "CheckDesc": "",
@@ -17,7 +17,23 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5543218c-3709-48e4-9b4a-2f64d600ffb8",
+            "FileName": "115年度「生育保健之相關檢驗補助精進方案」 經費說明.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4a82b738-bf90-4bb8-958e-b2b22640ff4a",
+            "FileName": "115年度「生育保健之相關檢驗補助精進方案」摘要.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ace2ba2f-9709-4dc9-8375-694279e531dd",
+            "FileName": "核定函-環衛11號案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9965be2f-8781-467a-95ea-63b446bc2178&type=pdf",
     "CheckAttList": [],

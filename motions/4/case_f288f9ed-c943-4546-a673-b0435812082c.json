@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "10",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2026\/08\/18",
+    "ComeNumber": "府工養一字第1151251070號",
+    "OrgTitle": "臺南市政府工務局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部國土管理署「永續提升人行安全計畫」增加核定「臺南市仁德區仁和國小及二空新村周邊人行道改善工程」及「臺南市關廟區香洋路人行道改善工程」2案補助經費新臺幣490萬元（中央補助款401萬8,000元，市配合款88萬2,000元），為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟116年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部國土管理署115年2月13日國署工字第1150011614號及115年8月6日國署工字第1150070399號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4款「經上級政府核定之補助款，所使用之支出」及第6款「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：旨揭2案經規劃後依實際需求向國土管理署申請增加經費，獲該署同意增加補助490萬元（中央補助款401萬8,000元，市配合款88萬2,000元）因未及納入本府116年度總預算案，為爭取時效，謹請貴會同意先行墊付，俟116年度追加減預算時辦理轉正：\",\"children\":[{\"order\":\"(一)\",\"content\":\"「臺南市仁德區仁和國小及二空新村周邊人行道改善工程」：原獲內政部國土管理署核定840萬元，因校方於規劃階段同意退縮既有圍牆以施作人行道，內政部國土管理署同意增加補助210萬元辦理。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"「臺南市關廟區香洋路人行道改善工程」：原獲內政部國土管理署核定1000萬元，因配合拓寬人行道增列交通號誌費用，內政部國土管理署同意增加補助280萬元辦理。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府115年8月18日第762次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本計畫屬行政院重大政策，涉及國民用路安全及權益，2案設計成果均已獲內政部國土管理署審核通過，待墊付程序完成後即可續辦工程發包作業。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟116年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=a4a7134e-e523-4072-ad1d-c2a0d4edd171",
+            "FileName": "4-8定工務市提10附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f288f9ed-c943-4546-a673-b0435812082c&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

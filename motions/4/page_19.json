@@ -2,6 +2,61 @@
     {
         "DoneDate": "2025\/08\/18",
         "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "27",
+        "OrgTitle": "余柷青",
+        "CaseCause": "建請市府積極辦理山上區玉峯高分3右28~右21A1農路擋土牆改善工程。",
+        "ProNo": "142b2fe4-d802-400b-8687-30e323c4fa1e",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2025\/08\/18",
+        "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "28",
+        "OrgTitle": "余柷青",
+        "CaseCause": "建請市府積極辦理新化區礁坑里礁坑子段1074農路改善工程。",
+        "ProNo": "c0de583d-e32a-4174-8e93-61bf741c886f",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2025\/08\/18",
+        "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "29",
+        "OrgTitle": "余柷青",
+        "CaseCause": "建請市府積極辦理新化區礁坑里礁坑子段1595擋土牆改善工程。",
+        "ProNo": "1bb6177e-6dc6-43fa-8cdb-2700e9cb8363",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2025\/08\/18",
+        "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "30",
+        "OrgTitle": "余柷青",
+        "CaseCause": "建請市府積極辦理新化區頂山腳段1301地號農路改善工程。",
+        "ProNo": "16953a2f-6bcb-4be6-b995-1806a5400ce4",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2025\/08\/18",
+        "GradeTime": "第4屆 第9次 臨時會",
+        "PTypTitle": "環保衛生",
+        "KidTitle": "市府提案-墊付款案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府環境保護局",
+        "CaseCause": "環境部環境管理署核定本市「114年臺南市北區換購低碳垃圾車補助計畫」經費新臺幣414萬元整(中央補助165萬6,000元，市配合款248萬4,000元)，為爭取時效，謹請貴會同意先行辦理墊付，俾憑辦理後續相關作業事宜，俟115年度總預算辦理轉正，敬請審議。",
+        "ProNo": "0a1069cb-87f8-45dd-9048-604efcfdf39b",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2025\/08\/18",
+        "GradeTime": "第4屆 第9次 臨時會",
         "PTypTitle": "環保衛生",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "2",
@@ -1042,61 +1097,6 @@
         "OrgTitle": "楊中成",
         "CaseCause": "請市府儘速依公告都市計畫道路寬度範圍辦理「永康區王行路246巷（北側東西向部分路段）都市計畫道路拓寬工程」以解決道路寬度不足造成民眾通行不便及財損等民怨，俾利民眾通行安全。",
         "ProNo": "568e0426-0877-4277-b4ee-3c420c91a971",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "法規",
-        "KidTitle": "議員提案-市法規案",
-        "CaseNumber": "1",
-        "OrgTitle": "周嘉韋、林依婷、謝舒凡、李宗翰",
-        "CaseCause": "修正「臺南市市區道路管理自治條例」第四條、第七條、第九條、第十八條、第二十八條等條文。",
-        "ProNo": "57052312-a10a-46b9-b8d0-656ff22f07c9",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "臨時動議",
-        "KidTitle": "臨時動議-臨時動議",
-        "CaseNumber": "1",
-        "OrgTitle": "邱議長莉莉、林副議長志展、周嘉韋、郭鴻儀、黃麗招、鄭佳欣、陳秋宏、沈家鳳、沈震東、林依婷、蔡筱薇、謝舒凡、李宗翰、余柷青、黄肇輝、杜素吟、陳碧玉",
-        "CaseCause": "為體恤臺南市民近日面對天然災害之辛苦，建請臺南市政府將超收稅額及超收交通違規之罰款，以現金普發還予臺南市民。",
-        "ProNo": "62a9aa92-1522-4ab8-9ef1-e386ea100ff4",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "市長專案報告",
-        "KidTitle": "專案報告-專案報告",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府",
-        "CaseCause": "丹娜絲颱風天然災害市府因應對策及處理情形(第1天)",
-        "ProNo": "a8bba4fc-ebb5-4df6-9b09-a317cb8d81bf",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2025\/08\/18",
-        "GradeTime": "第4屆 第9次 臨時會",
-        "PTypTitle": "市長專案報告",
-        "KidTitle": "專案報告-專案報告",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府",
-        "CaseCause": "丹娜絲颱風天然災害市府因應對策及處理情形(第2天)",
-        "ProNo": "1a997bc5-71b8-4f29-81f3-7db0f1d7ccef",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2025\/07\/02",
-        "GradeTime": "第4屆 第5次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "查照\/備查案-一般備查案",
-        "CaseNumber": "1",
-        "OrgTitle": "臺南市政府教育局",
-        "CaseCause": "檢送本府「113年度社區大學評鑑結果」1份，請備查。",
-        "ProNo": "e9c492fb-ed6a-4abd-97d7-3850b970e35d",
         "PagesAll": "74"
     }
 ]

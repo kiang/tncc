@@ -3,8 +3,8 @@
     "PTypTitle": "財經",
     "CaseNumber": "13",
     "KidTitle": "市府提案-墊付款案",
-    "ComeDate": "",
-    "ComeNumber": "",
+    "ComeDate": "2026\/08\/18",
+    "ComeNumber": "府農港字第1151266119號",
     "OrgTitle": "臺南市政府農業局",
     "OrgTitle2": "",
     "CaseCause": "臺灣港務股份有限公司核定臺南市政府農業局「臺灣港務股份有限公司115年度盈餘分配及運用」案，總經費計新臺幣480萬元整（全額補助）辦理墊付，俟116年度追加減預算時辦理轉正，敬請審議。",
@@ -17,7 +17,13 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=6777bf64-6b52-4b0c-8543-e2e427864c27",
+            "FileName": "05-財經13號.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=79cb5599-70e2-4562-b4e0-e8f5bdf3218c&type=pdf",
     "CheckAttList": [],

@@ -3,8 +3,8 @@
     "PTypTitle": "財經",
     "CaseNumber": "11",
     "KidTitle": "市府提案-墊付款案",
-    "ComeDate": "",
-    "ComeNumber": "",
+    "ComeDate": "2026\/08\/18",
+    "ComeNumber": "府農森字第1151259100號",
     "OrgTitle": "臺南市政府農業局",
     "OrgTitle2": "",
     "CaseCause": "農業部林業及自然保育署嘉義分署核定本市「115年度臺南市綠鬣蜥防治宣導計畫」，經費新台幣239萬8,000元（全部市府配合款），辦理墊付，俟116年度追加減預算時辦理轉正，敬請審議。",
@@ -17,7 +17,13 @@
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
-    "AttList": [],
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=370c1750-4039-4286-b847-072bbb7ad98f",
+            "FileName": "05-財經11號.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=54dca0e1-752a-4a3d-8589-1ede50c795e1&type=pdf",
     "CheckAttList": [],
