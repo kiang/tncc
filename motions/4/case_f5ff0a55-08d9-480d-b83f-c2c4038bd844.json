@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "14",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2026\/08\/14",
+    "ComeNumber": "府民自字第1151237714號",
+    "OrgTitle": "臺南市政府各區公所",
+    "OrgTitle2": "",
+    "CaseCause": "臺灣港務股份有限公司分配115年度盈餘予本市安平區公所辦理「安平地區春節及假日交通疏導及環境維護雇工等9項工作計畫」，經費計新臺幣980萬元整(中央全額補助)，因未及納入116年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟116年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據臺灣港務股份有限公司115年6月5日港總會字第11507406084號函及臺南市政府115年7月30日府交綜字第1151131463號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44條第4款「經上級政府核定之補助款，所使用之支出」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"經本府召開盈餘分配審查會並核定經費980萬元，因未及納入本府116年度總預算案，為爭取時效，謹請貴會同意先行墊付，俟116年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府115年8月11日第761次市政會議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案為有效解決春節及假日期間安平地區週邊景點交通壅塞、環境問題及促進安平觀光週邊產業發展，申請經費進行改善及雇工作業，依臺灣港務股份有限公司分配115年度盈餘辦理「安平地區春節及假日交通疏導及環境維護雇工等9項工作計畫」提送墊付款案。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟116年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0ea99f80-1c67-4c6a-ad96-3e91e5ca38a1",
+            "FileName": "民教14(安平區公所)-附件(核定函及計畫書等資料).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f5ff0a55-08d9-480d-b83f-c2c4038bd844&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

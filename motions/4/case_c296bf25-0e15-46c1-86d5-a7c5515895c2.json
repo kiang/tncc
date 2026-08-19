@@ -1,0 +1,53 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "15",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2026\/08\/18",
+    "ComeNumber": "府民自字第1151245549號",
+    "OrgTitle": "臺南市政府各區公所",
+    "OrgTitle2": "",
+    "CaseCause": "有關臺灣港務股份有限公司核定南區區公所「臺灣港務股份有限公司115年度盈餘分配及運用」辦理「鯤鯓里公共建設、道路修繕及環境整理等6項工作計畫」，經費計新臺幣1,050萬元整（中央全額補助），因未及納入116年度總預算，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續事宜，俟116年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據臺灣港務股份有限公司115年6月5日港總會字第11507406084號函暨臺南市政府115年7月30日府交綜字第1151131463號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關預算執行要點」第44點第4款規定「經上級政府核定之補助款，所使用之支出」。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"臺灣港務股份有限公司核定南區區公所「臺灣港務股份有限公司115年度盈餘分配及運用」經費新臺幣1,050萬元整（全額中央補助），因未及納入116年度總預算，為爭取時效，謹請貴會同意先行辦理墊付1,050萬元，俾憑辦理後續事宜，俟116年度追加減預算辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府115年8月18日第762次市政會議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案將於115年底辦理工程招標案，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟116年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e250d82a-544e-4173-b61c-fb5acb3eb0db",
+            "FileName": "民教市提15(南區區公所)-附件1(核定函).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c2dd07c9-1ac1-446b-8216-3100a974fd0f",
+            "FileName": "民教市提15(南區區公所)-附件2(港務公司115年度盈餘分配及運用之分配表).pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3aaee06e-cf1e-4b75-9880-7b16f1c88ca9",
+            "FileName": "民教市提15(南區區公所)-附件3(計畫書等資料).pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=c296bf25-0e15-46c1-86d5-a7c5515895c2&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
