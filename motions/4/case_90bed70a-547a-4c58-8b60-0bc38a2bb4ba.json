@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2026\/07\/02",
     "SendNumber": "南議保安字第 1150005138號",
-    "DoDesc": "",
+    "DoDesc": "本府就「為體恤計程車駕駛長時間在外奔波的辛勞，建請市政府試辦『計程車午間免費停車』及『計程車司機服務中心』」案，敬答覆如下：\r\n    一、 查本市已開放全市140處收費路外停車場，每日11時至13時共2小時計程車免收停車費優惠措施，約9,000格位可供計程車駕駛利用，詳如附件清單。本府交通局已於臺南市停車管理資訊網公告停車場清單，並發文予計程車公、工會、合作社及相關單位協助宣傳，以利計程車駕駛善加利用。\r\n    二、 有關計程車司機服務中心涉及用地取得、服務項目與營運單位等事宜，本府交通局公共運輸處將與計程車公、工會及相關單位研議設置可行性。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=80501a52-4ab5-4686-b737-568a651b06c1",
+            "FileName": "路外停車場計程車午休時段免費停車.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=90bed70a-547a-4c58-8b60-0bc38a2bb4ba&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2026\/08\/19",
+    "ExecuteReNumber": "府交公運字第1151232737號字第 1151232737號",
+    "ExecuteReMemo": "本府就「為體恤計程車駕駛長時間在外奔波的辛勞，建請市政府試辦『計程車午間免費停車』及『計程車司機服務中心』」案，敬答覆如下：\r\n    一、 查本市已開放全市140處收費路外停車場，每日11時至13時共2小時計程車免收停車費優惠措施，約9,000格位可供計程車駕駛利用，詳如附件清單。本府交通局已於臺南市停車管理資訊網公告停車場清單，並發文予計程車公、工會、合作社及相關單位協助宣傳，以利計程車駕駛善加利用。\r\n    二、 有關計程車司機服務中心涉及用地取得、服務項目與營運單位等事宜，本府交通局公共運輸處將與計程車公、工會及相關單位研議設置可行性。",
     "ErrorMessage": ""
 }

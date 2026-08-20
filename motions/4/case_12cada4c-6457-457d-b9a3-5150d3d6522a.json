@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "12",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2026\/08\/18",
+    "ComeNumber": "府水污工字第1151189182號",
+    "OrgTitle": "臺南市政府水利局",
+    "OrgTitle2": "",
+    "CaseCause": "內政部國土管理署補助本市辦理「污水下水道建設計畫」經費36億5,740萬元(中央補助款30億5,454萬6,000元，市配合款6億285萬4,000元)，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟116年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據內政部115年8月10日內授國水建字第1150810365號、內政部115年8月12日台內國字第1150809733號及內政部國土管理署115年8月14日國署水建字第1150086624號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"旨案符合「各機關單位預算執行要點」第44點第4款：「經上級政府核定之補助款，所使用之支出。」及第6款：「配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。」之規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：本案為內政部國土管理署補助本府辦理「污水下水道建設計畫」，核定116年度納入預算及115年度同意增列補助款額度，中央補助款30億5,454萬6,000元，市配合款6億285萬4,000元，總計新臺幣36億5,740萬元。因未及納入本府116年度總預算案，為爭取時效，謹請貴會同意先行墊付，俟116年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府115年8月18日第762次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本案為國土管理署補助本市115及116年度「污水下水道建設計畫」，為利計畫工程期程及款項支應順利執行，故於本會期提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟116年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=346f5e3c-8bdf-4c4b-9d5e-5b231b0fb59e",
+            "FileName": "工務市提12-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=12cada4c-6457-457d-b9a3-5150d3d6522a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
