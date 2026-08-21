@@ -2,6 +2,28 @@
     {
         "DoneDate": "2026\/03\/20",
         "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "15",
+        "OrgTitle": "李宗霖、黄肇輝、沈家鳳、陳秋宏",
+        "CaseCause": "建請市府積極改善本市各公車站之軟硬體設備，並研議建置公車站故障通報系統，以利市民及時反映發現之問題。",
+        "ProNo": "2440ba01-822a-42bd-8674-e9c3bae4652b",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "保安",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "16",
+        "OrgTitle": "李宗霖、沈家鳳、陳秋宏、朱正軒",
+        "CaseCause": "建請市府於標線施工前放上示意圖及告示牌，並向民眾告知尚未完工及完工後之對照圖，以減少市民疑惑，使市民更了解本市各項工程。",
+        "ProNo": "67f721ca-deb2-42f1-ad3a-25e1d8043b43",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
         "PTypTitle": "工務",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "施余興望 Tjakumay Tagaw",
         "CaseCause": "建請市府除加強宣導及協助族人申請原住民族事業貸款與微型經濟活動貸款，支持創業發展外，並由市政府提供相關利息補貼，以減輕族人創業資金負擔，促進經濟自主。",
         "ProNo": "741c1f61-3f00-4e28-9f6d-cf4f9631869c",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "8",
-        "OrgTitle": "李偉智",
-        "CaseCause": "建請市府參考外縣市於「國民體育日」(9月9日)期間，擴大免費開放更多場館，以利民眾使用公共運動設施。",
-        "ProNo": "69c5743b-6ba7-4bdc-b187-0669b2c086d1",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "9",
-        "OrgTitle": "鄭佳欣",
-        "CaseCause": "建請市府規劃歸仁游泳池周邊閒置空間活化設計，將未充分利用的區域轉化為休閒、運動與親子互動場所，並透過民眾參與方式，使規劃更貼近社區需求。",
-        "ProNo": "5486db63-b519-4e92-bed5-e743f488b51b",
         "PagesAll": "74"
     }
 ]
