@@ -827,6 +827,17 @@
     {
         "DoneDate": "",
         "GradeTime": "第4屆 第8次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "市府提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "臺南市政府交通局",
+        "CaseCause": "臺南市政府推動「善化地區鐵路立體化可行性研究」，為利後續提報中央審議，謹請貴會同意本案規劃成果並出具同意函，敬請審議。",
+        "ProNo": "63507c37-d0c4-4475-aae6-01caaac95bfd",
+        "PagesAll": "74"
+    },
+    {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第8次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "市府提案-墊付款案",
         "CaseNumber": "1",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "臺南市政府教育局",
         "CaseCause": "修正「臺南市政府指定市立學校辦理學校型態實驗教育辦法」部分條文。",
         "ProNo": "a4d2524d-30fd-4fb5-889c-018ffece6270",
-        "PagesAll": "74"
-    },
-    {
-        "DoneDate": "",
-        "GradeTime": "第4屆 第8次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規查照案",
-        "CaseNumber": "12",
-        "OrgTitle": "臺南市政府環境保護局",
-        "CaseCause": "修正「臺南市執行違反廢棄物清理法扣留清除機具處理設施或設備移置及保管收費標準」，名稱並修正為「臺南市執行違反廢棄物清理法扣留清除機具處理設施或設備移置及場地作業管理辦法」。",
-        "ProNo": "a90d5ad8-4f7e-48c4-a59b-256d43180e33",
         "PagesAll": "74"
     }
 ]
