@@ -10,8 +10,8 @@
     "CaseCause": "擬具「臺南市興辦公共工程土地改良物補償自治條例」部分條文修正草案，敬請審議。",
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本次修正係為明定本自治條例之主管機關及舉辦公共工程之需用土地人，並配合修正其相關權責，俾確保補償標準之合理性、專業性及行政效率，另亦酌作部分條文之文字修正，爰擬具本修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府115年3月24日第741次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市興辦公共工程土地改良物補償自治條例」部分條文修正總說明、對照表及修正草案條文。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
-    "CheckDate": "",
-    "CheckDesc": "",
+    "CheckDate": "2026\/08\/26",
+    "CheckDesc": "一、照修正條文通過，詳審查結果對照表。\r\n二、其他意見：責成法制處宣導府內各機關於提送法規案時，相關文件格式應有一致性規範。",
     "DoneDate": "",
     "DoneDesc": "",
     "SendDate": "",
@@ -31,7 +31,18 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f50d41e3-46ad-4d63-ab3b-207266605d5f&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=67e33ec3-ebc4-4b3c-be7c-f163a2954cfe",
+            "FileName": "4-8定審查意見報告書--法規巿提1-4號案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=e8a86ecb-53f4-4029-8ac3-ceec7e46aa86",
+            "FileName": "審查結果對照表---4-8定法規巿提3-擬具「臺南市興辦公共工程土地改良物補償自治條例」部分條文修正草案.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "2026\/07\/20",
     "ReDesc": "",
