@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "5",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "陳皇宇、鄭佳欣、吳禹寰、林冠維",
+    "CaseCause": "建請儘速修復安平區永華八街220號至怡平路468巷口側溝不平處。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"如附件照片所示，該路段水溝之側溝凹凸不平，極不美觀影響市容，且危及行人安全，顯見鋪設之施工粗糙，驗收未確實，請相關單位儘速處理修復。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/08\/27",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=134041b6-8dc7-4f5e-ab8f-c6273693f90f",
+            "FileName": "4-8定工務議提5附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=7f838161-e0bb-4d08-8215-f9edc8ec2b6f&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
