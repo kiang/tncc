@@ -37,7 +37,13 @@
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=bec4558f-87f9-412a-ba79-6636ff28d43f&type=pdf",
     "CheckAttList": [],
-    "DoneAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=4da62c80-6e34-45f1-b6ab-6800a7e87cb3",
+            "FileName": "01-2民教市提8復議提案單(運動i臺灣).pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "ReDate": "2026\/07\/20",
     "ReDesc": "一、經本次定期會第6次會（115年8月31日）決議：照聯席審查意見不同意墊付。\r\n二、於同次會（115年8月31日）經復議討論後決議：（一）同意墊付。（二）有疑慮部分，建請檢調單位啟動調查。",
     "FirstDate": "2026\/07\/29",
