@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "財經",
+    "CaseNumber": "14",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2026\/09\/18",
+    "ComeNumber": "府農動字第1151426009號",
+    "OrgTitle": "臺南市政府",
+    "OrgTitle2": "",
+    "CaseCause": "農業部核定本市「115年度維持重大豬病非疫狀態防疫計畫」經費新臺幣113萬3,000元乙案（全部市府配合款），因未及納入116年度總預算案，為爭取時效，謹請貴會同意先行墊付，俾憑辦理後續相關作業事宜，俟116年度追加減預算時再予轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據農業部動植物防疫檢疫署115年8月20日防檢一字第1151863054號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第6款規定，配合上級或同級政府施政需要而核定必須分擔且須及時使用之支出。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：\",\"children\":[{\"order\":\"(一)\",\"content\":\"本案總經費新臺幣526萬6,000元(中央補助款327萬元、市配合款199萬6,000元），其中113萬3,000元（全部市府配合款）因未及納入本府116年度總預算案，為爭取時效，謹請貴會同意先行墊付，俟116年度追加減預算辦理轉正。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"本計畫主要工作項目為執行傳統豬瘟與口蹄疫相關防疫業務。\",\"children\":[]}]},{\"order\":\"四、\",\"content\":\"本案業經本府115年9月15日第766次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付款案緊急性理由：本案攸關本市辦理豬隻重要疾病防疫工作，以維持國內傳統豬瘟與口蹄疫非疫區狀態，提升養豬產業競爭力與收益，且本計畫工作需於115年12月31日前完成，故提出墊付案申請。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟116年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=972583de-e13e-4f1e-994a-e800bd82811a",
+            "FileName": "財經14號.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=99d1ec3f-ed7b-40ff-9741-ba4ef32c4ed4&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

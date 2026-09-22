@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "建設",
+    "CaseNumber": "10",
+    "KidTitle": "市府提案-墊付款案",
+    "ComeDate": "2026\/09\/21",
+    "ComeNumber": "府文秘字第1151426958號",
+    "OrgTitle": "臺南市政府文化局",
+    "OrgTitle2": "",
+    "CaseCause": "文化部核定補助本市辦理115年「博物館及地方文化館深耕計畫」，總經費4,338萬8,000元，因資本門經費未及納入115年度預算，擬先行墊付1,077萬7,000元（中央補助款987萬7,000元、市配合款90萬元），謹請貴會同意先行墊付，俟116年度追加減預算時辦理轉正，敬請審議。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[]},{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"依據文化部115年8月25日文源字第1153022162號函、115年7月2日文源字第1153017447號函及115年2月11日文源字第1153004231號函辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案符合「各機關單位預算執行要點」第44點第4及第6款規定。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"本案相關說明：(一)本案經三次核定，總經費4,338萬8,000元（中央補助款3,507萬元、市配合款831萬8,000元）前開經費已有3,527萬2,000元納入115年度預算（經常門2,723萬9,000元、資本門803萬3,000元）。(二) 經常門核定金額為2,457萬8,000元，惟資本門核定金額為1,881萬元，尚不足1,077萬7,000元（中央補助款987萬7,000元、市配合款90萬元），未及納入115年度總預算，為爭取時效，謹請貴會同意先行墊付，俟116年度追加減預算時辦理轉正。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"本案業經本府115年9月15日第766次市政會議審議通過。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"提送墊付案緊急性理由：本計畫補助本市辦理葉石濤文學紀念館教育推廣及原住民文物館、楊逵文學紀念館軟硬體設施改善優化等重要計畫，須於12月前辦理完畢以利結案，爰於本會期提墊付案申請。\",\"children\":[]}]},{\"tag\":\"ol\",\"children\":[]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟116年度追加減預算時辦理轉正。\"}]",
+    "CheckDate": "",
+    "CheckDesc": "",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=27c3e098-f59e-47ab-ab10-b0968dfed0fa",
+            "FileName": "市提10附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f1551b5b-8550-443a-b06b-62356d899ea3&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2026\/09\/08",
     "SendNumber": "南議工務字第 1150008261號",
-    "DoDesc": "",
+    "DoDesc": "本府就「建請臺南市政府水利局積極辦理新化區東榮里中興路623 號前排水溝整修維護工程，以改善地方排水及通行安全案」，敬答覆如下：\r\n新化區公所已於115 年1 月28 日提送提案單，本府水利局業於115 年2月5 日會同公所及相關單位辦理現地會勘，了解排水現況與問題情形，本案預計辦理新設單孔箱涵22m、既有矩型溝修繕11m 及塊狀護欄改善12塊，工程總經費約163 萬元，本府水利局錄案辦理，後續將視市府整體財源狀況辦理。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=3a8c1a98-6df6-426a-9f70-20f037cdbad7",
+            "FileName": "4-8定工務議提28市府回文附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=5953e118-dba9-4422-a999-dea12388b331&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2026\/09\/21",
+    "ExecuteReNumber": "府水養字第 1151391176號",
+    "ExecuteReMemo": "本府就「建請臺南市政府水利局積極辦理新化區東榮里中興路623 號前排水溝整修維護工程，以改善地方排水及通行安全案」，敬答覆如下：\r\n新化區公所已於115 年1 月28 日提送提案單，本府水利局業於115 年2月5 日會同公所及相關單位辦理現地會勘，了解排水現況與問題情形，本案預計辦理新設單孔箱涵22m、既有矩型溝修繕11m 及塊狀護欄改善12塊，工程總經費約163 萬元，本府水利局錄案辦理，後續將視市府整體財源狀況辦理。",
     "ErrorMessage": ""
 }
