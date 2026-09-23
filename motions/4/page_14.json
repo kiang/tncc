@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第6次 定期會",
         "PTypTitle": "財經",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "39",
+        "OrgTitle": "余柷青",
+        "CaseCause": "建請市府積極辦理新市區東大社段1507地號水溝道路改善工程。",
+        "ProNo": "1a035c54-08d6-40ec-a2ad-3652b6aae9cd",
+        "PagesAll": "75"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "40",
+        "OrgTitle": "陳秋宏",
+        "CaseCause": "下營區大屯農地重劃區大屯寮段1663-2地號道路龜裂破損，建請改善。",
+        "ProNo": "4a31c355-f1b5-4587-a5ac-1e2d21b00edc",
+        "PagesAll": "75"
+    },
+    {
+        "DoneDate": "2025\/12\/04",
+        "GradeTime": "第4屆 第6次 定期會",
+        "PTypTitle": "財經",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "41",
         "OrgTitle": "蔡蘇秋金",
         "CaseCause": "北門區溪底寮段三寮灣小段1030道路損壞，急需辦理改善。 ",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "邱莉莉、林志展、周嘉韋、蔡筱薇、蔡蘇秋金、黃麗招、沈震東、余柷青、謝舒凡、沈家鳳、鄭佳欣、黄肇輝、林依婷、李啓維、陳秋宏、郭鴻儀、朱正軒、王宣貿、邱昭勝、李宗霖、楊中成、蔡麗青",
         "CaseCause": "建請提高托育補助金額。",
         "ProNo": "d4df7133-465e-40b5-9267-9ba2d57e8c88",
-        "PagesAll": "75"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "40",
-        "OrgTitle": "沈震東",
-        "CaseCause": "建請社會局設置自閉症相關早療服務機構，以利臺南市成為友善城市。",
-        "ProNo": "7478298d-192a-46a3-a2bd-ce8beb3b7813",
-        "PagesAll": "75"
-    },
-    {
-        "DoneDate": "2025\/12\/04",
-        "GradeTime": "第4屆 第6次 定期會",
-        "PTypTitle": "環保衛生",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "41",
-        "OrgTitle": "鄭佳欣",
-        "CaseCause": "音樂療法對早療兒童的語言、認知、情緒及社交發展有明顯幫助，但臺南市現行早療補助僅涵蓋醫療或復健費用，音樂療法須自費，增加家庭負擔。為落實多元早療與平等照顧，建請市府認定音樂療法療育價值後，納入早期療育補助。",
-        "ProNo": "ec4c03f2-3bb2-4b05-a304-9b7d01b84789",
         "PagesAll": "75"
     }
 ]

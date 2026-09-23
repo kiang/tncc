@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "法規",
         "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "43",
+        "OrgTitle": "臺南市政府文化局",
+        "CaseCause": "修正「臺南市總爺藝文中心場地使用管理辦法」。",
+        "ProNo": "4e20bf85-fe4c-43c1-8e56-e7f9fa68e2ed",
+        "PagesAll": "75"
+    },
+    {
+        "DoneDate": "2026\/06\/24",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
+        "CaseNumber": "44",
+        "OrgTitle": "臺南市政府經濟發展局",
+        "CaseCause": "廢止「臺南市獎勵會議展覽活動實施辦法」。",
+        "ProNo": "8090c496-1343-4ed9-a7ab-3c62351d8626",
+        "PagesAll": "75"
+    },
+    {
+        "DoneDate": "2026\/06\/24",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "法規",
+        "KidTitle": "查照\/備查案-法規查照案",
         "CaseNumber": "45",
         "OrgTitle": "臺南市政府研究發展考核委員會",
         "CaseCause": "修正「臺南市政府智慧發展中心編制表」。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "余柷青",
         "CaseCause": "建請市府積極辦理「新化農地重劃區E24農路改善工程(第二期)(北勢里)」案。",
         "ProNo": "d6621138-b6bd-4833-8747-64699b6bbbf7",
-        "PagesAll": "75"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "4",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府積極辦理「新化區農地重劃區E29農路既有路面及擋土牆改善工程(北勢里)」案。",
-        "ProNo": "9fb517a8-6a17-420b-9536-bb36a7acb65f",
-        "PagesAll": "75"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "財經",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "5",
-        "OrgTitle": "余柷青",
-        "CaseCause": "建請市府積極辦理「新市區大社農地重劃區東大社段98號(南北六路)農路改善工程」案。",
-        "ProNo": "a64f00fe-9631-48a0-8ddf-705dfa7ff12e",
         "PagesAll": "75"
     }
 ]
