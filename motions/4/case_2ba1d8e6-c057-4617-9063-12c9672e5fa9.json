@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "1",
+    "KidTitle": "查照\/備查案-一般備查案",
+    "ComeDate": "2026\/06\/16",
+    "ComeNumber": "府主基字第1150909539號",
+    "OrgTitle": "臺南市政府交通局",
+    "OrgTitle2": "",
+    "CaseCause": "檢送本府115年1月至115年6月作業基金補辦預算或先行辦理數額表1份，請備查。",
+    "Content": "",
+    "Method": "",
+    "CheckDate": "2026\/10\/01",
+    "CheckDesc": "同意備查。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=984fbe29-1fb2-4294-b512-1846333ec417",
+            "FileName": "保安備查1-115年1月至115年6月作業基金補辦預算或先行辦理數額表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2ba1d8e6-c057-4617-9063-12c9672e5fa9&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

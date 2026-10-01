@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第8次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市議會本會",
+        "CaseCause": "檢送本會115年第2季辦理政策及業務宣導之執行情形表，提請備查。",
+        "ProNo": "082fdfb1-dead-4fd5-a895-3bf98c6dc7ab",
+        "PagesAll": "75"
+    },
+    {
         "DoneDate": "2026\/08\/31",
         "GradeTime": "第4屆 第8次 定期會",
         "PTypTitle": "民政教育",
@@ -858,6 +869,17 @@
         "PagesAll": "75"
     },
     {
+        "DoneDate": "",
+        "GradeTime": "第4屆 第8次 定期會",
+        "PTypTitle": "保安",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "1",
+        "OrgTitle": "臺南市政府交通局",
+        "CaseCause": "檢送本府115年1月至115年6月作業基金補辦預算或先行辦理數額表1份，請備查。",
+        "ProNo": "2ba1d8e6-c057-4617-9063-12c9672e5fa9",
+        "PagesAll": "75"
+    },
+    {
         "DoneDate": "2026\/08\/31",
         "GradeTime": "第4屆 第8次 定期會",
         "PTypTitle": "保安",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "陳怡珍",
         "CaseCause": "有關臺南市北區文成五路176巷柏油路面破損不堪，影響行車安全乙案，建請臺南市政府應儘速進行鋪面改善工程。",
         "ProNo": "f404e0b5-6960-4b9d-acc6-eb8c9c5f6cd2",
-        "PagesAll": "75"
-    },
-    {
-        "DoneDate": "2026\/08\/31",
-        "GradeTime": "第4屆 第8次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "3",
-        "OrgTitle": "林美燕",
-        "CaseCause": "建請市府相關局處完整規劃南區新生2號公園工程。",
-        "ProNo": "28450ae5-0edd-4f1f-a210-0c4a4d87d6e2",
-        "PagesAll": "75"
-    },
-    {
-        "DoneDate": "2026\/08\/31",
-        "GradeTime": "第4屆 第8次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "4",
-        "OrgTitle": "林美燕",
-        "CaseCause": "建請市府妥適處理二二八公園整建工程之土石泥污等問題。",
-        "ProNo": "a6560215-2eac-44ce-82a1-75102b4dbb40",
         "PagesAll": "75"
     }
 ]

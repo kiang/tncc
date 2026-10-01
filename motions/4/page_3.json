@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "民政教育",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "1",
+        "OrgTitle": "蔡筱薇、沈家鳳",
+        "CaseCause": "建請秘書處針對「土方之亂」先行研擬相關行政程序，避免工期延宕外也衍生出訴訟的社會成本。",
+        "ProNo": "0bedd76c-a047-42bb-a9c1-ecc4d2640dee",
+        "PagesAll": "75"
+    },
+    {
+        "DoneDate": "2026\/06\/24",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "2",
+        "OrgTitle": "李宗霖、沈家鳳",
+        "CaseCause": "建請市府研議公務員出走潮之因應對策，以具體誘因留下基層優秀人才。",
+        "ProNo": "8a90c3f7-528c-4929-ba46-6797a5c82be0",
+        "PagesAll": "75"
+    },
+    {
+        "DoneDate": "2026\/06\/24",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "3",
         "OrgTitle": "林志展",
         "CaseCause": "針對公務體系面臨人才招募不易、離職率攀升及世代價值觀落差等問題，建請市政府全面檢討人力資源管理策略，優化職場溝通文化與留才機制，以提升行政效能。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "林冠維、周奕齊",
         "CaseCause": "請民政局研議配合都市計畫整體開發期程，於永康區停12用地興建立體停車場時，申請多目標使用，將中興里納入規劃中。",
         "ProNo": "5bd592ba-a2b9-4e1f-8281-95a351292bdc",
-        "PagesAll": "75"
-    },
-    {
-        "DoneDate": "2026\/06\/24",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "101",
-        "OrgTitle": "林冠維",
-        "CaseCause": "請民政局研議配合烏竹自辦市地重劃期程，於公兒1-2用地多目標使用規劃烏竹里活動中心。",
-        "ProNo": "0eddf944-13a1-47b6-ab51-e603dbfd5ef2",
-        "PagesAll": "75"
-    },
-    {
-        "DoneDate": "2026\/06\/24",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "102",
-        "OrgTitle": "林冠維、周奕齊",
-        "CaseCause": "請民政局研議配合都市計畫整體開發期程於永康區公兒12-1用地申請多目標使用，將北灣里納入規劃中。",
-        "ProNo": "f10a7908-1819-4b06-a1de-9f955be294ea",
         "PagesAll": "75"
     }
 ]

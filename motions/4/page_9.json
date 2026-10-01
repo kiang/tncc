@@ -4,6 +4,28 @@
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "120",
+        "OrgTitle": "蔡宗豪",
+        "CaseCause": "本市北區林森路(東豐路至小東路段)強降雨排水不及，公車停靠路段多處積水，造成搭公車民眾需涉水搭乘。",
+        "ProNo": "9588f4e0-7fd5-43f2-9279-631f41e19b50",
+        "PagesAll": "75"
+    },
+    {
+        "DoneDate": "2026\/06\/24",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "121",
+        "OrgTitle": "蔡宗豪",
+        "CaseCause": "建請市府將北區立人公園打造為特色休憩公園，成為民眾休閒散步的新地標。",
+        "ProNo": "feef7f23-aae4-441a-a70d-2d2263f71026",
+        "PagesAll": "75"
+    },
+    {
+        "DoneDate": "2026\/06\/24",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "122",
         "OrgTitle": "朱正軒、林依婷、蔡筱薇、沈家鳳、李宗霖",
         "CaseCause": "建請市府因應極端高溫氣候，於重要路口及人行空間增設遮陽設施，提升步行環境舒適性與友善度。",
@@ -1075,28 +1097,6 @@
         "OrgTitle": "臺南市政府衛生局",
         "CaseCause": "修正「臺南市大量傷病患救護辦法」第四條、第七條、第九條。",
         "ProNo": "1d6db2fa-6c8a-41fb-8818-ebfa420cb783",
-        "PagesAll": "75"
-    },
-    {
-        "DoneDate": "2026\/06\/24",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規查照案",
-        "CaseNumber": "41",
-        "OrgTitle": "臺南市政府工務局",
-        "CaseCause": "修正「臺南市道路挖掘施工維護管理辦法」第一條之一。",
-        "ProNo": "cf1c7eaa-b2fb-49b4-9d1e-dde8844ef8c2",
-        "PagesAll": "75"
-    },
-    {
-        "DoneDate": "2026\/06\/24",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "法規",
-        "KidTitle": "查照\/備查案-法規查照案",
-        "CaseNumber": "42",
-        "OrgTitle": "臺南市政府水利局",
-        "CaseCause": "修正「臺南市水井及水利設施徵收補償費查估標準」第一條之一。",
-        "ProNo": "b4905d96-d0ea-4619-9cdd-9e598d7728cd",
         "PagesAll": "75"
     }
 ]
