@@ -10,8 +10,8 @@
     "CaseCause": "擬具「臺南市火災預防自治條例」部分條文修正草案，敬請審議。",
     "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"配合中央法令，各類場所消防安全設備設置標準第12條，各類場所按用途分類修正為第1款至第6款，又消防法施行細則第13條於113年1月22日修正前，係規範消防法第13條所定「一定規模以上公眾使用之建築物」之範圍，今配合消防法第13條明定一定規模以上建築物之範圍，授權由中央主管機關公告，消防法施行細則第13條規定併予刪除，故本自治條例第3條、第6條相關文字有配合檢討修正必要。另場所管理權人辦理消防安全設備定期檢修、申報之義務及違反之罰則，以及各類場所之申報期限與頻率，於消防法第9條、第38條、消防安全設備檢修及申報辦法第5條及附表一已定有明文，本自治條例第9條、第12條及第9條附表已無另行規範之必要，爰擬具本自治條例部分條文修正草案。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本案業經本府115年8月11日第761次市政會議審議通過。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"檢附「臺南市火災預防自治條例」部分條文修正草案(含總說明、條文對照表、修正條文)及參考資料各1份。\",\"children\":[]}]}]",
     "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
-    "CheckDate": "",
-    "CheckDesc": "",
+    "CheckDate": "2026\/10\/02",
+    "CheckDesc": "第3、6條，照修正條文通過，現行條文第9、12條刪除。",
     "DoneDate": "",
     "DoneDesc": "",
     "SendDate": "",
@@ -31,7 +31,23 @@
     ],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=439a251a-f6a2-4650-a3bf-392cfb4e752f&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c87170af-9a67-4535-9572-9febe5b1d967",
+            "FileName": "4-8定審查意見報告書--法規巿提5-6號案.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f7bb59b1-4a86-4a11-bef1-0d73b45b42ac",
+            "FileName": "審查結果對照表--4-8定法規市提6-臺南市火災預防自治條例部分條文.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9eeec9de-4677-406e-8422-16e81eb9fb18",
+            "FileName": "審查結果對照表附表--4-8定法規市提6-臺南市火災預防自治條例部分條文.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "2026\/08\/25",
     "ReDesc": "",
