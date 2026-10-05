@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "32",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王家貞",
+    "OrgTitle2": "邱莉莉、吳通龍、林美燕、李中岑、Ingay Tali 穎艾達利、李偉智、吳禹寰、周奕齊、林冠維、蔡育輝、方一峰",
+    "CaseCause": "建請市府審慎評估東區東門路二段113號前行人穿越道旁，設有箱涵、號誌桿及一大型橘色告示牌等設施移至他處的可行性，避免嚴重影響到行人穿越道路的視野安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"東門路二段113號前之行人穿越道為閃燈路口，路側有箱涵、號誌桿及一大型橘色告示牌，導致行人在該處等候過馬路時視線受阻，而車輛行經該處也有不易察覺路側有等待穿越馬路的行人，存有強烈車禍危機感，且容易造成車輛不禮讓行人的因而違規受罰的情事。\"},{\"tag\":\"p\",\"content\":\"建請市府審慎評估將告示牌等設施移至他處的可行性，改善行人過馬路時的視野，保障行進路線的安全（現場圖詳見附件一）。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/10\/01",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=98b4e8ae-945b-44b4-9a8c-d23fe80bc1d0",
+            "FileName": "王家貞議員-改善東門路二段113號前穿越人行道的視野.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=f8fef22c-1653-4a3c-973f-9240373f223a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

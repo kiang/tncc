@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "66",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "王宣貿",
+    "OrgTitle2": "周麗津、沈震東、Ingay Tali 穎艾達利",
+    "CaseCause": "建請市府針對新營長榮陸橋下橋端銜接台1線之T字路口，檢討機車左轉動線，於左轉專用道增設機車左轉停等區，並配合號誌時相評估試辦機車直接左轉台1線，以提升路口通行便利及安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"長榮陸橋下橋後，欲左轉進入台1線之機車，其左轉動線仍有改善空間。考量該處已有左轉專用車道，可進一步評估機車直接左轉的可行性。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建議先於長榮陸橋下橋端左轉專用道前端，增設「機車左轉停等區」，提供機車明確、安全的停等位置，避免機車與汽車於左轉車道內任意交織。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"於進入路口前適當位置增設機車導引標線或相關指示，使欲左轉機車可提早進入左轉車道，降低接近停止線後臨時變換車道的情形。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"配合現場號誌時相及交通量，評估於左轉時相放行時，開放機車與汽車共同直接左轉台1線。\",\"children\":[]},{\"order\":\"五、\",\"content\":\"初期可採試辦方式辦理，並保留現有兩段式左轉選擇，透過一段期間觀察機車左轉秩序、車流運作及事故情形，再評估後續正式實施。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2026\/10\/01",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c5fcc376-82da-42b5-9d81-4b2ab1158b83",
+            "FileName": "王宣貿議員-長榮陸橋下橋端銜接台1線之T字路口.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=bcbb1818-bbf5-4f09-9cf5-ee122808f563&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

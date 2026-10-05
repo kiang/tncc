@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "保安",
+    "CaseNumber": "6",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李宗霖",
+    "OrgTitle2": "周嘉韋、黄肇輝、陳秋宏、陳皇宇、李宗翰、黃麗招、郭鴻儀",
+    "CaseCause": "建請市府全面盤點並校正「內政部警政署防空避難專區」之本市圖資與資料庫，針對轄區歸屬錯誤、公司名稱變更等問題進行修正，以保障戰時與災害時全民疏散避難安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"據民眾查詢內政部警政署防空避難專區（adr.npa.gov.tw）發現，本市防空避難設施資料庫存在多處明顯錯誤與資料混亂情形，具體問題如下：\",\"children\":[{\"order\":\"(一)\",\"content\":\"地點與轄區歸屬錯誤：附件圖片顯示麻豆交流道與麻豆新樓醫院周邊場域，點開資訊卻顯示為「官田區二鎮里」，地理位置與行政區劃完全不符，將嚴重誤導避難民眾。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"企業名稱過期未更新：如「統一工業股份有限公司」早在2011年即更名為「台灣傑士電池工業股份有限公司」，警政系統資料庫卻仍沿用舊名，易造成民眾避難尋找時之困惑。\",\"children\":[]}]},{\"order\":\"二、\",\"content\":\"防空避難圖資為重要民防與防災基礎資訊，資料若有誤，於緊急狀態時將嚴重干擾民眾就近避難判斷及警政疏散引導效率。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"私人企業廠房與舊建物名稱異動頻繁，若未定期清查，恐致避難引導資訊流於形式。\",\"children\":[]},{\"order\":\"四、\",\"content\":\"建請市府全面體檢本市列管之防空疏散避難點，定期比對商業登記與地籍資料，建立動態更新機制，確保圖資之精準度。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2026\/10\/01",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "",
+    "DoneDesc": "",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=d537cba3-63fa-4d76-bec6-d93b8c5af09f",
+            "FileName": "李宗霖議員-防空避難圖資錯誤截圖.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=194f191e-a877-4b70-820b-2500a36634a1&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
