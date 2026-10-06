@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "122",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "黃麗招、鄭佳欣、蔡蘇秋金、施余興望 Tjakumay Tagaw、余柷青",
+    "CaseCause": "近期臺南市大豪雨造成永康區多處發生土石流及坡地崩塌，建請市府相關單位儘速辦理災害搶修、坡地安全評估及水土保持改善工程，以維護居民生命財產安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"近期受大豪雨影響，永康區部分地區因雨勢集中及排水不及，造成土石流、土砂沖刷及坡地災情，已對周邊居民通行及居住安全造成影響。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"目前發現較為明顯之災害及需改善地點如下：(附圖)\",\"children\":[{\"order\":\"(一)\",\"content\":\"永康區復華二街33號附近，因豪雨造成土石沖刷及土石流情形，恐持續影響周邊住户安全。\",\"children\":[]},{\"order\":\"(二)\",\"content\":\"復華三街90巷口，豪雨後有土石及泥流沖刷情形，應儘速清理並檢視排水及邊坡設施。\",\"children\":[]},{\"order\":\"(三)\",\"content\":\"復華六街117號(復國一路389巷)附近，亦受豪雨影響發生土石沖刷及相關災情，與復華三街90巷口相同急需改善。\",\"children\":[]},{\"order\":\"(四)\",\"content\":\"復國路16號後方坡地，豪雨後亦有坡地受沖刷造成土石流情形，涉及住戶及周邊公共安全(因臨大灣交流道為重要之交通要道)，亟需進行專業邊坡穩定評估。\",\"children\":[]}]},{\"order\":\"三、\",\"content\":\"上述地點如未及時處理，若再次遭遇短延時強降雨或連續豪雨，恐造成土石持續滑落、道路阻斷、排水系統堵塞，甚至危及附近居民生命財產安全。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/10\/01",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2026\/10\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fe4db388-b4bd-41cd-aee5-c72f031524b6",
+            "FileName": "4-8定工務議提158附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8ca32fd1-36c7-4bc2-b7af-1596f05d5745&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

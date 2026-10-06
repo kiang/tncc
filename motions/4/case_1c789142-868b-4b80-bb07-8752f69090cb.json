@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "163",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "李文俊、楊中成、黃麗招、沈家鳳、施余興望 Tjakumay Tagaw",
+    "CaseCause": "建請市府辦理「永康區復華二街與復華二街3巷口至復華二街3巷12號」路面翻修工程，以改善道路老舊破損情形，維護用路人通行安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"永康區復華二街與復華二街3巷口至復華二街3巷12號路段，因道路使用時間較久，現況路面已有老舊、龜裂及不平整等情形(如圖)，影響道路整體品質。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"該路段為周邊居民日常進出及車輛通行的重要道路，路面不平整，除造成機車及自行車行駛時容易產生顛簸外，遇雨天亦可能因路面破損及積水造成通行安全疑慮。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/10\/01",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2026\/10\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=8db573a3-679f-4feb-8166-8fd1085ab53d",
+            "FileName": "4-8定工務議提163附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=1c789142-868b-4b80-bb07-8752f69090cb&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

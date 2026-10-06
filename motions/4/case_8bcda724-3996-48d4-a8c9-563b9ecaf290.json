@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "94",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "施余興望 Tjakumay Tagaw、周嘉韋、李文俊、沈家鳳、陳秋宏",
+    "CaseCause": "建請改善永康區成功里中華路134巷5弄路面積水及人孔冒水問題，增設路面集水孔及防倒流逆止閥，並將雨水導排至鄰近水利溝，以有效改善積水及雨水倒灌情形。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"永康區成功里中華路134巷5弄路面積水，該處人孔易冒水原因係因地勢低窪，因強降雨導致雨水下水道或周邊逕流水倒灌滲入地下管線孔內，惟因該處地理環境屬低窪水路匯集點，地下水與地表逕流水會持續回補，單純以移動式抽水機抽除無法有效根絕溢水現象。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"建議施作路面集水孔與防倒流逆止閥等，將路面積水排至旁邊水利溝。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/10\/01",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2026\/10\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=80703c54-79bd-4f1d-b803-4493caf8fe59",
+            "FileName": "4-8定工務議提94號附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=8bcda724-3996-48d4-a8c9-563b9ecaf290&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

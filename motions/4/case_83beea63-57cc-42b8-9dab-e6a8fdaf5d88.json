@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "115",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "蔡育輝、陳昆和",
+    "OrgTitle2": "邱莉莉、曾之婕、許至椿、周奕齊、李鎮國、沈家鳳、周麗津、陳秋萍、方一峰、鄭佳欣、陳皇宇、曾培雅、李中岑、林冠維、余柷青",
+    "CaseCause": "建請市政府爭取經費於新營區中正路386巷鹽水排水上(長榮路560地號一線)加蓋以利該巷道能雙向通行汽車，紓緩長榮路一段車流。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"新營區中正路386巷道緊鄰鹽水排水，行經該處之汽機車常險象環生，當兩部汽車相會車時非常困難，實有拓寬該巷道之必要。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"本市甚多區域的大排加蓋後，對地方交通疏導助益甚大，鹽水大排寬廣若能加蓋供汽機車通行，對地區交通通行將有甚大的幫助，祈請市府能重視新營地區發展，全力促成鹽水大排旨案範圍進行加蓋，拓寬巷道寬幅以周密周邊交通路網。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/10\/01",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2026\/10\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=5d568958-b181-4baa-8360-2b2596f0ddfe",
+            "FileName": "4-8定工務議提151附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=83beea63-57cc-42b8-9dab-e6a8fdaf5d88&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

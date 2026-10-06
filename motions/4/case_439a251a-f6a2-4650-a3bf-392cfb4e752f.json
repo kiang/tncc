@@ -12,8 +12,8 @@
     "Method": "[{\"tag\":\"p\",\"content\":\"敬請貴會審議。\"}]",
     "CheckDate": "2026\/10\/02",
     "CheckDesc": "第3、6條，照修正條文通過，現行條文第9、12條刪除。",
-    "DoneDate": "",
-    "DoneDesc": "",
+    "DoneDate": "2026\/10\/06",
+    "DoneDesc": "照審查意見通過。",
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
@@ -33,11 +33,6 @@
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=439a251a-f6a2-4650-a3bf-392cfb4e752f&type=pdf",
     "CheckAttList": [
         {
-            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=c87170af-9a67-4535-9572-9febe5b1d967",
-            "FileName": "4-8定審查意見報告書--法規巿提5-6號案.pdf",
-            "ErrorMessage": ""
-        },
-        {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=f7bb59b1-4a86-4a11-bef1-0d73b45b42ac",
             "FileName": "審查結果對照表--4-8定法規市提6-臺南市火災預防自治條例部分條文.pdf",
             "ErrorMessage": ""
@@ -50,13 +45,13 @@
     ],
     "DoneAttList": [],
     "ReDate": "2026\/08\/25",
-    "ReDesc": "",
+    "ReDesc": "照審查意見通過。",
     "FirstDate": "2026\/08\/31",
     "FirstDesc": "交付法規委員會審查。",
-    "SecondDate": "",
-    "SecondDesc": "",
-    "ThirdDate": "",
-    "ThirdDesc": "",
+    "SecondDate": "2026\/10\/06",
+    "SecondDesc": "照審查意見通過。",
+    "ThirdDate": "2026\/10\/06",
+    "ThirdDesc": "照第二讀會決議通過。",
     "ExecuteReDate": "",
     "ExecuteReNumber": "",
     "ExecuteReMemo": "",

@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "工務",
+    "CaseNumber": "129",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李鎮國",
+    "OrgTitle2": "施余興望 Tjakumay Tagaw、周嘉韋、李文俊、沈家鳳、陳秋宏",
+    "CaseCause": "建請市府改善永康區北端治水，復興橋段兩側河岸防洪及排水設施，針對豪雨期間河岸潰堤及大水淹沒周邊地區問題進行整體治理，以保障居民生命財產安全。",
+    "Content": "[{\"tag\":\"p\",\"content\":\"永康區北端治水復興橋段兩側區域，於颱風或短延時強降雨期間因雨量大量集中，河道水位迅速上升，現有河岸及相關防洪設施恐無法有效承受大量洪水，部分路段甚至有潰堤情形，造成洪水溢淹周邊區域，影響鄰近住戶、農地、公共設施及交通通行，若遇極端降雨事件，恐進一步擴大災情，對居民生命財產安全造成威脅。目前氣候變遷導致短時間強降雨及極端降雨事件發生機率增加，因此有必要重新檢視復興橋段兩側河岸之防洪能力及整體排水系統。\"}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/10\/01",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2026\/10\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0a11c2c7-ee09-44f4-a8fe-aaa275c08935",
+            "FileName": "4-8定工務議提165附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=ee17a4b5-a232-4982-8d45-f85ea06a8bfa&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

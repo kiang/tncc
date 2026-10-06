@@ -12,8 +12,8 @@
     "Method": "[{\"tag\":\"p\",\"content\":\"請貴會同意先行辦理墊付，俟116年度追加減預算時辦理轉正。\"},{\"tag\":\"p\",\"content\":\"\"}]",
     "CheckDate": "2026\/09\/24",
     "CheckDesc": "聯席審查意見：同意墊付。",
-    "DoneDate": "",
-    "DoneDesc": "",
+    "DoneDate": "2026\/10\/06",
+    "DoneDesc": "照聯席審查意見同意墊付。",
     "SendDate": "",
     "SendNumber": "",
     "DoDesc": "",
@@ -27,6 +27,21 @@
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0661a44a-b404-405b-9b1e-90177e3ea57d",
             "FileName": "核定函附件-各縣市衛生局補助比例表.pdf",
             "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=badf5c7f-ed85-479a-88b8-e939fbb49164",
+            "FileName": "臺南市政府衛生局115年9月7日南市衛食藥字第1150117580號函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=ee9f621d-e78a-49d6-9333-2f55a02d4e57",
+            "FileName": "衛生福利部食品藥物管理署115年8月26日FDA企字第1151201979號函.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=283ec2ac-4a56-4fd9-bf7f-49f813d86a15",
+            "FileName": "附件-116年度「臺南市政府衛生局度推動食品廣告之業者自律、民眾識能及違規管理計畫書」.pdf",
+            "ErrorMessage": ""
         }
     ],
     "RAttList": [],
@@ -34,7 +49,7 @@
     "CheckAttList": [],
     "DoneAttList": [],
     "ReDate": "2026\/08\/25",
-    "ReDesc": "",
+    "ReDesc": "照聯席審查意見同意墊付。",
     "FirstDate": "2026\/08\/31",
     "FirstDesc": "交付聯席審查。",
     "SecondDate": "",
