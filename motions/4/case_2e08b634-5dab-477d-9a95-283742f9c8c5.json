@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "環保衛生",
+    "CaseNumber": "8",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "鄭佳欣、余柷青",
+    "OrgTitle2": "邱莉莉、林志展、陳怡珍、沈家鳳、陳秋宏、沈震東、林冠維、杜素吟、Ingay Tali 穎艾達利、林依婷、李啓維、謝舒凡、王宣貿、蔡育輝、曾之婕",
+    "CaseCause": "建請市府因應高鐵特定區、沙崙地區發展及年輕家庭托育需求，擴充新豐區定點臨時托育服務，補足週一及夜間服務時段，完善地方育兒支持。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"近年高鐵特定區、沙崙地區持續發展，就業及居住人口逐步增加，也帶動年輕、雙薪家庭的托育需求。公共托育資源應跟上區域發展，讓年輕家庭不只願意搬進來，也能安心留下來。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"目前新豐區雖已有定點臨時托育服務，但現行服務仍有時間缺口，週一缺乏定點臨托服務，新豐四區也尚無夜間定點臨托據點。對於臨時加班、輪班、就醫、辦事或遇到突發狀況的家長而言，現有服務時段仍不夠彈性。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"建請市府掌握新豐區臨托申請、媒合及實際使用需求，善用既有親子悠遊館等空間，優先於歸仁區增加週一服務並試辦夜間定點臨時托育，再依實際需求逐步擴充至新豐其他地區，補足現有服務斷點，讓有臨時托育需求的家庭能真正「找得到、用得到」。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由。\"}]",
+    "CheckDate": "2026\/10\/01",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2026\/10\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=1a568cdc-fd22-421c-9ebe-5bd61b54ac72",
+            "FileName": "臺南市定點臨時托育服務一覽表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=2e08b634-5dab-477d-9a95-283742f9c8c5&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
