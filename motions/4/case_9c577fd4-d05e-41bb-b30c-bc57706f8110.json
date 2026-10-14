@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "33",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "曾之婕",
+    "OrgTitle2": "周麗津、鄭佳欣、吳禹寰、陳怡珍、李中岑、杜素吟、周奕齊、盧崑福、李偉智、林冠維",
+    "CaseCause": "建請對長榮路二段與懷恩街口，臨勝利國小幼兒園圍牆外通學步道，進行道路平整，以維學生行走之安全。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"頃接獲中西里長及學校陳情辦理。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"上述路段因學生通學經過之紅磚步道已殘破不堪，時常造成行人誤踏受傷，及對幼兒園師生有安全之虞。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"請儘速辦理會勘進行道路平整。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"請派員實地會勘處置。\"}]",
+    "CheckDate": "2026\/10\/01",
+    "CheckDesc": "照案通過。",
+    "DoneDate": "2026\/10\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=184442c7-cdd6-4b1a-a6d4-4e60c6f076e9",
+            "FileName": "議員提案單(勝利國小幼兒園牆外紅磚道)-示意圖.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=9c577fd4-d05e-41bb-b30c-bc57706f8110&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

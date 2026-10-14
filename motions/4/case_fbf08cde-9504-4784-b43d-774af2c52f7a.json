@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "25",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "李宗霖、周嘉韋",
+    "OrgTitle2": "陳秋宏、黃麗招、陳皇宇、李宗翰、郭鴻儀、黄肇輝",
+    "CaseCause": "建請市府儘速修繕本市體育公園軟式網球場，更新排水設施與紅土鋪面，以維護市民運動安全與權益。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"本市體育公園軟式網球場（附件一所指基地）為市民重要運動場所，惟現場勘查顯示多處硬體維護不良，存在顯著安全隱患。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"現況亟待改善之處（詳附件二照片）：場內標線模糊、紅土層流失且厚度不一，導致地面凹凸坑窪；周邊更見青苔雜草叢生、水泥塊裸露與濕黏泥地，顯見排水系統已阻塞失能。\",\"children\":[]},{\"order\":\"三、\",\"content\":\"建請市府儘速安排現勘並編列經費，儘速啟動修繕工程，以提供市民安全、標準且舒適的運動環境。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2026\/10\/01",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2026\/10\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=0964597d-5242-4402-bb5e-ca471f3904d0",
+            "FileName": "附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fbf08cde-9504-4784-b43d-774af2c52f7a&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}

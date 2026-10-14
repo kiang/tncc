@@ -1,0 +1,43 @@
+{
+    "GradeTime": "第4屆 第8次 定期會",
+    "PTypTitle": "民政教育",
+    "CaseNumber": "10",
+    "KidTitle": "議員提案-一般提案",
+    "ComeDate": "",
+    "ComeNumber": "",
+    "OrgTitle": "林美燕",
+    "OrgTitle2": "邱莉莉、方一峰、許至椿、余柷青、曾培雅",
+    "CaseCause": "請重新規劃南區運動熱區休閒站之使用空間。",
+    "Content": "[{\"tag\":\"ol\",\"children\":[{\"order\":\"一、\",\"content\":\"如附件照片所示，該處所之使用空間狹隘，運動設施及座椅擺放凌亂，且動線規劃不佳，影響市民使用該運動設施之體驗，且容易拐到而跌倒受傷。\",\"children\":[]},{\"order\":\"二、\",\"content\":\"請妥適規劃上述空間之器材擺設與動線安排，提供使用者安全舒適之運動場所。\",\"children\":[]}]}]",
+    "Method": "[{\"tag\":\"p\",\"content\":\"如案由及說明。\"}]",
+    "CheckDate": "2026\/10\/01",
+    "CheckDesc": "函送市府研辦。",
+    "DoneDate": "2026\/10\/06",
+    "DoneDesc": "照審查意見通過。",
+    "SendDate": "",
+    "SendNumber": "",
+    "DoDesc": "",
+    "AttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=248b0d6b-b6d3-4024-ae85-a35987aa4437",
+            "FileName": "4-8定民政教育議提102提案單-附件.pdf",
+            "ErrorMessage": ""
+        }
+    ],
+    "RAttList": [],
+    "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=e9de14b4-1106-48f6-ac5f-3b25570c9a01&type=pdf",
+    "CheckAttList": [],
+    "DoneAttList": [],
+    "ReDate": "",
+    "ReDesc": "照審查意見通過。",
+    "FirstDate": "",
+    "FirstDesc": "",
+    "SecondDate": "",
+    "SecondDesc": "",
+    "ThirdDate": "",
+    "ThirdDesc": "",
+    "ExecuteReDate": "",
+    "ExecuteReNumber": "",
+    "ExecuteReMemo": "",
+    "ErrorMessage": ""
+}
