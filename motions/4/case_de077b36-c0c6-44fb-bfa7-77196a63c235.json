@@ -32,7 +32,23 @@
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=de077b36-c0c6-44fb-bfa7-77196a63c235&type=pdf",
     "CheckAttList": [],
-    "DoneAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=b9505627-105a-4623-837f-79da5263ddda",
+            "FileName": "115-10-14 臺南市116年總預算-大會復議後決議.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=fc5d997a-c3a4-40f9-b254-2be56cc5fe5c",
+            "FileName": "115-10-14 臺南市116年總預算-大會決議.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7be76e96-5bab-46bd-b324-c5ec32d6c27c",
+            "FileName": "復議提案單.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "ReDate": "2026\/07\/20",
     "ReDesc": "一、經第4屆第8次定期會第26次會（115年10月14日）審議通過（內容如大會決議表）。\r\n二、於同次會（115年10月14日）經復議討論通過（如大會復議後決議）。",
     "FirstDate": "2026\/07\/29",

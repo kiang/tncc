@@ -14,8 +14,8 @@
     "CheckDesc": "照案通過。",
     "DoneDate": "2026\/10\/14",
     "DoneDesc": "一、修正通過。\r\n二、刪除第三條第二項但書。",
-    "SendDate": "",
-    "SendNumber": "",
+    "SendDate": "2026\/10\/19",
+    "SendNumber": "南議法規字第 1150010288號",
     "DoDesc": "",
     "AttList": [
         {
@@ -43,7 +43,13 @@
             "ErrorMessage": ""
         }
     ],
-    "DoneAttList": [],
+    "DoneAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=77e5f0d1-aac6-4e77-b17f-ec3bd75fabc8",
+            "FileName": "法規市提5大會決議對照表.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "ReDate": "2026\/08\/25",
     "ReDesc": "一、修正通過。\r\n二、刪除第三條第二項但書。",
     "FirstDate": "2026\/08\/31",
