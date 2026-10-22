@@ -14,13 +14,19 @@
     "CheckDesc": "函送市府研辦。",
     "DoneDate": "2026\/10\/06",
     "DoneDesc": "照審查意見通過。",
-    "SendDate": "",
-    "SendNumber": "",
-    "DoDesc": "",
+    "SendDate": "2026\/10\/13",
+    "SendNumber": "南議建設字第 1150009776號",
+    "DoDesc": "本府就「兩岸直飛復航在即，建請市府為台南機場爭取兩岸直飛航線」議員提案，敬答覆如下：\r\n一、本府持續積極推動臺南機場國際航線拓展，目前「臺南－熊本」及「臺南－沖繩」兩條國際航線自114年12月開航至115年9月整體搭乘率約達90%。另成功爭取越捷航空開闢「臺南－河內」航線，預定於115年10月25日首航。\r\n二、兩岸直飛航線之開闢，涉及交通部及相關中央單位、航空公司與機場間之跨機關協調，需綜合評估旅運需求、市場規模、鄰近機場競爭情形、機隊調度、航網布局，以及機場供水、加油、CIQS查驗量能及營運成本等多項因素。本府觀光旅遊局將持續向中央相關單位及航空公司保持密切聯繫，積極爭取兩岸直飛航及更多國際航線開闢，逐步拓展臺南機場國際航網，便利市民及國際旅客往來",
     "AttList": [],
     "RAttList": [],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=63fd69f4-e8e5-43ce-a834-e892822029a2&type=pdf",
-    "CheckAttList": [],
+    "CheckAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=644e87d8-cc13-4d9f-a2e4-999f3770cb6f",
+            "FileName": "議提8.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "DoneAttList": [],
     "ReDate": "",
     "ReDesc": "照審查意見通過。",
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2026\/10\/19",
+    "ExecuteReNumber": "府觀國字第 1151533584號",
+    "ExecuteReMemo": "本府就「兩岸直飛復航在即，建請市府為台南機場爭取兩岸直飛航線」議員提案，敬答覆如下：\r\n一、本府持續積極推動臺南機場國際航線拓展，目前「臺南－熊本」及「臺南－沖繩」兩條國際航線自114年12月開航至115年9月整體搭乘率約達90%。另成功爭取越捷航空開闢「臺南－河內」航線，預定於115年10月25日首航。\r\n二、兩岸直飛航線之開闢，涉及交通部及相關中央單位、航空公司與機場間之跨機關協調，需綜合評估旅運需求、市場規模、鄰近機場競爭情形、機隊調度、航網布局，以及機場供水、加油、CIQS查驗量能及營運成本等多項因素。本府觀光旅遊局將持續向中央相關單位及航空公司保持密切聯繫，積極爭取兩岸直飛航及更多國際航線開闢，逐步拓展臺南機場國際航網，便利市民及國際旅客往來",
     "ErrorMessage": ""
 }
