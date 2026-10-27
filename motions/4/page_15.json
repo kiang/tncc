@@ -3,6 +3,17 @@
         "DoneDate": "2026\/03\/20",
         "GradeTime": "第4屆 第11次 臨時會",
         "PTypTitle": "財經",
+        "KidTitle": "市府提案-一般提案",
+        "CaseNumber": "3",
+        "OrgTitle": "臺南市政府經濟發展局",
+        "CaseCause": "為辦理本府經管坐落本市歸仁區武東段276-1地號1筆非公用市有土地設定地上權，擬依土地法第25條規定完成處分程序，提請審議。",
+        "ProNo": "1cc8fb0e-e03a-45e6-859c-e9ccdd819c0f",
+        "PagesAll": "79"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "財經",
         "KidTitle": "市府提案-追加減預算",
         "CaseNumber": "2",
         "OrgTitle": "臺南市政府",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林依婷",
         "CaseCause": "建請市府於明和公園內增設涼亭，供民眾休憩遮陽避雨，讓公園使用體驗更上一層樓。",
         "ProNo": "200fa091-62d7-45a8-80c7-abf025d4e97b",
-        "PagesAll": "79"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "31",
-        "OrgTitle": "李宗霖、沈家鳳",
-        "CaseCause": "建請市府於道路刨鋪或整平工程完成後、正式標線施作前，採用臨時標記方式標示道路中心線、車道範圍及行穿線位置，以提升施工期間之交通安全。",
-        "ProNo": "c6576e85-4d25-4ce4-b238-96d3f6b7b985",
         "PagesAll": "79"
     }
 ]
