@@ -16,9 +16,15 @@
     "DoneDesc": "照審查意見通過。",
     "SendDate": "2026\/10\/14",
     "SendNumber": "南議財經字第 1150010116號",
-    "DoDesc": "",
+    "DoDesc": "本府就「建請在安南區肉品市場內舖設柏油路面，以維行車安全」案，敬答覆如下： \r\n一、 本府農業局回應及作為： \r\n(一) 關於場內路面坑洞問題，肉品市場已積極處置，並於115年8月19日完成場內道路修補與填平作業。 \r\n(二) 本次修補範圍涵蓋大門口、拍賣館、調配室及繫留場旁等主要通行路段之坑洞，整體修補改善面積約為300平方公尺。 \r\n二、 目前成果或進度： \r\n(一) 已於115年8月19日改善完畢。 \r\n(二) 肉品市場未來將持續加強巡檢，遇有坑洞即時派員修補，以確保人員及車輛通行安全。 \r\n三、 承蒙貴席對於農政業務之關切，本府至為感謝，尚請不吝賜教。",
     "AttList": [],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=21ee332a-6246-4d5a-86c7-b5598e46e5c9",
+            "FileName": "施工照片.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=fb765b5d-21f6-4af8-a4a6-facb3b4faf6c&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [],
@@ -30,8 +36,8 @@
     "SecondDesc": "",
     "ThirdDate": "",
     "ThirdDesc": "",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2026\/10\/27",
+    "ExecuteReNumber": "府農畜字第 1151577221號",
+    "ExecuteReMemo": "本府就「建請在安南區肉品市場內舖設柏油路面，以維行車安全」案，敬答覆如下： \r\n一、 本府農業局回應及作為： \r\n(一) 關於場內路面坑洞問題，肉品市場已積極處置，並於115年8月19日完成場內道路修補與填平作業。 \r\n(二) 本次修補範圍涵蓋大門口、拍賣館、調配室及繫留場旁等主要通行路段之坑洞，整體修補改善面積約為300平方公尺。 \r\n二、 目前成果或進度： \r\n(一) 已於115年8月19日改善完畢。 \r\n(二) 肉品市場未來將持續加強巡檢，遇有坑洞即時派員修補，以確保人員及車輛通行安全。 \r\n三、 承蒙貴席對於農政業務之關切，本府至為感謝，尚請不吝賜教。",
     "ErrorMessage": ""
 }
