@@ -16,7 +16,7 @@
     "DoneDesc": "一、經第4屆第8次定期會第26次會（115年10月14日）審議通過（內容如大會決議表）。\r\n二、於同次會（115年10月14日）經復議討論通過（如大會復議後決議）。",
     "SendDate": "2026\/10\/20",
     "SendNumber": "南議財經字第 1150010207號",
-    "DoDesc": "",
+    "DoDesc": "臺南市政府115年10月22日府民人字第1151582468號函覆詳附件1。",
     "AttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=53f1c9f5-6695-4fce-a223-809703a72dcf",
@@ -29,7 +29,13 @@
             "ErrorMessage": ""
         }
     ],
-    "RAttList": [],
+    "RAttList": [
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=7407f8bf-4275-45b7-b1a5-58cba5a61b1d",
+            "FileName": "1-民政局-基層公務人員3000元加班費.pdf",
+            "ErrorMessage": ""
+        }
+    ],
     "PdfDownloadUrl": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB015_GenerateProposal.ashx?prono=de077b36-c0c6-44fb-bfa7-77196a63c235&type=pdf",
     "CheckAttList": [],
     "DoneAttList": [
@@ -57,8 +63,8 @@
     "SecondDesc": "照聯席審查意見通過。",
     "ThirdDate": "2026\/10\/14",
     "ThirdDesc": "照二讀會意見通過。",
-    "ExecuteReDate": "",
-    "ExecuteReNumber": "",
-    "ExecuteReMemo": "",
+    "ExecuteReDate": "2026\/10\/22",
+    "ExecuteReNumber": "府民人字第 1151582468號",
+    "ExecuteReMemo": "臺南市政府115年10月22日府民人字第1151582468號函覆詳附件1。",
     "ErrorMessage": ""
 }
