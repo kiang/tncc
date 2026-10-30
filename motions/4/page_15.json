@@ -2,6 +2,17 @@
     {
         "DoneDate": "2026\/03\/20",
         "GradeTime": "第4屆 第11次 臨時會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "31",
+        "OrgTitle": "黄肇輝",
+        "CaseCause": "建請市府辦理永康區龍埔街175巷路面改善工程，以保障民眾通行之安全。",
+        "ProNo": "0520ae14-0337-459b-a541-b3931e2b80bd",
+        "PagesAll": "79"
+    },
+    {
+        "DoneDate": "2026\/03\/20",
+        "GradeTime": "第4屆 第11次 臨時會",
         "PTypTitle": "財經",
         "KidTitle": "市府提案-一般提案",
         "CaseNumber": "3",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "林依婷",
         "CaseCause": "建請市府於明和公園(正對新愛路)體健設施旁增種植栽，以達公園綠美化、提供民眾遮陽環境。",
         "ProNo": "1088725b-c719-48af-9a9a-85f8ab925b9d",
-        "PagesAll": "79"
-    },
-    {
-        "DoneDate": "2026\/03\/20",
-        "GradeTime": "第4屆 第11次 臨時會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "30",
-        "OrgTitle": "林依婷",
-        "CaseCause": "建請市府於明和公園內增設涼亭，供民眾休憩遮陽避雨，讓公園使用體驗更上一層樓。",
-        "ProNo": "200fa091-62d7-45a8-80c7-abf025d4e97b",
         "PagesAll": "79"
     }
 ]

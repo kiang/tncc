@@ -1,5 +1,16 @@
 [
     {
+        "DoneDate": "2026\/06\/24",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "民政教育",
+        "KidTitle": "查照\/備查案-一般備查案",
+        "CaseNumber": "4",
+        "OrgTitle": "臺南市議會本會",
+        "CaseCause": "檢送本會115年第1季辦理政策及業務宣導之執行情形表，提請備查。",
+        "ProNo": "e21132a1-c683-4827-a608-b83a0d00c6f5",
+        "PagesAll": "79"
+    },
+    {
         "DoneDate": "2026\/05\/27",
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "民政教育",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "李鎮國",
         "CaseCause": "建請市府規劃麻豆生命紀念園區增設植葬\/樹葬園區規劃案。",
         "ProNo": "229d79b2-d536-4e26-a3cd-5c13f8c01b45",
-        "PagesAll": "79"
-    },
-    {
-        "DoneDate": "2026\/06\/24",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "民政教育",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "96",
-        "OrgTitle": "鄭佳欣",
-        "CaseCause": "建請市府儘速辦理歸仁區七甲里内八甲段3823號用地評估及規劃，興建里活動中心，以完善基層公共設施。",
-        "ProNo": "93de03b5-9175-4cea-b351-ff8a9992a6f8",
         "PagesAll": "79"
     }
 ]
