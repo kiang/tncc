@@ -4,6 +4,17 @@
         "GradeTime": "第4屆 第7次 定期會",
         "PTypTitle": "工務",
         "KidTitle": "議員提案-一般提案",
+        "CaseNumber": "13",
+        "OrgTitle": "吳禹寰",
+        "CaseCause": "建請市府改善仁德區機場路路面，以維護交通安全及提升道路品質。",
+        "ProNo": "2e3cb146-e8e9-4578-ab85-e1b507b9d6cc",
+        "PagesAll": "79"
+    },
+    {
+        "DoneDate": "2026\/05\/27",
+        "GradeTime": "第4屆 第7次 定期會",
+        "PTypTitle": "工務",
+        "KidTitle": "議員提案-一般提案",
         "CaseNumber": "14",
         "OrgTitle": "鄭佳欣",
         "CaseCause": "建請市府儘速改善關廟區182縣道路面品質，以維護用路人行車安全。",
@@ -1086,17 +1097,6 @@
         "OrgTitle": "陳秋宏",
         "CaseCause": "建請改善麻豆區大埕里南55(大同街到新生北路)道路。",
         "ProNo": "62e8bdca-5c7c-41ac-91f9-546ff1316e1c",
-        "PagesAll": "79"
-    },
-    {
-        "DoneDate": "2026\/06\/24",
-        "GradeTime": "第4屆 第7次 定期會",
-        "PTypTitle": "工務",
-        "KidTitle": "議員提案-一般提案",
-        "CaseNumber": "113",
-        "OrgTitle": "陳秋宏",
-        "CaseCause": "建請改善麻豆區港尾里港尾仔、姓陳寮、謝榜寮道路。",
-        "ProNo": "c23b032b-1a17-41ab-bcd2-d9d67bf2e49b",
         "PagesAll": "79"
     }
 ]
