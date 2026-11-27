@@ -16,7 +16,7 @@
     "DoneDesc": "一、經第4屆第8次定期會第26次會（115年10月14日）審議通過（內容如大會決議表）。\r\n二、於同次會（115年10月14日）經復議討論通過（如大會復議後決議）。",
     "SendDate": "2026\/10\/20",
     "SendNumber": "南議財經字第 1150010207號",
-    "DoDesc": "臺南市政府115年10月22日府民人字第1151582468號函覆詳附件1。",
+    "DoDesc": "臺南市政府115年10月22日府民人字第1151582468號函覆詳附件1。\r\n臺南市政府115年11月20日府民生字第1151684206號函覆詳附件2。\r\n臺南市政府115年11月24日府秘總字第1150011322號函覆詳附件3。\r\n\r\n",
     "AttList": [
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=53f1c9f5-6695-4fce-a223-809703a72dcf",
@@ -38,6 +38,11 @@
         {
             "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=9bdb44f6-f45e-4ce1-80ad-dfaeb8fcaebe",
             "FileName": "2-民政局-殯葬基金南山公墓.pdf",
+            "ErrorMessage": ""
+        },
+        {
+            "DownloadURL": "https:\/\/bill.tncc.gov.tw\/NoPaperMeeting_TNCC\/Api\/WEB017_DownloadFile.ashx?attno=84c2066d-bd5f-4de1-8f3e-546afb7a60c4",
+            "FileName": "3.秘書處-市政中心辦公廳舍修建工程等經費動支.pdf",
             "ErrorMessage": ""
         }
     ],
@@ -70,6 +75,6 @@
     "ThirdDesc": "照二讀會意見通過。",
     "ExecuteReDate": "2026\/10\/22",
     "ExecuteReNumber": "府民人字第 1151582468號",
-    "ExecuteReMemo": "臺南市政府115年10月22日府民人字第1151582468號函覆詳附件1。",
+    "ExecuteReMemo": "臺南市政府115年10月22日府民人字第1151582468號函覆詳附件1。\r\n臺南市政府115年11月20日府民生字第1151684206號函覆詳附件2。\r\n臺南市政府115年11月24日府秘總字第1150011322號函覆詳附件3。\r\n\r\n",
     "ErrorMessage": ""
 }
